@@ -1,4 +1,5 @@
 import time
+import math
 
 def main():
 	mean_hg = 2.94
@@ -6,7 +7,7 @@ def main():
 	d = 0.00
 
 	sum_max = 8
-	n_iter = 10000
+	n_iter = 1000
 
 	p_hg = mean_hg / n_iter
 	p_ag = mean_ag / n_iter
@@ -104,6 +105,22 @@ def get_prob_dict(p_hg, p_ag, d):
 							"p_ng_1h": p_ng_1h,
 							"p_ng_1a": p_ng_1a}
 	return dict_p
+
+def poisson_pmf(k, lam):
+    f = lam**k * math.exp(-lam) / math.factorial(k)
+    return f
+
+def get_dict_p_poisson(sum_max, mean_hg, mean_ag):
+    dict_p_poisson = {}
+    for sum_g in range(sum_max + 1):
+        for hg in range(sum_g + 1):
+            ag = sum_g - hg
+            p_hg = poisson_pmf(hg, mean_hg)
+            p_ag = poisson_pmf(ag, mean_ag)
+            dict_p_poisson["{}-{}".format(hg,ag)] = {"hg": hg,
+                                                    "ag": ag,
+                                                    "P": p_hg * p_ag}
+    return dict_p_poisson
 
 def calc_sums(dict_n):
 	sum_P = 0
