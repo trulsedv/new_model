@@ -22,14 +22,24 @@ def main():
 	# print(sum_P)
 	# print(sum_nZP/sum_P)
 
+def get_mean_goals(rating_difference):
+	const_c = 650
+	const_d = 200
+	mean_hg = math.exp(1 / const_c * (rating_difference + const_d))
+	mean_ag = math.exp(1 / const_c * (-rating_difference + const_d))
+	return mean_hg, mean_ag
+
 def get_probabilities_of_results_at_n(n_iter, sum_max, dict_p):
 	beg = time.time()
+	t0 = 0
 	dict_nm1 = {}
 	for n in range(n_iter + 1):
 		dict_nm1 = probabilities_of_results_at_n(n, sum_max, dict_nm1, dict_p)
-		if n % (n_iter / 10) == 0 and n != 0:
-			print("Iteration {}, time {:.2f}".format(n, time.time() - beg), flush=True)
-	print("Done!")
+		t = time.time() - beg
+		if (n % (n_iter / 10) == 0 and n != 0) or t - t0 > 10:
+			t0 = t
+			print("Iteration {} of {}, time {:.2f}".format(n, n_iter, t), flush=True)
+	# print("Done!")
 	return dict_nm1
 
 def probabilities_of_results_at_n(n_iter, sum_max, dict_nm1, dict_p):
@@ -121,6 +131,19 @@ def get_dict_p_poisson(sum_max, mean_hg, mean_ag):
                                                     "ag": ag,
                                                     "P": p_hg * p_ag}
     return dict_p_poisson
+
+def get_difference(dict_n, dict_p_poisson):
+    avg0 = 0
+    diff0 = 0
+    n = len(dict_n.keys()) - 1
+    for key in dict_n.keys():
+        if key == "n":
+            continue
+        diff = abs(dict_n[key]["P"] - dict_p_poisson[key]["P"])
+        avg0 = avg0 + diff
+        if diff > diff0:
+            diff0 = diff
+    return avg0 / n, diff0
 
 def calc_sums(dict_n):
 	sum_P = 0
