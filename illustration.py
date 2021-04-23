@@ -1,20 +1,24 @@
 import operator
 import matplotlib.pyplot as plt
 
-inp = 4
+inp = 6
 max_iterations = inp
 max_sum_goals = 2
 max_goal_difference = inp
-ddy = 0.04
-ex = 0.09
-w = 1
-goal_differences = [[[{"n_above": 0, "n_below": 0, "n": 1}]]]
-points = [[{"home_goals": 0, "away_goals": 0, "x": 0, "y": 0, "p": 1}]]
-cmap = plt.get_cmap('viridis')
 
 pn = 0.90
 ph = 0.05
 pa = max(1 - pn - ph, 0)
+
+ddy = 0.046
+ex = 0.11
+w = 1
+
+cmap = plt.get_cmap('viridis')
+figname = "Figure_4"
+figsize = (16, 9)
+ylim = [-4.2, 4.2]
+xlim = [0, 7]
 
 def straight(point, i):
     diff = point["home_goals"] - point["away_goals"]
@@ -67,7 +71,9 @@ def down(point, i):
     plt.plot([x0, x1], [y0, y1], c=cmap(p**ex), linewidth = w)
     points[i + 1].append({"home_goals": point["home_goals"], "away_goals": point["away_goals"] + 1, "x": x1, "y": y1, "p": p})
 
-plt.figure(figsize=(16, 9))
+goal_differences = [[[{"n_above": 0, "n_below": 0, "n": 1}]]]
+points = [[{"home_goals": 0, "away_goals": 0, "x": 0, "y": 0, "p": 1}]]
+plt.figure(figsize=figsize)
 for i in range(max_iterations + 1):
     points.append(int(3**(i + 1)) * [])
     j = min(i, max_sum_goals)
@@ -86,6 +92,7 @@ for i in range(max_iterations + 1):
         if -goal_difference + 1 <= max_goal_difference and sum_goals + 1 <= max_sum_goals  and i < max_iterations:
             down(point, i)
     points[i + 1] = sorted(points[i + 1], key=operator.itemgetter('y'), reverse=True)
-plt.ylim([-4.2, 4.2])
-plt.savefig("Figure_3")
+plt.ylim(ylim)
+plt.xlim(xlim)
+plt.savefig(figname)
 plt.show()
