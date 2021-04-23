@@ -3,22 +3,22 @@ import matplotlib.pyplot as plt
 
 inp = 6
 max_iterations = inp
-max_sum_goals = 2
+max_sum_goals = 4
 max_goal_difference = inp
 
 pn = 0.90
 ph = 0.05
 pa = max(1 - pn - ph, 0)
 
-ddy = 0.046
+ddy = 0.046 * 0.2
 ex = 0.11
-w = 1
+w = 0.2
 
 cmap = plt.get_cmap('viridis')
-figname = "Figure_4"
+figname = "Figure_5"
 figsize = (16, 9)
 ylim = [-4.2, 4.2]
-xlim = [0, 7]
+xlim = [0, inp+1]
 
 def straight(point, i):
     diff = point["home_goals"] - point["away_goals"]
@@ -95,4 +95,5 @@ for i in range(max_iterations + 1):
 plt.ylim(ylim)
 plt.xlim(xlim)
 plt.savefig(figname)
+plt.savefig(figname+".pdf", format="pdf")
 plt.show()
