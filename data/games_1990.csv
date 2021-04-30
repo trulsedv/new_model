@@ -1,0 +1,506 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 12 1990,Friendly tournament in France,Algeria,Mali,1666,1456,5,0,14,-14,1680,1442,31,88,3,-5,34,83,30,0,210
+1,Jan 17 1990,Friendly in Greece,Greece,Belgium,1660,1852,2,0,19,-19,1679,1833,31,17,4,0,35,17,20,100,-92
+2,Jan 17 1990,Friendly in the United States,Mexico,Argentina,1907,1801,2,0,11,-11,1918,1790,10,21,0,-1,10,20,20,0,106
+3,Jan 20 1990,SADCC Tournament in Swaziland,Malawi,Tanzania,1462,1208,2,2,-9,9,1453,1217,80,134,-2,1,78,135,30,0,254
+4,Jan 20 1990,SADCC Tournament in Swaziland,Swaziland,Botswana,1153,1090,3,1,13,-13,1166,1077,142,162,2,-2,144,160,30,100,163
+5,Jan 21 1990,SADCC Tournament in Swaziland,Botswana,Malawi,1077,1453,2,2,12,-12,1089,1441,156,88,2,-5,158,83,30,0,-376
+6,Jan 21 1990,Friendly tournament in Kuwait,Kuwait,France,1515,1864,0,1,-6,6,1509,1870,69,16,-1,0,68,16,30,100,-249
+7,Jan 21 1990,SADCC Tournament in Swaziland,Swaziland,Tanzania,1166,1217,0,1,-17,17,1149,1234,150,119,-3,8,147,127,30,100,49
+8,Jan 23 1990,SADCC Tournament in Swaziland,Botswana,Tanzania,1089,1234,0,0,6,-6,1095,1228,156,131,1,-2,157,129,30,0,-145
+9,Jan 23 1990,SADCC Tournament in Swaziland,Swaziland,Malawi,1149,1441,0,0,8,-8,1157,1433,145,83,1,0,146,83,30,100,-192
+10,Jan 24 1990,Friendly tournament in Kuwait,France,East Germany,1870,1739,3,0,17,-17,1887,1722,12,31,2,-2,14,29,30,0,131
+11,Jan 24 1990,CEDEAO Cup in Nigeria,Senegal,Liberia,1559,1426,1,0,13,-13,1572,1413,48,96,4,-5,52,91,40,0,133
+12,Jan 25 1990,CEDEAO Cup in Nigeria,Nigeria,Ivory Coast,1609,1676,2,0,27,-27,1636,1649,39,41,4,-2,43,39,30,0,-67
+13,Jan 26 1990,Friendly tournament in Kuwait,Kuwait,East Germany,1509,1722,1,2,-10,10,1499,1732,68,29,0,0,68,29,30,100,-113
+14,Jan 27 1990,CEDEAO Cup in Nigeria,Ivory Coast,Liberia,1649,1413,1,0,8,-8,1657,1405,39,97,0,-3,39,94,40,0,236
+15,Jan 28 1990,CEDEAO Cup in Nigeria,Nigeria,Senegal,1636,1572,0,0,-9,9,1627,1581,47,50,-2,1,45,51,40,100,164
+16,Jan 28 1990,Friendly in the United Arab Emirates,United Arab Emirates,Egypt,1529,1712,1,2,-8,8,1521,1720,65,28,-1,2,64,30,20,100,-83
+17,Jan 29 1990,King's Cup in Thailand,Thailand,Kenya,1219,1451,2,1,20,-20,1239,1431,117,89,8,-5,125,84,30,100,-132
+18,Jan 31 1990,Friendly in the United Arab Emirates,United Arab Emirates,Egypt,1521,1720,1,0,13,-13,1534,1707,60,34,2,-2,62,32,20,100,-99
+19,Feb 2 1990,Friendly in Iran,Iran,Poland,1580,1791,0,2,-10,10,1570,1801,52,19,0,0,52,19,20,100,-111
+20,Feb 2 1990,King's Cup in Thailand,Kenya,Indonesia,1431,1212,3,2,7,-7,1438,1205,80,138,2,-1,82,137,30,0,219
+21,Feb 2 1990,Friendly tournament in the United States,Uruguay,Colombia,1873,1822,2,0,19,-19,1892,1803,8,18,4,0,12,18,30,0,51
+22,Feb 2 1990,Friendly tournament in the United States,United States,Costa Rica,1612,1613,0,2,-29,29,1583,1642,53,36,-3,5,50,41,30,100,99
+23,Feb 4 1990,Friendly in Algeria,Algeria,Romania,1680,1890,0,0,3,-3,1683,1887,34,15,0,-1,34,14,20,100,-110
+24,Feb 4 1990,Friendly in Iran,Iran,Poland,1570,1801,0,1,-6,6,1564,1807,60,17,-4,1,56,18,20,100,-131
+25,Feb 4 1990,Friendly tournament in Malta,Norway,South Korea,1661,1745,3,2,19,-19,1680,1726,32,33,3,-4,35,29,30,0,-84
+26,Feb 4 1990,Friendly tournament in the United States,Uruguay,Costa Rica,1892,1642,2,0,9,-9,1901,1633,12,47,0,-3,12,44,30,0,250
+27,Feb 4 1990,Friendly tournament in the United States,United States,Colombia,1583,1803,1,1,5,-5,1588,1798,48,20,1,-1,49,19,30,100,-120
+28,Feb 5 1990,King's Cup in Thailand,Thailand,Indonesia,1239,1205,1,1,-6,6,1233,1211,131,135,-3,1,128,136,30,100,134
+29,Feb 5 1990,Friendly in the United Arab Emirates,United Arab Emirates,Denmark,1534,1906,1,1,7,-7,1541,1899,60,13,1,-1,61,12,20,100,-272
+30,Feb 7 1990,Friendly tournament in Malta,Malta,Norway,1379,1680,1,1,8,-8,1387,1672,95,41,1,-3,96,38,30,100,-201
+31,Feb 9 1990,Friendly in Malta,South Korea,Norway,1726,1672,3,0,15,-15,1741,1657,21,38,4,0,25,38,20,0,54
+32,Feb 10 1990,Friendly tournament in Malta,Malta,South Korea,1387,1741,1,2,-6,6,1381,1747,98,25,-1,0,97,25,30,100,-254
+33,Feb 10 1990,Friendly in Uganda,Uganda,Mauritius,1534,1236,4,1,3,-3,1537,1233,63,128,0,-1,63,127,20,100,398
+34,Feb 11 1990,Friendly in Egypt,Kuwait,Poland,1499,1807,1,1,7,-7,1506,1800,68,18,0,0,68,18,20,0,-308
+35,Feb 11 1990,Friendly in Togo,Togo,Cameroon,1384,1704,1,1,6,-6,1390,1698,96,33,0,0,96,33,20,100,-220
+36,Feb 12 1990,Friendly in the United Arab Emirates,United Arab Emirates,Finland,1541,1608,1,1,-1,1,1540,1609,63,47,-1,0,62,47,20,100,33
+37,Feb 13 1990,Friendly in Bermuda,Bermuda,United States,1350,1588,0,1,-6,6,1344,1594,106,47,-1,1,105,48,20,100,-138
+38,Feb 14 1990,Friendly in Egypt,Egypt,Denmark,1707,1899,0,0,3,-3,1710,1896,32,12,0,0,32,12,20,100,-92
+39,Feb 14 1990,Friendly in the United Arab Emirates,United Arab Emirates,Sweden,1540,1958,2,1,17,-17,1557,1941,52,9,5,-2,57,7,20,100,-318
+40,Feb 15 1990,Friendly in Egypt,Finland,Kuwait,1609,1506,1,0,7,-7,1616,1499,47,68,0,0,47,68,20,0,103
+41,Feb 15 1990,Friendly in Iraq,Iraq,South Korea,1640,1747,0,0,0,0,1640,1747,42,25,0,0,42,25,20,100,-7
+42,Feb 17 1990,Friendly in the United Arab Emirates,United Arab Emirates,Sweden,1557,1941,0,2,-5,5,1552,1946,61,5,-2,1,59,6,20,100,-284
+43,Feb 18 1990,Friendly in Egypt,Egypt,South Korea,1710,1747,0,0,-2,2,1708,1749,32,25,0,0,32,25,20,100,63
+44,Feb 20 1990,Friendly tournament in the United States,Colombia,Soviet Union,1798,1954,0,0,6,-6,1804,1948,17,5,1,0,18,5,30,0,-156
+45,Feb 21 1990,Friendly in Belgium,Belgium,Sweden,1833,1946,0,0,0,0,1833,1946,17,6,0,0,17,6,20,100,-13
+46,Feb 21 1990,Friendly in The Gambia,Gambia,Guinea-Bissau,1257,1326,0,1,-11,11,1246,1337,125,108,-3,0,122,108,20,100,31
+47,Feb 21 1990,Gulf Cup in Kuwait,Kuwait,Bahrain,1499,1374,1,0,9,-9,1508,1365,68,100,0,-1,68,99,40,100,225
+48,Feb 21 1990,Friendly in Morocco,Morocco,Ivory Coast,1591,1657,2,1,9,-9,1600,1648,47,40,1,-1,48,39,20,100,34
+49,Feb 21 1990,Friendly in the Netherlands,Netherlands,Italy,2047,1962,0,0,-5,5,2042,1967,1,4,0,0,1,4,20,100,185
+50,Feb 21 1990,Friendly in Spain,Spain,Czechoslovakia,1924,1889,1,0,6,-6,1930,1883,8,19,0,-3,8,16,20,100,135
+51,Feb 22 1990,Gulf Cup in Kuwait,Oman,United Arab Emirates,1046,1552,1,1,18,-18,1064,1534,159,67,2,-4,161,63,40,0,-506
+52,Feb 22 1990,Friendly tournament in the United States,Soviet Union,Costa Rica,1948,1633,2,1,4,-4,1952,1629,5,46,0,-1,5,45,30,0,315
+53,Feb 23 1990,Gulf Cup in Kuwait,Bahrain,Qatar,1365,1495,0,0,7,-7,1372,1488,97,69,1,0,98,69,40,0,-130
+54,Feb 24 1990,Gulf Cup in Kuwait,Kuwait,Oman,1508,1064,1,1,-18,18,1490,1082,68,157,0,2,68,159,40,100,544
+55,Feb 24 1990,Friendly in the United States,United States,Soviet Union,1594,1952,1,3,-6,6,1588,1958,49,5,0,0,49,5,20,100,-258
+56,Feb 26 1990,Gulf Cup in Kuwait,Iraq,Bahrain,1640,1372,1,0,7,-7,1647,1365,40,100,1,-1,41,99,40,0,268
+57,Feb 27 1990,Gulf Cup in Kuwait,Qatar,United Arab Emirates,1488,1534,0,0,3,-3,1491,1531,67,63,1,0,68,63,40,0,-46
+58,Feb 28 1990,Gulf Cup in Kuwait,Bahrain,Oman,1365,1082,0,0,-13,13,1352,1095,103,155,-2,2,101,157,40,0,283
+59,Feb 28 1990,Friendly in Egypt,Egypt,Austria,1708,1720,0,0,-2,2,1706,1722,32,30,0,0,32,30,20,100,88
+60,Feb 28 1990,Friendly in France,France,West Germany,1887,1999,2,1,10,-10,1897,1989,11,3,1,0,12,3,20,100,-12
+61,Feb 28 1990,Gulf Cup in Kuwait,Kuwait,Iraq,1490,1647,1,1,3,-3,1493,1644,67,41,1,0,68,41,40,100,-57
+62,Mar 2 1990,African Nations Cup in Algeria,Algeria,Nigeria,1683,1627,5,1,27,-27,1710,1600,30,48,2,-1,32,47,50,100,156
+63,Mar 2 1990,African Nations Cup in Algeria,Ivory Coast,Egypt,1648,1706,3,1,44,-44,1692,1662,29,44,5,-6,34,38,50,0,-58
+64,Mar 3 1990,Gulf Cup in Kuwait,Iraq,United Arab Emirates,1644,1531,2,2,-6,6,1638,1537,43,63,-1,0,42,63,40,0,113
+65,Mar 3 1990,African Nations Cup in Algeria,Kenya,Senegal,1438,1581,0,0,10,-10,1448,1571,80,51,1,0,81,51,50,0,-143
+66,Mar 3 1990,African Nations Cup in Algeria,Zambia,Cameroon,1515,1698,1,0,37,-37,1552,1661,51,43,8,-5,59,38,50,0,-183
+67,Mar 4 1990,Gulf Cup in Kuwait,Qatar,Oman,1491,1095,4,2,6,-6,1497,1089,67,161,1,-2,68,159,40,0,396
+68,Mar 5 1990,African Nations Cup in Algeria,Algeria,Ivory Coast,1710,1692,3,0,29,-29,1739,1663,22,39,5,-3,27,36,50,100,118
+69,Mar 5 1990,Gulf Cup in Kuwait,Bahrain,United Arab Emirates,1352,1537,1,0,30,-30,1382,1507,93,71,4,-4,97,67,40,0,-185
+70,Mar 5 1990,African Nations Cup in Algeria,Nigeria,Egypt,1600,1662,1,0,29,-29,1629,1633,43,49,2,-6,45,43,50,0,-62
+71,Mar 6 1990,SADCC Tournament in Mozambique,Mozambique,Angola,1351,1456,2,1,15,-15,1366,1441,97,85,3,-4,100,81,30,100,-5
+72,Mar 6 1990,African Nations Cup in Algeria,Senegal,Cameroon,1571,1661,2,0,47,-47,1618,1614,41,59,5,-11,46,48,50,0,-90
+73,Mar 6 1990,African Nations Cup in Algeria,Zambia,Kenya,1552,1448,1,0,18,-18,1570,1430,45,87,7,-3,52,84,50,0,104
+74,Mar 7 1990,Gulf Cup in Kuwait,Kuwait,Qatar,1493,1497,2,0,22,-22,1515,1475,65,78,2,-5,67,73,40,100,96
+75,Mar 7 1990,SADCC Tournament in Mozambique,Zimbabwe,Lesotho,1473,1163,4,1,8,-8,1481,1155,66,148,4,-2,70,146,30,0,310
+76,Mar 8 1990,African Nations Cup in Algeria,Algeria,Egypt,1739,1633,2,0,18,-18,1757,1615,23,52,2,-5,25,47,50,100,206
+77,Mar 8 1990,African Nations Cup in Algeria,Nigeria,Ivory Coast,1629,1663,1,0,27,-27,1656,1636,30,46,7,-5,37,41,50,0,-34
+78,Mar 8 1990,SADCC Tournament in Mozambique,Zimbabwe,Angola,1481,1441,2,0,20,-20,1501,1421,68,95,1,-7,69,88,30,0,40
+79,Mar 9 1990,African Nations Cup in Algeria,Cameroon,Kenya,1614,1430,2,0,19,-19,1633,1411,38,97,5,-7,43,90,50,0,184
+80,Mar 9 1990,Gulf Cup in Kuwait,Kuwait,United Arab Emirates,1515,1507,6,1,28,-28,1543,1479,57,72,5,-2,62,70,40,100,108
+81,Mar 9 1990,African Nations Cup in Algeria,Senegal,Zambia,1618,1570,0,0,-3,3,1615,1573,49,52,-2,0,47,52,40,0,48
+82,Mar 10 1990,SADCC Tournament in Mozambique,Angola,Lesotho,1421,1155,3,1,8,-8,1429,1147,79,150,4,-2,83,148,30,0,266
+83,Mar 10 1990,SADCC Tournament in Mozambique,Mozambique,Zimbabwe,1366,1501,3,1,25,-25,1391,1476,92,74,4,-3,96,71,30,100,-35
+84,Mar 10 1990,Friendly in the United States,United States,Finland,1588,1616,2,1,8,-8,1596,1608,50,50,0,-2,50,48,20,100,72
+85,Mar 11 1990,SADCC Tournament in Mozambique,Mozambique,Lesotho,1391,1147,3,0,6,-6,1397,1141,96,148,0,0,96,148,30,100,344
+86,Mar 12 1990,African Nations Cup in Algeria,Algeria,Senegal,1757,1615,2,1,10,-10,1767,1605,23,50,1,-2,24,48,50,100,242
+87,Mar 12 1990,African Nations Cup in Algeria,Nigeria,Zambia,1656,1573,2,0,29,-29,1685,1544,29,70,4,-9,33,61,50,0,83
+88,Mar 15 1990,African Nations Cup in Algeria,Zambia,Senegal,1544,1605,1,0,29,-29,1573,1576,43,54,9,-3,52,51,50,0,-61
+89,Mar 16 1990,African Nations Cup in Algeria,Algeria,Nigeria,1767,1685,1,0,13,-13,1780,1672,20,39,2,-3,22,36,50,100,182
+90,Mar 16 1990,Friendly tournament in Jamaica,Jamaica,Barbados,1234,1237,0,1,-19,19,1215,1256,144,113,-9,6,135,119,30,100,97
+91,Mar 18 1990,Friendly tournament in Jamaica,Jamaica,Barbados,1215,1256,1,0,12,-12,1227,1244,125,129,5,-5,130,124,30,100,59
+92,Mar 20 1990,Friendly in Hungary,Hungary,United States,1736,1596,2,0,6,-6,1742,1590,26,49,1,0,27,49,20,100,240
+93,Mar 20 1990,Friendly in the United States,Mexico,Uruguay,1918,1901,2,1,10,-10,1928,1891,8,15,1,-2,9,13,20,0,17
+94,Mar 23 1990,Friendly in Namibia,Namibia,Zimbabwe,1195,1476,1,5,-10,10,1185,1486,141,67,-1,2,140,69,20,100,-181
+95,Mar 24 1990,Caribbean Championship qual in Saint Martin,Cayman Islands,Sint Maarten,1079,853,1,1,-11,11,1068,864,163,182,-1,2,162,184,30,100,326
+96,Mar 24 1990,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1219,1253,3,1,12,-12,1231,1241,124,127,5,-3,129,124,20,100,66
+97,Mar 24 1990,Caribbean Championship qual in Saint Martin,Saint Martin,British Virgin Islands,1015,925,3,0,18,-18,1033,907,163,180,2,-2,165,178,40,100,190
+98,Mar 26 1990,Caribbean Championship qual in Anguilla,Anguilla,Saint Martin,593,1033,0,4,-9,9,584,1042,199,165,0,0,199,165,40,100,-340
+99,Mar 26 1990,Caribbean Championship qual in Anguilla,Cayman Islands,Aruba,1068,1135,2,1,24,-24,1092,1111,156,159,3,-4,159,155,40,0,-67
+100,Mar 27 1990,Friendly in Northern Ireland,Northern Ireland,Norway,1642,1657,2,3,-12,12,1630,1669,49,37,-5,0,44,37,20,100,85
+101,Mar 28 1990,Caribbean Championship qual in Saint Martin,Aruba,Sint Maarten,1111,864,2,2,-12,12,1099,876,157,182,-1,1,156,183,40,0,247
+102,Mar 28 1990,Caribbean Championship qual in Saint Martin,British Virgin Islands,Anguilla,907,584,6,0,11,-11,918,573,176,199,1,0,177,199,40,0,323
+103,Mar 28 1990,Friendly in East Germany,East Germany,United States,1732,1590,3,2,4,-4,1736,1586,28,49,1,0,29,49,20,100,242
+104,Mar 28 1990,Friendly in Egypt,Egypt,Romania,1615,1887,1,3,-8,8,1607,1895,48,12,-1,1,47,13,20,100,-172
+105,Mar 28 1990,Friendly in England,England,Brazil,1943,2007,1,0,9,-9,1952,1998,5,2,1,0,6,2,20,100,36
+106,Mar 28 1990,Friendly in Greece,Greece,Israel,1679,1634,2,1,6,-6,1685,1628,33,49,0,-4,33,45,20,100,145
+107,Mar 28 1990,Friendly in Hungary,Hungary,France,1742,1897,1,3,-13,13,1729,1910,33,11,-3,0,30,11,20,100,-55
+108,Mar 28 1990,Friendly in Ireland,Ireland,Wales,1887,1733,1,0,4,-4,1891,1729,14,31,0,-1,14,30,20,100,254
+109,Mar 28 1990,Friendly in Luxembourg,Luxembourg,Iceland,1174,1546,1,2,-3,3,1171,1549,144,60,-1,0,143,60,20,100,-272
+110,Mar 28 1990,Friendly in Poland,Poland,Yugoslavia,1800,1921,0,0,1,-1,1801,1920,19,8,0,1,19,9,20,100,-21
+111,Mar 28 1990,Friendly in Scotland,Scotland,Argentina,1766,1790,1,0,8,-8,1774,1782,25,20,0,0,25,20,20,100,76
+112,Mar 28 1990,Friendly in Spain,Spain,Austria,1930,1722,2,3,-17,17,1913,1739,12,25,-2,3,10,28,20,100,308
+113,Mar 28 1990,Friendly in the Soviet Union,Soviet Union,Netherlands,1958,2042,2,1,10,-10,1968,2032,3,1,1,0,4,1,20,100,16
+114,Mar 30 1990,Caribbean Championship qual in Saint Martin,Saint Martin,Cayman Islands,1042,1092,5,1,32,-32,1074,1060,159,167,3,-4,162,163,30,0,-50
+115,Mar 31 1990,Friendly in Switzerland,Switzerland,Italy,1673,1967,0,1,-5,5,1668,1972,39,3,-2,1,37,4,20,100,-194
+116,Apr 1 1990,Caribbean Championship qual in Saint Martin,Saint Martin,Cayman Islands,1074,1060,3,2,14,-14,1088,1046,160,167,1,-2,161,165,30,0,14
+117,Apr 1 1990,SADCC Tournament in Zambia,Swaziland,Zimbabwe,1157,1486,4,4,11,-11,1168,1475,143,75,1,-3,144,72,30,0,-329
+118,Apr 1 1990,SADCC Tournament in Zambia,Zambia,Tanzania,1573,1228,2,0,3,-3,1576,1225,50,134,1,-2,51,132,30,100,445
+119,Apr 3 1990,Friendly in Bermuda,Bermuda,Iceland,1344,1549,0,4,-13,13,1331,1562,111,56,-3,2,108,58,20,100,-105
+120,Apr 3 1990,Friendly in Switzerland,Switzerland,Romania,1668,1895,2,1,14,-14,1682,1881,31,19,3,-3,34,16,20,100,-127
+121,Apr 4 1990,Friendly in Czechoslovakia,Czechoslovakia,Egypt,1883,1607,0,1,-18,18,1865,1625,17,45,-1,1,16,46,20,100,376
+122,Apr 8 1990,Friendly in the United States,United States,Iceland,1586,1562,4,1,12,-12,1598,1550,49,62,0,-2,49,60,20,100,124
+123,Apr 11 1990,Friendly in Algeria,Algeria,Sweden,1780,1946,1,1,2,-2,1782,1944,18,7,2,0,20,7,20,100,-66
+124,Apr 11 1990,Friendly in Austria,Austria,Hungary,1739,1729,3,0,12,-12,1751,1717,24,34,2,-2,26,32,20,100,110
+125,Apr 11 1990,Friendly in Denmark,Denmark,Turkey,1896,1648,1,0,2,-2,1898,1646,12,38,0,0,12,38,20,100,348
+126,Apr 11 1990,Friendly in East Germany,East Germany,Egypt,1736,1625,2,0,7,-7,1743,1618,27,46,1,0,28,46,20,100,211
+127,Apr 14 1990,Caribbean Championship qual in Bermuda,Bermuda,Antigua and Barbuda,1331,1241,2,2,-10,10,1321,1251,108,118,0,3,108,121,40,100,190
+128,Apr 15 1990,Caribbean Championship qual in Barbados,Barbados,Saint Lucia,1244,1245,1,0,14,-14,1258,1231,114,133,5,-5,119,128,40,100,99
+129,Apr 16 1990,Caribbean Championship qual in Bermuda,Bermuda,Antigua and Barbuda,1321,1251,3,0,19,-19,1340,1232,104,130,2,-4,106,126,40,100,170
+130,Apr 17 1990,Caribbean Championship qual in Grenada,Grenada,Netherlands Antilles,1347,1352,1,1,-5,5,1342,1357,106,101,-1,1,105,102,40,100,95
+131,Apr 17 1990,Friendly in the United States,Mexico,Colombia,1928,1804,2,0,10,-10,1938,1794,8,20,0,-1,8,19,20,0,124
+132,Apr 22 1990,Caribbean Championship qual in Martinique,Martinique,French Guiana,1432,1262,4,0,13,-13,1445,1249,78,124,2,-3,80,121,40,100,270
+133,Apr 22 1990,Caribbean Championship qual in St Vincent & Grenadines,St Vincent & Grenadines,Dominica,1369,1160,2,1,6,-6,1375,1154,100,145,0,0,100,145,40,100,309
+134,Apr 22 1990,Friendly in the United States,United States,Colombia,1598,1794,0,1,-7,7,1591,1801,49,17,0,1,49,18,20,100,-96
+135,Apr 25 1990,Friendly in England,England,Czechoslovakia,1952,1865,4,2,8,-8,1960,1857,4,16,1,0,5,16,20,100,187
+136,Apr 25 1990,Friendly in Ireland,Ireland,Soviet Union,1891,1968,1,0,9,-9,1900,1959,11,7,1,-1,12,6,20,100,23
+137,Apr 25 1990,Friendly in Israel,Israel,Romania,1628,1881,1,4,-10,10,1618,1891,45,15,0,0,45,15,20,100,-153
+138,Apr 25 1990,Friendly in Scotland,Scotland,East Germany,1774,1743,0,1,-14,14,1760,1757,25,24,0,2,25,26,20,100,131
+139,Apr 25 1990,Friendly in Sweden,Sweden,Wales,1944,1729,4,2,4,-4,1948,1725,7,30,0,0,7,30,20,100,315
+140,Apr 25 1990,Friendly in West Germany,West Germany,Uruguay,1989,1891,3,3,-5,5,1984,1896,3,15,0,-1,3,14,20,100,198
+141,Apr 29 1990,Caribbean Championship qual in Barbados,Barbados,Antigua and Barbuda,1258,1232,1,0,13,-13,1271,1219,110,140,4,-7,114,133,40,100,126
+142,Apr 29 1990,Caribbean Championship qual in Jamaica,Jamaica,Saint Kitts and Nevis,1227,1231,3,0,26,-26,1253,1205,112,146,9,-9,121,137,40,100,96
+143,Apr 29 1990,Black Stars Tournament in France,Martinique,Gabon,1445,1450,2,0,23,-23,1468,1427,70,89,5,-5,75,84,30,0,-5
+144,Apr 29 1990,Caribbean Championship qual in Suriname,Suriname,Guyana,1410,1241,5,0,14,-14,1424,1227,78,133,7,-5,85,128,40,100,269
+145,May 1 1990,Black Stars Tournament in France,Guadeloupe,Martinique,1423,1468,1,0,17,-17,1440,1451,76,81,5,-3,81,78,30,0,-45
+146,May 3 1990,Friendly in Austria,Austria,Argentina,1751,1782,1,1,-2,2,1749,1784,27,20,0,0,27,20,20,100,69
+147,May 4 1990,Friendly tournament in the United States,Colombia,Poland,1801,1801,2,1,15,-15,1816,1786,18,20,0,-1,18,19,30,0,0
+148,May 5 1990,Friendly in Brazil,Brazil,Bulgaria,1998,1720,2,1,2,-2,2000,1718,2,31,0,0,2,31,20,100,378
+149,May 5 1990,Friendly in the United States,United States,Malta,1591,1381,1,0,3,-3,1594,1378,49,100,0,0,49,100,20,100,310
+150,May 6 1990,North American Champ in Canada,Canada,United States,1553,1594,1,0,21,-21,1574,1573,45,57,7,-4,52,53,50,100,59
+151,May 6 1990,Friendly in the Cayman Islands,Cayman Islands,Jamaica,1046,1253,1,2,-7,7,1039,1260,166,118,0,2,166,120,20,100,-107
+152,May 6 1990,Friendly tournament in the United States,Poland,Costa Rica,1786,1629,2,0,13,-13,1799,1616,19,48,0,-2,19,46,30,0,157
+153,May 6 1990,Caribbean Championship qual in Saint Martin,Saint Martin,Guadeloupe,1088,1440,2,1,32,-32,1120,1408,146,105,8,-12,154,93,40,100,-252
+154,May 8 1990,Friendly in Switzerland,Switzerland,Argentina,1682,1784,1,1,0,0,1682,1784,34,20,0,0,34,20,20,100,-2
+155,May 9 1990,Friendly in Morocco,Morocco,United Arab Emirates,1600,1479,3,1,7,-7,1607,1472,48,79,0,-5,48,74,20,100,221
+156,May 9 1990,Friendly in the United States,United States,Poland,1573,1799,3,1,20,-20,1593,1779,45,25,4,-3,49,22,20,100,-126
+157,May 10 1990,North American Champ in Canada,Mexico,United States,1938,1593,1,0,6,-6,1944,1587,8,49,0,0,8,49,50,0,345
+158,May 12 1990,Caribbean Championship qual in Dominica,Dominica,French Guiana,1154,1249,1,1,0,0,1154,1249,146,123,0,0,146,123,20,100,5
+159,May 13 1990,Friendly in Brazil,Brazil,East Germany,2000,1757,3,3,-8,8,1992,1765,2,24,0,1,2,25,20,100,343
+160,May 13 1990,North American Champ in Canada,Canada,Mexico,1574,1944,2,1,41,-41,1615,1903,41,14,6,-3,47,11,50,100,-270
+161,May 13 1990,Caribbean Championship qual in Saint Lucia,Saint Lucia,Bermuda,1231,1340,0,2,-29,29,1202,1369,148,97,-10,5,138,102,40,100,-9
+162,May 13 1990,Caribbean Championship qual in St Vincent & Grenadines,St Vincent & Grenadines,Martinique,1375,1451,1,0,19,-19,1394,1432,95,84,3,-3,98,81,40,100,24
+163,May 15 1990,Friendly in England,England,Denmark,1960,1898,1,0,6,-6,1966,1892,5,15,0,-1,5,14,20,100,162
+164,May 15 1990,Caribbean Championship qual in Guyana,Grenada,Suriname,1342,1424,3,1,37,-37,1379,1387,95,113,6,-14,101,99,40,0,-82
+165,May 16 1990,Friendly in Ireland,Ireland,Finland,1900,1608,1,1,-8,8,1892,1616,14,44,-1,2,13,46,20,100,392
+166,May 16 1990,Friendly in Israel,Israel,Soviet Union,1618,1959,3,2,16,-16,1634,1943,40,8,2,-1,42,7,20,100,-241
+167,May 16 1990,Friendly in Scotland,Scotland,Egypt,1760,1618,1,3,-24,24,1736,1642,32,34,-3,5,29,39,20,100,242
+168,May 17 1990,Friendly in Barbados,Barbados,Suriname,1271,1387,5,0,21,-21,1292,1366,111,107,2,-4,113,103,20,100,-16
+169,May 18 1990,African Nations Cup qualifier in Mauritania,Mauritania,Gambia,1052,1246,2,0,38,-38,1090,1208,160,146,2,-11,162,135,40,100,-94
+170,May 18 1990,Friendly tournament in Northern Ireland,Northern Ireland,Uruguay,1630,1896,1,0,22,-22,1652,1874,31,18,7,-3,38,15,30,100,-166
+171,May 19 1990,Friendly in Scotland,Scotland,Poland,1736,1779,1,1,-2,2,1734,1781,29,20,0,1,29,21,20,100,57
+172,May 19 1990,Caribbean Championship qual in Saint Kitts and Nevis,Saint Kitts and Nevis,Guadeloupe,1205,1408,2,0,39,-39,1244,1369,111,110,13,-9,124,101,40,100,-103
+173,May 20 1990,Caribbean Championship qual in Guyana,Guyana,Netherlands Antilles,1227,1357,1,1,2,-2,1229,1355,128,105,0,0,128,105,40,100,-30
+174,May 20 1990,Caribbean Championship qual in Jamaica,Jamaica,Saint Martin,1260,1120,1,0,8,-8,1268,1112,120,158,0,-2,120,156,40,100,240
+175,May 20 1990,Friendly in Wales,Wales,Costa Rica,1725,1616,1,0,5,-5,1730,1611,30,50,0,-2,30,48,20,100,209
+176,May 21 1990,Friendly in France,Poland,United Arab Emirates,1781,1472,4,0,5,-5,1786,1467,17,74,2,0,19,74,20,0,309
+177,May 21 1990,Friendly in Romania,Romania,Egypt,1891,1642,1,0,2,-2,1893,1640,10,40,2,0,12,40,20,100,349
+178,May 22 1990,Friendly in England,England,Uruguay,1966,1874,1,2,-15,15,1951,1889,5,15,0,0,5,15,20,100,192
+179,May 22 1990,Friendly in Israel,Israel,Argentina,1634,1784,1,2,-9,9,1625,1793,47,18,-2,1,45,19,20,100,-50
+180,May 23 1990,Caribbean Championship qual in French Guiana,French Guiana,St Vincent & Grenadines,1249,1394,2,2,3,-3,1252,1391,123,96,0,0,123,96,40,100,-45
+181,May 26 1990,Friendly in Belgium,Belgium,Romania,1833,1893,2,2,-1,1,1832,1894,17,12,0,0,17,12,20,100,40
+182,May 26 1990,Caribbean Championship qual in Bermuda,Bermuda,Barbados,1369,1292,1,1,-9,9,1360,1301,107,113,-3,0,104,113,40,100,177
+183,May 26 1990,Friendly in Egypt,Egypt,Colombia,1640,1816,1,1,2,-2,1642,1814,40,18,0,0,40,18,20,100,-76
+184,May 26 1990,Friendly in The Gambia,Gambia,Burkina Faso,1208,1411,0,0,3,-3,1211,1408,134,92,1,-1,135,91,20,100,-103
+185,May 26 1990,Friendly in West Germany,West Germany,Czechoslovakia,1984,1857,1,0,4,-4,1988,1853,3,16,0,0,3,16,20,100,227
+186,May 26 1990,Friendly in Yugoslavia,Yugoslavia,Spain,1920,1913,0,1,-13,13,1907,1926,12,7,-2,1,10,8,20,100,107
+187,May 27 1990,Caribbean Championship qual in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1219,1202,0,2,-40,40,1179,1242,151,114,-9,12,142,126,40,100,117
+188,May 27 1990,Friendly in Georgia,Georgia,Lithuania,1623,1136,2,2,-9,9,1614,1145,47,150,0,0,47,150,20,0,487
+189,May 27 1990,Caribbean Championship qual in Guyana,Guyana,Grenada,1229,1379,0,0,3,-3,1232,1376,130,103,-1,-2,129,101,40,100,-50
+190,May 27 1990,Caribbean Championship qual in the Netherlands Antilles,Netherlands Antilles,Suriname,1355,1366,1,1,-5,5,1350,1371,109,102,-2,0,107,102,40,100,89
+191,May 27 1990,Friendly in Sweden,Sweden,Finland,1948,1616,6,0,3,-3,1951,1613,4,50,1,-2,5,48,20,100,432
+192,May 27 1990,Friendly in Turkey,Turkey,Ireland,1646,1892,0,0,4,-4,1650,1888,39,17,0,-2,39,15,20,100,-146
+193,May 28 1990,Friendly in France,Hungary,United Arab Emirates,1717,1467,3,0,7,-7,1724,1460,30,79,1,-2,31,77,20,0,250
+194,May 28 1990,Friendly in Malta,Malta,Scotland,1378,1734,1,2,-4,4,1374,1738,102,29,-1,0,101,29,20,100,-256
+195,May 29 1990,Friendly in Bermuda,Bermuda,Barbados,1360,1301,3,0,10,-10,1370,1291,101,114,2,0,103,114,20,100,159
+196,May 30 1990,Friendly in Austria,Austria,Netherlands,1749,2032,3,2,15,-15,1764,2017,26,1,0,0,26,1,20,100,-183
+197,May 30 1990,Friendly in Burkina Faso,Burkina Faso,Ghana,1408,1476,1,0,9,-9,1417,1467,84,77,4,-3,88,74,20,100,32
+198,May 30 1990,Caribbean Championship qual in Guadeloupe,Guadeloupe,Jamaica,1369,1268,0,0,-10,10,1359,1278,106,111,-1,5,105,116,40,100,201
+199,May 30 1990,European Championship qual in Iceland,Iceland,Albania,1550,1415,2,0,12,-12,1562,1403,59,99,1,-5,60,94,40,100,235
+200,May 30 1990,Friendly in Italy,Italy,Greece,1972,1685,0,0,-8,8,1964,1693,4,33,0,0,4,33,20,100,387
+201,May 30 1990,Friendly in Liechtenstein,Liechtenstein,United States,1138,1587,1,4,-4,4,1134,1591,154,51,-1,0,153,51,20,100,-349
+202,May 30 1990,Friendly in West Germany,West Germany,Denmark,1988,1892,1,0,5,-5,1993,1887,1,17,1,-2,2,15,20,100,196
+203,Jun 1 1990,Friendly in Jordan,Jordan,Iraq,1274,1638,0,2,-5,5,1269,1643,119,39,-1,1,118,40,20,100,-264
+204,Jun 2 1990,Friendly in Belgium,Belgium,Mexico,1832,1903,3,0,16,-16,1848,1887,17,17,0,-3,17,14,20,100,29
+205,Jun 2 1990,Friendly in Hungary,Hungary,Colombia,1724,1814,3,1,15,-15,1739,1799,27,18,2,0,29,18,20,100,10
+206,Jun 2 1990,Friendly in Malta,Malta,Ireland,1374,1888,0,3,-3,3,1371,1891,101,10,0,2,101,12,20,100,-414
+207,Jun 2 1990,Friendly in Switzerland,Switzerland,United States,1682,1591,2,1,5,-5,1687,1586,34,51,0,0,34,51,20,100,191
+208,Jun 2 1990,Friendly in Tunisia,Tunisia,England,1474,1951,1,1,8,-8,1482,1943,67,7,3,-1,70,6,20,100,-377
+209,Jun 3 1990,African Nations Cup qualifier in The Gambia,Gambia,Mauritania,1211,1090,2,1,9,-9,1220,1081,134,165,1,-1,135,164,40,100,221
+210,Jun 3 1990,Caribbean Championship qual in Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Martin,1244,1112,1,0,8,-8,1252,1104,123,157,1,0,124,157,40,100,232
+211,Jun 3 1990,Friendly in Yugoslavia,Yugoslavia,Netherlands,1907,2017,0,2,-15,15,1892,2032,12,1,-1,0,11,1,20,100,-10
+212,Jun 6 1990,Friendly in Belgium,Belgium,Poland,1848,1786,1,1,-4,4,1844,1790,17,20,0,0,17,20,20,100,162
+213,Jun 6 1990,Friendly in Norway,Norway,Denmark,1669,1887,1,2,-7,7,1662,1894,37,6,0,4,37,10,20,100,-118
+214,Jun 7 1990,Friendly in Namibia,Namibia,Mauritius,1185,1233,1,2,-11,11,1174,1244,145,125,-2,1,143,126,20,100,52
+215,Jun 8 1990,World Cup in Italy,Cameroon,Argentina,1633,1793,1,0,43,-43,1676,1750,29,33,7,-7,36,26,60,0,-160
+216,Jun 9 1990,World Cup in Italy,Colombia,United Arab Emirates,1799,1460,2,0,11,-11,1810,1449,18,81,0,-2,18,79,60,0,339
+217,Jun 9 1990,World Cup in Italy,Italy,Austria,1964,1764,1,0,9,-9,1973,1755,4,25,0,0,4,25,60,100,300
+218,Jun 9 1990,World Cup in Italy,Romania,Soviet Union,1894,1943,2,0,51,-51,1945,1892,2,16,4,-5,6,11,60,0,-49
+219,Jun 10 1990,Friendly in Botswana,Botswana,Mauritius,1095,1244,0,1,-9,9,1086,1253,165,122,-2,2,163,124,20,100,-49
+220,Jun 10 1990,World Cup in Italy,Brazil,Sweden,1992,1951,2,1,26,-26,2018,1925,3,11,0,-3,3,8,60,0,41
+221,Jun 10 1990,World Cup in Italy,Czechoslovakia,United States,1853,1586,5,1,20,-20,1873,1566,14,61,1,-5,15,56,60,0,267
+222,Jun 10 1990,World Cup in Italy,West Germany,Yugoslavia,1993,1892,4,1,38,-38,2031,1854,2,21,0,-5,2,16,60,0,101
+223,Jun 11 1990,World Cup in Italy,Costa Rica,Scotland,1611,1738,1,0,41,-41,1652,1697,29,34,10,-2,39,32,60,0,-127
+224,Jun 11 1990,World Cup in Italy,England,Ireland,1943,1891,1,1,-4,4,1939,1895,6,8,0,2,6,10,20,100,152
+225,Jun 12 1990,World Cup in Italy,Belgium,South Korea,1844,1749,2,0,33,-33,1877,1716,13,35,2,-4,15,31,60,0,95
+226,Jun 12 1990,World Cup in Italy,Egypt,Netherlands,1642,2032,1,1,24,-24,1666,2008,33,5,5,-2,38,3,60,0,-390
+227,Jun 13 1990,World Cup in Italy,Argentina,Soviet Union,1750,1892,2,0,62,-62,1812,1830,10,22,8,-5,18,17,60,0,-142
+228,Jun 13 1990,World Cup in Italy,Spain,Uruguay,1926,1889,0,0,-3,3,1923,1892,9,11,-1,1,8,12,50,0,37
+229,Jun 14 1990,World Cup in Italy,Cameroon,Romania,1676,1945,2,1,49,-49,1725,1896,24,13,6,-4,30,9,60,0,-269
+230,Jun 14 1990,World Cup in Italy,Italy,United States,1973,1566,1,0,3,-3,1976,1563,4,62,0,-3,4,59,30,0,407
+231,Jun 14 1990,World Cup in Italy,Yugoslavia,Colombia,1854,1810,1,0,26,-26,1880,1784,12,21,2,-1,14,20,60,0,44
+232,Jun 15 1990,World Cup in Italy,Czechoslovakia,Austria,1873,1755,1,0,20,-20,1893,1735,8,30,4,-2,12,28,60,0,118
+233,Jun 15 1990,World Cup in Italy,West Germany,United Arab Emirates,2031,1449,5,1,4,-4,2035,1445,1,79,0,0,1,79,60,0,582
+234,Jun 16 1990,World Cup in Italy,Brazil,Costa Rica,2018,1652,1,0,7,-7,2025,1645,2,44,0,-2,2,42,60,0,366
+235,Jun 16 1990,World Cup in Italy,England,Netherlands,1939,2008,0,0,6,-6,1945,2002,5,3,0,0,5,3,60,0,-69
+236,Jun 16 1990,World Cup in Italy,Scotland,Sweden,1697,1925,2,1,47,-47,1744,1878,19,24,7,-9,26,15,60,0,-228
+237,Jun 17 1990,World Cup in Italy,Belgium,Uruguay,1877,1892,3,1,47,-47,1924,1845,-2,20,9,-4,7,16,60,0,-15
+238,Jun 17 1990,World Cup in Italy,Egypt,Ireland,1666,1895,0,0,17,-17,1683,1878,34,19,2,-5,36,14,60,0,-229
+239,Jun 17 1990,World Cup in Italy,Spain,South Korea,1923,1716,3,1,21,-21,1944,1695,6,33,0,0,6,33,60,0,207
+240,Jun 18 1990,World Cup in Italy,Argentina,Romania,1812,1896,1,1,7,-7,1819,1889,18,13,0,-2,18,11,60,0,-84
+241,Jun 18 1990,World Cup in Italy,Soviet Union,Cameroon,1830,1725,4,0,40,-40,1870,1685,15,39,1,-4,16,35,60,0,105
+242,Jun 19 1990,World Cup in Italy,Austria,United States,1735,1563,2,1,16,-16,1751,1547,23,63,3,-2,26,61,60,0,172
+243,Jun 19 1990,World Cup in Italy,Colombia,West Germany,1784,2035,1,1,19,-19,1803,2016,18,3,1,-1,19,2,60,0,-251
+244,Jun 19 1990,World Cup in Italy,Italy,Czechoslovakia,1976,1893,2,0,23,-23,1999,1870,4,20,0,-5,4,15,40,0,83
+245,Jun 19 1990,World Cup in Italy,Yugoslavia,United Arab Emirates,1880,1445,4,1,8,-8,1888,1437,9,81,2,-1,11,80,60,0,435
+246,Jun 20 1990,World Cup in Italy,Brazil,Scotland,2025,1744,1,0,10,-10,2035,1734,1,31,0,-2,1,29,60,0,281
+247,Jun 20 1990,World Cup in Italy,Costa Rica,Sweden,1645,1878,2,1,48,-48,1693,1830,24,21,9,-4,33,17,60,0,-233
+248,Jun 21 1990,World Cup in Italy,England,Egypt,1945,1683,1,0,11,-11,1956,1672,7,39,-1,-1,6,38,60,0,262
+249,Jun 21 1990,World Cup in Italy,Ireland,Netherlands,1878,2002,1,1,10,-10,1888,1992,9,5,2,-1,11,4,60,0,-124
+250,Jun 21 1990,World Cup in Italy,Spain,Belgium,1944,1924,2,1,28,-28,1972,1896,4,9,1,-1,5,8,60,0,20
+251,Jun 21 1990,World Cup in Italy,Uruguay,South Korea,1845,1695,1,0,18,-18,1863,1677,16,40,0,-4,16,36,60,0,150
+252,Jun 23 1990,World Cup in Italy,Cameroon,Colombia,1685,1803,2,1,40,-40,1725,1763,27,31,4,-6,31,25,60,0,-118
+253,Jun 23 1990,World Cup in Italy,Czechoslovakia,Costa Rica,1870,1693,4,1,28,-28,1898,1665,2,46,6,-7,8,39,60,0,177
+254,Jun 24 1990,World Cup in Italy,Argentina,Brazil,1819,2035,1,0,47,-47,1866,1988,14,5,2,-2,16,3,60,0,-216
+255,Jun 24 1990,World Cup in Italy,West Germany,Netherlands,2016,1992,2,1,28,-28,2044,1964,0,6,1,-1,1,5,60,0,24
+256,Jun 25 1990,World Cup in Italy,Ireland,Romania,1888,1889,0,0,0,0,1888,1889,12,11,0,0,12,11,20,0,-1
+257,Jun 25 1990,World Cup in Italy,Italy,Uruguay,1999,1863,2,0,18,-18,2017,1845,2,17,0,0,2,17,60,100,236
+258,Jun 26 1990,World Cup in Italy,England,Belgium,1956,1896,1,0,25,-25,1981,1871,2,19,2,-5,4,14,60,0,60
+259,Jun 26 1990,World Cup in Italy,Yugoslavia,Spain,1888,1972,2,1,37,-37,1925,1935,2,8,5,-2,7,6,60,0,-84
+260,Jun 30 1990,World Cup in Italy,Argentina,Yugoslavia,1866,1925,0,0,5,-5,1871,1920,12,7,2,0,14,7,60,0,-59
+261,Jun 30 1990,World Cup in Italy,Italy,Ireland,2017,1888,1,0,13,-13,2030,1875,2,14,0,-1,2,13,40,0,129
+262,Jul 1 1990,World Cup in Italy,England,Cameroon,1981,1725,3,2,11,-11,1992,1714,2,33,1,-1,3,32,60,0,256
+263,Jul 1 1990,World Cup in Italy,West Germany,Czechoslovakia,2044,1898,1,0,18,-18,2062,1880,1,15,0,-3,1,12,60,0,146
+264,Jul 3 1990,World Cup in Italy,Italy,Argentina,2030,1871,1,1,-19,19,2011,1890,2,6,0,4,2,10,60,100,259
+265,Jul 4 1990,World Cup in Italy,England,West Germany,1992,2062,1,1,6,-6,1998,2056,3,1,0,0,3,1,60,0,-70
+266,Jul 6 1990,Friendly in Malawi,Malawi,Tanzania,1433,1225,2,0,4,-4,1437,1221,79,134,1,-1,80,133,20,100,308
+267,Jul 7 1990,World Cup in Italy,Italy,England,2011,1998,2,1,21,-21,2032,1977,2,5,0,-1,2,4,60,100,113
+268,Jul 8 1990,World Cup in Italy,West Germany,Argentina,2056,1890,1,0,17,-17,2073,1873,1,18,0,-4,1,14,60,0,166
+269,Jul 9 1990,Friendly in Barbados,Barbados,Grenada,1291,1376,1,1,0,0,1291,1376,114,100,0,0,114,100,20,100,15
+270,Jul 9 1990,Friendly in Malawi,Malawi,Tanzania,1437,1221,1,1,-7,7,1430,1228,84,129,-2,2,82,131,20,100,316
+271,Jul 10 1990,Friendly in Barbados,Barbados,Grenada,1291,1376,4,0,18,-18,1309,1358,112,110,1,-5,113,105,20,100,15
+272,Jul 11 1990,Friendly in Malawi,Malawi,Tanzania,1430,1228,0,0,-7,7,1423,1235,88,125,-3,3,85,128,20,100,302
+273,Jul 14 1990,Friendly in Iraq,Iraq,China,1643,1555,4,1,9,-9,1652,1546,39,62,2,-1,41,61,20,100,188
+274,Jul 16 1990,Friendly in Iraq,Iraq,China,1652,1546,0,0,-5,5,1647,1551,45,59,-2,1,43,60,20,100,206
+275,Jul 22 1990,Caribbean Championship in Trinidad and Tobago,Barbados,Martinique,1309,1432,2,2,7,-7,1316,1425,113,87,0,-3,113,84,40,0,-123
+276,Jul 22 1990,Caribbean Championship in Trinidad and Tobago,Trinidad and Tobago,Grenada,1541,1358,5,0,13,-13,1554,1345,56,109,4,-2,60,107,40,100,283
+277,Jul 25 1990,Caribbean Championship in Trinidad and Tobago,Grenada,Jamaica,1345,1278,0,0,-4,4,1341,1282,109,114,-1,1,108,115,20,100,167
+278,Jul 25 1990,Caribbean Championship in Trinidad and Tobago,Martinique,St Vincent & Grenadines,1425,1391,2,0,27,-27,1452,1364,72,109,6,-6,78,103,40,0,34
+279,Jul 27 1990,Caribbean Championship in Trinidad and Tobago,Barbados,St Vincent & Grenadines,1316,1364,3,2,23,-23,1339,1341,107,111,3,-4,110,107,40,0,-48
+280,Jul 27 1990,Dynasty Cup in China,China,North Korea,1551,1522,2,0,15,-15,1566,1507,51,70,5,-2,56,68,30,100,129
+281,Jul 27 1990,Dynasty Cup in China,South Korea,Japan,1677,1408,2,0,8,-8,1685,1400,35,98,0,-3,35,95,30,0,269
+282,Jul 27 1990,Caribbean Championship in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1554,1282,0,0,-16,16,1538,1298,68,115,-4,0,64,115,40,100,372
+283,Jul 29 1990,Dynasty Cup in China,China,Japan,1566,1400,1,0,5,-5,1571,1395,52,97,2,-1,54,96,30,100,266
+284,Jul 29 1990,Dynasty Cup in China,South Korea,North Korea,1685,1507,1,0,8,-8,1693,1499,31,68,2,0,33,68,30,0,178
+285,Jul 29 1990,Friendly in Togo,Togo,Mali,1390,1442,0,0,-1,1,1389,1443,97,80,0,0,97,80,20,100,48
+286,Jul 31 1990,Dynasty Cup in China,China,South Korea,1571,1693,0,1,-14,14,1557,1707,66,33,-6,0,60,33,30,100,-22
+287,Jul 31 1990,Dynasty Cup in China,North Korea,Japan,1499,1395,1,0,11,-11,1510,1384,68,98,0,-1,68,97,30,0,104
+288,Aug 3 1990,Dynasty Cup in China,China,South Korea,1557,1707,1,1,2,-2,1559,1705,60,33,0,0,60,33,30,100,-50
+289,Aug 4 1990,Friendly in Malawi,Malawi,Zaire,1423,1568,1,0,11,-11,1434,1557,79,65,3,-5,82,60,20,100,-45
+290,Aug 6 1990,Friendly in Malawi,Malawi,Zaire,1434,1557,1,0,11,-11,1445,1546,78,62,2,-1,80,61,20,100,-23
+291,Aug 8 1990,Friendly in the Faroe Islands,Faroe Islands,Iceland,1225,1562,2,3,-4,4,1221,1566,133,52,0,3,133,55,20,100,-237
+292,Aug 8 1990,Friendly in Malawi,Malawi,Zaire,1445,1546,0,0,0,0,1445,1546,80,61,0,0,80,61,20,100,-1
+293,Aug 9 1990,Friendly in Tunisia,Tunisia,Morocco,1482,1607,0,0,1,-1,1483,1606,70,50,0,0,70,50,20,100,-25
+294,Aug 11 1990,Friendly in Réunion,Réunion,Congo,1174,1402,2,1,14,-14,1188,1388,139,98,2,-2,141,96,20,100,-128
+295,Aug 12 1990,Friendly in Gabon,Gabon,Mali,1427,1443,0,0,-2,2,1425,1445,85,79,0,1,85,80,20,100,84
+296,Aug 12 1990,Friendly in Swaziland,Swaziland,Mozambique,1168,1397,0,0,4,-4,1172,1393,144,94,1,0,145,94,20,100,-129
+297,Aug 12 1990,Friendly in Zambia,Zambia,Zaire,1576,1546,0,0,-4,4,1572,1550,54,59,-1,1,53,60,20,100,130
+298,Aug 13 1990,Friendly in Swaziland,Zimbabwe,Mozambique,1475,1393,3,2,8,-8,1483,1385,68,98,2,-2,70,96,20,0,82
+299,Aug 15 1990,Friendly in France,France,Poland,1910,1790,0,0,-6,6,1904,1796,8,19,0,0,8,19,20,100,220
+300,Aug 16 1990,Friendly in New Zealand,New Zealand,China,1519,1559,2,1,8,-8,1527,1551,65,59,1,0,66,59,20,100,60
+301,Aug 17 1990,African Nations Cup qualifier in Egypt,Egypt,Ethiopia,1672,1467,2,0,9,-9,1681,1458,35,78,1,-2,36,76,40,100,305
+302,Aug 18 1990,African Nations Cup qualifier in Guinea,Guinea,Sierra Leone,1422,1365,1,2,-28,28,1394,1393,101,88,-7,7,94,95,40,100,157
+303,Aug 18 1990,Friendly tournament in Indonesia,Indonesia,Singapore,1211,1218,6,0,24,-24,1235,1194,119,144,9,-4,128,140,30,100,93
+304,Aug 18 1990,African Nations Cup qualifier in Malawi,Malawi,Congo,1445,1388,0,1,-28,28,1417,1416,92,83,-6,6,86,89,40,100,157
+305,Aug 18 1990,African Nations Cup qualifier in Nigeria,Nigeria,Togo,1672,1389,3,0,7,-7,1679,1382,36,102,1,-4,37,98,40,100,383
+306,Aug 18 1990,Friendly tournament in North Korea,North Korea,Cuba,1510,1488,0,0,-5,5,1505,1493,68,69,0,0,68,69,30,100,122
+307,Aug 19 1990,African Nations Cup qualifier in Angola,Angola,Madagascar,1429,1453,0,1,-24,24,1405,1477,100,69,-9,4,91,73,40,100,76
+308,Aug 19 1990,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Benin,1417,1232,2,0,10,-10,1427,1222,82,135,2,-2,84,133,40,100,285
+309,Aug 19 1990,African Nations Cup qualifier in Cameroon,Cameroon,Mali,1714,1445,0,0,-16,16,1698,1461,34,74,-1,3,33,77,40,100,369
+310,Aug 19 1990,African Nations Cup qualifier in Gabon,Gabon,Uganda,1425,1537,1,0,21,-21,1446,1516,78,69,3,-2,81,67,40,100,-12
+311,Aug 19 1990,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Mauritania,1636,1081,2,0,1,-1,1637,1080,44,164,0,0,44,164,20,0,555
+312,Aug 19 1990,African Nations Cup qualifier in Morocco,Morocco,Niger,1606,1340,2,0,7,-7,1613,1333,48,113,1,-2,49,111,40,100,366
+313,Aug 19 1990,African Nations Cup qualifier in Sudan,Sudan,Mozambique,1428,1385,1,0,12,-12,1440,1373,81,102,1,-3,82,99,40,100,143
+314,Aug 19 1990,African Nations Cup qualifier in Tunisia,Tunisia,Chad,1483,1269,2,1,6,-6,1489,1263,70,124,0,-3,70,121,40,100,314
+315,Aug 19 1990,African Nations Cup qualifier in Zaire,Zaire,Tanzania,1550,1235,2,0,5,-5,1555,1230,58,134,1,-3,59,131,40,100,415
+316,Aug 19 1990,African Nations Cup qualifier in Zambia,Zambia,Swaziland,1572,1172,5,0,4,-4,1576,1168,51,147,1,-1,52,146,20,0,400
+317,Aug 21 1990,Friendly in Austria,Austria,Switzerland,1751,1687,1,3,-22,22,1729,1709,34,29,-4,3,30,32,20,100,164
+318,Aug 21 1990,Indian Ocean Games in Madagascar,Madagascar,Comoros,1477,877,1,0,1,-1,1478,876,71,183,1,0,72,183,20,0,600
+319,Aug 22 1990,Friendly in Norway,Norway,Sweden,1662,1830,1,2,-8,8,1654,1838,40,18,0,0,40,18,20,100,-68
+320,Aug 23 1990,Indian Ocean Games in Madagascar,Comoros,Réunion,876,1188,1,0,26,-26,902,1162,179,151,2,-5,181,146,30,0,-312
+321,Aug 24 1990,Friendly in New Zealand,New Zealand,China,1527,1551,1,0,8,-8,1535,1543,65,64,0,-2,65,62,20,100,76
+322,Aug 25 1990,Friendly in Botswana,Botswana,Swaziland,1086,1168,3,2,9,-9,1095,1159,159,147,2,-1,161,146,20,100,18
+323,Aug 25 1990,Friendly tournament in Indonesia,Indonesia,Australia,1235,1677,0,3,-6,6,1229,1683,134,34,-3,2,131,36,30,100,-342
+324,Aug 25 1990,Indian Ocean Games in Madagascar,Madagascar,Réunion,1478,1162,0,0,-12,12,1466,1174,76,140,-2,3,74,143,30,100,416
+325,Aug 25 1990,Indian Ocean Games in Madagascar,Mauritius,Seychelles,1253,979,2,0,8,-8,1261,971,120,172,2,0,122,172,30,0,274
+326,Aug 25 1990,SADCC Tournament in Botswana,Zambia,Zimbabwe,1576,1483,3,1,17,-17,1593,1466,50,77,1,-3,51,74,30,0,93
+327,Aug 26 1990,Friendly in Botswana,Botswana,Zimbabwe,1095,1466,0,7,-8,8,1087,1474,165,72,-2,1,163,73,20,100,-271
+328,Aug 27 1990,Indian Ocean Games in Madagascar,Madagascar,Seychelles,1466,971,6,0,2,-2,1468,969,73,172,1,0,74,172,20,0,495
+329,Aug 27 1990,Friendly in Mali,Mali,Burkina Faso,1461,1427,2,1,6,-6,1467,1421,73,86,2,-1,75,85,20,100,134
+330,Aug 27 1990,Indian Ocean Games in Madagascar,Mauritius,Comoros,1261,902,4,0,6,-6,1267,896,120,181,1,0,121,181,30,0,359
+331,Aug 29 1990,Friendly in Finland,Finland,Czechoslovakia,1613,1880,1,1,4,-4,1617,1876,45,12,2,0,47,12,20,100,-167
+332,Aug 29 1990,Friendly in Portugal,Portugal,West Germany,1778,2073,1,1,5,-5,1783,2068,18,1,2,0,20,1,20,100,-195
+333,Aug 29 1990,Indian Ocean Games in Madagascar,Seychelles,Comoros,969,896,3,1,18,-18,987,878,170,183,1,-1,171,182,30,0,73
+334,Aug 29 1990,Friendly in the Soviet Union,Soviet Union,Romania,1870,1889,1,2,-12,12,1858,1901,16,8,0,1,16,9,20,100,81
+335,Aug 30 1990,Indian Ocean Games in Madagascar,Madagascar,Mauritius,1468,1267,5,1,8,-8,1476,1259,70,123,2,-1,72,122,30,100,301
+336,Aug 30 1990,Friendly in Mozambique,Mozambique,Angola,1373,1405,0,2,-18,18,1355,1423,107,77,-4,7,103,84,20,100,68
+337,Sep 1 1990,African Nations Cup qualifier in Congo,Congo,Zimbabwe,1416,1474,2,0,26,-26,1442,1448,75,86,7,-6,82,80,30,0,-58
+338,Sep 1 1990,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Cameroon,1393,1698,1,1,11,-11,1404,1687,91,36,2,-1,93,35,30,0,-305
+339,Sep 2 1990,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Togo,1421,1382,2,0,19,-19,1440,1363,77,107,5,-5,82,102,40,100,139
+340,Sep 2 1990,African Nations Cup qualifier in Chad,Chad,Egypt,1263,1681,0,0,14,-14,1277,1667,113,37,4,0,117,37,40,100,-318
+341,Sep 2 1990,African Nations Cup qualifier in Ghana,Ghana,Nigeria,1467,1679,1,0,26,-26,1493,1653,64,42,5,-2,69,40,40,100,-112
+342,Sep 2 1990,African Nations Cup qualifier in Madagascar,Madagascar,Zambia,1476,1593,0,0,1,-1,1477,1592,74,51,-1,0,73,51,30,100,-17
+343,Sep 2 1990,African Nations Cup qualifier in Mali,Mali,Guinea,1467,1394,1,1,-9,9,1458,1403,78,91,-2,2,76,93,40,100,173
+344,Sep 2 1990,African Nations Cup qualifier in Morocco,Morocco,Mauritania,1613,1080,4,0,2,-2,1615,1078,46,166,2,-1,48,165,20,0,533
+345,Sep 2 1990,African Nations Cup qualifier in Mozambique,Mozambique,Kenya,1355,1411,2,1,17,-17,1372,1394,93,99,5,-4,98,95,30,0,-56
+346,Sep 2 1990,African Nations Cup qualifier in Swaziland,Swaziland,Angola,1159,1423,1,1,9,-9,1168,1414,146,95,0,-5,146,90,40,100,-164
+347,Sep 2 1990,African Nations Cup qualifier in Tanzania,Tanzania,Gabon,1230,1446,0,0,6,-6,1236,1440,126,83,2,-1,128,82,20,0,-216
+348,Sep 2 1990,African Nations Cup qualifier in Uganda,Uganda,Zaire,1516,1555,2,1,17,-17,1533,1538,65,67,1,-4,66,63,30,0,-39
+349,Sep 5 1990,Friendly in Greece,Greece,Albania,1693,1403,1,0,2,-2,1695,1401,34,95,0,-1,34,94,20,100,390
+350,Sep 5 1990,Friendly in Hungary,Hungary,Turkey,1739,1650,4,1,9,-9,1748,1641,25,44,1,-1,26,43,20,100,189
+351,Sep 5 1990,European Championship qual in Iceland,Iceland,France,1566,1904,1,2,-8,8,1558,1912,61,8,-3,0,58,8,40,100,-238
+352,Sep 5 1990,Friendly in Sweden,Sweden,Denmark,1838,1894,0,1,-11,11,1827,1905,18,8,0,1,18,9,20,100,44
+353,Sep 6 1990,Friendly in South Korea,South Korea,Australia,1705,1683,1,0,7,-7,1712,1676,31,36,1,0,32,36,20,100,122
+354,Sep 8 1990,Friendly in Malaysia,Malaysia,Yemen,1317,1176,0,1,-16,16,1301,1192,115,140,-1,1,114,141,20,100,241
+355,Sep 9 1990,Friendly in South Korea,South Korea,Australia,1712,1676,1,0,6,-6,1718,1670,30,36,1,0,31,36,20,100,136
+356,Sep 11 1990,Friendly in Denmark,Denmark,Wales,1905,1730,1,0,3,-3,1908,1727,9,31,0,-1,9,30,20,100,275
+357,Sep 12 1990,Friendly in Belgium,Belgium,East Germany,1871,1765,0,2,-23,23,1848,1788,17,16,-1,4,16,20,20,100,206
+358,Sep 12 1990,Friendly in England,England,Hungary,1977,1748,1,0,3,-3,1980,1745,2,28,1,-1,3,27,20,100,329
+359,Sep 12 1990,European Championship qual in Sweden,Faroe Islands,Austria,1221,1729,1,0,38,-38,1259,1691,110,39,12,-5,122,34,40,0,-508
+360,Sep 12 1990,European Championship qual in Finland,Finland,Portugal,1617,1783,0,0,4,-4,1621,1779,47,26,0,-3,47,23,20,0,-166
+361,Sep 12 1990,Friendly in Ireland,Ireland,Morocco,1875,1615,1,0,2,-2,1877,1613,9,52,2,-2,11,50,20,100,360
+362,Sep 12 1990,European Championship qual in Northern Ireland,Northern Ireland,Yugoslavia,1652,1920,0,2,-17,17,1635,1937,47,7,-3,0,44,7,40,100,-168
+363,Sep 12 1990,European Championship qual in Scotland,Scotland,Romania,1734,1901,2,1,24,-24,1758,1877,24,12,2,-1,26,11,40,100,-67
+364,Sep 12 1990,Friendly in Spain,Spain,Brazil,1935,1988,3,0,15,-15,1950,1973,6,5,0,-1,6,4,20,100,47
+365,Sep 12 1990,European Championship qual in Switzerland,Switzerland,Bulgaria,1709,1718,2,0,22,-22,1731,1696,25,33,4,-1,29,32,40,100,91
+366,Sep 12 1990,European Championship qual in the Soviet Union,Soviet Union,Norway,1858,1654,2,0,9,-9,1867,1645,14,43,1,-2,15,41,40,100,304
+367,Sep 13 1990,Friendly in Singapore,Singapore,Malaysia,1194,1301,3,0,18,-18,1212,1283,134,116,3,-1,137,115,20,100,-7
+368,Sep 15 1990,Friendly in the United States,United States,Trinidad and Tobago,1547,1538,3,0,12,-12,1559,1526,57,69,1,-3,58,66,20,100,109
+369,Sep 23 1990,Asian Games in China,China,Pakistan,1543,1017,3,0,2,-2,1545,1015,61,169,0,0,61,169,20,0,526
+370,Sep 23 1990,Asian Games in China,Kuwait,Hong Kong,1543,1269,2,1,7,-7,1550,1262,59,123,1,-2,60,121,40,0,274
+371,Sep 23 1990,Asian Games in China,South Korea,Singapore,1718,1212,7,0,5,-5,1723,1207,31,137,0,0,31,137,40,0,506
+372,Sep 23 1990,Asian Games in China,Thailand,Yemen,1233,1192,0,0,-2,2,1231,1194,132,141,-1,0,131,141,30,0,41
+373,Sep 24 1990,Asian Games in China,Iran,Malaysia,1564,1283,3,0,12,-12,1576,1271,49,119,4,-2,53,117,40,0,281
+374,Sep 24 1990,Asian Games in China,Saudi Arabia,Bangladesh,1586,1079,4,0,4,-4,1590,1075,52,166,0,-1,52,165,40,0,507
+375,Sep 25 1990,Asian Games in China,China,Singapore,1545,1207,5,1,6,-6,1551,1201,59,141,1,-2,60,139,40,100,438
+376,Sep 25 1990,Asian Games in China,Kuwait,Yemen,1550,1194,0,0,-15,15,1535,1209,66,133,-3,4,63,137,40,0,356
+377,Sep 25 1990,Asian Games in China,South Korea,Pakistan,1723,1015,7,0,2,-2,1725,1013,31,169,0,0,31,169,40,0,708
+378,Sep 25 1990,Asian Games in China,Thailand,Hong Kong,1231,1262,2,0,33,-33,1264,1229,111,141,10,-10,121,131,40,0,-31
+379,Sep 26 1990,European Championship qual in Czechoslovakia,Czechoslovakia,Iceland,1876,1558,1,0,3,-3,1879,1555,11,59,1,0,12,59,20,0,318
+380,Sep 26 1990,Friendly in Italy,Italy,Netherlands,2032,1964,1,0,6,-6,2038,1958,2,5,0,0,2,5,20,100,168
+381,Sep 26 1990,Asian Games in China,Japan,Bangladesh,1384,1075,3,0,10,-10,1394,1065,94,165,1,0,95,165,40,0,309
+382,Sep 26 1990,Asian Games in China,Malaysia,North Korea,1271,1505,0,0,12,-12,1283,1493,113,68,2,0,115,68,40,0,-234
+383,Sep 26 1990,Friendly in Romania,Romania,Poland,1877,1796,2,1,5,-5,1882,1791,11,19,0,0,11,19,20,100,181
+384,Sep 26 1990,Friendly in Sweden,Sweden,Bulgaria,1827,1696,2,0,6,-6,1833,1690,18,36,0,-2,18,34,20,100,231
+385,Sep 27 1990,Asian Games in China,China,South Korea,1551,1725,0,2,-24,24,1527,1749,68,23,-4,4,64,27,40,100,-74
+386,Sep 27 1990,Asian Games in China,Hong Kong,Yemen,1229,1209,2,0,28,-28,1257,1181,117,145,7,-4,124,141,40,0,20
+387,Sep 27 1990,Asian Games in China,Singapore,Pakistan,1201,1013,6,1,20,-20,1221,993,131,171,4,-1,135,170,40,0,188
+388,Sep 27 1990,Asian Games in China,Thailand,Kuwait,1264,1535,2,1,33,-33,1297,1502,109,71,6,-4,115,67,40,0,-271
+389,Sep 28 1990,Asian Games in China,Iran,North Korea,1576,1493,2,1,15,-15,1591,1478,53,74,0,-3,53,71,40,0,83
+390,Sep 28 1990,Asian Games in China,Saudi Arabia,Japan,1590,1394,2,0,15,-15,1605,1379,50,99,1,-2,51,97,40,0,196
+391,Sep 30 1990,Friendly in Aruba,Aruba,Netherlands Antilles,1099,1350,1,3,-9,9,1090,1359,165,99,-3,3,162,102,20,100,-151
+392,Sep 30 1990,African Nations Cup qualifier in Benin,Benin,Nigeria,1222,1653,0,1,-5,5,1217,1658,140,39,-3,0,137,39,40,100,-331
+393,Sep 30 1990,Friendly in Botswana,Botswana,Cameroon,1087,1687,0,0,9,-9,1096,1678,157,35,3,0,160,35,20,0,-600
+394,Sep 30 1990,African Nations Cup qualifier in Niger,Niger,Ivory Coast,1333,1637,0,1,-9,9,1324,1646,111,39,0,2,111,41,40,100,-204
+395,Sep 30 1990,African Nations Cup qualifier in Togo,Togo,Ghana,1363,1493,0,1,-18,18,1345,1511,108,66,-3,1,105,67,40,100,-30
+396,Oct 1 1990,Asian Games in China,China,Thailand,1527,1297,0,1,-35,35,1492,1332,74,107,-5,4,69,111,40,100,330
+397,Oct 1 1990,Asian Games in China,Iran,Japan,1591,1379,1,0,9,-9,1600,1370,49,103,2,-3,51,100,40,0,212
+398,Oct 1 1990,Asian Games in China,North Korea,Saudi Arabia,1478,1605,0,0,7,-7,1485,1598,71,53,0,-1,71,52,40,0,-127
+399,Oct 1 1990,Asian Games in China,South Korea,Kuwait,1749,1502,1,0,8,-8,1757,1494,27,66,0,1,27,67,40,0,247
+400,Oct 3 1990,Asian Games in China,Iran,South Korea,1600,1757,1,0,28,-28,1628,1729,39,31,6,-2,45,29,40,0,-157
+401,Oct 3 1990,Asian Games in China,North Korea,Thailand,1485,1332,1,0,12,-12,1497,1320,61,111,5,0,66,111,40,0,153
+402,Oct 5 1990,Asian Games in China,South Korea,Thailand,1729,1320,1,0,3,-3,1732,1317,27,113,1,-1,28,112,30,0,409
+403,Oct 6 1990,Asian Games in China,Iran,North Korea,1628,1497,0,0,-7,7,1621,1504,47,66,-1,0,46,66,40,0,131
+404,Oct 9 1990,Friendly in the Soviet Union,Soviet Union,Israel,1867,1625,3,0,4,-4,1871,1621,15,45,0,0,15,45,20,100,342
+405,Oct 10 1990,European Championship qual in Denmark,Denmark,Faroe Islands,1908,1259,4,1,1,-1,1909,1258,9,123,0,-1,9,122,20,0,649
+406,Oct 10 1990,Friendly in Greece,Greece,Egypt,1695,1667,6,1,13,-13,1708,1654,31,40,0,-2,31,38,20,100,128
+407,Oct 10 1990,European Championship qual in Norway,Norway,Hungary,1645,1745,0,0,0,0,1645,1745,41,26,0,0,41,26,20,100,0
+408,Oct 10 1990,Friendly in Poland,Poland,United States,1791,1559,2,3,-17,17,1774,1576,27,49,-4,4,23,53,20,100,332
+409,Oct 10 1990,European Championship qual in Spain,Spain,Iceland,1950,1555,2,1,2,-2,1952,1553,6,58,0,0,6,58,20,0,395
+410,Oct 10 1990,Friendly in Sweden,Sweden,West Germany,1833,2068,1,3,-9,9,1824,2077,18,1,0,0,18,1,20,100,-135
+411,Oct 11 1990,Friendly in North Korea,North Korea,South Korea,1504,1732,2,1,14,-14,1518,1718,64,32,1,-2,65,30,20,100,-128
+412,Oct 12 1990,African Nations Cup qualifier in Niger,Niger,Mauritania,1324,1078,7,1,10,-10,1334,1068,110,163,0,0,110,163,40,100,346
+413,Oct 13 1990,European Championship qual in France,France,Czechoslovakia,1912,1879,2,1,13,-13,1925,1866,8,18,0,-3,8,15,40,100,133
+414,Oct 14 1990,African Nations Cup qualifier in Benin,Benin,Togo,1217,1345,1,1,2,-2,1219,1343,136,104,0,0,136,104,40,100,-28
+415,Oct 14 1990,African Nations Cup qualifier in Ghana,Ghana,Burkina Faso,1511,1440,2,0,16,-16,1527,1424,60,87,3,-3,63,84,40,100,171
+416,Oct 17 1990,Friendly tournament in Chile,Chile,Brazil,1777,1973,0,0,4,-4,1781,1969,22,4,0,0,22,4,30,100,-96
+417,Oct 17 1990,Friendly in Croatia,Croatia,United States,1876,1576,2,1,2,-2,1878,1574,12,55,0,0,12,55,20,100,400
+418,Oct 17 1990,European Championship qual in England,England,Poland,1980,1774,2,0,9,-9,1989,1765,3,27,0,-2,3,25,40,100,306
+419,Oct 17 1990,European Championship qual in Hungary,Hungary,Italy,1745,2038,1,1,10,-10,1755,2028,30,2,-2,0,28,2,30,0,-293
+420,Oct 17 1990,European Championship qual in Ireland,Ireland,Turkey,1877,1641,5,0,10,-10,1887,1631,8,48,2,-3,10,45,40,100,336
+421,Oct 17 1990,European Championship qual in Northern Ireland,Northern Ireland,Denmark,1635,1909,1,1,9,-9,1644,1900,43,9,0,0,43,9,40,100,-174
+422,Oct 17 1990,European Championship qual in Portugal,Portugal,Netherlands,1779,1958,1,0,24,-24,1803,1934,19,9,1,-2,20,7,40,100,-79
+423,Oct 17 1990,European Championship qual in Romania,Romania,Bulgaria,1882,1690,0,3,-59,59,1823,1749,25,25,-7,4,18,29,40,100,292
+424,Oct 17 1990,European Championship qual in Scotland,Scotland,Switzerland,1758,1731,2,1,13,-13,1771,1718,23,34,1,-3,24,31,40,100,127
+425,Oct 17 1990,European Championship qual in Wales,Wales,Belgium,1727,1848,3,1,32,-32,1759,1816,25,22,2,-3,27,19,40,100,-21
+426,Oct 23 1990,Friendly in South Korea,South Korea,North Korea,1718,1518,1,0,3,-3,1721,1515,31,67,0,0,31,67,20,100,300
+427,Oct 31 1990,European Championship qual in Greece,Greece,Malta,1708,1371,4,0,6,-6,1714,1365,33,104,0,-3,33,101,40,100,437
+428,Oct 31 1990,European Championship qual in Hungary,Hungary,Cyprus,1755,1270,4,2,2,-2,1757,1268,28,123,0,-2,28,121,20,0,485
+429,Oct 31 1990,European Championship qual in Luxembourg,Luxembourg,West Germany,1171,2077,2,3,0,0,1171,2077,145,1,0,0,145,1,20,0,-906
+430,Oct 31 1990,Friendly in Norway,Norway,Cameroon,1645,1678,6,1,16,-16,1661,1662,34,39,4,-2,38,37,20,100,67
+431,Oct 31 1990,European Championship qual in Yugoslavia,Yugoslavia,Austria,1937,1691,4,1,8,-8,1945,1683,6,34,0,0,6,34,40,100,346
+432,Nov 1 1990,Melanesian Cup in New Caledonia,Fiji,Solomon Islands,1423,1120,0,0,-14,14,1409,1134,94,151,-4,2,90,153,40,0,303
+433,Nov 1 1990,Melanesian Cup in New Caledonia,New Caledonia,Vanuatu,1318,968,0,1,-37,37,1281,1005,120,167,-4,3,116,170,40,100,450
+434,Nov 3 1990,European Championship qual in Italy,Italy,Soviet Union,2028,1871,0,0,-13,13,2015,1884,2,10,0,2,2,12,40,100,257
+435,Nov 3 1990,Leeward Islands Champ in Montserrat,Montserrat,Antigua and Barbuda,598,1179,0,6,-4,4,594,1183,199,140,0,1,199,141,30,100,-481
+436,Nov 3 1990,Melanesian Cup in New Caledonia,New Caledonia,Papua New Guinea,1281,1195,2,1,10,-10,1291,1185,114,140,1,0,115,140,40,100,186
+437,Nov 3 1990,Melanesian Cup in New Caledonia,Solomon Islands,Vanuatu,1134,1005,1,1,-7,7,1127,1012,157,168,-2,1,155,169,40,0,129
+438,Nov 5 1990,Melanesian Cup in New Caledonia,New Caledonia,Fiji,1291,1409,0,0,1,-1,1292,1408,115,90,0,0,115,90,20,100,-18
+439,Nov 5 1990,Melanesian Cup in New Caledonia,Vanuatu,Papua New Guinea,1012,1185,1,0,29,-29,1041,1156,165,152,2,-6,167,146,40,0,-173
+440,Nov 6 1990,Melanesian Cup in New Caledonia,Fiji,Vanuatu,1408,1041,1,1,-16,16,1392,1057,100,165,-5,1,95,166,40,0,367
+441,Nov 6 1990,Melanesian Cup in New Caledonia,Solomon Islands,Papua New Guinea,1127,1156,1,0,22,-22,1149,1134,141,160,7,-7,148,153,40,0,-29
+442,Nov 7 1990,Friendly in Tunisia,Tunisia,Norway,1489,1661,1,3,-12,12,1477,1673,73,32,-1,3,72,35,20,100,-72
+443,Nov 8 1990,Friendly tournament in Brazil,Brazil,Chile,1969,1781,0,0,-10,10,1959,1791,4,20,0,1,4,21,30,100,288
+444,Nov 8 1990,Melanesian Cup in New Caledonia,Fiji,Papua New Guinea,1392,1134,1,0,7,-7,1399,1127,93,157,1,-2,94,155,40,0,258
+445,Nov 8 1990,Melanesian Cup in New Caledonia,New Caledonia,Solomon Islands,1292,1149,3,1,12,-12,1304,1137,111,154,2,-3,113,151,40,100,243
+446,Nov 9 1990,Friendly tournament in Angola,Angola,Mozambique,1414,1372,4,2,14,-14,1428,1358,81,109,4,-6,85,103,30,100,142
+447,Nov 10 1990,Friendly tournament in Angola,Congo,Mozambique,1442,1358,1,0,11,-11,1453,1347,75,105,3,-1,78,104,30,0,84
+448,Nov 11 1990,Friendly tournament in Angola,Angola,Congo,1428,1453,1,0,12,-12,1440,1441,79,84,3,-3,82,81,30,100,75
+449,Nov 11 1990,Friendly in Tunisia,Tunisia,Finland,1477,1621,1,2,-9,9,1468,1630,76,46,-2,0,74,46,20,100,-44
+450,Nov 14 1990,European Championship qual in Austria,Austria,Northern Ireland,1683,1644,0,0,-8,8,1675,1652,36,39,-1,2,35,41,40,100,139
+451,Nov 14 1990,European Championship qual in Bulgaria,Bulgaria,Scotland,1749,1771,1,1,-4,4,1745,1775,29,26,0,-1,29,25,40,100,78
+452,Nov 14 1990,European Championship qual in Cyprus,Cyprus,Norway,1268,1673,0,3,-10,10,1258,1683,123,33,-1,1,122,34,40,100,-305
+453,Nov 14 1990,European Championship qual in Czechoslovakia,Czechoslovakia,Spain,1866,1952,3,2,19,-19,1885,1933,7,9,4,-2,11,7,30,0,-86
+454,Nov 14 1990,European Championship qual in Denmark,Denmark,Yugoslavia,1900,1945,0,2,-35,35,1865,1980,21,2,-6,2,15,4,40,100,55
+455,Nov 14 1990,European Championship qual in Ireland,Ireland,England,1887,1989,1,1,0,0,1887,1989,8,3,1,0,9,3,20,100,-2
+456,Nov 14 1990,European Championship qual in Luxembourg,Luxembourg,Wales,1171,1759,0,1,-2,2,1169,1761,144,27,0,0,144,27,30,100,-488
+457,Nov 14 1990,European Championship qual in San Marino,San Marino,Switzerland,1008,1718,0,4,-2,2,1006,1720,170,32,0,0,170,32,30,100,-610
+458,Nov 14 1990,European Championship qual in Turkey,Turkey,Poland,1631,1765,0,1,-18,18,1613,1783,55,19,-5,3,50,22,40,100,-34
+459,Nov 17 1990,European Championship qual in Albania,Albania,France,1401,1925,0,1,-3,3,1398,1928,95,8,-1,0,94,8,40,100,-424
+460,Nov 18 1990,Leeward Islands Champ in Montserrat,Antigua and Barbuda,Saint Kitts,1183,1252,2,0,27,-27,1210,1225,136,139,2,-6,138,133,30,0,-69
+461,Nov 18 1990,African Nations Cup qualifier in Ethiopia,Ethiopia,Tunisia,1458,1468,0,2,-38,38,1420,1506,96,62,-10,6,86,68,40,100,90
+462,Nov 18 1990,Friendly tournament in Trinidad and Tobago,Trinidad and Tobago,United States,1526,1574,0,0,-2,2,1524,1576,65,53,0,1,65,54,30,100,52
+463,Nov 21 1990,European Championship qual in the Netherlands,Netherlands,Greece,1934,1714,2,0,8,-8,1942,1706,6,33,0,0,6,33,40,100,320
+464,Nov 21 1990,Friendly tournament in Trinidad and Tobago,United States,Soviet Union,1576,1884,0,0,11,-11,1587,1873,54,14,0,-1,54,13,30,0,-308
+465,Nov 23 1990,Friendly tournament in Trinidad and Tobago,Trinidad and Tobago,Soviet Union,1524,1873,0,2,-9,9,1515,1882,67,11,-1,1,66,12,30,100,-249
+466,Nov 25 1990,European Championship qual in Malta,Malta,Finland,1365,1630,1,1,9,-9,1374,1621,94,45,3,0,97,45,40,100,-165
+467,Nov 29 1990,Friendly in Tanzania,Tanzania,Uganda,1236,1533,1,1,5,-5,1241,1528,129,63,0,0,129,63,20,100,-197
+468,Nov 30 1990,Friendly in Guatemala,Guatemala,Soviet Union,1462,1882,0,3,-5,5,1457,1887,77,6,-1,3,76,9,20,100,-320
+469,Dec 5 1990,European Championship qual in Romania,Romania,San Marino,1823,1006,6,0,0,0,1823,1006,18,170,0,0,18,170,20,0,817
+470,Dec 8 1990,UDEAC Cup in Congo,Congo,Chad,1441,1277,3,0,13,-13,1454,1264,74,122,3,-2,77,120,40,100,264
+471,Dec 8 1990,CECAFA Cup in Zanzibar,Zanzibar,Tanzania,1150,1241,0,0,-1,1,1149,1242,147,127,0,1,147,128,40,100,9
+472,Dec 9 1990,Friendly tournament in Antigua and Barbuda,Antigua and Barbuda,Dominica,1210,1154,2,1,9,-9,1219,1145,136,150,1,-2,137,148,30,100,156
+473,Dec 9 1990,UDEAC Cup in Congo,Cameroon,Gabon,1662,1440,2,1,9,-9,1671,1431,34,87,2,-3,36,84,40,0,222
+474,Dec 9 1990,CECAFA Cup in Zanzibar,Kenya,Uganda,1394,1528,2,2,7,-7,1401,1521,91,65,2,-1,93,64,40,0,-134
+475,Dec 9 1990,CECAFA Cup in Zanzibar,Malawi,Zimbabwe,1417,1448,0,0,2,-2,1419,1446,87,80,0,0,87,80,40,0,-31
+476,Dec 11 1990,UDEAC Cup in Congo,Gabon,Central African Republic,1431,1256,1,0,11,-11,1442,1245,78,129,3,-2,81,127,40,0,175
+477,Dec 11 1990,CECAFA Cup in Zanzibar,Malawi,Tanzania,1419,1242,1,0,11,-11,1430,1231,83,132,2,-2,85,130,40,0,177
+478,Dec 12 1990,Friendly in the United States,Brazil,Mexico,1959,1887,0,0,-2,2,1957,1889,5,9,0,0,5,9,20,0,72
+479,Dec 12 1990,UDEAC Cup in Congo,Chad,Equatorial Guinea,1264,1092,1,0,11,-11,1275,1081,116,165,2,-2,118,163,40,0,172
+480,Dec 12 1990,CECAFA Cup in Zanzibar,Sudan,Kenya,1440,1401,2,1,18,-18,1458,1383,68,97,7,-2,75,95,40,0,39
+481,Dec 12 1990,CECAFA Cup in Zanzibar,Zanzibar,Zimbabwe,1149,1446,0,1,-10,10,1139,1456,154,76,-4,2,150,78,40,100,-197
+482,Dec 13 1990,UDEAC Cup in Congo,Cameroon,Central African Republic,1671,1245,3,0,6,-6,1677,1239,34,129,1,-1,35,128,40,0,426
+483,Dec 13 1990,UDEAC Cup in Congo,Congo,Equatorial Guinea,1454,1081,6,0,5,-5,1459,1076,71,163,4,0,75,163,40,100,473
+484,Dec 14 1990,CECAFA Cup in Zanzibar,Sudan,Uganda,1458,1521,2,2,4,-4,1462,1517,74,66,1,-1,75,65,40,0,-63
+485,Dec 14 1990,CECAFA Cup in Zanzibar,Tanzania,Zimbabwe,1231,1456,2,0,47,-47,1278,1409,106,97,12,-9,118,88,40,0,-225
+486,Dec 14 1990,CECAFA Cup in Zanzibar,Zanzibar,Malawi,1139,1430,2,1,30,-30,1169,1400,138,99,6,-7,144,92,40,100,-191
+487,Dec 15 1990,UDEAC Cup in Congo,Cameroon,Chad,1677,1275,1,0,4,-4,1681,1271,35,119,0,0,35,119,40,0,402
+488,Dec 15 1990,UDEAC Cup in Congo,Congo,Gabon,1459,1442,1,0,14,-14,1473,1428,74,85,1,-2,75,83,30,0,17
+489,Dec 17 1990,UDEAC Cup in Congo,Chad,Gabon,1271,1428,2,1,28,-28,1299,1400,111,99,4,-8,115,91,40,0,-157
+490,Dec 17 1990,UDEAC Cup in Congo,Central African Republic,Equatorial Guinea,1239,1076,3,3,-9,9,1230,1085,131,163,-1,0,130,163,40,0,163
+491,Dec 17 1990,CECAFA Cup in Zanzibar,Tanzania,Uganda,1278,1517,1,1,12,-12,1290,1505,116,71,1,-3,117,68,40,0,-239
+492,Dec 17 1990,CECAFA Cup in Zanzibar,Zanzibar,Sudan,1169,1462,0,1,-10,10,1159,1472,148,76,-2,0,146,76,40,100,-193
+493,Dec 18 1990,Friendly in Algeria,Algeria,Senegal,1782,1576,1,0,3,-3,1785,1573,21,55,1,0,22,55,20,100,306
+494,Dec 18 1990,UDEAC Cup in Congo,Congo,Cameroon,1473,1681,2,1,26,-26,1499,1655,63,43,6,-4,69,39,40,100,-108
+495,Dec 19 1990,Friendly in Germany,Germany,Switzerland,2077,1720,4,0,3,-3,2080,1717,1,32,0,0,1,32,20,100,457
+496,Dec 19 1990,Friendly in Greece,Greece,Poland,1706,1783,1,2,-11,11,1695,1794,33,19,0,2,33,21,20,100,23
+497,Dec 19 1990,European Championship qual in Malta,Malta,Netherlands,1374,1942,0,8,-6,6,1368,1948,103,6,-3,0,100,6,40,100,-468
+498,Dec 19 1990,Friendly in Morocco,Morocco,Senegal,1613,1573,0,0,-4,4,1609,1577,52,55,-1,0,51,55,20,100,140
+499,Dec 19 1990,Friendly in Portugal,Portugal,United States,1803,1587,1,0,3,-3,1806,1584,20,54,0,0,20,54,20,100,316
+500,Dec 19 1990,European Championship qual in Spain,Spain,Albania,1933,1398,9,0,3,-3,1936,1395,7,94,0,0,7,94,30,0,535
+501,Dec 19 1990,CECAFA Cup in Zanzibar,Zanzibar,Tanzania,1159,1290,1,2,-18,18,1141,1308,152,109,-3,4,149,113,40,100,-31
+502,Dec 20 1990,CECAFA Cup in Zanzibar,Uganda,Sudan,1505,1472,2,0,27,-27,1532,1445,58,84,5,-4,63,80,40,0,33
+503,Dec 22 1990,Friendly in Croatia,Croatia,Romania,1878,1823,2,0,9,-9,1887,1814,7,20,3,-1,10,19,20,100,155
+504,Dec 22 1990,European Championship qual in Cyprus,Cyprus,Italy,1258,2015,0,4,-2,2,1256,2017,127,2,-2,0,125,2,40,100,-657

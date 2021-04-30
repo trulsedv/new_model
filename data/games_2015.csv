@@ -1,0 +1,1019 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 3 2015,Friendly in Australia,China,Oman,1550,1553,4,1,18,-18,1568,1535,65,83,2,-8,67,75,20,0,-3
+1,Jan 4 2015,Friendly in Australia,Bahrain,Jordan,1472,1534,1,0,12,-12,1484,1522,84,82,5,-3,89,79,20,0,-62
+2,Jan 4 2015,Friendly in Australia,Iran,Iraq,1673,1507,1,0,6,-6,1679,1501,38,87,3,-1,41,86,20,0,166
+3,Jan 4 2015,Friendly in South Africa,South Africa,Zambia,1630,1517,1,0,5,-5,1635,1512,55,82,0,0,55,82,20,100,213
+4,Jan 4 2015,Friendly in Australia,South Korea,Saudi Arabia,1634,1473,2,0,9,-9,1643,1464,50,101,2,-4,52,97,20,0,161
+5,Jan 7 2015,Friendly in Cameroon,Cameroon,DR Congo,1644,1472,1,1,-7,7,1637,1479,57,92,-3,1,54,93,20,100,272
+6,Jan 7 2015,Friendly in Portugal,Cape Verde,Equatorial Guinea,1506,1308,1,1,-5,5,1501,1313,85,130,0,1,85,131,20,0,198
+7,Jan 9 2015,Asian Cup in Australia,Australia,Kuwait,1653,1498,4,1,16,-16,1669,1482,43,90,3,-1,46,89,50,100,255
+8,Jan 9 2015,Friendly in Morocco,Senegal,Gabon,1643,1529,1,0,7,-7,1650,1522,49,80,1,-2,50,78,20,0,114
+9,Jan 10 2015,Friendly in South Africa,Burkina Faso,Swaziland,1542,1142,5,1,3,-3,1545,1139,71,171,1,0,72,171,20,0,400
+10,Jan 10 2015,Friendly in Gabon,Cameroon,South Africa,1637,1635,1,1,0,0,1637,1635,54,55,0,0,54,55,20,0,2
+11,Jan 10 2015,Friendly in Senegal,Cape Verde,Congo,1501,1435,3,2,8,-8,1509,1427,81,106,2,-1,83,105,20,0,66
+12,Jan 10 2015,Asian Cup in Australia,China,Saudi Arabia,1568,1464,1,0,18,-18,1586,1446,65,101,1,-2,66,99,50,0,104
+13,Jan 10 2015,Asian Cup in Australia,South Korea,Oman,1643,1535,1,0,17,-17,1660,1518,46,85,3,-5,49,80,50,0,108
+14,Jan 10 2015,Asian Cup in Australia,Uzbekistan,North Korea,1647,1529,1,0,17,-17,1664,1512,43,86,4,-5,47,81,50,0,118
+15,Jan 11 2015,Asian Cup in Australia,Iran,Bahrain,1679,1484,2,0,18,-18,1697,1466,31,104,5,-8,36,96,50,0,195
+16,Jan 11 2015,Friendly in Tunisia,Tunisia,Algeria,1601,1674,1,1,-1,1,1600,1675,61,45,1,-1,62,44,20,100,27
+17,Jan 11 2015,Asian Cup in Australia,United Arab Emirates,Qatar,1641,1613,4,1,40,-40,1681,1573,31,73,11,-6,42,67,50,0,28
+18,Jan 12 2015,Asian Cup in Australia,Iraq,Jordan,1501,1522,1,0,27,-27,1528,1495,64,98,11,-11,75,87,50,0,-21
+19,Jan 12 2015,Asian Cup in Australia,Japan,Palestine,1728,1323,4,0,8,-8,1736,1315,25,131,2,-1,27,130,50,0,405
+20,Jan 13 2015,Asian Cup in Australia,Australia,Oman,1669,1518,4,0,18,-18,1687,1500,29,92,9,-6,38,86,50,100,251
+21,Jan 13 2015,Friendly in Morocco,Senegal,Guinea,1650,1594,5,2,15,-15,1665,1579,45,66,4,-1,49,65,20,0,56
+22,Jan 13 2015,Asian Cup in Australia,South Korea,Kuwait,1660,1482,1,0,13,-13,1673,1469,44,98,3,-5,47,93,50,0,178
+23,Jan 14 2015,Asian Cup in Australia,China,Uzbekistan,1586,1664,2,1,31,-31,1617,1633,56,60,4,-5,60,55,50,0,-78
+24,Jan 14 2015,Asian Cup in Australia,Saudi Arabia,North Korea,1446,1512,4,1,52,-52,1498,1460,73,114,13,-17,86,97,50,0,-66
+25,Jan 14 2015,Friendly in Gabon,South Africa,Mali,1635,1547,3,0,13,-13,1648,1534,51,77,2,-3,53,74,20,0,88
+26,Jan 15 2015,Asian Cup in Australia,Iran,Qatar,1697,1573,1,0,16,-16,1713,1557,32,67,2,0,34,67,50,0,124
+27,Jan 15 2015,Friendly in the United Arab Emirates,Sweden,Ivory Coast,1783,1690,2,0,11,-11,1794,1679,19,49,2,-6,21,43,20,0,93
+28,Jan 15 2015,Asian Cup in Australia,United Arab Emirates,Bahrain,1681,1466,2,1,11,-11,1692,1455,31,100,6,-2,37,98,50,0,215
+29,Jan 16 2015,Friendly in the United States,Iceland,Canada,1661,1509,2,1,6,-6,1667,1503,48,87,1,-3,49,84,20,0,152
+30,Jan 16 2015,Asian Cup in Australia,Japan,Iraq,1736,1528,1,0,12,-12,1748,1516,27,85,0,-5,27,80,50,0,208
+31,Jan 16 2015,Asian Cup in Australia,Jordan,Palestine,1495,1315,5,1,25,-25,1520,1290,69,136,9,-3,78,133,50,0,180
+32,Jan 17 2015,Asian Cup in Australia,Australia,South Korea,1687,1673,0,1,-33,33,1654,1706,66,27,-14,10,52,37,50,100,114
+33,Jan 17 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Congo,1313,1427,1,1,1,-1,1314,1426,130,105,0,0,130,105,30,100,-14
+34,Jan 17 2015,African Nations Cup in Equatorial Guinea,Gabon,Burkina Faso,1522,1545,2,0,40,-40,1562,1505,58,97,9,-13,67,84,50,0,-23
+35,Jan 17 2015,Asian Cup in Australia,Oman,Kuwait,1500,1469,1,0,23,-23,1523,1446,66,105,10,-6,76,99,50,0,31
+36,Jan 18 2015,African Nations Cup in Equatorial Guinea,Cape Verde,Tunisia,1509,1600,1,1,6,-6,1515,1594,80,65,1,-1,81,64,50,0,-91
+37,Jan 18 2015,Asian Cup in Australia,China,North Korea,1617,1460,2,1,14,-14,1631,1446,52,101,4,-3,56,98,50,0,157
+38,Jan 18 2015,African Nations Cup in Equatorial Guinea,DR Congo,Zambia,1479,1512,1,1,2,-2,1481,1510,87,83,2,-1,89,82,40,0,-33
+39,Jan 18 2015,Asian Cup in Australia,Uzbekistan,Saudi Arabia,1633,1498,3,1,24,-24,1657,1474,47,97,4,-5,51,92,50,0,135
+40,Jan 19 2015,African Nations Cup in Equatorial Guinea,Algeria,South Africa,1675,1648,3,1,35,-35,1710,1613,27,68,9,-7,36,61,50,0,27
+41,Jan 19 2015,Asian Cup in Australia,Bahrain,Qatar,1455,1557,2,1,32,-32,1487,1525,78,80,9,-6,87,74,50,0,-102
+42,Jan 19 2015,Friendly in the United States,Canada,Iceland,1503,1667,1,1,4,-4,1507,1663,83,48,1,0,84,48,20,0,-164
+43,Jan 19 2015,Friendly in the United Arab Emirates,Finland,Sweden,1625,1794,1,0,15,-15,1640,1779,49,25,5,-2,54,23,20,0,-169
+44,Jan 19 2015,Asian Cup in Australia,Iran,United Arab Emirates,1713,1692,1,0,23,-23,1736,1669,22,56,6,-9,28,47,50,0,21
+45,Jan 19 2015,African Nations Cup in Equatorial Guinea,Senegal,Ghana,1665,1683,2,1,26,-26,1691,1657,29,58,10,-8,39,50,50,0,-18
+46,Jan 20 2015,African Nations Cup in Equatorial Guinea,Cameroon,Mali,1637,1534,1,1,-7,7,1630,1541,57,71,-1,1,56,72,50,0,103
+47,Jan 20 2015,African Nations Cup in Equatorial Guinea,Guinea,Ivory Coast,1579,1679,1,1,7,-7,1586,1672,65,47,0,-2,65,45,50,0,-100
+48,Jan 20 2015,Asian Cup in Australia,Iraq,Palestine,1516,1290,2,0,16,-16,1532,1274,68,141,6,-4,74,137,50,0,226
+49,Jan 20 2015,Asian Cup in Australia,Japan,Jordan,1748,1520,2,0,16,-16,1764,1504,23,92,2,-7,25,85,50,0,228
+50,Jan 21 2015,African Nations Cup in Equatorial Guinea,Congo,Gabon,1426,1562,1,0,34,-34,1460,1528,87,81,9,-7,96,74,50,0,-136
+51,Jan 21 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Burkina Faso,1314,1505,0,0,6,-6,1320,1499,130,88,0,-2,130,86,50,100,-91
+52,Jan 22 2015,Asian Cup in Australia,Australia,China,1654,1631,2,0,25,-25,1679,1606,33,69,10,-7,43,62,50,100,123
+53,Jan 22 2015,African Nations Cup in Equatorial Guinea,Cape Verde,DR Congo,1515,1481,0,0,-2,2,1513,1483,80,86,0,2,80,88,40,0,34
+54,Jan 22 2015,Friendly in the United Arab Emirates,Finland,Yemen,1640,1202,0,0,-9,9,1631,1211,52,154,1,3,53,157,20,0,438
+55,Jan 22 2015,Asian Cup in Australia,South Korea,Uzbekistan,1706,1657,2,0,32,-32,1738,1625,18,64,10,-7,28,57,50,0,49
+56,Jan 22 2015,African Nations Cup in Equatorial Guinea,Tunisia,Zambia,1594,1510,2,1,19,-19,1613,1491,56,91,4,-5,60,86,50,0,84
+57,Jan 23 2015,African Nations Cup in Equatorial Guinea,Ghana,Algeria,1657,1710,1,0,29,-29,1686,1681,25,49,13,-6,38,43,50,0,-53
+58,Jan 23 2015,Asian Cup in Australia,Iran,Iraq,1736,1532,3,3,-13,13,1723,1545,39,67,-5,3,34,70,50,0,204
+59,Jan 23 2015,Asian Cup in Australia,Japan,United Arab Emirates,1764,1669,1,1,-7,7,1757,1676,25,44,0,2,25,46,50,0,95
+60,Jan 23 2015,African Nations Cup in Equatorial Guinea,Senegal,South Africa,1691,1613,1,1,-6,6,1685,1619,39,58,0,1,39,59,50,0,78
+61,Jan 24 2015,African Nations Cup in Equatorial Guinea,Cameroon,Guinea,1630,1586,1,1,-3,3,1627,1589,56,65,-1,0,55,65,40,0,44
+62,Jan 24 2015,African Nations Cup in Equatorial Guinea,Ivory Coast,Mali,1672,1541,1,1,-9,9,1663,1550,50,64,-1,4,49,68,30,100,231
+63,Jan 25 2015,African Nations Cup in Equatorial Guinea,Congo,Burkina Faso,1460,1499,2,1,28,-28,1488,1471,74,103,11,-9,85,94,50,0,-39
+64,Jan 25 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Gabon,1320,1528,2,0,49,-49,1369,1479,104,108,13,-17,117,91,50,100,-108
+65,Jan 26 2015,African Nations Cup in Equatorial Guinea,Cape Verde,Zambia,1513,1491,0,0,-2,2,1511,1493,79,84,0,0,79,84,50,0,22
+66,Jan 26 2015,African Nations Cup in Equatorial Guinea,DR Congo,Tunisia,1483,1613,1,1,9,-9,1492,1604,83,65,2,-2,85,63,50,0,-130
+67,Jan 26 2015,Asian Cup in Australia,South Korea,Iraq,1738,1545,2,0,19,-19,1757,1526,22,75,3,-2,25,73,50,0,193
+68,Jan 27 2015,African Nations Cup in Equatorial Guinea,Algeria,Senegal,1681,1685,2,0,38,-38,1719,1647,27,65,8,-13,35,52,50,0,-4
+69,Jan 27 2015,Asian Cup in Australia,Australia,United Arab Emirates,1679,1676,2,0,27,-27,1706,1649,34,56,5,-5,39,51,50,100,103
+70,Jan 27 2015,African Nations Cup in Equatorial Guinea,Ghana,South Africa,1686,1619,2,1,20,-20,1706,1599,40,67,-1,-4,39,63,50,0,67
+71,Jan 28 2015,Friendly in Chile,Chile,United States,1963,1813,3,2,4,-4,1967,1809,5,19,1,0,6,19,20,100,250
+72,Jan 28 2015,African Nations Cup in Equatorial Guinea,Guinea,Mali,1589,1550,1,1,-3,3,1586,1553,65,66,0,1,65,67,50,0,39
+73,Jan 28 2015,African Nations Cup in Equatorial Guinea,Ivory Coast,Cameroon,1663,1627,1,0,22,-22,1685,1605,35,67,6,-6,41,61,50,0,36
+74,Jan 30 2015,Friendly tournament in Suriname,Aruba,Curaçao,938,1070,0,0,5,-5,943,1065,196,184,0,-2,196,182,30,0,-132
+75,Jan 30 2015,Friendly tournament in Suriname,Suriname,Bonaire,1234,1021,3,0,7,-7,1241,1014,138,188,5,0,143,188,30,100,313
+76,Jan 30 2015,Asian Cup in Australia,United Arab Emirates,Iraq,1649,1526,3,2,17,-17,1666,1509,45,85,3,-6,48,79,50,0,123
+77,Jan 31 2015,Asian Cup in Australia,Australia,South Korea,1706,1757,2,1,21,-21,1727,1736,25,31,7,-3,32,28,50,100,49
+78,Jan 31 2015,African Nations Cup in Equatorial Guinea,DR Congo,Congo,1492,1488,4,2,37,-37,1529,1451,61,110,12,-12,73,98,50,0,4
+79,Jan 31 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Tunisia,1369,1604,2,1,34,-34,1403,1570,103,70,7,-4,110,66,50,100,-135
+80,Feb 1 2015,Friendly in Barbados,Barbados,Guyana,1147,1220,2,2,-1,1,1146,1221,170,154,0,1,170,155,20,100,27
+81,Feb 1 2015,Friendly tournament in Suriname,Curaçao,Bonaire,1065,1014,4,1,22,-22,1087,992,176,190,3,-1,179,189,30,0,51
+82,Feb 1 2015,African Nations Cup in Equatorial Guinea,Ghana,Guinea,1706,1586,3,0,29,-29,1735,1557,18,68,11,-2,29,66,50,0,120
+83,Feb 1 2015,African Nations Cup in Equatorial Guinea,Ivory Coast,Algeria,1685,1719,3,1,41,-41,1726,1678,27,52,7,-8,34,44,50,0,-34
+84,Feb 1 2015,Friendly tournament in Suriname,Suriname,Aruba,1241,943,1,0,3,-3,1244,940,143,196,0,0,143,196,20,0,298
+85,Feb 2 2015,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Sri Lanka,945,836,1,0,7,-7,952,829,193,208,1,0,194,208,20,0,109
+86,Feb 4 2015,Friendly in Honduras,Honduras,Venezuela,1552,1674,2,3,-9,9,1543,1683,74,42,-3,2,71,44,20,100,-22
+87,Feb 4 2015,African Nations Cup in Equatorial Guinea,Ivory Coast,DR Congo,1726,1529,3,1,18,-18,1744,1511,22,83,6,-5,28,78,50,0,197
+88,Feb 5 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Ghana,1403,1735,0,3,-18,18,1385,1753,116,24,-3,3,113,27,50,100,-232
+89,Feb 6 2015,Friendly in Pakistan,Pakistan,Afghanistan,931,1096,2,1,12,-12,943,1084,193,180,3,-1,196,179,20,100,-65
+90,Feb 7 2015,African Nations Cup in Equatorial Guinea,Equatorial Guinea,DR Congo,1385,1511,0,0,2,-2,1387,1509,113,80,0,-1,113,79,50,100,-26
+91,Feb 8 2015,African Nations Cup in Equatorial Guinea,Ghana,Ivory Coast,1753,1744,0,0,-1,1,1752,1745,27,29,0,0,27,29,40,0,9
+92,Feb 8 2015,Friendly in the United States,United States,Panama,1809,1713,2,0,7,-7,1816,1706,19,41,0,-1,19,40,20,100,196
+93,Feb 11 2015,Friendly in Venezuela,Venezuela,Honduras,1683,1543,2,1,4,-4,1687,1539,38,71,3,0,41,71,20,100,240
+94,Feb 18 2015,Friendly in Turkey,Kazakhstan,Moldova,1354,1412,1,1,2,-2,1356,1410,123,107,0,0,123,107,20,0,-58
+95,Feb 28 2015,Friendly in Anguilla,Anguilla,British Virgin Islands,552,635,1,0,10,-10,562,625,233,229,0,-1,233,228,20,100,17
+96,Mar 1 2015,Friendly in Anguilla,Anguilla,British Virgin Islands,562,625,3,1,13,-13,575,612,231,230,1,-1,232,229,20,100,37
+97,Mar 6 2015,Friendly in Barbados,Barbados,St Vincent & Grenadines,1146,1172,3,1,12,-12,1158,1160,168,169,1,-1,169,168,20,100,74
+98,Mar 6 2015,Friendly in Bermuda,Bermuda,Grenada,1204,1164,2,2,-4,4,1200,1168,161,166,-1,1,160,167,20,100,140
+99,Mar 8 2015,Friendly in Antigua and Barbuda,Antigua and Barbuda,US Virgin Islands,1268,680,2,0,1,-1,1269,679,139,222,0,0,139,222,20,0,588
+100,Mar 8 2015,Friendly in Barbados,Barbados,St Vincent & Grenadines,1158,1160,2,2,-3,3,1155,1163,169,166,0,1,169,167,20,100,98
+101,Mar 8 2015,Friendly in Bermuda,Bermuda,Grenada,1200,1168,2,0,10,-10,1210,1158,156,169,2,-1,158,168,20,100,132
+102,Mar 12 2015,World Cup & Asian Cup qual in Cambodia,Cambodia,Macao,717,636,3,0,18,-18,735,618,212,232,2,-3,214,229,40,100,181
+103,Mar 12 2015,World Cup & Asian Cup qual in East Timor,East Timor,Mongolia,639,734,4,1,34,-34,673,700,225,220,0,-3,225,217,40,100,5
+104,Mar 12 2015,World Cup & Asian Cup qual in India,India,Nepal,1068,883,2,0,10,-10,1078,873,179,204,1,0,180,204,40,100,285
+105,Mar 12 2015,World Cup & Asian Cup qual in Sri Lanka,Sri Lanka,Bhutan,829,521,0,1,-37,37,792,558,212,233,-2,1,210,234,40,100,408
+106,Mar 12 2015,World Cup & Asian Cup qual in Taiwan,Taiwan,Brunei,794,606,0,1,-34,34,760,640,215,222,-2,4,213,226,40,100,288
+107,Mar 12 2015,World Cup & Asian Cup qual in Qatar,Yemen,Pakistan,1211,943,3,1,11,-11,1222,932,153,200,2,-2,155,198,40,0,268
+108,Mar 15 2015,Friendly in Antigua and Barbuda,Antigua and Barbuda,Dominica,1269,952,1,0,2,-2,1271,950,139,196,0,-1,139,195,20,100,417
+109,Mar 17 2015,World Cup & Asian Cup qual in Bhutan,Bhutan,Sri Lanka,558,792,2,1,27,-27,585,765,228,216,3,-3,231,213,40,100,-134
+110,Mar 17 2015,World Cup & Asian Cup qual in Brunei,Brunei,Taiwan,640,760,0,2,-28,28,612,788,232,209,-3,2,229,211,40,100,-20
+111,Mar 17 2015,World Cup & Asian Cup qual in Macao,Macao,Cambodia,618,735,1,1,1,-1,619,734,225,214,2,0,227,214,30,100,-17
+112,Mar 17 2015,World Cup & Asian Cup qual in Mongolia,Mongolia,East Timor,700,673,0,1,-27,27,673,700,233,209,-8,8,225,217,40,100,127
+113,Mar 17 2015,World Cup & Asian Cup qual in Nepal,Nepal,India,873,1078,0,0,6,-6,879,1072,204,182,0,-1,204,181,40,100,-105
+114,Mar 22 2015,Friendly in Antigua and Barbuda,Antigua and Barbuda,British Virgin Islands,1271,612,1,0,0,0,1271,612,139,229,0,0,139,229,20,0,659
+115,Mar 22 2015,World Cup qualifier in Barbados,Barbados,US Virgin Islands,1155,679,0,1,-39,39,1116,718,179,210,-5,6,174,216,40,100,576
+116,Mar 22 2015,Friendly in Guyana,Guyana,Saint Lucia,1221,1132,2,0,8,-8,1229,1124,144,173,6,0,150,173,20,100,189
+117,Mar 23 2015,World Cup qualifier in Nicaragua,Nicaragua,Anguilla,1105,575,5,0,2,-2,1107,573,176,233,0,0,176,233,20,0,530
+118,Mar 23 2015,World Cup & Asian Cup qual in Bahrain,Pakistan,Yemen,932,1222,0,0,14,-14,946,1208,194,160,2,-2,196,158,40,0,-290
+119,Mar 23 2015,World Cup qualifier in Saint Kitts and Nevis,Saint Kitts and Nevis,Turks and Caicos Islands,1203,776,6,2,3,-3,1206,773,160,212,0,0,160,212,20,0,427
+120,Mar 25 2015,World Cup qualifier in the Bahamas,Bahamas,Bermuda,932,1210,0,5,-21,21,911,1231,201,141,-1,8,200,149,40,100,-178
+121,Mar 25 2015,World Cup qualifier in Belize,Belize,Cayman Islands,1138,936,0,0,-14,14,1124,950,173,192,-1,3,172,195,40,100,302
+122,Mar 25 2015,Friendly in Denmark,Denmark,United States,1755,1816,3,2,9,-9,1764,1807,24,19,1,0,25,19,20,100,39
+123,Mar 25 2015,Friendly in the Dominican Republic,Dominican Republic,Cuba,1234,1396,0,3,-14,14,1220,1410,165,103,-8,4,157,107,20,100,-62
+124,Mar 25 2015,CONCACAF Champ qual in French Guiana,French Guiana,Honduras,1273,1539,3,1,43,-43,1316,1496,124,99,7,-14,131,85,40,100,-166
+125,Mar 25 2015,Friendly in France,Gabon,Mali,1479,1553,4,3,12,-12,1491,1541,84,73,3,-3,87,70,20,0,-74
+126,Mar 25 2015,Friendly in Georgia,Georgia,Malta,1468,1238,2,0,4,-4,1472,1234,92,151,1,-3,93,148,20,100,330
+127,Mar 25 2015,Friendly in Germany,Germany,Australia,2134,1727,2,2,-9,9,2125,1736,1,26,0,4,1,30,20,100,507
+128,Mar 25 2015,Friendly in Indonesia,Indonesia,Cameroon,1207,1605,0,1,-3,3,1204,1608,161,57,-1,2,160,59,20,100,-298
+129,Mar 25 2015,Friendly in Mauritius,Mauritius,Burundi,1022,1322,2,2,5,-5,1027,1317,187,130,0,0,187,130,20,100,-200
+130,Mar 25 2015,Friendly in Nigeria,Nigeria,Uganda,1678,1481,0,1,-17,17,1661,1498,53,77,-4,6,49,83,20,100,297
+131,Mar 25 2015,Friendly in Scotland,Scotland,Northern Ireland,1724,1501,1,0,3,-3,1727,1498,34,82,1,1,35,83,20,100,323
+132,Mar 25 2015,Friendly in Swaziland,Swaziland,South Africa,1139,1599,1,3,-3,3,1136,1602,170,62,0,0,170,62,20,100,-360
+133,Mar 26 2015,Friendly in Bahrain,Bahrain,Colombia,1487,2020,0,6,-3,3,1484,2023,90,5,-1,0,89,5,20,100,-433
+134,Mar 26 2015,Friendly in Costa Rica,Costa Rica,Paraguay,1866,1685,0,0,-7,7,1859,1692,15,40,0,1,15,41,20,100,281
+135,Mar 26 2015,World Cup qualifier in Dominica,Dominica,British Virgin Islands,950,612,3,2,3,-3,953,609,193,231,1,-1,194,230,20,0,338
+136,Mar 26 2015,Friendly in Egypt,Egypt,Equatorial Guinea,1616,1387,2,0,4,-4,1620,1383,58,113,0,0,58,113,20,100,329
+137,Mar 26 2015,Friendly in France,France,Brazil,1965,2042,1,3,-16,16,1949,2058,7,1,0,1,7,2,20,100,23
+138,Mar 26 2015,Friendly in Austria,Iran,Chile,1723,1967,2,0,24,-24,1747,1943,23,10,7,-2,30,8,20,0,-244
+139,Mar 26 2015,Friendly in Ivory Coast,Ivory Coast,Angola,1745,1441,2,0,3,-3,1748,1438,29,104,0,0,29,104,20,100,404
+140,Mar 26 2015,Friendly in Jordan,Jordan,Syria,1504,1478,0,1,-13,13,1491,1491,90,81,-4,5,86,86,20,100,126
+141,Mar 26 2015,Friendly in the Maldives,Maldives,Tajikistan,1068,1262,0,2,-11,11,1057,1273,188,138,-3,1,185,139,20,100,-94
+142,Mar 26 2015,Friendly in Oman,Oman,Malaysia,1523,1224,6,0,4,-4,1527,1220,72,158,1,-2,73,156,20,100,399
+143,Mar 26 2015,Friendly in Qatar,Qatar,Algeria,1525,1678,1,0,12,-12,1537,1666,72,47,0,-1,72,46,20,100,-53
+144,Mar 26 2015,Friendly in Thailand,Thailand,Singapore,1363,1173,2,0,5,-5,1368,1168,118,166,0,0,118,166,20,100,290
+145,Mar 26 2015,World Cup qualifier in Turks and Caicos Islands,Turks and Caicos Islands,Saint Kitts and Nevis,773,1206,2,6,-10,10,763,1216,214,157,-1,1,213,158,40,100,-333
+146,Mar 26 2015,World Cup qualifier in the US Virgin Islands,US Virgin Islands,Barbados,718,1116,0,4,-11,11,707,1127,216,170,0,2,216,172,40,100,-298
+147,Mar 27 2015,Friendly in the United States,Canada,Guatemala,1507,1539,1,0,11,-11,1518,1528,71,75,5,-2,76,73,20,0,-32
+148,Mar 27 2015,Friendly in China,China,Haiti,1606,1446,2,2,-6,6,1600,1452,66,97,-3,1,63,98,20,100,260
+149,Mar 27 2015,World Cup qualifier in Curaçao,Curaçao,Montserrat,1087,619,2,1,1,-1,1088,618,178,229,0,-1,178,228,20,0,468
+150,Mar 27 2015,European Championship qual in England,England,Lithuania,1924,1467,4,0,3,-3,1927,1464,9,93,0,1,9,94,20,0,457
+151,Mar 27 2015,Friendly in The Gambia,Gambia,Mauritania,1334,1200,1,0,4,-4,1338,1196,125,163,1,-1,126,162,20,100,234
+152,Mar 27 2015,Friendly in Jamaica,Jamaica,Venezuela,1522,1687,2,1,12,-12,1534,1675,69,46,3,-2,72,44,20,100,-65
+153,Mar 27 2015,Friendly in Japan,Japan,Tunisia,1757,1570,2,0,5,-5,1762,1565,26,67,0,-1,26,66,20,100,287
+154,Mar 27 2015,European Championship qual in Liechtenstein,Liechtenstein,Austria,1221,1714,0,5,-8,8,1213,1722,161,38,-3,0,158,38,40,100,-393
+155,Mar 27 2015,European Championship qual in Macedonia,Macedonia,Belarus,1482,1550,1,2,-22,22,1460,1572,100,63,-5,2,95,65,40,100,32
+156,Mar 27 2015,European Championship qual in Moldova,Moldova,Sweden,1410,1779,0,2,-11,11,1399,1790,115,21,-4,1,111,22,40,100,-269
+157,Mar 27 2015,European Championship qual in Montenegro,Montenegro,Russia,1597,1779,0,0,5,-5,1602,1774,59,25,2,-1,61,24,20,0,-182
+158,Mar 27 2015,European Championship qual in Slovakia,Slovakia,Luxembourg,1751,1225,3,0,2,-2,1753,1223,26,156,1,-2,27,154,20,0,526
+159,Mar 27 2015,European Championship qual in Slovenia,Slovenia,San Marino,1655,889,6,0,1,-1,1656,888,51,203,0,0,51,203,20,0,766
+160,Mar 27 2015,Friendly in South Korea,South Korea,Uzbekistan,1736,1625,1,1,-5,5,1731,1630,35,52,-2,2,33,54,20,100,211
+161,Mar 27 2015,European Championship qual in Spain,Spain,Ukraine,1954,1825,1,0,8,-8,1962,1817,6,19,0,-1,6,18,40,100,229
+162,Mar 27 2015,European Championship qual in Switzerland,Switzerland,Estonia,1793,1460,3,0,5,-5,1798,1455,21,96,0,0,21,96,40,100,433
+163,Mar 27 2015,Friendly in Trinidad and Tobago,Trinidad and Tobago,Panama,1525,1706,0,1,-8,8,1517,1714,80,38,-3,1,77,39,20,100,-81
+164,Mar 28 2015,European Championship qual in Andorra,Andorra,Bosnia and Herzegovina,976,1710,0,3,-2,2,974,1712,192,40,0,0,192,40,40,100,-634
+165,Mar 28 2015,Friendly in the United States,Argentina,El Salvador,2050,1508,2,0,1,-1,2051,1507,3,79,0,1,3,80,20,0,542
+166,Mar 28 2015,European Championship qual in Azerbaijan,Azerbaijan,Malta,1405,1234,2,0,10,-10,1415,1224,105,156,2,-4,107,152,40,100,271
+167,Mar 28 2015,European Championship qual in Belgium,Belgium,Cyprus,1899,1406,5,0,3,-3,1902,1403,12,110,0,-1,12,109,30,0,493
+168,Mar 28 2015,European Championship qual in Bulgaria,Bulgaria,Italy,1606,1885,2,2,9,-9,1615,1876,56,14,2,0,58,14,40,100,-179
+169,Mar 28 2015,European Championship qual in Croatia,Croatia,Norway,1825,1626,5,1,11,-11,1836,1615,17,60,0,-2,17,58,40,100,299
+170,Mar 28 2015,European Championship qual in Czechia,Czechia,Latvia,1805,1444,1,1,-17,17,1788,1461,24,88,-2,7,22,95,40,100,461
+171,Mar 28 2015,Friendly in Hong Kong,Hong Kong,Guam,1152,806,1,0,1,-1,1153,805,169,209,0,0,169,209,20,100,446
+172,Mar 28 2015,Friendly in the United Arab Emirates,Iraq,DR Congo,1509,1509,2,1,10,-10,1519,1499,71,83,4,-2,75,81,20,0,0
+173,Mar 28 2015,European Championship qual in Israel,Israel,Wales,1684,1621,0,3,-50,50,1634,1671,63,35,-10,11,53,46,40,100,163
+174,Mar 28 2015,European Championship qual in Kazakhstan,Kazakhstan,Iceland,1356,1663,0,3,-16,16,1340,1679,127,38,-2,5,125,43,40,100,-207
+175,Mar 28 2015,Friendly in Mauritius,Mauritius,Togo,1027,1443,1,1,7,-7,1034,1436,187,105,0,-1,187,104,20,100,-316
+176,Mar 28 2015,Friendly in the United States,Mexico,Ecuador,1893,1847,1,0,9,-9,1902,1838,11,16,1,0,12,16,20,0,46
+177,Mar 28 2015,Friendly in Morocco,Morocco,Uruguay,1545,1908,0,1,-4,4,1541,1912,69,9,0,1,69,10,20,100,-263
+178,Mar 28 2015,European Championship qual in the Netherlands,Netherlands,Turkey,2030,1685,1,1,-17,17,2013,1702,6,40,-1,1,5,41,40,100,445
+179,Mar 28 2015,Friendly in France,Senegal,Ghana,1647,1752,2,1,13,-13,1660,1739,48,32,2,-2,50,30,20,0,-105
+180,Mar 29 2015,European Championship qual in Albania,Albania,Armenia,1578,1550,2,1,13,-13,1591,1537,64,72,0,-2,64,70,40,100,128
+181,Mar 29 2015,World Cup qualifier in Anguilla,Anguilla,Nicaragua,573,1107,0,3,-5,5,568,1112,233,174,0,1,233,175,40,100,-434
+182,Mar 29 2015,World Cup qualifier in Bermuda,Bermuda,Bahamas,1231,911,3,0,6,-6,1237,905,146,202,1,-1,147,201,40,100,420
+183,Mar 29 2015,Friendly in Botswana,Botswana,Mozambique,1309,1378,1,2,-11,11,1298,1389,132,112,0,1,132,113,20,100,31
+184,Mar 29 2015,Friendly in England,Brazil,Chile,2058,1943,1,0,7,-7,2065,1936,2,8,0,0,2,8,20,0,115
+185,Mar 29 2015,World Cup qualifier in the Cayman Islands,Cayman Islands,Belize,950,1124,1,1,4,-4,954,1120,192,175,2,-1,194,174,40,100,-74
+186,Mar 29 2015,World Cup qualifier in Dominica,Dominica,British Virgin Islands,953,609,0,0,-17,17,936,626,202,224,-4,3,198,227,40,100,444
+187,Mar 29 2015,Friendly in France,France,Denmark,1949,1764,2,0,5,-5,1954,1759,7,27,0,-1,7,26,20,100,285
+188,Mar 29 2015,European Championship qual in Georgia,Georgia,Germany,1472,2125,0,2,-2,2,1470,2127,94,1,-1,0,93,1,30,100,-553
+189,Mar 29 2015,Friendly in Guyana,Guyana,Grenada,1229,1158,2,0,8,-8,1237,1150,145,170,2,-1,147,169,20,100,171
+190,Mar 29 2015,CONCACAF Champ qual in Honduras,Honduras,French Guiana,1496,1316,3,0,12,-12,1508,1304,78,131,3,0,81,131,40,100,280
+191,Mar 29 2015,European Championship qual in Hungary,Hungary,Greece,1658,1672,0,0,-5,5,1653,1677,53,43,-1,1,52,44,40,100,86
+192,Mar 29 2015,European Championship qual in Ireland,Ireland,Poland,1732,1728,1,1,-6,6,1726,1734,40,29,-4,3,36,32,40,100,104
+193,Mar 29 2015,Friendly in Ivory Coast,Ivory Coast,Equatorial Guinea,1748,1383,1,1,-9,9,1739,1392,30,111,-1,1,29,112,20,100,465
+194,Mar 29 2015,European Championship qual in Northern Ireland,Northern Ireland,Finland,1498,1631,2,1,22,-22,1520,1609,68,64,7,-5,75,59,40,100,-33
+195,Mar 29 2015,European Championship qual in Portugal,Portugal,Serbia,1910,1726,2,1,7,-7,1917,1719,9,39,1,-1,10,38,40,100,284
+196,Mar 29 2015,European Championship qual in Romania,Romania,Faroe Islands,1786,1225,1,0,1,-1,1787,1224,23,151,0,0,23,151,20,0,561
+197,Mar 29 2015,European Championship qual in Scotland,Scotland,Gibraltar,1727,1132,6,1,1,-1,1728,1131,34,171,1,0,35,171,20,0,595
+198,Mar 29 2015,Friendly in South Africa,South Africa,Nigeria,1602,1661,1,1,-1,1,1601,1662,63,49,-1,0,62,49,20,100,41
+199,Mar 29 2015,Friendly in Tanzania,Tanzania,Malawi,1347,1357,1,1,-3,3,1344,1360,125,119,-1,1,124,120,20,100,90
+200,Mar 29 2015,Friendly in Zambia,Zambia,Rwanda,1493,1394,2,0,7,-7,1500,1387,81,116,2,-2,83,114,20,100,199
+201,Mar 30 2015,Friendly in Qatar,Algeria,Oman,1666,1527,4,1,11,-11,1677,1516,41,84,3,-5,44,79,20,0,139
+202,Mar 30 2015,Friendly in Bahrain,Bahrain,Philippines,1484,1224,2,1,2,-2,1486,1222,87,157,1,-3,88,154,20,100,360
+203,Mar 30 2015,Friendly in Turkey,Belarus,Gabon,1572,1491,0,0,-2,2,1570,1493,65,86,0,0,65,86,20,0,81
+204,Mar 30 2015,Friendly in the United Arab Emirates,Colombia,Kuwait,2023,1446,3,1,1,-1,2024,1445,4,103,0,-1,4,102,20,0,577
+205,Mar 30 2015,Friendly in Indonesia,Indonesia,Myanmar,1204,1062,2,1,4,-4,1208,1058,158,183,1,0,159,183,20,100,242
+206,Mar 30 2015,Friendly in Jamaica,Jamaica,Cuba,1534,1410,3,0,8,-8,1542,1402,66,110,3,-1,69,109,20,100,224
+207,Mar 30 2015,Friendly in Macedonia,Macedonia,Australia,1460,1736,0,0,5,-5,1465,1731,92,33,2,-1,94,32,20,100,-176
+208,Mar 30 2015,Friendly in Puerto Rico,Puerto Rico,Canada,1059,1518,0,3,-4,4,1055,1522,186,70,-1,4,185,74,20,100,-359
+209,Mar 30 2015,Friendly in Qatar,Qatar,Slovenia,1537,1656,1,0,11,-11,1548,1645,66,53,2,-1,68,52,20,100,-19
+210,Mar 30 2015,Friendly in Saudi Arabia,Saudi Arabia,Jordan,1474,1491,2,1,8,-8,1482,1483,89,92,1,-3,90,89,20,100,83
+211,Mar 30 2015,Friendly in Thailand,Thailand,Cameroon,1368,1608,2,3,-6,6,1362,1614,120,58,-1,1,119,59,20,100,-140
+212,Mar 31 2015,Friendly in the United States,Argentina,Ecuador,2051,1838,2,1,5,-5,2056,1833,3,18,0,-1,3,17,20,0,213
+213,Mar 31 2015,Friendly in Austria,Austria,Bosnia and Herzegovina,1722,1712,1,1,-3,3,1719,1715,37,40,0,0,37,40,20,100,110
+214,Mar 31 2015,Friendly in China,China,Tunisia,1600,1565,1,1,-4,4,1596,1569,63,66,0,0,63,66,20,100,135
+215,Mar 31 2015,Friendly in the United States,El Salvador,Guatemala,1507,1528,0,0,1,-1,1508,1527,80,77,1,-2,81,75,20,0,-21
+216,Mar 31 2015,Friendly in Estonia,Estonia,Iceland,1455,1679,1,1,3,-3,1458,1676,97,49,0,-3,97,46,20,100,-124
+217,Mar 31 2015,Friendly in France,Ghana,Mali,1739,1541,1,1,-5,5,1734,1546,31,68,-1,1,30,69,20,0,198
+218,Mar 31 2015,Friendly in the United Arab Emirates,Iraq,DR Congo,1519,1499,1,0,9,-9,1528,1490,72,90,2,-3,74,87,20,0,20
+219,Mar 31 2015,European Championship qual in Israel,Israel,Belgium,1634,1902,0,1,-11,11,1623,1913,55,8,-1,2,54,10,40,100,-168
+220,Mar 31 2015,Friendly in Italy,Italy,England,1876,1927,1,1,-1,1,1875,1928,14,9,0,0,14,9,20,100,49
+221,Mar 31 2015,Friendly in Japan,Japan,Uzbekistan,1762,1630,5,1,8,-8,1770,1622,23,56,1,-1,24,55,20,100,232
+222,Mar 31 2015,Friendly in Liechtenstein,Liechtenstein,San Marino,1213,888,1,0,2,-2,1215,886,158,203,0,0,158,203,20,100,425
+223,Mar 31 2015,Friendly in Luxembourg,Luxembourg,Turkey,1223,1702,1,2,-2,2,1221,1704,155,41,-1,0,154,41,20,100,-379
+224,Mar 31 2015,Friendly in Mauritania,Mauritania,Niger,1196,1282,2,0,14,-14,1210,1268,156,143,3,-4,159,139,20,100,14
+225,Mar 31 2015,Friendly in the United States,Mexico,Paraguay,1902,1692,1,0,5,-5,1907,1687,12,42,0,0,12,42,20,0,210
+226,Mar 31 2015,World Cup qualifier in Montserrat,Montserrat,Curaçao,618,1088,2,2,16,-16,634,1072,223,182,3,-2,226,180,40,100,-370
+227,Mar 31 2015,Friendly in the Netherlands,Netherlands,Spain,2013,1962,2,0,9,-9,2022,1953,5,8,0,-1,5,7,20,100,151
+228,Mar 31 2015,Friendly in Panama,Panama,Costa Rica,1714,1859,2,1,11,-11,1725,1848,33,15,3,0,36,15,20,100,-45
+229,Mar 31 2015,Friendly in Portugal,Portugal,Cape Verde,1917,1511,0,2,-28,28,1889,1539,16,64,-3,8,13,72,20,100,506
+230,Mar 31 2015,Friendly in Russia,Russia,Kazakhstan,1774,1340,0,0,-9,9,1765,1349,26,121,-1,2,25,123,20,100,534
+231,Mar 31 2015,Friendly in Singapore,Singapore,Guam,1168,805,2,2,-9,9,1159,814,168,207,-1,1,167,208,20,100,463
+232,Mar 31 2015,Friendly in Slovakia,Slovakia,Czechia,1753,1788,1,0,8,-8,1761,1780,25,24,1,-1,26,23,20,100,65
+233,Mar 31 2015,Friendly in South Korea,South Korea,New Zealand,1731,1519,1,0,3,-3,1734,1516,28,82,2,-3,30,79,20,100,312
+234,Mar 31 2015,Friendly in Sweden,Sweden,Iran,1790,1747,3,1,9,-9,1799,1738,19,30,1,-1,20,29,20,100,143
+235,Mar 31 2015,Friendly in Switzerland,Switzerland,United States,1798,1807,1,1,-3,3,1795,1810,22,17,-1,1,21,18,20,100,91
+236,Mar 31 2015,Friendly in Tajikistan,Tajikistan,Syria,1273,1491,2,3,-7,7,1266,1498,141,81,-1,3,140,84,20,100,-118
+237,Mar 31 2015,Friendly in Ukraine,Ukraine,Latvia,1817,1461,1,1,-9,9,1808,1470,20,90,-1,3,19,93,20,100,456
+238,Mar 31 2015,Friendly in the United States,Venezuela,Peru,1675,1730,1,0,12,-12,1687,1718,38,44,4,-5,42,39,20,0,-55
+239,Apr 15 2015,Friendly in the United States,United States,Mexico,1810,1907,2,0,15,-15,1825,1892,18,12,0,0,18,12,20,100,3
+240,Apr 30 2015,Friendly in Suriname,Suriname,Guyana,1244,1237,1,0,7,-7,1251,1230,141,151,1,-2,142,149,20,100,107
+241,May 10 2015,Friendly in Barbados,Barbados,Saint Kitts and Nevis,1127,1216,1,3,-15,15,1112,1231,176,141,-2,8,174,149,20,100,11
+242,May 10 2015,Friendly in Zambia,Zambia,Malawi,1500,1360,2,0,6,-6,1506,1354,83,124,0,-2,83,122,20,100,240
+243,May 12 2015,Friendly in Kazakhstan,Kazakhstan,Burkina Faso,1349,1471,0,0,1,-1,1350,1470,123,92,0,0,123,92,20,100,-22
+244,May 12 2015,Windward Islands Champ in Saint Lucia,Saint Lucia,Dominica,1124,936,1,1,-10,10,1114,946,174,194,-1,2,173,196,30,100,288
+245,May 12 2015,Windward Islands Champ in Saint Lucia,St Vincent & Grenadines,Grenada,1163,1150,3,2,14,-14,1177,1136,162,169,2,0,164,169,30,0,13
+246,May 13 2015,Friendly in the Dominican Republic,Dominican Republic,Cayman Islands,1220,954,6,0,5,-5,1225,949,148,196,4,-1,152,195,20,100,366
+247,May 14 2015,Windward Islands Champ in Saint Lucia,Dominica,Grenada,946,1136,2,1,22,-22,968,1114,190,175,3,-3,193,172,30,0,-190
+248,May 14 2015,Friendly in Lesotho,Lesotho,South Africa,1239,1601,0,0,6,-6,1245,1595,144,64,0,-1,144,63,20,100,-262
+249,May 14 2015,Windward Islands Champ in Saint Lucia,Saint Lucia,St Vincent & Grenadines,1114,1177,1,2,-17,17,1097,1194,181,162,-4,1,177,163,30,100,37
+250,May 16 2015,Friendly in Lesotho,Lesotho,South Africa,1245,1595,1,1,6,-6,1251,1589,140,65,2,-1,142,64,20,100,-250
+251,May 16 2015,Windward Islands Champ in Saint Lucia,Saint Lucia,Grenada,1097,1114,0,2,-28,28,1069,1142,185,166,-4,3,181,169,30,100,83
+252,May 16 2015,Windward Islands Champ in Saint Lucia,St Vincent & Grenadines,Dominica,1194,968,1,0,6,-6,1200,962,161,195,1,-1,162,194,30,0,226
+253,May 17 2015,COSAFA Cup in South Africa,Namibia,Seychelles,1286,981,0,0,-14,14,1272,995,140,187,-3,2,137,189,40,0,305
+254,May 17 2015,Friendly in Vietnam,Vietnam,North Korea,1236,1446,1,1,3,-3,1239,1443,142,103,3,-1,145,102,20,100,-110
+255,May 17 2015,COSAFA Cup in South Africa,Zimbabwe,Mauritius,1360,1034,2,0,8,-8,1368,1026,116,187,2,0,118,187,40,0,326
+256,May 18 2015,COSAFA Cup in South Africa,Madagascar,Lesotho,1192,1251,2,1,23,-23,1215,1228,152,158,6,-8,158,150,40,0,-59
+257,May 18 2015,COSAFA Cup in South Africa,Swaziland,Tanzania,1136,1344,1,0,31,-31,1167,1313,164,135,3,-5,167,130,40,0,-208
+258,May 19 2015,COSAFA Cup in South Africa,Namibia,Mauritius,1272,1026,2,0,12,-12,1284,1014,131,187,3,0,134,187,40,0,246
+259,May 19 2015,COSAFA Cup in South Africa,Zimbabwe,Seychelles,1368,995,1,0,4,-4,1372,991,118,193,0,-2,118,191,40,0,373
+260,May 20 2015,Friendly in the Netherlands,Curaçao,Suriname,1072,1251,3,2,15,-15,1087,1236,175,154,2,-6,177,148,20,0,-179
+261,May 20 2015,COSAFA Cup in South Africa,Madagascar,Tanzania,1215,1313,2,0,38,-38,1253,1275,126,142,16,-6,142,136,40,0,-98
+262,May 20 2015,COSAFA Cup in South Africa,Swaziland,Lesotho,1167,1228,2,0,35,-35,1202,1193,157,180,5,-15,162,165,40,0,-61
+263,May 20 2015,Friendly in Thailand,Thailand,North Korea,1362,1443,0,1,-11,11,1351,1454,124,96,-2,3,122,99,20,100,19
+264,May 21 2015,COSAFA Cup in South Africa,Mauritius,Seychelles,1014,991,1,0,19,-19,1033,972,187,193,0,-1,187,192,40,0,23
+265,May 21 2015,COSAFA Cup in South Africa,Namibia,Zimbabwe,1284,1372,4,1,44,-44,1328,1328,121,136,6,-9,127,127,40,0,-88
+266,May 22 2015,COSAFA Cup in South Africa,Lesotho,Tanzania,1193,1275,1,0,25,-25,1218,1250,151,146,7,-5,158,141,40,0,-82
+267,May 22 2015,COSAFA Cup in South Africa,Madagascar,Swaziland,1253,1202,1,1,-3,3,1250,1205,140,164,1,-1,141,163,40,0,51
+268,May 22 2015,Friendly in South Africa,South Africa,Malawi,1589,1354,2,1,3,-3,1592,1351,62,120,1,0,63,120,20,100,335
+269,May 24 2015,Friendly in Lebanon,Lebanon,Syria,1402,1498,2,2,0,0,1402,1498,109,82,0,1,109,83,20,100,4
+270,May 24 2015,COSAFA Cup in South Africa,Namibia,Zambia,1328,1506,0,0,9,-9,1337,1497,123,87,2,-2,125,85,40,0,-178
+271,May 24 2015,COSAFA Cup in South Africa,South Africa,Botswana,1592,1298,0,0,-16,16,1576,1314,65,130,-1,1,64,131,40,100,394
+272,May 24 2015,World Cup & Asian Cup qual in Thailand,Thailand,Vietnam,1351,1239,1,0,9,-9,1360,1230,118,154,1,-5,119,149,40,100,212
+273,May 25 2015,COSAFA Cup in South Africa,Madagascar,Ghana,1250,1734,2,1,38,-38,1288,1696,127,52,7,-11,134,41,40,0,-484
+274,May 25 2015,COSAFA Cup in South Africa,Malawi,Mozambique,1351,1389,2,2,2,-2,1353,1387,121,113,0,0,121,113,30,0,-38
+275,May 27 2015,COSAFA Cup in South Africa,South Africa,Malawi,1576,1353,0,0,-15,15,1561,1368,68,115,-2,3,66,118,40,100,323
+276,May 27 2015,COSAFA Cup in South Africa,Zambia,Ghana,1497,1696,3,0,53,-53,1550,1643,51,63,17,-11,68,52,40,0,-199
+277,May 28 2015,COSAFA Cup in South Africa,Mozambique,Botswana,1387,1314,2,1,16,-16,1403,1298,103,133,5,-1,108,132,40,0,73
+278,May 28 2015,COSAFA Cup in South Africa,Namibia,Madagascar,1337,1288,3,2,17,-17,1354,1271,119,140,3,-3,122,137,40,0,49
+279,May 29 2015,Friendly in Laos,Laos,Afghanistan,837,1084,0,2,-9,9,828,1093,207,176,0,1,207,177,20,100,-147
+280,May 29 2015,COSAFA Cup in South Africa,Malawi,Zambia,1368,1550,1,0,30,-30,1398,1520,108,86,5,-9,113,77,40,0,-182
+281,May 30 2015,Friendly in Bahrain,Bahrain,Oman,1486,1516,0,0,-2,2,1484,1518,88,78,0,1,88,79,20,100,70
+282,May 30 2015,Friendly in Bangladesh,Bangladesh,Singapore,952,1159,1,2,-7,7,945,1166,199,168,-2,0,197,168,20,100,-107
+283,May 30 2015,Friendly in Jordan,Jordan,Lebanon,1483,1402,0,0,-5,5,1478,1407,93,106,-2,2,91,108,20,100,181
+284,May 30 2015,COSAFA Cup in South Africa,Madagascar,Botswana,1271,1298,2,1,22,-22,1293,1276,129,140,4,-4,133,136,40,0,-27
+285,May 30 2015,Friendly in Mexico,Mexico,Guatemala,1892,1527,3,0,2,-2,1894,1525,12,75,0,0,12,75,20,100,465
+286,May 30 2015,COSAFA Cup in South Africa,Namibia,Mozambique,1354,1403,2,0,34,-34,1388,1369,106,130,8,-11,114,119,40,0,-49
+287,May 31 2015,Friendly in the United States,Honduras,El Salvador,1508,1508,2,0,15,-15,1523,1493,70,88,6,-3,76,85,20,0,0
+288,May 31 2015,Friendly in England,Northern Ireland,Qatar,1520,1548,1,1,1,-1,1521,1547,79,68,-1,0,78,68,20,0,-28
+289,Jun 2 2015,Friendly in Bangladesh,Bangladesh,Afghanistan,945,1093,1,1,1,-1,946,1092,195,177,1,0,196,177,20,100,-48
+290,Jun 2 2015,Friendly in Cambodia,Cambodia,Laos,734,828,1,1,0,0,734,828,214,207,0,0,214,207,20,100,6
+291,Jun 3 2015,Friendly in Panama,Panama,Ecuador,1725,1833,1,1,0,0,1725,1833,35,17,0,0,35,17,20,100,-8
+292,Jun 3 2015,Friendly in Peru,Peru,Mexico,1718,1894,1,1,2,-2,1720,1892,34,12,2,0,36,12,20,100,-76
+293,Jun 4 2015,Friendly in Ireland,Ireland,Northern Ireland,1726,1521,0,0,-7,7,1719,1528,38,70,-2,4,36,74,20,100,305
+294,Jun 5 2015,Friendly in Bermuda,Bermuda,Puerto Rico,1237,1055,1,1,-7,7,1230,1062,150,181,-2,2,148,183,20,100,282
+295,Jun 5 2015,Friendly in Thailand,Cambodia,Myanmar,734,1058,1,0,17,-17,751,1041,214,189,0,-3,214,186,20,0,-324
+296,Jun 5 2015,Friendly in Chile,Chile,El Salvador,1936,1493,1,0,1,-1,1937,1492,8,87,0,-1,8,86,20,0,443
+297,Jun 5 2015,Friendly in Curaçao,Curaçao,Trinidad and Tobago,1087,1517,1,0,17,-17,1104,1500,174,85,2,-2,176,83,20,100,-330
+298,Jun 5 2015,Friendly in Hungary,Hungary,Lithuania,1653,1464,4,0,6,-6,1659,1458,50,96,0,0,50,96,20,100,289
+299,Jun 5 2015,Friendly in Turkey,Jordan,Kuwait,1478,1445,2,2,-1,1,1477,1446,91,102,0,0,91,102,20,0,33
+300,Jun 5 2015,Friendly in the Netherlands,Netherlands,United States,2022,1825,3,4,-17,17,2005,1842,5,14,0,2,5,16,20,100,297
+301,Jun 5 2015,Friendly in Oman,Oman,Syria,1518,1498,1,2,-13,13,1505,1511,84,79,-2,2,82,81,20,100,120
+302,Jun 5 2015,Friendly in Scotland,Scotland,Qatar,1728,1547,1,0,3,-3,1731,1544,31,70,1,-1,32,69,20,100,281
+303,Jun 5 2015,Friendly in Thailand,Thailand,Bahrain,1360,1484,1,1,1,-1,1361,1483,121,88,0,0,121,88,20,100,-24
+304,Jun 6 2015,Friendly in Andorra,Andorra,Equatorial Guinea,974,1392,0,1,-3,3,971,1395,193,113,-1,0,192,113,20,100,-318
+305,Jun 6 2015,Friendly tournament in Argentina,Argentina,Bolivia,2056,1628,5,0,3,-3,2059,1625,3,53,0,0,3,53,20,0,428
+306,Jun 6 2015,Friendly in France,Cameroon,Burkina Faso,1614,1470,3,2,6,-6,1620,1464,53,98,3,-3,56,95,20,0,144
+307,Jun 6 2015,Friendly in France,Chad,Guinea,1246,1557,2,1,17,-17,1263,1540,139,75,2,-4,141,71,20,0,-311
+308,Jun 6 2015,Friendly in Argentina,Colombia,Costa Rica,2024,1848,1,0,5,-5,2029,1843,4,15,0,0,4,15,20,0,176
+309,Jun 6 2015,Friendly in Ecuador,Ecuador,Panama,1833,1725,4,0,9,-9,1842,1716,14,42,2,-4,16,38,20,100,208
+310,Jun 6 2015,Friendly in Morocco,Libya,Mali,1482,1546,2,2,2,-2,1484,1544,85,66,2,1,87,67,20,0,-64
+311,Jun 6 2015,Friendly in Malaysia,Malaysia,Hong Kong,1220,1153,0,0,-4,4,1216,1157,159,169,-1,0,158,169,20,100,167
+312,Jun 6 2015,Friendly in Niger,Niger,Gabon,1268,1493,2,1,13,-13,1281,1480,129,95,5,-5,134,90,20,100,-125
+313,Jun 6 2015,Friendly in Paraguay,Paraguay,Honduras,1687,1523,2,2,-6,6,1681,1529,43,71,-1,3,42,74,20,100,264
+314,Jun 6 2015,Friendly tournament in Rwanda,Rwanda,Kenya,1387,1374,0,0,-5,5,1382,1379,115,115,0,1,115,116,30,100,113
+315,Jun 6 2015,Friendly in Singapore,Singapore,Brunei,1166,612,5,1,1,-1,1167,611,168,230,0,0,168,230,20,0,554
+316,Jun 6 2015,Friendly in Uruguay,Uruguay,Guatemala,1912,1525,5,1,2,-2,1914,1523,9,78,1,-1,10,77,20,100,487
+317,Jun 7 2015,Friendly in Brazil,Brazil,Mexico,2065,1892,2,0,5,-5,2070,1887,2,14,0,-1,2,13,20,100,273
+318,Jun 7 2015,Friendly in Croatia,Croatia,Gibraltar,1836,1131,4,0,0,0,1836,1131,18,173,0,-1,18,172,20,100,805
+319,Jun 7 2015,Friendly in Ethiopia,Ethiopia,Zambia,1347,1520,0,1,-8,8,1339,1528,124,71,0,4,124,75,20,100,-73
+320,Jun 7 2015,Friendly in France,France,Belgium,1954,1913,3,4,-14,14,1940,1927,8,7,-1,2,7,9,20,100,141
+321,Jun 7 2015,Friendly in Ireland,Ireland,England,1719,1928,0,0,3,-3,1722,1925,35,11,0,-1,35,10,20,100,-109
+322,Jun 7 2015,Friendly tournament in Rwanda,Kenya,South Sudan,1379,1064,2,0,6,-6,1385,1058,114,184,1,-1,115,183,30,0,315
+323,Jun 7 2015,World Cup qualifier in Nicaragua,Nicaragua,Suriname,1112,1236,1,0,21,-21,1133,1215,169,170,2,-12,171,158,40,100,-24
+324,Jun 7 2015,Friendly in Russia,Russia,Belarus,1765,1570,4,2,5,-5,1770,1565,23,66,1,-1,24,65,20,100,295
+325,Jun 7 2015,Friendly in Austria,Serbia,Azerbaijan,1719,1415,4,1,5,-5,1724,1410,33,107,1,0,34,107,20,0,304
+326,Jun 8 2015,Friendly in Denmark,Denmark,Montenegro,1759,1602,2,1,4,-4,1763,1598,25,61,1,0,26,61,20,100,257
+327,Jun 8 2015,Friendly in Egypt,Egypt,Malawi,1620,1398,2,1,3,-3,1623,1395,52,112,2,0,54,112,20,100,322
+328,Jun 8 2015,Friendly in Ghana,Ghana,Togo,1643,1436,1,0,3,-3,1646,1433,50,104,1,0,51,104,20,100,307
+329,Jun 8 2015,Friendly in Malta,Malta,Lithuania,1224,1458,2,0,21,-21,1245,1437,136,110,8,-7,144,103,20,100,-134
+330,Jun 8 2015,Friendly in Norway,Norway,Sweden,1615,1799,0,0,2,-2,1617,1797,58,20,0,0,58,20,20,100,-84
+331,Jun 8 2015,Friendly in Turkey,Turkey,Bulgaria,1704,1615,4,0,9,-9,1713,1606,40,62,0,-2,40,60,20,100,189
+332,Jun 9 2015,Friendly in Belgium,Cameroon,DR Congo,1620,1490,1,1,-4,4,1616,1494,59,82,-1,2,58,84,20,0,130
+333,Jun 9 2015,Friendly in Finland,Finland,Estonia,1609,1458,0,2,-24,24,1585,1482,67,82,-4,7,63,89,20,100,251
+334,Jun 9 2015,Friendly in Luxembourg,Luxembourg,Moldova,1221,1399,0,0,2,-2,1223,1397,153,111,1,0,154,111,20,100,-78
+335,Jun 9 2015,Friendly in Uganda,Uganda,Gambia,1498,1338,1,1,-6,6,1492,1344,86,123,-1,1,85,124,20,100,260
+336,Jun 9 2015,Friendly in Austria,Ukraine,Georgia,1808,1470,2,1,3,-3,1811,1467,19,96,0,-2,19,94,20,0,338
+337,Jun 10 2015,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1271,1069,1,3,-51,51,1220,1120,171,167,-16,7,155,174,40,100,302
+338,Jun 10 2015,World Cup qualifier in Aruba,Aruba,Barbados,940,1112,0,2,-24,24,916,1136,200,168,-1,3,199,171,40,100,-72
+339,Jun 10 2015,Friendly in Brazil,Brazil,Honduras,2070,1529,1,0,0,0,2070,1529,2,74,0,0,2,74,20,100,641
+340,Jun 10 2015,World Cup qualifier in Curaçao,Curaçao,Cuba,1104,1402,0,0,10,-10,1114,1392,176,116,0,-3,176,113,30,0,-298
+341,Jun 10 2015,Friendly in Germany,Germany,United States,2127,1842,1,2,-18,18,2109,1860,1,14,0,1,1,15,20,100,385
+342,Jun 10 2015,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines,Guyana,1200,1230,2,2,-4,4,1196,1234,166,144,-1,2,165,146,40,100,70
+343,Jun 10 2015,Friendly in Switzerland,Switzerland,Liechtenstein,1795,1215,3,0,1,-1,1796,1214,21,160,0,-1,21,159,20,0,580
+344,Jun 11 2015,World Cup & Asian Cup qual in Bangladesh,Bangladesh,Kyrgyzstan,946,1100,1,3,-25,25,921,1125,200,172,-2,3,198,175,40,100,-54
+345,Jun 11 2015,World Cup & Asian Cup qual in Cambodia,Cambodia,Singapore,751,1167,0,4,-10,10,741,1177,214,164,0,2,214,166,40,100,-316
+346,Jun 11 2015,Copa América in Chile,Chile,Ecuador,1937,1842,2,0,18,-18,1955,1824,6,19,1,-1,7,18,50,100,195
+347,Jun 11 2015,World Cup qualifier in Dominica,Dominica,Canada,962,1522,0,2,-4,4,958,1526,194,75,0,2,194,77,40,100,-460
+348,Jun 11 2015,World Cup qualifier in the Dominican Republic,Dominican Republic,Belize,1225,1120,1,2,-31,31,1194,1151,179,166,-14,4,165,170,40,100,205
+349,Jun 11 2015,World Cup & Asian Cup qual in Guam,Guam,Turkmenistan,814,1261,1,0,35,-35,849,1226,206,159,1,-9,207,150,40,100,-347
+350,Jun 11 2015,World Cup & Asian Cup qual in Hong Kong,Hong Kong,Bhutan,1157,585,7,0,2,-2,1159,583,169,231,0,0,169,231,20,0,572
+351,Jun 11 2015,World Cup & Asian Cup qual in India,India,Oman,1072,1505,1,2,-5,5,1067,1510,181,82,0,0,181,82,40,100,-333
+352,Jun 11 2015,Friendly in Japan,Japan,Iraq,1770,1528,4,0,5,-5,1775,1523,24,81,0,-3,24,78,20,100,342
+353,Jun 11 2015,World Cup & Asian Cup qual in Laos,Laos,Myanmar,828,1041,2,2,6,-6,834,1035,209,186,-1,0,208,186,40,100,-113
+354,Jun 11 2015,World Cup & Asian Cup qual in Lebanon,Lebanon,Kuwait,1407,1446,0,1,-23,23,1384,1469,122,85,-7,8,115,93,40,100,61
+355,Jun 11 2015,World Cup & Asian Cup qual in Malaysia,Malaysia,East Timor,1216,700,1,1,-19,19,1197,719,169,214,-6,2,163,216,40,100,616
+356,Jun 11 2015,World Cup & Asian Cup qual in the Maldives,Maldives,Qatar,1057,1544,0,1,-4,4,1053,1548,184,67,0,0,184,67,40,100,-387
+357,Jun 11 2015,World Cup & Asian Cup qual in Qatar,North Korea,Yemen,1454,1208,1,0,8,-8,1462,1200,96,161,1,0,97,161,40,0,246
+358,Jun 11 2015,World Cup & Asian Cup qual in the Philippines,Philippines,Bahrain,1222,1483,2,1,29,-29,1251,1454,126,110,14,-11,140,99,40,100,-161
+359,Jun 11 2015,World Cup & Asian Cup qual in Saudi Arabia,Saudi Arabia,Palestine,1482,1274,3,2,6,-6,1488,1268,85,138,2,0,87,138,40,100,308
+360,Jun 11 2015,Friendly in Malaysia,South Korea,United Arab Emirates,1734,1666,3,0,14,-14,1748,1652,26,53,2,-3,28,50,20,0,68
+361,Jun 11 2015,Friendly in Spain,Spain,Costa Rica,1953,1843,2,1,5,-5,1958,1838,6,16,0,0,6,16,20,100,210
+362,Jun 11 2015,World Cup qualifier in Saint Kitts and Nevis,Saint Kitts and Nevis,El Salvador,1231,1492,2,2,9,-9,1240,1483,141,93,3,-4,144,89,40,100,-161
+363,Jun 11 2015,World Cup & Asian Cup qual in Iran,Syria,Afghanistan,1511,1092,6,0,7,-7,1518,1085,79,179,1,0,80,179,40,0,419
+364,Jun 11 2015,World Cup & Asian Cup qual in Tajikistan,Tajikistan,Jordan,1266,1477,1,3,-21,21,1245,1498,145,76,-3,8,142,84,40,100,-111
+365,Jun 11 2015,Friendly in Uzbekistan,Uzbekistan,Iran,1622,1738,0,1,-10,10,1612,1748,60,27,-2,1,58,28,20,100,-16
+366,Jun 12 2015,European Championship qual in Andorra,Andorra,Cyprus,971,1403,1,3,-8,8,963,1411,192,108,0,0,192,108,40,100,-332
+367,Jun 12 2015,Copa América in Chile,Bolivia,Mexico,1625,1887,0,0,16,-16,1641,1871,53,15,0,-1,53,14,50,0,-262
+368,Jun 12 2015,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Israel,1715,1623,3,1,15,-15,1730,1608,29,62,5,-4,34,58,40,100,192
+369,Jun 12 2015,European Championship qual in Croatia,Croatia,Italy,1836,1875,1,1,-3,3,1833,1878,17,12,0,1,17,13,30,100,61
+370,Jun 12 2015,World Cup qualifier in Guatemala,Guatemala,Bermuda,1523,1230,0,0,-16,16,1507,1246,84,136,-3,6,81,142,40,100,393
+371,Jun 12 2015,European Championship qual in Iceland,Iceland,Czechia,1676,1780,2,1,20,-20,1696,1760,39,31,3,-4,42,27,40,100,-4
+372,Jun 12 2015,European Championship qual in Kazakhstan,Kazakhstan,Turkey,1350,1713,0,1,-7,7,1343,1720,125,34,-1,3,124,37,40,100,-263
+373,Jun 12 2015,European Championship qual in Latvia,Latvia,Netherlands,1470,2005,0,2,-5,5,1465,2010,96,5,-2,0,94,5,40,100,-435
+374,Jun 12 2015,European Championship qual in Malta,Malta,Bulgaria,1245,1606,0,1,-7,7,1238,1613,150,53,-4,3,146,56,40,100,-261
+375,Jun 12 2015,African Nations Cup qualifier in Morocco,Morocco,Libya,1541,1484,1,0,12,-12,1553,1472,64,94,3,-3,67,91,40,100,157
+376,Jun 12 2015,European Championship qual in Norway,Norway,Azerbaijan,1617,1410,0,0,-14,14,1603,1424,62,105,-3,1,59,106,40,100,307
+377,Jun 12 2015,World Cup qualifier in Puerto Rico,Puerto Rico,Grenada,1062,1142,1,0,19,-19,1081,1123,178,179,2,-4,180,175,40,100,20
+378,Jun 12 2015,African Nations Cup qualifier in Morocco,Swaziland,Guinea,1205,1540,2,1,35,-35,1240,1505,128,93,16,-11,144,82,40,0,-335
+379,Jun 12 2015,African Nations Cup qualifier in Tunisia,Tunisia,Djibouti,1569,789,8,1,1,-1,1570,788,64,210,0,0,64,210,30,0,780
+380,Jun 12 2015,European Championship qual in Wales,Wales,Belgium,1671,1927,1,0,28,-28,1699,1899,36,13,5,-2,41,11,40,100,-156
+381,Jun 13 2015,Friendly in Albania,Albania,France,1591,1940,1,0,16,-16,1607,1924,56,10,3,-1,59,9,20,100,-249
+382,Jun 13 2015,African Nations Cup qualifier in Algeria,Algeria,Seychelles,1677,972,4,0,1,-1,1678,971,47,191,-1,0,46,191,20,0,705
+383,Jun 13 2015,African Nations Cup qualifier in Angola,Angola,Central African Republic,1438,1238,4,0,11,-11,1449,1227,102,156,0,-5,102,151,40,100,300
+384,Jun 13 2015,Copa América in Chile,Argentina,Paraguay,2059,1681,2,2,-20,20,2039,1701,3,38,0,3,3,41,50,0,378
+385,Jun 13 2015,European Championship qual in Armenia,Armenia,Portugal,1537,1889,2,3,-8,8,1529,1897,74,12,-1,0,73,12,40,100,-252
+386,Jun 13 2015,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Comoros,1464,896,2,0,1,-1,1465,895,90,202,3,0,93,202,20,0,568
+387,Jun 13 2015,African Nations Cup qualifier in Cape Verde,Cape Verde,São Tomé and Príncipe,1539,1077,7,1,3,-3,1542,1074,69,181,1,0,70,181,20,0,462
+388,Jun 13 2015,European Championship qual in Denmark,Denmark,Serbia,1763,1724,2,0,19,-19,1782,1705,19,45,3,-5,22,40,40,100,139
+389,Jun 13 2015,European Championship qual in the Faroe Islands,Faroe Islands,Greece,1224,1677,2,1,35,-35,1259,1642,127,59,13,-7,140,52,40,100,-353
+390,Jun 13 2015,European Championship qual in Finland,Finland,Hungary,1585,1659,0,1,-21,21,1564,1680,67,41,-2,4,65,45,40,100,26
+391,Jun 13 2015,European Championship qual in Portugal,Germany,Gibraltar,2109,1131,7,0,0,0,2109,1131,1,173,0,0,1,173,20,0,978
+392,Jun 13 2015,European Championship qual in Ireland,Ireland,Scotland,1722,1731,1,1,-5,5,1717,1736,40,32,-2,0,38,32,40,100,91
+393,Jun 13 2015,African Nations Cup qualifier in Malawi,Malawi,Zimbabwe,1395,1328,1,2,-29,29,1366,1357,128,118,-9,5,119,123,40,100,167
+394,Jun 13 2015,African Nations Cup qualifier in Mali,Mali,South Sudan,1544,1058,2,0,2,-2,1546,1056,69,183,0,0,69,183,20,0,486
+395,Jun 13 2015,African Nations Cup qualifier in Nigeria,Nigeria,Chad,1662,1263,2,0,3,-3,1665,1260,47,139,0,0,47,139,20,0,399
+396,Jun 13 2015,European Championship qual in Northern Ireland,Northern Ireland,Romania,1528,1787,0,0,9,-9,1537,1778,68,24,3,-1,71,23,30,0,-259
+397,Jun 13 2015,European Championship qual in Poland,Poland,Georgia,1734,1467,4,0,8,-8,1742,1459,29,101,1,-4,30,97,40,100,367
+398,Jun 13 2015,African Nations Cup qualifier in Senegal,Senegal,Burundi,1660,1317,3,1,4,-4,1664,1313,48,130,0,0,48,130,20,0,343
+399,Jun 13 2015,African Nations Cup qualifier in South Africa,South Africa,Gambia,1561,1344,0,0,-14,14,1547,1358,70,121,-2,1,68,122,40,100,317
+400,Jun 13 2015,African Nations Cup qualifier in Uganda,Uganda,Botswana,1492,1276,2,0,8,-8,1500,1268,80,137,3,0,83,137,40,100,316
+401,Jun 13 2015,Copa América in Chile,Uruguay,Jamaica,1914,1542,1,0,5,-5,1919,1537,10,72,0,-1,10,71,50,0,372
+402,Jun 13 2015,African Nations Cup qualifier in Zambia,Zambia,Guinea-Bissau,1528,1238,0,0,-16,16,1512,1254,84,136,-5,5,79,141,40,100,390
+403,Jun 14 2015,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1220,1120,4,1,17,-17,1237,1103,143,180,6,-2,149,178,40,100,200
+404,Jun 14 2015,World Cup qualifier in Barbados,Barbados,Aruba,1136,916,1,0,5,-5,1141,911,171,199,0,0,171,199,40,100,320
+405,Jun 14 2015,European Championship qual in Belarus,Belarus,Spain,1565,1958,0,1,-6,6,1559,1964,66,6,-1,0,65,6,40,100,-293
+406,Jun 14 2015,World Cup qualifier in Belize,Belize,Dominican Republic,1151,1194,3,0,29,-29,1180,1165,160,173,5,-4,165,169,30,0,-43
+407,Jun 14 2015,Copa América in Chile,Brazil,Peru,2070,1720,2,1,6,-6,2076,1714,2,45,0,-5,2,40,50,0,350
+408,Jun 14 2015,African Nations Cup qualifier in Cameroon,Cameroon,Mauritania,1616,1210,1,0,2,-2,1618,1208,55,159,0,0,55,159,20,0,406
+409,Jun 14 2015,African Nations Cup qualifier in Congo,Congo,Kenya,1451,1385,1,1,-9,9,1442,1394,103,107,-1,3,102,110,40,100,166
+410,Jun 14 2015,World Cup qualifier in Cuba,Cuba,Curaçao,1392,1114,1,1,-16,16,1376,1130,119,171,-4,3,115,174,40,100,378
+411,Jun 14 2015,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Madagascar,1494,1293,2,1,6,-6,1500,1287,80,133,3,0,83,133,40,100,301
+412,Jun 14 2015,African Nations Cup qualifier in Egypt,Egypt,Tanzania,1623,1250,3,0,4,-4,1627,1246,54,143,0,0,54,143,20,0,373
+413,Jun 14 2015,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Benin,1395,1373,1,1,-7,7,1388,1380,114,111,-2,3,112,114,40,100,122
+414,Jun 14 2015,European Championship qual in Estonia,Estonia,San Marino,1482,886,2,0,1,-1,1483,885,89,203,0,0,89,203,20,0,596
+415,Jun 14 2015,African Nations Cup qualifier in Ethiopia,Ethiopia,Lesotho,1339,1218,2,1,9,-9,1348,1209,124,160,1,-2,125,158,40,100,221
+416,Jun 14 2015,Friendly in Gabon,Gabon,Ivory Coast,1480,1739,0,0,4,-4,1484,1735,86,35,2,-2,88,33,20,100,-159
+417,Jun 14 2015,African Nations Cup qualifier in Ghana,Ghana,Mauritius,1646,1033,7,1,1,-1,1647,1032,50,187,0,0,50,187,20,0,613
+418,Jun 14 2015,World Cup qualifier in Guyana,Guyana,St Vincent & Grenadines,1234,1196,4,4,-8,8,1226,1204,155,158,-3,3,152,161,40,100,138
+419,Jun 14 2015,European Championship qual in Liechtenstein,Liechtenstein,Moldova,1214,1397,1,1,5,-5,1219,1392,154,113,2,-2,156,111,20,0,-183
+420,Jun 14 2015,European Championship qual in Lithuania,Lithuania,Switzerland,1437,1796,1,2,-7,7,1430,1803,105,21,-1,0,104,21,40,100,-259
+421,Jun 14 2015,African Nations Cup qualifier in Mozambique,Mozambique,Rwanda,1369,1382,0,1,-25,25,1344,1407,134,103,-8,6,126,109,40,100,87
+422,Jun 14 2015,African Nations Cup qualifier in Niger,Niger,Namibia,1281,1388,1,0,20,-20,1301,1368,130,122,2,-5,132,117,40,100,-7
+423,Jun 14 2015,European Championship qual in Russia,Russia,Austria,1770,1719,0,1,-28,28,1742,1747,35,21,-5,8,30,29,40,100,151
+424,Jun 14 2015,European Championship qual in Slovakia,Slovakia,Macedonia,1761,1465,2,1,4,-4,1765,1461,24,99,1,-3,25,96,40,100,396
+425,Jun 14 2015,European Championship qual in Slovenia,Slovenia,England,1645,1925,2,3,-10,10,1635,1935,55,8,-2,0,53,8,40,100,-180
+426,Jun 14 2015,African Nations Cup qualifier in Sudan,Sudan,Sierra Leone,1334,1337,1,0,15,-15,1349,1322,120,131,4,-2,124,129,30,0,-3
+427,Jun 14 2015,European Championship qual in Sweden,Sweden,Montenegro,1797,1598,3,1,9,-9,1806,1589,20,63,0,-1,20,62,40,100,299
+428,Jun 14 2015,African Nations Cup qualifier in Togo,Togo,Liberia,1433,1295,2,1,8,-8,1441,1287,102,134,1,-1,103,133,40,100,238
+429,Jun 14 2015,European Championship qual in Ukraine,Ukraine,Luxembourg,1811,1223,3,0,1,-1,1812,1222,19,156,0,-1,19,155,20,0,588
+430,Jun 14 2015,Copa América in Chile,Venezuela,Colombia,1687,2029,1,0,44,-44,1731,1985,24,6,10,-1,34,5,50,0,-342
+431,Jun 15 2015,World Cup qualifier in Bermuda,Bermuda,Guatemala,1246,1507,0,1,-11,11,1235,1518,155,73,-6,4,149,77,40,100,-161
+432,Jun 15 2015,Copa América in Chile,Bolivia,Ecuador,1641,1824,3,2,37,-37,1678,1787,40,24,6,-3,46,21,50,0,-183
+433,Jun 15 2015,Copa América in Chile,Chile,Mexico,1955,1871,3,3,-12,12,1943,1883,7,12,0,1,7,13,50,100,184
+434,Jun 16 2015,Copa América in Chile,Argentina,Uruguay,2039,1919,1,0,17,-17,2056,1902,3,12,0,-1,3,11,50,0,120
+435,Jun 16 2015,World Cup & Asian Cup qual in Bangladesh,Bangladesh,Tajikistan,921,1245,1,1,11,-11,932,1234,196,154,1,-5,197,149,30,0,-324
+436,Jun 16 2015,World Cup & Asian Cup qual in Bhutan,Bhutan,China,583,1596,0,6,0,0,583,1596,231,59,0,1,231,60,20,0,-1013
+437,Jun 16 2015,World Cup & Asian Cup qual in Cambodia,Cambodia,Afghanistan,741,1085,0,1,-8,8,733,1093,214,179,0,0,214,179,40,100,-244
+438,Jun 16 2015,World Cup qualifier in Canada,Canada,Dominica,1526,958,4,0,2,-2,1528,956,73,194,1,0,74,194,30,0,568
+439,Jun 16 2015,World Cup & Asian Cup qual in East Timor,East Timor,United Arab Emirates,719,1652,0,1,0,0,719,1652,216,50,0,0,216,50,20,0,-933
+440,Jun 16 2015,World Cup qualifier in El Salvador,El Salvador,Saint Kitts and Nevis,1483,1240,4,1,9,-9,1492,1231,85,155,2,-5,87,150,40,100,343
+441,Jun 16 2015,World Cup qualifier in Grenada,Grenada,Puerto Rico,1123,1081,2,0,18,-18,1141,1063,168,182,4,-1,172,181,40,100,142
+442,Jun 16 2015,World Cup & Asian Cup qual in Guam,Guam,India,849,1067,2,1,27,-27,876,1040,203,186,2,-2,205,184,40,100,-118
+443,Jun 16 2015,World Cup & Asian Cup qual in Hong Kong,Hong Kong,Maldives,1159,1053,2,0,14,-14,1173,1039,166,186,2,-1,168,185,40,100,206
+444,Jun 16 2015,World Cup & Asian Cup qual in Japan,Japan,Singapore,1775,1177,0,0,-19,19,1756,1196,28,158,-2,4,26,162,40,0,598
+445,Jun 16 2015,Friendly in Jordan,Jordan,Trinidad and Tobago,1498,1500,3,0,13,-13,1511,1487,76,95,5,-6,81,89,20,100,98
+446,Jun 16 2015,World Cup & Asian Cup qual in Kyrgyzstan,Kyrgyzstan,Australia,1125,1731,1,2,-2,2,1123,1733,177,32,-1,1,176,33,30,100,-506
+447,Jun 16 2015,World Cup & Asian Cup qual in Laos,Laos,Lebanon,834,1384,0,2,-4,4,830,1388,208,111,0,1,208,112,40,100,-450
+448,Jun 16 2015,World Cup & Asian Cup qual in Malaysia,Malaysia,Palestine,1197,1268,0,6,-46,46,1151,1314,178,123,-7,7,171,130,40,100,29
+449,Jun 16 2015,World Cup & Asian Cup qual in North Korea,North Korea,Uzbekistan,1462,1612,4,2,34,-34,1496,1578,77,67,9,-5,86,62,40,100,-50
+450,Jun 16 2015,Copa América in Chile,Paraguay,Jamaica,1701,1537,1,0,14,-14,1715,1523,38,79,2,-4,40,75,50,0,164
+451,Jun 16 2015,World Cup & Asian Cup qual in Qatar,Philippines,Yemen,1251,1200,2,0,26,-26,1277,1174,134,170,4,-4,138,166,40,0,51
+452,Jun 16 2015,Friendly in Poland,Poland,Greece,1742,1642,0,0,-5,5,1737,1647,30,50,0,1,30,51,20,100,200
+453,Jun 16 2015,Friendly in Switzerland,Portugal,Italy,1897,1878,1,0,9,-9,1906,1869,8,14,2,0,10,14,20,0,19
+454,Jun 16 2015,Friendly in South Africa,South Africa,Angola,1547,1449,2,1,5,-5,1552,1444,66,101,1,0,67,101,20,100,198
+455,Jun 16 2015,World Cup & Asian Cup qual in Thailand,South Korea,Myanmar,1748,1035,2,0,1,-1,1749,1034,27,186,0,0,27,186,30,0,713
+456,Jun 16 2015,World Cup qualifier in Suriname,Suriname,Nicaragua,1215,1133,1,3,-44,44,1171,1177,181,156,-12,8,169,164,40,100,182
+457,Jun 16 2015,World Cup & Asian Cup qual in Taiwan,Taiwan,Thailand,788,1361,0,2,-4,4,784,1365,212,118,-1,1,211,119,40,100,-473
+458,Jun 16 2015,World Cup & Asian Cup qual in Turkmenistan,Turkmenistan,Iran,1226,1748,1,1,17,-17,1243,1731,136,41,8,-7,144,34,40,100,-422
+459,Jun 17 2015,Copa América in Chile,Colombia,Brazil,1985,2076,1,0,31,-31,2016,2045,3,4,1,-1,4,3,50,0,-91
+460,Jun 18 2015,Copa América in Chile,Peru,Venezuela,1714,1731,1,0,26,-26,1740,1705,19,48,11,-7,30,41,50,0,-17
+461,Jun 19 2015,Copa América in Chile,Chile,Bolivia,1943,1678,5,0,11,-11,1954,1667,7,48,0,-1,7,47,30,0,265
+462,Jun 19 2015,Copa América in Chile,Ecuador,Mexico,1787,1883,2,1,32,-32,1819,1851,15,17,3,-2,18,15,50,0,-96
+463,Jun 20 2015,Copa América in Chile,Argentina,Jamaica,2056,1523,1,0,2,-2,2058,1521,2,77,0,-1,2,76,40,0,533
+464,Jun 20 2015,Copa América in Chile,Paraguay,Uruguay,1715,1902,1,1,12,-12,1727,1890,34,13,3,-1,37,12,50,0,-187
+465,Jun 21 2015,Copa América in Chile,Brazil,Venezuela,2045,1705,2,1,6,-6,2051,1699,3,43,0,-1,3,42,50,0,340
+466,Jun 21 2015,Copa América in Chile,Colombia,Peru,2016,1740,0,0,-17,17,1999,1757,6,22,-1,4,5,26,50,0,276
+467,Jun 24 2015,Copa América in Chile,Chile,Uruguay,1954,1890,1,0,14,-14,1968,1876,5,12,1,0,6,12,50,100,164
+468,Jun 25 2015,Copa América in Chile,Peru,Bolivia,1757,1667,3,1,28,-28,1785,1639,18,57,4,-5,22,52,50,0,90
+469,Jun 26 2015,Copa América in Chile,Argentina,Colombia,2058,1999,0,0,-4,4,2054,2003,2,5,0,0,2,5,20,100,159
+470,Jun 27 2015,Copa América in Chile,Brazil,Paraguay,2051,1727,1,1,-18,18,2033,1745,3,23,0,7,3,30,50,0,324
+471,Jun 27 2015,Friendly in the United States,Costa Rica,Mexico,1838,1851,2,2,0,0,1838,1851,16,15,0,0,16,15,20,0,-13
+472,Jun 29 2015,Copa América in Chile,Chile,Peru,1968,1785,2,1,8,-8,1976,1777,6,26,0,-2,6,24,30,0,183
+473,Jun 30 2015,Copa América in Chile,Argentina,Paraguay,2054,1745,6,1,14,-14,2068,1731,2,40,0,-5,2,35,50,0,309
+474,Jul 1 2015,Friendly in the United States,Honduras,Mexico,1529,1851,0,0,7,-7,1536,1844,72,15,0,0,72,15,20,0,-322
+475,Jul 3 2015,Copa América in Chile,Peru,Paraguay,1777,1731,2,0,33,-33,1810,1698,16,51,4,-8,20,43,50,0,46
+476,Jul 3 2015,Friendly in the United States,Trinidad and Tobago,Haiti,1487,1452,1,0,9,-9,1496,1443,83,102,3,-1,86,101,20,0,35
+477,Jul 3 2015,Friendly in the United States,United States,Guatemala,1860,1518,4,0,3,-3,1863,1515,14,81,0,-2,14,79,20,100,442
+478,Jul 4 2015,Copa América in Chile,Chile,Argentina,1976,2068,0,0,-1,1,1975,2069,6,2,0,0,6,2,50,100,8
+479,Jul 6 2015,Friendly in Malawi,Malawi,Uganda,1366,1500,1,0,11,-11,1377,1489,112,92,3,-4,115,88,20,100,-34
+480,Jul 7 2015,CONCACAF Championship in the United States,Haiti,Panama,1443,1716,1,1,16,-16,1459,1700,93,41,4,-1,97,40,50,0,-273
+481,Jul 7 2015,CONCACAF Championship in the United States,United States,Honduras,1863,1536,2,1,4,-4,1867,1532,14,72,0,0,14,72,30,0,327
+482,Jul 8 2015,CONCACAF Championship in the United States,Canada,El Salvador,1528,1492,0,0,-3,3,1525,1495,76,87,-1,0,75,87,50,0,36
+483,Jul 8 2015,CONCACAF Championship in the United States,Costa Rica,Jamaica,1838,1521,2,2,-18,18,1820,1539,18,66,-1,5,17,71,50,0,317
+484,Jul 9 2015,CONCACAF Championship in the United States,Mexico,Cuba,1844,1376,6,0,7,-7,1851,1369,15,118,0,-1,15,117,50,0,468
+485,Jul 9 2015,CONCACAF Championship in the United States,Trinidad and Tobago,Guatemala,1496,1515,3,1,40,-40,1536,1475,61,103,12,-12,73,91,50,0,-19
+486,Jul 10 2015,CONCACAF Championship in the United States,Honduras,Panama,1532,1700,1,1,11,-11,1543,1689,66,48,4,-4,70,44,50,0,-168
+487,Jul 10 2015,CONCACAF Championship in the United States,United States,Haiti,1867,1459,1,0,3,-3,1870,1456,12,99,1,-1,13,98,30,0,408
+488,Jul 11 2015,CONCACAF Championship in the United States,Costa Rica,El Salvador,1820,1495,1,1,-18,18,1802,1513,27,72,-5,7,22,79,50,0,325
+489,Jul 11 2015,CONCACAF Championship in the United States,Jamaica,Canada,1539,1525,1,0,24,-24,1563,1501,58,92,7,-8,65,84,50,0,14
+490,Jul 12 2015,CONCACAF Championship in the United States,Guatemala,Mexico,1475,1851,0,0,20,-20,1495,1831,83,17,4,-1,87,16,50,0,-376
+491,Jul 12 2015,CONCACAF Championship in the United States,Trinidad and Tobago,Cuba,1536,1369,2,0,21,-21,1557,1348,60,131,7,-7,67,124,50,0,167
+492,Jul 13 2015,CONCACAF Championship in the United States,Haiti,Honduras,1456,1543,1,0,31,-31,1487,1512,82,86,8,-7,90,79,50,0,-87
+493,Jul 13 2015,CONCACAF Championship in the United States,United States,Panama,1870,1689,1,1,-17,17,1853,1706,15,34,-1,5,14,39,50,100,281
+494,Jul 14 2015,CONCACAF Championship in Canada,Canada,Costa Rica,1501,1802,0,0,13,-13,1514,1789,72,22,6,0,78,22,50,100,-201
+495,Jul 14 2015,CONCACAF Championship in Canada,Jamaica,El Salvador,1563,1513,1,0,21,-21,1584,1492,59,96,3,-9,62,87,50,0,50
+496,Jul 15 2015,CONCACAF Championship in the United States,Cuba,Guatemala,1348,1495,1,0,35,-35,1383,1460,104,108,10,-11,114,97,50,0,-147
+497,Jul 15 2015,CONCACAF Championship in the United States,Mexico,Trinidad and Tobago,1831,1557,4,4,-16,16,1815,1573,18,61,-1,3,17,64,40,100,374
+498,Jul 18 2015,CONCACAF Championship in the United States,Jamaica,Haiti,1584,1487,1,0,18,-18,1602,1469,58,95,2,-3,60,92,50,0,97
+499,Jul 18 2015,CONCACAF Championship in the United States,United States,Cuba,1853,1383,6,0,4,-4,1857,1379,14,116,0,-1,14,115,30,0,470
+500,Jul 19 2015,CONCACAF Championship in the United States,Mexico,Costa Rica,1815,1789,1,0,23,-23,1838,1766,13,26,2,-2,15,24,50,0,26
+501,Jul 19 2015,CONCACAF Championship in the United States,Panama,Trinidad and Tobago,1706,1573,1,1,-9,9,1697,1582,47,62,-4,1,43,63,30,100,233
+502,Jul 22 2015,CONCACAF Championship in the United States,Mexico,Panama,1838,1697,2,1,15,-15,1853,1682,13,45,1,-1,14,44,50,0,141
+503,Jul 22 2015,CONCACAF Championship in the United States,United States,Jamaica,1857,1602,1,2,-44,44,1813,1646,20,44,-3,8,17,52,50,100,355
+504,Jul 25 2015,CONCACAF Championship in the United States,United States,Panama,1813,1682,1,1,-15,15,1798,1697,25,42,-4,1,21,43,50,100,231
+505,Jul 26 2015,CONCACAF Championship in the United States,Mexico,Jamaica,1853,1646,3,1,17,-17,1870,1629,12,56,1,-2,13,54,50,0,207
+506,Jul 31 2015,Indian Ocean Games in Réunion,Mayotte,Maldives,1199,1039,3,1,13,-13,1212,1026,153,189,4,-2,157,187,30,0,160
+507,Jul 31 2015,Indian Ocean Games in Réunion,Réunion,Mauritius,1363,1032,1,0,2,-2,1365,1030,118,185,1,1,119,186,20,100,431
+508,Aug 2 2015,East Asian Championship in China,China,South Korea,1596,1749,0,2,-25,25,1571,1774,67,20,-3,4,64,24,40,100,-53
+509,Aug 2 2015,Indian Ocean Games in Réunion,Madagascar,Mayotte,1287,1212,1,1,-3,3,1284,1215,136,157,-1,0,135,157,30,0,75
+510,Aug 2 2015,Indian Ocean Games in Réunion,Maldives,Seychelles,1026,971,2,1,13,-13,1039,958,183,195,2,-2,185,193,30,0,55
+511,Aug 2 2015,East Asian Championship in China,North Korea,Japan,1496,1756,2,1,33,-33,1529,1723,63,45,11,-9,74,36,40,0,-260
+512,Aug 4 2015,Indian Ocean Games in Réunion,Madagascar,Maldives,1284,1039,4,0,11,-11,1295,1028,133,189,1,-2,134,187,30,0,245
+513,Aug 4 2015,Indian Ocean Games in Réunion,Mayotte,Seychelles,1215,958,1,0,6,-6,1221,952,155,195,1,-1,156,194,30,0,257
+514,Aug 5 2015,East Asian Championship in China,China,North Korea,1571,1529,2,0,18,-18,1589,1511,58,88,3,-7,61,81,40,100,142
+515,Aug 5 2015,East Asian Championship in China,Japan,South Korea,1723,1774,1,1,3,-3,1726,1771,36,24,0,0,36,24,40,0,-51
+516,Aug 6 2015,Indian Ocean Games in Réunion,Mayotte,Mauritius,1221,1030,2,1,7,-7,1228,1023,148,188,4,-1,152,187,30,0,191
+517,Aug 6 2015,Indian Ocean Games in Réunion,Réunion,Madagascar,1365,1295,1,0,8,-8,1373,1287,117,134,1,0,118,134,20,0,70
+518,Aug 7 2015,Indian Ocean Games in Réunion,Mauritius,Madagascar,1023,1287,3,1,37,-37,1060,1250,177,150,5,-8,182,142,30,0,-264
+519,Aug 8 2015,Indian Ocean Games in Réunion,Réunion,Mayotte,1373,1228,3,1,9,-9,1382,1219,110,160,4,-4,114,156,20,0,145
+520,Aug 9 2015,East Asian Championship in China,China,Japan,1589,1726,1,1,2,-2,1591,1724,61,36,0,0,61,36,30,100,-37
+521,Aug 9 2015,East Asian Championship in China,North Korea,South Korea,1511,1771,0,0,13,-13,1524,1758,69,30,6,-3,75,27,40,0,-260
+522,Aug 19 2015,Friendly in Fiji,Fiji,Tonga,1280,685,5,0,1,-1,1281,684,135,221,0,0,135,221,20,0,595
+523,Aug 20 2015,Friendly in Cambodia,Cambodia,Bhutan,733,583,2,0,6,-6,739,577,214,233,0,-1,214,232,20,100,250
+524,Aug 26 2015,Friendly in Lebanon,Lebanon,Iraq,1388,1523,2,3,-9,9,1379,1532,118,72,-3,2,115,74,20,100,-35
+525,Aug 27 2015,Friendly in Fiji,Fiji,Eastern Samoa,1281,382,6,0,0,0,1281,382,135,239,0,0,135,239,20,0,899
+526,Aug 28 2015,Friendly in Turkey,Libya,Tanzania,1472,1246,2,1,4,-4,1476,1242,91,145,0,-1,91,144,20,0,226
+527,Aug 28 2015,Friendly in Oman,Oman,Yemen,1510,1174,1,0,2,-2,1512,1172,77,170,3,-2,80,168,20,100,436
+528,Aug 28 2015,Friendly in Qatar,Qatar,Singapore,1548,1196,4,0,3,-3,1551,1193,70,162,0,0,70,162,20,100,452
+529,Aug 28 2015,Friendly in Rwanda,Rwanda,Ethiopia,1407,1348,3,1,9,-9,1416,1339,107,129,1,-2,108,127,20,100,159
+530,Aug 28 2015,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Barbados,1204,1141,2,2,-4,4,1200,1145,161,172,0,0,161,172,20,100,163
+531,Aug 28 2015,Friendly in the United Arab Emirates,United Arab Emirates,Myanmar,1652,1034,1,0,0,0,1652,1034,49,186,0,0,49,186,20,100,718
+532,Aug 29 2015,Friendly in Thailand,Laos,Cambodia,830,739,2,1,7,-7,837,732,208,214,0,0,208,214,20,0,91
+533,Aug 29 2015,Friendly in Malaysia,Malaysia,Bangladesh,1151,932,0,0,-7,7,1144,939,173,197,-1,0,172,197,20,100,319
+534,Aug 31 2015,Friendly in India,India,Nepal,1040,879,0,0,-6,6,1034,885,185,202,0,1,185,203,20,100,261
+535,Aug 31 2015,Friendly in Lebanon,Lebanon,Palestine,1379,1314,0,0,-4,4,1375,1318,121,130,-3,0,118,130,20,100,165
+536,Aug 31 2015,WC & Oce Cup q in Tonga,Samoa,Eastern Samoa,681,382,3,2,6,-6,687,376,220,239,1,0,221,239,40,0,299
+537,Aug 31 2015,WC & Oce Cup q in Tonga,Tonga,Cook Islands,684,675,0,3,-46,46,638,721,229,208,-4,8,225,216,40,100,109
+538,Sep 1 2015,Friendly in Congo,Congo,Ghana,1442,1647,2,3,-7,7,1435,1654,104,48,-1,1,103,49,20,100,-105
+539,Sep 2 2015,WC & Oce Cup q in Tonga,Cook Islands,Samoa,721,687,1,0,18,-18,739,669,212,227,2,-3,214,224,40,0,34
+540,Sep 2 2015,WC & Oce Cup q in Tonga,Tonga,Eastern Samoa,638,376,1,2,-36,36,602,412,235,237,-5,1,230,238,40,100,362
+541,Sep 3 2015,World Cup & Asian Cup qual in Australia,Australia,Bangladesh,1733,939,5,0,0,0,1733,939,33,197,0,0,33,197,20,0,794
+542,Sep 3 2015,European Championship qual in Azerbaijan,Azerbaijan,Croatia,1424,1833,0,0,14,-14,1438,1819,98,15,4,0,102,15,40,100,-309
+543,Sep 3 2015,World Cup & Asian Cup qual in Bahrain,Bahrain,North Korea,1454,1524,0,1,-22,22,1432,1546,108,66,-4,5,104,71,40,100,30
+544,Sep 3 2015,European Championship qual in Belgium,Belgium,Bosnia and Herzegovina,1899,1730,3,1,11,-11,1910,1719,9,39,1,-2,10,37,40,100,269
+545,Sep 3 2015,European Championship qual in Bulgaria,Bulgaria,Norway,1613,1603,0,1,-26,26,1587,1629,65,48,-4,6,61,54,40,100,110
+546,Sep 3 2015,World Cup & Asian Cup qual in China,China,Hong Kong,1591,1173,0,0,-18,18,1573,1191,67,157,-3,5,64,162,40,100,518
+547,Sep 3 2015,European Championship qual in Cyprus,Cyprus,Wales,1411,1699,0,1,-10,10,1401,1709,109,38,0,1,109,39,40,100,-188
+548,Sep 3 2015,European Championship qual in Czechia,Czechia,Kazakhstan,1760,1343,2,1,2,-2,1762,1341,26,126,0,0,26,126,20,0,417
+549,Sep 3 2015,World Cup & Asian Cup qual in Iran,Iran,Guam,1731,876,6,0,0,0,1731,876,36,205,-1,0,35,205,20,0,855
+550,Sep 3 2015,World Cup & Asian Cup qual in Iran,Iraq,Taiwan,1532,784,5,1,1,-1,1533,783,76,211,-1,0,75,211,30,0,748
+551,Sep 3 2015,European Championship qual in Israel,Israel,Andorra,1608,963,4,0,1,-1,1609,962,58,193,0,-1,58,192,20,0,645
+552,Sep 3 2015,European Championship qual in Italy,Italy,Malta,1869,1238,1,0,1,-1,1870,1237,12,144,1,1,13,145,20,0,631
+553,Sep 3 2015,World Cup & Asian Cup qual in Japan,Japan,Cambodia,1724,732,3,0,0,0,1724,732,36,215,0,0,36,215,20,0,992
+554,Sep 3 2015,World Cup & Asian Cup qual in Jordan,Jordan,Kyrgyzstan,1511,1123,0,0,-18,18,1493,1141,87,168,-2,4,85,172,40,100,488
+555,Sep 3 2015,World Cup & Asian Cup qual in Qatar,Kuwait,Myanmar,1469,1034,9,0,8,-8,1477,1026,92,187,0,-1,92,186,40,0,435
+556,Sep 3 2015,European Championship qual in the Netherlands,Netherlands,Iceland,2010,1696,0,1,-37,37,1973,1733,8,22,-2,11,6,33,40,100,414
+557,Sep 3 2015,World Cup & Asian Cup qual in Oman,Oman,Turkmenistan,1512,1243,3,1,6,-6,1518,1237,76,147,2,-2,78,145,40,100,369
+558,Sep 3 2015,Friendly in the Philippines,Philippines,Maldives,1277,1028,2,0,4,-4,1281,1024,133,187,2,0,135,187,20,100,349
+559,Sep 3 2015,World Cup & Asian Cup qual in Qatar,Qatar,Bhutan,1551,577,15,0,0,0,1551,577,70,232,0,0,70,232,20,0,974
+560,Sep 3 2015,World Cup & Asian Cup qual in Saudi Arabia,Saudi Arabia,East Timor,1488,719,7,0,1,-1,1489,718,86,217,1,0,87,217,20,0,769
+561,Sep 3 2015,World Cup & Asian Cup qual in South Korea,South Korea,Laos,1758,837,8,0,0,0,1758,837,27,208,0,0,27,208,20,0,921
+562,Sep 3 2015,World Cup & Asian Cup qual in Oman,Syria,Singapore,1518,1193,1,0,5,-5,1523,1188,77,164,0,-1,77,163,40,0,325
+563,Sep 3 2015,Friendly in Thailand,Thailand,Afghanistan,1365,1093,2,0,3,-3,1368,1090,118,179,1,0,119,179,20,100,372
+564,Sep 3 2015,European Championship qual in Turkey,Turkey,Latvia,1720,1465,1,1,-15,15,1705,1480,43,88,-3,3,40,91,40,100,355
+565,Sep 3 2015,World Cup & Asian Cup qual in the United Arab Emirates,United Arab Emirates,Malaysia,1652,1144,10,0,3,-3,1655,1141,48,172,1,0,49,172,20,0,508
+566,Sep 3 2015,World Cup & Asian Cup qual in Uzbekistan,Uzbekistan,Yemen,1578,1172,1,0,2,-2,1580,1170,62,170,1,-1,63,169,20,0,406
+567,Sep 4 2015,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,Guatemala,1237,1460,1,0,27,-27,1264,1433,133,109,6,-6,139,103,40,100,-123
+568,Sep 4 2015,Friendly in the United States,Argentina,Bolivia,2069,1639,7,0,3,-3,2072,1636,2,50,0,1,2,51,20,0,430
+569,Sep 4 2015,World Cup qualifier in Canada,Canada,Belize,1514,1180,3,0,5,-5,1519,1175,76,166,2,-1,78,165,40,100,434
+570,Sep 4 2015,World Cup qualifier in Curaçao,Curaçao,El Salvador,1130,1492,0,1,-7,7,1123,1499,176,84,0,1,176,85,40,100,-262
+571,Sep 4 2015,European Championship qual in Denmark,Denmark,Albania,1782,1607,0,0,-13,13,1769,1620,24,51,-1,4,23,55,40,100,275
+572,Sep 4 2015,African Nations Cup qualifier in Djibouti,Djibouti,Togo,788,1441,0,2,-2,2,786,1443,210,99,0,1,210,100,30,100,-553
+573,Sep 4 2015,WC & Oce Cup q in Tonga,Eastern Samoa,Cook Islands,412,739,2,0,52,-52,464,687,236,228,1,-7,237,221,40,0,-327
+574,Sep 4 2015,European Championship qual in the Faroe Islands,Faroe Islands,Northern Ireland,1259,1537,1,3,-16,16,1243,1553,146,62,-3,6,143,68,40,100,-178
+575,Sep 4 2015,European Championship qual in Georgia,Georgia,Scotland,1459,1736,1,0,29,-29,1488,1707,80,49,9,-9,89,40,40,100,-177
+576,Sep 4 2015,European Championship qual in Germany,Germany,Poland,2109,1737,3,1,4,-4,2113,1733,1,32,0,-1,1,31,40,100,472
+577,Sep 4 2015,European Championship qual in Greece,Greece,Finland,1647,1564,0,1,-30,30,1617,1594,63,52,-6,7,57,59,40,100,183
+578,Sep 4 2015,World Cup qualifier in Grenada,Grenada,Haiti,1141,1469,1,3,-13,13,1128,1482,178,90,-3,2,175,92,40,100,-228
+579,Sep 4 2015,European Championship qual in Hungary,Hungary,Romania,1680,1778,0,0,0,0,1680,1778,43,21,1,1,44,22,20,100,2
+580,Sep 4 2015,European Championship qual in Portugal,Ireland,Gibraltar,1717,1131,4,0,2,-2,1719,1129,34,173,2,1,36,174,30,0,586
+581,Sep 4 2015,World Cup qualifier in Jamaica,Jamaica,Nicaragua,1629,1177,2,3,-38,38,1591,1215,66,151,-6,7,60,158,40,100,552
+582,Sep 4 2015,Friendly in the United States,Mexico,Trinidad and Tobago,1870,1582,3,3,-7,7,1863,1589,15,60,-1,1,14,61,20,0,288
+583,Sep 4 2015,Friendly in Panama,Panama,Uruguay,1697,1876,0,1,-8,8,1689,1884,42,12,1,0,43,12,20,100,-79
+584,Sep 4 2015,Friendly in Portugal,Portugal,France,1906,1924,0,1,-12,12,1894,1936,11,7,0,1,11,8,20,100,82
+585,Sep 4 2015,European Championship qual in Serbia,Serbia,Armenia,1705,1529,2,0,10,-10,1715,1519,36,80,2,-2,38,78,40,100,276
+586,Sep 4 2015,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines,Aruba,1200,911,2,0,6,-6,1206,905,163,201,-1,-1,162,200,40,100,389
+587,Sep 4 2015,WC & Oce Cup q in Tonga,Tonga,Samoa,602,669,0,3,-38,38,564,707,238,210,-4,7,234,217,40,100,33
+588,Sep 4 2015,Friendly in the United States,United States,Peru,1798,1810,2,1,8,-8,1806,1802,15,24,3,-3,18,21,20,100,88
+589,Sep 4 2015,Friendly in Venezuela,Venezuela,Honduras,1699,1512,0,3,-29,29,1670,1541,50,69,-4,6,46,75,20,100,287
+590,Sep 5 2015,European Championship qual in Austria,Austria,Moldova,1747,1392,1,0,3,-3,1750,1389,30,111,-1,0,29,111,30,0,355
+591,Sep 5 2015,African Nations Cup qualifier in Botswana,Botswana,Burkina Faso,1268,1465,1,0,25,-25,1293,1440,130,104,4,-4,134,100,40,100,-97
+592,Sep 5 2015,Friendly in the United States,Brazil,Costa Rica,2033,1766,1,0,4,-4,2037,1762,3,24,0,0,3,24,20,0,267
+593,Sep 5 2015,African Nations Cup qualifier in Burundi,Burundi,Niger,1313,1301,2,0,21,-21,1334,1280,123,141,4,-4,127,137,40,100,112
+594,Sep 5 2015,Friendly in Chile,Chile,Paraguay,1975,1698,3,2,2,-2,1977,1696,5,42,0,0,5,42,20,100,377
+595,Sep 5 2015,African Nations Cup qualifier in the Comoros,Comoros,Uganda,895,1489,0,1,-2,2,893,1491,202,91,0,-2,202,89,30,100,-494
+596,Sep 5 2015,European Championship qual in Estonia,Estonia,Lithuania,1483,1430,1,0,12,-12,1495,1418,81,109,5,-2,86,107,40,100,153
+597,Sep 5 2015,Friendly in Gabon,Gabon,Sudan,1484,1349,4,0,8,-8,1492,1341,86,126,2,-1,88,125,20,100,235
+598,Sep 5 2015,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Congo,1254,1435,2,4,-23,23,1231,1458,161,90,-10,6,151,96,40,100,-81
+599,Sep 5 2015,African Nations Cup qualifier in Liberia,Liberia,Tunisia,1287,1570,1,0,30,-30,1317,1540,130,82,2,-8,132,74,40,100,-183
+600,Sep 5 2015,European Championship qual in Luxembourg,Luxembourg,Macedonia,1222,1461,1,0,28,-28,1250,1433,131,107,12,-5,143,102,40,100,-139
+601,Sep 5 2015,African Nations Cup qualifier in Mauritania,Mauritania,South Africa,1208,1552,3,1,48,-48,1256,1504,124,96,18,-13,142,83,40,100,-244
+602,Sep 5 2015,European Championship qual in Montenegro,Montenegro,Liechtenstein,1589,1219,2,0,4,-4,1593,1215,59,160,1,-2,60,158,40,100,470
+603,Sep 5 2015,African Nations Cup qualifier in Namibia,Namibia,Senegal,1368,1664,0,2,-15,15,1353,1679,127,42,-4,3,123,45,40,100,-196
+604,Sep 5 2015,European Championship qual in Russia,Russia,Sweden,1742,1806,1,0,18,-18,1760,1788,23,24,3,-3,26,21,30,0,-64
+605,Sep 5 2015,African Nations Cup qualifier in Rwanda,Rwanda,Ghana,1416,1654,0,1,-12,12,1404,1666,108,46,0,2,108,48,40,100,-138
+606,Sep 5 2015,European Championship qual in San Marino,San Marino,England,885,1935,0,6,0,0,885,1935,203,9,0,0,203,9,20,0,-1050
+607,Sep 5 2015,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Morocco,1074,1553,0,3,-7,7,1067,1560,182,64,-1,2,181,66,40,100,-379
+608,Sep 5 2015,African Nations Cup qualifier in the Seychelles,Seychelles,Ethiopia,952,1339,1,1,14,-14,966,1325,188,131,3,-2,191,129,40,100,-287
+609,Sep 5 2015,African Nations Cup qualifier in South Sudan,South Sudan,Equatorial Guinea,1056,1388,1,0,32,-32,1088,1356,177,132,3,-10,180,122,40,100,-232
+610,Sep 5 2015,European Championship qual in Spain,Spain,Slovakia,1964,1765,2,0,9,-9,1973,1756,5,31,1,-3,6,28,40,100,299
+611,Sep 5 2015,European Championship qual in Switzerland,Switzerland,Slovenia,1803,1635,3,2,7,-7,1810,1628,16,54,2,-1,18,53,40,100,268
+612,Sep 5 2015,African Nations Cup qualifier in Tanzania,Tanzania,Nigeria,1242,1665,0,0,15,-15,1257,1650,138,53,3,-3,141,50,40,100,-323
+613,Sep 5 2015,European Championship qual in Ukraine,Ukraine,Belarus,1812,1559,3,1,7,-7,1819,1552,13,69,2,-1,15,68,40,100,353
+614,Sep 6 2015,African Nations Cup qualifier in Benin,Benin,Mali,1380,1546,1,1,4,-4,1384,1542,109,74,2,-2,111,72,20,0,-166
+615,Sep 6 2015,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Andorra,1719,962,3,0,1,-1,1720,961,34,193,1,0,35,193,30,0,757
+616,Sep 6 2015,African Nations Cup qualifier in Egypt,Cape Verde,Libya,1542,1476,2,1,16,-16,1558,1460,62,93,5,1,67,94,40,0,66
+617,Sep 6 2015,African Nations Cup qualifier in Chad,Chad,Egypt,1260,1627,1,5,-13,13,1247,1640,150,50,-5,2,145,52,40,100,-267
+618,Sep 6 2015,African Nations Cup qualifier in Central African Republic,Central African Republic,DR Congo,1227,1500,2,0,44,-44,1271,1456,124,108,15,-12,139,96,40,100,-173
+619,Sep 6 2015,European Championship qual in Cyprus,Cyprus,Belgium,1401,1910,0,1,-3,3,1398,1913,109,10,0,0,109,10,30,100,-409
+620,Sep 6 2015,African Nations Cup qualifier in The Gambia,Gambia,Cameroon,1358,1618,0,1,-11,11,1347,1629,129,52,-5,2,124,54,40,100,-160
+621,Sep 6 2015,European Championship qual in Iceland,Iceland,Kazakhstan,1733,1341,0,0,-18,18,1715,1359,45,115,-7,5,38,120,40,100,492
+622,Sep 6 2015,European Championship qual in Italy,Italy,Bulgaria,1870,1587,1,0,4,-4,1874,1583,13,63,0,0,13,63,40,100,383
+623,Sep 6 2015,African Nations Cup qualifier in Nigeria,Ivory Coast,Sierra Leone,1735,1322,0,0,-17,17,1718,1339,44,122,-7,4,37,126,40,0,413
+624,Sep 6 2015,African Nations Cup qualifier in Kenya,Kenya,Zambia,1394,1512,1,2,-19,19,1375,1531,120,71,-5,5,115,76,40,100,-18
+625,Sep 6 2015,European Championship qual in Latvia,Latvia,Czechia,1480,1762,1,2,-10,10,1470,1772,93,22,0,1,93,23,40,100,-182
+626,Sep 6 2015,African Nations Cup qualifier in Lesotho,Lesotho,Algeria,1209,1678,1,3,-6,6,1203,1684,164,42,-2,2,162,44,40,100,-369
+627,Sep 6 2015,African Nations Cup qualifier in Madagascar,Madagascar,Angola,1250,1444,0,0,5,-5,1255,1439,143,102,0,-2,143,100,20,0,-194
+628,Sep 6 2015,European Championship qual in Malta,Malta,Azerbaijan,1237,1438,2,2,6,-6,1243,1432,145,105,1,-2,146,103,40,100,-101
+629,Sep 6 2015,African Nations Cup qualifier in Mauritius,Mauritius,Mozambique,1060,1344,1,0,30,-30,1090,1314,175,140,4,-8,179,132,40,100,-184
+630,Sep 6 2015,European Championship qual in Norway,Norway,Croatia,1629,1819,2,0,38,-38,1667,1781,44,27,4,-6,48,21,40,100,-90
+631,Sep 6 2015,African Nations Cup qualifier in Swaziland,Swaziland,Malawi,1240,1377,2,2,2,-2,1242,1375,150,115,-2,0,148,115,30,100,-37
+632,Sep 6 2015,European Championship qual in Turkey,Turkey,Netherlands,1705,1973,3,0,51,-51,1756,1922,15,12,13,-3,28,9,40,100,-168
+633,Sep 6 2015,European Championship qual in Wales,Wales,Israel,1709,1609,0,0,-10,10,1699,1619,43,56,-2,1,41,57,40,100,200
+634,Sep 6 2015,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Guinea,1357,1505,1,1,3,-3,1360,1502,118,84,1,-1,119,83,40,100,-48
+635,Sep 7 2015,European Championship qual in Albania,Albania,Portugal,1620,1894,0,1,-11,11,1609,1905,60,11,-2,0,58,11,40,100,-174
+636,Sep 7 2015,European Championship qual in Armenia,Armenia,Denmark,1519,1769,0,0,8,-8,1527,1761,76,26,1,-1,77,25,40,100,-150
+637,Sep 7 2015,European Championship qual in Finland,Finland,Faroe Islands,1594,1243,1,0,3,-3,1597,1240,59,150,0,-2,59,148,40,100,451
+638,Sep 7 2015,Friendly in France,France,Serbia,1936,1715,2,1,3,-3,1939,1712,7,40,0,-1,7,39,20,100,321
+639,Sep 7 2015,European Championship qual in Ireland,Ireland,Georgia,1719,1488,1,0,5,-5,1724,1483,32,90,2,0,34,90,40,100,331
+640,Sep 7 2015,Friendly in Myanmar,Myanmar,New Zealand,1026,1516,1,1,8,-8,1034,1508,184,81,1,0,185,81,20,100,-390
+641,Sep 7 2015,European Championship qual in Northern Ireland,Northern Ireland,Hungary,1553,1680,1,1,2,-2,1555,1678,68,47,0,-1,68,46,40,100,-27
+642,Sep 7 2015,European Championship qual in Poland,Poland,Gibraltar,1733,1129,8,1,2,-2,1735,1127,31,176,0,-1,31,175,30,0,604
+643,Sep 7 2015,European Championship qual in Romania,Romania,Greece,1778,1617,0,0,-13,13,1765,1630,24,50,-1,4,23,54,40,100,261
+644,Sep 7 2015,European Championship qual in Scotland,Scotland,Germany,1707,2113,2,3,-6,6,1701,2119,40,1,0,0,40,1,40,100,-306
+645,Sep 8 2015,Friendly in the United States,Argentina,Mexico,2072,1863,2,2,-5,5,2067,1868,2,14,0,0,2,14,20,0,209
+646,Sep 8 2015,World Cup qualifier in Aruba,Aruba,St Vincent & Grenadines,905,1206,2,1,30,-30,935,1176,194,169,3,-4,197,165,40,100,-201
+647,Sep 8 2015,World Cup & Asian Cup qual in Qatar,Bahrain,Yemen,1432,1170,4,0,14,-14,1446,1156,93,171,5,-1,98,170,40,0,262
+648,Sep 8 2015,World Cup & Asian Cup qual in Bangladesh,Bangladesh,Jordan,939,1493,0,4,-5,5,934,1498,199,84,-1,1,198,85,40,100,-454
+649,Sep 8 2015,European Championship qual in Belarus,Belarus,Luxembourg,1552,1250,2,0,5,-5,1557,1245,69,146,0,-1,69,145,40,100,402
+650,Sep 8 2015,World Cup qualifier in Belize,Belize,Canada,1175,1519,1,1,12,-12,1187,1507,161,83,2,-2,163,81,40,100,-244
+651,Sep 8 2015,World Cup & Asian Cup qual in Cambodia,Cambodia,Syria,732,1523,0,6,-2,2,730,1525,214,78,0,0,214,78,40,100,-691
+652,Sep 8 2015,World Cup & Asian Cup qual in China,China,Maldives,1573,1024,3,0,2,-2,1575,1022,65,187,0,0,65,187,30,0,549
+653,Sep 8 2015,Friendly in the United States,Colombia,Peru,2003,1802,1,1,-5,5,1998,1807,4,15,0,2,4,17,20,0,201
+654,Sep 8 2015,Friendly in Costa Rica,Costa Rica,Uruguay,1762,1884,1,0,11,-11,1773,1873,20,14,2,-1,22,13,20,100,-22
+655,Sep 8 2015,Friendly in Ecuador,Ecuador,Honduras,1819,1541,2,0,3,-3,1822,1538,15,75,0,-1,15,74,20,100,378
+656,Sep 8 2015,World Cup qualifier in El Salvador,El Salvador,Curaçao,1499,1123,1,0,2,-2,1501,1121,82,176,1,0,83,176,20,0,376
+657,Sep 8 2015,European Championship qual in England,England,Switzerland,1935,1810,2,0,13,-13,1948,1797,6,21,1,-2,7,19,40,100,225
+658,Sep 8 2015,World Cup & Asian Cup qual in Guam,Guam,Oman,876,1518,0,0,18,-18,894,1500,199,88,3,-4,202,84,40,100,-542
+659,Sep 8 2015,World Cup qualifier in Guatemala,Guatemala,Antigua and Barbuda,1433,1264,2,0,11,-11,1444,1253,97,146,2,-3,99,143,40,100,269
+660,Sep 8 2015,World Cup qualifier in Haiti,Haiti,Grenada,1482,1128,3,0,5,-5,1487,1123,87,176,2,-1,89,175,40,100,454
+661,Sep 8 2015,World Cup & Asian Cup qual in Hong Kong,Hong Kong,Qatar,1191,1551,2,3,-7,7,1184,1558,165,64,-1,3,164,67,40,100,-260
+662,Sep 8 2015,World Cup & Asian Cup qual in India,India,Iran,1034,1731,0,3,-2,2,1032,1733,187,33,-1,0,186,33,30,100,-597
+663,Sep 8 2015,World Cup & Asian Cup qual in Iran,Japan,Afghanistan,1724,1090,6,0,2,-2,1726,1088,34,181,0,-1,34,180,30,0,634
+664,Sep 8 2015,World Cup & Asian Cup qual in Laos,Laos,Kuwait,837,1477,0,2,-3,3,834,1480,208,92,0,0,208,92,40,100,-540
+665,Sep 8 2015,World Cup & Asian Cup qual in Lebanon,Lebanon,South Korea,1375,1758,0,3,-11,11,1364,1769,121,21,-3,3,118,24,40,100,-283
+666,Sep 8 2015,European Championship qual in Liechtenstein,Liechtenstein,Russia,1215,1760,0,7,-6,6,1209,1766,158,24,0,1,158,25,40,100,-445
+667,Sep 8 2015,European Championship qual in Lithuania,Lithuania,San Marino,1418,885,2,1,1,-1,1419,884,107,207,0,-2,107,205,20,0,533
+668,Sep 8 2015,European Championship qual in Macedonia,Macedonia,Spain,1433,1973,0,1,-3,3,1430,1976,107,6,-3,0,104,6,40,100,-440
+669,Sep 8 2015,World Cup & Asian Cup qual in Malaysia,Malaysia,Saudi Arabia,1141,1489,1,2,-8,8,1133,1497,174,83,-1,3,173,86,40,100,-248
+670,Sep 8 2015,European Championship qual in Moldova,Moldova,Montenegro,1389,1593,0,2,-21,21,1368,1614,124,56,-7,2,117,58,40,100,-104
+671,Sep 8 2015,World Cup qualifier in Nicaragua,Nicaragua,Jamaica,1215,1591,0,2,-10,10,1205,1601,162,59,-2,1,160,60,40,100,-276
+672,Sep 8 2015,Friendly in Nigeria,Nigeria,Niger,1650,1280,2,0,2,-2,1652,1278,49,137,1,0,50,137,20,100,470
+673,Sep 8 2015,World Cup & Asian Cup qual in Palestine,Palestine,United Arab Emirates,1318,1655,0,0,12,-12,1330,1643,126,52,2,-1,128,51,40,100,-237
+674,Sep 8 2015,World Cup & Asian Cup qual in the Philippines,Philippines,Uzbekistan,1281,1580,1,5,-18,18,1263,1598,143,58,-4,3,139,61,40,100,-199
+675,Sep 8 2015,European Championship qual in Slovakia,Slovakia,Ukraine,1756,1819,0,0,-2,2,1754,1821,30,17,-1,-1,29,16,30,100,37
+676,Sep 8 2015,European Championship qual in Slovenia,Slovenia,Estonia,1628,1495,1,0,8,-8,1636,1487,50,93,3,-4,53,89,40,100,233
+677,Sep 8 2015,Friendly tournament in South Africa,South Africa,Senegal,1504,1679,1,0,18,-18,1522,1661,76,53,3,-4,79,49,30,100,-75
+678,Sep 8 2015,European Championship qual in Sweden,Sweden,Austria,1788,1750,1,4,-48,48,1740,1798,40,6,-10,12,30,18,40,100,138
+679,Sep 8 2015,World Cup & Asian Cup qual in Taiwan,Taiwan,Vietnam,783,1230,1,2,-5,5,778,1235,211,146,0,4,211,150,40,100,-347
+680,Sep 8 2015,World Cup & Asian Cup qual in Tajikistan,Tajikistan,Australia,1234,1733,0,3,-6,6,1228,1739,157,30,-3,1,154,31,40,100,-399
+681,Sep 8 2015,World Cup & Asian Cup qual in Thailand,Thailand,Iraq,1368,1533,2,2,4,-4,1372,1529,114,75,2,0,116,75,20,0,-165
+682,Sep 8 2015,Friendly in the United States,United States,Brazil,1806,2037,1,4,-11,11,1795,2048,22,3,-2,0,20,3,20,100,-131
+683,Sep 8 2015,Friendly in Venezuela,Venezuela,Panama,1670,1689,1,1,-2,2,1668,1691,45,43,1,0,46,43,20,100,81
+684,Sep 8 2015,Friendly in Zambia,Zambia,Gabon,1531,1492,1,1,-4,4,1527,1496,76,87,0,0,76,87,20,100,139
+685,Sep 12 2015,Friendly in Rwanda,Rwanda,Gabon,1404,1496,0,1,-10,10,1394,1506,110,77,-1,5,109,82,20,100,8
+686,Sep 30 2015,Friendly in Botswana,Botswana,Ethiopia,1293,1325,2,3,-12,12,1281,1337,134,124,0,3,134,127,20,100,68
+687,Oct 2 2015,Friendly in Oman,Oman,Syria,1500,1525,2,1,8,-8,1508,1517,75,80,5,-1,80,79,20,100,75
+688,Oct 3 2015,Friendly in Jordan,Jordan,Iraq,1498,1529,3,0,14,-14,1512,1515,74,83,6,-4,80,79,20,100,69
+689,Oct 7 2015,World Cup qualifier in the Comoros,Comoros,Lesotho,893,1203,0,0,11,-11,904,1192,201,161,1,0,202,161,30,0,-310
+690,Oct 7 2015,World Cup qualifier in Mauritius,Mauritius,Kenya,1090,1375,2,5,-18,18,1072,1393,183,106,-2,4,181,110,40,100,-185
+691,Oct 7 2015,World Cup qualifier in the Seychelles,Seychelles,Burundi,966,1334,0,1,-7,7,959,1341,195,122,-2,3,193,125,40,100,-268
+692,Oct 7 2015,World Cup qualifier in Tanzania,Tanzania,Malawi,1257,1375,2,0,32,-32,1289,1343,128,134,6,-10,134,124,40,100,-18
+693,Oct 8 2015,European Championship qual in Albania,Albania,Serbia,1609,1712,0,2,-30,30,1579,1742,71,23,-6,8,65,31,40,100,-3
+694,Oct 8 2015,World Cup qualifier in Argentina,Argentina,Ecuador,2067,1822,0,2,-53,53,2014,1875,4,11,-1,2,3,13,40,100,345
+695,Oct 8 2015,World Cup & Asian Cup qual in Bahrain,Bahrain,Uzbekistan,1446,1598,0,4,-32,32,1414,1630,116,43,-9,9,107,52,40,100,-52
+696,Oct 8 2015,World Cup & Asian Cup qual in Bhutan,Bhutan,Maldives,577,1022,3,4,-5,5,572,1027,231,183,0,2,231,185,40,100,-345
+697,Oct 8 2015,World Cup qualifier in Bolivia,Bolivia,Uruguay,1636,1873,0,2,-19,19,1617,1892,61,11,-4,1,57,12,40,100,-137
+698,Oct 8 2015,World Cup qualifier in Chile,Chile,Brazil,1977,2048,2,0,28,-28,2005,2020,5,1,0,1,5,2,40,100,29
+699,Oct 8 2015,World Cup qualifier in Colombia,Colombia,Peru,1998,1807,2,0,9,-9,2007,1798,4,17,0,0,4,17,40,100,291
+700,Oct 8 2015,Friendly in Costa Rica,Costa Rica,South Africa,1773,1522,0,1,-18,18,1755,1540,32,69,-5,4,27,73,20,100,351
+701,Oct 8 2015,Friendly in Belgium,DR Congo,Nigeria,1456,1652,2,0,23,-23,1479,1629,88,56,4,-3,92,53,20,0,-196
+702,Oct 8 2015,World Cup & Asian Cup qual in East Timor,East Timor,Palestine,718,1330,1,1,18,-18,736,1312,212,131,2,-1,214,130,40,100,-512
+703,Oct 8 2015,Friendly in France,France,Armenia,1939,1527,4,0,2,-2,1941,1525,8,81,0,-3,8,78,20,100,512
+704,Oct 8 2015,European Championship qual in Georgia,Georgia,Gibraltar,1483,1127,4,0,5,-5,1488,1122,87,176,2,-1,89,175,40,100,456
+705,Oct 8 2015,Friendly in Honduras,Honduras,Guatemala,1538,1444,1,1,-5,5,1533,1449,76,97,-1,1,75,98,20,100,194
+706,Oct 8 2015,European Championship qual in Hungary,Hungary,Faroe Islands,1678,1240,2,1,2,-2,1680,1238,43,154,1,-3,44,151,30,0,438
+707,Oct 8 2015,European Championship qual in Ireland,Ireland,Germany,1724,2119,1,0,34,-34,1758,2085,15,1,10,0,25,1,40,100,-295
+708,Oct 8 2015,World Cup & Asian Cup qual in Oman,Japan,Syria,1726,1517,3,0,16,-16,1742,1501,28,94,3,-8,31,86,40,0,209
+709,Oct 8 2015,World Cup & Asian Cup qual in Jordan,Jordan,Australia,1512,1739,2,0,41,-41,1553,1698,62,51,9,-10,71,41,40,100,-127
+710,Oct 8 2015,World Cup & Asian Cup qual in Kuwait,Kuwait,South Korea,1480,1769,0,1,-10,10,1470,1779,94,20,-1,2,93,22,40,100,-189
+711,Oct 8 2015,World Cup & Asian Cup qual in Kyrgyzstan,Kyrgyzstan,Tajikistan,1141,1228,2,2,-1,1,1140,1229,172,154,0,0,172,154,30,100,13
+712,Oct 8 2015,World Cup & Asian Cup qual in Thailand,Lebanon,Myanmar,1364,1034,2,0,8,-8,1372,1026,113,187,2,-1,115,186,40,0,330
+713,Oct 8 2015,World Cup qualifier in Liberia,Liberia,Guinea-Bissau,1317,1231,1,1,-10,10,1307,1241,133,148,-1,2,132,150,40,100,186
+714,Oct 8 2015,Friendly in Thailand,Malaysia,Laos,1133,834,3,1,5,-5,1138,829,173,208,0,0,173,208,20,0,299
+715,Oct 8 2015,World Cup & Asian Cup qual in North Korea,North Korea,Philippines,1546,1263,0,0,-16,16,1530,1279,81,134,-5,3,76,137,40,100,383
+716,Oct 8 2015,European Championship qual in Northern Ireland,Northern Ireland,Greece,1555,1630,3,1,28,-28,1583,1602,56,67,7,-6,63,61,40,100,25
+717,Oct 8 2015,World Cup & Asian Cup qual in Oman,Oman,Iran,1508,1733,1,1,7,-7,1515,1726,79,37,1,-2,80,35,40,100,-125
+718,Oct 8 2015,Friendly in Panama,Panama,Trinidad and Tobago,1691,1589,1,2,-15,15,1676,1604,47,57,-2,3,45,60,20,100,202
+719,Oct 8 2015,European Championship qual in Portugal,Portugal,Denmark,1905,1761,1,0,8,-8,1913,1753,9,31,1,-2,10,29,40,100,244
+720,Oct 8 2015,World Cup & Asian Cup qual in Qatar,Qatar,China,1558,1575,1,0,15,-15,1573,1560,65,69,1,-2,66,67,40,100,83
+721,Oct 8 2015,European Championship qual in Romania,Romania,Finland,1765,1597,1,1,-13,13,1752,1610,34,56,-4,3,30,59,40,100,268
+722,Oct 8 2015,World Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Ethiopia,1067,1337,1,0,29,-29,1096,1308,176,134,3,-3,179,131,40,100,-170
+723,Oct 8 2015,World Cup & Asian Cup qual in Saudi Arabia,Saudi Arabia,United Arab Emirates,1497,1643,2,1,23,-23,1520,1620,71,59,8,-4,79,55,40,100,-46
+724,Oct 8 2015,European Championship qual in Scotland,Scotland,Poland,1701,1735,2,2,-4,4,1697,1739,44,36,-2,-2,42,34,40,100,66
+725,Oct 8 2015,World Cup & Asian Cup qual in Singapore,Singapore,Afghanistan,1188,1088,1,0,10,-10,1198,1078,160,183,1,-2,161,181,40,100,200
+726,Oct 8 2015,World Cup qualifier in South Sudan,South Sudan,Mauritania,1088,1256,1,1,4,-4,1092,1252,181,145,-1,-2,180,143,20,0,-168
+727,Oct 8 2015,World Cup & Asian Cup qual in Turkmenistan,Turkmenistan,India,1237,1032,2,1,6,-6,1243,1026,145,186,2,0,147,186,40,100,305
+728,Oct 8 2015,World Cup qualifier in Venezuela,Venezuela,Paraguay,1668,1696,0,1,-24,24,1644,1720,52,30,-3,6,49,36,40,100,72
+729,Oct 8 2015,World Cup & Asian Cup qual in Vietnam,Vietnam,Iraq,1235,1515,1,1,10,-10,1245,1505,140,89,5,-5,145,84,30,0,-280
+730,Oct 9 2015,Friendly in Algeria,Algeria,Guinea,1684,1502,1,2,-17,17,1667,1519,47,75,-2,5,45,80,20,100,282
+731,Oct 9 2015,World Cup qualifier in Djibouti,Djibouti,Swaziland,786,1242,0,6,-10,10,776,1252,212,137,-1,6,211,143,40,100,-356
+732,Oct 9 2015,European Championship qual in England,England,Estonia,1948,1487,2,0,2,-2,1950,1485,7,90,0,0,7,90,20,0,461
+733,Oct 9 2015,World Cup qualifier in The Gambia,Gambia,Namibia,1347,1353,1,1,-5,5,1342,1358,125,118,-1,2,124,120,40,100,94
+734,Oct 9 2015,Friendly in the United States,Haiti,El Salvador,1487,1501,3,1,16,-16,1503,1485,82,94,4,-4,86,90,20,0,-14
+735,Oct 9 2015,European Championship qual in Liechtenstein,Liechtenstein,Sweden,1209,1740,0,2,-5,5,1204,1745,162,27,-2,3,160,30,40,100,-431
+736,Oct 9 2015,European Championship qual in Macedonia,Macedonia,Ukraine,1430,1821,0,2,-9,9,1421,1830,109,16,-3,0,106,16,40,100,-291
+737,Oct 9 2015,Friendly in France,Mali,Burkina Faso,1542,1440,4,1,13,-13,1555,1427,68,108,2,-4,70,104,20,0,102
+738,Oct 9 2015,European Championship qual in Moldova,Moldova,Russia,1368,1766,1,2,-6,6,1362,1772,117,22,0,1,117,23,40,100,-298
+739,Oct 9 2015,European Championship qual in Montenegro,Montenegro,Austria,1614,1798,2,3,-15,15,1599,1813,66,17,-4,0,62,17,40,100,-84
+740,Oct 9 2015,Friendly in Morocco,Morocco,Ivory Coast,1560,1718,0,1,-8,8,1552,1726,77,30,-5,4,72,34,20,100,-58
+741,Oct 9 2015,World Cup qualifier in Ethiopia,Niger,Somalia,1278,870,2,0,5,-5,1283,865,131,208,4,-1,135,207,40,0,408
+742,Oct 9 2015,European Championship qual in Slovakia,Slovakia,Belarus,1754,1557,0,1,-34,34,1720,1591,44,56,-8,7,36,63,40,100,297
+743,Oct 9 2015,European Championship qual in Slovenia,Slovenia,Lithuania,1636,1419,1,1,-14,14,1622,1433,57,96,-3,5,54,101,40,100,317
+744,Oct 9 2015,European Championship qual in Spain,Spain,Luxembourg,1976,1245,4,0,1,-1,1977,1244,6,149,0,-2,6,147,20,0,731
+745,Oct 9 2015,European Championship qual in Switzerland,Switzerland,San Marino,1797,884,7,0,0,0,1797,884,19,205,0,0,19,205,20,0,913
+746,Oct 9 2015,Friendly in Taiwan,Taiwan,Macao,778,619,5,1,7,-7,785,612,209,228,1,0,210,228,20,100,259
+747,Oct 9 2015,Friendly in Thailand,Thailand,Hong Kong,1372,1184,1,0,3,-3,1375,1181,115,164,0,0,115,164,20,100,288
+748,Oct 9 2015,Friendly in Tunisia,Tunisia,Gabon,1540,1506,3,3,-4,4,1536,1510,75,81,-1,1,74,82,20,100,134
+749,Oct 10 2015,European Championship qual in Andorra,Andorra,Belgium,961,1913,1,4,-1,1,960,1914,192,10,0,0,192,10,40,100,-852
+750,Oct 10 2015,European Championship qual in Azerbaijan,Azerbaijan,Italy,1432,1874,1,3,-7,7,1425,1881,108,14,-3,0,105,14,40,100,-342
+751,Oct 10 2015,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Wales,1720,1699,2,0,20,-20,1740,1679,28,46,4,-3,32,43,40,100,121
+752,Oct 10 2015,World Cup qualifier in Chad,Chad,Sierra Leone,1247,1339,1,0,20,-20,1267,1319,137,129,4,-1,141,128,40,100,8
+753,Oct 10 2015,European Championship qual in Croatia,Croatia,Bulgaria,1781,1583,3,0,11,-11,1792,1572,21,70,0,-3,21,67,40,100,298
+754,Oct 10 2015,European Championship qual in Czechia,Czechia,Turkey,1772,1756,0,2,-40,40,1732,1796,45,14,-11,6,34,20,40,100,116
+755,Oct 10 2015,World Cup qualifier in Eritrea,Eritrea,Botswana,1110,1281,0,2,-24,24,1086,1305,183,130,-3,3,180,133,40,100,-71
+756,Oct 10 2015,European Championship qual in Iceland,Iceland,Latvia,1715,1470,2,2,-15,15,1700,1485,39,87,0,3,39,90,40,100,345
+757,Oct 10 2015,European Championship qual in Israel,Israel,Cyprus,1619,1398,1,2,-35,35,1584,1433,70,94,-7,7,63,101,40,100,321
+758,Oct 10 2015,European Championship qual in Kazakhstan,Kazakhstan,Netherlands,1359,1922,1,2,-3,3,1356,1925,123,9,-2,0,121,9,40,100,-463
+759,Oct 10 2015,Friendly in Kosovo,Kosovo,Equatorial Guinea,1376,1356,2,0,10,-10,1386,1346,108,122,3,0,111,122,20,100,120
+760,Oct 10 2015,World Cup qualifier in Madagascar,Madagascar,Central African Republic,1255,1271,3,0,27,-27,1282,1244,133,152,4,-6,137,146,30,0,-16
+761,Oct 10 2015,European Championship qual in Norway,Norway,Malta,1667,1243,2,0,3,-3,1670,1240,45,152,0,-2,45,150,40,100,524
+762,Oct 10 2015,CONCACAF Cup in the United States,United States,Mexico,1795,1868,2,3,-22,22,1773,1890,26,11,-3,2,23,13,40,100,27
+763,Oct 11 2015,European Championship qual in Armenia,Armenia,Albania,1525,1579,0,3,-40,40,1485,1619,100,47,-11,9,89,56,40,100,46
+764,Oct 11 2015,Friendly in Denmark,Denmark,France,1753,1941,1,2,-8,8,1745,1949,29,8,-1,0,28,8,20,100,-88
+765,Oct 11 2015,Friendly in the United Arab Emirates,Egypt,Zambia,1640,1527,3,0,12,-12,1652,1515,48,81,1,-2,49,79,20,0,113
+766,Oct 11 2015,World Cup qualifier in Ethiopia,Ethiopia,São Tomé and Príncipe,1308,1096,3,0,10,-10,1318,1086,127,182,2,-2,129,180,40,100,312
+767,Oct 11 2015,European Championship qual in the Faroe Islands,Faroe Islands,Romania,1238,1752,0,3,-6,6,1232,1758,153,22,-1,3,152,25,40,100,-414
+768,Oct 11 2015,European Championship qual in Finland,Finland,Northern Ireland,1610,1583,1,1,-7,7,1603,1590,63,64,-3,0,60,64,40,100,127
+769,Oct 11 2015,European Championship qual in Germany,Germany,Georgia,2085,1488,2,1,1,-1,2086,1487,1,87,0,1,1,88,20,0,597
+770,Oct 11 2015,European Championship qual in Greece,Greece,Hungary,1602,1680,4,3,19,-19,1621,1661,49,52,5,-5,54,47,40,100,22
+771,Oct 11 2015,World Cup qualifier in Kenya,Kenya,Mauritius,1393,1072,0,0,-17,17,1376,1089,118,176,-4,3,114,179,40,100,421
+772,Oct 11 2015,World Cup qualifier in Malawi,Malawi,Tanzania,1343,1289,1,0,12,-12,1355,1277,121,145,1,-5,122,140,40,100,154
+773,Oct 11 2015,Friendly in Belgium,Nigeria,Cameroon,1629,1629,3,0,18,-18,1647,1611,48,64,2,-6,50,58,20,0,0
+774,Oct 11 2015,European Championship qual in Poland,Poland,Ireland,1739,1758,2,1,15,-15,1754,1743,21,35,6,-5,27,30,40,100,81
+775,Oct 11 2015,European Championship qual in Portugal,Scotland,Gibraltar,1697,1122,6,0,3,-3,1700,1119,37,177,2,-1,39,176,40,0,575
+776,Oct 11 2015,European Championship qual in Serbia,Serbia,Portugal,1742,1913,1,2,-16,16,1726,1929,38,7,-4,2,34,9,40,100,-71
+777,Oct 12 2015,European Championship qual in Austria,Austria,Liechtenstein,1813,1204,3,0,1,-1,1814,1203,15,160,1,0,16,160,20,0,609
+778,Oct 12 2015,European Championship qual in Belarus,Belarus,Macedonia,1591,1421,0,0,-13,13,1578,1434,67,95,-2,6,65,101,40,100,270
+779,Oct 12 2015,Friendly in Belgium,DR Congo,Gabon,1479,1510,2,1,11,-11,1490,1499,83,91,5,-5,88,86,20,0,-31
+780,Oct 12 2015,European Championship qual in Estonia,Estonia,Switzerland,1485,1797,0,1,-9,9,1476,1806,97,17,-4,1,93,18,40,100,-212
+781,Oct 12 2015,European Championship qual in Lithuania,Lithuania,England,1433,1950,0,3,-6,6,1427,1956,107,7,-3,0,104,7,40,100,-417
+782,Oct 12 2015,European Championship qual in Luxembourg,Luxembourg,Slovakia,1244,1720,2,4,-6,6,1238,1726,154,31,-4,3,150,34,40,100,-376
+783,Oct 12 2015,Friendly in Morocco,Morocco,Guinea,1552,1519,1,1,-4,4,1548,1523,72,76,0,1,72,77,20,100,133
+784,Oct 12 2015,European Championship qual in Russia,Russia,Montenegro,1772,1599,2,0,10,-10,1782,1589,20,64,2,-1,22,63,40,100,273
+785,Oct 12 2015,European Championship qual in San Marino,San Marino,Slovenia,884,1622,0,2,-1,1,883,1623,205,53,0,0,205,53,20,100,-638
+786,Oct 12 2015,European Championship qual in Sweden,Sweden,Moldova,1745,1362,2,0,4,-4,1749,1358,28,119,0,-1,28,118,30,0,383
+787,Oct 12 2015,European Championship qual in Ukraine,Ukraine,Spain,1830,1977,0,1,-17,17,1813,1994,18,6,-1,0,17,6,40,100,-47
+788,Oct 13 2015,Friendly in Algeria,Algeria,Senegal,1667,1661,1,0,7,-7,1674,1654,41,49,2,-1,43,48,20,100,106
+789,Oct 13 2015,World Cup & Asian Cup qual in Bahrain,Bahrain,Philippines,1414,1279,2,0,12,-12,1426,1267,102,142,3,-2,105,140,40,100,235
+790,Oct 13 2015,European Championship qual in Belgium,Belgium,Israel,1914,1584,3,1,5,-5,1919,1579,11,66,0,-1,11,65,40,100,430
+791,Oct 13 2015,World Cup & Asian Cup qual in Bhutan,Bhutan,Hong Kong,572,1181,0,1,-2,2,570,1183,231,162,0,1,231,163,30,100,-509
+792,Oct 13 2015,World Cup qualifier in Botswana,Botswana,Eritrea,1305,1086,3,1,8,-8,1313,1078,131,180,1,0,132,180,40,100,319
+793,Oct 13 2015,World Cup qualifier in Brazil,Brazil,Venezuela,2020,1644,3,1,4,-4,2024,1640,2,51,0,0,2,51,40,100,476
+794,Oct 13 2015,European Championship qual in Bulgaria,Bulgaria,Azerbaijan,1572,1425,2,0,12,-12,1584,1413,61,110,3,-2,64,108,40,100,247
+795,Oct 13 2015,World Cup qualifier in Burundi,Burundi,Seychelles,1341,959,2,0,4,-4,1345,955,123,195,1,-1,124,194,30,0,382
+796,Oct 13 2015,Friendly in the United States,Canada,Ghana,1507,1666,1,1,4,-4,1511,1662,80,46,1,0,81,46,20,0,-159
+797,Oct 13 2015,Friendly in Congo,Congo,Benin,1458,1384,2,1,5,-5,1463,1379,90,119,3,-4,93,115,20,100,174
+798,Oct 13 2015,European Championship qual in Cyprus,Cyprus,Bosnia and Herzegovina,1433,1740,2,3,-9,9,1424,1749,110,26,-4,3,106,29,40,100,-207
+799,Oct 13 2015,World Cup & Asian Cup qual in East Timor,East Timor,Malaysia,736,1138,0,1,-6,6,730,1144,214,173,0,0,214,173,40,100,-302
+800,Oct 13 2015,World Cup qualifier in Ecuador,Ecuador,Bolivia,1875,1617,2,0,7,-7,1882,1610,15,59,0,-1,15,58,40,100,358
+801,Oct 13 2015,Friendly in the United States,El Salvador,Guatemala,1485,1449,1,1,-1,1,1484,1450,92,98,-1,0,91,98,20,0,36
+802,Oct 13 2015,World Cup qualifier in Guinea-Bissau,Guinea-Bissau,Liberia,1241,1307,1,3,-33,33,1208,1340,168,120,-10,6,158,126,40,100,34
+803,Oct 13 2015,Friendly in Honduras,Honduras,South Africa,1533,1540,1,1,-3,3,1530,1543,77,73,-1,0,76,73,20,100,93
+804,Oct 13 2015,Friendly in Iran,Iran,Japan,1726,1742,1,1,-2,2,1724,1744,42,33,-4,-1,38,32,20,100,84
+805,Oct 13 2015,European Championship qual in Italy,Italy,Norway,1881,1670,2,1,6,-6,1887,1664,14,46,0,-1,14,45,40,100,311
+806,Oct 13 2015,World Cup & Asian Cup qual in Jordan,Jordan,Tajikistan,1553,1229,3,0,6,-6,1559,1223,67,154,2,0,69,154,40,100,424
+807,Oct 13 2015,World Cup & Asian Cup qual in Kuwait,Kuwait,Lebanon,1470,1372,0,0,-10,10,1460,1382,94,110,0,3,94,113,40,100,198
+808,Oct 13 2015,World Cup & Asian Cup qual in Kyrgyzstan,Kyrgyzstan,Bangladesh,1140,934,2,0,9,-9,1149,925,170,200,1,-1,171,199,40,100,306
+809,Oct 13 2015,European Championship qual in Latvia,Latvia,Kazakhstan,1485,1356,0,1,-32,32,1453,1388,104,101,-7,10,97,111,40,100,229
+810,Oct 13 2015,World Cup qualifier in Lesotho,Lesotho,Comoros,1192,904,1,1,-16,16,1176,920,166,198,-2,2,164,200,40,100,388
+811,Oct 13 2015,World Cup qualifier in Madagascar,Madagascar,Central African Republic,1282,1244,2,2,-8,8,1274,1252,142,140,-3,3,139,143,40,100,138
+812,Oct 13 2015,European Championship qual in Malta,Malta,Croatia,1240,1792,0,1,-3,3,1237,1795,147,19,1,1,148,20,40,100,-452
+813,Oct 13 2015,World Cup qualifier in Mauritania,Mauritania,South Sudan,1252,1092,4,0,14,-14,1266,1078,139,182,2,-2,141,180,40,100,260
+814,Oct 13 2015,Friendly in Mexico,Mexico,Panama,1890,1676,1,0,3,-3,1893,1673,11,45,1,-1,12,44,20,100,314
+815,Oct 13 2015,World Cup & Asian Cup qual in Thailand,Myanmar,Laos,1026,829,3,1,15,-15,1041,814,184,208,1,0,185,208,40,0,197
+816,Oct 13 2015,World Cup qualifier in Namibia,Namibia,Gambia,1358,1342,2,1,14,-14,1372,1328,118,132,0,-4,118,128,30,0,16
+817,Oct 13 2015,European Championship qual in the Netherlands,Netherlands,Czechia,1925,1732,2,3,-34,34,1891,1766,16,17,-3,8,13,25,40,100,293
+818,Oct 13 2015,World Cup qualifier in Niger,Niger,Somalia,1283,865,4,0,4,-4,1287,861,135,207,0,0,135,207,40,100,518
+819,Oct 13 2015,World Cup & Asian Cup qual in North Korea,North Korea,Yemen,1530,1156,1,0,2,-2,1532,1154,74,170,1,0,75,170,20,0,374
+820,Oct 13 2015,World Cup & Asian Cup qual in Oman,Oman,India,1515,1026,3,0,2,-2,1517,1024,79,188,0,-1,79,187,20,0,489
+821,Oct 13 2015,World Cup qualifier in Paraguay,Paraguay,Argentina,1720,2014,0,0,10,-10,1730,2004,30,5,4,-1,34,4,30,0,-294
+822,Oct 13 2015,World Cup qualifier in Peru,Peru,Chile,1798,2005,3,4,-14,14,1784,2019,25,1,-3,2,22,3,40,100,-107
+823,Oct 13 2015,World Cup & Asian Cup qual in Qatar,Qatar,Maldives,1573,1027,4,0,2,-2,1575,1025,68,187,-1,-1,67,186,20,0,546
+824,Oct 13 2015,World Cup qualifier in Nigeria,Sierra Leone,Chad,1319,1267,2,1,17,-17,1336,1250,126,149,1,-4,127,145,40,0,52
+825,Oct 13 2015,World Cup & Asian Cup qual in Singapore,Singapore,Cambodia,1198,730,2,1,1,-1,1199,729,161,215,0,0,161,215,20,0,468
+826,Oct 13 2015,Friendly in South Korea,South Korea,Jamaica,1779,1601,3,0,6,-6,1785,1595,19,59,2,1,21,60,20,100,278
+827,Oct 13 2015,World Cup & Asian Cup qual in Oman,Syria,Afghanistan,1501,1078,5,2,6,-6,1507,1072,81,182,2,0,83,182,40,0,423
+828,Oct 13 2015,Friendly in Trinidad and Tobago,Trinidad and Tobago,Nicaragua,1604,1205,0,0,-9,9,1595,1214,61,153,-1,3,60,156,20,100,499
+829,Oct 13 2015,European Championship qual in Turkey,Turkey,Iceland,1796,1700,1,0,10,-10,1806,1690,16,43,2,-2,18,41,40,100,196
+830,Oct 13 2015,World Cup & Asian Cup qual in Turkmenistan,Turkmenistan,Guam,1243,894,1,0,3,-3,1246,891,145,203,1,0,146,203,40,100,449
+831,Oct 13 2015,World Cup qualifier in Uruguay,Uruguay,Colombia,1892,2007,3,0,37,-37,1929,1970,6,8,3,-2,9,6,40,100,-15
+832,Oct 13 2015,Friendly in the United States,United States,Costa Rica,1773,1755,0,1,-13,13,1760,1768,28,22,-2,2,26,24,20,100,118
+833,Oct 13 2015,World Cup & Asian Cup qual in Vietnam,Vietnam,Thailand,1245,1375,0,3,-32,32,1213,1407,169,103,-12,6,157,109,40,100,-30
+834,Oct 13 2015,European Championship qual in Wales,Wales,Andorra,1679,960,2,0,1,-1,1680,959,42,192,0,0,42,192,30,0,719
+835,Oct 17 2015,World Cup qualifier in Swaziland,Swaziland,Djibouti,1252,776,2,1,1,-1,1253,775,141,211,1,0,142,211,20,0,476
+836,Nov 3 2015,Friendly in Cambodia,Cambodia,Brunei,729,611,6,1,9,-9,738,602,213,229,1,0,214,229,20,100,218
+837,Nov 4 2015,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Antigua and Barbuda,1176,1253,2,1,9,-9,1185,1244,162,150,1,-4,163,146,20,100,23
+838,Nov 5 2015,Friendly in the United Arab Emirates,United Arab Emirates,Turkmenistan,1620,1246,5,1,2,-2,1622,1244,53,145,1,0,54,145,20,100,474
+839,Nov 6 2015,Friendly tournament in Angola,Angola,Namibia,1439,1372,1,0,8,-8,1447,1364,98,118,1,0,99,118,20,0,67
+840,Nov 6 2015,Friendly tournament in Angola,DR Congo,Zambia,1490,1515,3,0,28,-28,1518,1487,70,96,9,-8,79,88,30,0,-25
+841,Nov 7 2015,Friendly tournament in Angola,Angola,DR Congo,1447,1518,1,0,14,-14,1461,1504,89,89,5,-5,94,84,30,100,29
+842,Nov 7 2015,Friendly in Hong Kong,Hong Kong,Myanmar,1183,1041,5,0,8,-8,1191,1033,160,185,2,0,162,185,20,100,242
+843,Nov 7 2015,Friendly tournament in Angola,Namibia,Zambia,1364,1487,0,0,5,-5,1369,1482,118,94,0,-3,118,91,30,0,-123
+844,Nov 7 2015,Friendly in Vanuatu,Vanuatu,Fiji,1174,1281,1,1,0,0,1174,1281,167,136,0,0,167,136,20,100,-7
+845,Nov 9 2015,World Cup & Asian Cup qual in Jordan,Palestine,Saudi Arabia,1312,1520,0,0,11,-11,1323,1509,127,82,3,-2,130,80,40,0,-208
+846,Nov 10 2015,Friendly in Vanuatu,Vanuatu,Fiji,1174,1281,2,1,10,-10,1184,1271,163,142,2,-3,165,139,20,100,-7
+847,Nov 11 2015,Friendly in Estonia,Estonia,Georgia,1476,1487,3,0,13,-13,1489,1474,84,94,4,-3,88,91,20,100,89
+848,Nov 11 2015,Friendly in Turkey,Jordan,Malta,1559,1237,2,0,4,-4,1563,1233,67,150,1,-1,68,149,20,0,322
+849,Nov 11 2015,World Cup qualifier in Mozambique,Mozambique,Gabon,1314,1499,1,0,25,-25,1339,1474,120,96,6,-5,126,91,40,100,-85
+850,Nov 11 2015,World Cup qualifier in Sudan,Sudan,Zambia,1341,1482,0,1,-18,18,1323,1500,135,81,-5,5,130,86,40,100,-41
+851,Nov 12 2015,World Cup & Asian Cup qual in Iran,Afghanistan,Cambodia,1072,738,3,0,9,-9,1081,729,178,216,2,-1,180,215,40,0,334
+852,Nov 12 2015,Friendly in Andorra,Andorra,Saint Kitts and Nevis,959,1231,0,1,-5,5,954,1236,196,143,-2,4,194,147,20,100,-172
+853,Nov 12 2015,World Cup & Asian Cup qual in Australia,Australia,Kyrgyzstan,1698,1149,3,0,2,-2,1700,1147,38,171,1,0,39,171,30,0,549
+854,Nov 12 2015,World Cup qualifier in Benin,Benin,Burkina Faso,1379,1427,2,1,17,-17,1396,1410,105,113,5,-5,110,108,30,0,-48
+855,Nov 12 2015,World Cup qualifier in Bolivia,Bolivia,Venezuela,1610,1640,4,2,24,-24,1634,1616,46,63,6,-6,52,57,30,0,-30
+856,Nov 12 2015,World Cup qualifier in Burundi,Burundi,DR Congo,1345,1504,2,3,-17,17,1328,1521,132,70,-4,7,128,77,40,100,-59
+857,Nov 12 2015,World Cup qualifier in Chile,Chile,Colombia,2019,1970,1,1,-8,8,2011,1978,3,6,0,0,3,6,40,100,149
+858,Nov 12 2015,World Cup & Asian Cup qual in China,China,Bhutan,1560,570,12,0,0,0,1560,570,69,231,0,0,69,231,20,0,990
+859,Nov 12 2015,World Cup qualifier in Ecuador,Ecuador,Uruguay,1882,1929,2,1,17,-17,1899,1912,9,13,3,-2,12,11,30,0,-47
+860,Nov 12 2015,World Cup & Asian Cup qual in India,India,Guam,1024,891,1,0,8,-8,1032,883,183,205,2,-1,185,204,40,100,233
+861,Nov 12 2015,World Cup & Asian Cup qual in Iran,Iran,Turkmenistan,1724,1244,3,1,2,-2,1726,1242,32,145,3,0,35,145,20,0,480
+862,Nov 12 2015,World Cup & Asian Cup qual in Lebanon,Lebanon,Laos,1382,814,7,0,2,-2,1384,812,115,208,-1,0,114,208,20,0,568
+863,Nov 12 2015,Friendly in Macedonia,Macedonia,Montenegro,1434,1589,4,1,20,-20,1454,1569,95,71,3,-4,98,67,20,100,-55
+864,Nov 12 2015,World Cup & Asian Cup qual in the Maldives,Maldives,Hong Kong,1025,1191,0,1,-16,16,1009,1207,188,158,-1,2,187,160,40,100,-66
+865,Nov 12 2015,World Cup qualifier in Morocco,Morocco,Equatorial Guinea,1548,1346,2,0,9,-9,1557,1337,70,129,1,-3,71,126,40,100,302
+866,Nov 12 2015,World Cup qualifier in Namibia,Namibia,Guinea,1369,1523,0,1,-17,17,1352,1540,126,71,-4,3,122,74,40,100,-54
+867,Nov 12 2015,European Championship qual in Norway,Norway,Hungary,1664,1661,0,1,-26,26,1638,1687,57,37,-6,5,51,42,40,100,103
+868,Nov 12 2015,Friendly in Oman,Oman,New Zealand,1517,1508,0,1,-13,13,1504,1521,92,73,-7,4,85,77,20,100,109
+869,Nov 12 2015,World Cup & Asian Cup qual in Jordan,Palestine,Malaysia,1323,1144,6,0,22,-22,1345,1122,116,175,7,-1,123,174,40,0,179
+870,Nov 12 2015,World Cup & Asian Cup qual in the Philippines,Philippines,Yemen,1267,1154,0,1,-31,31,1236,1185,154,158,-7,6,147,164,40,100,213
+871,Nov 12 2015,World Cup & Asian Cup qual in Singapore,Singapore,Japan,1199,1744,0,3,-5,5,1194,1749,163,26,-1,3,162,29,40,100,-445
+872,Nov 12 2015,World Cup & Asian Cup qual in South Korea,South Korea,Myanmar,1785,1033,4,0,1,-1,1786,1032,21,185,0,0,21,185,30,0,752
+873,Nov 12 2015,World Cup & Asian Cup qual in Tajikistan,Tajikistan,Bangladesh,1223,925,5,0,7,-7,1230,918,150,201,2,-1,152,200,40,100,398
+874,Nov 12 2015,World Cup & Asian Cup qual in Thailand,Thailand,Taiwan,1407,785,4,2,1,-1,1408,784,109,210,0,0,109,210,20,0,622
+875,Nov 12 2015,World Cup qualifier in Togo,Togo,Uganda,1443,1491,0,1,-23,23,1420,1514,112,73,-6,7,106,80,40,100,52
+876,Nov 12 2015,World Cup & Asian Cup qual in the United Arab Emirates,United Arab Emirates,East Timor,1622,730,8,0,0,0,1622,730,54,213,0,1,54,214,20,0,892
+877,Nov 12 2015,World Cup & Asian Cup qual in Uzbekistan,Uzbekistan,North Korea,1630,1532,3,1,15,-15,1645,1517,48,83,2,-4,50,79,40,100,198
+878,Nov 13 2015,World Cup qualifier in Angola,Angola,South Africa,1461,1543,1,3,-32,32,1429,1575,106,57,-6,8,100,65,40,100,18
+879,Nov 13 2015,World Cup qualifier in Argentina,Argentina,Brazil,2004,2024,1,1,-5,5,1999,2029,6,2,-1,0,5,2,40,100,80
+880,Nov 13 2015,Friendly in Belgium,Belgium,Italy,1919,1887,3,1,10,-10,1929,1877,8,15,1,0,9,15,20,100,132
+881,Nov 13 2015,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Ireland,1749,1743,1,1,-6,6,1743,1749,37,25,-4,4,33,29,40,100,106
+882,Nov 13 2015,World Cup qualifier in Canada,Canada,Honduras,1511,1530,1,0,15,-15,1526,1515,71,84,5,-4,76,80,40,100,81
+883,Nov 13 2015,World Cup qualifier in the Comoros,Comoros,Ghana,920,1662,0,0,19,-19,939,1643,195,50,2,-2,197,48,40,0,-742
+884,Nov 13 2015,World Cup qualifier in Costa Rica,Costa Rica,Haiti,1768,1503,1,0,4,-4,1772,1499,26,88,-1,-1,25,87,20,0,265
+885,Nov 13 2015,Friendly in Czechia,Czechia,Serbia,1766,1726,4,1,11,-11,1777,1715,23,41,1,-3,24,38,20,100,140
+886,Nov 13 2015,Friendly in France,France,Germany,1949,2086,2,0,17,-17,1966,2069,6,1,1,0,7,1,20,100,-37
+887,Nov 13 2015,World Cup qualifier in Guatemala,Guatemala,Trinidad and Tobago,1450,1595,1,2,-17,17,1433,1612,98,56,1,2,99,58,40,100,-45
+888,Nov 13 2015,World Cup qualifier in Jamaica,Jamaica,Panama,1595,1673,0,2,-32,32,1563,1705,76,33,-8,6,68,39,40,100,22
+889,Nov 13 2015,World Cup qualifier in Kenya,Kenya,Cape Verde,1376,1558,1,0,25,-25,1401,1533,103,80,7,-5,110,75,40,100,-82
+890,Nov 13 2015,Friendly in Kosovo,Kosovo,Albania,1386,1619,2,2,4,-4,1390,1615,111,58,1,-1,112,57,20,100,-133
+891,Nov 13 2015,World Cup qualifier in Liberia,Liberia,Ivory Coast,1340,1726,0,1,-6,6,1334,1732,130,35,-3,0,127,35,40,100,-286
+892,Nov 13 2015,World Cup qualifier in Tunisia,Libya,Rwanda,1460,1394,1,0,16,-16,1476,1378,87,123,4,-6,91,117,40,0,66
+893,Nov 13 2015,Friendly in Luxembourg,Luxembourg,Greece,1238,1621,1,0,17,-17,1255,1604,136,63,5,-4,141,59,20,100,-283
+894,Nov 13 2015,World Cup qualifier in Madagascar,Madagascar,Senegal,1274,1654,2,2,13,-13,1287,1641,132,51,3,-2,135,49,40,100,-280
+895,Nov 13 2015,World Cup qualifier in Mauritania,Mauritania,Tunisia,1266,1536,1,2,-11,11,1255,1547,142,71,-1,2,141,73,40,100,-170
+896,Nov 13 2015,World Cup qualifier in Mexico,Mexico,El Salvador,1893,1484,3,0,4,-4,1897,1480,15,90,-1,0,14,90,40,100,509
+897,Nov 13 2015,World Cup qualifier in Niger,Niger,Cameroon,1287,1611,0,3,-15,15,1272,1626,141,48,-3,5,138,53,40,100,-224
+898,Nov 13 2015,Friendly in Northern Ireland,Northern Ireland,Latvia,1590,1453,1,0,4,-4,1594,1449,60,97,1,1,61,98,20,100,237
+899,Nov 13 2015,World Cup qualifier in Peru,Peru,Paraguay,1784,1730,1,0,12,-12,1796,1718,18,40,2,-3,20,37,40,100,154
+900,Nov 13 2015,Friendly in Poland,Poland,Iceland,1754,1690,4,2,8,-8,1762,1682,24,45,2,-2,26,43,20,100,164
+901,Nov 13 2015,Friendly in Qatar,Qatar,Turkey,1575,1806,1,2,-6,6,1569,1812,66,18,0,0,66,18,20,100,-131
+902,Nov 13 2015,Friendly in Slovakia,Slovakia,Switzerland,1726,1806,3,2,9,-9,1735,1797,33,20,1,-1,34,19,20,100,20
+903,Nov 13 2015,Friendly in Spain,Spain,England,1994,1956,2,0,9,-9,2003,1947,3,9,1,-1,4,8,20,100,138
+904,Nov 13 2015,World Cup qualifier in Swaziland,Swaziland,Nigeria,1253,1647,0,0,14,-14,1267,1633,139,55,1,-3,140,52,40,100,-294
+905,Nov 13 2015,World Cup qualifier in the United States,United States,St Vincent & Grenadines,1760,1185,6,1,2,-2,1762,1183,26,168,0,-2,26,166,30,0,575
+906,Nov 13 2015,Friendly in Wales,Wales,Netherlands,1680,1891,2,3,-7,7,1673,1898,47,12,-2,1,45,13,20,100,-111
+907,Nov 14 2015,World Cup qualifier in Botswana,Botswana,Mali,1313,1555,2,1,28,-28,1341,1527,115,78,9,-3,124,75,40,100,-142
+908,Nov 14 2015,World Cup qualifier in Chad,Chad,Egypt,1250,1652,1,0,34,-34,1284,1618,130,62,7,-8,137,54,40,100,-302
+909,Nov 14 2015,World Cup qualifier in Ethiopia,Ethiopia,Congo,1318,1463,3,4,-17,17,1301,1480,136,88,-2,3,134,91,40,100,-45
+910,Nov 14 2015,World Cup qualifier in Gabon,Gabon,Mozambique,1474,1339,1,0,8,-8,1482,1331,88,132,2,-4,90,128,40,100,235
+911,Nov 14 2015,Friendly in Russia,Russia,Portugal,1782,1929,1,0,11,-11,1793,1918,21,11,1,-1,22,10,20,100,-47
+912,Nov 14 2015,European Championship qual in Sweden,Sweden,Denmark,1749,1745,2,1,14,-14,1763,1731,23,38,3,-3,26,35,40,100,104
+913,Nov 14 2015,World Cup qualifier in Tanzania,Tanzania,Algeria,1277,1674,2,2,14,-14,1291,1660,133,46,2,-1,135,45,40,100,-297
+914,Nov 14 2015,European Championship qual in Ukraine,Ukraine,Slovenia,1813,1623,2,0,10,-10,1823,1613,15,60,1,-3,16,57,40,100,290
+915,Nov 15 2015,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Burundi,1521,1328,2,2,-14,14,1507,1342,89,119,-6,5,83,124,40,100,293
+916,Nov 15 2015,World Cup qualifier in Equatorial Guinea,Equatorial Guinea,Morocco,1337,1557,1,0,27,-27,1364,1530,111,79,7,-4,118,75,40,100,-120
+917,Nov 15 2015,World Cup qualifier in Morocco,Guinea,Namibia,1540,1352,2,0,15,-15,1555,1337,69,130,2,-4,71,126,40,0,188
+918,Nov 15 2015,European Championship qual in Hungary,Hungary,Norway,1687,1638,2,1,12,-12,1699,1626,42,53,0,-2,42,51,40,100,149
+919,Nov 15 2015,World Cup qualifier in Uganda,Uganda,Togo,1514,1420,3,0,17,-17,1531,1403,67,112,7,-3,74,109,40,100,194
+920,Nov 15 2015,World Cup qualifier in Zambia,Zambia,Sudan,1500,1323,2,0,10,-10,1510,1313,76,132,5,0,81,132,40,100,277
+921,Nov 16 2015,Friendly in Albania,Albania,Georgia,1615,1474,2,2,-6,6,1609,1480,60,88,-2,3,58,91,20,100,241
+922,Nov 16 2015,European Championship qual in Ireland,Ireland,Bosnia and Herzegovina,1749,1743,2,0,21,-21,1770,1722,22,40,4,-4,26,36,40,100,106
+923,Nov 17 2015,World Cup qualifier in Algeria,Algeria,Tanzania,1660,1291,7,0,6,-6,1666,1285,45,137,0,-1,45,136,40,100,469
+924,Nov 17 2015,Friendly in Austria,Austria,Switzerland,1814,1797,1,2,-13,13,1801,1810,23,17,-3,1,20,18,20,100,117
+925,Nov 17 2015,Friendly in Azerbaijan,Azerbaijan,Moldova,1413,1358,2,1,6,-6,1419,1352,106,122,0,-1,106,121,20,100,155
+926,Nov 17 2015,World Cup & Asian Cup qual in Bangladesh,Bangladesh,Australia,918,1700,0,4,-1,1,917,1701,200,38,0,1,200,39,20,100,-682
+927,Nov 17 2015,World Cup & Asian Cup qual in Bhutan,Bhutan,Qatar,570,1569,0,3,0,0,570,1569,231,68,0,-1,231,67,20,0,-999
+928,Nov 17 2015,World Cup qualifier in Brazil,Brazil,Peru,2029,1796,3,0,9,-9,2038,1787,2,24,0,-2,2,22,40,100,333
+929,Nov 17 2015,World Cup qualifier in Burkina Faso,Burkina Faso,Benin,1410,1396,2,0,20,-20,1430,1376,93,121,7,-5,100,116,40,100,114
+930,Nov 17 2015,World Cup & Asian Cup qual in Cambodia,Cambodia,Japan,729,1749,0,2,0,0,729,1749,213,31,1,0,214,31,20,0,-1020
+931,Nov 17 2015,World Cup qualifier in Cameroon,Cameroon,Niger,1626,1272,0,0,-17,17,1609,1289,63,131,-6,4,57,135,40,100,454
+932,Nov 17 2015,World Cup qualifier in Cape Verde,Cape Verde,Kenya,1533,1401,2,0,12,-12,1545,1389,71,114,1,-2,72,112,40,100,232
+933,Nov 17 2015,World Cup qualifier in Colombia,Colombia,Argentina,1978,1999,0,1,-24,24,1954,2023,8,1,-1,2,7,3,40,100,79
+934,Nov 17 2015,World Cup qualifier in Congo,Congo,Ethiopia,1480,1301,2,1,7,-7,1487,1294,85,134,3,0,88,134,40,100,279
+935,Nov 17 2015,European Championship qual in Denmark,Denmark,Sweden,1731,1763,2,2,-4,4,1727,1767,36,27,-1,0,35,27,40,100,68
+936,Nov 17 2015,World Cup & Asian Cup qual in East Timor,East Timor,Saudi Arabia,730,1509,0,10,-2,2,728,1511,216,80,-1,1,215,81,30,100,-679
+937,Nov 17 2015,World Cup qualifier in Egypt,Egypt,Chad,1618,1284,4,0,6,-6,1624,1278,50,141,2,-2,52,139,40,100,434
+938,Nov 17 2015,World Cup qualifier in El Salvador,El Salvador,Canada,1480,1526,0,0,-3,3,1477,1529,93,77,-1,0,92,77,40,100,54
+939,Nov 17 2015,Friendly in England,England,France,1947,1966,2,0,12,-12,1959,1954,4,7,2,0,6,7,20,100,81
+940,Nov 17 2015,Friendly in Estonia,Estonia,Saint Kitts and Nevis,1489,1236,3,0,4,-4,1493,1232,86,153,1,-3,87,150,20,100,353
+941,Nov 17 2015,World Cup qualifier in Ghana,Ghana,Comoros,1643,939,2,0,1,-1,1644,938,49,197,-1,0,48,197,20,0,704
+942,Nov 17 2015,World Cup & Asian Cup qual in Guam,Guam,Iran,883,1726,0,6,-1,1,882,1727,206,35,-1,0,205,35,20,100,-743
+943,Nov 17 2015,World Cup qualifier in Haiti,Haiti,Jamaica,1499,1563,0,1,-22,22,1477,1585,97,56,-5,6,92,62,40,100,36
+944,Nov 17 2015,World Cup qualifier in Honduras,Honduras,Mexico,1515,1897,0,2,-10,10,1505,1907,92,12,-6,1,86,13,40,100,-282
+945,Nov 17 2015,World Cup & Asian Cup qual in Hong Kong,Hong Kong,China,1207,1560,0,0,12,-12,1219,1548,150,72,5,-1,155,71,30,0,-353
+946,Nov 17 2015,Friendly in Italy,Italy,Romania,1877,1758,2,2,-6,6,1871,1764,15,28,0,1,15,29,20,100,219
+947,Nov 17 2015,World Cup qualifier in Ivory Coast,Ivory Coast,Liberia,1732,1334,3,0,4,-4,1736,1330,33,130,0,-1,33,129,40,100,498
+948,Nov 17 2015,World Cup & Asian Cup qual in Kyrgyzstan,Kyrgyzstan,Jordan,1147,1563,1,0,34,-34,1181,1529,159,86,6,-9,165,77,40,100,-316
+949,Nov 17 2015,World Cup & Asian Cup qual in Laos,Laos,South Korea,812,1786,0,5,-1,1,811,1787,208,21,0,1,208,22,40,100,-874
+950,Nov 17 2015,Friendly in Luxembourg,Luxembourg,Portugal,1255,1918,0,2,-1,1,1254,1919,144,12,-1,-1,143,11,20,0,-663
+951,Nov 17 2015,Friendly in Macedonia,Macedonia,Lebanon,1454,1384,0,1,-15,15,1439,1399,101,106,-2,4,99,110,20,100,170
+952,Nov 17 2015,World Cup & Asian Cup qual in Malaysia,Malaysia,United Arab Emirates,1122,1622,1,2,-4,4,1118,1626,178,47,-2,3,176,50,40,100,-400
+953,Nov 17 2015,World Cup qualifier in Mali,Mali,Botswana,1527,1341,2,0,10,-10,1537,1331,70,129,3,-2,73,127,40,100,286
+954,Nov 17 2015,World Cup qualifier in Nigeria,Nigeria,Swaziland,1633,1267,2,0,4,-4,1637,1263,48,143,1,-1,49,142,40,100,466
+955,Nov 17 2015,World Cup & Asian Cup qual in North Korea,North Korea,Bahrain,1517,1426,2,0,15,-15,1532,1411,69,111,5,-4,74,107,40,100,191
+956,Nov 17 2015,World Cup qualifier in Panama,Panama,Costa Rica,1705,1772,1,2,-22,22,1683,1794,45,17,-3,4,42,21,40,100,33
+957,Nov 17 2015,World Cup qualifier in Paraguay,Paraguay,Bolivia,1718,1634,2,1,10,-10,1728,1624,31,55,3,-3,34,52,40,100,184
+958,Nov 17 2015,Friendly in Poland,Poland,Czechia,1762,1777,3,1,11,-11,1773,1766,22,32,3,-4,25,28,20,100,85
+959,Nov 17 2015,Friendly in Russia,Russia,Croatia,1793,1795,1,3,-19,19,1774,1814,26,13,-2,4,24,17,20,100,98
+960,Nov 17 2015,World Cup qualifier in Rwanda,Rwanda,Libya,1378,1476,1,3,-30,30,1348,1506,127,76,-5,9,122,85,40,100,2
+961,Nov 17 2015,World Cup qualifier in Senegal,Senegal,Madagascar,1641,1287,3,0,5,-5,1646,1282,46,138,1,-1,47,137,40,100,454
+962,Nov 17 2015,World Cup & Asian Cup qual in Singapore,Singapore,Syria,1194,1507,1,2,-9,9,1185,1516,164,77,-1,3,163,80,40,100,-213
+963,Nov 17 2015,Friendly in Slovakia,Slovakia,Iceland,1735,1682,3,1,9,-9,1744,1673,32,43,0,0,32,43,20,100,153
+964,Nov 17 2015,European Championship qual in Slovenia,Slovenia,Ukraine,1613,1823,1,1,6,-6,1619,1817,52,16,2,0,54,16,40,100,-110
+965,Nov 17 2015,World Cup qualifier in South Africa,South Africa,Angola,1575,1429,1,0,8,-8,1583,1421,63,110,1,-5,64,105,40,100,246
+966,Nov 17 2015,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines,Guatemala,1183,1433,0,4,-22,22,1161,1455,176,93,-5,3,171,96,40,100,-150
+967,Nov 17 2015,World Cup & Asian Cup qual in Taiwan,Taiwan,Iraq,784,1505,0,2,-2,2,782,1507,210,81,0,2,210,83,40,100,-621
+968,Nov 17 2015,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,United States,1612,1762,0,0,3,-3,1615,1759,53,32,2,-2,55,30,40,100,-50
+969,Nov 17 2015,World Cup qualifier in Tunisia,Tunisia,Mauritania,1547,1255,2,1,4,-4,1551,1251,68,148,2,-3,70,145,40,100,392
+970,Nov 17 2015,Friendly in Turkey,Turkey,Greece,1812,1604,0,0,-7,7,1805,1611,20,53,-1,3,19,56,20,100,308
+971,Nov 17 2015,World Cup & Asian Cup qual in Turkmenistan,Turkmenistan,Oman,1242,1504,2,1,29,-29,1271,1475,134,102,6,-8,140,94,40,100,-162
+972,Nov 17 2015,World Cup qualifier in Uruguay,Uruguay,Chile,1912,2011,3,0,35,-35,1947,1976,7,7,2,-2,9,5,40,100,1
+973,Nov 17 2015,World Cup & Asian Cup qual in Qatar,Uzbekistan,Yemen,1645,1185,3,1,4,-4,1649,1181,46,166,0,-1,46,165,40,0,460
+974,Nov 17 2015,World Cup qualifier in Venezuela,Venezuela,Ecuador,1616,1899,1,3,-16,16,1600,1915,65,12,-5,0,60,12,40,100,-183
+975,Nov 21 2015,CECAFA Cup in Ethiopia,Burundi,Zanzibar,1342,1279,1,0,16,-16,1358,1263,116,144,4,-3,120,141,40,0,63
+976,Nov 21 2015,CECAFA Cup in Ethiopia,Ethiopia,Rwanda,1294,1348,0,1,-23,23,1271,1371,142,112,-4,5,138,117,40,100,46
+977,Nov 22 2015,CECAFA Cup in Ethiopia,Kenya,Uganda,1389,1531,2,0,42,-42,1431,1489,88,99,12,-12,100,87,40,0,-142
+978,Nov 22 2015,CECAFA Cup in Ethiopia,Tanzania,Somalia,1285,861,4,0,6,-6,1291,855,133,207,1,0,134,207,40,0,424
+979,Nov 23 2015,CECAFA Cup in Ethiopia,Malawi,Sudan,1355,1313,2,1,18,-18,1373,1295,112,134,5,-1,117,133,40,0,42
+980,Nov 23 2015,CECAFA Cup in Ethiopia,South Sudan,Djibouti,1078,775,2,0,9,-9,1087,766,177,211,2,0,179,211,40,0,303
+981,Nov 24 2015,CECAFA Cup in Ethiopia,Tanzania,Rwanda,1291,1371,2,1,25,-25,1316,1346,130,128,2,-5,132,123,40,0,-80
+982,Nov 24 2015,CECAFA Cup in Ethiopia,Uganda,Zanzibar,1489,1263,4,0,16,-16,1505,1247,83,149,2,-4,85,145,40,0,226
+983,Nov 25 2015,CECAFA Cup in Ethiopia,Burundi,Kenya,1358,1431,1,1,4,-4,1362,1427,118,104,1,-2,119,102,40,0,-73
+984,Nov 25 2015,CECAFA Cup in Ethiopia,Ethiopia,Somalia,1271,855,2,0,3,-3,1274,852,138,207,0,0,138,207,20,0,416
+985,Nov 25 2015,CECAFA Cup in Ethiopia,Malawi,Djibouti,1373,766,3,0,2,-2,1375,764,117,213,0,-1,117,212,30,0,607
+986,Nov 25 2015,CECAFA Cup in Ethiopia,South Sudan,Sudan,1087,1295,0,0,11,-11,1098,1284,177,136,1,-1,178,135,40,0,-208
+987,Nov 27 2015,CECAFA Cup in Ethiopia,Rwanda,Somalia,1346,852,3,0,4,-4,1350,848,121,207,1,0,122,207,40,0,494
+988,Nov 27 2015,CECAFA Cup in Ethiopia,South Sudan,Malawi,1098,1375,2,0,50,-50,1148,1325,166,145,6,-14,172,131,40,0,-277
+989,Nov 27 2015,CECAFA Cup in Ethiopia,Sudan,Djibouti,1284,764,4,0,4,-4,1288,760,137,214,-1,-1,136,213,40,0,520
+990,Nov 27 2015,CECAFA Cup in Ethiopia,Zanzibar,Kenya,1247,1427,3,1,44,-44,1291,1383,123,124,11,-11,134,113,40,0,-180
+991,Nov 28 2015,CECAFA Cup in Ethiopia,Ethiopia,Tanzania,1274,1316,1,1,-3,3,1271,1319,139,132,0,0,139,132,40,100,58
+992,Nov 28 2015,CECAFA Cup in Ethiopia,Uganda,Burundi,1505,1362,1,0,12,-12,1517,1350,73,124,6,-3,79,121,40,0,143
+993,Nov 30 2015,CECAFA Cup in Ethiopia,Ethiopia,Tanzania,1271,1319,1,1,-3,3,1268,1322,143,130,-2,1,141,131,40,100,52
+994,Nov 30 2015,CECAFA Cup in Ethiopia,Uganda,Malawi,1517,1325,2,0,15,-15,1532,1310,69,133,5,-1,74,132,40,0,192
+995,Dec 1 2015,CECAFA Cup in Ethiopia,Kenya,Rwanda,1383,1350,0,0,-2,2,1381,1352,115,119,-1,1,114,120,40,0,33
+996,Dec 1 2015,CECAFA Cup in Ethiopia,South Sudan,Sudan,1148,1288,0,0,8,-8,1156,1280,172,138,0,-1,172,137,40,0,-140
+997,Dec 3 2015,CECAFA Cup in Ethiopia,Ethiopia,Uganda,1268,1532,0,0,9,-9,1277,1523,137,82,2,-4,139,78,40,100,-164
+998,Dec 3 2015,CECAFA Cup in Ethiopia,Rwanda,Sudan,1352,1280,1,1,-4,4,1348,1284,124,135,-2,1,122,136,40,0,72
+999,Dec 5 2015,CECAFA Cup in Ethiopia,Ethiopia,Sudan,1277,1284,1,1,-5,5,1272,1289,139,134,0,1,139,135,40,100,93
+1000,Dec 5 2015,CECAFA Cup in Ethiopia,Uganda,Rwanda,1523,1348,1,0,11,-11,1534,1337,70,124,4,-1,74,123,40,0,175
+1001,Dec 8 2015,Friendly in Nicaragua,Nicaragua,Cuba,1214,1379,5,0,24,-24,1238,1355,137,123,10,-4,147,119,20,100,-65
+1002,Dec 11 2015,Friendly in Nicaragua,Nicaragua,Cuba,1238,1355,1,0,10,-10,1248,1345,145,123,1,-2,146,121,20,100,-17
+1003,Dec 15 2015,Friendly in Costa Rica,Costa Rica,Nicaragua,1794,1248,1,0,0,0,1794,1248,21,146,0,0,21,146,20,100,646
+1004,Dec 16 2015,Friendly in Honduras,Honduras,Cuba,1505,1345,2,0,5,-5,1510,1340,78,123,4,-1,82,122,20,100,260
+1005,Dec 17 2015,Friendly in Bangladesh,Bangladesh,Nepal,917,885,1,0,6,-6,923,879,200,207,0,-2,200,205,20,100,132
+1006,Dec 23 2015,South Asian Championship in India,Sri Lanka,Nepal,765,879,1,0,26,-26,791,853,209,207,1,-1,210,206,40,0,-114
+1007,Dec 24 2015,South Asian Championship in India,Afghanistan,Bangladesh,1081,923,4,0,22,-22,1103,901,175,204,3,-2,178,202,40,0,158
+1008,Dec 24 2015,South Asian Championship in India,Maldives,Bhutan,1009,570,3,1,4,-4,1013,566,187,233,0,-1,187,232,40,0,439
+1009,Dec 25 2015,South Asian Championship in India,India,Sri Lanka,1032,791,2,0,7,-7,1039,784,185,210,0,0,185,210,40,100,341
+1010,Dec 26 2015,South Asian Championship in India,Afghanistan,Bhutan,1103,566,3,0,3,-3,1106,563,178,236,0,-2,178,234,40,0,537
+1011,Dec 26 2015,South Asian Championship in India,Maldives,Bangladesh,1013,901,3,1,21,-21,1034,880,185,206,1,-2,186,204,40,0,112
+1012,Dec 26 2015,Friendly in Martinique,Martinique,Guadeloupe,1429,1327,2,0,7,-7,1436,1320,99,132,1,-1,100,131,20,100,202
+1013,Dec 27 2015,South Asian Championship in India,India,Nepal,1039,853,4,1,11,-11,1050,842,185,208,0,-1,185,207,40,100,286
+1014,Dec 28 2015,South Asian Championship in India,Afghanistan,Maldives,1106,1034,4,1,28,-28,1134,1006,170,188,4,-1,174,187,40,0,72
+1015,Dec 28 2015,South Asian Championship in India,Bangladesh,Bhutan,880,563,3,0,10,-10,890,553,200,234,2,0,202,234,40,0,317
+1016,Dec 31 2015,South Asian Championship in India,Afghanistan,Sri Lanka,1134,784,5,0,9,-9,1143,775,174,212,0,-1,174,211,40,0,350
+1017,Dec 31 2015,South Asian Championship in India,India,Maldives,1050,1006,3,2,12,-12,1062,994,183,189,1,-1,184,188,40,100,144

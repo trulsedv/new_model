@@ -1,0 +1,367 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 7 2020,Friendly in the United States,Canada,Barbados,1604,1105,4,1,2,-2,1606,1103,58,182,0,-1,58,181,20,0,499
+1,Jan 9 2020,Friendly in Qatar,Sweden,Moldova,1860,1240,1,0,1,-1,1861,1239,18,147,0,0,18,147,20,0,620
+2,Jan 10 2020,Friendly in the United States,Canada,Barbados,1606,1103,4,1,2,-2,1608,1101,56,181,1,0,57,181,20,0,503
+3,Jan 12 2020,Friendly in Qatar,Sweden,Kosovo,1861,1564,1,0,3,-3,1864,1561,18,66,0,0,18,66,20,0,297
+4,Jan 15 2020,Friendly in the United States,Iceland,Canada,1672,1608,1,0,8,-8,1680,1600,43,59,1,-1,44,58,20,0,64
+5,Jan 15 2020,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Palestine,831,1381,0,2,-3,3,828,1384,208,108,0,1,208,109,30,100,-450
+6,Jan 16 2020,Bangabandhu Gold Cup in Bangladesh,Burundi,Mauritius,1168,1029,4,1,16,-16,1184,1013,159,189,4,-1,163,188,30,0,139
+7,Jan 17 2020,Bangabandhu Gold Cup in Bangladesh,Palestine,Sri Lanka,1384,669,2,0,1,-1,1385,668,109,225,0,0,109,225,30,0,715
+8,Jan 18 2020,Bangabandhu Gold Cup in Bangladesh,Burundi,Seychelles,1184,914,3,1,8,-8,1192,906,157,200,3,-1,160,199,30,0,270
+9,Jan 19 2020,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Sri Lanka,828,668,3,0,10,-10,838,658,206,225,1,0,207,225,20,0,160
+10,Jan 19 2020,Friendly in the United States,Iceland,El Salvador,1680,1489,1,0,5,-5,1685,1484,42,86,1,-1,43,85,20,0,191
+11,Jan 20 2020,Bangabandhu Gold Cup in Bangladesh,Mauritius,Seychelles,1013,906,2,2,-4,4,1009,910,188,199,0,0,188,199,30,0,107
+12,Jan 22 2020,Bangabandhu Gold Cup in Bangladesh,Palestine,Seychelles,1385,910,1,0,2,-2,1387,908,109,199,0,0,109,199,30,0,475
+13,Jan 23 2020,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Burundi,838,1192,0,3,-10,10,828,1202,209,154,-1,3,208,157,30,100,-254
+14,Jan 25 2020,Bangabandhu Gold Cup in Bangladesh,Palestine,Burundi,1387,1202,3,1,12,-12,1399,1190,105,163,2,-3,107,160,30,0,185
+15,Jan 25 2020,Friendly in Eritrea,Eritrea,Sudan,1153,1270,0,1,-10,10,1143,1280,176,137,-2,1,174,138,20,100,-17
+16,Feb 1 2020,Friendly in the United States,United States,Costa Rica,1721,1659,1,0,6,-6,1727,1653,35,48,2,0,37,48,20,100,162
+17,Feb 23 2020,Friendly in the United Arab Emirates,Belarus,Uzbekistan,1493,1578,1,0,12,-12,1505,1566,77,66,3,-1,80,65,20,0,-85
+18,Feb 25 2020,Friendly in Nicaragua,Nicaragua,Panama,1190,1506,0,0,6,-6,1196,1500,158,87,1,-4,159,83,20,100,-216
+19,Feb 26 2020,Friendly in Bulgaria,Bulgaria,Belarus,1575,1505,0,1,-15,15,1560,1520,68,79,-2,0,66,79,20,100,170
+20,Mar 4 2020,Friendly in Guatemala,Guatemala,Panama,1502,1500,0,2,-19,19,1483,1519,89,77,-4,3,85,80,20,100,102
+21,Mar 11 2020,Friendly in Jamaica,Jamaica,Bermuda,1582,1301,2,0,3,-3,1585,1298,60,137,1,-3,61,134,20,100,381
+22,Sep 3 2020,Friendly in Uzbekistan,Uzbekistan,Tajikistan,1566,1233,2,1,2,-2,1568,1231,64,150,0,-1,64,149,20,100,433
+23,Sep 3 2020,European Nations League D in Latvia,Latvia,Andorra,1254,1105,0,0,-12,12,1242,1117,148,178,-1,1,147,179,40,100,249
+24,Sep 3 2020,European Nations League D in the Faroe Islands,Faroe Islands,Malta,1226,1168,3,2,11,-11,1237,1157,146,174,2,-3,148,171,40,100,158
+25,Sep 3 2020,European Nations League C in Slovenia,Slovenia,Greece,1586,1608,0,0,-4,4,1582,1612,64,57,-2,0,62,57,40,100,78
+26,Sep 3 2020,European Nations League C in Italy,Kosovo,Moldova,1561,1239,1,1,-15,15,1546,1254,73,145,-4,1,69,146,40,0,322
+27,Sep 3 2020,European Nations League B in Turkey,Turkey,Hungary,1779,1619,0,1,-33,33,1746,1652,30,43,-2,6,28,49,40,100,260
+28,Sep 3 2020,European Nations League B in Russia,Russia,Serbia,1794,1791,3,1,21,-21,1815,1770,20,29,1,-3,21,26,40,100,103
+29,Sep 3 2020,European Nations League B in Finland,Finland,Wales,1648,1783,0,1,-18,18,1630,1801,55,21,-3,2,52,23,40,100,-35
+30,Sep 3 2020,European Nations League B in Bulgaria,Bulgaria,Ireland,1560,1729,1,1,4,-4,1564,1725,64,40,1,-2,65,38,40,100,-69
+31,Sep 3 2020,European Nations League A in Ukraine,Ukraine,Switzerland,1855,1898,2,1,17,-17,1872,1881,15,17,2,-1,17,16,30,0,-43
+32,Sep 3 2020,European Nations League A in Germany,Germany,Spain,1965,2028,1,1,-2,2,1963,2030,11,4,0,0,11,4,30,100,37
+33,Sep 4 2020,European Nations League C in Lithuania,Lithuania,Kazakhstan,1320,1361,0,2,-35,35,1285,1396,144,103,-8,6,136,109,40,100,59
+34,Sep 4 2020,European Nations League C in Belarus,Belarus,Albania,1520,1531,0,2,-38,38,1482,1569,93,53,-7,11,86,64,40,100,89
+35,Sep 4 2020,European Nations League B in Slovakia,Slovakia,Czechia,1734,1736,1,3,-38,38,1696,1774,49,16,-7,9,42,25,40,100,98
+36,Sep 4 2020,European Nations League B in Scotland,Scotland,Israel,1641,1538,1,1,-11,11,1630,1549,52,69,-1,1,51,70,40,100,203
+37,Sep 4 2020,European Nations League B in Romania,Romania,Northern Ireland,1701,1678,1,1,-7,7,1694,1685,44,43,-1,1,43,44,40,100,123
+38,Sep 4 2020,European Nations League B in Norway,Norway,Austria,1723,1741,1,2,-25,25,1698,1766,43,25,-2,3,41,28,40,100,82
+39,Sep 4 2020,European Nations League A in the Netherlands,Netherlands,Poland,2018,1790,1,0,5,-5,2023,1785,5,24,0,0,5,24,40,100,328
+40,Sep 4 2020,European Nations League A in Italy,Italy,Bosnia and Herzegovina,1969,1683,1,1,-16,16,1953,1699,16,36,-4,4,12,40,40,100,386
+41,Sep 5 2020,European Nations League D in Gibraltar,Gibraltar,San Marino,1087,820,1,0,4,-4,1091,816,183,209,0,0,183,209,20,0,267
+42,Sep 5 2020,European Nations League C in North Macedonia,North Macedonia,Armenia,1546,1451,2,1,10,-10,1556,1441,67,97,2,-2,69,95,40,100,195
+43,Sep 5 2020,European Nations League C in Estonia,Estonia,Georgia,1434,1551,0,1,-19,19,1415,1570,106,59,-5,5,101,64,40,100,-17
+44,Sep 5 2020,European Nations League C in Cyprus,Cyprus,Montenegro,1399,1523,0,2,-28,28,1371,1551,119,65,-6,6,113,71,40,100,-24
+45,Sep 5 2020,European Nations League C in Azerbaijan,Azerbaijan,Luxembourg,1376,1339,1,2,-28,28,1348,1367,121,108,-4,7,117,115,40,100,137
+46,Sep 5 2020,European Nations League A in Sweden,Sweden,France,1864,2047,0,1,-15,15,1849,2062,19,3,0,0,19,3,40,100,-83
+47,Sep 5 2020,European Nations League A in Portugal,Portugal,Croatia,1986,1920,4,1,19,-19,2005,1901,6,15,0,-1,6,14,40,100,166
+48,Sep 5 2020,European Nations League A in Iceland,Iceland,England,1685,1956,0,1,-11,11,1674,1967,46,5,-1,3,45,8,40,100,-171
+49,Sep 5 2020,European Nations League A in Denmark,Denmark,Belgium,1891,2084,0,2,-22,22,1869,2106,19,1,-2,0,17,1,40,100,-93
+50,Sep 6 2020,European Nations League D in Malta,Malta,Latvia,1157,1242,1,1,-1,1,1156,1243,171,149,0,-1,171,148,30,100,15
+51,Sep 6 2020,European Nations League D in Andorra,Andorra,Faroe Islands,1117,1237,0,1,-19,19,1098,1256,183,142,-2,3,181,145,40,100,-20
+52,Sep 6 2020,European Nations League C in Slovenia,Slovenia,Moldova,1582,1254,1,0,3,-3,1585,1251,58,148,2,-1,60,147,20,0,328
+53,Sep 6 2020,European Nations League C in Kosovo,Kosovo,Greece,1546,1612,1,2,-22,22,1524,1634,81,45,-4,6,77,51,40,100,34
+54,Sep 6 2020,European Nations League B in Wales,Wales,Bulgaria,1801,1564,1,0,5,-5,1806,1559,23,67,0,0,23,67,40,100,337
+55,Sep 6 2020,European Nations League B in Serbia,Serbia,Turkey,1770,1746,0,0,-7,7,1763,1753,31,30,-2,0,29,30,40,100,124
+56,Sep 6 2020,European Nations League B in Ireland,Ireland,Finland,1725,1630,0,1,-30,30,1695,1660,47,45,-5,3,42,48,40,100,195
+57,Sep 6 2020,European Nations League B in Hungary,Hungary,Russia,1652,1815,2,3,-16,16,1636,1831,51,19,-1,1,50,20,40,100,-63
+58,Sep 6 2020,European Nations League A in Switzerland,Switzerland,Germany,1881,1963,1,1,-1,1,1880,1964,15,11,0,0,15,11,20,100,18
+59,Sep 6 2020,European Nations League A in Spain,Spain,Ukraine,2030,1872,4,0,14,-14,2044,1858,4,20,0,-2,4,18,40,100,258
+60,Sep 7 2020,European Nations League C in Kazakhstan,Kazakhstan,Belarus,1396,1482,1,2,-21,21,1375,1503,114,76,-3,5,111,81,40,100,14
+61,Sep 7 2020,European Nations League C in Albania,Albania,Lithuania,1569,1285,0,1,-36,36,1533,1321,85,120,-10,8,75,128,40,100,384
+62,Sep 7 2020,European Nations League B in Northern Ireland,Northern Ireland,Norway,1685,1698,1,5,-47,47,1638,1745,56,20,-6,10,50,30,40,100,87
+63,Sep 7 2020,European Nations League B in Israel,Israel,Slovakia,1549,1696,1,1,3,-3,1552,1693,68,43,2,-1,70,42,40,100,-47
+64,Sep 7 2020,European Nations League B in Czechia,Czechia,Scotland,1774,1630,1,2,-32,32,1742,1662,39,39,-7,7,32,46,40,100,244
+65,Sep 7 2020,European Nations League B in Austria,Austria,Romania,1766,1694,2,3,-29,29,1737,1723,43,33,-8,5,35,38,40,100,172
+66,Sep 7 2020,European Nations League A in the Netherlands,Netherlands,Italy,2023,1953,0,1,-29,29,1994,1982,7,4,-1,4,6,8,40,100,170
+67,Sep 7 2020,European Nations League A in Bosnia and Herzegovina,Bosnia and Herzegovina,Poland,1699,1785,1,2,-21,21,1678,1806,47,22,-4,1,43,23,40,100,14
+68,Sep 8 2020,European Nations League D in Italy,Liechtenstein,San Marino,1142,816,2,0,8,-8,1150,808,173,209,1,0,174,209,40,0,326
+69,Sep 8 2020,European Nations League C in Luxembourg,Luxembourg,Montenegro,1367,1551,0,1,-15,15,1352,1566,117,59,-1,6,116,65,40,100,-84
+70,Sep 8 2020,European Nations League C in Georgia,Georgia,North Macedonia,1570,1556,1,1,-6,6,1564,1562,68,66,-2,1,66,67,40,100,114
+71,Sep 8 2020,European Nations League C in Cyprus,Cyprus,Azerbaijan,1371,1348,0,1,-27,27,1344,1375,125,105,-6,6,119,111,40,100,123
+72,Sep 8 2020,European Nations League C in Armenia,Armenia,Estonia,1441,1415,2,0,20,-20,1461,1395,85,113,5,-6,90,107,40,100,126
+73,Sep 8 2020,European Nations League A in Sweden,Sweden,Portugal,1849,2005,0,2,-25,25,1824,2030,23,5,-2,0,21,5,40,100,-56
+74,Sep 8 2020,European Nations League A in France,France,Croatia,2062,1901,4,2,11,-11,2073,1890,3,14,0,0,3,14,40,100,261
+75,Sep 8 2020,European Nations League A in Denmark,Denmark,England,1869,1967,0,0,0,0,1869,1967,16,9,0,0,16,9,20,100,2
+76,Sep 8 2020,European Nations League A in Belgium,Belgium,Iceland,2106,1674,5,1,3,-3,2109,1671,1,44,0,0,1,44,20,0,432
+77,Sep 23 2020,Friendly in Chad,Chad,Sudan,1212,1280,2,3,-11,11,1201,1291,158,136,-2,1,156,137,20,100,32
+78,Sep 25 2020,Friendly in Chad,Chad,Sudan,1201,1291,0,2,-15,15,1186,1306,170,125,-7,6,163,131,20,100,10
+79,Sep 30 2020,Friendly in Mexico,Mexico,Guatemala,1904,1483,3,0,2,-2,1906,1481,13,87,0,-1,13,86,20,100,521
+80,Oct 6 2020,Friendly in Nicaragua,Nicaragua,Guatemala,1196,1481,0,0,5,-5,1201,1476,154,86,2,0,156,86,20,100,-185
+81,Oct 7 2020,Friendly in Zambia,Zambia,Malawi,1429,1343,1,0,5,-5,1434,1338,94,124,2,-2,96,122,20,100,186
+82,Oct 7 2020,Friendly in Switzerland,Switzerland,Croatia,1880,1890,1,2,-13,13,1867,1903,17,14,-1,0,16,14,20,100,90
+83,Oct 7 2020,Friendly in Slovenia,Slovenia,San Marino,1585,808,4,0,0,0,1585,808,60,209,0,0,60,209,20,0,777
+84,Oct 7 2020,Friendly in Portugal,Portugal,Spain,2030,2044,0,0,-2,2,2028,2046,5,4,0,0,5,4,20,100,86
+85,Oct 7 2020,Friendly in Poland,Poland,Finland,1806,1660,5,1,7,-7,1813,1653,21,48,1,0,22,48,20,100,246
+86,Oct 7 2020,Friendly in the Netherlands,Netherlands,Mexico,1994,1906,0,1,-15,15,1979,1921,10,13,-2,0,8,13,20,100,188
+87,Oct 7 2020,Friendly in Montenegro,Montenegro,Latvia,1566,1243,1,1,-8,8,1558,1251,71,146,-3,1,68,147,20,100,423
+88,Oct 7 2020,Friendly in Malta,Malta,Gibraltar,1156,1091,2,0,8,-8,1164,1083,167,183,2,0,169,183,20,100,165
+89,Oct 7 2020,Friendly in Luxembourg,Luxembourg,Liechtenstein,1352,1150,1,2,-17,17,1335,1167,130,162,-7,6,123,168,20,100,302
+90,Oct 7 2020,Friendly in Italy,Italy,Moldova,1982,1251,6,0,0,0,1982,1251,6,147,1,0,7,147,20,100,831
+91,Oct 7 2020,Friendly in Germany,Germany,Turkey,1964,1753,3,3,-7,7,1957,1760,12,28,0,0,12,28,20,100,311
+92,Oct 7 2020,Friendly in France,France,Ukraine,2073,1858,7,1,6,-6,2079,1852,3,18,0,0,3,18,20,100,315
+93,Oct 7 2020,Friendly in Estonia,Estonia,Lithuania,1395,1321,1,3,-22,22,1373,1343,119,108,-6,10,113,118,20,100,174
+94,Oct 7 2020,Friendly in Denmark,Denmark,Faroe Islands,1869,1256,4,0,1,-1,1870,1255,14,145,1,0,15,145,20,0,613
+95,Oct 7 2020,Friendly in Cyprus,Cyprus,Czechia,1344,1742,1,2,-3,3,1341,1745,123,28,-2,2,121,30,20,100,-298
+96,Oct 7 2020,Friendly in Austria,Austria,Greece,1737,1634,2,1,5,-5,1742,1629,31,56,2,-2,33,54,20,100,203
+97,Oct 7 2020,Friendly in Andorra,Andorra,Cape Verde,1098,1407,1,2,-5,5,1093,1412,181,100,0,2,181,102,20,100,-209
+98,Oct 8 2020,Friendly in Uzbekistan,Uzbekistan,Iran,1568,1739,1,2,-8,8,1560,1747,70,24,-3,5,67,29,20,100,-71
+99,Oct 8 2020,Friendly in South Africa,South Africa,Namibia,1534,1331,1,1,-7,7,1527,1338,77,116,-2,5,75,121,20,100,303
+100,Oct 8 2020,Friendly in Russia,Russia,Sweden,1831,1824,1,2,-13,13,1818,1837,23,17,-2,2,21,19,20,100,107
+101,Oct 8 2020,Friendly in Portugal,Guinea-Bissau,Mozambique,1295,1343,1,0,11,-11,1306,1332,125,134,6,-8,131,126,20,0,-48
+102,Oct 8 2020,Friendly in England,England,Wales,1967,1806,3,0,6,-6,1973,1800,11,22,-1,1,10,23,20,100,261
+103,Oct 8 2020,Friendly in Belgium,Belgium,Ivory Coast,2109,1617,1,1,-9,9,2100,1626,1,53,0,2,1,55,20,0,492
+104,Oct 8 2020,European Championship qual in Slovakia,Slovakia,Ireland,1693,1695,0,0,-5,5,1688,1700,42,41,0,0,42,41,40,100,98
+105,Oct 8 2020,European Championship qual in Scotland,Scotland,Israel,1662,1552,0,0,-11,11,1651,1563,54,61,-4,5,50,66,40,100,210
+106,Oct 8 2020,European Championship qual in Norway,Norway,Serbia,1745,1763,1,2,-25,25,1720,1788,44,23,-7,2,37,25,40,100,82
+107,Oct 8 2020,European Championship qual in North Macedonia,North Macedonia,Kosovo,1562,1524,2,1,12,-12,1574,1512,64,81,1,-2,65,79,40,100,138
+108,Oct 8 2020,European Championship qual in Iceland,Iceland,Romania,1671,1723,2,1,17,-17,1688,1706,40,42,2,-2,42,40,30,0,-52
+109,Oct 8 2020,European Championship qual in Georgia,Georgia,Belarus,1564,1503,1,0,11,-11,1575,1492,63,83,1,-1,64,82,40,100,161
+110,Oct 8 2020,European Championship qual in Bulgaria,Bulgaria,Hungary,1559,1636,1,3,-32,32,1527,1668,83,41,-8,5,75,46,40,100,23
+111,Oct 8 2020,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Northern Ireland,1678,1638,1,1,-8,8,1670,1646,45,52,-1,-1,44,51,40,100,140
+112,Oct 8 2020,World Cup qualifier in Uruguay,Uruguay,Chile,1967,1807,2,1,7,-7,1974,1800,9,23,0,0,9,23,40,100,260
+113,Oct 8 2020,World Cup qualifier in Paraguay,Paraguay,Peru,1738,1866,2,2,2,-2,1740,1864,33,17,1,0,34,17,40,100,-28
+114,Oct 8 2020,World Cup qualifier in Argentina,Argentina,Ecuador,1967,1726,1,0,5,-5,1972,1721,13,35,-2,1,11,36,40,100,341
+115,Oct 9 2020,Friendly in Tunisia,Tunisia,Sudan,1622,1306,3,0,3,-3,1625,1303,54,133,1,-1,55,132,20,100,416
+116,Oct 9 2020,Friendly in Morocco,Morocco,Senegal,1661,1766,3,1,15,-15,1676,1751,41,31,3,-2,44,29,20,100,-5
+117,Oct 9 2020,Friendly in Mauritania,Mauritania,Sierra Leone,1384,1334,2,1,6,-6,1390,1328,106,129,1,-2,107,127,20,100,150
+118,Oct 9 2020,Friendly in Turkey,Mali,Ghana,1537,1633,3,0,22,-22,1559,1611,65,62,3,-5,68,57,20,0,-96
+119,Oct 9 2020,Friendly in Kenya,Kenya,Zambia,1380,1434,2,1,9,-9,1389,1425,107,100,1,-2,108,98,20,100,46
+120,Oct 9 2020,Friendly in Portugal,Gambia,Congo,1335,1393,1,0,12,-12,1347,1381,111,111,6,-2,117,109,20,0,-58
+121,Oct 9 2020,Friendly in the Netherlands,Cameroon,Japan,1580,1744,0,0,4,-4,1584,1740,63,34,0,-1,63,33,20,0,-164
+122,Oct 9 2020,Friendly in Morocco,Burkina Faso,DR Congo,1529,1505,3,0,16,-16,1545,1489,70,84,2,-2,72,82,20,0,24
+123,Oct 9 2020,Friendly in Austria,Algeria,Nigeria,1746,1711,1,0,9,-9,1755,1702,26,41,2,-1,28,40,20,0,35
+124,Oct 9 2020,World Cup qualifier in Colombia,Colombia,Venezuela,1985,1830,3,0,13,-13,1998,1817,6,22,0,-1,6,21,40,100,255
+125,Oct 9 2020,World Cup qualifier in Brazil,Brazil,Bolivia,2082,1595,5,0,3,-3,2085,1592,2,59,0,0,2,59,30,0,487
+126,Oct 10 2020,Friendly in Niger,Niger,Chad,1255,1186,2,0,8,-8,1263,1178,143,167,1,-2,144,165,20,100,169
+127,Oct 10 2020,Friendly in Honduras,Honduras,Nicaragua,1630,1201,1,1,-9,9,1621,1210,60,152,-4,2,56,154,20,100,529
+128,Oct 10 2020,Friendly in Portugal,Guinea,Cape Verde,1434,1412,2,1,9,-9,1443,1403,96,108,0,-3,96,105,20,0,22
+129,Oct 10 2020,Friendly in Costa Rica,Costa Rica,Panama,1653,1519,0,1,-16,16,1637,1535,54,68,-3,5,51,73,20,100,234
+130,Oct 10 2020,European Nations League D in Liechtenstein,Liechtenstein,Gibraltar,1167,1083,0,1,-30,30,1137,1113,184,177,-8,3,176,180,40,100,184
+131,Oct 10 2020,European Nations League D in the Faroe Islands,Faroe Islands,Latvia,1255,1251,1,1,-6,6,1249,1257,151,143,-3,2,148,145,40,100,104
+132,Oct 10 2020,European Nations League D in Andorra,Andorra,Malta,1093,1164,0,0,-2,2,1091,1166,185,167,-2,1,183,168,40,100,29
+133,Oct 10 2020,European Nations League C in Montenegro,Montenegro,Azerbaijan,1558,1375,2,0,10,-10,1568,1365,63,118,3,-4,66,114,40,100,283
+134,Oct 10 2020,European Nations League C in Luxembourg,Luxembourg,Cyprus,1335,1341,2,0,22,-22,1357,1319,108,135,8,-7,116,128,40,100,94
+135,Oct 10 2020,European Nations League A in Ukraine,Ukraine,Germany,1852,1957,1,2,-20,20,1832,1977,20,6,-1,3,19,9,40,100,-5
+136,Oct 10 2020,European Nations League A in Spain,Spain,Switzerland,2046,1867,1,0,7,-7,2053,1860,4,18,0,-1,4,17,40,100,279
+137,Oct 11 2020,Friendly in Tanzania,Tanzania,Burundi,1301,1190,0,1,-15,15,1286,1205,141,154,-4,3,137,157,20,100,211
+138,Oct 11 2020,Friendly in South Africa,South Africa,Zambia,1527,1425,1,2,-15,15,1512,1440,80,96,-2,1,78,97,20,100,202
+139,Oct 11 2020,Friendly in Malawi,Malawi,Zimbabwe,1338,1412,0,0,-1,1,1337,1413,124,102,-1,0,123,102,20,100,26
+140,Oct 11 2020,Friendly in Tunisia,Comoros,Libya,1188,1467,2,1,17,-17,1205,1450,152,96,5,-4,157,92,20,0,-279
+141,Oct 11 2020,Friendly in Portugal,Benin,Gabon,1464,1460,2,0,15,-15,1479,1445,83,99,3,-4,86,95,20,0,4
+142,Oct 11 2020,European Nations League C in Lithuania,Lithuania,Belarus,1343,1492,2,2,3,-3,1346,1489,118,81,1,0,119,81,40,100,-49
+143,Oct 11 2020,European Nations League C in Kosovo,Kosovo,Slovenia,1512,1585,0,1,-22,22,1490,1607,81,56,-1,2,80,58,40,100,27
+144,Oct 11 2020,European Nations League C in Kazakhstan,Kazakhstan,Albania,1375,1533,0,0,3,-3,1378,1530,112,75,-1,0,111,75,40,100,-58
+145,Oct 11 2020,European Nations League C in Greece,Greece,Moldova,1629,1251,2,0,4,-4,1633,1247,50,149,1,-1,51,148,40,100,478
+146,Oct 11 2020,European Nations League C in Estonia,Estonia,North Macedonia,1373,1574,3,3,6,-6,1379,1568,108,65,2,0,110,65,40,100,-101
+147,Oct 11 2020,European Nations League C in Poland,Armenia,Georgia,1461,1575,2,2,6,-6,1467,1569,88,64,1,0,89,64,40,0,-114
+148,Oct 11 2020,European Nations League B in Serbia,Serbia,Hungary,1788,1668,0,1,-31,31,1757,1699,33,35,-4,6,29,41,40,100,220
+149,Oct 11 2020,European Nations League B in Scotland,Scotland,Slovakia,1651,1688,1,0,16,-16,1667,1672,45,48,2,-3,47,45,40,100,63
+150,Oct 11 2020,European Nations League B in Russia,Russia,Turkey,1818,1760,1,1,-9,9,1809,1769,24,25,-2,1,22,26,40,100,158
+151,Oct 11 2020,European Nations League B in Northern Ireland,Northern Ireland,Austria,1646,1742,0,1,-20,20,1626,1762,54,22,-2,5,52,27,40,100,4
+152,Oct 11 2020,European Nations League B in Norway,Norway,Romania,1720,1706,4,0,26,-26,1746,1680,29,47,4,-4,33,43,40,100,114
+153,Oct 11 2020,European Nations League B in Israel,Israel,Czechia,1563,1745,1,2,-15,15,1548,1760,75,25,-4,3,71,28,40,100,-82
+154,Oct 11 2020,European Nations League B in Ireland,Ireland,Wales,1700,1800,0,0,0,0,1700,1800,39,23,1,0,40,23,20,100,0
+155,Oct 11 2020,European Nations League B in Finland,Finland,Bulgaria,1653,1527,2,0,13,-13,1666,1514,48,78,0,-1,48,77,40,100,226
+156,Oct 11 2020,European Nations League A in Poland,Poland,Italy,1813,1982,0,0,4,-4,1817,1978,18,9,2,-1,20,8,40,100,-69
+157,Oct 11 2020,European Nations League A in Iceland,Iceland,Denmark,1688,1870,0,3,-27,27,1661,1897,56,15,-7,0,49,15,40,100,-82
+158,Oct 11 2020,European Nations League A in France,France,Portugal,2079,2028,0,0,-8,8,2071,2036,3,5,0,0,3,5,40,100,151
+159,Oct 11 2020,European Nations League A in England,England,Belgium,1973,2100,2,1,22,-22,1995,2078,3,3,4,-1,7,2,40,100,-27
+160,Oct 11 2020,European Nations League A in Croatia,Croatia,Sweden,1903,1837,2,1,11,-11,1914,1826,14,20,0,-1,14,19,40,100,166
+161,Oct 11 2020,European Nations League A in Bosnia and Herzegovina,Bosnia and Herzegovina,Netherlands,1670,1979,0,0,11,-11,1681,1968,39,16,3,-4,42,12,30,0,-309
+162,Oct 12 2020,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1449,1560,1,2,-10,10,1439,1570,101,61,-4,3,97,64,20,100,-11
+163,Oct 12 2020,Friendly in Tunisia,Sudan,Togo,1303,1316,1,1,0,0,1303,1316,132,129,0,0,132,129,20,0,-13
+164,Oct 12 2020,Friendly in Turkey,Ghana,Qatar,1611,1670,5,1,22,-22,1633,1648,45,52,6,-3,51,49,20,0,-59
+165,Oct 12 2020,Friendly in Morocco,Burkina Faso,Madagascar,1545,1432,2,1,7,-7,1552,1425,70,98,1,0,71,98,20,0,113
+166,Oct 13 2020,Friendly in Austria,Nigeria,Tunisia,1702,1625,1,1,-2,2,1700,1627,39,49,0,3,39,52,20,0,77
+167,Oct 13 2020,Friendly in Niger,Niger,Sierra Leone,1263,1328,1,0,9,-9,1272,1319,134,128,5,-1,139,127,20,100,35
+168,Oct 13 2020,Friendly in Morocco,Morocco,DR Congo,1676,1489,1,1,-7,7,1669,1496,46,79,-1,1,45,80,20,100,287
+169,Oct 13 2020,Friendly in the Netherlands,Japan,Ivory Coast,1740,1626,1,0,7,-7,1747,1619,34,61,0,-4,34,57,20,0,114
+170,Oct 13 2020,Friendly in Costa Rica,Costa Rica,Panama,1637,1535,0,1,-15,15,1622,1550,58,69,-4,2,54,71,20,100,202
+171,Oct 13 2020,Friendly in Portugal,Angola,Mozambique,1342,1332,3,0,17,-17,1359,1315,111,134,5,-5,116,129,20,0,10
+172,Oct 13 2020,Friendly in the Netherlands,Algeria,Mexico,1755,1921,2,2,4,-4,1759,1917,32,13,-1,0,31,13,20,0,-166
+173,Oct 13 2020,European Nations League D in Latvia,Latvia,Malta,1257,1166,0,1,-30,30,1227,1196,155,154,-5,7,150,161,40,100,191
+174,Oct 13 2020,European Nations League D in Liechtenstein,Liechtenstein,San Marino,1137,808,0,0,-17,17,1120,825,180,209,-2,0,178,209,40,100,429
+175,Oct 13 2020,European Nations League D in the Faroe Islands,Faroe Islands,Andorra,1249,1091,2,0,11,-11,1260,1080,143,183,2,0,145,183,40,100,258
+176,Oct 13 2020,European Nations League C in Montenegro,Montenegro,Luxembourg,1568,1357,1,2,-34,34,1534,1391,80,98,-7,9,73,107,40,100,311
+177,Oct 13 2020,European Nations League C in Albania,Azerbaijan,Cyprus,1365,1319,0,0,-3,3,1362,1322,116,124,-1,2,115,126,40,0,46
+178,Oct 13 2020,European Nations League A in Ukraine,Ukraine,Spain,1832,2053,1,0,27,-27,1859,2026,16,6,1,-1,17,5,40,100,-121
+179,Oct 13 2020,European Nations League A in Germany,Germany,Switzerland,1977,1860,3,3,-11,11,1966,1871,13,15,-2,1,11,16,40,100,217
+180,Oct 13 2020,World Cup qualifier in Venezuela,Venezuela,Paraguay,1817,1740,0,1,-29,29,1788,1769,28,18,-4,8,24,26,40,100,177
+181,Oct 13 2020,World Cup qualifier in Peru,Peru,Brazil,1864,2085,2,4,-20,20,1844,2105,20,1,-2,0,18,1,40,100,-121
+182,Oct 13 2020,World Cup qualifier in Ecuador,Ecuador,Uruguay,1721,1974,4,2,42,-42,1763,1932,19,14,9,-2,28,12,40,100,-153
+183,Oct 13 2020,World Cup qualifier in Chile,Chile,Colombia,1800,1998,2,2,5,-5,1805,1993,21,8,1,-1,22,7,20,0,-198
+184,Oct 13 2020,World Cup qualifier in Bolivia,Bolivia,Argentina,1592,1972,1,2,-7,7,1585,1979,60,5,0,3,60,8,40,100,-280
+185,Oct 14 2020,European Nations League C in North Macedonia,North Macedonia,Georgia,1568,1569,1,1,-6,6,1562,1575,68,65,-1,0,67,65,40,100,99
+186,Oct 14 2020,European Nations League C in Moldova,Moldova,Slovenia,1247,1607,0,4,-14,14,1233,1621,147,50,0,4,147,54,40,100,-260
+187,Oct 14 2020,European Nations League C in Lithuania,Lithuania,Albania,1346,1530,0,0,5,-5,1351,1525,116,75,2,0,118,75,20,0,-184
+188,Oct 14 2020,European Nations League C in Greece,Greece,Kosovo,1633,1490,0,0,-12,12,1621,1502,58,79,-4,1,54,80,40,100,243
+189,Oct 14 2020,European Nations League C in Estonia,Estonia,Armenia,1379,1467,1,1,-1,1,1378,1468,111,89,0,0,111,89,30,100,12
+190,Oct 14 2020,European Nations League C in Belarus,Belarus,Kazakhstan,1489,1378,2,0,14,-14,1503,1364,76,116,3,-2,79,114,40,100,211
+191,Oct 14 2020,European Nations League B in Turkey,Turkey,Serbia,1769,1757,2,2,-6,6,1763,1763,30,24,-2,4,28,28,40,100,112
+192,Oct 14 2020,European Nations League B in Slovakia,Slovakia,Israel,1672,1548,2,3,-31,31,1641,1579,54,56,-5,8,49,64,40,100,224
+193,Oct 14 2020,European Nations League B in Scotland,Scotland,Czechia,1667,1760,1,0,20,-20,1687,1740,36,42,5,-6,41,36,40,100,7
+194,Oct 14 2020,European Nations League B in Russia,Russia,Hungary,1809,1699,0,0,-11,11,1798,1710,25,37,-2,2,23,39,40,100,210
+195,Oct 14 2020,European Nations League B in Romania,Romania,Austria,1680,1762,0,1,-21,21,1659,1783,49,21,-3,4,46,25,40,100,18
+196,Oct 14 2020,European Nations League B in Norway,Norway,Northern Ireland,1746,1626,1,0,9,-9,1755,1617,28,63,4,-5,32,58,40,100,220
+197,Oct 14 2020,European Nations League B in Finland,Finland,Ireland,1666,1700,1,0,16,-16,1682,1684,39,45,4,-3,43,42,30,0,-34
+198,Oct 14 2020,European Nations League B in Bulgaria,Bulgaria,Wales,1514,1800,0,1,-10,10,1504,1810,79,19,-1,2,78,21,40,100,-186
+199,Oct 14 2020,European Nations League A in Portugal,Portugal,Sweden,2036,1826,3,0,10,-10,2046,1816,4,21,0,-1,4,20,40,100,310
+200,Oct 14 2020,European Nations League A in Poland,Poland,Bosnia and Herzegovina,1817,1681,3,0,14,-14,1831,1667,18,48,1,-3,19,45,40,100,236
+201,Oct 14 2020,European Nations League A in Italy,Italy,Netherlands,1978,1968,1,1,-6,6,1972,1974,9,6,0,2,9,8,40,100,110
+202,Oct 14 2020,European Nations League A in Iceland,Iceland,Belgium,1661,2078,1,2,-6,6,1655,2084,46,4,1,-1,47,3,40,100,-317
+203,Oct 14 2020,European Nations League A in England,England,Denmark,1995,1897,0,1,-30,30,1965,1927,16,11,-5,2,11,13,40,100,198
+204,Oct 14 2020,European Nations League A in Croatia,Croatia,France,1914,2071,1,2,-17,17,1897,2088,16,1,-1,1,15,2,40,100,-57
+205,Oct 22 2020,Friendly in Ethiopia,Ethiopia,Zambia,1285,1440,2,3,-8,8,1277,1448,138,90,0,3,138,93,20,100,-55
+206,Oct 25 2020,Friendly in Ethiopia,Ethiopia,Zambia,1277,1448,1,3,-12,12,1265,1460,146,87,-4,3,142,90,20,100,-71
+207,Nov 6 2020,Friendly in Ethiopia,Ethiopia,Sudan,1265,1303,2,2,-2,2,1263,1305,146,132,-2,0,144,132,20,100,62
+208,Nov 7 2020,Friendly in the United Arab Emirates,Bahrain,Tajikistan,1534,1231,1,0,3,-3,1537,1228,73,150,0,-1,73,149,20,0,303
+209,Nov 11 2020,Friendly in Turkey,Turkey,Croatia,1763,1897,3,3,1,-1,1764,1896,28,15,0,0,28,15,20,100,-34
+210,Nov 11 2020,Friendly in Slovenia,Slovenia,Azerbaijan,1621,1362,0,0,-8,8,1613,1370,62,113,-4,1,58,114,20,100,359
+211,Nov 11 2020,Friendly in San Marino,San Marino,Latvia,825,1227,0,3,-5,5,820,1232,209,146,0,2,209,148,20,100,-302
+212,Nov 11 2020,Friendly in Romania,Romania,Belarus,1659,1503,5,3,6,-6,1665,1497,46,81,0,-1,46,80,20,100,256
+213,Nov 11 2020,Friendly in Portugal,Portugal,Andorra,2046,1080,7,0,0,0,2046,1080,4,183,0,0,4,183,20,0,966
+214,Nov 11 2020,Friendly in Poland,Poland,Ukraine,1831,1859,2,0,12,-12,1843,1847,19,17,0,0,19,17,20,100,72
+215,Nov 11 2020,Friendly in the Netherlands,Netherlands,Spain,1974,2026,1,1,-1,1,1973,2027,8,5,0,0,8,5,20,100,48
+216,Nov 11 2020,Friendly in Montenegro,Montenegro,Kazakhstan,1534,1364,0,0,-7,7,1527,1371,76,112,-1,1,75,113,20,100,270
+217,Nov 11 2020,Friendly in Malta,Malta,Liechtenstein,1196,1120,3,0,9,-9,1205,1111,157,180,2,-1,159,179,20,100,176
+218,Nov 11 2020,Friendly in Luxembourg,Luxembourg,Austria,1391,1783,0,3,-5,5,1386,1788,107,23,0,1,107,24,20,100,-292
+219,Nov 11 2020,Friendly in Lithuania,Lithuania,Faroe Islands,1351,1260,2,1,5,-5,1356,1255,118,147,0,-1,118,146,20,100,191
+220,Nov 11 2020,Friendly in Italy,Italy,Estonia,1972,1378,4,0,1,-1,1973,1377,7,107,1,2,8,109,20,0,594
+221,Nov 11 2020,Friendly in Greece,Greece,Cyprus,1621,1322,2,1,2,-2,1623,1320,50,128,2,-1,52,127,20,100,399
+222,Nov 11 2020,Friendly in Germany,Germany,Czechia,1966,1740,1,0,3,-3,1969,1737,10,36,0,0,10,36,20,100,326
+223,Nov 11 2020,Friendly in France,France,Finland,2088,1682,0,2,-28,28,2060,1710,4,35,-1,4,3,39,20,100,506
+224,Nov 11 2020,Friendly in Denmark,Denmark,Sweden,1927,1816,2,0,7,-7,1934,1809,11,22,1,-1,12,21,20,100,211
+225,Nov 11 2020,Friendly in Bulgaria,Bulgaria,Gibraltar,1504,1113,3,0,2,-2,1506,1111,78,178,0,1,78,179,20,100,491
+226,Nov 11 2020,Friendly in Belgium,Belgium,Switzerland,2084,1871,2,1,3,-3,2087,1868,1,16,1,0,2,16,20,100,313
+227,Nov 11 2020,Friendly in Albania,Albania,Kosovo,1525,1502,2,1,7,-7,1532,1495,73,84,1,-2,74,82,20,100,123
+228,Nov 11 2020,African Nations Cup qualifier in Senegal,Senegal,Guinea-Bissau,1751,1306,2,0,2,-2,1753,1304,33,135,0,-2,33,133,20,0,445
+229,Nov 11 2020,African Nations Cup qualifier in Kenya,Kenya,Comoros,1389,1205,1,1,-13,13,1376,1218,111,151,-1,3,110,154,40,100,284
+230,Nov 11 2020,African Nations Cup qualifier in Mauritania,Mauritania,Burundi,1390,1205,1,1,-14,14,1376,1219,112,149,-2,4,110,153,40,100,285
+231,Nov 11 2020,African Nations Cup qualifier in Guinea,Guinea,Chad,1443,1178,1,0,4,-4,1447,1174,90,166,3,0,93,166,20,0,265
+232,Nov 11 2020,African Nations Cup qualifier in Tunisia,Equatorial Guinea,Libya,1300,1450,3,2,28,-28,1328,1422,117,105,8,-6,125,99,40,0,-150
+233,Nov 12 2020,Friendly in Wales,Wales,United States,1810,1727,0,0,-5,5,1805,1732,22,37,-1,0,21,37,20,100,183
+234,Nov 12 2020,Friendly in the United Arab Emirates,United Arab Emirates,Tajikistan,1439,1228,3,2,3,-3,1442,1225,96,150,0,0,96,150,20,100,311
+235,Nov 12 2020,Friendly in the United Arab Emirates,Syria,Uzbekistan,1483,1570,1,0,12,-12,1495,1558,79,70,3,-2,82,68,20,0,-87
+236,Nov 12 2020,Friendly in Moldova,Moldova,Russia,1233,1798,0,0,9,-9,1242,1789,147,23,0,0,147,23,20,0,-565
+237,Nov 12 2020,Friendly in the United Arab Emirates,Iraq,Jordan,1622,1475,0,0,-4,4,1618,1479,59,84,-3,2,56,86,20,0,147
+238,Nov 12 2020,Friendly in England,England,Ireland,1965,1684,3,0,4,-4,1969,1680,7,43,2,0,9,43,20,100,381
+239,Nov 12 2020,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Iran,1667,1747,0,2,-16,16,1651,1763,49,26,-2,4,47,30,20,100,20
+240,Nov 12 2020,Friendly in the United Arab Emirates,Bahrain,Lebanon,1537,1404,3,1,10,-10,1547,1394,73,106,0,-1,73,105,20,0,133
+241,Nov 12 2020,African Nations Cup qualifier in Zambia,Zambia,Botswana,1460,1297,2,1,7,-7,1467,1290,90,136,0,0,90,136,40,100,263
+242,Nov 12 2020,African Nations Cup qualifier in Uganda,Uganda,South Sudan,1521,1057,1,0,1,-1,1522,1056,76,184,0,0,76,184,20,0,464
+243,Nov 12 2020,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Madagascar,1619,1425,2,1,6,-6,1625,1419,48,101,4,-2,52,99,40,100,294
+244,Nov 12 2020,African Nations Cup qualifier in Ghana,Ghana,Sudan,1633,1305,2,0,5,-5,1638,1300,50,134,0,-1,50,133,40,100,428
+245,Nov 12 2020,African Nations Cup qualifier in Gabon,Gabon,Gambia,1445,1347,2,1,10,-10,1455,1337,91,124,2,-2,93,122,40,100,198
+246,Nov 12 2020,African Nations Cup qualifier in Congo,Congo,Eswatini,1381,1123,2,0,7,-7,1388,1116,106,179,1,-1,107,178,40,100,358
+247,Nov 12 2020,African Nations Cup qualifier in Cape Verde,Cape Verde,Rwanda,1403,1257,0,0,-12,12,1391,1269,107,137,-1,4,106,141,40,100,246
+248,Nov 12 2020,African Nations Cup qualifier in Cameroon,Cameroon,Mozambique,1584,1315,4,1,7,-7,1591,1308,57,132,3,-1,60,131,40,100,369
+249,Nov 12 2020,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Malawi,1552,1337,3,1,8,-8,1560,1329,61,123,5,0,66,123,40,100,315
+250,Nov 12 2020,African Nations Cup qualifier in Algeria,Algeria,Zimbabwe,1759,1413,3,1,4,-4,1763,1409,29,102,1,0,30,102,20,0,346
+251,Nov 12 2020,European Championship qual in Serbia,Serbia,Scotland,1763,1687,1,1,-9,9,1754,1696,37,42,-4,0,33,42,40,100,176
+252,Nov 12 2020,European Championship qual in Northern Ireland,Northern Ireland,Slovakia,1617,1641,1,2,-24,24,1593,1665,61,41,-2,4,59,45,40,100,76
+253,Nov 12 2020,European Championship qual in Hungary,Hungary,Iceland,1710,1655,2,1,12,-12,1722,1643,37,51,1,-2,38,49,40,100,155
+254,Nov 12 2020,European Championship qual in Georgia,Georgia,North Macedonia,1575,1562,0,1,-26,26,1549,1588,79,55,-7,6,72,61,40,100,113
+255,Nov 12 2020,World Cup qualifier in Bolivia,Bolivia,Ecuador,1585,1763,2,3,-16,16,1569,1779,70,25,-5,2,65,27,40,100,-78
+256,Nov 12 2020,World Cup qualifier in Argentina,Argentina,Paraguay,1979,1769,1,1,-14,14,1965,1783,15,25,-4,1,11,26,40,100,310
+257,Nov 13 2020,Friendly in Austria,Japan,Panama,1747,1550,1,0,5,-5,1752,1545,35,75,0,-2,35,73,20,0,197
+258,Nov 13 2020,Friendly in Austria,Costa Rica,Qatar,1622,1648,1,1,1,-1,1623,1647,52,48,1,0,53,48,20,0,-26
+259,Nov 13 2020,Friendly in Bangladesh,Bangladesh,Nepal,828,917,2,0,15,-15,843,902,206,203,1,-3,207,200,20,100,11
+260,Nov 13 2020,African Nations Cup qualifier in Tunisia,Tunisia,Tanzania,1627,1286,1,0,3,-3,1630,1283,51,139,0,-1,51,138,40,100,441
+261,Nov 13 2020,African Nations Cup qualifier in South Africa,South Africa,São Tomé and Príncipe,1512,1092,2,0,3,-3,1515,1089,77,182,0,0,77,182,40,100,520
+262,Nov 13 2020,African Nations Cup qualifier in Nigeria,Nigeria,Sierra Leone,1700,1319,4,4,-18,18,1682,1337,43,114,-1,7,42,121,40,100,481
+263,Nov 13 2020,African Nations Cup qualifier in Niger,Niger,Ethiopia,1272,1263,1,0,14,-14,1286,1249,136,147,1,-1,137,146,40,100,109
+264,Nov 13 2020,African Nations Cup qualifier in Morocco,Morocco,Central African Republic,1669,1348,4,1,6,-6,1675,1342,44,121,0,-1,44,120,40,100,421
+265,Nov 13 2020,African Nations Cup qualifier in Mali,Mali,Namibia,1559,1338,1,0,5,-5,1564,1333,65,125,1,-2,66,123,40,100,321
+266,Nov 13 2020,World Cup qualifier in Colombia,Colombia,Uruguay,1993,1932,0,3,-50,50,1943,1982,18,-1,-6,7,12,6,40,100,161
+267,Nov 13 2020,World Cup qualifier in Chile,Chile,Peru,1805,1844,2,0,25,-25,1830,1819,17,22,2,-2,19,20,30,0,-39
+268,Nov 13 2020,World Cup qualifier in Brazil,Brazil,Venezuela,2105,1788,1,0,3,-3,2108,1785,1,26,0,-1,1,25,20,0,317
+269,Nov 14 2020,Friendly in Saudi Arabia,Saudi Arabia,Jamaica,1554,1585,3,0,14,-14,1568,1571,62,66,4,-2,66,64,20,100,69
+270,Nov 14 2020,Friendly in Austria,Mexico,South Korea,1917,1771,3,2,6,-6,1923,1765,14,28,0,0,14,28,20,0,146
+271,Nov 14 2020,African Nations Cup qualifier in Egypt,Egypt,Togo,1585,1316,1,0,4,-4,1589,1312,60,131,1,-1,61,130,20,0,269
+272,Nov 14 2020,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Angola,1496,1359,0,0,-12,12,1484,1371,89,110,-4,3,85,113,40,100,237
+273,Nov 14 2020,African Nations Cup qualifier in Benin,Benin,Lesotho,1479,1299,1,0,7,-7,1486,1292,80,136,3,-1,83,135,40,100,280
+274,Nov 14 2020,European Nations League D in San Marino,San Marino,Gibraltar,820,1111,0,0,10,-10,830,1101,209,181,0,-1,209,180,30,0,-291
+275,Nov 14 2020,European Nations League D in Malta,Malta,Andorra,1205,1080,3,1,13,-13,1218,1067,149,183,5,0,154,183,40,100,225
+276,Nov 14 2020,European Nations League D in Latvia,Latvia,Faroe Islands,1232,1255,1,1,-4,4,1228,1259,150,145,-1,0,149,145,40,100,77
+277,Nov 14 2020,European Nations League C in Cyprus,Cyprus,Luxembourg,1320,1386,2,1,18,-18,1338,1368,114,124,7,-8,121,116,30,0,-66
+278,Nov 14 2020,European Nations League C in Croatia,Azerbaijan,Montenegro,1370,1527,0,0,8,-8,1378,1519,102,77,6,-1,108,76,40,0,-157
+279,Nov 14 2020,European Nations League A in Switzerland,Switzerland,Spain,1868,2027,1,1,3,-3,1871,2024,16,3,0,1,16,4,30,100,-59
+280,Nov 14 2020,European Nations League A in Sweden,Sweden,Croatia,1809,1896,2,1,19,-19,1828,1877,19,15,1,0,20,15,30,0,-87
+281,Nov 14 2020,European Nations League A in Portugal,Portugal,France,2046,2060,0,1,-25,25,2021,2085,6,3,-1,0,5,3,40,100,86
+282,Nov 14 2020,European Nations League A in Germany,Germany,Ukraine,1969,1847,3,1,13,-13,1982,1834,3,19,3,-1,6,18,40,100,222
+283,Nov 15 2020,Friendly in Guatemala,Guatemala,Honduras,1476,1621,2,1,11,-11,1487,1610,78,59,5,-2,83,57,20,100,-45
+284,Nov 15 2020,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Senegal,1304,1753,0,1,-5,5,1299,1758,134,30,-1,2,133,32,40,100,-349
+285,Nov 15 2020,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Libya,1328,1422,1,0,20,-20,1348,1402,107,108,10,-5,117,103,40,100,6
+286,Nov 15 2020,African Nations Cup qualifier in the Comoros,Comoros,Kenya,1218,1376,2,1,23,-23,1241,1353,142,122,6,-6,148,116,40,100,-58
+287,Nov 15 2020,African Nations Cup qualifier in Chad,Chad,Guinea,1174,1447,1,1,9,-9,1183,1438,162,98,2,-2,164,96,40,100,-173
+288,Nov 15 2020,African Nations Cup qualifier in Burundi,Burundi,Mauritania,1219,1376,3,1,35,-35,1254,1341,139,132,7,-11,146,121,40,100,-57
+289,Nov 15 2020,European Nations League C in Slovenia,Slovenia,Kosovo,1613,1495,2,1,9,-9,1622,1486,53,87,2,-3,55,84,40,100,218
+290,Nov 15 2020,European Nations League C in North Macedonia,North Macedonia,Estonia,1588,1377,2,1,6,-6,1594,1371,56,111,3,-1,59,110,40,100,311
+291,Nov 15 2020,European Nations League C in Moldova,Moldova,Greece,1242,1623,0,2,-10,10,1232,1633,151,49,-2,2,149,51,40,100,-281
+292,Nov 15 2020,European Nations League C in Georgia,Georgia,Armenia,1549,1468,1,2,-30,30,1519,1498,79,71,-4,9,75,80,40,100,181
+293,Nov 15 2020,European Nations League C in Belarus,Belarus,Lithuania,1497,1356,2,0,12,-12,1509,1344,76,120,2,-1,78,119,40,100,241
+294,Nov 15 2020,European Nations League C in Albania,Albania,Kazakhstan,1532,1371,3,1,11,-11,1543,1360,72,115,1,-1,73,114,40,100,261
+295,Nov 15 2020,European Nations League B in Wales,Wales,Ireland,1805,1680,1,0,9,-9,1814,1671,22,47,0,-2,22,45,40,100,225
+296,Nov 15 2020,European Nations League B in Turkey,Turkey,Russia,1764,1789,3,2,16,-16,1780,1773,23,33,3,-5,26,28,30,0,-25
+297,Nov 15 2020,European Nations League B in Slovakia,Slovakia,Scotland,1665,1696,1,0,16,-16,1681,1680,39,45,3,-2,42,43,30,0,-31
+298,Nov 15 2020,European Nations League B in Hungary,Hungary,Serbia,1722,1754,1,1,-4,4,1718,1758,40,31,-1,1,39,32,40,100,68
+299,Nov 15 2020,European Nations League B in Czechia,Czechia,Israel,1737,1579,1,0,7,-7,1744,1572,36,63,0,0,36,63,40,100,258
+300,Nov 15 2020,European Nations League B in Bulgaria,Bulgaria,Finland,1506,1710,1,2,-14,14,1492,1724,86,36,-4,2,82,38,40,100,-104
+301,Nov 15 2020,European Nations League B in Austria,Austria,Northern Ireland,1788,1593,2,1,6,-6,1794,1587,22,65,1,-3,23,62,40,100,295
+302,Nov 15 2020,European Nations League A in the Netherlands,Netherlands,Bosnia and Herzegovina,1973,1651,3,1,5,-5,1978,1646,10,49,-1,-1,9,48,40,100,422
+303,Nov 15 2020,European Nations League A in Italy,Italy,Poland,1973,1843,2,0,13,-13,1986,1830,4,19,2,-1,6,18,40,100,230
+304,Nov 15 2020,European Nations League A in Denmark,Denmark,Iceland,1934,1643,2,1,4,-4,1938,1639,13,49,0,0,13,49,40,100,391
+305,Nov 15 2020,European Nations League A in Belgium,Belgium,England,2087,1969,2,0,13,-13,2100,1956,2,12,0,-1,2,11,40,100,218
+306,Nov 16 2020,Friendly in Austria,United States,Panama,1732,1545,6,2,10,-10,1742,1535,37,74,0,-1,37,73,20,0,187
+307,Nov 16 2020,Friendly in the United Arab Emirates,United Arab Emirates,Bahrain,1442,1547,1,3,-15,15,1427,1562,97,65,-1,3,96,68,20,100,-5
+308,Nov 16 2020,Friendly in the United Arab Emirates,Jordan,Syria,1479,1495,1,0,10,-10,1489,1485,73,91,8,-5,81,86,20,0,-16
+309,Nov 16 2020,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Algeria,1409,1763,2,2,12,-12,1421,1751,95,40,3,-5,98,35,30,0,-354
+310,Nov 16 2020,African Nations Cup qualifier in Kenya,South Sudan,Uganda,1056,1522,1,0,37,-37,1093,1485,180,98,2,-12,182,86,40,0,-466
+311,Nov 16 2020,African Nations Cup qualifier in South Africa,South Africa,São Tomé and Príncipe,1515,1089,4,2,3,-3,1518,1086,75,184,1,-1,76,183,40,100,526
+312,Nov 16 2020,African Nations Cup qualifier in Mozambique,Mozambique,Cameroon,1308,1591,0,2,-16,16,1292,1607,139,56,-4,2,135,58,40,100,-183
+313,Nov 16 2020,African Nations Cup qualifier in Malawi,Malawi,Burkina Faso,1329,1560,0,0,7,-7,1336,1553,124,74,1,-3,125,71,40,100,-131
+314,Nov 16 2020,African Nations Cup qualifier in The Gambia,Gambia,Gabon,1337,1455,2,1,21,-21,1358,1434,107,97,8,-2,115,95,40,100,-18
+315,Nov 16 2020,African Nations Cup qualifier in Eswatini,Eswatini,Congo,1116,1388,0,0,9,-9,1125,1379,176,107,1,0,177,107,40,100,-172
+316,Nov 16 2020,African Nations Cup qualifier in Botswana,Botswana,Zambia,1290,1467,1,0,24,-24,1314,1443,122,96,7,-3,129,93,40,100,-77
+317,Nov 17 2020,Friendly in Austria,South Korea,Qatar,1765,1647,2,1,7,-7,1772,1640,27,49,1,-1,28,48,20,0,118
+318,Nov 17 2020,Friendly in Saudi Arabia,Saudi Arabia,Jamaica,1568,1571,1,2,-13,13,1555,1584,72,62,-3,1,69,63,20,100,97
+319,Nov 17 2020,Friendly in Austria,Mexico,Japan,1923,1752,2,0,8,-8,1931,1744,12,36,1,-1,13,35,20,0,171
+320,Nov 17 2020,Friendly in the United Arab Emirates,Iraq,Uzbekistan,1618,1558,2,1,8,-8,1626,1550,46,73,5,-2,51,71,20,0,60
+321,Nov 17 2020,Friendly in Bangladesh,Bangladesh,Nepal,843,902,0,0,-1,1,842,903,207,198,0,1,207,199,20,100,41
+322,Nov 17 2020,African Nations Cup qualifier in Togo,Togo,Egypt,1312,1589,1,3,-16,16,1296,1605,139,57,-4,2,135,59,40,100,-177
+323,Nov 17 2020,African Nations Cup qualifier in Tanzania,Tanzania,Tunisia,1283,1630,1,1,12,-12,1295,1618,134,58,2,-3,136,55,40,100,-247
+324,Nov 17 2020,African Nations Cup qualifier in Sudan,Sudan,Ghana,1300,1638,1,0,32,-32,1332,1606,118,66,7,-8,125,58,40,100,-238
+325,Nov 17 2020,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Nigeria,1337,1682,0,0,12,-12,1349,1670,112,49,6,-4,118,45,40,100,-245
+326,Nov 17 2020,African Nations Cup qualifier in Rwanda,Rwanda,Cape Verde,1269,1391,0,0,1,-1,1270,1390,139,106,1,0,140,106,20,100,-22
+327,Nov 17 2020,African Nations Cup qualifier in Namibia,Namibia,Mali,1333,1564,1,2,-13,13,1320,1577,132,63,-3,2,129,65,40,100,-131
+328,Nov 17 2020,African Nations Cup qualifier in Madagascar,Madagascar,Ivory Coast,1419,1625,1,1,6,-6,1425,1619,95,55,2,-1,97,54,40,100,-106
+329,Nov 17 2020,African Nations Cup qualifier in Lesotho,Lesotho,Benin,1292,1486,0,0,5,-5,1297,1481,133,95,1,-6,134,89,20,0,-194
+330,Nov 17 2020,African Nations Cup qualifier in Ethiopia,Ethiopia,Niger,1249,1286,3,0,29,-29,1278,1257,129,157,9,-10,138,147,30,0,-37
+331,Nov 17 2020,African Nations Cup qualifier in Cameroon,Central African Republic,Morocco,1342,1675,0,2,-8,8,1334,1683,127,38,-3,3,124,41,40,0,-333
+332,Nov 17 2020,African Nations Cup qualifier in Angola,Angola,DR Congo,1371,1484,0,1,-19,19,1352,1503,124,68,-7,10,117,78,40,100,-13
+333,Nov 17 2020,European Nations League D in Malta,Malta,Faroe Islands,1218,1259,1,1,-3,3,1215,1262,155,145,0,0,155,145,30,100,59
+334,Nov 17 2020,European Nations League D in Gibraltar,Gibraltar,Liechtenstein,1101,1111,1,1,-5,5,1096,1116,182,179,-1,0,181,179,40,100,90
+335,Nov 17 2020,European Nations League D in Andorra,Andorra,Latvia,1067,1228,0,5,-33,33,1034,1261,188,141,-2,5,186,146,40,100,-61
+336,Nov 17 2020,European Nations League C in Montenegro,Montenegro,Cyprus,1519,1338,4,0,12,-12,1531,1326,74,133,0,-5,74,128,40,100,281
+337,Nov 17 2020,European Nations League C in Luxembourg,Luxembourg,Azerbaijan,1368,1378,0,0,-5,5,1363,1383,111,106,1,1,112,107,40,100,90
+338,Nov 17 2020,European Nations League A in Spain,Spain,Germany,2024,1982,6,0,26,-26,2050,1956,4,11,0,-2,4,9,40,100,142
+339,Nov 17 2020,European Nations League A in France,France,Sweden,2085,1828,4,2,7,-7,2092,1821,3,20,0,0,3,20,40,100,357
+340,Nov 17 2020,European Nations League A in Croatia,Croatia,Portugal,1877,2021,2,3,-17,17,1860,2038,17,5,-1,0,16,5,40,100,-44
+341,Nov 17 2020,World Cup qualifier in Venezuela,Venezuela,Chile,1785,1830,2,1,17,-17,1802,1813,22,26,1,-4,23,22,30,0,-45
+342,Nov 17 2020,World Cup qualifier in Uruguay,Uruguay,Brazil,1982,2108,0,2,-28,28,1954,2136,15,1,-4,0,11,1,40,100,-26
+343,Nov 17 2020,World Cup qualifier in Peru,Peru,Argentina,1819,1965,0,2,-26,26,1793,1991,29,2,-4,4,25,6,40,100,-46
+344,Nov 17 2020,World Cup qualifier in Paraguay,Paraguay,Bolivia,1783,1569,2,2,-14,14,1769,1583,33,63,-4,1,29,64,40,100,314
+345,Nov 17 2020,World Cup qualifier in Ecuador,Ecuador,Colombia,1779,1943,6,1,47,-47,1826,1896,11,16,8,-2,19,14,40,100,-64
+346,Nov 18 2020,European Nations League C in Kosovo,Kosovo,Moldova,1486,1232,1,0,5,-5,1491,1227,80,152,2,-1,82,151,40,100,354
+347,Nov 18 2020,European Nations League C in Kazakhstan,Kazakhstan,Lithuania,1360,1344,1,2,-26,26,1334,1370,133,101,-10,10,123,111,40,100,116
+348,Nov 18 2020,European Nations League C in Greece,Greece,Slovenia,1633,1622,0,0,-6,6,1627,1628,52,47,-1,3,51,50,40,100,111
+349,Nov 18 2020,European Nations League C in Georgia,Georgia,Estonia,1519,1371,0,0,-12,12,1507,1383,79,104,-2,3,77,107,40,100,248
+350,Nov 18 2020,European Nations League C in Cyprus,Armenia,North Macedonia,1498,1594,1,0,25,-25,1523,1569,70,71,5,-5,75,66,40,0,-96
+351,Nov 18 2020,European Nations League C in Albania,Albania,Belarus,1543,1509,3,2,13,-13,1556,1496,66,85,3,-4,69,81,40,100,134
+352,Nov 18 2020,European Nations League B in Wales,Wales,Finland,1814,1724,3,1,15,-15,1829,1709,15,42,3,-2,18,40,40,100,190
+353,Nov 18 2020,European Nations League B in Serbia,Serbia,Russia,1758,1773,5,0,30,-30,1788,1743,19,47,6,-10,25,37,40,100,85
+354,Nov 18 2020,European Nations League B in Northern Ireland,Northern Ireland,Romania,1587,1665,1,1,-1,1,1586,1666,62,40,0,3,62,43,20,100,22
+355,Nov 18 2020,European Nations League B in Israel,Israel,Scotland,1572,1680,1,0,20,-20,1592,1660,56,47,5,-2,61,45,30,0,-108
+356,Nov 18 2020,European Nations League B in Ireland,Ireland,Bulgaria,1671,1492,0,0,-13,13,1658,1505,48,75,-2,3,46,78,40,100,279
+357,Nov 18 2020,European Nations League B in Hungary,Hungary,Turkey,1718,1780,2,0,27,-27,1745,1753,31,40,4,-7,35,33,40,100,38
+358,Nov 18 2020,European Nations League B in Czechia,Czechia,Slovakia,1744,1681,2,0,17,-17,1761,1664,27,46,4,-2,31,44,40,100,163
+359,Nov 18 2020,European Nations League B in Austria,Austria,Norway,1794,1755,1,1,-8,8,1786,1763,28,25,-2,4,26,29,40,100,139
+360,Nov 18 2020,European Nations League A in Poland,Poland,Netherlands,1830,1978,1,2,-17,17,1813,1995,24,6,-3,1,21,7,40,100,-48
+361,Nov 18 2020,European Nations League A in England,England,Iceland,1956,1639,4,0,6,-6,1962,1633,9,49,0,0,9,49,40,100,417
+362,Nov 18 2020,European Nations League A in Bosnia and Herzegovina,Bosnia and Herzegovina,Italy,1646,1986,0,2,-12,12,1634,1998,49,5,-1,1,48,6,40,100,-240
+363,Nov 18 2020,European Nations League A in Belgium,Belgium,Denmark,2100,1938,4,2,11,-11,2111,1927,2,14,0,-1,2,13,40,100,262
+364,Dec 4 2020,World Cup & Asian Cup qual in Qatar,Qatar,Bangladesh,1640,842,5,0,0,0,1640,842,47,207,0,0,47,207,20,0,798
+365,Dec 9 2020,Friendly in the United States,United States,El Salvador,1742,1484,6,0,5,-5,1747,1479,32,90,3,-1,35,89,20,100,358

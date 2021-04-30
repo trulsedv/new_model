@@ -1,0 +1,468 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 6 1991,Friendly in Burkina Faso,Burkina Faso,Mali,1424,1458,2,0,12,-12,1436,1446,83,82,0,-3,83,79,20,100,66
+1,Jan 9 1991,Friendly in Burkina Faso,Burkina Faso,Niger,1436,1334,2,2,-5,5,1431,1339,83,107,0,2,83,109,20,100,202
+2,Jan 13 1991,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Nigeria,1431,1658,1,1,7,-7,1438,1651,81,44,1,-3,82,41,40,100,-127
+3,Jan 13 1991,African Nations Cup qualifier in Ghana,Ghana,Benin,1527,1219,4,0,7,-7,1534,1212,62,139,1,-1,63,138,40,100,408
+4,Jan 13 1991,African Nations Cup qualifier in Morocco,Morocco,Ivory Coast,1609,1646,3,1,25,-25,1634,1621,35,47,8,-2,43,45,30,0,-37
+5,Jan 16 1991,Friendly in Spain,Spain,Portugal,1936,1806,1,1,-6,6,1930,1812,7,20,0,0,7,20,20,100,230
+6,Jan 17 1991,Nehru Gold Cup in India,India,Hungary,1135,1757,1,2,-2,2,1133,1759,154,28,-1,0,153,28,40,100,-522
+7,Jan 23 1991,European Championship qual in Greece,Greece,Portugal,1695,1812,3,2,21,-21,1716,1791,33,22,0,-1,33,21,40,100,-17
+8,Jan 27 1991,African Nations Cup qualifier in Benin,Benin,Burkina Faso,1212,1438,1,2,-13,13,1199,1451,142,74,-2,4,140,78,40,100,-126
+9,Jan 27 1991,African Nations Cup qualifier in Niger,Niger,Morocco,1339,1634,1,0,30,-30,1369,1604,91,59,9,-8,100,51,40,100,-195
+10,Jan 27 1991,African Nations Cup qualifier in Togo,Togo,Nigeria,1343,1651,0,0,11,-11,1354,1640,105,43,0,-1,105,42,30,0,-308
+11,Jan 29 1991,Friendly in Mexico,Mexico,Colombia,1889,1763,0,0,-6,6,1883,1769,17,26,-4,0,13,26,20,100,226
+12,Jan 30 1991,Friendly in Australia,Australia,Czechoslovakia,1670,1885,0,1,-7,7,1663,1892,38,6,-1,3,37,9,20,100,-115
+13,Feb 1 1991,Friendly tournament in the United States,United States,Switzerland,1584,1717,0,1,-14,14,1570,1731,56,30,-1,1,55,31,30,100,-33
+14,Feb 3 1991,Friendly tournament in the United States,Switzerland,Colombia,1731,1769,3,2,17,-17,1748,1752,27,30,2,-2,29,28,30,0,-38
+15,Feb 5 1991,Friendly in Northern Ireland,Northern Ireland,Poland,1652,1794,3,1,17,-17,1669,1777,32,28,4,-4,36,24,20,100,-42
+16,Feb 6 1991,Friendly in Australia,Australia,Czechoslovakia,1663,1892,0,2,-10,10,1653,1902,40,11,-1,-1,39,10,20,100,-129
+17,Feb 6 1991,Friendly in England,England,Cameroon,1989,1655,2,0,2,-2,1991,1653,3,39,0,0,3,39,20,100,434
+18,Feb 6 1991,Friendly in Guinea-Bissau,Guinea-Bissau,Gambia,1337,1220,2,1,4,-4,1341,1216,105,138,3,-1,108,137,20,100,217
+19,Feb 6 1991,Merdeka Tournament in Malaysia,Malaysia,Indonesia,1283,1229,1,2,-21,21,1262,1250,124,125,-3,3,121,128,30,100,154
+20,Feb 6 1991,Friendly in Scotland,Scotland,Soviet Union,1775,1887,0,1,-10,10,1765,1897,25,12,0,-1,25,11,20,100,-12
+21,Feb 6 1991,Friendly in Wales,Wales,Ireland,1761,1887,0,3,-16,16,1745,1903,32,8,-3,1,29,9,20,100,-26
+22,Feb 7 1991,Friendly in Guinea-Bissau,Guinea-Bissau,Mauritania,1341,1068,2,0,3,-3,1344,1065,106,164,1,0,107,164,20,100,373
+23,Feb 9 1991,European Championship qual in Malta,Malta,Portugal,1368,1791,0,1,-5,5,1363,1796,101,20,0,0,101,20,40,100,-323
+24,Feb 13 1991,Friendly in Italy,Italy,Belgium,2017,1816,0,0,-7,7,2010,1823,2,18,0,0,2,18,20,100,301
+25,Feb 15 1991,Friendly tournament in Senegal,Algeria,Cameroon,1785,1653,0,0,-5,5,1780,1658,24,37,-1,1,23,38,30,0,132
+26,Feb 15 1991,Friendly tournament in Senegal,Senegal,Ivory Coast,1577,1621,0,0,-2,2,1575,1623,54,44,0,0,54,44,20,100,56
+27,Feb 17 1991,Friendly tournament in Senegal,Cameroon,Ivory Coast,1658,1623,1,1,-2,2,1656,1625,38,44,0,0,38,44,30,0,35
+28,Feb 17 1991,Friendly in The Gambia,Gambia,Mauritania,1216,1065,0,0,-6,6,1210,1071,137,164,0,0,137,164,20,100,251
+29,Feb 17 1991,Friendly tournament in Senegal,Senegal,Algeria,1575,1780,2,2,4,-4,1579,1776,54,25,0,-1,54,24,30,100,-105
+30,Feb 19 1991,Friendly in Argentina,Argentina,Hungary,1873,1759,2,0,7,-7,1880,1752,14,26,0,0,14,26,20,100,214
+31,Feb 20 1991,European Championship qual in France,France,Spain,1928,1930,3,1,22,-22,1950,1908,4,9,2,-1,6,8,40,100,98
+32,Feb 20 1991,European Championship qual in Portugal,Portugal,Malta,1796,1363,5,0,4,-4,1800,1359,20,101,0,0,20,101,40,100,533
+33,Feb 21 1991,Friendly in Bermuda,Bermuda,United States,1370,1570,1,0,13,-13,1383,1557,92,61,3,-3,95,58,20,100,-100
+34,Feb 27 1991,European Championship qual in Belgium,Belgium,Luxembourg,1823,1169,3,0,1,-1,1824,1168,16,144,1,0,17,144,20,0,654
+35,Feb 27 1991,Friendly in Brazil,Brazil,Paraguay,1957,1741,1,1,-7,7,1950,1748,5,25,0,3,5,28,20,100,316
+36,Feb 27 1991,Friendly in Cyprus,Cyprus,Greece,1256,1716,1,1,8,-8,1264,1708,117,33,4,0,121,33,20,100,-360
+37,Feb 27 1991,Friendly in Turkey,Turkey,Yugoslavia,1613,1980,1,1,6,-6,1619,1974,46,4,2,0,48,4,20,100,-267
+38,Mar 2 1991,Friendly in Suriname,Suriname,French Guiana,1371,1252,3,0,8,-8,1379,1244,98,129,0,-1,98,128,20,100,219
+39,Mar 5 1991,Friendly in Algeria,Algeria,Tunisia,1776,1506,2,1,2,-2,1778,1504,22,68,1,0,23,68,20,100,370
+40,Mar 9 1991,Friendly in Uganda,Uganda,Sudan,1532,1445,0,1,-15,15,1517,1460,66,71,-1,5,65,76,20,100,187
+41,Mar 12 1991,Friendly in Liechtenstein,Liechtenstein,Switzerland,1134,1748,0,6,-2,2,1132,1750,154,28,-1,0,153,28,20,100,-514
+42,Mar 12 1991,North American Champ in the United States,United States,Mexico,1557,1883,2,2,14,-14,1571,1869,52,15,3,-1,55,14,50,100,-226
+43,Mar 13 1991,Friendly in Argentina,Argentina,Mexico,1880,1869,0,0,-3,3,1877,1872,13,14,0,0,13,14,20,100,111
+44,Mar 13 1991,European Championship qual in the Netherlands,Netherlands,Malta,1948,1359,1,0,1,-1,1949,1358,7,105,0,-2,7,103,20,0,589
+45,Mar 13 1991,Friendly in Poland,Poland,Finland,1777,1621,1,1,-6,6,1771,1627,24,43,0,1,24,44,20,100,256
+46,Mar 14 1991,North American Champ in the United States,Mexico,Canada,1872,1615,3,0,16,-16,1888,1599,10,53,2,-2,12,51,50,0,257
+47,Mar 16 1991,North American Champ in the United States,United States,Canada,1571,1599,2,0,30,-30,1601,1569,47,59,4,-4,51,55,50,100,72
+48,Mar 27 1991,Friendly in Argentina,Argentina,Brazil,1877,1950,3,3,-1,1,1876,1951,14,5,0,0,14,5,20,100,27
+49,Mar 27 1991,European Championship qual in Belgium,Belgium,Wales,1824,1745,1,1,-9,9,1815,1754,19,24,-1,3,18,27,40,100,179
+50,Mar 27 1991,Friendly in Czechoslovakia,Czechoslovakia,Poland,1902,1771,4,0,8,-8,1910,1763,8,26,1,-1,9,25,20,100,231
+51,Mar 27 1991,European Championship qual in England,England,Ireland,1991,1903,1,1,-10,10,1981,1913,3,7,0,1,3,8,40,100,188
+52,Mar 27 1991,Friendly in Germany,Germany,Soviet Union,2080,1897,2,1,3,-3,2083,1894,1,9,0,1,1,10,20,100,283
+53,Mar 27 1991,Friendly in Morocco,Morocco,Greece,1604,1708,0,0,0,0,1604,1708,50,33,0,0,50,33,20,100,-4
+54,Mar 27 1991,European Championship qual in San Marino,San Marino,Romania,1006,1814,1,3,-1,1,1005,1815,170,17,0,1,170,18,20,100,-708
+55,Mar 27 1991,European Championship qual in Scotland,Scotland,Bulgaria,1765,1745,1,1,-7,7,1758,1752,27,26,-1,2,26,28,40,100,120
+56,Mar 27 1991,Friendly in Spain,Spain,Hungary,1908,1752,2,4,-24,24,1884,1776,18,22,-5,2,13,24,20,100,256
+57,Mar 27 1991,Friendly in Tunisia,Tunisia,Turkey,1504,1619,0,0,0,0,1504,1619,68,48,0,0,68,48,20,100,-15
+58,Mar 27 1991,European Championship qual in Yugoslavia,Yugoslavia,Northern Ireland,1974,1669,4,1,6,-6,1980,1663,4,38,0,-1,4,37,40,100,405
+59,Mar 30 1991,European Championship qual in France,France,Albania,1950,1395,5,0,2,-2,1952,1393,4,94,1,0,5,94,20,0,555
+60,Apr 3 1991,Friendly in Algeria,Algeria,Morocco,1778,1604,2,2,-7,7,1771,1611,25,50,-1,0,24,50,20,100,274
+61,Apr 3 1991,European Championship qual in Cyprus,Cyprus,Hungary,1264,1776,0,2,-5,5,1259,1781,123,20,-1,2,122,22,40,100,-412
+62,Apr 3 1991,European Championship qual in Switzerland,Switzerland,Romania,1750,1815,0,0,-2,2,1748,1817,30,18,0,0,30,18,30,100,35
+63,Apr 7 1991,Friendly in Mali,Mali,Burkina Faso,1446,1451,5,1,14,-14,1460,1437,71,85,5,-3,76,82,20,100,95
+64,Apr 7 1991,Friendly in Sudan,Sudan,Uganda,1460,1517,1,1,-1,1,1459,1518,78,65,-1,0,77,65,20,100,43
+65,Apr 7 1991,Friendly in Tunisia,Tunisia,Algeria,1504,1771,0,0,4,-4,1508,1767,68,24,0,0,68,24,20,100,-167
+66,Apr 9 1991,Friendly in Denmark,Denmark,Bulgaria,1865,1752,1,1,-5,5,1860,1757,15,26,0,1,15,27,20,100,213
+67,Apr 9 1991,Friendly in Mexico,Mexico,Chile,1888,1791,1,0,5,-5,1893,1786,11,21,0,0,11,21,20,100,197
+68,Apr 12 1991,African Nations Cup qualifier in Mauritania,Mauritania,Morocco,1071,1611,0,2,-4,4,1067,1615,164,48,0,1,164,49,40,100,-440
+69,Apr 13 1991,African Nations Cup qualifier in Nigeria,Nigeria,Ghana,1640,1534,0,0,-11,11,1629,1545,44,57,-1,3,43,60,40,100,206
+70,Apr 14 1991,African Nations Cup qualifier in Angola,Angola,Zambia,1440,1592,1,2,-17,17,1423,1609,87,49,-3,2,84,51,40,100,-52
+71,Apr 14 1991,African Nations Cup qualifier in Guinea,Guinea,Cameroon,1403,1656,0,0,8,-8,1411,1648,88,42,1,-2,89,40,40,100,-153
+72,Apr 14 1991,African Nations Cup qualifier in Mali,Mali,Sierra Leone,1460,1404,0,0,-8,8,1452,1412,80,87,-2,1,78,88,40,100,156
+73,Apr 14 1991,African Nations Cup qualifier in Sudan,Sudan,Kenya,1459,1383,1,0,11,-11,1470,1372,75,101,1,-3,76,98,40,100,176
+74,Apr 14 1991,African Nations Cup qualifier in Swaziland,Swaziland,Madagascar,1168,1477,0,1,-9,9,1159,1486,146,72,-1,1,145,73,40,100,-209
+75,Apr 14 1991,African Nations Cup qualifier in Tunisia,Tunisia,Egypt,1508,1654,2,2,3,-3,1511,1651,68,39,0,0,68,39,40,100,-46
+76,Apr 14 1991,African Nations Cup qualifier in Uganda,Uganda,Tanzania,1518,1308,3,2,6,-6,1524,1302,63,115,1,-1,64,114,40,100,310
+77,Apr 14 1991,African Nations Cup qualifier in Zaire,Zaire,Gabon,1538,1400,2,1,8,-8,1546,1392,58,95,2,-2,60,93,40,100,238
+78,Apr 14 1991,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Malawi,1409,1400,4,0,26,-26,1435,1374,79,103,4,-6,83,97,40,100,109
+79,Apr 17 1991,Friendly in Austria,Austria,Norway,1675,1683,0,0,-3,3,1672,1686,35,34,0,0,35,34,20,100,92
+80,Apr 17 1991,Friendly in Brazil,Brazil,Romania,1951,1817,1,0,4,-4,1955,1813,4,16,1,1,5,17,20,100,234
+81,Apr 17 1991,Friendly in Congo,Congo,Benin,1499,1199,1,2,-18,18,1481,1217,77,134,-4,3,73,137,20,100,400
+82,Apr 17 1991,Friendly in Costa Rica,Costa Rica,Mexico,1665,1893,0,0,4,-4,1669,1889,36,11,0,0,36,11,20,100,-128
+83,Apr 17 1991,Friendly in Greece,Greece,Sweden,1708,1824,2,2,0,0,1708,1824,33,19,0,-1,33,18,20,100,-16
+84,Apr 17 1991,European Championship qual in Hungary,Hungary,Soviet Union,1781,1894,0,1,-19,19,1762,1913,28,6,-3,2,25,8,40,100,-13
+85,Apr 17 1991,European Championship qual in the Netherlands,Netherlands,Finland,1949,1627,2,0,5,-5,1954,1622,5,46,1,-1,6,45,40,100,422
+86,Apr 17 1991,European Championship qual in Poland,Poland,Turkey,1763,1619,3,0,14,-14,1777,1605,21,54,2,-3,23,51,40,100,244
+87,Apr 17 1991,Friendly in Spain,Spain,Romania,1884,1813,0,2,-22,22,1862,1835,15,16,-1,1,14,17,20,100,171
+88,Apr 18 1991,N Am Ch & UNCAF Cup q in Nicaragua,Nicaragua,El Salvador,984,1417,2,3,-5,5,979,1422,173,84,0,1,173,85,40,100,-333
+89,Apr 21 1991,African Nations Cup qualifier in Togo,Togo,Burkina Faso,1354,1437,1,0,19,-19,1373,1418,91,91,7,-5,98,86,30,0,-83
+90,Apr 25 1991,N Am Ch & UNCAF Cup q in El Salvador,El Salvador,Nicaragua,1422,979,2,0,3,-3,1425,976,82,173,1,0,83,173,30,0,443
+91,Apr 27 1991,African Nations Cup qualifier in Nigeria,Nigeria,Benin,1629,1217,3,0,3,-3,1632,1214,41,137,1,0,42,137,20,0,412
+92,Apr 27 1991,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Guinea,1412,1411,0,1,-26,26,1386,1437,98,73,-5,8,93,81,40,100,101
+93,Apr 27 1991,African Nations Cup qualifier in Tanzania,Tanzania,Zaire,1302,1546,1,0,28,-28,1330,1518,110,70,2,-5,112,65,40,100,-144
+94,Apr 28 1991,African Nations Cup qualifier in Chad,Chad,Tunisia,1299,1511,0,0,6,-6,1305,1505,112,68,2,0,114,68,40,100,-112
+95,Apr 28 1991,African Nations Cup qualifier in Congo,Congo,Malawi,1481,1374,2,1,9,-9,1490,1365,71,107,1,-5,72,102,40,100,207
+96,Apr 28 1991,African Nations Cup qualifier in Mali,Mali,Cameroon,1452,1648,0,2,-22,22,1430,1670,88,32,-5,4,83,36,40,100,-96
+97,Apr 28 1991,African Nations Cup qualifier in Mozambique,Mozambique,Sudan,1347,1470,1,0,21,-21,1368,1449,96,82,5,-3,101,79,40,100,-23
+98,Apr 28 1991,African Nations Cup qualifier in Swaziland,Swaziland,Zambia,1159,1609,2,1,35,-35,1194,1574,137,58,4,-4,141,54,40,100,-350
+99,Apr 28 1991,African Nations Cup qualifier in Uganda,Uganda,Gabon,1524,1392,0,0,-12,12,1512,1404,71,88,-4,2,67,90,40,100,232
+100,Apr 29 1991,African Nations Cup qualifier in Ghana,Ghana,Togo,1545,1373,2,0,10,-10,1555,1363,58,107,1,-5,59,102,40,100,272
+101,Apr 30 1991,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Niger,1625,1369,1,0,5,-5,1630,1364,44,103,0,-2,44,101,40,100,356
+102,May 1 1991,European Championship qual in Albania,Albania,Czechoslovakia,1393,1910,0,2,-5,5,1388,1915,92,6,0,2,92,8,40,100,-417
+103,May 1 1991,European Championship qual in Bulgaria,Bulgaria,Switzerland,1757,1748,2,3,-26,26,1731,1774,35,18,-4,6,31,24,40,100,109
+104,May 1 1991,European Championship qual in Germany,Germany,Belgium,2083,1815,1,0,4,-4,2087,1811,1,19,0,0,1,19,20,0,268
+105,May 1 1991,European Championship qual in Ireland,Ireland,Poland,1913,1777,0,0,-12,12,1901,1789,12,19,-2,2,10,21,40,100,236
+106,May 1 1991,European Championship qual in Italy,Italy,Hungary,2010,1762,3,1,7,-7,2017,1755,2,31,0,-3,2,28,40,100,348
+107,May 1 1991,European Championship qual in Norway,Norway,Cyprus,1686,1259,3,0,3,-3,1689,1256,34,128,0,-3,34,125,20,0,427
+108,May 1 1991,European Championship qual in Northern Ireland,Northern Ireland,Faroe Islands,1663,1258,1,1,-18,18,1645,1276,44,114,-3,5,41,119,40,100,505
+109,May 1 1991,European Championship qual in San Marino,San Marino,Scotland,1005,1758,0,2,-1,1,1004,1759,170,26,0,0,170,26,20,100,-653
+110,May 1 1991,Friendly in Sweden,Sweden,Austria,1824,1672,6,0,8,-8,1832,1664,18,39,0,-2,18,37,20,100,252
+111,May 1 1991,European Championship qual in Turkey,Turkey,England,1605,1981,0,1,-7,7,1598,1988,52,3,-1,0,51,3,40,100,-276
+112,May 1 1991,Friendly in Wales,Wales,Iceland,1754,1553,1,0,3,-3,1757,1550,26,60,1,0,27,60,20,100,301
+113,May 1 1991,European Championship qual in Yugoslavia,Yugoslavia,Denmark,1980,1860,1,2,-31,31,1949,1891,10,7,-3,4,7,11,40,100,220
+114,May 4 1991,African Nations Cup qualifier in Madagascar,Madagascar,Angola,1486,1423,0,0,-9,9,1477,1432,75,81,-1,2,74,83,40,100,163
+115,May 5 1991,Friendly in Jamaica,Jamaica,Haiti,1298,1343,2,1,8,-8,1306,1335,111,114,3,-3,114,111,20,100,55
+116,May 5 1991,CEDEAO Cup qualifier in Senegal,Senegal,Ivory Coast,1579,1630,0,0,-3,3,1576,1633,53,40,0,2,53,42,40,100,49
+117,May 5 1991,Friendly in the United States,United States,Uruguay,1601,1845,1,0,14,-14,1615,1831,46,20,2,-2,48,18,20,100,-144
+118,May 6 1991,Friendly in Jamaica,Jamaica,Haiti,1306,1335,2,0,12,-12,1318,1323,112,113,1,-1,113,112,20,100,71
+119,May 6 1991,Friendly tournament in the Philippines,Philippines,Brunei,797,912,2,1,16,-16,813,896,188,181,0,-1,188,180,30,100,-15
+120,May 7 1991,Friendly in Malta,Malta,Iceland,1358,1550,1,4,-13,13,1345,1563,107,58,-1,1,106,59,20,100,-92
+121,May 7 1991,Friendly tournament in the United States,Uruguay,Mexico,1831,1889,2,0,26,-26,1857,1863,14,16,2,-2,16,14,30,0,-58
+122,May 8 1991,CONCACAF Ch & Car Cup q in Guyana,Suriname,Aruba,1379,1090,1,0,6,-6,1385,1084,92,165,2,-2,94,163,40,0,289
+123,May 10 1991,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Cayman Islands,British Virgin Islands,1039,918,2,1,13,-13,1052,905,166,178,1,0,167,178,40,0,121
+124,May 10 1991,CONCACAF Ch & Car Cup q in Guyana,Guyana,Aruba,1232,1084,4,1,14,-14,1246,1070,126,163,2,0,128,163,40,100,248
+125,May 10 1991,CONCACAF Ch & Car Cup q in Puerto Rico,Puerto Rico,Haiti,952,1323,2,3,-7,7,945,1330,176,110,0,1,176,111,40,100,-271
+126,May 12 1991,CONCACAF Ch & Car Cup q in Puerto Rico,Dominican Republic,Haiti,961,1330,1,1,16,-16,977,1314,172,117,1,-3,173,114,40,0,-369
+127,May 12 1991,CONCACAF Ch & Car Cup q in Guyana,Guyana,Suriname,1246,1385,1,1,2,-2,1248,1383,128,94,0,0,128,94,30,100,-39
+128,May 12 1991,Trans-Tasman Cup in New Zealand,New Zealand,Australia,1535,1653,0,1,-14,14,1521,1667,62,36,0,1,62,37,30,100,-18
+129,May 12 1991,N Am Ch & UNCAF Cup q in Panama,Panama,Honduras,1255,1569,2,0,46,-46,1301,1523,110,67,8,-6,118,61,40,100,-214
+130,May 12 1991,Friendly in the Philippines,Philippines,Brunei,813,896,0,0,0,0,813,896,188,180,0,0,188,180,20,100,17
+131,May 12 1991,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Cayman Islands,1225,1052,1,1,-13,13,1212,1065,141,163,-4,2,137,165,40,100,273
+132,May 12 1991,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Montserrat,1242,594,3,0,1,-1,1243,593,130,199,0,0,130,199,20,0,648
+133,May 14 1991,CONCACAF Ch & Car Cup q in Saint Lucia,Anguilla,Montserrat,573,593,1,1,1,-1,574,592,200,199,0,0,200,199,20,0,-20
+134,May 14 1991,Friendly in Costa Rica,Costa Rica,Uruguay,1669,1857,0,1,-8,8,1661,1865,40,12,-2,2,38,14,20,100,-88
+135,May 14 1991,CONCACAF Ch & Car Cup q in Puerto Rico,Puerto Rico,Dominican Republic,945,977,1,3,-36,36,909,1013,180,167,-2,3,178,170,40,100,68
+136,May 14 1991,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,British Virgin Islands,1212,905,0,0,-16,16,1196,921,143,176,-3,1,140,177,40,100,407
+137,May 15 1991,Trans-Tasman Cup in Australia,Australia,New Zealand,1667,1521,2,1,6,-6,1673,1515,34,66,1,-2,35,64,20,0,146
+138,May 15 1991,CONCACAF Ch & Car Cup q in Martinique,Martinique,French Guiana,1452,1244,1,2,-34,34,1418,1278,95,111,-9,9,86,120,40,100,308
+139,May 16 1991,European Championship qual in Finland,Finland,Malta,1622,1345,2,0,6,-6,1628,1339,45,112,0,-3,45,109,40,100,377
+140,May 16 1991,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Anguilla,1243,574,6,0,1,-1,1244,573,130,200,0,0,130,200,20,0,669
+141,May 16 1991,European Championship qual in Yugoslavia,Yugoslavia,Faroe Islands,1949,1276,7,0,1,-1,1950,1275,7,121,0,0,7,121,20,0,673
+142,May 17 1991,CONCACAF Ch & Car Cup q in Martinique,Guadeloupe,French Guiana,1359,1278,1,0,15,-15,1374,1263,91,126,6,-3,97,123,40,0,81
+143,May 18 1991,N Am Ch & UNCAF Cup q in Honduras,Honduras,Panama,1523,1301,3,0,9,-9,1532,1292,61,118,0,0,61,118,40,100,322
+144,May 19 1991,CONCACAF Ch & Car Cup q in Martinique,Martinique,Guadeloupe,1418,1374,3,1,18,-18,1436,1356,76,111,5,-7,81,104,40,100,144
+145,May 19 1991,Friendly in the United States,United States,Argentina,1615,1876,0,1,-6,6,1609,1882,52,13,-2,0,50,13,20,100,-161
+146,May 21 1991,Friendly tournament in England,England,Soviet Union,1988,1913,3,1,12,-12,2000,1901,3,9,0,0,3,9,20,0,75
+147,May 21 1991,Friendly in Guyana,Guyana,Haiti,1248,1314,1,1,-1,1,1247,1315,129,114,0,0,129,114,20,100,34
+148,May 22 1991,European Championship qual in Austria,Austria,Faroe Islands,1664,1275,3,0,4,-4,1668,1271,37,120,0,0,37,120,40,100,489
+149,May 22 1991,Friendly in Ireland,Ireland,Chile,1901,1786,1,1,-6,6,1895,1792,11,20,-1,1,10,21,20,100,215
+150,May 22 1991,European Championship qual in San Marino,San Marino,Bulgaria,1004,1731,0,3,-2,2,1002,1733,171,31,0,0,171,31,40,100,-627
+151,May 23 1991,Friendly tournament in England,Argentina,Soviet Union,1882,1901,1,1,1,-1,1883,1900,13,9,0,0,13,9,20,0,-19
+152,May 23 1991,CONCACAF Ch q & Car Cup in Jamaica,Martinique,Saint Lucia,1436,1244,0,0,-10,10,1426,1254,87,126,-3,2,84,128,30,100,292
+153,May 23 1991,Friendly in Norway,Norway,Romania,1689,1835,1,0,11,-11,1700,1824,34,19,0,-1,34,18,20,100,-46
+154,May 23 1991,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,Dominican Republic,1515,1013,7,0,5,-5,1520,1008,62,170,1,0,63,170,40,0,502
+155,May 24 1991,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Guyana,1318,1247,6,0,23,-23,1341,1224,102,134,5,-2,107,132,40,100,171
+156,May 25 1991,CONCACAF Ch q & Car Cup in Jamaica,Dominican Republic,Saint Lucia,1008,1254,0,0,12,-12,1020,1242,170,130,0,-1,170,129,40,0,-246
+157,May 25 1991,Friendly tournament in England,England,Argentina,2000,1883,2,2,-8,8,1992,1891,3,9,0,2,3,11,30,100,217
+158,May 25 1991,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,Martinique,1520,1426,1,0,15,-15,1535,1411,59,92,2,-4,61,88,40,0,94
+159,May 26 1991,European Championship qual in Albania,Albania,Iceland,1388,1563,1,0,24,-24,1412,1539,84,62,4,-2,88,60,40,100,-75
+160,May 26 1991,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Honduras,1661,1532,2,0,13,-13,1674,1519,32,64,3,-1,35,63,40,100,229
+161,May 26 1991,N Am Ch q & UNCAF Cup in Costa Rica,El Salvador,Guatemala,1425,1457,0,0,2,-2,1427,1455,84,76,0,0,84,76,40,0,-32
+162,May 26 1991,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Cayman Islands,1341,1065,3,2,4,-4,1345,1061,105,167,1,-1,106,166,40,100,376
+163,May 27 1991,CONCACAF Ch q & Car Cup in Jamaica,Martinique,Dominican Republic,1411,1020,4,1,7,-7,1418,1013,83,170,3,0,86,170,40,0,391
+164,May 27 1991,CONCACAF Ch q & Car Cup in Jamaica,Saint Lucia,Trinidad and Tobago,1242,1535,2,1,34,-34,1276,1501,111,75,9,-7,120,68,40,0,-293
+165,May 28 1991,Friendly in Brazil,Brazil,Bulgaria,1955,1733,3,0,5,-5,1960,1728,4,31,0,0,4,31,20,100,322
+166,May 28 1991,CONCACAF Ch q & Car Cup in Jamaica,Guyana,Cayman Islands,1224,1061,2,1,11,-11,1235,1050,128,168,2,-1,130,167,40,0,163
+167,May 29 1991,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,El Salvador,1674,1427,7,1,10,-10,1684,1417,35,90,0,-3,35,87,40,100,347
+168,May 29 1991,N Am Ch q & UNCAF Cup in Costa Rica,Guatemala,Honduras,1455,1519,0,0,4,-4,1459,1515,76,64,0,-1,76,63,40,0,-64
+169,May 29 1991,Friendly in Poland,Poland,Wales,1789,1757,0,0,-4,4,1785,1761,22,25,0,1,22,26,20,100,132
+170,May 29 1991,European Championship qual in the Soviet Union,Soviet Union,Cyprus,1900,1256,4,0,1,-1,1901,1255,9,128,0,0,9,128,20,0,644
+171,May 30 1991,Friendly in Chile,Chile,Uruguay,1792,1865,2,1,9,-9,1801,1856,19,18,1,-2,20,16,20,100,27
+172,May 30 1991,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Saint Lucia,1345,1276,2,0,16,-16,1361,1260,100,130,3,-5,103,125,40,100,169
+173,May 30 1991,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,Guyana,1501,1235,3,1,11,-11,1512,1224,64,134,2,-2,66,132,40,0,266
+174,Jun 1 1991,Friendly in Australia,Australia,England,1673,1992,0,1,-4,4,1669,1996,38,3,-1,0,37,3,20,100,-219
+175,Jun 1 1991,Friendly in the United States,United States,Ireland,1609,1895,1,1,5,-5,1614,1890,48,14,1,-2,49,12,20,100,-186
+176,Jun 2 1991,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Guatemala,1684,1459,1,0,5,-5,1689,1454,35,76,0,0,35,76,40,100,325
+177,Jun 2 1991,N Am Ch q & UNCAF Cup in Costa Rica,Honduras,El Salvador,1515,1417,2,1,15,-15,1530,1402,59,95,2,-4,61,91,40,0,98
+178,Jun 2 1991,Caribbean Cup in Jamaica,Jamaica,Trinidad and Tobago,1361,1512,2,0,34,-34,1395,1478,83,78,10,-6,93,72,40,100,-51
+179,Jun 2 1991,Friendly tournament in Japan,Japan,Thailand,1370,1317,1,0,9,-9,1379,1308,98,115,0,-1,98,114,30,100,153
+180,Jun 2 1991,Caribbean Cup in Jamaica,Saint Lucia,Guyana,1260,1224,4,1,31,-31,1291,1193,113,150,6,-9,119,141,40,0,36
+181,Jun 3 1991,Friendly in New Zealand,New Zealand,England,1515,1996,0,1,-2,2,1513,1998,66,3,-1,0,65,3,20,100,-381
+182,Jun 5 1991,European Championship qual in Denmark,Denmark,Austria,1891,1668,2,1,5,-5,1896,1663,10,38,0,0,10,38,40,100,323
+183,Jun 5 1991,European Championship qual in Finland,Finland,Netherlands,1628,1954,1,1,11,-11,1639,1943,39,9,3,-2,42,7,30,0,-326
+184,Jun 5 1991,European Championship qual in Iceland,Iceland,Czechoslovakia,1539,1915,0,1,-7,7,1532,1922,60,8,0,0,60,8,40,100,-276
+185,Jun 5 1991,European Championship qual in Norway,Norway,Italy,1700,2017,2,1,31,-31,1731,1986,28,4,3,-1,31,3,40,100,-217
+186,Jun 5 1991,Friendly in Sweden,Sweden,Colombia,1832,1752,2,2,-5,5,1827,1757,17,27,0,1,17,28,20,100,180
+187,Jun 5 1991,European Championship qual in Switzerland,Switzerland,San Marino,1774,1002,7,0,1,-1,1775,1001,26,171,-1,0,25,171,20,0,772
+188,Jun 5 1991,European Championship qual in Wales,Wales,Germany,1761,2087,1,0,31,-31,1792,2056,18,1,4,0,22,1,40,100,-226
+189,Jun 6 1991,Friendly in Peru,Peru,Ecuador,1521,1632,0,1,-10,10,1511,1642,70,40,-4,2,66,42,20,100,-11
+190,Jun 7 1991,Presidents Cup in South Korea,Malta,Indonesia,1339,1250,3,0,26,-26,1365,1224,92,133,9,-2,101,131,40,0,89
+191,Jun 7 1991,Presidents Cup in South Korea,South Korea,Egypt,1721,1651,0,0,-9,9,1712,1660,33,39,0,0,33,39,40,100,170
+192,Jun 8 1991,Friendly in New Zealand,New Zealand,England,1513,1998,0,2,-3,3,1510,2001,68,2,-2,0,66,2,20,100,-385
+193,Jun 9 1991,Presidents Cup in South Korea,Egypt,Malta,1660,1365,5,2,11,-11,1671,1354,33,113,3,-6,36,107,40,0,295
+194,Jun 9 1991,CEDEAO Cup qualifier in Ivory Coast,Ivory Coast,Senegal,1633,1576,2,0,17,-17,1650,1559,36,61,4,-4,40,57,40,100,157
+195,Jun 9 1991,Presidents Cup in South Korea,South Korea,Indonesia,1712,1224,3,0,2,-2,1714,1222,33,131,0,0,33,131,20,0,488
+196,Jun 11 1991,Presidents Cup in South Korea,Egypt,Indonesia,1671,1222,6,0,6,-6,1677,1216,36,137,0,-3,36,134,40,0,449
+197,Jun 11 1991,Presidents Cup in South Korea,South Korea,Malta,1714,1354,1,1,-17,17,1697,1371,35,93,-1,7,34,100,40,100,460
+198,Jun 12 1991,Friendly tournament in Sweden,Italy,Denmark,1986,1896,2,0,17,-17,2003,1879,1,16,1,-3,2,13,30,0,90
+199,Jun 12 1991,Friendly in Malaysia,Malaysia,England,1262,2001,2,4,-1,1,1261,2002,125,4,0,-1,125,3,20,100,-639
+200,Jun 12 1991,Friendly in Peru,Peru,Uruguay,1511,1856,1,0,16,-16,1527,1840,59,16,3,0,62,16,20,100,-245
+201,Jun 13 1991,Friendly tournament in Sweden,Sweden,Soviet Union,1827,1901,2,3,-16,16,1811,1917,19,9,-1,0,18,9,30,100,26
+202,Jun 14 1991,Copa Paz del Chaco in Bolivia,Bolivia,Paraguay,1566,1748,0,1,-12,12,1554,1760,61,24,-3,3,58,27,30,100,-82
+203,Jun 14 1991,Presidents Cup in South Korea,South Korea,Australia,1697,1669,0,0,-7,7,1690,1676,34,36,0,1,34,37,40,100,128
+204,Jun 15 1991,Friendly tournament in Sweden,Sweden,Denmark,1811,1879,4,0,26,-26,1837,1853,16,17,1,-2,17,15,30,100,32
+205,Jun 16 1991,Friendly tournament in Sweden,Italy,Soviet Union,2003,1917,1,1,-4,4,1999,1921,4,9,-1,0,3,9,30,0,86
+206,Jun 16 1991,Copa Paz del Chaco in Paraguay,Paraguay,Bolivia,1760,1554,0,0,-11,11,1749,1565,33,54,-3,2,30,56,30,100,306
+207,Jun 16 1991,Presidents Cup in South Korea,South Korea,Egypt,1690,1677,2,0,21,-21,1711,1656,32,42,1,-3,33,39,40,100,113
+208,Jun 19 1991,Friendly in Ecuador,Ecuador,Chile,1642,1801,2,1,12,-12,1654,1789,37,24,3,-2,40,22,20,100,-59
+209,Jun 19 1991,Friendly in Slovenia,Slovenia,Croatia,1600,1887,0,1,-5,5,1595,1892,53,10,0,0,53,10,20,100,-187
+210,Jun 20 1991,Friendly in Mozambique,Mozambique,Botswana,1368,1096,2,0,3,-3,1371,1093,100,161,1,0,101,161,20,100,372
+211,Jun 20 1991,Friendly in Uruguay,Uruguay,Peru,1840,1527,0,0,-8,8,1832,1535,18,59,-1,2,17,61,20,100,413
+212,Jun 22 1991,Friendly in Mozambique,Mozambique,Swaziland,1371,1194,2,1,3,-3,1374,1191,99,143,1,-1,100,142,20,100,277
+213,Jun 25 1991,Friendly in Costa Rica,Costa Rica,Colombia,1689,1757,0,1,-11,11,1678,1768,35,24,0,2,35,26,20,100,32
+214,Jun 25 1991,Friendly in Ecuador,Ecuador,Peru,1654,1535,2,2,-6,6,1648,1541,42,61,-1,0,41,61,20,100,219
+215,Jun 25 1991,Island Games in Finland,Faroe Islands,Greenland,1271,958,3,2,6,-6,1277,952,122,176,0,0,122,176,40,0,313
+216,Jun 25 1991,Friendly in Mozambique,Mozambique,Botswana,1374,1093,1,1,-8,8,1366,1101,104,159,-2,1,102,160,20,100,381
+217,Jun 26 1991,Friendly in Uruguay,Uruguay,Chile,1832,1789,2,1,6,-6,1838,1783,15,24,1,-1,16,23,20,100,143
+218,Jun 27 1991,Friendly in Brazil,Brazil,Argentina,1960,1891,1,1,-5,5,1955,1896,4,9,0,1,4,10,20,100,169
+219,Jun 28 1991,Friendly in Ghana,Ghana,Gambia,1555,1210,3,2,1,-1,1556,1209,59,137,0,0,59,137,20,100,445
+220,Jun 28 1991,CONCACAF Championship in the United States,Honduras,Canada,1530,1569,4,2,42,-42,1572,1527,47,71,8,-8,55,63,50,0,-39
+221,Jun 28 1991,CONCACAF Championship in the United States,Mexico,Jamaica,1863,1395,4,1,6,-6,1869,1389,13,94,0,0,13,94,50,0,468
+222,Jun 29 1991,CONCACAF Championship in the United States,Costa Rica,Guatemala,1678,1454,2,0,16,-16,1694,1438,35,81,0,-2,35,79,50,0,224
+223,Jun 29 1991,CONCACAF Championship in the United States,United States,Trinidad and Tobago,1614,1478,2,1,10,-10,1624,1468,43,79,3,-3,46,76,50,100,236
+224,Jun 30 1991,Friendly in Chile,Chile,Ecuador,1783,1648,3,1,6,-6,1789,1642,21,45,1,-2,22,43,20,100,235
+225,Jun 30 1991,CONCACAF Championship in the United States,Honduras,Jamaica,1572,1389,5,0,26,-26,1598,1363,47,114,4,-10,51,104,50,0,183
+226,Jun 30 1991,CONCACAF Championship in the United States,Mexico,Canada,1869,1527,3,1,9,-9,1878,1518,13,63,0,0,13,63,50,0,342
+227,Jul 1 1991,CONCACAF Championship in the United States,Trinidad and Tobago,Costa Rica,1468,1694,2,1,39,-39,1507,1655,60,43,8,-4,68,39,50,0,-226
+228,Jul 1 1991,CONCACAF Championship in the United States,United States,Guatemala,1624,1438,3,0,14,-14,1638,1424,44,89,1,-5,45,84,50,100,286
+229,Jul 2 1991,Friendly in Moldova,Moldova,Georgia,1500,1614,2,4,-14,14,1486,1628,74,47,0,0,74,47,20,100,-14
+230,Jul 3 1991,CONCACAF Championship in the United States,Canada,Jamaica,1518,1363,3,2,15,-15,1533,1348,61,113,1,-4,62,109,50,0,155
+231,Jul 3 1991,CONCACAF Championship in the United States,Guatemala,Trinidad and Tobago,1424,1507,1,0,31,-31,1455,1476,71,84,7,-8,78,76,50,0,-83
+232,Jul 3 1991,CONCACAF Championship in the United States,Honduras,Mexico,1598,1878,1,1,17,-17,1615,1861,49,15,1,-1,50,14,50,0,-280
+233,Jul 3 1991,CONCACAF Championship in the United States,United States,Costa Rica,1638,1655,3,2,19,-19,1657,1636,31,51,7,-6,38,45,50,100,83
+234,Jul 5 1991,CONCACAF Championship in the United States,Honduras,Costa Rica,1615,1636,2,0,40,-40,1655,1596,30,61,10,-8,40,53,50,0,-21
+235,Jul 5 1991,CONCACAF Championship in the United States,United States,Mexico,1657,1861,2,0,48,-48,1705,1813,32,22,3,-4,35,18,50,100,-104
+236,Jul 6 1991,Copa América in Chile,Chile,Venezuela,1789,1355,2,0,3,-3,1792,1352,20,106,1,1,21,107,30,0,434
+237,Jul 6 1991,Friendly in Malawi,Malawi,Kenya,1365,1372,0,2,-19,19,1346,1391,115,90,-6,5,109,95,20,100,93
+238,Jul 6 1991,Copa América in Chile,Paraguay,Peru,1749,1541,1,0,12,-12,1761,1529,26,65,2,-2,28,63,50,0,208
+239,Jul 7 1991,Copa América in Chile,Bolivia,Uruguay,1565,1838,1,1,16,-16,1581,1822,51,21,3,-3,54,18,50,0,-273
+240,Jul 7 1991,Copa América in Chile,Colombia,Ecuador,1768,1642,1,0,16,-16,1784,1626,22,50,2,-3,24,47,50,0,126
+241,Jul 7 1991,Friendly in Gabon,Gabon,Ghana,1404,1556,0,1,-9,9,1395,1565,96,57,-2,1,94,58,20,100,-52
+242,Jul 7 1991,CONCACAF Championship in the United States,Mexico,Costa Rica,1813,1596,2,0,17,-17,1830,1579,14,57,2,-2,16,55,50,0,217
+243,Jul 7 1991,CONCACAF Championship in the United States,United States,Honduras,1705,1655,0,0,-10,10,1695,1665,35,36,0,2,35,38,50,100,150
+244,Jul 8 1991,Copa América in Chile,Argentina,Venezuela,1896,1352,3,0,4,-4,1900,1348,10,107,0,0,10,107,50,0,544
+245,Jul 8 1991,Copa América in Chile,Chile,Peru,1792,1529,4,2,8,-8,1800,1521,19,63,1,0,20,63,30,0,263
+246,Jul 8 1991,Friendly in Malawi,Malawi,Kenya,1346,1391,1,1,-2,2,1344,1393,109,95,0,0,109,95,20,100,55
+247,Jul 9 1991,Copa América in Chile,Brazil,Bolivia,1955,1581,2,1,5,-5,1960,1576,4,56,0,-1,4,55,50,0,374
+248,Jul 9 1991,Friendly in Congo,Congo,Zaire,1490,1518,0,0,-2,2,1488,1520,72,64,0,0,72,64,20,100,72
+249,Jul 9 1991,Copa América in Chile,Ecuador,Uruguay,1626,1822,1,1,13,-13,1639,1809,41,20,3,-1,44,19,50,0,-196
+250,Jul 10 1991,Copa América in Chile,Chile,Argentina,1800,1900,0,1,-25,25,1775,1925,30,6,-5,2,25,8,50,100,0
+251,Jul 10 1991,Friendly in Malawi,Malawi,Kenya,1344,1393,1,1,-1,1,1343,1394,109,95,0,0,109,95,20,100,51
+252,Jul 10 1991,Copa América in Chile,Paraguay,Venezuela,1761,1348,5,0,8,-8,1769,1340,26,117,1,-5,27,112,50,0,413
+253,Jul 11 1991,Copa América in Chile,Bolivia,Colombia,1576,1784,0,0,13,-13,1589,1771,53,29,1,-3,54,26,50,0,-208
+254,Jul 11 1991,Copa América in Chile,Brazil,Uruguay,1960,1809,1,1,-10,10,1950,1819,6,17,-1,1,5,18,50,0,151
+255,Jul 12 1991,Copa América in Chile,Argentina,Paraguay,1925,1769,4,1,25,-25,1950,1744,2,33,3,-3,5,30,50,0,156
+256,Jul 12 1991,African Nations Cup qualifier in Egypt,Egypt,Chad,1656,1305,5,1,5,-5,1661,1300,40,121,0,-2,40,119,40,100,451
+257,Jul 12 1991,Copa América in Chile,Peru,Venezuela,1521,1340,5,1,24,-24,1545,1316,57,116,3,-2,60,114,50,0,181
+258,Jul 13 1991,Copa América in Chile,Colombia,Brazil,1771,1950,2,0,55,-55,1826,1895,8,15,9,-5,17,10,50,0,-179
+259,Jul 13 1991,Copa América in Chile,Ecuador,Bolivia,1639,1589,4,0,40,-40,1679,1549,28,64,8,-5,36,59,50,0,50
+260,Jul 14 1991,Copa América in Chile,Argentina,Peru,1950,1545,3,2,4,-4,1954,1541,3,62,1,-1,4,61,40,0,405
+261,Jul 14 1991,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Ghana,1418,1565,2,1,23,-23,1441,1542,77,63,5,-3,82,60,40,100,-47
+262,Jul 14 1991,African Nations Cup qualifier in Cameroon,Cameroon,Sierra Leone,1670,1386,1,0,4,-4,1674,1382,38,100,0,-2,38,98,40,100,384
+263,Jul 14 1991,Copa América in Chile,Chile,Paraguay,1775,1744,4,0,30,-30,1805,1714,17,34,4,-2,21,32,50,100,131
+264,Jul 14 1991,African Nations Cup qualifier in Gabon,Gabon,Tanzania,1395,1330,1,0,11,-11,1406,1319,90,113,2,0,92,113,40,100,165
+265,Jul 14 1991,African Nations Cup qualifier in Guinea,Guinea,Mali,1437,1430,2,1,14,-14,1451,1416,77,91,2,-3,79,88,40,100,107
+266,Jul 14 1991,African Nations Cup qualifier in Kenya,Kenya,Mozambique,1394,1366,1,0,13,-13,1407,1353,87,110,4,-4,91,106,40,100,128
+267,Jul 14 1991,African Nations Cup qualifier in Togo,Togo,Benin,1363,1214,2,0,12,-12,1375,1202,98,141,3,-2,101,139,40,100,249
+268,Jul 14 1991,African Nations Cup qualifier in Zaire,Zaire,Uganda,1520,1512,1,0,14,-14,1534,1498,60,70,2,-2,62,68,40,100,108
+269,Jul 14 1991,African Nations Cup qualifier in Zambia,Zambia,Madagascar,1574,1477,2,1,10,-10,1584,1467,53,79,1,-2,54,77,40,100,197
+270,Jul 14 1991,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Congo,1435,1488,2,2,-3,3,1432,1491,85,72,-1,0,84,72,40,100,47
+271,Jul 15 1991,African Nations Cup qualifier in Angola,Angola,Swaziland,1432,1191,1,1,-15,15,1417,1206,90,135,-3,4,87,139,40,100,341
+272,Jul 15 1991,Copa América in Chile,Brazil,Ecuador,1895,1679,3,1,17,-17,1912,1662,10,44,0,-4,10,40,50,0,216
+273,Jul 15 1991,Friendly in the Faroe Islands,Faroe Islands,Turkey,1277,1598,1,1,6,-6,1283,1592,121,55,1,-2,122,53,20,100,-221
+274,Jul 15 1991,Copa América in Chile,Uruguay,Colombia,1819,1826,1,0,26,-26,1845,1800,11,25,4,-4,15,21,50,0,-7
+275,Jul 17 1991,Copa América in Chile,Argentina,Brazil,1954,1912,3,2,22,-22,1976,1890,4,12,0,-1,4,11,50,0,42
+276,Jul 17 1991,Copa América in Chile,Chile,Colombia,1805,1800,1,1,-7,7,1798,1807,24,19,-2,1,22,20,50,100,105
+277,Jul 17 1991,Friendly in Iceland,Iceland,Turkey,1532,1592,5,1,17,-17,1549,1575,52,57,6,-2,58,55,20,100,40
+278,Jul 19 1991,Copa América in Chile,Brazil,Colombia,1890,1807,2,0,29,-29,1919,1778,9,30,1,-5,10,25,50,0,83
+279,Jul 19 1991,Copa América in Chile,Chile,Argentina,1798,1976,0,0,6,-6,1804,1970,18,4,2,0,20,4,50,100,-78
+280,Jul 21 1991,Copa América in Chile,Argentina,Colombia,1970,1778,2,1,12,-12,1982,1766,4,29,0,-2,4,27,50,0,192
+281,Jul 21 1991,Copa América in Chile,Chile,Brazil,1804,1919,0,2,-36,36,1768,1955,30,0,-5,5,25,5,50,100,-15
+282,Jul 24 1991,Friendly in Ivory Coast,Ivory Coast,Guinea,1650,1451,0,0,-7,7,1643,1458,46,77,-2,1,44,78,20,100,299
+283,Jul 26 1991,African Nations Cup qualifier in Egypt,Egypt,Tunisia,1661,1505,2,2,-13,13,1648,1518,41,63,0,2,41,65,40,100,256
+284,Jul 26 1991,African Nations Cup qualifier in Mauritania,Mauritania,Niger,1067,1364,0,1,-10,10,1057,1374,168,101,-1,1,167,102,40,100,-197
+285,Jul 27 1991,Friendly in Japan,Japan,South Korea,1379,1711,0,1,-4,4,1375,1715,100,31,0,1,100,32,20,100,-232
+286,Jul 27 1991,African Nations Cup qualifier in Malawi,Malawi,Zimbabwe,1343,1432,2,2,-1,1,1342,1433,109,82,0,1,109,83,40,100,11
+287,Jul 27 1991,African Nations Cup qualifier in Nigeria,Nigeria,Burkina Faso,1632,1441,7,1,13,-13,1645,1428,40,86,3,-2,43,84,40,100,291
+288,Jul 27 1991,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Mali,1382,1416,2,0,24,-24,1406,1392,84,104,7,-8,91,96,40,100,66
+289,Jul 28 1991,African Nations Cup qualifier in Benin,Benin,Ghana,1202,1542,0,0,12,-12,1214,1530,134,67,3,-3,137,64,40,100,-240
+290,Jul 28 1991,African Nations Cup qualifier in Cameroon,Cameroon,Guinea,1674,1458,1,0,6,-6,1680,1452,35,80,1,-1,36,79,40,100,316
+291,Jul 28 1991,African Nations Cup qualifier in Gabon,Gabon,Zaire,1406,1534,0,0,2,-2,1408,1532,91,63,0,0,91,63,40,100,-28
+292,Jul 28 1991,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Morocco,1643,1615,2,0,19,-19,1662,1596,35,52,5,-1,40,51,40,100,128
+293,Jul 28 1991,African Nations Cup qualifier in Kenya,Kenya,Sudan,1407,1449,2,1,17,-17,1424,1432,80,85,5,-2,85,83,30,0,-42
+294,Jul 28 1991,African Nations Cup qualifier in Tanzania,Tanzania,Uganda,1319,1498,1,1,4,-4,1323,1494,113,68,0,0,113,68,40,100,-79
+295,Jul 28 1991,African Nations Cup qualifier in Zambia,Zambia,Angola,1584,1417,1,0,7,-7,1591,1410,53,93,0,-3,53,90,40,100,267
+296,Aug 8 1991,Friendly tournament in Italy,Czechoslovakia,Yugoslavia,1922,1950,0,0,1,-1,1923,1949,9,7,0,0,9,7,20,0,-28
+297,Aug 8 1991,Friendly in Norway,Norway,Sweden,1731,1837,1,2,-10,10,1721,1847,32,14,-1,1,31,15,20,100,-6
+298,Aug 11 1991,CEDEAO Cup qualifier in Benin,Benin,Ivory Coast,1214,1662,0,3,-8,8,1206,1670,141,36,-2,2,139,38,40,100,-348
+299,Aug 14 1991,Friendly in Poland,Poland,France,1785,1952,1,5,-15,15,1770,1967,26,4,-2,1,24,5,20,100,-67
+300,Aug 19 1991,Friendly in Malawi,Malawi,Mozambique,1342,1353,1,0,7,-7,1349,1346,103,110,3,-2,106,108,20,100,89
+301,Aug 20 1991,Friendly in Malawi,Malawi,Mozambique,1349,1346,2,0,11,-11,1360,1335,102,116,2,-4,104,112,20,100,103
+302,Aug 21 1991,Friendly in Bulgaria,Bulgaria,Turkey,1728,1575,0,0,-6,6,1722,1581,30,53,0,1,30,54,20,100,253
+303,Aug 21 1991,Friendly in Czechoslovakia,Czechoslovakia,Switzerland,1923,1775,1,1,-6,6,1917,1781,11,23,-1,0,10,23,20,100,248
+304,Aug 21 1991,Friendly in Poland,Poland,Sweden,1770,1847,2,0,14,-14,1784,1833,20,17,2,-1,22,16,20,100,23
+305,Aug 28 1991,European Championship qual in Norway,Norway,Soviet Union,1721,1921,0,1,-14,14,1707,1935,39,9,-4,0,35,9,40,100,-100
+306,Aug 28 1991,Friendly in Romania,Romania,United States,1824,1695,0,2,-24,24,1800,1719,20,27,-1,4,19,31,20,100,229
+307,Sep 1 1991,CEDEAO Cup qualifier in Ivory Coast,Ivory Coast,Benin,1670,1206,1,0,1,-1,1671,1205,38,142,0,-1,38,141,20,0,464
+308,Sep 4 1991,European Championship qual in Czechoslovakia,Czechoslovakia,France,1917,1967,1,2,-23,23,1894,1990,10,3,0,1,10,4,40,100,50
+309,Sep 4 1991,Friendly in Greece,Greece,Albania,1708,1412,0,2,-27,27,1681,1439,36,73,-1,8,35,81,20,100,396
+310,Sep 4 1991,Friendly in Iceland,Iceland,Denmark,1549,1853,0,0,5,-5,1554,1848,58,14,0,0,58,14,20,100,-204
+311,Sep 4 1991,Friendly in Portugal,Portugal,Austria,1800,1663,1,1,-6,6,1794,1669,21,38,-1,1,20,39,20,100,237
+312,Sep 4 1991,Friendly in Spain,Spain,Uruguay,1862,1845,2,1,7,-7,1869,1838,13,17,0,-1,13,16,20,100,117
+313,Sep 4 1991,Friendly in Sweden,Sweden,Yugoslavia,1833,1949,4,3,10,-10,1843,1939,14,9,1,-1,15,8,20,100,-16
+314,Sep 4 1991,Friendly in Turkey,Turkey,United States,1581,1719,1,1,1,-1,1582,1718,54,31,0,0,54,31,20,100,-38
+315,Sep 8 1991,Friendly in Mali,Mali,Guinea,1392,1452,0,0,-1,1,1391,1453,96,79,0,0,96,79,20,100,40
+316,Sep 9 1991,South Pacific Games in Papua New Guinea,Papua New Guinea,Solomon Islands,1127,1137,0,0,-5,5,1122,1142,158,150,0,2,158,152,40,100,90
+317,Sep 9 1991,South Pacific Games in Papua New Guinea,Vanuatu,Wallis and Futuna,1057,708,4,0,9,-9,1066,699,166,195,1,0,167,195,40,0,349
+318,Sep 10 1991,South Pacific Games in Papua New Guinea,Fiji,New Caledonia,1399,1304,3,1,22,-22,1421,1282,79,127,8,-5,87,122,40,0,95
+319,Sep 10 1991,South Pacific Games in Papua New Guinea,Tahiti,Guam,1545,748,15,0,1,-1,1546,747,60,193,0,0,60,193,20,0,797
+320,Sep 11 1991,Friendly in England,England,Germany,2002,2056,0,1,-11,11,1991,2067,4,1,-1,0,3,1,20,100,46
+321,Sep 11 1991,Friendly in Hungary,Hungary,Ireland,1755,1890,1,2,-9,9,1746,1899,29,8,0,2,29,10,20,100,-35
+322,Sep 11 1991,European Championship qual in Luxembourg,Luxembourg,Belgium,1168,1811,0,2,-3,3,1165,1814,148,18,0,0,148,18,40,100,-543
+323,Sep 11 1991,Friendly in the Netherlands,Netherlands,Poland,1943,1784,1,1,-6,6,1937,1790,9,22,-1,0,8,22,20,100,259
+324,Sep 11 1991,European Championship qual in Sweden,Northern Ireland,Faroe Islands,1645,1283,5,0,9,-9,1654,1274,40,125,2,-2,42,123,40,0,362
+325,Sep 11 1991,South Pacific Games in Papua New Guinea,Papua New Guinea,Vanuatu,1122,1066,0,1,-28,28,1094,1094,168,159,-5,4,163,163,40,100,156
+326,Sep 11 1991,European Championship qual in Portugal,Portugal,Finland,1794,1639,1,0,7,-7,1801,1632,20,46,0,0,20,46,40,100,255
+327,Sep 11 1991,South Pacific Games in Papua New Guinea,Solomon Islands,Wallis and Futuna,1142,699,5,0,6,-6,1148,693,148,195,2,0,150,195,40,0,443
+328,Sep 11 1991,European Championship qual in Switzerland,Switzerland,Scotland,1781,1759,2,2,-7,7,1774,1766,25,26,-1,1,24,27,40,100,122
+329,Sep 11 1991,Friendly in Wales,Wales,Brazil,1792,1955,1,0,12,-12,1804,1943,17,6,2,0,19,6,20,100,-63
+330,Sep 12 1991,Friendly in Bermuda,Bermuda,Jamaica,1383,1348,1,1,-4,4,1379,1352,101,107,-2,0,99,107,20,100,135
+331,Sep 12 1991,South Pacific Games in Papua New Guinea,Fiji,Guam,1421,747,14,1,2,-2,1423,745,87,193,0,0,87,193,30,0,674
+332,Sep 12 1991,South Pacific Games in Papua New Guinea,New Caledonia,Tahiti,1282,1546,2,2,13,-13,1295,1533,117,62,2,-1,119,61,40,0,-264
+333,Sep 13 1991,South Pacific Games in Papua New Guinea,Papua New Guinea,Wallis and Futuna,1094,693,5,0,4,-4,1098,689,161,195,1,0,162,195,20,0,401
+334,Sep 13 1991,South Pacific Games in Papua New Guinea,Solomon Islands,Vanuatu,1148,1094,3,0,30,-30,1178,1064,142,173,4,-5,146,168,40,0,54
+335,Sep 14 1991,South Pacific Games in Papua New Guinea,Fiji,Tahiti,1423,1533,3,0,46,-46,1469,1487,67,83,10,-11,77,72,40,0,-110
+336,Sep 14 1991,South Pacific Games in Papua New Guinea,New Caledonia,Guam,1295,745,18,0,6,-6,1301,739,117,193,1,0,118,193,40,0,550
+337,Sep 14 1991,Friendly in the United States,United States,Jamaica,1718,1352,1,0,1,-1,1719,1351,31,107,0,0,31,107,20,100,466
+338,Sep 17 1991,South Pacific Games in Papua New Guinea,Fiji,Vanuatu,1469,1064,3,1,5,-5,1474,1059,77,168,0,0,77,168,40,0,405
+339,Sep 17 1991,South Pacific Games in Papua New Guinea,Solomon Islands,New Caledonia,1178,1301,4,1,47,-47,1225,1254,122,142,12,-12,134,130,40,0,-123
+340,Sep 17 1991,South Pacific Games in Papua New Guinea,Tahiti,Wallis and Futuna,1487,689,5,0,1,-1,1488,688,72,195,0,0,72,195,30,0,798
+341,Sep 18 1991,South Pacific Games in Papua New Guinea,Wallis and Futuna,Guam,688,739,5,0,46,-46,734,693,191,197,2,-2,193,195,40,0,-51
+342,Sep 19 1991,South Pacific Games in Papua New Guinea,New Caledonia,Vanuatu,1254,1059,3,0,17,-17,1271,1042,116,174,7,-3,123,171,40,0,195
+343,Sep 20 1991,South Pacific Games in Papua New Guinea,Fiji,Solomon Islands,1474,1225,1,1,-12,12,1462,1237,79,128,-1,3,78,131,40,0,249
+344,Sep 21 1991,Friendly in Botswana,Botswana,Swaziland,1101,1206,2,1,10,-10,1111,1196,159,147,1,-3,160,144,20,100,-5
+345,Sep 25 1991,Friendly in Bulgaria,Bulgaria,Italy,1722,1999,2,1,15,-15,1737,1984,30,6,0,-2,30,4,20,100,-177
+346,Sep 25 1991,European Championship qual in Sweden,Denmark,Faroe Islands,1848,1274,4,0,3,-3,1851,1271,12,122,1,0,13,122,40,0,574
+347,Sep 25 1991,European Championship qual in Iceland,Iceland,Spain,1554,1869,2,0,47,-47,1601,1822,42,21,8,-4,50,17,40,100,-215
+348,Sep 25 1991,Friendly in Norway,Norway,Czechoslovakia,1707,1894,2,3,-8,8,1699,1902,34,9,0,1,34,10,20,100,-87
+349,Sep 25 1991,European Championship qual in the Soviet Union,Soviet Union,Hungary,1935,1746,2,2,-14,14,1921,1760,9,29,0,0,9,29,40,100,289
+350,Sep 27 1991,Afro-Asian Cup in Iran,Iran,Algeria,1621,1767,2,1,28,-28,1649,1739,38,32,5,-3,43,29,40,0,-146
+351,Sep 30 1991,Friendly in Botswana,Botswana,Ghana,1111,1530,0,0,7,-7,1118,1523,158,63,1,0,159,63,20,100,-319
+352,Oct 5 1991,Friendly in Singapore,Singapore,Indonesia,1221,1216,2,0,11,-11,1232,1205,130,143,3,-2,133,141,20,100,105
+353,Oct 9 1991,European Championship qual in Austria,Austria,Denmark,1669,1851,0,3,-27,27,1642,1878,53,13,-7,0,46,13,40,100,-82
+354,Oct 9 1991,European Championship qual in Finland,Finland,Greece,1632,1681,1,1,-3,3,1629,1684,47,35,0,0,47,35,40,100,51
+355,Oct 9 1991,Friendly in Hungary,Hungary,Belgium,1760,1814,0,2,-17,17,1743,1831,28,12,0,3,28,15,20,100,46
+356,Oct 9 1991,Friendly in Switzerland,Switzerland,Sweden,1774,1843,3,1,14,-14,1788,1829,22,20,1,-3,23,17,20,100,31
+357,Oct 12 1991,Friendly in Luxembourg,Luxembourg,Portugal,1165,1801,1,1,9,-9,1174,1792,146,22,2,-1,148,21,20,0,-636
+358,Oct 12 1991,European Championship qual in Spain,Spain,France,1822,1990,1,2,-16,16,1806,2006,18,1,0,1,18,2,40,100,-68
+359,Oct 12 1991,European Championship qual in the Soviet Union,Soviet Union,Italy,1921,1984,0,0,-2,2,1919,1986,9,4,0,0,9,4,30,100,37
+360,Oct 13 1991,Afro-Asian Cup in Algeria,Algeria,Iran,1739,1649,1,0,13,-13,1752,1636,27,50,1,-4,28,46,50,100,190
+361,Oct 16 1991,European Championship qual in Bulgaria,Bulgaria,San Marino,1737,1001,4,0,1,-1,1738,1000,30,175,0,0,30,175,20,0,736
+362,Oct 16 1991,Friendly in Cyprus,Cyprus,Iceland,1255,1601,1,1,6,-6,1261,1595,124,54,3,-2,127,52,20,100,-246
+363,Oct 16 1991,European Championship qual in Czechoslovakia,Czechoslovakia,Albania,1902,1439,2,1,2,-2,1904,1437,10,82,0,0,10,82,30,0,463
+364,Oct 16 1991,European Championship qual in England,England,Turkey,1991,1582,1,0,2,-2,1993,1580,3,55,0,0,3,55,20,0,409
+365,Oct 16 1991,European Championship qual in Germany,Germany,Wales,2067,1804,4,1,8,-8,2075,1796,1,21,0,-1,1,20,40,100,363
+366,Oct 16 1991,European Championship qual in the Netherlands,Netherlands,Portugal,1937,1792,1,0,8,-8,1945,1784,4,25,2,-2,6,23,40,100,245
+367,Oct 16 1991,European Championship qual in Northern Ireland,Northern Ireland,Austria,1654,1642,2,1,14,-14,1668,1628,37,49,2,-2,39,47,30,0,12
+368,Oct 16 1991,European Championship qual in Poland,Poland,Ireland,1790,1899,3,3,1,-1,1791,1898,20,11,1,0,21,11,40,100,-9
+369,Oct 16 1991,European Championship qual in Romania,Romania,Scotland,1800,1766,1,0,13,-13,1813,1753,16,28,2,-1,18,27,40,100,134
+370,Oct 16 1991,European Championship qual in Sweden,Yugoslavia,Faroe Islands,1939,1271,2,0,1,-1,1940,1270,9,124,-1,-1,8,123,20,0,668
+371,Oct 19 1991,Friendly in the United States,United States,North Korea,1719,1515,1,2,-17,17,1702,1532,35,61,-2,2,33,63,20,100,304
+372,Oct 30 1991,Friendly in Brazil,Brazil,Yugoslavia,1943,1940,3,1,11,-11,1954,1929,5,8,1,0,6,8,20,100,103
+373,Oct 30 1991,European Championship qual in Greece,Greece,Finland,1684,1629,2,0,17,-17,1701,1612,35,52,0,-3,35,49,40,100,155
+374,Oct 30 1991,European Championship qual in Hungary,Hungary,Norway,1743,1699,0,0,-8,8,1735,1707,31,32,-1,1,30,33,40,100,144
+375,Oct 31 1991,CEDEAO Cup in Ivory Coast,Ivory Coast,Nigeria,1671,1645,2,0,20,-20,1691,1625,34,50,2,-3,36,47,40,100,126
+376,Oct 31 1991,CEDEAO Cup in Ivory Coast,Senegal,Ghana,1559,1523,3,2,18,-18,1577,1505,56,69,1,-2,57,67,40,0,36
+377,Nov 2 1991,CEDEAO Cup in Ivory Coast,Ghana,Nigeria,1505,1625,1,0,27,-27,1532,1598,59,51,4,-2,63,49,40,0,-120
+378,Nov 2 1991,CEDEAO Cup in Ivory Coast,Ivory Coast,Senegal,1691,1577,1,0,9,-9,1700,1568,36,57,0,0,36,57,40,100,214
+379,Nov 9 1991,Friendly in Tanzania,Tanzania,Kenya,1323,1424,1,1,0,0,1323,1424,114,88,0,0,114,88,20,100,-1
+380,Nov 13 1991,European Championship qual in Austria,Austria,Yugoslavia,1628,1929,0,2,-14,14,1614,1943,49,8,-2,0,47,8,40,100,-201
+381,Nov 13 1991,European Championship qual in Cyprus,Cyprus,Soviet Union,1261,1919,0,3,-3,3,1258,1922,132,9,-2,0,130,9,40,100,-558
+382,Nov 13 1991,European Championship qual in Denmark,Denmark,Northern Ireland,1878,1668,2,1,6,-6,1884,1662,11,41,1,-1,12,40,40,100,310
+383,Nov 13 1991,European Championship qual in Italy,Italy,Norway,1986,1707,1,1,-16,16,1970,1723,6,29,-1,2,5,31,40,100,379
+384,Nov 13 1991,European Championship qual in Poland,Poland,England,1791,1993,1,1,6,-6,1797,1987,19,3,1,0,20,3,40,100,-102
+385,Nov 13 1991,European Championship qual in Romania,Romania,Switzerland,1813,1788,1,0,13,-13,1826,1775,18,26,0,-2,18,24,40,100,125
+386,Nov 13 1991,European Championship qual in Scotland,Scotland,San Marino,1753,1000,4,0,1,-1,1754,999,27,176,0,0,27,176,30,0,753
+387,Nov 13 1991,European Championship qual in Spain,Spain,Czechoslovakia,1806,1904,2,1,20,-20,1826,1884,17,14,1,-2,18,12,40,100,2
+388,Nov 13 1991,European Championship qual in Turkey,Turkey,Ireland,1580,1898,1,3,-13,13,1567,1911,59,9,-2,1,57,10,40,100,-218
+389,Nov 13 1991,European Championship qual in Wales,Wales,Luxembourg,1796,1174,1,0,1,-1,1797,1173,20,153,0,-2,20,151,20,0,622
+390,Nov 15 1991,Baltic Cup in Lithuania,Lithuania,Estonia,1145,1232,4,1,25,-25,1170,1207,151,146,1,-6,152,140,30,100,13
+391,Nov 16 1991,Baltic Cup in Lithuania,Latvia,Estonia,1415,1207,2,0,10,-10,1425,1197,87,148,2,-4,89,144,30,0,208
+392,Nov 16 1991,Friendly in Tanzania,Tanzania,Kenya,1323,1424,1,2,-10,10,1313,1434,118,82,-2,3,116,85,20,100,-1
+393,Nov 17 1991,Baltic Cup in Lithuania,Lithuania,Latvia,1170,1425,1,1,6,-6,1176,1419,146,91,3,-1,149,90,20,0,-255
+394,Nov 20 1991,European Championship qual in Belgium,Belgium,Germany,1831,2075,0,1,-12,12,1819,2087,23,1,-4,0,19,1,40,100,-144
+395,Nov 20 1991,European Championship qual in Bulgaria,Bulgaria,Romania,1738,1826,1,1,-1,1,1737,1827,29,14,0,2,29,16,30,100,12
+396,Nov 20 1991,European Championship qual in France,France,Iceland,2006,1595,3,1,3,-3,2009,1592,2,54,0,-1,2,53,20,0,411
+397,Nov 20 1991,Friendly in Mexico,Mexico,Uruguay,1830,1838,1,1,-3,3,1827,1841,16,14,0,0,16,14,20,100,92
+398,Nov 20 1991,European Championship qual in Portugal,Portugal,Greece,1784,1701,1,0,10,-10,1794,1691,22,37,0,-1,22,36,40,100,183
+399,Nov 22 1991,Amilcar Cabral Cup in Senegal,Cape Verde,Guinea-Bissau,1279,1344,2,1,24,-24,1303,1320,114,117,4,-4,118,113,40,0,-65
+400,Nov 23 1991,Amilcar Cabral Cup in Senegal,Gambia,Mali,1209,1391,1,0,30,-30,1239,1361,127,111,6,-7,133,104,40,0,-182
+401,Nov 23 1991,Friendly in Ivory Coast,Ivory Coast,Niger,1700,1374,5,2,3,-3,1703,1371,33,101,1,1,34,102,20,100,426
+402,Nov 23 1991,CECAFA Cup in Uganda,Zambia,Kenya,1591,1434,1,0,12,-12,1603,1422,44,91,5,-3,49,88,40,0,157
+403,Nov 24 1991,Amilcar Cabral Cup in Senegal,Senegal,Guinea-Bissau,1568,1320,4,0,9,-9,1577,1311,56,119,0,-3,56,116,40,100,348
+404,Nov 24 1991,Amilcar Cabral Cup in Senegal,Sierra Leone,Guinea,1406,1453,1,0,23,-23,1429,1430,78,89,8,-4,86,85,40,0,-47
+405,Nov 24 1991,CECAFA Cup in Uganda,Sudan,Tanzania,1432,1313,1,1,-7,7,1425,1320,90,110,-2,3,88,113,40,0,119
+406,Nov 24 1991,Friendly in the United States,United States,Costa Rica,1702,1579,1,1,-6,6,1696,1585,35,55,0,0,35,55,20,100,223
+407,Nov 25 1991,CECAFA Cup in Uganda,Malawi,Zanzibar,1360,1141,1,0,9,-9,1369,1132,103,159,1,-2,104,157,40,0,219
+408,Nov 25 1991,Southeast Asian Games in the Philippines,Singapore,Thailand,1232,1308,0,0,4,-4,1236,1304,135,117,0,0,135,117,40,0,-76
+409,Nov 26 1991,Amilcar Cabral Cup in Senegal,Gambia,Guinea,1239,1430,0,0,10,-10,1249,1420,129,93,2,-4,131,89,40,0,-191
+410,Nov 26 1991,Southeast Asian Games in the Philippines,Indonesia,Malaysia,1205,1261,2,0,35,-35,1240,1226,125,148,8,-10,133,138,40,0,-56
+411,Nov 26 1991,Amilcar Cabral Cup in Senegal,Mali,Sierra Leone,1361,1429,1,1,4,-4,1365,1425,105,86,0,0,105,86,40,0,-68
+412,Nov 26 1991,Southeast Asian Games in the Philippines,Philippines,Vietnam,813,1207,2,2,14,-14,827,1193,193,152,0,-6,193,146,40,100,-294
+413,Nov 27 1991,Friendly in the United States,Costa Rica,Mexico,1585,1827,1,1,6,-6,1591,1821,55,20,0,-2,55,18,20,0,-242
+414,Nov 27 1991,Friendly in Malta,Malta,Libya,1371,1566,2,0,19,-19,1390,1547,92,60,5,-1,97,59,20,100,-95
+415,Nov 27 1991,Amilcar Cabral Cup in Senegal,Senegal,Cape Verde,1577,1303,0,0,-16,16,1561,1319,58,112,-1,3,57,115,40,100,374
+416,Nov 27 1991,Southeast Asian Games in the Philippines,Thailand,Myanmar,1304,1149,4,0,22,-22,1326,1127,109,165,4,-6,113,159,40,0,155
+417,Nov 27 1991,Friendly in Tunisia,Tunisia,Ivory Coast,1518,1703,5,3,19,-19,1537,1684,56,38,5,-2,61,36,20,100,-85
+418,Nov 27 1991,CECAFA Cup in Uganda,Uganda,Sudan,1494,1425,2,0,16,-16,1510,1409,66,100,1,-7,67,93,40,100,169
+419,Nov 27 1991,CECAFA Cup in Uganda,Zambia,Zanzibar,1603,1132,3,2,2,-2,1605,1130,49,159,0,-1,49,158,30,0,471
+420,Nov 28 1991,Amilcar Cabral Cup in Senegal,Gambia,Sierra Leone,1249,1425,0,0,9,-9,1258,1416,127,94,2,-4,129,90,40,0,-176
+421,Nov 28 1991,Southeast Asian Games in the Philippines,Indonesia,Vietnam,1240,1193,1,0,17,-17,1257,1176,129,150,2,-2,131,148,40,0,47
+422,Nov 28 1991,CECAFA Cup in Uganda,Kenya,Malawi,1422,1369,1,0,17,-17,1439,1352,77,110,5,-3,82,107,40,0,53
+423,Nov 28 1991,Amilcar Cabral Cup in Senegal,Mali,Guinea,1365,1420,2,0,35,-35,1400,1385,87,108,9,-10,96,98,40,0,-55
+424,Nov 28 1991,Southeast Asian Games in the Philippines,Philippines,Malaysia,827,1226,1,0,34,-34,861,1192,193,154,0,-8,193,146,40,100,-299
+425,Nov 29 1991,Southeast Asian Games in the Philippines,Singapore,Myanmar,1236,1127,2,1,14,-14,1250,1113,131,161,2,-1,133,160,40,0,109
+426,Nov 30 1991,Amilcar Cabral Cup in Senegal,Cape Verde,Sierra Leone,1319,1416,0,0,5,-5,1324,1411,113,90,1,0,114,90,40,0,-97
+427,Nov 30 1991,CECAFA Cup in Uganda,Kenya,Zanzibar,1439,1130,3,2,6,-6,1445,1124,82,158,0,0,82,158,40,0,309
+428,Nov 30 1991,Southeast Asian Games in the Philippines,Malaysia,Vietnam,1192,1176,2,1,19,-19,1211,1157,134,156,6,-4,140,152,40,0,16
+429,Nov 30 1991,Southeast Asian Games in the Philippines,Philippines,Indonesia,861,1257,1,2,-6,6,855,1263,193,123,0,4,193,127,40,100,-296
+430,Nov 30 1991,Amilcar Cabral Cup in Senegal,Senegal,Gambia,1561,1258,2,0,5,-5,1566,1253,57,135,0,-3,57,132,40,100,403
+431,Nov 30 1991,CECAFA Cup in Uganda,Uganda,Tanzania,1510,1320,5,0,13,-13,1523,1307,67,122,0,-4,67,118,40,100,290
+432,Dec 1 1991,CECAFA Cup in Uganda,Malawi,Zambia,1352,1605,0,0,12,-12,1364,1593,103,57,2,-4,105,53,40,0,-253
+433,Dec 2 1991,Southeast Asian Games in the Philippines,Indonesia,Singapore,1263,1250,0,0,-1,1,1262,1251,129,133,-1,0,128,133,30,0,13
+434,Dec 2 1991,Southeast Asian Games in the Philippines,Philippines,Thailand,855,1326,2,6,-8,8,847,1334,193,113,0,0,193,113,40,100,-371
+435,Dec 2 1991,Amilcar Cabral Cup in Senegal,Senegal,Cape Verde,1566,1324,1,0,5,-5,1571,1319,55,114,1,0,56,114,40,100,342
+436,Dec 3 1991,Friendly in Egypt,Egypt,Poland,1648,1797,4,0,21,-21,1669,1776,36,26,3,-3,39,23,20,100,-49
+437,Dec 4 1991,European Championship qual in Greece,Greece,Netherlands,1691,1945,0,2,-18,18,1673,1963,41,5,-3,1,38,6,40,100,-154
+438,Dec 4 1991,Southeast Asian Games in the Philippines,Indonesia,Thailand,1262,1334,0,0,4,-4,1266,1330,126,113,1,0,127,113,40,0,-72
+439,Dec 4 1991,Friendly in Mexico,Mexico,Hungary,1821,1735,3,0,9,-9,1830,1726,12,30,3,0,15,30,20,100,186
+440,Dec 4 1991,Friendly in Morocco,Morocco,Mali,1596,1400,3,0,5,-5,1601,1395,47,96,2,0,49,96,20,100,296
+441,Dec 4 1991,Southeast Asian Games in the Philippines,Philippines,Singapore,847,1251,0,2,-9,9,838,1260,193,125,0,4,193,129,40,100,-304
+442,Dec 4 1991,CECAFA Cup in Uganda,Uganda,Kenya,1523,1445,1,3,-44,44,1479,1489,83,62,-8,10,75,72,40,100,178
+443,Dec 5 1991,Friendly in Egypt,Egypt,Poland,1669,1776,0,0,0,0,1669,1776,39,23,0,0,39,23,20,100,-7
+444,Dec 5 1991,CECAFA Cup in Uganda,Zambia,Sudan,1593,1409,3,2,10,-10,1603,1399,45,98,4,-3,49,95,40,0,184
+445,Dec 7 1991,CECAFA Cup in Uganda,Uganda,Sudan,1479,1399,3,1,16,-16,1495,1383,61,101,7,-3,68,98,40,100,180
+446,Dec 7 1991,CECAFA Cup in Uganda,Zambia,Kenya,1603,1489,2,0,20,-20,1623,1469,43,84,3,-6,46,78,40,0,114
+447,Dec 8 1991,Friendly in El Salvador,El Salvador,Hungary,1402,1726,1,1,6,-6,1408,1720,90,32,2,-1,92,31,20,100,-224
+448,Dec 9 1991,Friendly in Kuwait,Kuwait,Poland,1494,1776,0,2,-8,8,1486,1784,77,21,-4,1,73,22,20,100,-182
+449,Dec 16 1991,Friendly in Algeria,Algeria,Senegal,1752,1571,3,1,5,-5,1757,1566,26,58,1,-1,27,57,20,100,281
+450,Dec 18 1991,Friendly in Brazil,Brazil,Czechoslovakia,1954,1884,2,1,5,-5,1959,1879,7,14,0,-1,7,13,20,100,170
+451,Dec 18 1991,European Championship qual in Germany,Germany,Luxembourg,2087,1173,4,0,0,0,2087,1173,1,151,0,0,1,151,20,0,914
+452,Dec 21 1991,Friendly in Egypt,Egypt,Romania,1669,1827,3,1,17,-17,1686,1810,31,21,4,-2,35,19,20,100,-58
+453,Dec 21 1991,European Championship qual in Italy,Italy,Cyprus,1970,1258,2,0,1,-1,1971,1257,5,131,0,0,5,131,30,0,712
+454,Dec 22 1991,South Asian Games in Sri Lanka,India,Pakistan,1133,993,0,0,-8,8,1125,1001,159,175,-2,1,157,176,40,0,140
+455,Dec 22 1991,European Championship qual in Malta,Malta,Greece,1390,1673,1,1,10,-10,1400,1663,94,41,1,-1,95,40,30,0,-283
+456,Dec 22 1991,South Asian Games in Sri Lanka,Sri Lanka,Nepal,875,878,2,2,-5,5,870,883,190,187,0,0,190,187,40,100,97
+457,Dec 24 1991,Friendly in Egypt,Egypt,Romania,1686,1810,1,1,1,-1,1687,1809,35,19,0,0,35,19,20,100,-24
+458,Dec 24 1991,South Asian Games in Sri Lanka,Maldives,Nepal,726,883,1,0,28,-28,754,855,192,197,2,-5,194,192,40,0,-157
+459,Dec 24 1991,South Asian Games in Sri Lanka,Pakistan,Bangladesh,1001,1065,1,0,24,-24,1025,1041,172,177,2,-4,174,173,40,0,-64
+460,Dec 25 1991,Friendly in Tunisia,Tunisia,Cameroon,1537,1680,2,2,1,-1,1538,1679,61,37,0,0,61,37,20,100,-43
+461,Dec 26 1991,South Asian Games in Sri Lanka,Bangladesh,India,1041,1125,2,1,25,-25,1066,1100,165,169,4,-6,169,163,40,0,-84
+462,Dec 26 1991,Friendly in Morocco,Morocco,Algeria,1601,1757,1,1,2,-2,1603,1755,50,27,0,0,50,27,20,100,-56
+463,Dec 26 1991,South Asian Games in Sri Lanka,Sri Lanka,Maldives,870,754,0,1,-31,31,839,785,195,194,-3,0,192,194,40,100,216
+464,Dec 28 1991,South Asian Games in Sri Lanka,Bangladesh,Nepal,1066,855,2,0,14,-14,1080,841,167,191,1,0,168,191,40,0,211
+465,Dec 29 1991,South Asian Games in Sri Lanka,Pakistan,Maldives,1025,785,2,0,12,-12,1037,773,174,194,0,0,174,194,40,0,240
+466,Dec 30 1991,Friendly in Malawi,Malawi,Zambia,1364,1623,0,2,-9,9,1355,1632,109,44,-2,1,107,45,20,100,-159

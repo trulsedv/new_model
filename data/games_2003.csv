@@ -1,0 +1,925 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 10 2003,South Asian Championship in Bangladesh,Pakistan,India,783,1133,1,0,35,-35,818,1098,206,185,1,-10,207,175,40,0,-350
+1,Jan 10 2003,South Asian Championship in Bangladesh,Sri Lanka,Afghanistan,914,862,1,0,17,-17,931,845,191,209,1,-3,192,206,40,0,52
+2,Jan 11 2003,South Asian Championship in Bangladesh,Bangladesh,Nepal,1012,882,1,0,8,-8,1020,874,185,201,1,-1,186,200,40,100,230
+3,Jan 11 2003,South Asian Championship in Bangladesh,Maldives,Bhutan,893,573,6,0,12,-12,905,561,192,225,3,0,195,225,40,0,320
+4,Jan 12 2003,Friendly in Barbados,Barbados,Jamaica,1344,1576,1,0,14,-14,1358,1562,118,62,4,0,122,62,20,100,-132
+5,Jan 12 2003,South Asian Championship in Bangladesh,India,Afghanistan,1098,845,4,0,14,-14,1112,831,163,208,6,-1,169,207,40,0,253
+6,Jan 12 2003,South Asian Championship in Bangladesh,Pakistan,Sri Lanka,818,931,2,1,26,-26,844,905,205,196,1,-2,206,194,40,0,-113
+7,Jan 13 2003,South Asian Championship in Bangladesh,Bangladesh,Maldives,1020,905,1,0,9,-9,1029,896,184,202,1,-4,185,198,40,100,215
+8,Jan 13 2003,South Asian Championship in Bangladesh,Nepal,Bhutan,874,561,2,0,8,-8,882,553,198,225,1,0,199,225,40,0,313
+9,Jan 14 2003,South Asian Championship in Bangladesh,India,Sri Lanka,1112,905,1,1,-11,11,1101,916,181,192,-6,1,175,193,30,100,307
+10,Jan 14 2003,South Asian Championship in Bangladesh,Pakistan,Afghanistan,844,831,1,0,19,-19,863,812,200,207,3,0,203,207,40,0,13
+11,Jan 15 2003,South Asian Championship in Bangladesh,Bangladesh,Bhutan,1029,553,3,0,2,-2,1031,551,185,225,0,0,185,225,20,0,476
+12,Jan 15 2003,South Asian Championship in Bangladesh,Maldives,Nepal,896,882,3,2,19,-19,915,863,190,205,4,-3,194,202,40,0,14
+13,Jan 17 2003,Friendly in the United States,El Salvador,Guatemala,1500,1532,0,0,1,-1,1501,1531,73,68,2,0,75,68,20,0,-32
+14,Jan 18 2003,South Asian Championship in Bangladesh,Bangladesh,India,1031,1101,2,1,18,-18,1049,1083,183,179,1,-2,184,177,30,0,-70
+15,Jan 18 2003,South Asian Championship in Bangladesh,Maldives,Pakistan,915,863,1,0,17,-17,932,846,190,210,2,-4,192,206,40,0,52
+16,Jan 18 2003,Friendly in the United States,United States,Canada,1826,1636,4,0,6,-6,1832,1630,14,50,1,0,15,50,20,100,290
+17,Jan 19 2003,Friendly in the United States,El Salvador,Guatemala,1501,1531,0,0,1,-1,1502,1530,73,68,1,0,74,68,20,0,-30
+18,Jan 20 2003,South Asian Championship in Bangladesh,Bangladesh,Maldives,1049,932,1,1,-11,11,1038,943,186,192,-1,0,185,192,40,100,217
+19,Jan 20 2003,South Asian Championship in Bangladesh,India,Pakistan,1083,846,2,1,8,-8,1091,838,175,206,1,0,176,206,40,0,237
+20,Jan 25 2003,Friendly in Uganda,Uganda,Algeria,1396,1502,0,1,-10,10,1386,1512,112,68,-1,3,111,71,20,100,-6
+21,Jan 26 2003,Friendly in Barbados,Barbados,Finland,1358,1664,0,0,5,-5,1363,1659,118,48,2,0,120,48,20,100,-206
+22,Jan 26 2003,Friendly in Ghana,Ghana,Benin,1506,1287,3,0,5,-5,1511,1282,72,137,0,-1,72,136,20,100,319
+23,Jan 26 2003,Friendly in the United Arab Emirates,United Arab Emirates,Norway,1409,1798,1,1,7,-7,1416,1791,102,27,2,-2,104,25,20,100,-289
+24,Jan 28 2003,Friendly in Oman,Oman,Norway,1436,1791,1,2,-4,4,1432,1795,101,21,-1,2,100,23,20,100,-255
+25,Jan 29 2003,Friendly in Cyprus,Cyprus,Greece,1504,1666,1,2,-8,8,1496,1674,83,42,-5,2,78,44,20,100,-62
+26,Jan 29 2003,Friendly in Trinidad and Tobago,Trinidad and Tobago,Finland,1474,1659,1,2,-8,8,1466,1667,91,46,-2,1,89,47,20,100,-85
+27,Jan 31 2003,Friendly in Honduras,Honduras,Argentina,1769,1994,1,3,-10,10,1759,2004,33,2,-2,1,31,3,20,100,-125
+28,Feb 4 2003,Friendly in the United States,Argentina,Mexico,2004,1832,1,0,5,-5,2009,1827,3,17,0,-1,3,16,20,0,172
+29,Feb 4 2003,Friendly tournament in Hong Kong,Iran,Uruguay,1709,1790,1,1,3,-3,1712,1787,36,26,0,0,36,26,30,0,-81
+30,Feb 8 2003,Friendly in the United States,United States,Argentina,1832,2009,0,1,-8,8,1824,2017,17,3,-1,0,16,3,20,100,-77
+31,Feb 9 2003,Friendly tournament in Croatia,Croatia,Macedonia,1803,1462,2,2,-13,13,1790,1475,28,83,-3,4,25,87,30,100,441
+32,Feb 9 2003,Friendly in Ecuador,Ecuador,Estonia,1721,1437,1,0,2,-2,1723,1435,35,100,0,-1,35,99,20,100,384
+33,Feb 9 2003,N Am Ch q & UNCAF Cup in Panama,Panama,El Salvador,1397,1502,1,2,-20,20,1377,1522,124,68,-8,3,116,71,40,100,-5
+34,Feb 11 2003,N Am Ch q & UNCAF Cup in Panama,Costa Rica,El Salvador,1752,1522,1,0,8,-8,1760,1514,30,71,1,0,31,71,40,0,230
+35,Feb 11 2003,N Am Ch q & UNCAF Cup in Panama,Honduras,Nicaragua,1759,913,2,0,0,0,1759,913,33,195,-1,0,32,195,20,0,846
+36,Feb 11 2003,Friendly in France,Ivory Coast,Cameroon,1542,1795,3,0,28,-28,1570,1767,57,34,5,-6,62,28,20,0,-253
+37,Feb 12 2003,Friendly in Italy,Albania,Vietnam,1445,1288,5,0,12,-12,1457,1276,88,142,4,-4,92,138,20,0,157
+38,Feb 12 2003,Friendly in Algeria,Algeria,Belgium,1512,1785,1,3,-8,8,1504,1793,76,18,-2,4,74,22,20,100,-173
+39,Feb 12 2003,Friendly in Barbados,Barbados,Martinique,1363,1445,3,3,-1,1,1362,1446,120,96,0,0,120,96,20,100,18
+40,Feb 12 2003,Friendly in Cyprus,Bulgaria,Hungary,1751,1593,1,0,6,-6,1757,1587,33,59,0,-1,33,58,20,0,158
+41,Feb 12 2003,Friendly in China,China,Brazil,1603,2057,0,0,8,-8,1611,2049,50,3,3,-1,53,2,20,100,-354
+42,Feb 12 2003,Friendly in the United States,Colombia,Mexico,1862,1827,0,0,-1,1,1861,1828,13,19,0,-2,13,17,20,0,35
+43,Feb 12 2003,Friendly tournament in Croatia,Croatia,Poland,1790,1708,0,0,-7,7,1783,1715,28,37,-2,0,26,37,30,100,182
+44,Feb 12 2003,Friendly tournament in Cyprus,Cyprus,Russia,1496,1807,0,1,-7,7,1489,1814,82,16,-2,2,80,18,30,100,-211
+45,Feb 12 2003,Friendly in Ecuador,Ecuador,Estonia,1723,1435,2,1,2,-2,1725,1433,37,99,-1,0,36,99,20,100,388
+46,Feb 12 2003,Friendly in Egypt,Egypt,Denmark,1607,1911,1,4,-8,8,1599,1919,57,9,-1,0,56,9,20,100,-204
+47,Feb 12 2003,Friendly in England,England,Australia,1953,1806,1,3,-24,24,1929,1830,6,9,0,6,6,15,20,100,247
+48,Feb 12 2003,Friendly in France,France,Czechia,1978,1872,0,2,-23,23,1955,1895,5,8,0,2,5,10,20,100,206
+49,Feb 12 2003,Friendly in Georgia,Georgia,Moldova,1584,1352,2,2,-7,7,1577,1359,62,119,-1,2,61,121,20,100,332
+50,Feb 12 2003,Friendly in Greece,Greece,Norway,1674,1795,1,0,11,-11,1685,1784,38,28,3,-3,41,25,20,100,-21
+51,Feb 12 2003,Friendly in Israel,Israel,Armenia,1687,1416,2,0,3,-3,1690,1413,39,108,1,-2,40,106,20,100,371
+52,Feb 12 2003,Friendly in Italy,Italy,Portugal,1878,1931,1,0,9,-9,1887,1922,13,8,-1,0,12,8,20,100,47
+53,Feb 12 2003,Friendly in Jamaica,Jamaica,United States,1562,1824,1,2,-6,6,1556,1830,65,14,-1,1,64,15,20,100,-162
+54,Feb 12 2003,Friendly in Turkey,Latvia,Lithuania,1468,1378,2,1,7,-7,1475,1371,83,121,3,-4,86,117,20,0,90
+55,Feb 12 2003,Friendly in Libya,Libya,Canada,1378,1630,2,4,-9,9,1369,1639,123,48,-5,1,118,49,20,100,-152
+56,Feb 12 2003,Friendly in France,Mali,Guinea,1493,1481,1,0,10,-10,1503,1471,70,93,5,-4,75,89,20,0,12
+57,Feb 12 2003,Friendly in Malta,Malta,Kazakhstan,1240,1453,2,2,3,-3,1243,1450,149,97,0,-2,149,95,20,100,-113
+58,Feb 12 2003,Friendly in France,Morocco,Senegal,1559,1779,1,0,16,-16,1575,1763,60,31,2,-2,62,29,20,0,-220
+59,Feb 12 2003,Friendly in the Netherlands,Netherlands,Argentina,2051,2017,1,0,6,-6,2057,2011,0,3,1,0,1,3,20,100,134
+60,Feb 12 2003,Friendly in Northern Ireland,Northern Ireland,Finland,1524,1667,0,1,-9,9,1515,1676,70,41,0,3,70,44,20,100,-43
+61,Feb 12 2003,Friendly tournament in Cyprus,Romania,Slovakia,1792,1672,2,1,10,-10,1802,1662,19,51,2,-3,21,48,30,0,120
+62,Feb 12 2003,Friendly in Scotland,Scotland,Ireland,1693,1848,0,2,-13,13,1680,1861,47,12,-4,1,43,13,20,100,-55
+63,Feb 12 2003,European Championship qual in Serbia and Montenegro,Serbia and Montenegro,Azerbaijan,1811,1308,2,2,-19,19,1792,1327,28,128,-5,1,23,129,40,100,603
+64,Feb 12 2003,Friendly in Slovenia,Slovenia,Switzerland,1659,1708,1,5,-21,21,1638,1729,51,33,-1,2,50,35,20,100,51
+65,Feb 12 2003,Friendly in Spain,Spain,Germany,1997,1937,3,1,9,-9,2006,1928,4,7,0,0,4,7,20,100,160
+66,Feb 12 2003,Friendly in Tunisia,Tunisia,Sweden,1618,1821,1,0,13,-13,1631,1808,50,23,1,-3,51,20,20,100,-103
+67,Feb 12 2003,Friendly in Turkey,Turkey,Ukraine,1895,1688,0,0,-7,7,1888,1695,12,38,-1,1,11,39,20,100,307
+68,Feb 12 2003,Friendly in Wales,Wales,Bosnia and Herzegovina,1676,1501,2,2,-7,7,1669,1508,49,71,-3,2,46,73,20,100,275
+69,Feb 13 2003,N Am Ch q & UNCAF Cup in Panama,Costa Rica,Guatemala,1760,1530,1,1,-12,12,1748,1542,35,68,-2,0,33,68,40,0,230
+70,Feb 13 2003,Friendly tournament in Cyprus,Cyprus,Slovakia,1489,1662,1,3,-18,18,1471,1680,96,38,-8,5,88,43,30,100,-73
+71,Feb 13 2003,N Am Ch q & UNCAF Cup in Panama,El Salvador,Nicaragua,1514,913,3,0,2,-2,1516,911,69,195,1,0,70,195,30,0,601
+72,Feb 14 2003,Friendly tournament in Croatia,Poland,Macedonia,1715,1475,3,0,11,-11,1726,1464,35,97,1,-6,36,91,30,0,240
+73,Feb 15 2003,Friendly in Benin,Benin,Ghana,1282,1511,1,0,14,-14,1296,1497,129,84,3,-6,132,78,20,100,-129
+74,Feb 15 2003,N Am Ch q & UNCAF Cup in Panama,Costa Rica,Nicaragua,1748,911,1,0,0,0,1748,911,31,195,1,0,32,195,20,0,837
+75,Feb 15 2003,N Am Ch q & UNCAF Cup in Panama,El Salvador,Honduras,1516,1759,1,0,32,-32,1548,1727,62,39,4,-4,66,35,40,0,-243
+76,Feb 16 2003,Friendly in China,China,Estonia,1611,1433,1,0,3,-3,1614,1430,53,101,0,-1,53,100,20,100,278
+77,Feb 16 2003,Friendly in The Gambia,Gambia,Nigeria,1359,1742,0,1,-3,3,1356,1745,125,33,-2,0,123,33,20,100,-283
+78,Feb 16 2003,N Am Ch q & UNCAF Cup in Panama,Panama,Guatemala,1377,1542,2,0,36,-36,1413,1506,98,75,8,-3,106,72,40,100,-65
+79,Feb 16 2003,King's Cup in Thailand,Sweden,Qatar,1808,1585,3,2,7,-7,1815,1578,16,59,2,0,18,59,30,0,223
+80,Feb 16 2003,King's Cup in Thailand,Thailand,North Korea,1426,1499,2,2,-1,1,1425,1500,101,77,0,0,101,77,20,100,27
+81,Feb 18 2003,N Am Ch q & UNCAF Cup in Panama,Guatemala,Nicaragua,1506,911,5,0,3,-3,1509,908,72,195,0,0,72,195,40,0,595
+82,Feb 18 2003,King's Cup in Thailand,North Korea,Sweden,1500,1815,1,1,11,-11,1511,1804,65,22,6,-2,71,20,30,0,-315
+83,Feb 18 2003,N Am Ch q & UNCAF Cup in Panama,Panama,Honduras,1413,1727,1,1,11,-11,1424,1716,98,39,4,-2,102,37,30,0,-314
+84,Feb 18 2003,King's Cup in Thailand,Thailand,Qatar,1425,1578,1,1,2,-2,1427,1576,101,63,0,-2,101,61,20,100,-53
+85,Feb 20 2003,N Am Ch q & UNCAF Cup in Panama,Costa Rica,Honduras,1748,1716,1,0,18,-18,1766,1698,24,39,4,-1,28,38,40,0,32
+86,Feb 20 2003,N Am Ch q & UNCAF Cup in Panama,Guatemala,El Salvador,1509,1548,2,0,33,-33,1542,1515,64,74,4,-4,68,70,40,0,-39
+87,Feb 20 2003,King's Cup in Thailand,North Korea,Qatar,1511,1576,2,2,3,-3,1514,1573,73,63,-1,-1,72,62,30,0,-65
+88,Feb 20 2003,King's Cup in Thailand,Thailand,Sweden,1427,1804,1,4,-9,9,1418,1813,107,18,-3,1,104,19,30,100,-277
+89,Feb 21 2003,N Am Ch q & UNCAF Cup in Panama,Panama,Nicaragua,1424,908,0,1,-39,39,1385,947,121,187,-10,4,111,191,40,100,616
+90,Feb 22 2003,East Asian Championship qual in Hong Kong,Hong Kong,Taiwan,1172,1024,2,0,12,-12,1184,1012,152,188,3,-1,155,187,40,100,248
+91,Feb 22 2003,East Asian Championship qual in Hong Kong,Macao,Mongolia,902,807,2,0,22,-22,924,785,193,208,2,0,195,208,40,0,95
+92,Feb 22 2003,COSAFA Cup in Madagascar,Madagascar,Mauritius,1424,1230,2,1,6,-6,1430,1224,101,152,0,0,101,152,40,100,294
+93,Feb 22 2003,Friendly in Malawi,Malawi,DR Congo,1349,1465,1,1,0,0,1349,1465,126,90,0,0,126,90,20,100,-16
+94,Feb 22 2003,King's Cup in Thailand,Sweden,North Korea,1813,1514,4,0,9,-9,1822,1505,17,74,1,-1,18,73,30,0,299
+95,Feb 22 2003,King's Cup in Thailand,Thailand,Qatar,1418,1573,3,1,26,-26,1444,1547,93,68,5,-3,98,65,30,100,-55
+96,Feb 23 2003,N Am Ch q & UNCAF Cup in Panama,Guatemala,Honduras,1542,1698,2,1,28,-28,1570,1670,56,54,6,-8,62,46,40,0,-156
+97,Feb 23 2003,Friendly in Malawi,Malawi,DR Congo,1349,1465,2,3,-10,10,1339,1475,126,80,0,5,126,85,20,100,-16
+98,Feb 23 2003,N Am Ch q & UNCAF Cup in Panama,Panama,Costa Rica,1385,1766,0,1,-7,7,1378,1773,115,26,-2,1,113,27,40,100,-281
+99,Feb 23 2003,Friendly in Peru,Peru,Haiti,1623,1501,5,1,8,-8,1631,1493,50,81,1,-2,51,79,20,100,222
+100,Feb 24 2003,East Asian Championship qual in Hong Kong,Hong Kong,Macao,1184,924,3,0,8,-8,1192,916,155,195,0,0,155,195,40,100,360
+101,Feb 24 2003,East Asian Championship qual in Hong Kong,Mongolia,Guam,785,660,2,0,20,-20,805,640,208,221,0,-1,208,220,40,0,125
+102,Feb 26 2003,East Asian Championship qual in Hong Kong,Macao,Guam,916,640,2,0,10,-10,926,630,195,222,0,-1,195,221,40,0,276
+103,Feb 26 2003,East Asian Championship qual in Hong Kong,Taiwan,Mongolia,1012,805,4,0,17,-17,1029,788,185,208,1,0,186,208,40,0,207
+104,Feb 28 2003,East Asian Championship qual in Hong Kong,Hong Kong,Mongolia,1192,788,10,0,5,-5,1197,783,155,208,0,0,155,208,20,0,404
+105,Feb 28 2003,East Asian Championship qual in Hong Kong,Taiwan,Guam,1029,630,7,0,8,-8,1037,622,186,221,0,0,186,221,40,0,399
+106,Mar 2 2003,East Asian Championship qual in Hong Kong,Hong Kong,Guam,1197,622,11,0,2,-2,1199,620,155,221,0,0,155,221,20,0,575
+107,Mar 2 2003,East Asian Championship qual in Hong Kong,Taiwan,Macao,1037,926,2,1,14,-14,1051,912,180,197,3,-1,183,196,40,0,111
+108,Mar 4 2003,Friendly in Singapore,Singapore,Maldives,1180,943,4,1,4,-4,1184,939,155,193,1,0,156,193,20,100,337
+109,Mar 4 2003,Friendly in Sudan,Sudan,DR Congo,1382,1475,1,3,-15,15,1367,1490,127,75,-8,5,119,80,20,100,7
+110,Mar 5 2003,Friendly in Israel,Israel,Moldova,1690,1359,0,0,-8,8,1682,1367,41,117,-1,2,40,119,20,100,431
+111,Mar 7 2003,Friendly tournament in Benin,Benin,Niger,1296,1326,1,1,-3,3,1293,1329,134,124,-1,3,133,127,30,100,70
+112,Mar 9 2003,Friendly in Botswana,Botswana,Lesotho,1154,1138,0,1,-13,13,1141,1151,168,160,-4,2,164,162,20,100,116
+113,Mar 9 2003,Friendly in the Dem Rep of the Congo,DR Congo,Congo,1490,1391,3,0,8,-8,1498,1383,74,111,3,-1,77,110,20,100,199
+114,Mar 11 2003,Friendly in Cuba,Cuba,Jamaica,1495,1556,0,0,-1,1,1494,1557,79,64,0,0,79,64,20,100,39
+115,Mar 12 2003,Friendly in Tanzania,Tanzania,Uganda,1289,1386,0,0,0,0,1289,1386,134,109,0,0,134,109,20,100,3
+116,Mar 13 2003,Friendly in Cuba,Cuba,Jamaica,1494,1557,1,0,9,-9,1503,1548,71,66,4,-1,75,65,20,100,37
+117,Mar 14 2003,Friendly tournament in Martinique,Martinique,French Guiana,1446,1120,2,1,2,-2,1448,1118,96,167,0,0,96,167,20,100,426
+118,Mar 15 2003,Friendly tournament in Martinique,French Guiana,Guadeloupe,1118,1368,2,2,9,-9,1127,1359,165,124,1,-3,166,121,30,0,-250
+119,Mar 15 2003,Friendly in Kenya,Kenya,Uganda,1503,1386,2,2,-6,6,1497,1392,81,109,-3,0,78,109,20,100,217
+120,Mar 15 2003,Friendly in Rwanda,Rwanda,Burundi,1329,1300,4,2,10,-10,1339,1290,125,135,1,-2,126,133,20,100,129
+121,Mar 16 2003,Asian Cup qualifier in Nepal,Afghanistan,Kyrgyzstan,812,1166,2,1,35,-35,847,1131,203,169,2,-5,205,164,40,0,-354
+122,Mar 16 2003,Friendly in Lesotho,Lesotho,DR Congo,1151,1498,2,2,6,-6,1157,1492,158,83,2,-3,160,80,20,100,-247
+123,Mar 16 2003,COSAFA Cup in Namibia,Namibia,Botswana,1200,1141,0,1,-29,29,1171,1170,162,154,-4,5,158,159,40,100,159
+124,Mar 16 2003,Friendly in Zimbabwe,Zimbabwe,Malawi,1476,1339,0,0,-6,6,1470,1345,93,126,-4,0,89,126,20,100,237
+125,Mar 18 2003,Asian Cup qualifier in Nepal,Nepal,Afghanistan,863,847,4,0,25,-25,888,822,196,209,3,-2,199,207,40,100,116
+126,Mar 19 2003,Friendly in Egypt,Egypt,Qatar,1599,1547,6,0,13,-13,1612,1534,52,70,2,-2,54,68,20,100,152
+127,Mar 19 2003,Friendly in the United States,Mexico,Bolivia,1828,1546,2,0,5,-5,1833,1541,13,67,2,0,15,67,20,0,282
+128,Mar 19 2003,Friendly in Swaziland,Swaziland,Lesotho,1246,1157,1,0,5,-5,1251,1152,146,164,0,-2,146,162,20,100,189
+129,Mar 20 2003,Asian Cup qualifier in Nepal,Nepal,Kyrgyzstan,888,1131,0,2,-18,18,870,1149,203,164,-2,0,201,164,40,100,-143
+130,Mar 21 2003,Asian Cup qualifier in the Maldives,Maldives,Brunei,939,726,1,1,-14,14,925,740,195,211,-1,0,194,211,40,100,313
+131,Mar 21 2003,Asian Cup qualifier in Singapore,Pakistan,Macao,838,912,3,0,42,-42,880,870,190,206,8,-5,198,201,40,0,-74
+132,Mar 21 2003,Asian Cup qualifier in Sri Lanka,Sri Lanka,East Timor,916,700,3,2,6,-6,922,694,195,216,0,0,195,216,40,100,316
+133,Mar 22 2003,COSAFA Cup in Mozambique,Mozambique,Lesotho,1244,1152,0,0,-10,10,1234,1162,152,158,-2,2,150,160,40,100,192
+134,Mar 22 2003,Friendly in Rwanda,Rwanda,Zambia,1339,1454,1,1,0,0,1339,1454,127,93,0,0,127,93,20,100,-15
+135,Mar 23 2003,Friendly in Benin,Benin,Equatorial Guinea,1293,1018,2,1,2,-2,1295,1016,130,187,1,0,131,187,20,100,375
+136,Mar 23 2003,Friendly in Jamaica,Jamaica,Barbados,1548,1362,2,1,3,-3,1551,1359,65,120,0,0,65,120,20,100,286
+137,Mar 23 2003,Friendly in Kenya,Kenya,Tanzania,1497,1289,4,0,5,-5,1502,1284,77,136,0,-1,77,135,20,100,308
+138,Mar 23 2003,Asian Cup qualifier in the Maldives,Myanmar,Brunei,1126,740,5,0,8,-8,1134,732,163,211,2,0,165,211,40,0,386
+139,Mar 23 2003,Asian Cup qualifier in Singapore,Singapore,Macao,1184,870,2,0,5,-5,1189,865,155,205,0,-2,155,203,40,100,414
+140,Mar 23 2003,Asian Cup qualifier in Sri Lanka,Taiwan,East Timor,1051,694,3,0,8,-8,1059,686,181,218,1,-1,182,217,40,0,357
+141,Mar 24 2003,Asian Cup qualifier in North Korea,North Korea,India,1505,1091,2,0,3,-3,1508,1088,71,176,1,0,72,176,20,0,414
+142,Mar 24 2003,Friendly in Rwanda,Rwanda,Zambia,1339,1454,0,3,-17,17,1322,1471,133,81,-3,6,130,87,20,100,-15
+143,Mar 25 2003,Asian Cup qualifier in Hong Kong,Hong Kong,Laos,1199,899,5,1,7,-7,1206,892,154,197,0,0,154,197,40,100,400
+144,Mar 25 2003,Asian Cup qualifier in the Maldives,Maldives,Myanmar,925,1134,0,2,-21,21,904,1155,196,157,-1,4,195,161,40,100,-109
+145,Mar 25 2003,Asian Cup qualifier in Singapore,Singapore,Pakistan,1189,880,3,0,6,-6,1195,874,155,200,0,-1,155,199,40,100,409
+146,Mar 25 2003,Asian Cup qualifier in Sri Lanka,Sri Lanka,Taiwan,922,1059,2,1,22,-22,944,1037,191,190,2,-4,193,186,40,100,-37
+147,Mar 26 2003,Friendly in Austria,Austria,Greece,1682,1685,2,2,-3,3,1679,1688,46,39,-3,0,43,39,20,100,97
+148,Mar 26 2003,Friendly in Burundi,Burundi,Burkina Faso,1290,1414,0,0,1,-1,1291,1413,131,105,1,0,132,105,20,100,-24
+149,Mar 26 2003,CONCACAF Champ qual in Trinidad and Tobago,Cuba,Guadeloupe,1503,1359,3,2,12,-12,1515,1347,65,130,5,-5,70,125,40,0,144
+150,Mar 26 2003,Friendly in Ethiopia,Ethiopia,Benin,1269,1295,3,0,14,-14,1283,1281,131,141,4,-5,135,136,20,100,74
+151,Mar 26 2003,CONCACAF Champ qual in Jamaica,Haiti,Martinique,1493,1448,2,1,17,-17,1510,1431,67,104,6,-4,73,100,40,0,45
+152,Mar 26 2003,CONCACAF Champ qual in Jamaica,Jamaica,Saint Lucia,1551,1267,5,0,8,-8,1559,1259,63,143,1,-1,64,142,40,100,384
+153,Mar 26 2003,Friendly in the United States,Mexico,Paraguay,1833,1763,1,1,-2,2,1831,1765,15,30,0,0,15,30,20,0,70
+154,Mar 26 2003,CONCACAF Champ qual in Trinidad and Tobago,Trinidad and Tobago,Antigua and Barbuda,1466,1107,2,0,4,-4,1470,1103,89,175,1,-3,90,172,40,100,459
+155,Mar 27 2003,Friendly tournament in Tunisia,Cameroon,Madagascar,1767,1430,2,0,6,-6,1773,1424,26,103,1,-1,27,102,30,0,337
+156,Mar 27 2003,Asian Cup qualifier in Hong Kong,Laos,Bangladesh,892,1038,2,1,28,-28,920,1010,193,189,2,-2,195,187,40,0,-146
+157,Mar 27 2003,Friendly in Serbia and Montenegro,Serbia and Montenegro,Bulgaria,1792,1757,1,2,-14,14,1778,1771,29,26,-3,3,26,29,20,100,135
+158,Mar 27 2003,Friendly tournament in Tunisia,Tunisia,Ghana,1631,1497,2,2,-9,9,1622,1506,53,73,-1,3,52,76,30,100,234
+159,Mar 28 2003,CONCACAF Champ qual in Trinidad and Tobago,Cuba,Antigua and Barbuda,1515,1103,2,0,5,-5,1520,1098,70,176,0,-2,70,174,40,0,412
+160,Mar 28 2003,CONCACAF Champ qual in Jamaica,Jamaica,Martinique,1559,1431,2,2,-12,12,1547,1443,66,96,-1,2,65,98,40,100,228
+161,Mar 28 2003,Friendly in Japan,Japan,Uruguay,1809,1787,2,2,-3,3,1806,1790,20,23,0,0,20,23,20,100,122
+162,Mar 28 2003,CONCACAF Champ qual in Jamaica,Saint Lucia,Haiti,1259,1510,2,1,32,-32,1291,1478,122,97,10,-12,132,85,40,0,-251
+163,Mar 28 2003,CONCACAF Champ qual in Trinidad and Tobago,Trinidad and Tobago,Guadeloupe,1470,1347,1,0,9,-9,1479,1338,78,127,6,-1,84,126,40,100,223
+164,Mar 29 2003,European Championship qual in Albania,Albania,Russia,1457,1814,3,1,49,-49,1506,1765,55,39,19,-10,74,29,40,100,-257
+165,Mar 29 2003,Friendly in Angola,Angola,Algeria,1489,1504,1,1,-2,2,1487,1506,82,72,-1,2,81,74,20,100,85
+166,Mar 29 2003,European Championship qual in Armenia,Armenia,Northern Ireland,1413,1515,1,0,20,-20,1433,1495,95,87,5,-8,100,79,40,100,-2
+167,Mar 29 2003,European Championship qual in Belarus,Belarus,Moldova,1552,1367,2,1,6,-6,1558,1361,64,120,0,-1,64,119,40,100,285
+168,Mar 29 2003,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Luxembourg,1508,1102,2,0,3,-3,1511,1099,71,174,1,-1,72,173,20,0,406
+169,Mar 29 2003,African Nations Cup qualifier in Cape Verde,Cape Verde,Togo,1329,1446,2,1,21,-21,1350,1425,121,108,3,-6,124,102,40,100,-17
+170,Mar 29 2003,Friendly in Costa Rica,Costa Rica,Paraguay,1773,1765,2,1,7,-7,1780,1758,19,33,4,-1,23,32,20,100,108
+171,Mar 29 2003,European Championship qual in Croatia,Croatia,Belgium,1783,1793,4,0,28,-28,1811,1765,13,36,6,-7,19,29,40,100,90
+172,Mar 29 2003,European Championship qual in Cyprus,Cyprus,Israel,1471,1682,1,1,6,-6,1477,1676,88,46,0,-3,88,43,40,100,-111
+173,Mar 29 2003,Friendly in Estonia,Estonia,Canada,1430,1639,2,1,13,-13,1443,1626,93,53,4,-2,97,51,20,100,-109
+174,Mar 29 2003,European Championship qual in France,France,Malta,1955,1243,6,0,1,-1,1956,1242,5,148,0,0,5,148,20,0,712
+175,Mar 29 2003,African Nations Cup qualifier in Gabon,Gabon,Equatorial Guinea,1397,1016,4,0,4,-4,1401,1012,108,186,0,0,108,186,20,0,381
+176,Mar 29 2003,European Championship qual in Georgia,Georgia,Ireland,1577,1861,1,2,-10,10,1567,1871,66,13,-3,0,63,13,40,100,-184
+177,Mar 29 2003,European Championship qual in Germany,Germany,Lithuania,1928,1371,1,1,-19,19,1909,1390,11,104,-2,6,9,110,40,100,657
+178,Mar 29 2003,European Championship qual in Italy,Italy,Finland,1887,1676,2,0,9,-9,1896,1667,10,52,1,-4,11,48,40,100,311
+179,Mar 29 2003,African Nations Cup qualifier in Kenya,Kenya,Mauritania,1502,1114,4,0,4,-4,1506,1110,70,168,4,0,74,168,20,0,388
+180,Mar 29 2003,European Championship qual in Liechtenstein,Liechtenstein,England,1070,1929,0,2,-1,1,1069,1930,180,10,0,-2,180,8,30,100,-759
+181,Mar 29 2003,European Championship qual in Macedonia,Macedonia,Slovakia,1464,1680,0,2,-20,20,1444,1700,98,37,-3,2,95,39,40,100,-116
+182,Mar 29 2003,African Nations Cup qualifier in Malawi,Malawi,Nigeria,1345,1745,0,1,-6,6,1339,1751,127,33,-1,0,126,33,40,100,-300
+183,Mar 29 2003,African Nations Cup qualifier in Mauritius,Mauritius,Egypt,1224,1612,0,1,-6,6,1218,1618,152,52,0,1,152,53,40,100,-288
+184,Mar 29 2003,European Championship qual in the Netherlands,Netherlands,Czechia,2057,1895,1,1,-13,13,2044,1908,1,10,0,0,1,10,40,100,262
+185,Mar 29 2003,European Championship qual in Poland,Poland,Hungary,1726,1587,0,0,-12,12,1714,1599,37,56,-1,1,36,57,40,100,239
+186,Mar 29 2003,Friendly in Portugal,Portugal,Brazil,1922,2049,2,1,11,-11,1933,2038,6,2,1,0,7,2,20,100,-27
+187,Mar 29 2003,European Championship qual in Romania,Romania,Denmark,1802,1919,2,5,-33,33,1769,1952,33,3,-6,3,27,6,40,100,-17
+188,Mar 29 2003,African Nations Cup qualifier in Rwanda,Rwanda,Uganda,1322,1392,0,0,-2,2,1320,1394,130,109,0,0,130,109,40,100,30
+189,Mar 29 2003,European Championship qual in Scotland,Scotland,Iceland,1680,1545,2,1,8,-8,1688,1537,39,68,1,-1,40,67,40,100,235
+190,Mar 29 2003,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Morocco,1352,1575,0,0,7,-7,1359,1568,117,63,3,-1,120,62,40,100,-123
+191,Mar 29 2003,Friendly in South Africa,South Africa,Madagascar,1665,1424,2,0,4,-4,1669,1420,46,106,1,-2,47,104,20,100,341
+192,Mar 29 2003,Friendly in South Korea,South Korea,Colombia,1766,1861,0,0,0,0,1766,1861,26,15,2,-1,28,14,20,100,5
+193,Mar 29 2003,African Nations Cup qualifier in Sudan,Sudan,Benin,1367,1281,3,0,18,-18,1385,1263,104,145,7,-4,111,141,40,100,186
+194,Mar 29 2003,African Nations Cup qualifier in Tanzania,Tanzania,Zambia,1284,1471,0,1,-15,15,1269,1486,143,78,-4,5,139,83,40,100,-87
+195,Mar 29 2003,European Championship qual in Ukraine,Ukraine,Spain,1695,2006,2,2,11,-11,1706,1995,38,4,0,0,38,4,30,0,-311
+196,Mar 29 2003,Friendly in the United States,United States,Venezuela,1830,1608,2,0,4,-4,1834,1604,14,57,1,-1,15,56,20,100,322
+197,Mar 29 2003,European Championship qual in Wales,Wales,Azerbaijan,1669,1327,4,0,5,-5,1674,1322,41,129,3,0,44,129,20,0,342
+198,Mar 30 2003,African Nations Cup qualifier in Burundi,Burundi,Ivory Coast,1291,1570,0,1,-11,11,1280,1581,140,58,-4,1,136,59,40,100,-179
+199,Mar 30 2003,African Nations Cup qualifier in Chad,Chad,Namibia,1269,1171,2,0,15,-15,1284,1156,129,162,5,-2,134,160,40,100,198
+200,Mar 30 2003,Friendly in Chile,Chile,Peru,1592,1631,2,0,12,-12,1604,1619,54,54,2,-2,56,52,20,100,61
+201,Mar 30 2003,African Nations Cup qualifier in Eritrea,Eritrea,Mali,1178,1503,0,2,-13,13,1165,1516,159,64,-1,7,158,71,40,100,-225
+202,Mar 30 2003,African Nations Cup qualifier in Ethiopia,Ethiopia,Liberia,1283,1487,1,0,26,-26,1309,1461,127,99,4,-9,131,90,40,100,-104
+203,Mar 30 2003,African Nations Cup qualifier in The Gambia,Gambia,Senegal,1356,1763,0,0,14,-14,1370,1749,113,35,5,-2,118,33,40,100,-307
+204,Mar 30 2003,Friendly tournament in Tunisia,Ghana,Madagascar,1506,1420,3,3,-4,4,1502,1424,80,102,-3,1,77,103,30,0,86
+205,Mar 30 2003,CONCACAF Champ qual in Trinidad and Tobago,Guadeloupe,Antigua and Barbuda,1338,1098,2,0,12,-12,1350,1086,121,180,3,-3,124,177,40,0,240
+206,Mar 30 2003,African Nations Cup qualifier in Guinea,Guinea,Niger,1471,1329,2,0,12,-12,1483,1317,77,132,7,-2,84,130,40,100,242
+207,Mar 30 2003,Asian Cup qualifier in Hong Kong,Hong Kong,Bangladesh,1206,1010,2,2,-14,14,1192,1024,156,185,-1,1,155,186,40,100,296
+208,Mar 30 2003,Asian Cup qualifier in India,India,North Korea,1088,1508,1,1,15,-15,1103,1493,168,85,4,-6,172,79,40,100,-320
+209,Mar 30 2003,CONCACAF Champ qual in Jamaica,Jamaica,Haiti,1547,1478,3,0,19,-19,1566,1459,63,95,1,-4,64,91,40,100,169
+210,Mar 30 2003,African Nations Cup qualifier in Libya,Libya,Botswana,1369,1170,0,0,-14,14,1355,1184,128,153,-5,3,123,156,40,100,299
+211,Mar 30 2003,CONCACAF Champ qual in Jamaica,Martinique,Saint Lucia,1443,1291,5,4,12,-12,1455,1279,87,142,5,-5,92,137,40,0,152
+212,Mar 30 2003,African Nations Cup qualifier in Mozambique,Mozambique,Burkina Faso,1234,1413,1,0,24,-24,1258,1389,138,114,6,-4,144,110,40,100,-79
+213,Mar 30 2003,African Nations Cup qualifier in Swaziland,Swaziland,DR Congo,1251,1492,1,1,8,-8,1259,1484,140,84,3,-2,143,82,40,100,-141
+214,Mar 30 2003,CONCACAF Champ qual in Trinidad and Tobago,Trinidad and Tobago,Cuba,1479,1520,1,3,-35,35,1444,1555,104,62,-9,4,95,66,40,100,59
+215,Mar 30 2003,Friendly tournament in Tunisia,Tunisia,Cameroon,1622,1773,1,0,17,-17,1639,1756,46,37,3,-6,49,31,30,100,-51
+216,Mar 30 2003,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Seychelles,1470,996,3,1,2,-2,1472,994,86,189,3,0,89,189,20,0,474
+217,Apr 2 2003,European Championship qual in Albania,Albania,Ireland,1506,1871,0,0,13,-13,1519,1858,70,15,2,-1,72,14,40,100,-265
+218,Apr 2 2003,Friendly in Belarus,Belarus,Uzbekistan,1558,1474,2,2,-5,5,1553,1479,69,82,-2,3,67,85,20,100,184
+219,Apr 2 2003,European Championship qual in Croatia,Croatia,Andorra,1811,1075,2,0,0,0,1811,1075,19,179,0,0,19,179,20,0,736
+220,Apr 2 2003,European Championship qual in Czechia,Czechia,Austria,1908,1679,4,0,10,-10,1918,1669,6,46,2,-2,8,44,40,100,329
+221,Apr 2 2003,European Championship qual in Denmark,Denmark,Bosnia and Herzegovina,1952,1511,0,2,-57,57,1895,1568,16,53,-5,10,11,63,40,100,541
+222,Apr 2 2003,European Championship qual in England,England,Turkey,1930,1888,2,0,18,-18,1948,1870,4,12,2,0,6,12,40,100,142
+223,Apr 2 2003,European Championship qual in Estonia,Estonia,Bulgaria,1443,1771,0,0,12,-12,1455,1759,86,33,6,-4,92,29,40,100,-228
+224,Apr 2 2003,European Championship qual in Italy,France,Israel,1956,1676,2,1,7,-7,1963,1669,5,45,0,-1,5,44,40,0,280
+225,Apr 2 2003,European Championship qual in Georgia,Georgia,Switzerland,1567,1729,0,0,4,-4,1571,1725,59,34,2,0,61,34,20,0,-162
+226,Apr 2 2003,Friendly in Honduras,Honduras,Paraguay,1670,1758,1,1,0,0,1670,1758,40,30,3,0,43,30,20,100,12
+227,Apr 2 2003,European Championship qual in Hungary,Hungary,Sweden,1599,1822,1,2,-13,13,1586,1835,58,12,0,3,58,15,40,100,-123
+228,Apr 2 2003,European Championship qual in Lithuania,Lithuania,Scotland,1390,1688,1,0,30,-30,1420,1658,101,56,4,-8,105,48,40,100,-198
+229,Apr 2 2003,European Championship qual in Luxembourg,Luxembourg,Norway,1099,1784,0,2,-2,2,1097,1786,174,22,0,0,174,22,40,100,-585
+230,Apr 2 2003,European Championship qual in Moldova,Moldova,Netherlands,1361,2044,1,2,-1,1,1360,2045,119,1,0,0,119,1,20,100,-583
+231,Apr 2 2003,European Championship qual in Northern Ireland,Northern Ireland,Greece,1495,1688,0,2,-22,22,1473,1710,94,36,-8,2,86,38,40,100,-93
+232,Apr 2 2003,Friendly in Peru,Peru,Chile,1619,1604,3,0,12,-12,1631,1592,50,58,1,-1,51,57,20,100,115
+233,Apr 2 2003,European Championship qual in Poland,Poland,San Marino,1714,945,5,0,1,-1,1715,944,36,192,0,0,36,192,30,0,769
+234,Apr 2 2003,Friendly in Switzerland,Portugal,Macedonia,1933,1444,1,0,1,-1,1934,1443,7,101,0,-3,7,98,20,0,489
+235,Apr 2 2003,European Championship qual in Slovakia,Slovakia,Liechtenstein,1700,1069,4,0,1,-1,1701,1068,41,180,-1,0,40,180,20,0,631
+236,Apr 2 2003,European Championship qual in Slovenia,Slovenia,Cyprus,1638,1477,4,1,13,-13,1651,1464,48,92,1,-3,49,89,40,100,261
+237,Apr 2 2003,European Championship qual in Spain,Spain,Armenia,1995,1433,3,0,2,-2,1997,1431,4,102,0,-1,4,101,30,0,562
+238,Apr 2 2003,Friendly in Ukraine,Ukraine,Latvia,1706,1475,1,0,3,-3,1709,1472,40,87,-1,0,39,87,20,100,331
+239,Apr 2 2003,Friendly in Venezuela,Venezuela,Jamaica,1604,1566,2,0,9,-9,1613,1557,54,66,1,-1,55,65,20,100,138
+240,Apr 16 2003,Friendly in South Korea,South Korea,Japan,1766,1806,0,1,-12,12,1754,1818,36,18,-5,1,31,19,20,100,60
+241,Apr 20 2003,COSAFA Cup in Zimbabwe,Zimbabwe,Angola,1472,1487,1,0,15,-15,1487,1472,71,95,8,-8,79,87,40,100,85
+242,Apr 23 2003,Asian Cup qualifier in Bhutan,Bhutan,Guam,551,620,6,0,39,-39,590,581,224,230,1,-4,225,226,40,100,31
+243,Apr 23 2003,CONCACAF Champ qual in Martinique,Martinique,Trinidad and Tobago,1455,1444,3,2,14,-14,1469,1430,86,106,3,-5,89,101,40,100,111
+244,Apr 24 2003,Friendly in France,Algeria,Madagascar,1506,1424,3,1,12,-12,1518,1412,71,109,2,-3,73,106,20,0,82
+245,Apr 25 2003,CONCACAF Champ qual in Martinique,Honduras,Trinidad and Tobago,1670,1430,2,0,12,-12,1682,1418,39,107,2,-3,41,104,40,0,240
+246,Apr 25 2003,Asian Cup qualifier in Bhutan,Mongolia,Guam,783,581,5,0,19,-19,802,562,208,226,0,0,208,226,40,0,202
+247,Apr 27 2003,Asian Cup qualifier in Bhutan,Bhutan,Mongolia,590,802,0,0,6,-6,596,796,223,208,1,0,224,208,40,100,-112
+248,Apr 27 2003,Friendly in the Faroe Islands,Faroe Islands,Kazakhstan,1253,1450,3,2,13,-13,1266,1437,135,99,6,-2,141,97,20,100,-97
+249,Apr 27 2003,Friendly in France,Mali,Madagascar,1516,1412,2,0,11,-11,1527,1401,68,108,3,-1,71,107,20,0,104
+250,Apr 27 2003,CONCACAF Champ qual in Martinique,Martinique,Honduras,1469,1682,2,4,-21,21,1448,1703,99,39,-5,1,94,40,40,100,-113
+251,Apr 29 2003,Friendly in the Faroe Islands,Faroe Islands,Kazakhstan,1266,1437,2,1,12,-12,1278,1425,137,103,2,-3,139,100,20,100,-71
+252,Apr 30 2003,European Championship qual in Andorra,Andorra,Estonia,1075,1455,0,2,-10,10,1065,1465,183,86,-2,3,181,89,40,100,-280
+253,Apr 30 2003,Friendly in Belgium,Belgium,Poland,1765,1715,3,1,9,-9,1774,1706,20,42,3,-3,23,39,20,100,150
+254,Apr 30 2003,Friendly in Bulgaria,Bulgaria,Albania,1759,1519,2,0,4,-4,1763,1515,28,75,0,-1,28,74,20,100,340
+255,Apr 30 2003,Friendly in Chile,Chile,Costa Rica,1592,1780,1,0,12,-12,1604,1768,57,29,0,-3,57,26,20,100,-88
+256,Apr 30 2003,Friendly in the United States,Colombia,Honduras,1861,1703,0,0,-4,4,1857,1707,15,36,-1,2,14,38,20,0,158
+257,Apr 30 2003,Friendly in Czechia,Czechia,Turkey,1918,1870,4,0,11,-11,1929,1859,8,14,0,-1,8,13,20,100,148
+258,Apr 30 2003,Friendly in Denmark,Denmark,Ukraine,1895,1709,1,0,3,-3,1898,1706,11,39,0,0,11,39,20,100,286
+259,Apr 30 2003,Friendly in Finland,Finland,Iceland,1667,1537,3,0,7,-7,1674,1530,41,71,3,-1,44,70,20,100,230
+260,Apr 30 2003,Friendly in France,France,Egypt,1963,1618,5,0,3,-3,1966,1615,5,55,0,-1,5,54,20,100,445
+261,Apr 30 2003,European Championship qual in Georgia,Georgia,Russia,1571,1765,1,0,25,-25,1596,1740,55,38,3,-6,58,32,40,100,-94
+262,Apr 30 2003,Friendly in Germany,Germany,Serbia and Montenegro,1909,1778,1,0,4,-4,1913,1774,9,22,0,1,9,23,20,100,231
+263,Apr 30 2003,Friendly in Hungary,Hungary,Luxembourg,1586,1097,5,1,1,-1,1587,1096,62,176,-2,-1,60,175,20,100,589
+264,Apr 30 2003,Friendly in Ireland,Ireland,Norway,1858,1786,1,0,5,-5,1863,1781,10,22,2,0,12,22,20,100,172
+265,Apr 30 2003,European Championship qual in Italy,Israel,Cyprus,1669,1464,2,0,14,-14,1683,1450,42,97,1,-4,43,93,40,0,205
+266,Apr 30 2003,European Championship qual in Latvia,Latvia,San Marino,1472,944,3,0,2,-2,1474,942,83,194,2,-1,85,193,20,0,528
+267,Apr 30 2003,Friendly in Libya,Libya,Argentina,1355,2011,1,3,-1,1,1354,2012,123,3,0,0,123,3,20,0,-656
+268,Apr 30 2003,Friendly in Liechtenstein,Liechtenstein,Saudi Arabia,1068,1671,1,0,19,-19,1087,1652,174,53,3,-5,177,48,20,0,-603
+269,Apr 30 2003,Friendly in Lithuania,Lithuania,Romania,1420,1769,0,1,-4,4,1416,1773,103,25,0,0,103,25,20,100,-249
+270,Apr 30 2003,European Championship qual in Malta,Malta,Slovenia,1242,1651,1,3,-9,9,1233,1660,151,45,-1,2,150,47,40,100,-309
+271,Apr 30 2003,Friendly in Mexico,Mexico,Brazil,1831,2038,0,0,3,-3,1834,2035,13,2,2,0,15,2,20,100,-107
+272,Apr 30 2003,Friendly in Morocco,Morocco,Ivory Coast,1568,1581,0,1,-12,12,1556,1593,69,59,-3,0,66,59,20,100,87
+273,Apr 30 2003,Friendly in the Netherlands,Netherlands,Portugal,2045,1934,1,1,-5,5,2040,1939,1,7,0,0,1,7,20,100,211
+274,Apr 30 2003,Friendly in Peru,Peru,Paraguay,1631,1758,0,1,-9,9,1622,1767,53,25,-1,2,52,27,20,100,-27
+275,Apr 30 2003,Friendly in Scotland,Scotland,Austria,1658,1669,0,2,-19,19,1639,1688,52,40,-2,2,50,42,20,100,89
+276,Apr 30 2003,Friendly in Slovakia,Slovakia,Greece,1701,1710,2,2,-3,3,1698,1713,41,34,0,2,41,36,20,100,91
+277,Apr 30 2003,Friendly in South Africa,South Africa,Jamaica,1669,1557,0,0,-5,5,1664,1562,48,65,-2,0,46,65,20,100,212
+278,Apr 30 2003,Friendly in Spain,Spain,Ecuador,1997,1725,4,0,4,-4,2001,1721,4,34,0,0,4,34,20,100,372
+279,Apr 30 2003,Friendly in Sweden,Sweden,Croatia,1835,1811,1,2,-13,13,1822,1824,23,16,-4,2,19,18,20,100,124
+280,Apr 30 2003,Friendly in Switzerland,Switzerland,Italy,1725,1896,1,2,-8,8,1717,1904,36,10,-1,0,35,10,20,100,-71
+281,Apr 30 2003,Friendly in Tunisia,Tunisia,Senegal,1639,1749,1,0,10,-10,1649,1739,48,33,1,0,49,33,20,100,-10
+282,Apr 30 2003,Friendly in Uzbekistan,Uzbekistan,Belarus,1479,1553,1,2,-11,11,1468,1564,91,61,-3,3,88,64,20,100,26
+283,Apr 30 2003,Friendly in Venezuela,Venezuela,Trinidad and Tobago,1613,1418,3,0,5,-5,1618,1413,51,106,2,-1,53,105,20,100,295
+284,May 1 2003,Friendly in Fiji,Fiji,Tuvalu,1380,752,9,0,1,-1,1381,751,113,210,0,0,113,210,20,0,628
+285,May 4 2003,African Nations Cup qualifier in Congo,Congo,Central African Republic,1383,1232,2,1,8,-8,1391,1224,108,151,2,0,110,151,40,100,251
+286,May 8 2003,Friendly in the United States,United States,Mexico,1834,1834,0,0,-3,3,1831,1837,17,15,-1,0,16,15,20,100,100
+287,May 16 2003,Friendly in Lesotho,Lesotho,Botswana,1162,1184,1,2,-12,12,1150,1196,169,152,-5,2,164,154,20,100,78
+288,May 17 2003,Friendly in Malawi,Malawi,Zambia,1339,1486,0,1,-9,9,1330,1495,127,76,0,2,127,78,20,100,-47
+289,May 21 2003,Friendly in Lesotho,Lesotho,Malawi,1150,1330,0,0,2,-2,1152,1328,162,127,1,0,163,127,20,100,-80
+290,May 21 2003,Friendly in Uganda,Uganda,Sudan,1394,1385,0,0,-3,3,1391,1388,109,112,0,0,109,112,20,100,109
+291,May 22 2003,Friendly in Norway,Norway,Finland,1781,1674,2,0,7,-7,1788,1667,22,46,0,-1,22,45,20,100,207
+292,May 22 2003,Friendly in South Africa,South Africa,England,1664,1948,1,2,-5,5,1659,1953,48,6,-1,0,47,6,20,100,-184
+293,May 24 2003,Friendly in Sudan,Sudan,Kenya,1388,1506,1,1,1,-1,1389,1505,110,76,1,0,111,76,20,100,-18
+294,May 25 2003,COSAFA Cup in Botswana,Botswana,Malawi,1196,1328,1,1,2,-2,1198,1326,154,127,0,0,154,127,40,100,-32
+295,May 25 2003,Friendly in Jamaica,Jamaica,Nigeria,1562,1751,3,2,13,-13,1575,1738,59,35,3,-2,62,33,20,100,-89
+296,May 25 2003,Friendly in Lesotho,Lesotho,Swaziland,1152,1259,2,1,10,-10,1162,1249,155,150,4,-3,159,147,20,100,-7
+297,May 25 2003,Friendly in Togo,Togo,Benin,1425,1263,3,1,5,-5,1430,1258,100,144,0,-1,100,143,20,100,262
+298,May 26 2003,Friendly in the United States,United States,Wales,1831,1674,2,0,6,-6,1837,1668,14,44,1,0,15,44,20,100,257
+299,May 27 2003,Friendly in Scotland,Scotland,New Zealand,1639,1578,1,1,-4,4,1635,1582,50,61,0,0,50,61,20,100,161
+300,May 28 2003,Friendly in Uganda,Uganda,Tanzania,1391,1269,3,1,7,-7,1398,1262,109,141,0,0,109,141,20,100,222
+301,May 29 2003,Friendly in France,Burkina Faso,Algeria,1389,1518,1,0,14,-14,1403,1504,103,79,4,-3,107,76,20,0,-129
+302,May 30 2003,Friendly tournament in Nigeria,Cameroon,Iran,1756,1712,2,1,13,-13,1769,1699,23,43,3,-3,26,40,30,0,44
+303,May 30 2003,Friendly tournament in Nigeria,Nigeria,Ghana,1738,1502,3,1,6,-6,1744,1496,29,77,2,0,31,77,20,0,236
+304,May 31 2003,Friendly in Gabon,Gabon,Angola,1401,1472,1,1,-1,1,1400,1473,112,85,-2,1,110,86,20,100,29
+305,May 31 2003,Friendly in The Gambia,Gambia,Mauritania,1370,1110,4,1,4,-4,1374,1106,116,168,1,0,117,168,20,100,360
+306,May 31 2003,Friendly in Japan,Japan,South Korea,1818,1754,0,1,-14,14,1804,1768,20,24,0,3,20,27,20,100,164
+307,May 31 2003,Friendly in Kenya,Kenya,Trinidad and Tobago,1505,1413,1,1,-5,5,1500,1418,77,101,-1,2,76,103,20,100,192
+308,May 31 2003,Friendly in Senegal,Senegal,Cape Verde,1739,1350,2,1,1,-1,1740,1349,31,128,1,-2,32,126,20,100,489
+309,May 31 2003,Friendly in Uganda,Uganda,Tanzania,1398,1262,1,0,4,-4,1402,1258,106,143,2,-1,108,142,20,100,236
+310,Jun 1 2003,Friendly in Germany,Germany,Canada,1913,1626,4,1,3,-3,1916,1623,9,51,0,0,9,51,20,100,387
+311,Jun 1 2003,Friendly tournament in Nigeria,Nigeria,Cameroon,1744,1769,3,0,21,-21,1765,1748,27,36,2,-5,29,31,30,100,75
+312,Jun 3 2003,Friendly in England,England,Serbia and Montenegro,1953,1774,2,1,3,-3,1956,1771,6,27,0,-2,6,25,20,100,279
+313,Jun 3 2003,Friendly tournament in France,Guadeloupe,French Guiana,1350,1127,1,0,7,-7,1357,1120,122,167,1,0,123,167,30,0,223
+314,Jun 3 2003,Friendly in Italy,Italy,Northern Ireland,1904,1473,2,0,1,-1,1905,1472,10,88,0,-1,10,87,20,100,531
+315,Jun 3 2003,Friendly in Uganda,Uganda,Libya,1402,1354,3,2,6,-6,1408,1348,104,129,2,-3,106,126,20,100,148
+316,Jun 6 2003,African Nations Cup qualifier in Mauritania,Mauritania,Kenya,1106,1500,0,0,14,-14,1120,1486,166,84,1,-4,167,80,40,100,-294
+317,Jun 6 2003,Friendly in Poland,Poland,Kazakhstan,1706,1425,3,0,4,-4,1710,1421,36,103,1,-1,37,102,20,100,381
+318,Jun 6 2003,Friendly in Portugal,Portugal,Paraguay,1939,1767,0,0,-7,7,1932,1774,7,18,0,5,7,23,20,100,272
+319,Jun 7 2003,European Championship qual in Belarus,Belarus,Netherlands,1564,2040,0,2,-6,6,1558,2046,65,1,0,0,65,1,40,100,-376
+320,Jun 7 2003,African Nations Cup qualifier in Botswana,Botswana,Libya,1198,1348,0,1,-17,17,1181,1365,160,114,-3,6,157,120,40,100,-50
+321,Jun 7 2003,European Championship qual in Bulgaria,Bulgaria,Belgium,1763,1774,2,2,-5,5,1758,1779,28,23,1,0,29,23,40,100,89
+322,Jun 7 2003,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Mozambique,1403,1258,4,0,15,-15,1418,1243,98,154,5,-6,103,148,40,100,245
+323,Jun 7 2003,European Championship qual in Denmark,Denmark,Norway,1898,1788,1,0,9,-9,1907,1779,7,24,2,-1,9,23,40,100,210
+324,Jun 7 2003,European Championship qual in Estonia,Estonia,Andorra,1465,1065,2,0,3,-3,1468,1062,81,181,4,0,85,181,20,0,400
+325,Jun 7 2003,European Championship qual in Finland,Finland,Serbia and Montenegro,1667,1771,3,0,35,-35,1702,1736,33,42,6,-8,39,34,40,100,-4
+326,Jun 7 2003,European Championship qual in Hungary,Hungary,Latvia,1587,1474,3,1,14,-14,1601,1460,56,93,2,-4,58,89,40,100,213
+327,Jun 7 2003,European Championship qual in Iceland,Iceland,Faroe Islands,1530,1278,2,1,5,-5,1535,1273,68,139,1,0,69,139,40,100,352
+328,Jun 7 2003,European Championship qual in Ireland,Ireland,Albania,1863,1515,2,1,3,-3,1866,1512,14,75,-1,-1,13,74,40,100,448
+329,Jun 7 2003,European Championship qual in Turkey,Israel,Slovenia,1683,1660,0,0,-1,1,1682,1661,41,44,1,1,42,45,20,0,23
+330,Jun 7 2003,European Championship qual in Macedonia,Macedonia,Liechtenstein,1443,1087,3,1,4,-4,1447,1083,94,179,1,-1,95,178,40,100,456
+331,Jun 7 2003,African Nations Cup qualifier in Mali,Mali,Eritrea,1527,1165,1,0,3,-3,1530,1162,71,160,0,-1,71,159,30,0,362
+332,Jun 7 2003,European Championship qual in Malta,Malta,Cyprus,1233,1450,1,2,-14,14,1219,1464,152,81,-1,6,151,87,40,100,-117
+333,Jun 7 2003,European Championship qual in Moldova,Moldova,Austria,1360,1688,1,0,32,-32,1392,1656,101,52,9,-5,110,47,40,100,-228
+334,Jun 7 2003,African Nations Cup qualifier in Namibia,Namibia,Chad,1156,1284,2,1,22,-22,1178,1262,156,146,2,-6,158,140,40,100,-28
+335,Jun 7 2003,African Nations Cup qualifier in Niger,Niger,Guinea,1317,1483,1,0,24,-24,1341,1459,126,97,2,-7,128,90,40,100,-66
+336,Jun 7 2003,African Nations Cup qualifier in Nigeria,Nigeria,Malawi,1765,1326,4,1,3,-3,1768,1323,23,131,3,-2,26,129,20,0,439
+337,Jun 7 2003,European Championship qual in Romania,Romania,Bosnia and Herzegovina,1773,1568,2,0,9,-9,1782,1559,19,64,3,0,22,64,40,100,305
+338,Jun 7 2003,European Championship qual in San Marino,San Marino,Sweden,942,1822,0,6,-1,1,941,1823,193,19,0,0,193,19,30,100,-780
+339,Jun 7 2003,European Championship qual in Scotland,Scotland,Germany,1635,1916,1,1,10,-10,1645,1906,50,11,0,-1,50,10,30,0,-281
+340,Jun 7 2003,African Nations Cup qualifier in Senegal,Senegal,Gambia,1740,1374,3,1,4,-4,1744,1370,32,121,0,-2,32,119,40,100,466
+341,Jun 7 2003,African Nations Cup qualifier in the Seychelles,Seychelles,Zimbabwe,994,1487,2,1,36,-36,1030,1451,183,105,3,-13,186,92,40,100,-393
+342,Jun 7 2003,European Championship qual in Slovakia,Slovakia,Turkey,1698,1859,0,1,-17,17,1681,1876,45,11,-2,1,43,12,40,100,-61
+343,Jun 7 2003,European Championship qual in Spain,Spain,Greece,2001,1713,0,1,-36,36,1965,1749,6,24,-1,6,5,30,40,100,388
+344,Jun 7 2003,European Championship qual in Switzerland,Switzerland,Russia,1717,1740,2,2,-4,4,1713,1744,37,32,-1,0,36,32,40,100,77
+345,Jun 7 2003,African Nations Cup qualifier in Uganda,Uganda,Rwanda,1408,1320,0,1,-30,30,1378,1350,122,121,-8,4,114,125,40,100,188
+346,Jun 7 2003,European Championship qual in Ukraine,Ukraine,Armenia,1706,1431,4,3,4,-4,1710,1427,35,101,2,-1,37,100,40,100,375
+347,Jun 7 2003,Friendly in the United States,Venezuela,Honduras,1618,1707,2,1,13,-13,1631,1694,49,44,2,-3,51,41,20,0,-89
+348,Jun 7 2003,African Nations Cup qualifier in Zambia,Zambia,Tanzania,1495,1258,2,0,8,-8,1503,1250,75,148,1,-3,76,145,40,100,337
+349,Jun 8 2003,African Nations Cup qualifier in Benin,Benin,Sudan,1258,1389,3,0,38,-38,1296,1351,122,136,10,-12,132,124,40,100,-31
+350,Jun 8 2003,African Nations Cup qualifier in Central African Republic,Central African Republic,Congo,1224,1391,0,0,4,-4,1228,1387,150,109,0,1,150,110,20,0,-167
+351,Jun 8 2003,Friendly in Spain,Colombia,Ecuador,1857,1721,0,0,-4,4,1853,1725,14,35,0,0,14,35,20,0,136
+352,Jun 8 2003,Friendly in Costa Rica,Costa Rica,Chile,1768,1604,1,0,4,-4,1772,1600,26,59,0,-1,26,58,20,100,264
+353,Jun 8 2003,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Swaziland,1484,1249,2,0,8,-8,1492,1241,78,150,1,-2,79,148,40,100,335
+354,Jun 8 2003,African Nations Cup qualifier in Egypt,Egypt,Mauritius,1615,1218,7,0,5,-5,1620,1213,54,152,0,0,54,152,40,100,497
+355,Jun 8 2003,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Gabon,1012,1400,2,1,34,-34,1046,1366,180,127,4,-9,184,118,40,100,-288
+356,Jun 8 2003,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Burundi,1593,1280,6,1,7,-7,1600,1273,56,143,2,-4,58,139,40,100,413
+357,Jun 8 2003,Friendly tournament in Japan,Japan,Argentina,1804,2012,1,4,-18,18,1786,2030,22,3,-1,0,21,3,30,100,-108
+358,Jun 8 2003,African Nations Cup qualifier in Liberia,Liberia,Ethiopia,1461,1309,1,0,8,-8,1469,1301,82,131,3,0,85,131,40,100,252
+359,Jun 8 2003,African Nations Cup qualifier in Morocco,Morocco,Sierra Leone,1556,1359,1,0,6,-6,1562,1353,62,125,2,-2,64,123,40,100,297
+360,Jun 8 2003,Friendly in South Korea,South Korea,Uruguay,1768,1790,0,2,-18,18,1750,1808,32,19,-3,1,29,20,20,100,78
+361,Jun 8 2003,African Nations Cup qualifier in Togo,Togo,Cape Verde,1430,1349,5,2,18,-18,1448,1331,89,129,5,-1,94,128,40,100,181
+362,Jun 8 2003,Friendly in the United States,United States,New Zealand,1837,1582,2,1,2,-2,1839,1580,15,61,0,0,15,61,20,100,355
+363,Jun 10 2003,Friendly in Botswana,Botswana,Trinidad and Tobago,1181,1418,0,0,4,-4,1185,1414,155,109,1,-3,156,106,20,100,-137
+364,Jun 10 2003,Friendly in Portugal,Portugal,Bolivia,1932,1541,4,0,2,-2,1934,1539,7,68,0,0,7,68,20,100,491
+365,Jun 11 2003,European Championship qual in Austria,Austria,Belarus,1656,1558,5,0,19,-19,1675,1539,41,70,3,-2,44,68,40,100,198
+366,Jun 11 2003,European Championship qual in Azerbaijan,Azerbaijan,Serbia and Montenegro,1322,1736,2,1,34,-34,1356,1702,116,38,7,-2,123,36,40,100,-314
+367,Jun 11 2003,European Championship qual in Belgium,Belgium,Andorra,1779,1062,3,0,1,-1,1780,1061,23,181,0,0,23,181,20,0,717
+368,Jun 11 2003,European Championship qual in Czechia,Czechia,Moldova,1929,1392,5,0,2,-2,1931,1390,8,107,0,1,8,108,20,0,537
+369,Jun 11 2003,Friendly in the United States,Ecuador,Peru,1725,1622,2,2,-3,3,1722,1625,33,51,1,1,34,52,20,0,103
+370,Jun 11 2003,European Championship qual in England,England,Slovakia,1956,1681,2,1,4,-4,1960,1677,4,43,1,0,5,43,40,100,375
+371,Jun 11 2003,European Championship qual in Estonia,Estonia,Croatia,1468,1824,0,1,-7,7,1461,1831,90,18,-2,0,88,18,40,100,-256
+372,Jun 11 2003,European Championship qual in the Faroe Islands,Faroe Islands,Germany,1273,1906,0,2,-3,3,1270,1909,141,10,-1,0,140,10,40,100,-533
+373,Jun 11 2003,European Championship qual in Finland,Finland,Italy,1702,1905,0,2,-21,21,1681,1926,43,7,-2,2,41,9,40,100,-103
+374,Jun 11 2003,European Championship qual in Greece,Greece,Ukraine,1749,1710,1,0,12,-12,1761,1698,24,39,3,-1,27,38,40,100,139
+375,Jun 11 2003,Friendly in Honduras,Honduras,Chile,1694,1600,1,2,-15,15,1679,1615,43,52,-1,3,42,55,20,100,194
+376,Jun 11 2003,European Championship qual in Ireland,Ireland,Georgia,1866,1596,2,0,6,-6,1872,1590,13,60,0,0,13,60,40,100,370
+377,Jun 11 2003,Friendly tournament in Japan,Japan,Paraguay,1786,1774,0,0,-5,5,1781,1779,23,23,-1,1,22,24,30,100,112
+378,Jun 11 2003,European Championship qual in Lithuania,Lithuania,Iceland,1416,1535,0,3,-33,33,1383,1568,116,59,-6,5,110,64,40,100,-19
+379,Jun 11 2003,European Championship qual in Luxembourg,Luxembourg,Denmark,1096,1907,0,2,-1,1,1095,1908,175,13,0,-2,175,11,30,100,-711
+380,Jun 11 2003,Friendly in Nigeria,Nigeria,Brazil,1768,2035,0,3,-10,10,1758,2045,29,2,-1,0,28,2,20,100,-167
+381,Jun 11 2003,European Championship qual in Norway,Norway,Romania,1779,1782,1,1,-5,5,1774,1787,27,20,-2,1,25,21,40,100,97
+382,Jun 11 2003,European Championship qual in Northern Ireland,Northern Ireland,Spain,1472,1965,0,0,16,-16,1488,1949,76,7,4,-1,80,6,40,100,-393
+383,Jun 11 2003,European Championship qual in San Marino,San Marino,Hungary,941,1601,0,5,-3,3,938,1604,193,59,0,-1,193,58,40,100,-560
+384,Jun 11 2003,Friendly in South Korea,South Korea,Argentina,1750,2030,0,1,-5,5,1745,2035,33,3,-2,0,31,3,20,100,-180
+385,Jun 11 2003,European Championship qual in Sweden,Sweden,Poland,1823,1710,3,0,16,-16,1839,1694,11,41,4,-2,15,39,40,100,213
+386,Jun 11 2003,European Championship qual in Switzerland,Switzerland,Albania,1713,1512,3,2,6,-6,1719,1506,34,74,1,0,35,74,40,100,301
+387,Jun 11 2003,European Championship qual in Turkey,Turkey,Macedonia,1876,1447,3,2,2,-2,1878,1445,12,96,0,0,12,96,20,0,429
+388,Jun 13 2003,Friendly in Andorra,Andorra,Gabon,1061,1366,0,2,-7,7,1054,1373,181,116,0,1,181,117,20,100,-205
+389,Jun 13 2003,Friendly in Ghana,Ghana,Kenya,1496,1486,1,3,-20,20,1476,1506,89,67,-6,7,83,74,20,100,110
+390,Jun 14 2003,Friendly in Papua New Guinea,Papua New Guinea,Solomon Islands,1088,1245,3,5,-13,13,1075,1258,182,140,-3,3,179,143,20,100,-57
+391,Jun 14 2003,African Nations Cup qualifier in Senegal,Senegal,Lesotho,1744,1162,3,0,1,-1,1745,1161,30,161,1,-1,31,160,20,0,582
+392,Jun 14 2003,Friendly in South Africa,South Africa,Trinidad and Tobago,1659,1414,2,1,2,-2,1661,1412,45,105,1,0,46,105,20,100,345
+393,Jun 18 2003,Confederations Cup in France,France,Colombia,1966,1853,1,0,11,-11,1977,1842,4,14,0,0,4,14,50,100,213
+394,Jun 18 2003,Confederations Cup in France,Japan,New Zealand,1781,1580,3,0,21,-21,1802,1559,20,69,1,-4,21,65,50,0,201
+395,Jun 19 2003,Confederations Cup in France,Cameroon,Brazil,1748,2045,1,0,42,-42,1790,2003,14,4,8,-1,22,3,50,0,-297
+396,Jun 19 2003,Confederations Cup in France,Turkey,United States,1878,1839,2,1,22,-22,1900,1817,12,23,0,-4,12,19,50,0,39
+397,Jun 20 2003,African Nations Cup qualifier in Algeria,Algeria,Namibia,1504,1178,1,0,3,-3,1507,1175,72,158,2,0,74,158,20,0,326
+398,Jun 20 2003,Confederations Cup in France,Colombia,New Zealand,1842,1559,3,1,12,-12,1854,1547,14,69,0,-2,14,67,50,0,283
+399,Jun 20 2003,African Nations Cup qualifier in Egypt,Egypt,Madagascar,1620,1401,6,0,12,-12,1632,1389,48,109,3,-1,51,108,40,100,319
+400,Jun 20 2003,Confederations Cup in France,France,Japan,1977,1802,2,1,9,-9,1986,1793,4,21,0,0,4,21,50,100,275
+401,Jun 20 2003,African Nations Cup qualifier in Morocco,Morocco,Gabon,1562,1373,2,0,10,-10,1572,1363,60,121,2,-2,62,119,40,100,289
+402,Jun 21 2003,Confederations Cup in France,Brazil,United States,2003,1817,1,0,13,-13,2016,1804,3,23,0,-2,3,21,50,0,186
+403,Jun 21 2003,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Congo,1418,1387,3,0,22,-22,1440,1365,93,125,5,-8,98,117,40,100,131
+404,Jun 21 2003,Confederations Cup in France,Cameroon,Turkey,1790,1900,1,0,33,-33,1823,1867,16,14,3,-1,19,13,50,0,-110
+405,Jun 21 2003,African Nations Cup qualifier in Cape Verde,Cape Verde,Mauritania,1331,1120,3,0,10,-10,1341,1110,127,169,1,-1,128,168,40,100,311
+406,Jun 21 2003,African Nations Cup qualifier in Eritrea,Eritrea,Seychelles,1162,1030,1,0,8,-8,1170,1022,159,189,0,-1,159,188,40,100,232
+407,Jun 21 2003,African Nations Cup qualifier in Ghana,Guinea,Liberia,1459,1469,2,1,21,-21,1480,1448,78,101,6,-8,84,93,40,0,-10
+408,Jun 21 2003,African Nations Cup qualifier in Nigeria,Nigeria,Angola,1758,1473,2,2,-16,16,1742,1489,37,76,-4,4,33,80,40,100,385
+409,Jun 21 2003,African Nations Cup qualifier in Zambia,Zambia,Sudan,1503,1351,1,1,-12,12,1491,1363,81,113,-2,6,79,119,40,100,252
+410,Jun 22 2003,Confederations Cup in France,Colombia,Japan,1854,1793,1,0,21,-21,1875,1772,10,30,2,-4,12,26,50,0,61
+411,Jun 22 2003,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Libya,1492,1365,2,1,9,-9,1501,1356,74,131,2,-7,76,124,40,100,227
+412,Jun 22 2003,African Nations Cup qualifier in Ethiopia,Ethiopia,Niger,1301,1341,2,0,25,-25,1326,1316,127,136,2,-4,129,132,30,0,-40
+413,Jun 22 2003,Confederations Cup in France,France,New Zealand,1986,1547,5,0,4,-4,1990,1543,4,67,0,0,4,67,30,0,439
+414,Jun 22 2003,African Nations Cup qualifier in Ghana,Ghana,Uganda,1476,1378,1,1,-10,10,1466,1388,89,107,-2,2,87,109,40,100,198
+415,Jun 22 2003,Friendly in the United States,Honduras,Guatemala,1679,1570,2,1,7,-7,1686,1563,38,65,2,-1,40,64,20,0,109
+416,Jun 22 2003,African Nations Cup qualifier in Mali,Mali,Zimbabwe,1530,1451,0,0,-9,9,1521,1460,73,89,-1,1,72,90,40,100,179
+417,Jun 22 2003,African Nations Cup qualifier in Mozambique,Mozambique,Central African Republic,1243,1228,1,0,14,-14,1257,1214,143,152,2,-1,145,151,30,0,15
+418,Jun 22 2003,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Equatorial Guinea,1353,1046,2,0,5,-5,1358,1041,119,186,3,-1,122,185,40,100,407
+419,Jun 22 2003,African Nations Cup qualifier in South Africa,South Africa,Ivory Coast,1661,1600,2,1,11,-11,1672,1589,44,61,1,-1,45,60,40,100,161
+420,Jun 22 2003,African Nations Cup qualifier in Swaziland,Swaziland,Botswana,1241,1185,3,2,12,-12,1253,1173,146,160,1,-2,147,158,40,100,156
+421,Jun 22 2003,African Nations Cup qualifier in Tanzania,Tanzania,Benin,1250,1296,0,1,-23,23,1227,1319,152,130,-3,1,149,131,40,100,54
+422,Jun 22 2003,African Nations Cup qualifier in Togo,Togo,Kenya,1448,1506,2,0,26,-26,1474,1480,77,91,8,-8,85,83,30,0,-58
+423,Jun 23 2003,Confederations Cup in France,Brazil,Turkey,2016,1867,2,2,-10,10,2006,1877,3,10,0,2,3,12,50,0,149
+424,Jun 23 2003,Confederations Cup in France,Cameroon,United States,1823,1804,0,0,-1,1,1822,1805,19,21,0,0,19,21,20,0,19
+425,Jun 26 2003,Confederations Cup in France,Cameroon,Colombia,1822,1875,1,0,29,-29,1851,1846,9,17,5,-2,14,15,50,0,-53
+426,Jun 26 2003,Confederations Cup in France,France,Turkey,1990,1877,3,2,11,-11,2001,1866,4,14,0,-1,4,13,50,100,213
+427,Jun 26 2003,Friendly in the United States,Peru,Venezuela,1625,1631,1,0,10,-10,1635,1621,49,56,2,-2,51,54,20,0,-6
+428,Jun 27 2003,Friendly in Panama,Panama,Cuba,1378,1555,2,0,18,-18,1396,1537,102,72,5,-3,107,69,20,100,-77
+429,Jun 28 2003,Confederations Cup in France,Turkey,Colombia,1866,1846,2,1,24,-24,1890,1822,11,23,1,-4,12,19,50,0,20
+430,Jun 29 2003,Confederations Cup in France,France,Cameroon,2001,1851,1,0,10,-10,2011,1841,2,14,1,0,3,14,50,100,250
+431,Jun 29 2003,Friendly in Honduras,Honduras,El Salvador,1686,1515,1,1,-7,7,1679,1522,44,71,-2,1,42,72,20,100,271
+432,Jun 29 2003,Friendly in Panama,Panama,Cuba,1396,1537,1,0,11,-11,1407,1526,105,71,1,-1,106,70,20,100,-41
+433,Jun 30 2003,South Pacific Games in Fiji,Fiji,Vanuatu,1381,1151,0,0,-15,15,1366,1166,120,156,-4,4,116,160,40,100,330
+434,Jun 30 2003,Island Games in the United Kingdom,Gibraltar,Greenland,1052,1008,2,0,26,-26,1078,982,174,189,4,0,178,189,40,0,44
+435,Jun 30 2003,South Pacific Games in Fiji,New Caledonia,Papua New Guinea,1097,1075,2,0,28,-28,1125,1047,160,187,7,-4,167,183,40,0,22
+436,Jun 30 2003,South Pacific Games in Fiji,Tahiti,FS Micronesia,1374,618,17,0,2,-2,1376,616,111,222,2,0,113,222,40,0,756
+437,Jun 30 2003,South Pacific Games in Fiji,Tuvalu,Kiribati,751,599,3,2,12,-12,763,587,210,227,0,-2,210,225,40,0,152
+438,Jul 1 2003,South Pacific Games in Fiji,Fiji,Tuvalu,1366,763,4,0,1,-1,1367,762,116,210,0,0,116,210,20,0,603
+439,Jul 1 2003,South Pacific Games in Fiji,New Caledonia,FS Micronesia,1125,616,18,0,7,-7,1132,609,165,222,1,0,166,222,40,0,509
+440,Jul 1 2003,South Pacific Games in Fiji,Papua New Guinea,Tonga,1047,660,2,2,-16,16,1031,676,189,218,-3,1,186,219,40,0,387
+441,Jul 1 2003,South Pacific Games in Fiji,Solomon Islands,Vanuatu,1258,1166,2,2,-5,5,1253,1171,149,158,-3,1,146,159,20,100,192
+442,Jul 2 2003,Friendly in the United States,Paraguay,El Salvador,1779,1522,1,0,4,-4,1783,1518,22,74,1,-1,23,73,20,0,257
+443,Jul 2 2003,Friendly in the United States,Peru,Guatemala,1635,1563,2,1,8,-8,1643,1555,51,66,0,-1,51,65,20,0,72
+444,Jul 3 2003,Baltic Cup in Estonia,Estonia,Lithuania,1461,1383,1,5,-41,41,1420,1424,119,91,-15,10,104,101,30,100,178
+445,Jul 3 2003,South Pacific Games in Fiji,New Caledonia,Tonga,1132,676,4,0,5,-5,1137,671,166,221,0,-1,166,220,40,0,456
+446,Jul 3 2003,South Pacific Games in Fiji,Solomon Islands,Kiribati,1253,587,7,0,2,-2,1255,585,146,225,0,0,146,225,40,0,666
+447,Jul 3 2003,South Pacific Games in Fiji,Tahiti,Papua New Guinea,1376,1031,3,0,8,-8,1384,1023,111,188,1,-1,112,187,40,0,345
+448,Jul 3 2003,Friendly in Trinidad and Tobago,Trinidad and Tobago,Venezuela,1412,1621,2,2,3,-3,1415,1618,107,54,-1,0,106,54,20,100,-109
+449,Jul 3 2003,South Pacific Games in Fiji,Vanuatu,Tuvalu,1171,762,1,0,3,-3,1174,759,157,210,1,0,158,210,30,0,409
+450,Jul 4 2003,Baltic Cup in Estonia,Latvia,Lithuania,1460,1424,2,1,13,-13,1473,1411,83,111,3,-5,86,106,30,0,36
+451,Jul 5 2003,African Nations Cup qualifier in Botswana,Botswana,DR Congo,1173,1501,0,0,12,-12,1185,1489,155,80,2,-2,157,78,40,100,-228
+452,Jul 5 2003,Baltic Cup in Estonia,Estonia,Latvia,1420,1473,0,0,-2,2,1418,1475,103,84,0,1,103,85,30,100,47
+453,Jul 5 2003,South Pacific Games in Fiji,Fiji,Kiribati,1367,585,12,0,1,-1,1368,584,114,223,1,1,115,224,20,0,782
+454,Jul 5 2003,African Nations Cup qualifier in Kenya,Kenya,Cape Verde,1480,1341,1,0,8,-8,1488,1333,77,128,3,0,80,128,40,100,239
+455,Jul 5 2003,African Nations Cup qualifier in Libya,Libya,Swaziland,1356,1253,6,2,18,-18,1374,1235,102,151,11,-2,113,149,40,100,203
+456,Jul 5 2003,African Nations Cup qualifier in Madagascar,Madagascar,Mauritius,1389,1213,0,2,-50,50,1339,1263,142,130,-16,11,126,141,40,100,276
+457,Jul 5 2003,African Nations Cup qualifier in Mauritania,Mauritania,Togo,1110,1474,0,0,13,-13,1123,1461,167,95,1,-5,168,90,40,100,-264
+458,Jul 5 2003,South Pacific Games in Fiji,New Caledonia,Tahiti,1137,1384,4,0,60,-60,1197,1324,142,148,12,-18,154,130,40,0,-247
+459,Jul 5 2003,African Nations Cup qualifier in Niger,Niger,Liberia,1316,1448,1,0,22,-22,1338,1426,122,107,5,-7,127,100,40,100,-32
+460,Jul 5 2003,African Nations Cup qualifier in the Seychelles,Seychelles,Mali,1022,1521,0,2,-5,5,1017,1526,188,68,0,2,188,70,40,100,-399
+461,Jul 5 2003,South Pacific Games in Fiji,Solomon Islands,Tuvalu,1255,759,4,0,4,-4,1259,755,142,210,2,0,144,210,40,0,496
+462,Jul 5 2003,South Pacific Games in Fiji,Tonga,FS Micronesia,671,609,7,0,37,-37,708,572,204,228,8,-3,212,225,40,0,62
+463,Jul 5 2003,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Eritrea,1460,1170,2,0,6,-6,1466,1164,84,162,3,-1,87,161,40,100,390
+464,Jul 6 2003,African Nations Cup qualifier in Angola,Angola,Malawi,1489,1323,5,1,13,-13,1502,1310,72,133,3,-1,75,132,40,100,266
+465,Jul 6 2003,African Nations Cup qualifier in Benin,Benin,Zambia,1319,1491,3,0,42,-42,1361,1449,104,107,14,-15,118,92,40,100,-72
+466,Jul 6 2003,African Nations Cup qualifier in Burundi,Burundi,South Africa,1273,1672,0,2,-9,9,1264,1681,145,37,-3,4,142,41,40,100,-299
+467,Jul 6 2003,African Nations Cup qualifier in Chad,Chad,Algeria,1262,1507,0,0,8,-8,1270,1499,136,78,3,-2,139,76,40,100,-145
+468,Jul 6 2003,African Nations Cup qualifier in Central African Republic,Central African Republic,Burkina Faso,1214,1440,0,3,-23,23,1191,1463,160,80,-4,8,156,88,40,100,-126
+469,Jul 6 2003,African Nations Cup qualifier in Congo,Congo,Mozambique,1365,1257,0,0,-11,11,1354,1268,130,136,-7,5,123,141,40,100,208
+470,Jul 6 2003,Friendly in the United States,El Salvador,Mexico,1518,1837,2,1,17,-17,1535,1820,67,22,3,-3,70,19,20,0,-319
+471,Jul 6 2003,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Morocco,1041,1572,0,1,-3,3,1038,1575,184,60,0,1,184,61,40,100,-431
+472,Jul 6 2003,African Nations Cup qualifier in Gabon,Gabon,Sierra Leone,1363,1358,2,0,21,-21,1384,1337,105,135,6,-7,111,128,40,100,105
+473,Jul 6 2003,African Nations Cup qualifier in Guinea,Guinea,Ethiopia,1480,1326,3,0,13,-13,1493,1313,70,133,7,-2,77,131,40,100,254
+474,Jul 6 2003,Friendly in Jamaica,Jamaica,Cuba,1575,1526,1,2,-14,14,1561,1540,65,64,-2,3,63,67,20,100,149
+475,Jul 6 2003,African Nations Cup qualifier in Lesotho,Lesotho,Gambia,1161,1370,1,0,26,-26,1187,1344,152,136,5,-11,157,125,40,100,-109
+476,Jul 6 2003,African Nations Cup qualifier in Rwanda,Rwanda,Ghana,1350,1466,1,0,21,-21,1371,1445,106,101,9,-7,115,94,40,100,-16
+477,Jul 6 2003,Friendly in the United States,United States,Paraguay,1805,1783,2,0,10,-10,1815,1773,19,27,1,-2,20,25,20,100,122
+478,Jul 7 2003,South Pacific Games in Fiji,Fiji,Solomon Islands,1368,1259,2,1,9,-9,1377,1250,110,149,3,-2,113,147,40,100,209
+479,Jul 7 2003,South Pacific Games in Fiji,Papua New Guinea,FS Micronesia,1023,572,10,0,7,-7,1030,565,185,225,1,0,186,225,40,0,451
+480,Jul 7 2003,South Pacific Games in Fiji,Tahiti,Tonga,1324,708,4,0,2,-2,1326,706,130,212,0,0,130,212,30,0,616
+481,Jul 7 2003,South Pacific Games in Fiji,Vanuatu,Kiribati,1174,584,18,0,5,-5,1179,579,159,224,1,0,160,224,40,0,590
+482,Jul 8 2003,Friendly in the United States,Guatemala,El Salvador,1555,1535,2,1,9,-9,1564,1526,61,72,2,-1,63,71,20,0,20
+483,Jul 9 2003,South Pacific Games in Fiji,Fiji,Tahiti,1377,1326,2,1,12,-12,1389,1314,107,130,3,0,110,130,40,100,151
+484,Jul 9 2003,Friendly in Jamaica,Jamaica,Paraguay,1561,1773,2,0,20,-20,1581,1753,58,33,3,-4,61,29,20,100,-112
+485,Jul 9 2003,South Pacific Games in Fiji,New Caledonia,Vanuatu,1197,1179,1,1,-1,1,1196,1180,153,160,0,0,153,160,20,0,18
+486,Jul 11 2003,South Pacific Games in Fiji,Fiji,New Caledonia,1389,1196,2,0,9,-9,1398,1187,108,161,1,-4,109,157,40,100,293
+487,Jul 11 2003,South Pacific Games in Fiji,Vanuatu,Tahiti,1180,1314,1,0,27,-27,1207,1287,146,136,7,-3,153,133,40,0,-134
+488,Jul 12 2003,CONCACAF Championship in the United States,Canada,Costa Rica,1623,1772,1,0,35,-35,1658,1737,43,41,5,-8,48,33,50,0,-149
+489,Jul 12 2003,CONCACAF Championship in the United States,United States,El Salvador,1815,1526,2,0,7,-7,1822,1519,16,75,2,-2,18,73,30,0,289
+490,Jul 13 2003,CONCACAF Championship in the United States,Colombia,Jamaica,1822,1581,1,0,10,-10,1832,1571,16,63,1,-1,17,62,50,0,241
+491,Jul 13 2003,CONCACAF Championship in Mexico,Mexico,Brazil,1820,2006,1,0,31,-31,1851,1975,8,4,6,0,14,4,50,100,-86
+492,Jul 13 2003,COSAFA Cup in Swaziland,Swaziland,Madagascar,1235,1339,2,0,30,-30,1265,1309,135,136,7,-5,142,131,40,100,-4
+493,Jul 14 2003,CONCACAF Championship in the United States,Cuba,Canada,1540,1658,2,0,50,-50,1590,1608,51,64,8,-8,59,56,50,0,-118
+494,Jul 14 2003,CONCACAF Championship in the United States,United States,Martinique,1822,1448,2,0,5,-5,1827,1443,20,99,0,-3,20,96,30,0,374
+495,Jul 15 2003,CONCACAF Championship in Mexico,Brazil,Honduras,1975,1679,2,1,8,-8,1983,1671,4,47,0,-2,4,45,50,0,296
+496,Jul 15 2003,CONCACAF Championship in the United States,Jamaica,Guatemala,1571,1564,2,0,37,-37,1608,1527,49,75,7,-5,56,70,50,0,7
+497,Jul 16 2003,Friendly in Argentina,Argentina,Uruguay,2035,1808,2,2,-7,7,2028,1815,2,21,0,0,2,21,20,100,327
+498,Jul 16 2003,CONCACAF Championship in the United States,Costa Rica,Cuba,1737,1590,3,0,26,-26,1763,1564,19,68,7,-4,26,64,50,0,147
+499,Jul 16 2003,CONCACAF Championship in the United States,El Salvador,Martinique,1519,1443,1,0,20,-20,1539,1423,61,104,6,-4,67,100,50,0,76
+500,Jul 17 2003,CONCACAF Championship in the United States,Colombia,Guatemala,1832,1527,1,1,-18,18,1814,1545,25,61,-4,5,21,66,50,0,305
+501,Jul 17 2003,CONCACAF Championship in Mexico,Mexico,Honduras,1851,1671,0,0,-17,17,1834,1688,18,35,-2,5,16,40,50,100,280
+502,Jul 19 2003,CONCACAF Championship in the United States,Brazil,Colombia,1983,1814,2,0,21,-21,2004,1793,4,21,0,0,4,21,50,0,169
+503,Jul 19 2003,CONCACAF Championship in the United States,Costa Rica,El Salvador,1763,1539,5,2,19,-19,1782,1520,20,78,3,-5,23,73,50,0,224
+504,Jul 19 2003,COSAFA Cup in South Africa,South Africa,Zimbabwe,1681,1466,0,1,-34,34,1647,1500,56,66,-7,10,49,76,40,100,315
+505,Jul 19 2003,CONCACAF Championship in the United States,United States,Cuba,1827,1564,5,0,11,-11,1838,1553,13,66,3,-1,16,65,30,0,263
+506,Jul 20 2003,CONCACAF Championship in Mexico,Mexico,Jamaica,1834,1608,5,0,13,-13,1847,1595,11,62,3,-3,14,59,30,0,226
+507,Jul 23 2003,CONCACAF Championship in the United States,United States,Brazil,1838,2004,1,2,-20,20,1818,2024,21,2,-2,1,19,3,50,100,-66
+508,Jul 24 2003,CONCACAF Championship in Mexico,Mexico,Costa Rica,1847,1782,2,0,21,-21,1868,1761,14,29,0,-3,14,26,50,100,165
+509,Jul 24 2003,Friendly in Peru,Peru,Uruguay,1643,1815,3,4,-8,8,1635,1823,51,18,0,1,51,19,20,100,-72
+510,Jul 26 2003,Friendly in England,Nigeria,Venezuela,1742,1618,1,0,7,-7,1749,1611,25,57,4,-2,29,55,20,0,124
+511,Jul 26 2003,CONCACAF Championship in the United States,United States,Costa Rica,1818,1761,3,2,14,-14,1832,1747,14,34,3,-4,17,30,50,100,157
+512,Jul 27 2003,CONCACAF Championship in Mexico,Mexico,Brazil,1868,2024,1,0,29,-29,1897,1995,10,5,2,-1,12,4,50,100,-56
+513,Jul 27 2003,COSAFA Cup in Zambia,Zambia,Mozambique,1449,1268,4,2,10,-10,1459,1258,88,149,2,-4,90,145,40,100,281
+514,Jul 29 2003,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Haiti,1376,1459,1,0,14,-14,1390,1445,106,94,4,-2,110,92,30,100,17
+515,Jul 30 2003,Friendly in Uruguay,Uruguay,Peru,1823,1635,1,0,3,-3,1826,1632,20,51,0,0,20,51,20,100,288
+516,Jul 31 2003,Friendly tournament in Saint Kitts and Nevis,Haiti,Trinidad and Tobago,1445,1415,2,0,21,-21,1466,1394,82,113,5,-4,87,109,30,0,30
+517,Aug 2 2003,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Trinidad and Tobago,1390,1394,1,2,-19,19,1371,1413,120,101,-5,4,115,105,30,100,96
+518,Aug 4 2003,Friendly in Singapore,Singapore,Hong Kong,1195,1192,4,1,12,-12,1207,1180,152,165,1,-5,153,160,20,100,103
+519,Aug 13 2003,Friendly tournament in Iran,Iran,Iraq,1699,1608,0,1,-23,23,1676,1631,49,50,-6,3,43,53,30,100,191
+520,Aug 13 2003,Friendly tournament in Iran,Uruguay,Cameroon,1826,1841,4,0,29,-29,1855,1812,10,25,5,-5,15,20,30,0,-15
+521,Aug 15 2003,Friendly tournament in Iran,Iran,Cameroon,1676,1812,4,1,29,-29,1705,1783,29,24,7,-2,36,22,30,100,-36
+522,Aug 15 2003,Friendly tournament in Iran,Uruguay,Iraq,1855,1631,5,2,11,-11,1866,1620,15,53,0,0,15,53,30,0,224
+523,Aug 16 2003,COSAFA Cup in Malawi,Malawi,Zambia,1310,1459,1,1,3,-3,1313,1456,128,91,1,0,129,91,40,100,-49
+524,Aug 16 2003,Friendly in Réunion,Réunion,Mayotte,1279,1212,1,1,-4,4,1275,1216,140,152,-2,0,138,152,20,100,167
+525,Aug 19 2003,Friendly in Ireland,Ireland,Australia,1872,1830,2,1,6,-6,1878,1824,14,19,0,0,14,19,20,100,142
+526,Aug 19 2003,Friendly in Luxembourg,Luxembourg,Malta,1095,1219,1,1,1,-1,1096,1218,175,151,0,0,175,151,20,100,-24
+527,Aug 20 2003,Friendly in Angola,Angola,DR Congo,1502,1489,0,2,-20,20,1482,1509,93,68,-9,6,84,74,20,100,113
+528,Aug 20 2003,Friendly in Italy,Argentina,Uruguay,2028,1866,3,2,6,-6,2034,1860,2,15,0,0,2,15,20,0,162
+529,Aug 20 2003,Friendly in Austria,Austria,Costa Rica,1675,1747,2,0,14,-14,1689,1733,36,34,4,-2,40,32,20,100,28
+530,Aug 20 2003,Friendly in Belarus,Belarus,Iran,1539,1705,2,1,12,-12,1551,1693,64,42,2,-3,66,39,20,100,-66
+531,Aug 20 2003,Friendly in Belgium,Belgium,Netherlands,1780,2046,1,1,4,-4,1784,2042,21,1,1,0,22,1,20,100,-166
+532,Aug 20 2003,Friendly in Bulgaria,Bulgaria,Lithuania,1758,1411,3,0,2,-2,1760,1409,27,106,0,0,27,106,20,100,447
+533,Aug 20 2003,Friendly in China,China,Chile,1614,1615,0,0,-3,3,1611,1618,57,54,-1,0,56,54,20,100,99
+534,Aug 20 2003,Friendly in the United States,Colombia,Slovakia,1793,1677,0,0,-3,3,1790,1680,22,45,-1,-1,21,44,20,0,116
+535,Aug 20 2003,Friendly in Denmark,Denmark,Finland,1908,1681,1,1,-7,7,1901,1688,9,40,1,1,10,41,20,100,327
+536,Aug 20 2003,Friendly in Ecuador,Ecuador,Guatemala,1722,1545,2,0,5,-5,1727,1540,34,70,0,-2,34,68,20,100,277
+537,Aug 20 2003,Friendly in England,England,Croatia,1960,1831,3,1,6,-6,1966,1825,5,16,0,1,5,17,20,100,229
+538,Aug 20 2003,Friendly in Estonia,Estonia,Poland,1418,1694,1,2,-5,5,1413,1699,105,35,-1,2,104,37,20,100,-176
+539,Aug 20 2003,European Championship qual in the Faroe Islands,Faroe Islands,Iceland,1270,1568,1,2,-10,10,1260,1578,147,61,-4,1,143,62,40,100,-198
+540,Aug 20 2003,Friendly in Germany,Germany,Italy,1909,1926,0,1,-12,12,1897,1938,12,5,-1,2,11,7,20,100,83
+541,Aug 20 2003,Friendly in Japan,Japan,Nigeria,1772,1749,3,0,12,-12,1784,1737,19,33,3,-2,22,31,20,100,123
+542,Aug 20 2003,Friendly in Latvia,Latvia,Uzbekistan,1475,1468,0,3,-23,23,1452,1491,99,74,-7,6,92,80,20,100,107
+543,Aug 20 2003,Friendly in Liechtenstein,Liechtenstein,San Marino,1083,938,2,2,-6,6,1077,944,181,191,-2,1,179,192,20,100,245
+544,Aug 20 2003,Friendly in Macedonia,Macedonia,Albania,1445,1506,3,1,13,-13,1458,1493,87,82,3,-4,90,78,20,100,39
+545,Aug 20 2003,Friendly in Norway,Norway,Scotland,1774,1645,0,0,-6,6,1768,1651,28,48,-2,1,26,49,20,100,229
+546,Aug 20 2003,Friendly in Panama,Panama,Paraguay,1407,1753,1,2,-4,4,1403,1757,109,28,-1,0,108,28,20,100,-246
+547,Aug 20 2003,Friendly in the United States,Peru,Mexico,1632,1897,3,1,25,-25,1657,1872,41,16,5,-2,46,14,20,0,-265
+548,Aug 20 2003,Friendly in Portugal,Portugal,Kazakhstan,1934,1421,1,0,1,-1,1935,1420,9,102,-1,0,8,102,20,0,513
+549,Aug 20 2003,Friendly in Russia,Russia,Israel,1744,1682,1,2,-14,14,1730,1696,33,35,0,3,33,38,20,100,162
+550,Aug 20 2003,European Championship qual in Serbia and Montenegro,Serbia and Montenegro,Wales,1702,1668,1,0,13,-13,1715,1655,33,49,2,-2,35,47,40,100,134
+551,Aug 20 2003,Friendly in Slovenia,Slovenia,Hungary,1661,1604,2,1,6,-6,1667,1598,44,58,1,0,45,58,20,100,157
+552,Aug 20 2003,Friendly in Sweden,Sweden,Greece,1839,1761,1,2,-15,15,1824,1776,20,24,-2,1,18,25,20,100,178
+553,Aug 20 2003,Friendly in Switzerland,Switzerland,France,1719,2011,0,2,-7,7,1712,2018,37,3,-1,0,36,3,20,100,-192
+554,Aug 20 2003,Friendly in Tunisia,Tunisia,Guinea,1649,1493,0,0,-6,6,1643,1499,54,74,-3,2,51,76,20,100,256
+555,Aug 20 2003,Friendly in Turkey,Turkey,Moldova,1890,1390,2,0,1,-1,1891,1389,11,110,1,0,12,110,20,100,600
+556,Aug 20 2003,Friendly in Ukraine,Ukraine,Romania,1698,1787,0,2,-15,15,1683,1802,48,19,-5,1,43,20,20,100,11
+557,Aug 20 2003,Friendly in Venezuela,Venezuela,Haiti,1611,1466,3,2,4,-4,1615,1462,54,89,1,-1,55,88,20,100,245
+558,Aug 22 2003,Friendly in Lebanon,Lebanon,Syria,1359,1407,1,0,9,-9,1368,1398,115,109,2,-1,117,108,20,100,52
+559,Aug 26 2003,Friendly in Jordan,Jordan,Iraq,1526,1620,2,1,10,-10,1536,1610,69,59,1,-3,70,56,20,100,6
+560,Aug 27 2003,Friendly in Peru,Peru,Guatemala,1657,1540,0,0,-6,6,1651,1546,50,66,-2,1,48,67,20,100,217
+561,Aug 28 2003,Indian Ocean Games in Mauritius,Madagascar,Seychelles,1309,1017,1,1,-10,10,1299,1027,131,186,0,1,131,187,30,0,292
+562,Aug 30 2003,Indian Ocean Games in Mauritius,Mauritius,Madagascar,1263,1299,3,1,18,-18,1281,1281,126,137,8,-3,134,134,30,100,64
+563,Aug 30 2003,Indian Ocean Games in Mauritius,Réunion,Comoros,1275,847,1,0,2,-2,1277,845,138,206,0,0,138,206,20,0,428
+564,Aug 30 2003,COSAFA Cup in Zimbabwe,Zimbabwe,Swaziland,1500,1265,2,0,8,-8,1508,1257,75,152,0,-6,75,146,40,100,335
+565,Aug 31 2003,Friendly in Bolivia,Bolivia,Panama,1539,1403,3,0,7,-7,1546,1396,65,111,2,-2,67,109,20,100,236
+566,Aug 31 2003,Friendly in the United States,Haiti,China,1462,1611,4,3,14,-14,1476,1597,84,61,2,-3,86,58,20,0,-149
+567,Sep 2 2003,Indian Ocean Games in Mauritius,Mauritius,Seychelles,1281,1027,0,0,-12,12,1269,1039,146,181,-6,3,140,184,30,100,354
+568,Sep 2 2003,Indian Ocean Games in Mauritius,Réunion,Comoros,1277,845,4,0,4,-4,1281,841,130,206,4,0,134,206,30,0,432
+569,Sep 4 2003,Friendly in France,Algeria,Qatar,1499,1534,1,0,11,-11,1510,1523,72,73,2,-1,74,72,20,0,-35
+570,Sep 4 2003,Indian Ocean Games in Mauritius,Mauritius,Comoros,1269,841,5,0,3,-3,1272,838,138,206,1,0,139,206,20,0,428
+571,Sep 4 2003,Asian Cup qualifier in North Korea,North Korea,Lebanon,1493,1368,0,1,-31,31,1462,1399,98,97,-10,10,88,107,40,100,225
+572,Sep 4 2003,Indian Ocean Games in Mauritius,Réunion,Seychelles,1281,1039,1,0,6,-6,1287,1033,130,188,2,-2,132,186,30,0,242
+573,Sep 4 2003,Asian Cup qualifier in Singapore,Singapore,Kuwait,1207,1484,1,3,-16,16,1191,1500,155,71,-1,6,154,77,40,100,-177
+574,Sep 5 2003,Asian Cup qualifier in Iran,Iran,Jordan,1693,1536,4,1,13,-13,1706,1523,35,72,2,-1,37,71,40,100,257
+575,Sep 6 2003,European Championship qual in Andorra,Andorra,Croatia,1054,1825,0,3,-1,1,1053,1826,181,17,0,0,181,17,20,100,-671
+576,Sep 6 2003,World Cup qualifier in Argentina,Argentina,Chile,2034,1618,2,2,-18,18,2016,1636,4,51,-1,1,3,52,40,100,516
+577,Sep 6 2003,European Championship qual in Armenia,Armenia,Greece,1427,1776,0,1,-8,8,1419,1784,106,19,-4,3,102,22,40,100,-249
+578,Sep 6 2003,European Championship qual in Azerbaijan,Azerbaijan,Finland,1356,1688,1,2,-8,8,1348,1696,126,37,-2,2,124,39,40,100,-232
+579,Sep 6 2003,European Championship qual in Belarus,Belarus,Czechia,1551,1931,1,3,-10,10,1541,1941,72,7,-3,1,69,8,40,100,-280
+580,Sep 6 2003,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Norway,1559,1768,1,0,26,-26,1585,1742,62,32,1,-3,63,29,40,100,-109
+581,Sep 6 2003,European Championship qual in Bulgaria,Bulgaria,Estonia,1760,1413,2,0,4,-4,1764,1409,25,106,1,-1,26,105,20,0,347
+582,Sep 6 2003,World Cup qualifier in Ecuador,Ecuador,Venezuela,1727,1615,2,0,14,-14,1741,1601,28,60,3,-3,31,57,40,100,212
+583,Sep 6 2003,European Championship qual in France,France,Cyprus,2018,1464,5,0,2,-2,2020,1462,1,88,1,-1,2,87,20,0,554
+584,Sep 6 2003,European Championship qual in Georgia,Georgia,Albania,1590,1493,3,0,17,-17,1607,1476,52,89,4,-5,56,84,40,100,197
+585,Sep 6 2003,European Championship qual in Iceland,Iceland,Germany,1578,1897,0,0,11,-11,1589,1886,60,13,1,-1,61,12,30,0,-319
+586,Sep 6 2003,European Championship qual in Ireland,Ireland,Russia,1878,1730,1,1,-12,12,1866,1742,15,25,-1,4,14,29,40,100,248
+587,Sep 6 2003,European Championship qual in Italy,Italy,Wales,1938,1655,4,0,7,-7,1945,1648,7,52,0,-3,7,49,40,100,383
+588,Sep 6 2003,European Championship qual in Latvia,Latvia,Poland,1452,1699,0,2,-18,18,1434,1717,100,32,-4,3,96,35,40,100,-147
+589,Sep 6 2003,European Championship qual in Liechtenstein,Liechtenstein,Turkey,1077,1891,0,3,-1,1,1076,1892,179,10,0,1,179,11,20,100,-714
+590,Sep 6 2003,European Championship qual in Macedonia,Macedonia,England,1458,1966,1,2,-3,3,1455,1969,92,7,-1,-1,91,6,30,100,-408
+591,Sep 6 2003,Indian Ocean Games in Mauritius,Mauritius,Réunion,1272,1287,2,1,11,-11,1283,1276,129,144,5,-6,134,138,30,100,85
+592,Sep 6 2003,European Championship qual in the Netherlands,Netherlands,Austria,2042,1689,3,1,4,-4,2046,1685,1,46,0,-3,1,43,40,100,453
+593,Sep 6 2003,World Cup qualifier in Peru,Peru,Paraguay,1651,1757,4,1,36,-36,1687,1721,36,40,6,-6,42,34,40,100,-6
+594,Sep 6 2003,Friendly in Portugal,Portugal,Spain,1935,1949,0,3,-22,22,1913,1971,10,4,-1,1,9,5,20,100,86
+595,Sep 6 2003,European Championship qual in Romania,Romania,Luxembourg,1802,1096,4,0,1,-1,1803,1095,20,175,0,0,20,175,20,0,706
+596,Sep 6 2003,European Championship qual in Scotland,Scotland,Faroe Islands,1651,1260,3,1,3,-3,1654,1257,46,148,1,-3,47,145,20,0,391
+597,Sep 6 2003,Indian Ocean Games in Mauritius,Seychelles,Comoros,1033,838,2,0,11,-11,1044,827,180,206,3,0,183,206,30,0,195
+598,Sep 6 2003,European Championship qual in Slovenia,Slovenia,Israel,1667,1696,3,1,24,-24,1691,1672,35,51,5,-6,40,45,30,0,-29
+599,Sep 6 2003,Friendly in Swaziland,Swaziland,Botswana,1257,1185,0,3,-26,26,1231,1211,152,148,-3,5,149,153,20,100,172
+600,Sep 6 2003,European Championship qual in Sweden,Sweden,San Marino,1824,944,5,0,0,0,1824,944,18,192,0,0,18,192,20,0,880
+601,Sep 6 2003,European Championship qual in Ukraine,Ukraine,Northern Ireland,1683,1488,0,0,-14,14,1669,1502,49,73,-3,4,46,77,40,100,295
+602,Sep 7 2003,Friendly in Angola,Angola,Namibia,1482,1175,2,0,3,-3,1485,1172,82,161,0,0,82,161,20,100,407
+603,Sep 7 2003,Friendly in England,Australia,Jamaica,1824,1595,2,1,4,-4,1828,1591,16,58,1,1,17,59,20,0,229
+604,Sep 7 2003,World Cup qualifier in Colombia,Colombia,Brazil,1790,1995,1,2,-14,14,1776,2009,29,4,-4,0,25,4,40,100,-105
+605,Sep 7 2003,Friendly in the United States,Costa Rica,China,1733,1597,2,0,9,-9,1742,1588,25,65,4,-3,29,62,20,0,136
+606,Sep 7 2003,World Cup qualifier in Uruguay,Uruguay,Bolivia,1860,1546,5,0,7,-7,1867,1539,13,72,1,-3,14,69,40,100,414
+607,Sep 9 2003,World Cup qualifier in Chile,Chile,Peru,1636,1687,2,1,17,-17,1653,1670,44,48,4,-3,48,45,30,0,-51
+608,Sep 9 2003,Friendly in Ireland,Ireland,Turkey,1866,1892,2,2,-2,2,1864,1894,15,11,0,0,15,11,20,100,74
+609,Sep 9 2003,World Cup qualifier in Venezuela,Venezuela,Argentina,1601,2016,0,3,-10,10,1591,2026,59,1,-1,1,58,2,40,100,-315
+610,Sep 10 2003,European Championship qual in Albania,Albania,Georgia,1476,1607,3,1,33,-33,1509,1574,66,72,9,-8,75,64,40,100,-31
+611,Sep 10 2003,European Championship qual in Andorra,Andorra,Bulgaria,1053,1764,0,3,-2,2,1051,1766,181,24,0,1,181,25,30,100,-611
+612,Sep 10 2003,European Championship qual in Belgium,Belgium,Croatia,1784,1826,2,1,17,-17,1801,1809,21,22,0,-2,21,20,30,0,-42
+613,Sep 10 2003,World Cup qualifier in Bolivia,Bolivia,Colombia,1539,1776,4,0,52,-52,1591,1724,43,43,13,-9,56,34,40,100,-137
+614,Sep 10 2003,World Cup qualifier in Brazil,Brazil,Ecuador,2009,1741,1,0,4,-4,2013,1737,4,30,0,1,4,31,20,0,268
+615,Sep 10 2003,European Championship qual in Czechia,Czechia,Netherlands,1941,2046,3,1,30,-30,1971,2016,4,5,2,-2,6,3,40,100,-5
+616,Sep 10 2003,European Championship qual in Denmark,Denmark,Romania,1901,1803,2,2,-10,10,1891,1813,12,18,-1,1,11,19,40,100,198
+617,Sep 10 2003,European Championship qual in England,England,Liechtenstein,1969,1076,2,0,0,0,1969,1076,8,179,-1,0,7,179,20,0,893
+618,Sep 10 2003,European Championship qual in the Faroe Islands,Faroe Islands,Lithuania,1257,1409,1,3,-26,26,1231,1435,153,93,-4,6,149,99,40,100,-52
+619,Sep 10 2003,European Championship qual in Germany,Germany,Scotland,1886,1654,2,1,5,-5,1891,1649,10,51,1,-2,11,49,40,100,332
+620,Sep 10 2003,European Championship qual in Turkey,Israel,Malta,1672,1218,2,2,-17,17,1655,1235,48,145,-2,3,46,148,40,0,454
+621,Sep 10 2003,Friendly in Japan,Japan,Senegal,1784,1745,0,1,-14,14,1770,1759,27,29,-3,-1,24,28,20,100,139
+622,Sep 10 2003,European Championship qual in Latvia,Latvia,Hungary,1434,1598,3,1,35,-35,1469,1563,78,73,9,-8,87,65,40,100,-64
+623,Sep 10 2003,European Championship qual in Luxembourg,Luxembourg,Bosnia and Herzegovina,1095,1585,0,1,-4,4,1091,1589,175,55,0,4,175,59,40,100,-390
+624,Sep 10 2003,European Championship qual in Moldova,Moldova,Belarus,1389,1541,2,1,23,-23,1412,1518,99,78,6,-5,105,73,40,100,-52
+625,Sep 10 2003,Friendly in Morocco,Morocco,Trinidad and Tobago,1575,1413,2,0,5,-5,1580,1408,62,110,1,-3,63,107,20,100,262
+626,Sep 10 2003,Friendly in Norway,Norway,Portugal,1742,1913,0,1,-8,8,1734,1921,37,9,-4,0,33,9,20,100,-71
+627,Sep 10 2003,European Championship qual in Northern Ireland,Northern Ireland,Armenia,1502,1419,0,1,-30,30,1472,1449,93,86,-8,8,85,94,40,100,183
+628,Sep 10 2003,Friendly in Oman,Oman,Bahrain,1432,1482,1,0,9,-9,1441,1473,97,85,0,-1,97,84,20,100,50
+629,Sep 10 2003,World Cup qualifier in Paraguay,Paraguay,Uruguay,1721,1867,4,1,40,-40,1761,1827,20,22,7,-4,27,18,40,100,-46
+630,Sep 10 2003,European Championship qual in Poland,Poland,Sweden,1717,1824,0,2,-29,29,1688,1853,43,11,-4,4,39,15,40,100,-7
+631,Sep 10 2003,European Championship qual in Russia,Russia,Switzerland,1742,1712,4,1,22,-22,1764,1690,23,39,3,-1,26,38,40,100,130
+632,Sep 10 2003,European Championship qual in Serbia and Montenegro,Serbia and Montenegro,Italy,1715,1945,1,1,7,-7,1722,1938,34,9,1,-1,35,8,40,100,-130
+633,Sep 10 2003,European Championship qual in Slovakia,Slovakia,Macedonia,1680,1455,1,1,-15,15,1665,1470,45,81,-1,5,44,86,40,100,325
+634,Sep 10 2003,European Championship qual in Slovenia,Slovenia,France,1691,2020,0,2,-13,13,1678,2033,44,-1,-2,2,42,1,40,100,-229
+635,Sep 10 2003,European Championship qual in Spain,Spain,Ukraine,1971,1669,2,1,4,-4,1975,1665,5,42,0,2,5,44,30,0,302
+636,Sep 10 2003,Friendly in Tunisia,Tunisia,Ivory Coast,1643,1589,3,2,6,-6,1649,1583,46,64,3,-2,49,62,20,100,154
+637,Sep 10 2003,European Championship qual in Wales,Wales,Finland,1648,1696,1,1,-3,3,1645,1699,54,35,-2,2,52,37,40,100,52
+638,Sep 14 2003,Asian Cup qualifier in Kuwait,Kuwait,Qatar,1500,1523,2,1,16,-16,1516,1507,68,86,5,-8,73,78,30,0,-23
+639,Sep 14 2003,Friendly in Rwanda,Rwanda,Kenya,1371,1488,0,1,-10,10,1361,1498,120,79,-2,1,118,80,20,100,-17
+640,Sep 16 2003,Friendly in Singapore,Singapore,Oman,1191,1441,1,3,-9,9,1182,1450,163,91,-4,3,159,94,20,100,-150
+641,Sep 17 2003,Friendly in Yemen,Yemen,Sudan,1183,1363,3,2,12,-12,1195,1351,152,127,3,-5,155,122,20,100,-80
+642,Sep 19 2003,Friendly in Bahrain,Bahrain,Lebanon,1473,1399,4,3,5,-5,1478,1394,82,114,1,-3,83,111,20,100,174
+643,Sep 19 2003,Friendly in Jordan,Jordan,Syria,1523,1398,0,0,-6,6,1517,1404,74,107,-2,1,72,108,20,100,225
+644,Sep 19 2003,Friendly in Yemen,Yemen,Sudan,1195,1351,1,2,-8,8,1187,1359,157,116,-1,3,156,119,20,100,-56
+645,Sep 20 2003,Friendly in Namibia,Namibia,Angola,1172,1485,1,3,-7,7,1165,1492,161,80,0,1,161,81,20,100,-213
+646,Sep 20 2003,Asian Cup qualifier in Qatar,Qatar,Kuwait,1507,1516,2,2,-5,5,1502,1521,78,67,0,3,78,70,40,100,91
+647,Sep 24 2003,Friendly tournament in Algeria,Algeria,Gabon,1510,1384,2,2,-9,9,1501,1393,80,111,-3,1,77,112,30,100,226
+648,Sep 24 2003,Friendly tournament in Algeria,Burkina Faso,Benin,1463,1361,1,0,11,-11,1474,1350,82,127,3,-5,85,122,30,0,102
+649,Sep 24 2003,Asian Cup qualifier in Qatar,Qatar,Palestine,1502,1260,1,1,-15,15,1487,1275,86,138,-4,2,82,140,40,100,342
+650,Sep 25 2003,Asian Cup qualifier in South Korea,Oman,Nepal,1450,870,7,0,3,-3,1453,867,92,201,1,0,93,201,40,0,580
+651,Sep 25 2003,Asian Cup qualifier in South Korea,South Korea,Vietnam,1745,1276,5,0,3,-3,1748,1273,29,142,0,-2,29,140,20,0,469
+652,Sep 26 2003,Friendly tournament in Algeria,Algeria,Burkina Faso,1501,1474,0,0,-5,5,1496,1479,83,83,-3,1,80,84,30,100,127
+653,Sep 26 2003,Friendly tournament in Algeria,Gabon,Benin,1393,1350,4,0,25,-25,1418,1325,96,134,8,-6,104,128,30,0,43
+654,Sep 26 2003,Asian Cup qualifier in Jordan,Jordan,Iran,1517,1706,3,2,25,-25,1542,1681,65,46,4,-5,69,41,40,100,-89
+655,Sep 26 2003,Friendly in Malaysia,Malaysia,Indonesia,1285,1350,1,1,-1,1,1284,1351,133,122,0,0,133,122,20,100,35
+656,Sep 26 2003,Friendly in the United Arab Emirates,United Arab Emirates,Bahrain,1416,1478,1,4,-19,19,1397,1497,116,75,-6,4,110,79,20,100,38
+657,Sep 27 2003,Asian Cup qualifier in Kuwait,Kuwait,Singapore,1521,1182,4,0,6,-6,1527,1176,69,161,1,-1,70,160,40,100,439
+658,Sep 27 2003,COSAFA Cup in Malawi,Malawi,Zimbabwe,1313,1508,1,2,-15,15,1298,1523,131,68,-1,4,130,72,40,100,-95
+659,Sep 27 2003,Asian Cup qualifier in Qatar,Qatar,Palestine,1487,1275,2,1,6,-6,1493,1269,79,143,2,-2,81,141,40,100,312
+660,Sep 27 2003,Asian Cup qualifier in South Korea,South Korea,Oman,1748,1453,1,0,4,-4,1752,1449,29,95,0,-1,29,94,40,100,395
+661,Sep 27 2003,Friendly in Saudi Arabia,Syria,Yemen,1404,1187,8,2,9,-9,1413,1178,102,162,3,-3,105,159,20,0,217
+662,Sep 27 2003,Asian Cup qualifier in South Korea,Vietnam,Nepal,1273,867,5,0,7,-7,1280,860,134,207,3,-3,137,204,40,0,406
+663,Sep 29 2003,Asian Cup qualifier in South Korea,Oman,Vietnam,1449,1280,6,0,23,-23,1472,1257,78,151,8,-7,86,144,40,0,169
+664,Sep 29 2003,Asian Cup qualifier in South Korea,South Korea,Nepal,1752,860,16,0,0,0,1752,860,29,204,0,0,29,204,20,0,892
+665,Sep 30 2003,Friendly in Saudi Arabia,Saudi Arabia,Syria,1652,1413,1,1,-8,8,1644,1421,56,101,-4,2,52,103,20,100,339
+666,Oct 4 2003,Friendly in Lesotho,Lesotho,Swaziland,1187,1231,5,2,15,-15,1202,1216,154,153,1,-2,155,151,20,100,56
+667,Oct 5 2003,Asian Cup qualifier in Kuwait,Kuwait,Palestine,1527,1269,2,1,5,-5,1532,1264,70,140,0,0,70,140,40,100,358
+668,Oct 5 2003,COSAFA Cup in Zimbabwe,Zimbabwe,Malawi,1523,1298,2,0,8,-8,1531,1290,70,132,1,-1,71,131,40,100,325
+669,Oct 6 2003,Asian Cup qualifier in Saudi Arabia,Indonesia,Bhutan,1351,596,2,0,1,-1,1352,595,122,222,0,0,122,222,30,0,755
+670,Oct 6 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Yemen,1644,1178,7,0,3,-3,1647,1175,48,161,2,-1,50,160,20,0,466
+671,Oct 8 2003,Asian Cup qualifier in Saudi Arabia,Indonesia,Yemen,1352,1175,3,0,19,-19,1371,1156,110,164,6,-2,116,162,40,0,177
+672,Oct 8 2003,Asian Cup qualifier in Malaysia,Iraq,Bahrain,1610,1497,5,1,26,-26,1636,1471,52,95,1,-8,53,87,40,0,113
+673,Oct 8 2003,Asian Cup qualifier in Kuwait,Kuwait,Palestine,1532,1264,4,0,8,-8,1540,1256,68,148,1,-4,69,144,40,100,368
+674,Oct 8 2003,Friendly in Lesotho,Lesotho,South Africa,1202,1647,0,3,-4,4,1198,1651,155,46,0,2,155,48,20,100,-345
+675,Oct 8 2003,Asian Cup qualifier in Malaysia,Malaysia,Myanmar,1284,1155,4,0,16,-16,1300,1139,127,169,3,-3,130,166,40,100,229
+676,Oct 8 2003,Friendly in Oman,Oman,Jordan,1472,1542,2,1,9,-9,1481,1533,80,71,3,-1,83,70,20,100,30
+677,Oct 8 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Bhutan,1647,595,6,0,0,0,1647,595,50,222,0,0,50,222,20,0,1052
+678,Oct 8 2003,Friendly in Tunisia,Tunisia,Japan,1649,1770,0,1,-9,9,1640,1779,56,24,-4,0,52,24,20,100,-21
+679,Oct 10 2003,Asian Cup qualifier in Malaysia,Bahrain,Myanmar,1471,1139,3,1,8,-8,1479,1131,81,166,3,0,84,166,40,0,332
+680,Oct 10 2003,Friendly in Egypt,Egypt,Senegal,1632,1759,1,0,11,-11,1643,1748,50,30,2,-1,52,29,20,100,-27
+681,Oct 10 2003,World Cup & African Cup qual in Guinea-Bissau,Guinea-Bissau,Mali,1239,1526,1,2,-10,10,1229,1536,151,68,-2,2,149,70,40,100,-187
+682,Oct 10 2003,Asian Cup qualifier in Malaysia,Malaysia,Iraq,1300,1636,0,0,12,-12,1312,1624,130,55,0,-1,130,54,40,100,-236
+683,Oct 10 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Indonesia,1647,1371,5,0,8,-8,1655,1363,42,118,4,-1,46,117,40,100,376
+684,Oct 10 2003,Asian Cup qualifier in Saudi Arabia,Yemen,Bhutan,1156,595,8,0,4,-4,1160,591,162,224,0,-1,162,223,40,0,561
+685,Oct 11 2003,European Championship qual in Armenia,Armenia,Spain,1449,1975,0,4,-6,6,1443,1981,97,5,-1,0,96,5,40,100,-426
+686,Oct 11 2003,European Championship qual in Austria,Austria,Czechia,1685,1971,2,3,-10,10,1675,1981,40,4,0,1,40,5,40,100,-186
+687,Oct 11 2003,European Championship qual in Belgium,Belgium,Estonia,1801,1409,2,0,3,-3,1804,1406,21,109,0,-1,21,108,20,0,392
+688,Oct 11 2003,Friendly in the United States,Bolivia,Honduras,1591,1688,1,0,13,-13,1604,1675,54,42,1,-2,55,40,20,0,-97
+689,Oct 11 2003,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Denmark,1589,1891,1,1,10,-10,1599,1881,55,13,2,-1,57,12,40,100,-202
+690,Oct 11 2003,World Cup & African Cup qual in Botswana,Botswana,Lesotho,1211,1198,4,1,24,-24,1235,1174,143,163,5,-4,148,159,40,100,113
+691,Oct 11 2003,European Championship qual in Croatia,Croatia,Bulgaria,1809,1766,1,0,12,-12,1821,1754,16,29,2,-2,18,27,40,100,143
+692,Oct 11 2003,European Championship qual in Cyprus,Cyprus,Slovenia,1462,1678,2,2,6,-6,1468,1672,90,42,0,0,90,42,20,0,-216
+693,Oct 11 2003,World Cup & African Cup qual in Equatorial Guinea,Equatorial Guinea,Togo,1038,1461,1,0,35,-35,1073,1426,171,106,7,-7,178,99,40,100,-323
+694,Oct 11 2003,Friendly in Finland,Finland,Canada,1699,1608,3,2,5,-5,1704,1603,40,57,-2,-1,38,56,20,100,191
+695,Oct 11 2003,European Championship qual in France,France,Israel,2033,1655,3,0,4,-4,2037,1651,1,54,0,-4,1,50,20,0,378
+696,Oct 11 2003,European Championship qual in Germany,Germany,Iceland,1891,1589,3,0,6,-6,1897,1583,9,65,1,-3,10,62,40,100,402
+697,Oct 11 2003,European Championship qual in Greece,Greece,Northern Ireland,1784,1472,1,0,3,-3,1787,1469,22,91,0,-2,22,89,20,0,312
+698,Oct 11 2003,European Championship qual in Hungary,Hungary,Poland,1563,1688,1,2,-19,19,1544,1707,69,36,-2,1,67,37,40,100,-25
+699,Oct 11 2003,European Championship qual in Italy,Italy,Azerbaijan,1938,1348,4,0,1,-1,1939,1347,8,123,0,0,8,123,20,0,590
+700,Oct 11 2003,European Championship qual in Liechtenstein,Liechtenstein,Slovakia,1076,1665,0,2,-3,3,1073,1668,177,44,1,0,178,44,30,100,-489
+701,Oct 11 2003,World Cup & African Cup qual in Madagascar,Madagascar,Benin,1281,1325,1,1,-3,3,1278,1328,137,126,-1,1,136,127,40,100,56
+702,Oct 11 2003,European Championship qual in the Netherlands,Netherlands,Moldova,2016,1412,5,0,1,-1,2017,1411,3,106,0,0,3,106,20,0,604
+703,Oct 11 2003,World Cup & African Cup qual in Niger,Niger,Algeria,1338,1496,0,1,-17,17,1321,1513,131,71,-3,4,128,75,40,100,-58
+704,Oct 11 2003,European Championship qual in Norway,Norway,Luxembourg,1734,1091,1,0,1,-1,1735,1090,33,175,0,0,33,175,30,0,643
+705,Oct 11 2003,Friendly in Portugal,Portugal,Albania,1921,1509,5,3,1,-1,1922,1508,9,79,0,-2,9,77,20,100,512
+706,Oct 11 2003,Friendly in Romania,Romania,Japan,1813,1779,1,1,-4,4,1809,1783,21,22,-1,1,20,23,20,100,134
+707,Oct 11 2003,European Championship qual in Russia,Russia,Georgia,1764,1574,3,1,10,-10,1774,1564,24,64,1,0,25,64,40,100,290
+708,Oct 11 2003,World Cup & African Cup qual in São Tomé and Príncipe,São Tomé and Príncipe,Libya,1078,1374,0,1,-10,10,1068,1384,183,113,-3,1,180,114,40,100,-196
+709,Oct 11 2003,European Championship qual in Scotland,Scotland,Lithuania,1649,1435,1,0,6,-6,1655,1429,44,97,3,1,47,98,40,100,314
+710,Oct 11 2003,World Cup & African Cup qual in the Seychelles,Seychelles,Zambia,1044,1456,0,4,-11,11,1033,1467,189,89,-3,2,186,91,40,100,-312
+711,Oct 11 2003,Friendly tournament in South Africa,South Africa,Costa Rica,1651,1742,2,1,15,-15,1666,1727,41,38,4,-4,45,34,30,100,9
+712,Oct 11 2003,European Championship qual in Sweden,Sweden,Latvia,1853,1469,0,1,-38,38,1815,1507,23,67,-4,11,19,78,40,100,484
+713,Oct 11 2003,European Championship qual in Switzerland,Switzerland,Ireland,1690,1864,2,0,36,-36,1726,1828,33,16,2,-1,35,15,40,100,-74
+714,Oct 11 2003,World Cup & African Cup qual in Tanzania,Tanzania,Kenya,1227,1498,0,0,9,-9,1236,1489,144,88,3,-5,147,83,40,100,-171
+715,Oct 11 2003,Friendly in Tunisia,Tunisia,Morocco,1640,1580,0,0,-4,4,1636,1584,51,59,1,2,52,61,20,100,160
+716,Oct 11 2003,European Championship qual in Turkey,Turkey,England,1894,1969,0,0,-1,1,1893,1970,12,7,-1,0,11,7,20,100,25
+717,Oct 11 2003,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1397,1491,2,2,0,0,1397,1491,112,82,-1,0,111,82,20,100,6
+718,Oct 11 2003,World Cup & African Cup qual in Uganda,Uganda,Mauritius,1388,1283,3,0,16,-16,1404,1267,105,144,4,-5,109,139,40,100,205
+719,Oct 11 2003,Friendly in Ukraine,Ukraine,Macedonia,1665,1470,0,0,-7,7,1658,1477,48,86,-2,1,46,87,20,100,295
+720,Oct 11 2003,European Championship qual in Wales,Wales,Serbia and Montenegro,1645,1722,2,3,-21,21,1624,1743,55,25,-2,5,53,30,40,100,23
+721,Oct 12 2003,Friendly in England,Brazil,Jamaica,2013,1591,1,0,2,-2,2015,1589,4,60,0,-1,4,59,20,0,422
+722,Oct 12 2003,World Cup & African Cup qual in Burundi,Burundi,Gabon,1264,1418,0,0,3,-3,1267,1415,138,103,1,1,139,104,40,100,-54
+723,Oct 12 2003,World Cup & African Cup qual in Chad,Chad,Angola,1270,1492,3,1,40,-40,1310,1452,124,103,7,-11,131,92,40,100,-122
+724,Oct 12 2003,World Cup & African Cup qual in Congo,Congo,Sierra Leone,1354,1337,1,0,14,-14,1368,1323,118,131,2,-3,120,128,30,0,17
+725,Oct 12 2003,World Cup & African Cup qual in Ethiopia,Ethiopia,Malawi,1313,1290,1,3,-40,40,1273,1330,147,120,-9,6,138,126,40,100,123
+726,Oct 12 2003,World Cup & African Cup qual in The Gambia,Gambia,Liberia,1344,1426,2,0,28,-28,1372,1398,108,119,8,-10,116,109,30,0,-82
+727,Oct 12 2003,World Cup & African Cup qual in Guinea,Guinea,Mozambique,1499,1258,1,0,5,-5,1504,1253,79,149,0,-4,79,145,40,100,341
+728,Oct 12 2003,AFC-OFC Challenge Cup in Iran,Iran,New Zealand,1681,1543,3,0,14,-14,1695,1529,39,76,0,-4,39,72,40,100,238
+729,Oct 12 2003,Asian Cup qualifier in Malaysia,Iraq,Myanmar,1624,1131,3,0,4,-4,1628,1127,53,168,0,-1,53,167,40,0,493
+730,Oct 12 2003,Asian Cup qualifier in Malaysia,Malaysia,Bahrain,1312,1479,2,2,4,-4,1316,1475,130,89,0,-2,130,87,20,0,-167
+731,Oct 12 2003,World Cup & African Cup qual in Rwanda,Rwanda,Namibia,1361,1165,3,0,11,-11,1372,1154,114,162,2,-1,116,161,40,100,296
+732,Oct 12 2003,World Cup & African Cup qual in Sudan,Sudan,Eritrea,1359,1164,3,0,11,-11,1370,1153,119,167,0,-3,119,164,40,100,295
+733,Oct 12 2003,World Cup & African Cup qual in Swaziland,Swaziland,Cape Verde,1216,1333,1,1,1,-1,1217,1332,152,124,0,1,152,125,30,100,-17
+734,Oct 12 2003,World Cup & African Cup qual in Zimbabwe,Zimbabwe,Mauritania,1531,1123,3,0,4,-4,1535,1119,68,170,2,-1,70,169,40,100,508
+735,Oct 13 2003,Asian Cup qualifier in Saudi Arabia,Indonesia,Bhutan,1363,591,2,0,1,-1,1364,590,121,223,0,0,121,223,30,0,772
+736,Oct 13 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Yemen,1655,1160,3,1,2,-2,1657,1158,47,160,0,0,47,160,20,0,495
+737,Oct 15 2003,Asian Cup qualifier in Saudi Arabia,Indonesia,Yemen,1364,1158,2,2,-11,11,1353,1169,125,160,-2,0,123,160,30,100,306
+738,Oct 15 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Bhutan,1657,590,4,0,0,0,1657,590,47,223,0,0,47,223,20,0,1067
+739,Oct 15 2003,Asian Cup qualifier in Syria,Syria,Sri Lanka,1421,944,5,0,3,-3,1424,941,98,194,2,-1,100,193,40,100,577
+740,Oct 15 2003,Friendly in the United States,Uruguay,Mexico,1827,1872,2,0,17,-17,1844,1855,11,13,3,0,14,13,20,0,-45
+741,Oct 16 2003,Friendly in Thailand,Thailand,India,1444,1103,2,0,2,-2,1446,1101,93,175,1,-1,94,174,20,100,441
+742,Oct 17 2003,Asian Cup qualifier in Jordan,Jordan,Lebanon,1533,1394,1,0,8,-8,1541,1386,65,113,3,0,68,113,40,100,239
+743,Oct 17 2003,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Indonesia,1657,1353,6,0,8,-8,1665,1345,45,125,1,-1,46,124,40,100,404
+744,Oct 17 2003,Asian Cup qualifier in Saudi Arabia,Yemen,Bhutan,1169,590,4,0,3,-3,1172,587,160,223,0,0,160,223,40,0,579
+745,Oct 18 2003,Asian Cup qualifier in Syria,Syria,Sri Lanka,1424,941,8,0,3,-3,1427,938,98,193,1,0,99,193,20,0,483
+746,Oct 19 2003,Asian Cup qualifier in Oman,Oman,Nepal,1481,860,6,0,1,-1,1482,859,83,204,0,0,83,204,20,0,621
+747,Oct 19 2003,Asian Cup qualifier in Singapore,Singapore,Palestine,1176,1256,2,0,28,-28,1204,1228,152,159,3,-8,155,151,30,0,-80
+748,Oct 19 2003,Asian Cup qualifier in Turkmenistan,Turkmenistan,United Arab Emirates,1422,1397,1,0,13,-13,1435,1384,94,115,4,-2,98,113,40,100,125
+749,Oct 19 2003,Asian Cup qualifier in Oman,Vietnam,South Korea,1257,1752,1,0,38,-38,1295,1714,122,44,10,-8,132,36,40,0,-495
+750,Oct 20 2003,Asian Cup qualifier in Bahrain,Bahrain,Myanmar,1475,1127,4,0,5,-5,1480,1122,81,167,3,0,84,167,40,100,448
+751,Oct 20 2003,Asian Cup qualifier in Bahrain,Iraq,Malaysia,1628,1316,5,1,11,-11,1639,1305,51,132,1,-1,52,131,40,0,312
+752,Oct 21 2003,Asian Cup qualifier in Oman,Oman,South Korea,1482,1714,3,1,41,-41,1523,1673,63,46,10,-5,73,41,40,100,-132
+753,Oct 21 2003,Asian Cup qualifier in Oman,Vietnam,Nepal,1295,859,2,0,5,-5,1300,854,132,204,0,0,132,204,40,0,436
+754,Oct 22 2003,Asian Cup qualifier in Bahrain,Bahrain,Malaysia,1480,1305,3,1,10,-10,1490,1295,82,133,1,-1,83,132,40,100,275
+755,Oct 22 2003,Asian Cup qualifier in Bahrain,Iraq,Myanmar,1639,1122,3,1,3,-3,1642,1119,52,169,0,-1,52,168,40,0,517
+756,Oct 22 2003,Asian Cup qualifier in Singapore,Singapore,Palestine,1204,1228,0,0,-4,4,1200,1232,155,147,0,2,155,149,40,100,76
+757,Oct 23 2003,Afro-Asian Games in India,Zimbabwe,Burkina Faso,1535,1479,4,1,29,-29,1564,1450,57,101,7,-8,64,93,40,0,56
+758,Oct 24 2003,Asian Cup qualifier in Bahrain,Bahrain,Iraq,1490,1642,1,0,23,-23,1513,1619,69,56,7,-2,76,54,40,100,-52
+759,Oct 24 2003,Asian Cup qualifier in Bahrain,Myanmar,Malaysia,1119,1295,2,1,29,-29,1148,1266,164,150,2,-9,166,141,40,0,-176
+760,Oct 24 2003,Asian Cup qualifier in Oman,Oman,Vietnam,1523,1300,2,0,8,-8,1531,1292,71,133,1,-1,72,132,40,100,323
+761,Oct 24 2003,Asian Cup qualifier in Oman,South Korea,Nepal,1673,854,7,0,1,-1,1674,853,41,204,0,0,41,204,30,0,819
+762,Oct 27 2003,Asian Cup qualifier in North Korea,North Korea,Iran,1462,1695,1,3,-19,19,1443,1714,100,34,-5,2,95,36,40,100,-133
+763,Oct 29 2003,Afro-Asian Games in India,India,Zimbabwe,1101,1564,5,3,53,-53,1154,1511,148,90,13,-13,161,77,40,100,-363
+764,Oct 30 2003,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Turkmenistan,1384,1435,1,1,-3,3,1381,1438,115,96,-1,1,114,97,40,100,49
+765,Nov 3 2003,Asian Cup qualifier in Lebanon,Lebanon,North Korea,1386,1443,1,1,-2,2,1384,1445,112,93,0,1,112,94,30,100,43
+766,Nov 6 2003,Asian Cup qualifier in Uzbekistan,Tajikistan,Thailand,1436,1446,1,0,21,-21,1457,1425,82,109,8,-8,90,101,40,0,-10
+767,Nov 6 2003,Asian Cup qualifier in Uzbekistan,Uzbekistan,Hong Kong,1491,1180,4,1,6,-6,1497,1174,81,158,1,0,82,158,40,100,411
+768,Nov 7 2003,Asian Cup qualifier in Syria,Syria,United Arab Emirates,1427,1381,1,3,-42,42,1385,1423,125,88,-13,13,112,101,40,100,146
+769,Nov 8 2003,Friendly in Gabon,Gabon,Burkina Faso,1415,1450,0,0,-2,2,1413,1452,102,87,1,3,103,90,20,100,65
+770,Nov 8 2003,Asian Cup qualifier in Uzbekistan,Hong Kong,Tajikistan,1174,1457,0,0,13,-13,1187,1444,156,100,1,-5,157,95,40,0,-283
+771,Nov 8 2003,Asian Cup qualifier in Uzbekistan,Uzbekistan,Thailand,1497,1425,3,0,19,-19,1516,1406,68,112,7,-6,75,106,40,100,172
+772,Nov 9 2003,Friendly in Mozambique,Mozambique,Swaziland,1253,1217,2,0,9,-9,1262,1208,140,154,2,-1,142,153,20,100,136
+773,Nov 9 2003,Asian Cup qualifier in Turkmenistan,Turkmenistan,Sri Lanka,1438,938,1,0,1,-1,1439,937,97,193,0,0,97,193,20,0,500
+774,Nov 10 2003,Asian Cup qualifier in Uzbekistan,Hong Kong,Thailand,1187,1406,2,1,31,-31,1218,1375,147,124,5,-9,152,115,40,0,-219
+775,Nov 10 2003,Asian Cup qualifier in Uzbekistan,Uzbekistan,Tajikistan,1516,1444,0,0,-9,9,1507,1453,85,85,-5,5,80,90,40,100,172
+776,Nov 11 2003,Friendly in Uganda,Uganda,Tanzania,1404,1236,2,1,4,-4,1408,1232,103,150,2,-2,105,148,20,100,268
+777,Nov 12 2003,Friendly in Equatorial Guinea,Equatorial Guinea,São Tomé and Príncipe,1073,1068,3,1,11,-11,1084,1057,176,182,1,-1,177,181,20,100,105
+778,Nov 12 2003,Asian Cup qualifier in Iran,Iran,North Korea,1714,1445,1,0,4,-4,1718,1441,38,98,-1,-2,37,96,20,0,269
+779,Nov 12 2003,Asian Cup qualifier in Lebanon,Lebanon,Jordan,1384,1541,0,2,-25,25,1359,1566,128,60,-8,4,120,64,40,100,-57
+780,Nov 12 2003,Friendly in Poland,Poland,Italy,1707,1939,3,1,20,-20,1727,1919,29,10,4,-1,33,9,20,100,-132
+781,Nov 12 2003,Asian Cup qualifier in Turkmenistan,Turkmenistan,Sri Lanka,1439,937,3,0,2,-2,1441,935,95,193,1,0,96,193,20,0,502
+782,Nov 14 2003,World Cup & African Cup qual in Algeria,Algeria,Niger,1513,1321,6,0,13,-13,1526,1308,71,131,2,-1,73,130,40,100,292
+783,Nov 14 2003,World Cup & African Cup qual in Mali,Mali,Guinea-Bissau,1536,1229,2,0,5,-5,1541,1224,68,151,1,0,69,151,40,100,407
+784,Nov 14 2003,World Cup & African Cup qual in Mauritania,Mauritania,Zimbabwe,1119,1511,2,1,34,-34,1153,1477,160,91,5,-7,165,84,40,100,-292
+785,Nov 14 2003,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Syria,1423,1385,3,1,19,-19,1442,1366,92,127,4,-8,96,119,40,100,138
+786,Nov 15 2003,Friendly in Albania,Albania,Estonia,1508,1406,2,0,7,-7,1515,1399,76,107,1,0,77,107,20,100,202
+787,Nov 15 2003,World Cup qualifier in Argentina,Argentina,Bolivia,2026,1604,3,0,3,-3,2029,1601,2,57,0,-1,2,56,20,0,422
+788,Nov 15 2003,World Cup qualifier in Colombia,Colombia,Venezuela,1724,1591,0,1,-32,32,1692,1623,40,50,-2,4,38,54,40,100,233
+789,Nov 15 2003,European Championship qual in Croatia,Croatia,Slovenia,1821,1672,1,1,-12,12,1809,1684,20,38,-1,2,19,40,40,100,249
+790,Nov 15 2003,Friendly in Czechia,Czechia,Canada,1981,1603,5,1,2,-2,1983,1601,7,56,-1,0,6,56,20,100,478
+791,Nov 15 2003,Friendly in Egypt,Egypt,South Africa,1643,1666,2,1,8,-8,1651,1658,47,49,2,-2,49,47,20,100,77
+792,Nov 15 2003,World Cup & African Cup qual in Gabon,Gabon,Burundi,1413,1267,4,1,14,-14,1427,1253,97,149,3,-5,100,144,40,100,246
+793,Nov 15 2003,Friendly in Germany,Germany,France,1897,2037,0,3,-15,15,1882,2052,10,1,0,0,10,1,20,100,-40
+794,Nov 15 2003,World Cup & African Cup qual in Kenya,Kenya,Tanzania,1489,1232,3,0,8,-8,1497,1224,81,152,1,-2,82,150,40,100,357
+795,Nov 15 2003,European Championship qual in Latvia,Latvia,Turkey,1507,1893,1,0,34,-34,1541,1859,59,13,10,-1,69,12,40,100,-286
+796,Nov 15 2003,World Cup & African Cup qual in Malawi,Malawi,Ethiopia,1330,1273,0,0,-8,8,1322,1281,130,130,-2,4,128,134,40,100,157
+797,Nov 15 2003,Friendly in Morocco,Morocco,Burkina Faso,1584,1452,1,0,4,-4,1588,1448,59,95,1,-2,60,93,20,100,232
+798,Nov 15 2003,World Cup & African Cup qual in Namibia,Namibia,Rwanda,1154,1372,1,1,7,-7,1161,1365,161,124,0,-5,161,119,40,100,-118
+799,Nov 15 2003,World Cup qualifier in Paraguay,Paraguay,Ecuador,1761,1737,2,1,13,-13,1774,1724,24,40,1,-5,25,35,40,100,124
+800,Nov 15 2003,Friendly in Portugal,Portugal,Greece,1922,1787,1,1,-6,6,1916,1793,10,22,-1,0,9,22,20,100,235
+801,Nov 15 2003,European Championship qual in Russia,Russia,Wales,1774,1624,0,0,-12,12,1762,1636,27,51,-1,1,26,52,40,100,250
+802,Nov 15 2003,European Championship qual in Scotland,Scotland,Netherlands,1655,2017,1,0,33,-33,1688,1984,30,7,9,-2,39,5,40,100,-262
+803,Nov 15 2003,Friendly in Senegal,Senegal,Ivory Coast,1748,1583,1,0,4,-4,1752,1579,28,64,0,-1,28,63,20,100,265
+804,Nov 15 2003,European Championship qual in Spain,Spain,Norway,1981,1735,2,1,5,-5,1986,1730,3,30,1,1,4,31,40,100,346
+805,Nov 15 2003,World Cup qualifier in Uruguay,Uruguay,Chile,1844,1653,2,1,6,-6,1850,1647,14,53,0,-2,14,51,40,100,291
+806,Nov 15 2003,World Cup & African Cup qual in Zambia,Zambia,Seychelles,1467,1033,1,1,-18,18,1449,1051,95,178,-3,4,92,182,40,100,534
+807,Nov 16 2003,World Cup & African Cup qual in Angola,Angola,Chad,1452,1310,2,0,12,-12,1464,1298,88,133,1,-2,89,131,40,100,242
+808,Nov 16 2003,World Cup & African Cup qual in Benin,Benin,Madagascar,1328,1278,3,2,12,-12,1340,1266,126,141,0,-2,126,139,40,100,150
+809,Nov 16 2003,World Cup & African Cup qual in Cape Verde,Cape Verde,Swaziland,1332,1208,3,0,15,-15,1347,1193,121,158,2,-2,123,156,40,100,224
+810,Nov 16 2003,Friendly in England,England,Denmark,1970,1881,2,3,-15,15,1955,1896,7,9,0,1,7,10,20,100,189
+811,Nov 16 2003,World Cup & African Cup qual in Eritrea,Eritrea,Sudan,1153,1370,0,0,6,-6,1159,1364,159,120,3,-2,162,118,20,0,-217
+812,Nov 16 2003,Friendly in the United States,Finland,Honduras,1704,1675,2,1,9,-9,1713,1666,37,49,0,-4,37,45,20,0,29
+813,Nov 16 2003,World Cup & African Cup qual in Ghana,Ghana,Somalia,1445,1067,5,0,5,-5,1450,1062,90,180,2,0,92,180,40,100,478
+814,Nov 16 2003,Friendly in Italy,Italy,Romania,1919,1809,1,0,5,-5,1924,1804,8,21,0,-1,8,20,20,100,210
+815,Nov 16 2003,Friendly in Jamaica,Jamaica,El Salvador,1589,1520,3,0,10,-10,1599,1510,57,83,1,-4,58,79,20,100,169
+816,Nov 16 2003,World Cup & African Cup qual in Lesotho,Lesotho,Botswana,1174,1235,0,0,-2,2,1172,1237,159,146,0,0,159,146,30,100,39
+817,Nov 16 2003,World Cup & African Cup qual in Liberia,Liberia,Gambia,1398,1372,3,0,23,-23,1421,1349,98,130,5,-8,103,122,40,100,126
+818,Nov 16 2003,World Cup & African Cup qual in Libya,Libya,São Tomé and Príncipe,1384,1057,8,0,7,-7,1391,1050,109,185,1,-2,110,183,40,100,427
+819,Nov 16 2003,World Cup & African Cup qual in Mauritius,Mauritius,Uganda,1267,1408,3,1,34,-34,1301,1374,121,121,9,-8,130,113,40,100,-41
+820,Nov 16 2003,World Cup & African Cup qual in Mozambique,Mozambique,Guinea,1262,1504,3,4,-12,12,1250,1516,147,71,-3,5,144,76,40,100,-142
+821,Nov 16 2003,World Cup qualifier in Peru,Peru,Brazil,1670,2015,1,1,12,-12,1682,2003,38,3,3,0,41,3,40,100,-245
+822,Nov 16 2003,Friendly in Poland,Poland,Serbia and Montenegro,1727,1743,4,3,8,-8,1735,1735,28,31,2,-1,30,30,20,100,84
+823,Nov 16 2003,World Cup & African Cup qual in Sierra Leone,Sierra Leone,Congo,1323,1368,1,1,-3,3,1320,1371,129,111,-1,3,128,114,40,100,55
+824,Nov 16 2003,World Cup & African Cup qual in Togo,Togo,Equatorial Guinea,1426,1084,2,0,4,-4,1430,1080,97,177,2,0,99,177,20,0,342
+825,Nov 17 2003,Asian Cup qualifier in Thailand,Thailand,Hong Kong,1375,1218,4,0,14,-14,1389,1204,110,156,1,-2,111,154,40,100,257
+826,Nov 17 2003,Asian Cup qualifier in Thailand,Uzbekistan,Tajikistan,1507,1453,4,1,30,-30,1537,1423,63,112,9,-11,72,101,40,0,54
+827,Nov 18 2003,World Cup qualifier in Chile,Chile,Paraguay,1647,1774,0,1,-18,18,1629,1792,57,21,-3,2,54,23,40,100,-27
+828,Nov 18 2003,Friendly in Egypt,Egypt,Sweden,1651,1815,1,0,12,-12,1663,1803,43,24,3,-3,46,21,20,100,-64
+829,Nov 18 2003,Friendly in Ireland,Ireland,Canada,1828,1601,3,0,5,-5,1833,1596,14,60,1,-2,15,58,20,100,327
+830,Nov 18 2003,Asian Cup qualifier in Jordan,Jordan,North Korea,1566,1441,3,0,15,-15,1581,1426,62,104,1,-4,63,100,40,100,225
+831,Nov 18 2003,Friendly in South Korea,South Korea,Bulgaria,1674,1754,0,1,-11,11,1663,1765,49,25,-3,1,46,26,20,100,20
+832,Nov 18 2003,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Sri Lanka,1442,935,3,1,2,-2,1444,933,93,193,1,0,94,193,20,0,507
+833,Nov 18 2003,World Cup qualifier in Venezuela,Venezuela,Bolivia,1623,1601,2,1,13,-13,1636,1588,48,62,3,-3,51,59,40,100,122
+834,Nov 19 2003,World Cup qualifier in Brazil,Brazil,Uruguay,2003,1850,3,3,-12,12,1991,1862,7,10,-2,2,5,12,40,100,253
+835,Nov 19 2003,World Cup qualifier in Colombia,Colombia,Argentina,1692,2029,1,1,12,-12,1704,2017,38,2,0,0,38,2,40,100,-237
+836,Nov 19 2003,Friendly in Costa Rica,Costa Rica,Finland,1727,1713,2,1,7,-7,1734,1706,31,37,1,0,32,37,20,100,114
+837,Nov 19 2003,World Cup qualifier in Ecuador,Ecuador,Peru,1724,1682,0,0,-8,8,1716,1690,35,37,0,2,35,39,40,100,142
+838,Nov 19 2003,World Cup & African Cup qual in Ghana,Ghana,Somalia,1450,1062,2,0,3,-3,1453,1059,89,180,1,0,90,180,20,0,388
+839,Nov 19 2003,Friendly in Hungary,Hungary,Estonia,1544,1399,0,1,-16,16,1528,1415,80,103,-6,2,74,105,20,100,245
+840,Nov 19 2003,Friendly in the United States,Iceland,Mexico,1583,1855,0,0,7,-7,1590,1848,56,13,3,0,59,13,20,0,-272
+841,Nov 19 2003,Friendly in Japan,Japan,Cameroon,1783,1783,0,0,-3,3,1780,1786,28,24,-2,0,26,24,20,100,100
+842,Nov 19 2003,Asian Cup qualifier in Lebanon,Lebanon,Iran,1359,1718,0,3,-13,13,1346,1731,129,30,-5,3,124,33,40,100,-259
+843,Nov 19 2003,Friendly in Morocco,Morocco,Mali,1588,1541,0,1,-14,14,1574,1555,69,65,-5,2,64,67,20,100,147
+844,Nov 19 2003,European Championship qual in the Netherlands,Netherlands,Scotland,1984,1688,6,0,8,-8,1992,1680,3,41,1,-1,4,40,40,100,396
+845,Nov 19 2003,European Championship qual in Norway,Norway,Spain,1730,1986,0,3,-20,20,1710,2006,40,2,-4,1,36,3,40,100,-156
+846,Nov 19 2003,Friendly in Portugal,Portugal,Kuwait,1916,1540,8,0,3,-3,1919,1537,9,71,0,0,9,71,20,100,476
+847,Nov 19 2003,Asian Cup qualifier in Qatar,Qatar,Singapore,1493,1200,2,0,6,-6,1499,1194,81,155,1,0,82,155,40,100,393
+848,Nov 19 2003,European Championship qual in Slovenia,Slovenia,Croatia,1684,1809,0,1,-19,19,1665,1828,48,16,-4,1,44,17,40,100,-25
+849,Nov 19 2003,Asian Cup qualifier in Thailand,Thailand,Tajikistan,1389,1423,1,0,16,-16,1405,1407,105,113,3,-6,108,107,30,0,-34
+850,Nov 19 2003,Friendly in Trinidad and Tobago,Trinidad and Tobago,Cuba,1408,1553,2,1,11,-11,1419,1542,102,72,2,-3,104,69,20,100,-45
+851,Nov 19 2003,Friendly in Tunisia,Tunisia,South Africa,1636,1658,2,0,12,-12,1648,1646,49,54,1,-3,50,51,20,100,78
+852,Nov 19 2003,European Championship qual in Turkey,Turkey,Latvia,1859,1541,2,2,-17,17,1842,1558,16,63,-2,3,14,66,40,100,418
+853,Nov 19 2003,World Cup qualifier in Turkmenistan,Turkmenistan,Afghanistan,1441,822,11,0,2,-2,1443,820,94,207,1,0,95,207,20,0,619
+854,Nov 19 2003,Asian Cup qualifier in Thailand,Uzbekistan,Hong Kong,1537,1204,1,0,5,-5,1542,1199,66,154,3,0,69,154,40,0,333
+855,Nov 19 2003,European Championship qual in Wales,Wales,Russia,1636,1762,0,1,-19,19,1617,1781,59,23,-4,2,55,25,40,100,-26
+856,Nov 20 2003,Friendly in Luxembourg,Luxembourg,Moldova,1090,1411,1,2,-4,4,1086,1415,175,104,0,1,175,105,20,100,-221
+857,Nov 21 2003,Asian Cup qualifier in Thailand,Tajikistan,Hong Kong,1407,1199,1,0,9,-9,1416,1190,105,160,1,-3,106,157,40,0,208
+858,Nov 21 2003,Asian Cup qualifier in Thailand,Thailand,Uzbekistan,1405,1542,4,1,39,-39,1444,1503,80,93,14,-12,94,81,40,100,-37
+859,Nov 22 2003,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Sri Lanka,1444,933,3,0,2,-2,1446,931,94,193,0,0,94,193,20,0,511
+860,Nov 23 2003,World Cup qualifier in Afghanistan,Afghanistan,Turkmenistan,820,1443,0,2,-3,3,817,1446,207,92,0,2,207,94,40,100,-523
+861,Nov 23 2003,World Cup qualifier in Taiwan,Taiwan,Macao,1037,865,3,0,12,-12,1049,853,184,204,1,-1,185,203,40,100,272
+862,Nov 26 2003,World Cup qualifier in Bangladesh,Bangladesh,Tajikistan,1024,1416,0,2,-9,9,1015,1425,188,98,0,4,188,102,40,100,-292
+863,Nov 28 2003,Asian Cup qualifier in Iran,Iran,Lebanon,1731,1346,1,0,2,-2,1733,1344,33,126,0,-1,33,125,20,0,385
+864,Nov 28 2003,Asian Cup qualifier in Syria,Syria,Turkmenistan,1366,1446,1,1,-1,1,1365,1447,116,94,0,0,116,94,20,100,20
+865,Nov 29 2003,World Cup qualifier in Laos,Laos,Sri Lanka,920,931,0,0,-5,5,915,936,197,193,-1,0,196,193,40,100,89
+866,Nov 29 2003,World Cup qualifier in Macao,Macao,Taiwan,853,1049,1,3,-22,22,831,1071,207,175,-2,5,205,180,40,100,-96
+867,Nov 29 2003,World Cup qualifier in Mongolia,Mongolia,Maldives,796,904,0,1,-20,20,776,924,208,194,0,1,208,195,40,100,-8
+868,Nov 29 2003,World Cup qualifier in Pakistan,Pakistan,Kyrgyzstan,874,1149,0,2,-16,16,858,1165,205,155,-3,6,202,161,40,100,-175
+869,Nov 29 2003,Asian Cup qualifier in Singapore,Singapore,Qatar,1194,1499,0,2,-14,14,1180,1513,162,74,-4,4,158,78,40,100,-205
+870,Nov 30 2003,CECAFA Cup in Sudan,Sudan,Zanzibar,1364,1154,4,0,11,-11,1375,1143,110,172,4,-4,114,168,40,100,310
+871,Nov 30 2003,World Cup qualifier in Tajikistan,Tajikistan,Bangladesh,1425,1015,2,0,3,-3,1428,1012,98,188,2,0,100,188,20,0,410
+872,Nov 30 2003,CECAFA Cup in Sudan,Uganda,Eritrea,1374,1159,2,1,9,-9,1383,1150,111,169,1,-3,112,166,40,0,215
+873,Dec 2 2003,CECAFA Cup in Sudan,Kenya,Eritrea,1497,1150,3,2,5,-5,1502,1145,83,170,0,-2,83,168,40,0,347
+874,Dec 2 2003,Friendly in Kuwait,Kuwait,Iran,1537,1733,3,1,19,-19,1556,1714,64,37,3,-2,67,35,20,100,-96
+875,Dec 2 2003,CECAFA Cup in Sudan,Rwanda,Zanzibar,1365,1143,2,2,-11,11,1354,1154,123,158,-3,5,120,163,30,100,322
+876,Dec 3 2003,World Cup qualifier in Kyrgyzstan,Kyrgyzstan,Pakistan,1165,858,4,0,7,-7,1172,851,157,206,2,-2,159,204,40,100,407
+877,Dec 3 2003,World Cup qualifier in the Maldives,Maldives,Mongolia,924,776,12,0,22,-22,946,754,191,212,2,-2,193,210,40,100,248
+878,Dec 3 2003,World Cup qualifier in Sri Lanka,Sri Lanka,Laos,936,915,3,0,23,-23,959,892,187,198,3,-1,190,197,40,100,121
+879,Dec 4 2003,East Asian Championship in Japan,Japan,China,1780,1588,2,0,9,-9,1789,1579,22,64,2,-2,24,62,40,100,292
+880,Dec 4 2003,CECAFA Cup in Sudan,Kenya,Uganda,1502,1383,1,1,-7,7,1495,1390,83,114,0,-1,83,113,40,0,119
+881,Dec 4 2003,East Asian Championship in Japan,South Korea,Hong Kong,1663,1190,3,1,4,-4,1667,1186,40,158,3,-1,43,157,40,0,473
+882,Dec 4 2003,CECAFA Cup in Sudan,Sudan,Rwanda,1375,1354,3,0,23,-23,1398,1331,104,132,5,-6,109,126,40,100,121
+883,Dec 5 2003,CEMAC Cup in Congo,Congo,Gabon,1371,1427,3,2,17,-17,1388,1410,113,115,1,-7,114,108,30,0,-56
+884,Dec 7 2003,East Asian Championship in Japan,Japan,Hong Kong,1789,1186,1,0,1,-1,1790,1185,24,157,0,0,24,157,20,0,603
+885,Dec 7 2003,East Asian Championship in Japan,South Korea,China,1667,1579,1,0,15,-15,1682,1564,37,66,3,-2,40,64,40,0,88
+886,Dec 8 2003,CECAFA Cup in Sudan,Kenya,Rwanda,1495,1331,1,1,-9,9,1486,1340,83,124,0,1,83,125,40,0,164
+887,Dec 8 2003,CECAFA Cup in Sudan,Sudan,Uganda,1398,1390,0,0,-6,6,1392,1396,115,107,-3,3,112,110,40,100,108
+888,Dec 9 2003,CEMAC Cup in Congo,Congo,Gabon,1388,1410,1,1,-4,4,1384,1414,114,108,0,0,114,108,40,100,78
+889,Dec 10 2003,East Asian Championship in Japan,China,Hong Kong,1564,1185,3,1,6,-6,1570,1179,64,159,0,-1,64,158,40,0,379
+890,Dec 10 2003,East Asian Championship in Japan,Japan,South Korea,1790,1682,0,0,-11,11,1779,1693,28,38,-2,1,26,39,40,100,208
+891,Dec 10 2003,CECAFA Cup in Sudan,Sudan,Kenya,1392,1486,1,2,-20,20,1372,1506,118,81,-3,1,115,82,40,100,6
+892,Dec 10 2003,CECAFA Cup in Sudan,Uganda,Rwanda,1396,1340,2,0,25,-25,1421,1315,96,131,7,-3,103,128,40,0,56
+893,Dec 11 2003,CEMAC Cup in Congo,Central African Republic,Gabon,1191,1414,2,0,47,-47,1238,1367,137,123,9,-7,146,116,40,0,-223
+894,Dec 11 2003,Friendly in Malta,Malta,Poland,1235,1735,0,4,-3,3,1232,1738,149,28,-1,1,148,29,20,100,-400
+895,Dec 12 2003,Friendly tournament in Bahrain,Bahrain,Iraq,1513,1619,2,2,0,0,1513,1619,78,54,0,0,78,54,20,100,-6
+896,Dec 12 2003,Friendly tournament in Bahrain,Egypt,Kenya,1663,1506,1,0,9,-9,1672,1497,39,84,4,-1,43,83,30,0,157
+897,Dec 13 2003,Friendly in Botswana,Botswana,Zimbabwe,1237,1477,0,2,-9,9,1228,1486,153,84,-3,0,150,84,20,100,-140
+898,Dec 13 2003,CEMAC Cup in Congo,Congo,Gabon,1384,1367,1,0,14,-14,1398,1353,106,122,3,-3,109,119,30,0,17
+899,Dec 14 2003,Friendly in Malta,Poland,Lithuania,1738,1429,3,1,4,-4,1742,1425,29,103,0,-2,29,101,20,0,309
+900,Dec 14 2003,Friendly in the United Arab Emirates,United Arab Emirates,Azerbaijan,1446,1347,3,3,-5,5,1441,1352,99,119,-2,1,97,120,20,100,199
+901,Dec 15 2003,Friendly tournament in Bahrain,Bahrain,Egypt,1513,1672,0,1,-12,12,1501,1684,86,39,-4,2,82,41,30,100,-59
+902,Dec 15 2003,Friendly tournament in Bahrain,Iraq,Kenya,1619,1497,2,0,15,-15,1634,1482,52,85,1,-1,53,84,30,0,122
+903,Dec 16 2003,Friendly in Cyprus,Kuwait,Lebanon,1556,1344,2,0,7,-7,1563,1337,65,126,1,-1,66,125,20,0,212
+904,Dec 17 2003,Friendly in Oman,Oman,Azerbaijan,1531,1352,1,0,3,-3,1534,1349,71,120,0,0,71,120,20,100,279
+905,Dec 17 2003,Friendly in Saudi Arabia,Saudi Arabia,Estonia,1665,1415,1,1,-8,8,1657,1423,50,97,-2,5,48,102,20,100,350
+906,Dec 18 2003,Friendly tournament in Bahrain,Bahrain,Kenya,1501,1482,2,1,10,-10,1511,1472,76,88,3,-2,79,86,30,100,119
+907,Dec 18 2003,Friendly tournament in Bahrain,Egypt,Iraq,1684,1634,2,0,19,-19,1703,1615,37,57,2,-2,39,55,30,0,50
+908,Dec 18 2003,Friendly in Cyprus,Kuwait,Lebanon,1563,1337,0,0,-6,6,1557,1343,68,123,-1,1,67,124,20,0,226
+909,Dec 20 2003,Friendly in Cyprus,Kuwait,Latvia,1557,1558,2,0,15,-15,1572,1543,61,72,3,-3,64,69,20,0,-1
+910,Dec 20 2003,Friendly in Oman,Oman,Estonia,1534,1423,3,1,7,-7,1541,1416,71,112,0,-5,71,107,20,100,211
+911,Dec 20 2003,Friendly in Saudi Arabia,Saudi Arabia,Azerbaijan,1657,1349,1,0,2,-2,1659,1347,46,122,1,-1,47,121,20,100,408
+912,Dec 21 2003,Friendly in Qatar,Qatar,Iraq,1513,1615,0,0,0,0,1513,1615,78,55,0,0,78,55,20,100,-2
+913,Dec 21 2003,Friendly in the United Arab Emirates,United Arab Emirates,Kenya,1441,1472,2,2,-2,2,1439,1474,97,86,0,0,97,86,20,100,69
+914,Dec 26 2003,Friendly in Bermuda,Bermuda,Barbados,1281,1359,1,2,-11,11,1270,1370,141,115,-3,1,138,116,20,100,22
+915,Dec 26 2003,Gulf Cup in Kuwait,Kuwait,Oman,1572,1541,0,0,-7,7,1565,1548,66,65,-1,3,65,68,40,100,131
+916,Dec 26 2003,Gulf Cup in Kuwait,Saudi Arabia,United Arab Emirates,1659,1439,2,0,13,-13,1672,1426,41,101,3,-2,44,99,40,0,220
+917,Dec 27 2003,Gulf Cup in Kuwait,Bahrain,Qatar,1511,1513,0,0,0,0,1511,1513,79,78,0,0,79,78,20,0,-2
+918,Dec 27 2003,Friendly in the United States,Haiti,Bahamas,1476,852,6,0,1,-1,1477,851,83,203,1,0,84,203,20,0,624
+919,Dec 28 2003,Gulf Cup in Kuwait,Oman,Yemen,1548,1172,1,1,-16,16,1532,1188,74,153,-3,3,71,156,40,0,376
+920,Dec 29 2003,Gulf Cup in Kuwait,Kuwait,United Arab Emirates,1565,1426,0,2,-48,48,1517,1474,87,73,-11,13,76,86,40,100,239
+921,Dec 29 2003,Gulf Cup in Kuwait,Qatar,Saudi Arabia,1513,1672,0,0,9,-9,1522,1663,70,50,4,-3,74,47,40,0,-159
+922,Dec 30 2003,Gulf Cup in Kuwait,Bahrain,Yemen,1511,1188,5,1,10,-10,1521,1178,71,162,4,-3,75,159,40,0,323
+923,Dec 31 2003,Gulf Cup in Kuwait,Oman,United Arab Emirates,1532,1474,2,0,25,-25,1557,1449,62,98,4,-6,66,92,40,0,58

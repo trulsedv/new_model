@@ -1,0 +1,983 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 6 2007,Friendly in Martinique,Martinique,Guadeloupe,1378,1397,3,0,13,-13,1391,1384,103,111,2,-4,105,107,20,100,81
+1,Jan 7 2007,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Haiti,Bermuda,1443,1204,2,0,12,-12,1455,1192,94,160,1,-2,95,158,40,0,239
+2,Jan 7 2007,Friendly in Singapore,Singapore,Philippines,1287,754,4,1,1,-1,1288,753,132,211,0,0,132,211,20,100,633
+3,Jan 7 2007,Friendly in Yemen,Yemen,Eritrea,1249,1130,4,1,8,-8,1257,1122,140,168,1,0,141,168,20,100,219
+4,Jan 8 2007,Friendly in Saudi Arabia,Saudi Arabia,Gambia,1603,1346,3,0,4,-4,1607,1342,55,120,0,-2,55,118,20,100,357
+5,Jan 9 2007,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Haiti,Bermuda,1455,1192,3,0,13,-13,1468,1179,91,172,2,-7,93,165,40,0,263
+6,Jan 11 2007,Friendly in Costa Rica,Costa Rica,Nicaragua,1633,1028,2,0,1,-1,1634,1027,50,182,0,0,50,182,20,0,605
+7,Jan 11 2007,Friendly in Saudi Arabia,Saudi Arabia,Syria,1607,1483,2,1,4,-4,1611,1479,53,90,1,0,54,90,20,100,224
+8,Jan 12 2007,Friendly in the United Arab Emirates,Bahrain,Yemen,1485,1257,4,0,8,-8,1493,1249,83,143,3,-1,86,142,20,0,228
+9,Jan 12 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Martinique,1468,1391,1,0,16,-16,1484,1375,85,109,4,-2,89,107,40,0,77
+10,Jan 12 2007,Southeast Asian Champ in Thailand,Malaysia,Philippines,1182,753,4,0,6,-6,1188,747,155,211,4,0,159,211,40,0,429
+11,Jan 12 2007,Southeast Asian Champ in Thailand,Thailand,Myanmar,1344,1161,1,1,-13,13,1331,1174,123,167,-3,0,120,167,40,100,283
+12,Jan 12 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Barbados,1553,1319,1,1,-15,15,1538,1334,79,112,-4,6,75,118,40,100,334
+13,Jan 12 2007,Friendly in the United Arab Emirates,United Arab Emirates,Iran,1490,1768,0,2,-8,8,1482,1776,94,22,-4,3,90,25,20,100,-178
+14,Jan 13 2007,Southeast Asian Champ in Singapore,Indonesia,Laos,1281,917,3,1,7,-7,1288,910,131,196,1,0,132,196,40,0,364
+15,Jan 13 2007,Friendly in Qatar,Qatar,Oman,1549,1576,1,1,-2,2,1547,1578,74,63,-1,0,73,63,20,100,73
+16,Jan 13 2007,Southeast Asian Champ in Singapore,Singapore,Vietnam,1288,1220,0,0,-9,9,1279,1229,138,147,-3,2,135,149,40,100,168
+17,Jan 14 2007,Friendly in the United States,Armenia,Panama,1385,1503,1,1,3,-3,1388,1500,107,83,-1,0,106,83,20,0,-118
+18,Jan 14 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Guadeloupe,Cuba,1384,1579,2,1,30,-30,1414,1549,96,80,5,-9,101,71,40,0,-195
+19,Jan 14 2007,Southeast Asian Champ in Thailand,Malaysia,Myanmar,1188,1174,0,0,-1,1,1187,1175,159,167,0,0,159,167,30,0,14
+20,Jan 14 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,St Vincent & Grenadines,Guyana,1359,1333,2,0,28,-28,1387,1305,102,137,5,-9,107,128,40,0,26
+21,Jan 14 2007,Southeast Asian Champ in Thailand,Thailand,Philippines,1331,747,4,0,1,-1,1332,746,118,211,1,0,119,211,20,0,584
+22,Jan 14 2007,Friendly in Venezuela,Venezuela,Sweden,1625,1871,2,0,21,-21,1646,1850,45,14,4,0,49,14,20,100,-146
+23,Jan 15 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Barbados,1484,1334,2,0,18,-18,1502,1316,77,130,6,-6,83,124,40,0,150
+24,Jan 15 2007,Southeast Asian Champ in Singapore,Indonesia,Vietnam,1288,1229,1,1,-3,3,1285,1232,134,147,-1,1,133,148,30,0,59
+25,Jan 15 2007,Southeast Asian Champ in Singapore,Singapore,Laos,1279,910,11,0,7,-7,1286,903,129,196,3,0,132,196,40,100,469
+26,Jan 15 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Martinique,1538,1375,5,1,14,-14,1552,1361,67,116,4,-4,71,112,40,100,263
+27,Jan 16 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,St Vincent & Grenadines,1549,1387,3,0,20,-20,1569,1367,58,115,7,-4,65,111,40,0,162
+28,Jan 16 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Guyana,Guadeloupe,1305,1414,4,3,26,-26,1331,1388,110,109,9,-4,119,105,40,0,-109
+29,Jan 16 2007,Southeast Asian Champ in Thailand,Myanmar,Philippines,1175,746,0,0,-17,17,1158,763,167,209,0,1,167,210,40,0,429
+30,Jan 16 2007,Southeast Asian Champ in Thailand,Thailand,Malaysia,1332,1187,1,0,8,-8,1340,1179,118,169,0,-5,118,164,40,100,245
+31,Jan 17 2007,Gulf Cup in the United Arab Emirates,Kuwait,Yemen,1487,1249,1,1,-12,12,1475,1261,94,134,-3,4,91,138,40,0,238
+32,Jan 17 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Martinique,Barbados,1361,1316,3,2,17,-17,1378,1299,102,135,5,-5,107,130,40,0,45
+33,Jan 17 2007,Southeast Asian Champ in Singapore,Singapore,Indonesia,1286,1285,2,2,-6,6,1280,1291,136,131,-2,1,134,132,40,100,101
+34,Jan 17 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Haiti,1552,1502,3,1,18,-18,1570,1484,58,93,7,-5,65,88,40,100,150
+35,Jan 17 2007,Gulf Cup in the United Arab Emirates,United Arab Emirates,Oman,1482,1578,1,2,-20,20,1462,1598,98,50,-4,6,94,56,40,100,4
+36,Jan 17 2007,Southeast Asian Champ in Singapore,Vietnam,Laos,1232,903,9,0,13,-13,1245,890,140,198,4,-1,144,197,40,0,329
+37,Jan 18 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Guyana,1569,1331,0,0,-12,12,1557,1343,74,115,-4,2,70,117,40,0,238
+38,Jan 18 2007,Friendly in Ecuador,Ecuador,Sweden,1760,1850,2,1,10,-10,1770,1840,26,18,3,-2,29,16,20,100,10
+39,Jan 18 2007,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Guadeloupe,St Vincent & Grenadines,1388,1367,1,0,19,-19,1407,1348,97,118,4,-3,101,115,40,0,21
+40,Jan 18 2007,Gulf Cup in the United Arab Emirates,Iraq,Qatar,1598,1547,1,0,17,-17,1615,1530,54,80,1,-3,55,77,40,0,51
+41,Jan 18 2007,Gulf Cup in the United Arab Emirates,Saudi Arabia,Bahrain,1611,1493,2,1,13,-13,1624,1480,54,90,0,-2,54,88,40,0,118
+42,Jan 20 2007,Caribbean Cup in Trinidad and Tobago,Haiti,Guadeloupe,1484,1407,3,1,23,-23,1507,1384,75,111,6,-5,81,106,40,0,77
+43,Jan 20 2007,Gulf Cup in the United Arab Emirates,Oman,Kuwait,1598,1475,2,1,13,-13,1611,1462,55,97,1,-3,56,94,40,0,123
+44,Jan 20 2007,Caribbean Cup in Trinidad and Tobago,Trinidad and Tobago,Cuba,1570,1557,3,1,21,-21,1591,1536,55,80,5,-5,60,75,40,100,113
+45,Jan 20 2007,Gulf Cup in the United Arab Emirates,United Arab Emirates,Yemen,1462,1261,2,1,6,-6,1468,1255,90,144,2,-3,92,141,40,100,301
+46,Jan 21 2007,Gulf Cup in the United Arab Emirates,Bahrain,Iraq,1480,1615,1,1,7,-7,1487,1608,86,59,1,-2,87,57,40,0,-135
+47,Jan 21 2007,Friendly in Ecuador,Ecuador,Sweden,1770,1840,1,1,-1,1,1769,1841,29,16,0,0,29,16,20,100,30
+48,Jan 21 2007,Gulf Cup in the United Arab Emirates,Qatar,Saudi Arabia,1530,1624,1,1,5,-5,1535,1619,75,54,1,0,76,54,40,0,-94
+49,Jan 23 2007,Caribbean Cup in Trinidad and Tobago,Cuba,Guadeloupe,1536,1384,2,1,12,-12,1548,1372,69,112,3,-3,72,109,40,0,152
+50,Jan 23 2007,Southeast Asian Champ in Malaysia,Malaysia,Singapore,1179,1280,1,1,0,0,1179,1280,164,134,0,0,164,134,20,100,-1
+51,Jan 23 2007,Gulf Cup in the United Arab Emirates,Oman,Yemen,1611,1255,2,1,5,-5,1616,1250,55,143,0,-1,55,142,40,0,356
+52,Jan 23 2007,Caribbean Cup in Trinidad and Tobago,Trinidad and Tobago,Haiti,1591,1507,1,2,-30,30,1561,1537,78,69,-9,6,69,75,40,100,184
+53,Jan 23 2007,Gulf Cup in the United Arab Emirates,United Arab Emirates,Kuwait,1468,1462,3,2,14,-14,1482,1448,86,96,3,-1,89,95,40,100,106
+54,Jan 24 2007,Gulf Cup in the United Arab Emirates,Bahrain,Qatar,1487,1535,2,1,23,-23,1510,1512,75,83,6,-3,81,80,40,0,-48
+55,Jan 24 2007,Gulf Cup in the United Arab Emirates,Saudi Arabia,Iraq,1619,1608,1,0,19,-19,1638,1589,48,63,3,-3,51,60,40,0,11
+56,Jan 24 2007,Southeast Asian Champ in Vietnam,Vietnam,Thailand,1245,1340,0,2,-30,30,1215,1370,162,101,-9,9,153,110,40,100,5
+57,Jan 24 2007,Friendly in Zanzibar,Zanzibar,Northern Cyprus,1211,1468,2,1,14,-14,1225,1454,147,95,3,-1,150,94,20,100,-157
+58,Jan 27 2007,Gulf Cup in the United Arab Emirates,Oman,Bahrain,1616,1510,1,0,14,-14,1630,1496,51,93,2,-6,53,87,40,0,106
+59,Jan 27 2007,Southeast Asian Champ in Singapore,Singapore,Malaysia,1280,1179,1,1,-10,10,1270,1189,140,152,-3,6,137,158,40,100,201
+60,Jan 27 2007,Gulf Cup in the United Arab Emirates,United Arab Emirates,Saudi Arabia,1482,1638,1,0,23,-23,1505,1615,77,59,6,-4,83,55,40,100,-56
+61,Jan 28 2007,Southeast Asian Champ in Thailand,Thailand,Vietnam,1370,1215,0,0,-13,13,1357,1228,114,145,-2,4,112,149,40,100,255
+62,Jan 30 2007,Gulf Cup in the United Arab Emirates,United Arab Emirates,Oman,1505,1630,1,0,21,-21,1526,1609,75,59,4,-3,79,56,40,100,-25
+63,Jan 31 2007,Friendly in Panama,Panama,Trinidad and Tobago,1500,1561,2,1,9,-9,1509,1552,79,73,3,-2,82,71,20,100,39
+64,Jan 31 2007,Southeast Asian Champ in Singapore,Singapore,Thailand,1270,1357,2,1,19,-19,1289,1338,129,126,4,-7,133,119,30,0,-87
+65,Feb 3 2007,Friendly in Spain,Poland,Estonia,1780,1407,4,0,4,-4,1784,1403,22,101,1,0,23,101,20,0,373
+66,Feb 4 2007,Friendly in Costa Rica,Costa Rica,Trinidad and Tobago,1634,1552,4,0,10,-10,1644,1542,49,77,1,-3,50,74,20,100,182
+67,Feb 4 2007,Southeast Asian Champ in Thailand,Thailand,Singapore,1338,1289,1,1,-8,8,1330,1297,119,131,0,1,119,132,40,100,149
+68,Feb 6 2007,Friendly in Botswana,Botswana,Namibia,1304,1205,1,0,5,-5,1309,1200,126,155,1,0,127,155,20,100,199
+69,Feb 6 2007,Friendly tournament in Cyprus,Bulgaria,Latvia,1737,1486,2,0,9,-9,1746,1477,34,91,2,-1,36,90,30,0,251
+70,Feb 6 2007,Friendly tournament in Cyprus,Cyprus,Hungary,1506,1584,2,1,14,-14,1520,1570,76,67,4,-3,80,64,30,100,22
+71,Feb 6 2007,Friendly in England,Denmark,Australia,1903,1763,3,1,9,-9,1912,1754,10,37,-1,-3,9,34,20,0,140
+72,Feb 6 2007,Friendly in England,Ghana,Nigeria,1754,1784,4,1,19,-19,1773,1765,20,39,7,-8,27,31,20,0,-30
+73,Feb 6 2007,Friendly in France,Ivory Coast,Guinea,1772,1582,1,0,5,-5,1777,1577,21,60,3,1,24,61,20,0,190
+74,Feb 6 2007,Friendly in France,Mali,Lithuania,1553,1505,3,1,13,-13,1566,1492,60,91,5,-3,65,88,20,0,48
+75,Feb 6 2007,Friendly in Northern Ireland,Northern Ireland,Wales,1537,1575,0,0,-2,2,1535,1577,77,59,-1,2,76,61,20,100,62
+76,Feb 6 2007,Friendly in England,Portugal,Brazil,1894,2080,2,0,22,-22,1916,2058,6,3,2,-1,8,2,20,0,-186
+77,Feb 6 2007,Friendly in England,South Korea,Greece,1667,1839,1,0,15,-15,1682,1824,44,17,1,0,45,17,20,0,-172
+78,Feb 7 2007,Friendly in Albania,Albania,Macedonia,1509,1531,0,1,-12,12,1497,1543,85,71,-1,3,84,74,20,100,78
+79,Feb 7 2007,Friendly in Algeria,Algeria,Libya,1418,1444,2,1,8,-8,1426,1436,96,98,2,-1,98,97,20,100,74
+80,Feb 7 2007,Friendly in Andorra,Andorra,Armenia,1092,1388,0,0,5,-5,1097,1383,175,105,0,0,175,105,20,100,-196
+81,Feb 7 2007,Friendly in Belgium,Belgium,Czechia,1675,1887,0,2,-10,10,1665,1897,46,13,0,-1,46,12,20,100,-112
+82,Feb 7 2007,Friendly in China,China,Kazakhstan,1598,1327,2,1,2,-2,1600,1325,57,122,0,-1,57,121,20,100,371
+83,Feb 7 2007,Friendly in Colombia,Colombia,Uruguay,1790,1822,1,3,-18,18,1772,1840,31,10,-5,4,26,14,20,100,68
+84,Feb 7 2007,Friendly in Croatia,Croatia,Norway,1897,1766,2,1,4,-4,1901,1762,10,34,0,-2,10,32,20,100,231
+85,Feb 7 2007,Friendly tournament in Cyprus,Cyprus,Bulgaria,1520,1746,0,3,-17,17,1503,1763,86,26,-3,5,83,31,30,100,-126
+86,Feb 7 2007,Friendly in Egypt,Egypt,Sweden,1724,1841,2,0,16,-16,1740,1825,35,18,3,-1,38,17,20,100,-17
+87,Feb 7 2007,Friendly in England,England,Spain,1960,1885,0,1,-15,15,1945,1900,7,10,0,1,7,11,20,100,175
+88,Feb 7 2007,Friendly in France,France,Argentina,2062,1980,0,1,-15,15,2047,1995,3,5,-1,0,2,5,20,100,182
+89,Feb 7 2007,Friendly in Georgia,Georgia,Turkey,1527,1844,1,0,16,-16,1543,1828,70,17,4,-1,74,16,20,100,-217
+90,Feb 7 2007,Friendly in Germany,Germany,Switzerland,1977,1846,3,1,6,-6,1983,1840,6,14,0,0,6,14,20,100,231
+91,Feb 7 2007,Friendly tournament in Cyprus,Hungary,Latvia,1570,1477,2,0,17,-17,1587,1460,58,96,3,-3,61,93,30,0,93
+92,Feb 7 2007,Friendly in Iran,Iran,Belarus,1776,1562,2,2,-7,7,1769,1569,29,61,-2,3,27,64,20,100,314
+93,Feb 7 2007,Friendly in Israel,Israel,Ukraine,1713,1806,1,1,0,0,1713,1806,43,18,0,1,43,19,20,100,7
+94,Feb 7 2007,Friendly in Luxembourg,Luxembourg,Gambia,992,1342,2,1,16,-16,1008,1326,184,122,1,-2,185,120,20,100,-250
+95,Feb 7 2007,Friendly in Malta,Malta,Austria,1258,1629,1,1,7,-7,1265,1622,136,53,2,0,138,53,20,100,-271
+96,Feb 7 2007,Friendly in Morocco,Morocco,Tunisia,1652,1643,1,1,-3,3,1649,1646,48,47,0,2,48,49,20,100,109
+97,Feb 7 2007,Friendly in the Netherlands,Netherlands,Russia,1991,1772,4,1,5,-5,1996,1767,4,30,0,-1,4,29,20,100,319
+98,Feb 7 2007,Friendly in New Zealand,New Zealand,Tahiti,1520,1246,0,0,-8,8,1512,1254,80,139,0,2,80,141,20,100,374
+99,Feb 7 2007,Friendly in Spain,Poland,Slovakia,1784,1717,2,2,-2,2,1782,1719,21,42,1,0,22,42,20,0,67
+100,Feb 7 2007,Friendly in Romania,Romania,Moldova,1873,1419,2,0,1,-1,1874,1418,13,101,0,-1,13,100,20,100,554
+101,Feb 7 2007,European Championship qual in San Marino,San Marino,Ireland,937,1747,1,2,-1,1,936,1748,192,37,0,-1,192,36,40,100,-710
+102,Feb 7 2007,Friendly in France,Senegal,Benin,1654,1280,2,1,2,-2,1656,1278,47,137,0,-1,47,136,20,0,374
+103,Feb 7 2007,Friendly in Slovenia,Slovenia,Estonia,1562,1403,1,0,4,-4,1566,1399,63,103,2,-1,65,102,20,100,259
+104,Feb 7 2007,Friendly in Togo,Togo,Cameroon,1437,1787,2,2,6,-6,1443,1781,95,24,1,-1,96,23,20,100,-250
+105,Feb 7 2007,Friendly in the United States,United States,Mexico,1775,1817,2,0,13,-13,1788,1804,16,21,5,-1,21,20,20,100,58
+106,Feb 7 2007,Friendly in Uzbekistan,Uzbekistan,Azerbaijan,1571,1350,0,0,-7,7,1564,1357,71,111,-4,1,67,112,20,100,321
+107,Feb 7 2007,Friendly in Venezuela,Venezuela,Chile,1646,1736,0,1,-10,10,1636,1746,53,35,-2,2,51,37,20,100,10
+108,Feb 8 2007,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Belize,1373,1092,2,1,4,-4,1377,1088,107,178,0,-1,107,177,40,100,381
+109,Feb 8 2007,N Am Ch q & UNCAF Cup in El Salvador,Guatemala,Nicaragua,1546,1027,1,0,2,-2,1548,1025,69,184,2,-1,71,183,40,0,519
+110,Feb 9 2007,Friendly in China,China,Kazakhstan,1600,1325,1,0,2,-2,1602,1323,57,123,0,-1,57,122,20,100,375
+111,Feb 9 2007,N Am Ch q & UNCAF Cup in El Salvador,Costa Rica,Honduras,1644,1739,3,1,38,-38,1682,1701,40,47,5,-4,45,43,40,0,-95
+112,Feb 9 2007,Friendly in New Zealand,New Zealand,Tahiti,1512,1254,0,0,-8,8,1504,1262,84,137,-2,2,82,139,20,100,358
+113,Feb 10 2007,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Nicaragua,1377,1025,2,1,3,-3,1380,1022,105,183,1,0,106,183,30,0,352
+114,Feb 10 2007,N Am Ch q & UNCAF Cup in El Salvador,Guatemala,Belize,1548,1088,1,0,3,-3,1551,1085,71,177,0,0,71,177,40,0,460
+115,Feb 11 2007,N Am Ch q & UNCAF Cup in El Salvador,Honduras,Panama,1701,1509,1,1,-10,10,1691,1519,43,79,0,1,43,80,30,100,292
+116,Feb 12 2007,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Guatemala,1380,1551,0,0,4,-4,1384,1547,104,75,1,-2,105,73,40,100,-71
+117,Feb 12 2007,N Am Ch q & UNCAF Cup in El Salvador,Nicaragua,Belize,1022,1085,4,2,35,-35,1057,1050,175,183,4,-3,179,180,40,0,-63
+118,Feb 13 2007,Friendly in Lesotho,Lesotho,Swaziland,1122,1184,0,1,-11,11,1111,1195,176,150,-4,6,172,156,20,100,38
+119,Feb 13 2007,N Am Ch q & UNCAF Cup in El Salvador,Panama,Costa Rica,1519,1682,1,0,29,-29,1548,1653,62,51,9,-3,71,48,40,0,-163
+120,Feb 15 2007,N Am Ch q & UNCAF Cup in El Salvador,Honduras,Nicaragua,1691,1057,9,1,2,-2,1693,1055,43,179,0,0,43,179,30,0,634
+121,Feb 16 2007,UNCAF Nations Cup in El Salvador,El Salvador,Costa Rica,1384,1653,0,2,-16,16,1368,1669,117,44,-6,2,111,46,40,100,-169
+122,Feb 16 2007,UNCAF Nations Cup in El Salvador,Panama,Guatemala,1548,1547,2,0,30,-30,1578,1517,53,86,9,-6,62,80,40,0,1
+123,Feb 18 2007,UNCAF Nations Cup in El Salvador,Costa Rica,Panama,1669,1578,1,1,-5,5,1664,1583,48,62,-1,0,47,62,20,100,191
+124,Feb 18 2007,UNCAF Nations Cup in El Salvador,El Salvador,Guatemala,1368,1517,0,1,-17,17,1351,1534,115,78,-2,1,113,79,40,100,-49
+125,Feb 22 2007,Friendly in Benin,Benin,Chad,1278,1254,0,1,-13,13,1265,1267,140,132,-2,5,138,137,20,100,124
+126,Feb 28 2007,Friendly in the United States,Mexico,Venezuela,1804,1636,3,1,8,-8,1812,1628,18,53,1,-1,19,52,20,0,168
+127,Mar 5 2007,CEMAC Cup in Chad,Congo,Equatorial Guinea,1369,1184,2,1,10,-10,1379,1174,102,169,4,-3,106,166,40,0,185
+128,Mar 6 2007,CEMAC Cup in Chad,Chad,Central African Republic,1267,1224,3,2,12,-12,1279,1212,133,154,2,-1,135,153,40,100,143
+129,Mar 7 2007,Friendly tournament in Kazakhstan,Azerbaijan,Uzbekistan,1357,1564,1,0,23,-23,1380,1541,101,84,5,-8,106,76,30,0,-207
+130,Mar 7 2007,CEMAC Cup in Chad,Congo,Gabon,1379,1392,2,2,1,-1,1380,1391,106,104,0,0,106,104,30,0,-13
+131,Mar 7 2007,Friendly tournament in Kazakhstan,Kazakhstan,Kyrgyzstan,1323,1193,2,0,9,-9,1332,1184,114,166,4,-4,118,162,30,100,230
+132,Mar 9 2007,CEMAC Cup in Chad,Equatorial Guinea,Gabon,1174,1391,1,1,11,-11,1185,1380,156,106,5,-1,161,105,40,0,-217
+133,Mar 9 2007,Friendly tournament in Kazakhstan,Kazakhstan,Azerbaijan,1332,1380,1,0,13,-13,1345,1367,114,116,2,-5,116,111,30,100,52
+134,Mar 9 2007,Friendly tournament in Kazakhstan,Uzbekistan,Kyrgyzstan,1541,1184,6,0,7,-7,1548,1177,66,170,5,-4,71,166,30,0,357
+135,Mar 11 2007,Friendly tournament in Kazakhstan,Azerbaijan,Kyrgyzstan,1367,1177,1,0,8,-8,1375,1169,105,166,3,0,108,166,30,0,190
+136,Mar 11 2007,CEMAC Cup in Chad,Chad,Gabon,1279,1380,1,2,-20,20,1259,1400,147,99,-6,3,141,102,40,100,-1
+137,Mar 11 2007,Friendly tournament in Kazakhstan,Kazakhstan,Uzbekistan,1345,1548,1,1,4,-4,1349,1544,112,75,2,-2,114,73,30,100,-103
+138,Mar 12 2007,CEMAC Cup in Chad,Congo,Central African Republic,1380,1212,4,1,19,-19,1399,1193,100,161,3,-4,103,157,40,0,168
+139,Mar 13 2007,Friendly in South Africa,South Africa,Swaziland,1476,1195,1,1,-8,8,1468,1203,92,153,-1,1,91,154,20,100,381
+140,Mar 15 2007,CEMAC Cup in Chad,Chad,Central African Republic,1259,1193,1,0,11,-11,1270,1182,133,167,4,-5,137,162,40,100,166
+141,Mar 16 2007,CEMAC Cup in Chad,Congo,Gabon,1399,1400,1,0,20,-20,1419,1380,97,110,3,-4,100,106,40,0,-1
+142,Mar 18 2007,Friendly in Swaziland,Swaziland,Lesotho,1203,1111,0,1,-15,15,1188,1126,162,164,-4,4,158,168,20,100,192
+143,Mar 20 2007,Friendly in Libya,Libya,Mauritania,1436,1195,0,0,-8,8,1428,1203,97,153,0,1,97,154,20,100,341
+144,Mar 21 2007,Friendly in Mauritius,Mauritius,Ivory Coast,1260,1777,0,3,-3,3,1257,1780,143,24,-1,0,142,24,20,100,-417
+145,Mar 22 2007,Friendly in the United States,Switzerland,Jamaica,1840,1611,2,0,6,-6,1846,1605,14,57,0,-1,14,56,20,0,229
+146,Mar 24 2007,European Championship qual in Albania,Albania,Slovenia,1497,1566,0,0,-2,2,1495,1568,88,68,-2,-1,86,67,40,100,31
+147,Mar 24 2007,African Nations Cup qualifier in Algeria,Algeria,Cape Verde,1426,1324,2,0,14,-14,1440,1310,98,128,0,-3,98,125,40,100,202
+148,Mar 24 2007,Friendly in Austria,Austria,Ghana,1622,1773,1,1,1,-1,1623,1772,55,29,-1,-2,54,27,20,100,-51
+149,Mar 24 2007,Friendly in Sweden,Brazil,Chile,2058,1746,4,0,5,-5,2063,1741,1,35,0,1,1,36,20,0,312
+150,Mar 24 2007,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Mozambique,1426,1281,1,1,-12,12,1414,1293,104,132,-3,1,101,133,40,100,245
+151,Mar 24 2007,African Nations Cup qualifier in Cameroon,Cameroon,Liberia,1781,1279,3,1,2,-2,1783,1277,21,137,1,-1,22,136,20,0,502
+152,Mar 24 2007,African Nations Cup qualifier in Chad,Chad,South Africa,1270,1468,0,3,-25,25,1245,1493,151,85,-7,3,144,88,40,100,-98
+153,Mar 24 2007,Friendly in China,China,Australia,1602,1754,0,2,-13,13,1589,1767,67,27,-5,4,62,31,20,100,-52
+154,Mar 24 2007,Friendly in Costa Rica,Costa Rica,New Zealand,1664,1504,4,0,7,-7,1671,1497,45,84,1,-1,46,83,20,100,260
+155,Mar 24 2007,European Championship qual in Croatia,Croatia,Macedonia,1901,1543,2,1,3,-3,1904,1540,10,78,0,-2,10,76,30,0,358
+156,Mar 24 2007,European Championship qual in Cyprus,Cyprus,Slovakia,1503,1719,1,3,-20,20,1483,1739,97,35,-7,3,90,38,40,100,-116
+157,Mar 24 2007,European Championship qual in Czechia,Czechia,Germany,1897,1983,1,2,-21,21,1876,2004,14,2,-1,2,13,4,40,100,14
+158,Mar 24 2007,European Championship qual in Estonia,Estonia,Russia,1399,1767,0,2,-11,11,1388,1778,107,21,-2,4,105,25,40,100,-268
+159,Mar 24 2007,European Championship qual in the Faroe Islands,Faroe Islands,Ukraine,1179,1806,0,2,-3,3,1176,1809,168,18,-2,1,166,19,40,100,-527
+160,Mar 24 2007,African Nations Cup qualifier in The Gambia,Gambia,Guinea,1326,1577,0,2,-18,18,1308,1595,135,55,-7,4,128,59,40,100,-151
+161,Mar 24 2007,European Championship qual in Greece,Greece,Turkey,1824,1828,1,4,-44,44,1780,1872,28,12,-5,2,23,14,40,100,96
+162,Mar 24 2007,Friendly in Guadeloupe,Guadeloupe,Trinidad and Tobago,1372,1542,2,2,2,-2,1374,1540,110,76,0,0,110,76,20,100,-70
+163,Mar 24 2007,Friendly in the United States,Haiti,Panama,1537,1583,3,0,20,-20,1557,1563,65,78,6,-8,71,70,20,0,-46
+164,Mar 24 2007,Friendly in the United States,Honduras,El Salvador,1693,1351,2,0,4,-4,1697,1347,45,121,-1,-4,44,117,20,0,342
+165,Mar 24 2007,European Championship qual in Ireland,Ireland,Wales,1748,1577,1,0,7,-7,1755,1570,32,69,2,-3,34,66,40,100,271
+166,Mar 24 2007,European Championship qual in Israel,Israel,England,1713,1945,0,0,7,-7,1720,1938,42,7,0,0,42,7,40,100,-132
+167,Mar 24 2007,Friendly in Japan,Japan,Peru,1730,1631,2,0,7,-7,1737,1624,38,55,1,-2,39,53,20,100,199
+168,Mar 24 2007,European Championship qual in Kazakhstan,Kazakhstan,Serbia,1349,1761,2,1,34,-34,1383,1727,98,49,8,-8,106,41,40,100,-312
+169,Mar 24 2007,European Championship qual in Liechtenstein,Liechtenstein,Northern Ireland,1114,1535,1,4,-10,10,1104,1545,174,70,-1,4,173,74,40,100,-321
+170,Mar 24 2007,European Championship qual in Lithuania,Lithuania,France,1492,2047,0,1,-3,3,1489,2050,90,2,-1,0,89,2,40,100,-455
+171,Mar 24 2007,European Championship qual in Luxembourg,Luxembourg,Belarus,1008,1569,1,2,-3,3,1005,1572,187,65,-1,0,186,65,40,100,-461
+172,Mar 24 2007,European Championship qual in Moldova,Moldova,Malta,1418,1265,1,1,-12,12,1406,1277,103,134,-1,2,102,136,40,100,253
+173,Mar 24 2007,Friendly in Montenegro,Montenegro,Hungary,1700,1587,2,1,5,-5,1705,1582,43,64,0,0,43,64,20,100,213
+174,Mar 24 2007,European Championship qual in the Netherlands,Netherlands,Romania,1996,1874,0,0,-11,11,1985,1885,8,11,-2,1,6,12,40,100,222
+175,Mar 24 2007,African Nations Cup qualifier in Nigeria,Nigeria,Uganda,1765,1395,1,0,3,-3,1768,1392,30,104,0,0,30,104,30,0,370
+176,Mar 24 2007,European Championship qual in Norway,Norway,Bosnia and Herzegovina,1762,1562,1,2,-34,34,1728,1596,48,47,-8,11,40,58,40,100,300
+177,Mar 24 2007,European Championship qual in Poland,Poland,Azerbaijan,1782,1375,5,0,4,-4,1786,1371,20,116,1,-4,21,112,20,0,407
+178,Mar 24 2007,European Championship qual in Portugal,Portugal,Belgium,1916,1665,4,0,9,-9,1925,1656,8,52,0,-3,8,49,40,100,351
+179,Mar 24 2007,Friendly in Qatar,Qatar,Iran,1512,1769,0,1,-6,6,1506,1775,83,25,-1,1,82,26,20,100,-157
+180,Mar 24 2007,European Championship qual in Scotland,Scotland,Georgia,1739,1543,2,1,6,-6,1745,1537,31,84,4,-5,35,79,40,100,296
+181,Mar 24 2007,African Nations Cup qualifier in Senegal,Senegal,Tanzania,1656,1306,4,0,5,-5,1661,1301,48,130,0,-1,48,129,40,100,450
+182,Mar 24 2007,African Nations Cup qualifier in the Seychelles,Seychelles,Tunisia,1106,1646,0,3,-5,5,1101,1651,177,50,-2,0,175,50,40,100,-440
+183,Mar 24 2007,Friendly in South Korea,South Korea,Uruguay,1682,1840,0,2,-13,13,1669,1853,49,15,-2,0,47,15,20,100,-58
+184,Mar 24 2007,European Championship qual in Spain,Spain,Denmark,1900,1912,2,1,15,-15,1915,1897,7,13,2,-2,9,11,40,100,88
+185,Mar 24 2007,Friendly in Sri Lanka,Sri Lanka,Malaysia,943,1189,1,4,-11,11,932,1200,197,156,-3,0,194,156,20,100,-146
+186,Mar 24 2007,Friendly in Taiwan,Taiwan,Uzbekistan,926,1544,0,1,-1,1,925,1545,197,75,-1,-1,196,74,20,0,-618
+187,Mar 24 2007,African Nations Cup qualifier in Togo,Togo,Sierra Leone,1443,1299,3,1,12,-12,1455,1287,94,140,1,-5,95,135,40,100,244
+188,Mar 24 2007,Friendly in Venezuela,Venezuela,Cuba,1628,1548,3,1,8,-8,1636,1540,52,81,0,-5,52,76,20,100,180
+189,Mar 25 2007,African Nations Cup qualifier in Angola,Angola,Eritrea,1592,1122,6,1,3,-3,1595,1119,58,170,1,0,59,170,20,0,470
+190,Mar 25 2007,Friendly in Barbados,Barbados,Guatemala,1299,1534,0,0,4,-4,1303,1530,125,80,3,0,128,80,20,100,-135
+191,Mar 25 2007,Friendly in Bermuda,Bermuda,Canada,1179,1590,0,3,-5,5,1174,1595,167,57,-1,2,166,59,20,100,-311
+192,Mar 25 2007,African Nations Cup qualifier in Botswana,Botswana,Burundi,1309,1259,1,0,12,-12,1321,1247,119,143,4,-1,123,142,40,100,150
+193,Mar 25 2007,Friendly in the United States,Colombia,Switzerland,1772,1846,3,1,18,-18,1790,1828,15,16,6,0,21,16,20,0,-74
+194,Mar 25 2007,African Nations Cup qualifier in Congo,Congo,Zambia,1419,1548,0,0,2,-2,1421,1546,100,73,0,0,100,73,40,100,-29
+195,Mar 25 2007,African Nations Cup qualifier in Egypt,Egypt,Mauritania,1740,1203,3,0,2,-2,1742,1201,35,157,1,-1,36,156,20,0,537
+196,Mar 25 2007,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Rwanda,1185,1301,3,1,31,-31,1216,1270,147,149,7,-10,154,139,40,100,-16
+197,Mar 25 2007,African Nations Cup qualifier in Kenya,Kenya,Swaziland,1317,1188,2,0,13,-13,1330,1175,117,171,3,-6,120,165,40,100,229
+198,Mar 25 2007,African Nations Cup qualifier in Lesotho,Lesotho,Niger,1126,1310,3,1,37,-37,1163,1273,167,151,1,-13,168,138,40,100,-84
+199,Mar 25 2007,African Nations Cup qualifier in Libya,Libya,Namibia,1428,1200,2,1,5,-5,1433,1195,99,160,0,-2,99,158,40,100,328
+200,Mar 25 2007,African Nations Cup qualifier in Madagascar,Madagascar,Ivory Coast,1182,1780,0,3,-4,4,1178,1784,163,23,0,0,163,23,40,100,-498
+201,Mar 25 2007,African Nations Cup qualifier in Mali,Mali,Benin,1566,1265,1,1,-16,16,1550,1281,76,129,-4,5,72,134,40,100,401
+202,Mar 25 2007,African Nations Cup qualifier in Mauritius,Mauritius,Sudan,1257,1370,1,2,-19,19,1238,1389,150,97,-4,8,146,105,40,100,-13
+203,Mar 25 2007,Friendly in Mexico,Mexico,Paraguay,1812,1760,2,1,6,-6,1818,1754,18,35,0,-1,18,34,20,100,152
+204,Mar 25 2007,East Asian Championship qual in the Northern Marianas,Northern Mariana Islands,Guam,636,533,2,3,-31,31,605,564,221,224,0,2,221,226,40,100,203
+205,Mar 25 2007,Friendly in the United States,United States,Ecuador,1788,1769,3,1,10,-10,1798,1759,20,35,0,-3,20,32,20,100,119
+206,Mar 25 2007,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Morocco,1462,1649,1,1,5,-5,1467,1644,93,51,0,0,93,51,20,0,-187
+207,Mar 26 2007,Friendly in Jamaica,Jamaica,Panama,1605,1563,1,1,-4,4,1601,1567,57,67,0,1,57,68,20,100,142
+208,Mar 26 2007,Friendly in Sri Lanka,Sri Lanka,Malaysia,932,1200,2,1,14,-14,946,1186,190,161,2,-2,192,159,20,100,-168
+209,Mar 27 2007,Friendly in Sweden,Brazil,Ghana,2063,1772,1,0,3,-3,2066,1769,1,28,0,0,1,28,20,0,291
+210,Mar 27 2007,Friendly in Macao,China,Uzbekistan,1589,1545,3,1,13,-13,1602,1532,52,84,5,-5,57,79,20,0,44
+211,Mar 27 2007,Friendly in the United States,Honduras,El Salvador,1697,1347,2,0,4,-4,1701,1343,44,119,0,-1,44,118,20,0,350
+212,Mar 28 2007,European Championship qual in Azerbaijan,Azerbaijan,Finland,1371,1685,1,0,31,-31,1402,1654,91,53,11,-4,102,49,40,100,-214
+213,Mar 28 2007,European Championship qual in Bulgaria,Bulgaria,Albania,1763,1495,0,0,-16,16,1747,1511,33,78,-1,4,32,82,40,100,368
+214,Mar 28 2007,Friendly in Chile,Chile,Costa Rica,1741,1671,1,1,-5,5,1736,1676,39,44,-1,1,38,45,20,100,170
+215,Mar 28 2007,Friendly in Colombia,Colombia,Paraguay,1790,1754,2,0,9,-9,1799,1745,17,34,2,0,19,34,20,100,136
+216,Mar 28 2007,European Championship qual in Czechia,Czechia,Cyprus,1876,1483,1,0,2,-2,1878,1481,13,90,0,0,13,90,20,0,393
+217,Mar 28 2007,European Championship qual in Spain,England,Andorra,1938,1097,3,0,1,-1,1939,1096,7,176,0,0,7,176,40,0,841
+218,Mar 28 2007,Friendly in France,France,Austria,2050,1623,1,0,1,-1,2051,1622,2,54,0,0,2,54,20,100,527
+219,Mar 28 2007,European Championship qual in Georgia,Georgia,Faroe Islands,1537,1176,3,1,4,-4,1541,1172,72,168,3,-2,75,166,40,100,461
+220,Mar 28 2007,Friendly in Germany,Germany,Denmark,2004,1897,0,1,-15,15,1989,1912,8,9,-2,1,6,10,20,100,207
+221,Mar 28 2007,European Championship qual in Hungary,Hungary,Moldova,1582,1406,2,0,10,-10,1592,1396,62,106,1,-2,63,104,40,100,276
+222,Mar 28 2007,European Championship qual in Ireland,Ireland,Slovakia,1755,1739,1,0,14,-14,1769,1725,23,46,5,-4,28,42,30,0,16
+223,Mar 28 2007,European Championship qual in Israel,Israel,Estonia,1720,1388,4,0,6,-6,1726,1382,40,110,1,-2,41,108,40,100,432
+224,Mar 28 2007,European Championship qual in Italy,Italy,Scotland,2020,1745,2,0,6,-6,2026,1739,3,37,0,-1,3,36,40,100,375
+225,Mar 28 2007,European Championship qual in Liechtenstein,Liechtenstein,Latvia,1104,1460,1,0,33,-33,1137,1427,167,104,3,-5,170,99,40,100,-256
+226,Mar 28 2007,European Championship qual in Malta,Malta,Greece,1277,1780,0,1,-4,4,1273,1784,139,21,-2,2,137,23,40,100,-403
+227,Mar 28 2007,Friendly in the United States,Mexico,Ecuador,1818,1759,4,2,12,-12,1830,1747,14,32,2,0,16,32,20,0,59
+228,Mar 28 2007,European Championship qual in Germany,Norway,Turkey,1728,1872,2,2,8,-8,1736,1864,36,14,2,0,38,14,40,0,-144
+229,Mar 28 2007,European Championship qual in Northern Ireland,Northern Ireland,Sweden,1545,1825,2,1,30,-30,1575,1795,56,23,9,-3,65,20,40,100,-180
+230,Mar 28 2007,European Championship qual in Poland,Poland,Armenia,1786,1383,1,0,2,-2,1788,1381,22,111,0,-2,22,109,20,0,403
+231,Mar 28 2007,European Championship qual in Romania,Romania,Luxembourg,1885,1005,3,0,0,0,1885,1005,12,186,0,0,12,186,20,0,880
+232,Mar 28 2007,European Championship qual in Serbia,Serbia,Portugal,1727,1925,1,1,5,-5,1732,1920,39,8,1,0,40,8,20,0,-198
+233,Mar 28 2007,European Championship qual in Slovenia,Slovenia,Netherlands,1568,1985,0,1,-6,6,1562,1991,73,4,-3,1,70,5,40,100,-317
+234,Mar 28 2007,Friendly in South Africa,South Africa,Bolivia,1493,1564,0,1,-11,11,1482,1575,90,61,-1,4,89,65,20,100,29
+235,Mar 28 2007,European Championship qual in Spain,Spain,Iceland,1915,1497,1,0,2,-2,1917,1495,9,87,0,-2,9,85,20,0,418
+236,Mar 28 2007,European Championship qual in Ukraine,Ukraine,Lithuania,1809,1489,1,0,3,-3,1812,1486,17,87,1,1,18,88,20,0,320
+237,Mar 28 2007,Friendly in the United States,United States,Guatemala,1798,1530,0,0,-8,8,1790,1538,22,78,-1,1,21,79,20,100,368
+238,Mar 28 2007,Friendly in Venezuela,Venezuela,New Zealand,1636,1497,5,0,8,-8,1644,1489,50,91,1,-4,51,87,20,100,239
+239,Mar 28 2007,European Championship qual in Wales,Wales,San Marino,1570,936,3,0,1,-1,1571,935,70,195,-2,-1,68,194,20,0,634
+240,Apr 1 2007,East Asian Championship qual in Guam,Guam,Northern Mariana Islands,564,605,9,0,42,-42,606,563,216,231,5,-5,221,226,30,0,-41
+241,Apr 4 2007,Friendly in Angola,Angola,Congo,1595,1421,0,0,-7,7,1588,1428,68,98,-4,1,64,99,20,100,274
+242,Apr 17 2007,Friendly in El Salvador,El Salvador,Haiti,1343,1557,0,1,-7,7,1336,1564,120,69,-1,1,119,70,20,100,-114
+243,Apr 18 2007,Friendly in Argentina,Argentina,Chile,1995,1736,0,0,-8,8,1987,1744,8,32,-2,3,6,35,20,100,359
+244,Apr 19 2007,Friendly in Honduras,Honduras,Haiti,1701,1564,1,3,-24,24,1677,1588,44,58,0,6,44,64,20,100,237
+245,Apr 24 2007,Friendly in the Seychelles,Seychelles,Réunion,1101,1277,2,0,18,-18,1119,1259,167,145,4,-5,171,140,20,100,-76
+246,Apr 26 2007,Friendly in Mauritius,Mauritius,Réunion,1238,1259,1,1,-2,2,1236,1261,148,140,-1,0,147,140,20,100,79
+247,Apr 28 2007,COSAFA Cup in Mozambique,Mozambique,Seychelles,1293,1119,2,0,10,-10,1303,1109,125,177,3,-3,128,174,40,100,274
+248,Apr 28 2007,COSAFA Cup in Mozambique,Zimbabwe,Madagascar,1467,1178,1,0,6,-6,1473,1172,93,167,0,-2,93,165,40,0,289
+249,Apr 29 2007,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Ethiopia,1474,1402,2,0,16,-16,1490,1386,82,110,5,-4,87,106,40,100,172
+250,Apr 29 2007,COSAFA Cup in Mozambique,Madagascar,Seychelles,1172,1109,5,0,33,-33,1205,1076,147,180,9,-3,156,177,40,0,63
+251,Apr 29 2007,COSAFA Cup in Mozambique,Mozambique,Zimbabwe,1303,1473,0,0,4,-4,1307,1469,128,93,0,0,128,93,40,100,-70
+252,May 9 2007,Friendly in Chile,Chile,Cuba,1744,1540,3,0,5,-5,1749,1535,29,82,3,-3,32,79,20,100,304
+253,May 9 2007,Friendly in Panama,Panama,Colombia,1567,1799,0,4,-12,12,1555,1811,74,19,-2,0,72,19,20,100,-132
+254,May 16 2007,Friendly in Chile,Chile,Cuba,1749,1535,2,0,4,-4,1753,1531,32,81,0,-1,32,80,20,100,314
+255,May 16 2007,Friendly in Thailand,Thailand,China,1330,1602,1,0,15,-15,1345,1587,114,73,3,-8,117,65,20,100,-172
+256,May 17 2007,Friendly in Guadeloupe,Guadeloupe,Dominica,1374,989,2,0,2,-2,1376,987,112,188,0,0,112,188,20,100,485
+257,May 20 2007,Friendly in Guadeloupe,Guadeloupe,Dominica,1376,987,1,1,-9,9,1367,996,114,186,-1,1,113,187,20,100,489
+258,May 21 2007,Friendly in Eritrea,Eritrea,Sudan,1119,1389,1,0,15,-15,1134,1374,171,117,0,-6,171,111,20,100,-170
+259,May 23 2007,Friendly in the United States,Ecuador,Ireland,1747,1769,1,1,1,-1,1748,1768,33,30,0,-1,33,29,20,0,-22
+260,May 23 2007,Friendly in Haiti,Haiti,Chile,1588,1753,0,0,2,-2,1590,1751,61,32,1,0,62,32,20,100,-65
+261,May 25 2007,Friendly in Venezuela,Venezuela,Honduras,1644,1677,2,1,8,-8,1652,1669,49,46,1,-1,50,45,20,100,67
+262,May 25 2007,Friendly in Zimbabwe,Zimbabwe,Lesotho,1469,1163,1,1,-8,8,1461,1171,93,166,0,1,93,167,20,100,406
+263,May 26 2007,Friendly in the United States,Bolivia,Ireland,1575,1768,1,1,5,-5,1580,1763,66,33,0,-2,66,31,20,0,-193
+264,May 26 2007,Friendly in Eritrea,Eritrea,Sudan,1134,1374,1,1,4,-4,1138,1370,169,113,1,-1,170,112,20,100,-140
+265,May 26 2007,COSAFA Cup in Swaziland,Malawi,South Africa,1314,1482,0,0,9,-9,1323,1473,121,94,2,-2,123,92,40,0,-168
+266,May 26 2007,Friendly in Namibia,Namibia,Zambia,1195,1546,1,2,-4,4,1191,1550,158,72,0,1,158,73,20,100,-251
+267,May 26 2007,COSAFA Cup in Swaziland,Swaziland,Mauritius,1175,1236,0,0,-2,2,1173,1238,166,145,-1,1,165,146,30,100,39
+268,May 26 2007,Friendly in Uganda,Uganda,Tanzania,1392,1301,1,1,-5,5,1387,1306,104,128,0,1,104,129,20,100,191
+269,May 26 2007,Friendly in Wales,Wales,New Zealand,1571,1489,2,2,-5,5,1566,1494,69,84,0,2,69,86,20,100,182
+270,May 27 2007,Friendly in Botswana,Botswana,Libya,1321,1433,0,0,0,0,1321,1433,122,98,1,0,123,98,20,100,-12
+271,May 27 2007,Friendly in Kenya,Kenya,Nigeria,1330,1768,0,1,-3,3,1327,1771,121,27,0,1,121,28,20,100,-338
+272,May 27 2007,Friendly in Rwanda,Rwanda,Burundi,1270,1247,1,0,7,-7,1277,1240,132,146,3,-2,135,144,20,100,123
+273,May 27 2007,COSAFA Cup in Swaziland,South Africa,Mauritius,1473,1238,2,0,12,-12,1485,1226,88,154,2,-4,90,150,40,0,235
+274,May 27 2007,COSAFA Cup in Swaziland,Swaziland,Malawi,1173,1323,1,0,23,-23,1196,1300,151,137,7,-7,158,130,40,100,-50
+275,May 28 2007,Friendly in Congo,Congo,DR Congo,1428,1490,2,1,9,-9,1437,1481,97,92,1,-2,98,90,20,100,38
+276,May 28 2007,Friendly tournament in Trinidad and Tobago,Trinidad and Tobago,Haiti,1540,1590,1,0,13,-13,1553,1577,70,70,3,-4,73,66,30,100,50
+277,May 29 2007,Friendly in Zimbabwe,Zimbabwe,Burkina Faso,1461,1414,1,1,-4,4,1457,1418,93,101,0,0,93,101,20,100,147
+278,May 30 2007,Friendly in Austria,Austria,Scotland,1622,1739,0,1,-10,10,1612,1749,56,29,-1,4,55,33,20,100,-17
+279,May 30 2007,Friendly tournament in Trinidad and Tobago,Haiti,St Vincent & Grenadines,1577,1348,3,0,11,-11,1588,1337,60,122,3,-3,63,119,30,0,229
+280,Jun 1 2007,Friendly in England,England,Brazil,1939,2066,1,1,1,-1,1940,2065,7,1,0,0,7,1,20,100,-27
+281,Jun 1 2007,African Nations Cup qualifier in Ethiopia,Ethiopia,DR Congo,1386,1481,1,0,20,-20,1406,1461,99,94,3,-2,102,92,40,100,5
+282,Jun 1 2007,Friendly in Indonesia,Indonesia,Hong Kong,1291,1239,3,0,10,-10,1301,1229,128,151,2,-3,130,148,20,100,152
+283,Jun 1 2007,Friendly tournament in Japan,Japan,Montenegro,1737,1705,2,0,14,-14,1751,1691,26,43,6,0,32,43,20,0,32
+284,Jun 1 2007,Friendly in Venezuela,Venezuela,Canada,1652,1595,2,2,-4,4,1648,1599,52,57,-1,1,51,58,20,100,157
+285,Jun 2 2007,European Championship qual in Albania,Albania,Luxembourg,1511,1005,2,0,2,-2,1513,1003,82,186,0,0,82,186,20,0,506
+286,Jun 2 2007,Friendly in Australia,Australia,Uruguay,1767,1853,1,2,-10,10,1757,1863,34,13,-2,1,32,14,20,100,14
+287,Jun 2 2007,Friendly in Austria,Austria,Paraguay,1612,1745,0,0,1,-1,1613,1744,57,35,-1,1,56,36,20,100,-33
+288,Jun 2 2007,European Championship qual in Azerbaijan,Azerbaijan,Poland,1402,1788,1,3,-10,10,1392,1798,109,20,-3,1,106,21,40,100,-286
+289,Jun 2 2007,European Championship qual in Belarus,Belarus,Bulgaria,1572,1747,0,2,-24,24,1548,1771,80,18,-6,9,74,27,40,100,-75
+290,Jun 2 2007,European Championship qual in Belgium,Belgium,Portugal,1656,1920,1,2,-11,11,1645,1931,54,8,-3,0,51,8,40,100,-164
+291,Jun 2 2007,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Turkey,1596,1864,3,2,29,-29,1625,1835,45,18,7,-2,52,16,40,100,-168
+292,Jun 2 2007,African Nations Cup qualifier in Cape Verde,Cape Verde,Algeria,1310,1440,2,2,2,-2,1312,1438,127,97,-1,0,126,97,40,100,-30
+293,Jun 2 2007,Friendly in Costa Rica,Costa Rica,Chile,1676,1751,2,0,14,-14,1690,1737,44,50,0,-9,44,41,20,100,25
+294,Jun 2 2007,European Championship qual in Denmark,Denmark,Sweden,1912,1795,3,3,-11,11,1901,1806,12,18,-1,1,11,19,40,100,217
+295,Jun 2 2007,African Nations Cup qualifier in Eritrea,Eritrea,Angola,1138,1588,1,1,15,-15,1153,1573,172,73,-1,-5,171,68,40,100,-350
+296,Jun 2 2007,European Championship qual in Estonia,Estonia,Croatia,1382,1904,0,1,-3,3,1379,1907,111,9,-2,1,109,10,40,100,-422
+297,Jun 2 2007,European Championship qual in the Faroe Islands,Faroe Islands,Italy,1172,2026,1,2,-1,1,1171,2027,166,3,0,0,166,3,40,100,-754
+298,Jun 2 2007,European Championship qual in Finland,Finland,Serbia,1654,1732,0,2,-32,32,1622,1764,59,18,-5,11,54,29,40,100,22
+299,Jun 2 2007,European Championship qual in France,France,Ukraine,2051,1812,2,0,7,-7,2058,1805,2,22,0,-2,2,20,40,100,339
+300,Jun 2 2007,European Championship qual in Germany,Germany,San Marino,1989,935,6,0,0,0,1989,935,5,194,0,0,5,194,20,0,1054
+301,Jun 2 2007,European Championship qual in Greece,Greece,Hungary,1784,1592,2,0,9,-9,1793,1583,23,65,0,-2,23,63,40,100,292
+302,Jun 2 2007,Friendly in Honduras,Honduras,Trinidad and Tobago,1669,1553,3,1,7,-7,1676,1546,45,77,0,-2,45,75,20,100,216
+303,Jun 2 2007,European Championship qual in Iceland,Iceland,Liechtenstein,1495,1137,1,1,-17,17,1478,1154,97,169,-6,1,91,170,40,100,458
+304,Jun 2 2007,European Championship qual in Kazakhstan,Kazakhstan,Armenia,1383,1381,1,2,-26,26,1357,1407,120,96,-7,6,113,102,40,100,102
+305,Jun 2 2007,European Championship qual in Latvia,Latvia,Spain,1427,1917,0,2,-6,6,1421,1923,96,9,2,0,98,9,40,100,-390
+306,Jun 2 2007,European Championship qual in Lithuania,Lithuania,Georgia,1486,1541,1,0,17,-17,1503,1524,80,86,4,-5,84,81,30,0,-55
+307,Jun 2 2007,European Championship qual in Macedonia,Macedonia,Israel,1540,1726,1,2,-15,15,1525,1741,83,35,-3,3,80,38,40,100,-86
+308,Jun 2 2007,Friendly in Mexico,Mexico,Iran,1830,1775,4,0,11,-11,1841,1764,14,31,1,-2,15,29,20,100,155
+309,Jun 2 2007,African Nations Cup qualifier in Morocco,Morocco,Zimbabwe,1644,1457,2,0,10,-10,1654,1447,42,99,5,-3,47,96,40,100,287
+310,Jun 2 2007,African Nations Cup qualifier in Namibia,Namibia,Libya,1191,1433,1,0,28,-28,1219,1405,145,109,7,-5,152,104,40,100,-142
+311,Jun 2 2007,European Championship qual in Norway,Norway,Malta,1736,1273,4,0,3,-3,1739,1270,39,139,0,-1,39,138,40,100,563
+312,Jun 2 2007,European Championship qual in Russia,Russia,Andorra,1778,1096,4,0,1,-1,1779,1095,26,175,0,0,26,175,20,0,682
+313,Jun 2 2007,African Nations Cup qualifier in Rwanda,Rwanda,Equatorial Guinea,1277,1216,2,0,17,-17,1294,1199,131,162,2,-4,133,158,40,100,161
+314,Jun 2 2007,European Championship qual in Slovenia,Slovenia,Romania,1562,1885,1,2,-9,9,1553,1894,74,12,-2,0,72,12,40,100,-223
+315,Jun 2 2007,African Nations Cup qualifier in South Africa,South Africa,Chad,1485,1245,4,0,9,-9,1494,1236,83,148,3,-3,86,145,40,100,340
+316,Jun 2 2007,Friendly in South Korea,South Korea,Netherlands,1669,1991,0,2,-7,7,1662,1998,47,4,-1,0,46,4,20,100,-222
+317,Jun 2 2007,African Nations Cup qualifier in Sudan,Sudan,Mauritius,1370,1226,3,0,14,-14,1384,1212,102,158,5,-4,107,154,40,100,244
+318,Jun 2 2007,Friendly in Switzerland,Switzerland,Argentina,1828,1987,1,1,2,-2,1830,1985,17,6,0,0,17,6,20,100,-59
+319,Jun 2 2007,African Nations Cup qualifier in Tanzania,Tanzania,Senegal,1306,1661,1,1,13,-13,1319,1648,122,51,3,-2,125,49,40,100,-255
+320,Jun 2 2007,African Nations Cup qualifier in Tunisia,Tunisia,Seychelles,1651,1076,4,0,2,-2,1653,1074,46,177,2,0,48,177,30,0,575
+321,Jun 2 2007,African Nations Cup qualifier in Uganda,Uganda,Nigeria,1387,1771,2,1,33,-33,1420,1738,95,52,5,-12,100,40,40,100,-284
+322,Jun 2 2007,Friendly in the United States,United States,China,1790,1587,4,1,5,-5,1795,1582,23,63,-1,1,22,64,20,100,303
+323,Jun 2 2007,European Championship qual in Wales,Wales,Czechia,1566,1878,0,0,11,-11,1577,1867,63,13,3,0,66,13,30,0,-312
+324,Jun 2 2007,African Nations Cup qualifier in Zambia,Zambia,Congo,1550,1437,3,0,16,-16,1566,1421,64,98,5,0,69,98,40,100,213
+325,Jun 3 2007,African Nations Cup qualifier in Benin,Benin,Mali,1281,1550,0,0,9,-9,1290,1541,133,77,1,-2,134,75,40,100,-169
+326,Jun 3 2007,African Nations Cup qualifier in Rwanda,Burundi,Botswana,1240,1321,1,0,25,-25,1265,1296,135,141,4,-9,139,132,40,0,-81
+327,Jun 3 2007,Friendly tournament in Japan,Colombia,Montenegro,1811,1691,1,0,10,-10,1821,1681,18,45,0,-1,18,44,30,0,120
+328,Jun 3 2007,African Nations Cup qualifier in Guinea,Guinea,Gambia,1595,1308,2,2,-16,16,1579,1324,70,121,-5,3,65,124,40,100,387
+329,Jun 3 2007,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Madagascar,1784,1205,5,0,2,-2,1786,1203,26,158,-1,-1,25,157,30,0,579
+330,Jun 3 2007,African Nations Cup qualifier in Liberia,Liberia,Cameroon,1277,1783,1,2,-4,4,1273,1787,136,23,0,1,136,24,40,100,-406
+331,Jun 3 2007,African Nations Cup qualifier in Mauritania,Mauritania,Egypt,1201,1742,1,1,17,-17,1218,1725,149,45,4,-4,153,41,40,100,-441
+332,Jun 3 2007,African Nations Cup qualifier in Mozambique,Mozambique,Burkina Faso,1307,1418,3,1,31,-31,1338,1387,110,111,9,-5,119,106,40,100,-11
+333,Jun 3 2007,African Nations Cup qualifier in Niger,Niger,Lesotho,1273,1171,2,0,14,-14,1287,1157,133,172,2,-3,135,169,40,100,202
+334,Jun 3 2007,Friendly in Spain,Peru,Ecuador,1624,1748,2,1,13,-13,1637,1735,51,45,1,-5,52,40,20,0,-124
+335,Jun 3 2007,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Togo,1287,1455,0,1,-16,16,1271,1471,140,91,-3,1,137,92,40,100,-68
+336,Jun 3 2007,African Nations Cup qualifier in Swaziland,Swaziland,Kenya,1196,1327,0,0,2,-2,1198,1325,159,125,0,-2,159,123,40,100,-31
+337,Jun 5 2007,Friendly in Spain,Argentina,Algeria,1985,1438,4,3,1,-1,1986,1437,6,97,0,0,6,97,20,0,547
+338,Jun 5 2007,Friendly in Germany,Brazil,Turkey,2065,1835,0,0,-6,6,2059,1841,1,14,0,1,1,15,20,0,230
+339,Jun 5 2007,Friendly in Jamaica,Jamaica,Chile,1601,1737,0,1,-9,9,1592,1746,60,33,-1,3,59,36,20,100,-36
+340,Jun 5 2007,Friendly tournament in Japan,Japan,Colombia,1751,1821,0,0,-1,1,1750,1822,35,18,-1,0,34,18,20,100,30
+341,Jun 5 2007,Friendly in Kuwait,Kuwait,Portugal,1448,1931,1,1,8,-8,1456,1923,93,8,1,0,94,8,20,100,-383
+342,Jun 5 2007,Friendly in Mexico,Mexico,Paraguay,1841,1744,0,1,-15,15,1826,1759,19,29,-2,3,17,32,20,100,197
+343,Jun 6 2007,European Championship qual in Andorra,Andorra,Israel,1095,1741,0,2,-2,2,1093,1743,175,41,0,-2,175,39,30,100,-546
+344,Jun 6 2007,European Championship qual in Armenia,Armenia,Poland,1407,1798,1,0,34,-34,1441,1764,93,35,4,-7,97,28,40,100,-291
+345,Jun 6 2007,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Malta,1625,1270,1,0,3,-3,1628,1267,53,138,0,0,53,138,30,0,355
+346,Jun 6 2007,European Championship qual in Bulgaria,Bulgaria,Belarus,1771,1548,2,1,5,-5,1776,1543,25,75,1,-1,26,74,40,100,323
+347,Jun 6 2007,CONCACAF Championship in the United States,Canada,Costa Rica,1599,1690,2,1,31,-31,1630,1659,46,49,6,-3,52,46,50,0,-91
+348,Jun 6 2007,European Championship qual in Croatia,Croatia,Russia,1907,1779,0,0,-12,12,1895,1791,14,20,-2,3,12,23,40,100,228
+349,Jun 6 2007,Friendly in Spain,Ecuador,Peru,1735,1637,2,0,11,-11,1746,1626,34,56,3,-2,37,54,20,0,98
+350,Jun 6 2007,European Championship qual in Estonia,Estonia,England,1379,1940,0,3,-5,5,1374,1945,113,7,-2,0,111,7,40,100,-461
+351,Jun 6 2007,European Championship qual in the Faroe Islands,Faroe Islands,Scotland,1171,1749,0,2,-4,4,1167,1753,168,33,-1,1,167,34,40,100,-478
+352,Jun 6 2007,European Championship qual in Finland,Finland,Belgium,1622,1645,2,0,23,-23,1645,1622,48,59,3,-4,51,55,40,100,77
+353,Jun 6 2007,European Championship qual in France,France,Georgia,2058,1524,1,0,1,-1,2059,1523,0,81,1,0,1,81,20,0,534
+354,Jun 6 2007,European Championship qual in Germany,Germany,Slovakia,1989,1725,2,1,4,-4,1993,1721,5,43,0,-1,5,42,20,0,264
+355,Jun 6 2007,European Championship qual in Greece,Greece,Moldova,1793,1396,2,1,2,-2,1795,1394,19,106,2,-1,21,105,20,0,397
+356,Jun 6 2007,CONCACAF Championship in the United States,Guadeloupe,Haiti,1367,1588,1,1,14,-14,1381,1574,104,71,4,-5,108,66,50,0,-221
+357,Jun 6 2007,European Championship qual in Kazakhstan,Kazakhstan,Azerbaijan,1357,1392,1,1,-4,4,1353,1396,113,103,0,1,113,104,40,100,65
+358,Jun 6 2007,European Championship qual in Latvia,Latvia,Denmark,1421,1901,0,2,-6,6,1415,1907,104,9,-3,1,101,10,40,100,-380
+359,Jun 6 2007,European Championship qual in Liechtenstein,Liechtenstein,Spain,1154,1923,0,2,-1,1,1153,1924,170,8,0,0,170,8,20,100,-669
+360,Jun 6 2007,European Championship qual in Lithuania,Lithuania,Italy,1503,2027,0,2,-5,5,1498,2032,84,3,0,0,84,3,40,100,-424
+361,Jun 6 2007,European Championship qual in Luxembourg,Luxembourg,Albania,1003,1513,0,3,-6,6,997,1519,186,82,0,0,186,82,40,100,-410
+362,Jun 6 2007,European Championship qual in Norway,Norway,Hungary,1739,1583,4,0,14,-14,1753,1569,30,74,4,-6,34,68,40,100,256
+363,Jun 6 2007,European Championship qual in Romania,Romania,Slovenia,1894,1553,2,0,4,-4,1898,1549,10,72,1,0,11,72,20,0,341
+364,Jun 6 2007,European Championship qual in Sweden,Sweden,Iceland,1806,1478,5,0,6,-6,1812,1472,19,91,0,0,19,91,40,100,428
+365,Jun 6 2007,Friendly in Thailand,Thailand,Netherlands,1345,1998,1,3,-1,1,1344,1999,118,4,-1,0,117,4,20,0,-653
+366,Jun 7 2007,CONCACAF Championship in the United States,El Salvador,Trinidad and Tobago,1336,1546,2,1,39,-39,1375,1507,101,91,10,-9,111,82,50,0,-210
+367,Jun 7 2007,CONCACAF Championship in the United States,United States,Guatemala,1795,1538,1,0,6,-6,1801,1532,21,74,0,1,21,75,30,0,257
+368,Jun 8 2007,Friendly in Jordan,Jordan,Iraq,1556,1589,1,1,-2,2,1554,1591,72,60,-1,0,71,60,20,100,67
+369,Jun 8 2007,CONCACAF Championship in the United States,Mexico,Cuba,1826,1531,2,1,8,-8,1834,1523,15,81,1,-2,16,79,50,0,295
+370,Jun 8 2007,CONCACAF Championship in the United States,Panama,Honduras,1555,1676,3,2,33,-33,1588,1643,51,58,10,-7,61,51,50,0,-121
+371,Jun 9 2007,Friendly in Burkina Faso,Burkina Faso,Mali,1387,1541,0,1,-8,8,1379,1549,112,70,-3,2,109,72,20,100,-54
+372,Jun 9 2007,CONCACAF Championship in the United States,Costa Rica,Haiti,1659,1574,1,1,-6,6,1653,1580,47,59,-1,4,46,63,50,0,85
+373,Jun 9 2007,CONCACAF Championship in the United States,Guadeloupe,Canada,1381,1630,2,1,40,-40,1421,1590,90,68,9,-8,99,60,50,0,-249
+374,Jun 9 2007,CONCACAF Championship in the United States,Guatemala,El Salvador,1532,1375,1,0,14,-14,1546,1361,73,115,1,-2,74,113,50,0,157
+375,Jun 9 2007,Friendly in Tanzania,Tanzania,Zambia,1319,1566,1,1,4,-4,1323,1562,124,70,1,0,125,70,20,100,-147
+376,Jun 9 2007,CONCACAF Championship in the United States,United States,Trinidad and Tobago,1801,1507,2,0,7,-7,1808,1500,19,84,1,-1,20,83,30,0,294
+377,Jun 10 2007,CONCACAF Championship in the United States,Cuba,Panama,1523,1588,2,2,5,-5,1528,1583,75,61,2,0,77,61,50,0,-65
+378,Jun 10 2007,CONCACAF Championship in the United States,Honduras,Mexico,1643,1834,2,1,38,-38,1681,1796,35,26,8,-5,43,21,50,0,-191
+379,Jun 10 2007,Friendly in Hong Kong,Hong Kong,Macao,1229,814,2,1,1,-1,1230,813,146,205,1,0,147,205,20,100,515
+380,Jun 10 2007,Friendly in Kenya,Kenya,Rwanda,1325,1294,2,0,10,-10,1335,1284,121,137,1,-2,122,135,20,100,131
+381,Jun 10 2007,Friendly in Malawi,Malawi,Senegal,1300,1648,2,3,-4,4,1296,1652,132,50,-1,-1,131,49,20,100,-248
+382,Jun 11 2007,CONCACAF Championship in the United States,Canada,Haiti,1590,1580,2,0,36,-36,1626,1544,46,85,7,-11,53,74,50,0,10
+383,Jun 11 2007,CONCACAF Championship in the United States,Costa Rica,Guadeloupe,1653,1421,1,0,10,-10,1663,1411,43,105,2,-3,45,102,50,0,232
+384,Jun 12 2007,CONCACAF Championship in the United States,Guatemala,Trinidad and Tobago,1546,1500,1,1,-3,3,1543,1503,75,83,-1,0,74,83,40,0,46
+385,Jun 12 2007,Friendly in Jordan,Jordan,Iraq,1554,1591,0,0,-2,2,1552,1593,70,58,0,1,70,59,20,100,63
+386,Jun 12 2007,Friendly in Kuwait,Kuwait,Egypt,1456,1725,1,1,5,-5,1461,1720,92,43,1,-1,93,42,20,100,-169
+387,Jun 12 2007,Friendly in Réunion,Réunion,Gabon,1261,1380,0,3,-17,17,1244,1397,145,102,-2,3,143,105,20,100,-19
+388,Jun 12 2007,CONCACAF Championship in the United States,United States,El Salvador,1808,1361,4,0,4,-4,1812,1357,17,113,1,0,18,113,30,0,447
+389,Jun 13 2007,CONCACAF Championship in the United States,Honduras,Cuba,1681,1528,5,0,29,-29,1710,1499,43,89,0,-6,43,83,50,0,153
+390,Jun 13 2007,CONCACAF Championship in the United States,Mexico,Panama,1796,1583,1,0,11,-11,1807,1572,19,73,1,-6,20,67,50,0,213
+391,Jun 15 2007,Friendly in Turkey,Kosovo,Saudi Arabia,1373,1615,1,0,16,-16,1389,1599,104,60,4,-2,108,58,20,0,-242
+392,Jun 16 2007,African Nations Cup qualifier in Algeria,Algeria,Guinea,1437,1579,0,2,-26,26,1411,1605,104,53,-3,5,101,58,40,100,-42
+393,Jun 16 2007,African Nations Cup qualifier in Botswana,Botswana,Mauritania,1296,1218,2,1,11,-11,1307,1207,123,157,4,-2,127,155,40,100,178
+394,Jun 16 2007,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Tanzania,1379,1323,0,1,-28,28,1351,1351,120,105,-5,10,115,115,40,100,156
+395,Jun 16 2007,CONCACAF Championship in the United States,Canada,Guatemala,1626,1543,3,0,33,-33,1659,1510,43,86,5,-6,48,80,50,0,83
+396,Jun 16 2007,African Nations Cup qualifier in Cape Verde,Cape Verde,Gambia,1312,1324,0,0,-5,5,1307,1329,127,122,0,1,127,123,40,100,88
+397,Jun 16 2007,African Nations Cup qualifier in Eritrea,Eritrea,Kenya,1153,1335,1,0,25,-25,1178,1310,160,130,5,-4,165,126,40,100,-82
+398,Jun 16 2007,West Asian Championship in Jordan,Iran,Iraq,1764,1593,0,0,-9,9,1755,1602,38,59,-5,0,33,59,40,0,171
+399,Jun 16 2007,African Nations Cup qualifier in Malawi,Malawi,Morocco,1296,1654,0,1,-7,7,1289,1661,135,47,-2,0,133,47,40,100,-258
+400,Jun 16 2007,African Nations Cup qualifier in Namibia,Namibia,DR Congo,1219,1461,1,1,8,-8,1227,1453,148,97,2,-2,150,95,40,100,-142
+401,Jun 16 2007,African Nations Cup qualifier in the Seychelles,Seychelles,Sudan,1074,1384,0,2,-14,14,1060,1398,181,101,-2,4,179,105,40,100,-210
+402,Jun 16 2007,West Asian Championship in Jordan,Syria,Lebanon,1479,1345,1,0,13,-13,1492,1332,88,127,1,-5,89,122,40,0,134
+403,Jun 16 2007,African Nations Cup qualifier in Tunisia,Tunisia,Mauritius,1653,1212,2,0,3,-3,1656,1209,50,153,-1,1,49,154,30,0,441
+404,Jun 16 2007,CONCACAF Championship in the United States,United States,Panama,1812,1572,2,1,6,-6,1818,1566,18,69,0,-1,18,68,30,0,240
+405,Jun 16 2007,African Nations Cup qualifier in Zambia,Zambia,Chad,1562,1236,1,1,-17,17,1545,1253,75,137,-3,4,72,141,40,100,426
+406,Jun 17 2007,African Nations Cup qualifier in Angola,Angola,Swaziland,1573,1198,3,0,4,-4,1577,1194,62,157,2,1,64,158,20,0,375
+407,Jun 17 2007,African Nations Cup qualifier in Benin,Benin,Togo,1290,1471,4,1,43,-43,1333,1428,112,104,10,-6,122,98,40,100,-81
+408,Jun 17 2007,African Nations Cup qualifier in Cameroon,Cameroon,Rwanda,1787,1284,2,1,1,-1,1788,1283,24,133,0,1,24,134,20,0,503
+409,Jun 17 2007,African Nations Cup qualifier in Congo,Congo,South Africa,1421,1494,1,1,-2,2,1419,1496,104,84,-3,1,101,85,40,100,27
+410,Jun 17 2007,CONCACAF Championship in the United States,Guadeloupe,Honduras,1411,1710,2,1,42,-42,1453,1668,87,45,7,-1,94,44,50,0,-299
+411,Jun 17 2007,African Nations Cup qualifier in Liberia,Liberia,Equatorial Guinea,1273,1199,0,0,-9,9,1264,1208,140,152,-2,3,138,155,40,100,174
+412,Jun 17 2007,African Nations Cup qualifier in Libya,Libya,Ethiopia,1405,1406,3,1,22,-22,1427,1384,94,115,5,-6,99,109,40,100,99
+413,Jun 17 2007,East Asian Championship qual in Macao,Macao,Mongolia,813,779,0,0,-7,7,806,786,209,210,-2,0,207,210,40,100,134
+414,Jun 17 2007,African Nations Cup qualifier in Madagascar,Madagascar,Gabon,1203,1397,0,2,-22,22,1181,1419,171,96,-7,5,164,101,40,100,-94
+415,Jun 17 2007,African Nations Cup qualifier in Mali,Mali,Sierra Leone,1549,1271,6,0,9,-9,1558,1262,68,141,1,-2,69,139,40,100,378
+416,Jun 17 2007,CONCACAF Championship in the United States,Mexico,Costa Rica,1807,1663,1,0,15,-15,1822,1648,14,53,3,-4,17,49,50,0,144
+417,Jun 17 2007,African Nations Cup qualifier in Mozambique,Mozambique,Senegal,1338,1652,0,0,11,-11,1349,1641,114,54,3,-2,117,52,30,0,-314
+418,Jun 17 2007,African Nations Cup qualifier in Niger,Niger,Nigeria,1287,1738,1,3,-7,7,1280,1745,136,38,-1,1,135,39,40,100,-351
+419,Jun 17 2007,East Asian Championship qual in Macao,Taiwan,Guam,925,606,10,0,14,-14,939,592,190,223,3,-1,193,222,40,0,319
+420,Jun 18 2007,West Asian Championship in Jordan,Iraq,Palestine,1602,1226,1,0,4,-4,1606,1222,57,153,1,-1,58,152,40,0,376
+421,Jun 18 2007,West Asian Championship in Jordan,Jordan,Syria,1552,1492,0,1,-29,29,1523,1521,84,69,-7,10,77,79,40,100,160
+422,Jun 18 2007,Friendly in Malaysia,Malaysia,Cambodia,1186,811,6,0,3,-3,1189,808,158,207,1,-1,159,206,20,100,475
+423,Jun 19 2007,East Asian Championship qual in Macao,Hong Kong,Taiwan,1230,939,1,1,-14,14,1216,953,159,191,-6,1,153,192,40,0,291
+424,Jun 19 2007,African Nations Cup qualifier in Lesotho,Lesotho,Uganda,1157,1420,0,0,9,-9,1166,1411,168,106,1,-3,169,103,40,100,-163
+425,Jun 19 2007,East Asian Championship qual in Macao,North Korea,Mongolia,1494,786,7,0,2,-2,1496,784,84,210,2,0,86,210,40,0,708
+426,Jun 20 2007,Copa Paz del Chaco in Bolivia,Bolivia,Paraguay,1580,1759,0,0,3,-3,1583,1756,61,35,1,-2,62,33,30,100,-79
+427,Jun 20 2007,West Asian Championship in Jordan,Iran,Palestine,1755,1222,2,0,3,-3,1758,1219,29,151,2,0,31,151,40,0,533
+428,Jun 20 2007,West Asian Championship in Jordan,Jordan,Lebanon,1523,1332,3,0,11,-11,1534,1321,71,127,3,-2,74,125,40,100,291
+429,Jun 21 2007,East Asian Championship qual in Macao,Hong Kong,Guam,1216,592,15,1,3,-3,1219,589,149,224,2,-1,151,223,30,0,624
+430,Jun 21 2007,Friendly in Indonesia,Indonesia,Jamaica,1301,1592,2,1,15,-15,1316,1577,123,65,4,-2,127,63,20,100,-191
+431,Jun 21 2007,East Asian Championship qual in Macao,Macao,North Korea,806,1496,1,7,-3,3,803,1499,207,82,0,2,207,84,40,100,-590
+432,Jun 21 2007,Friendly in Malaysia,Malaysia,United Arab Emirates,1189,1526,1,3,-6,6,1183,1532,165,74,-3,1,162,75,20,100,-237
+433,Jun 21 2007,CONCACAF Championship in the United States,Mexico,Guadeloupe,1822,1453,1,0,5,-5,1827,1448,17,96,0,-1,17,95,50,0,369
+434,Jun 21 2007,CONCACAF Championship in the United States,United States,Canada,1818,1659,2,1,9,-9,1827,1650,15,49,2,-1,17,48,30,0,159
+435,Jun 22 2007,West Asian Championship in Jordan,Iraq,Syria,1606,1521,3,0,27,-27,1633,1494,48,97,5,-9,53,88,40,0,85
+436,Jun 22 2007,West Asian Championship in Jordan,Jordan,Iran,1534,1758,0,1,-13,13,1521,1771,82,23,-4,4,78,27,40,100,-124
+437,Jun 23 2007,Friendly in Colombia,Colombia,Ecuador,1822,1746,3,1,8,-8,1830,1738,13,43,3,-3,16,40,20,100,176
+438,Jun 23 2007,East Asian Championship qual in Macao,Mongolia,Guam,784,589,5,2,17,-17,801,572,208,225,1,-1,209,224,40,0,195
+439,Jun 24 2007,Friendly in Indonesia,Indonesia,Oman,1316,1609,0,1,-5,5,1311,1614,129,56,-1,1,128,57,20,100,-193
+440,Jun 24 2007,West Asian Championship in Jordan,Iran,Iraq,1771,1633,2,1,12,-12,1783,1621,25,59,1,-3,26,56,40,0,138
+441,Jun 24 2007,East Asian Championship qual in Macao,Macao,Taiwan,803,953,2,7,-34,34,769,987,213,186,-3,3,210,189,40,100,-50
+442,Jun 24 2007,East Asian Championship qual in Macao,North Korea,Hong Kong,1499,1219,1,0,7,-7,1506,1212,95,155,-6,-2,89,153,40,0,280
+443,Jun 24 2007,Friendly in Singapore,Saudi Arabia,United Arab Emirates,1599,1532,2,0,12,-12,1611,1520,58,82,1,-4,59,78,20,0,67
+444,Jun 24 2007,Friendly tournament in Singapore,Singapore,North Korea,1297,1506,2,1,20,-20,1317,1486,122,95,5,-6,127,89,30,100,-109
+445,Jun 24 2007,CONCACAF Championship in the United States,United States,Mexico,1827,1827,2,1,18,-18,1845,1809,12,22,3,-2,15,20,50,100,100
+446,Jun 24 2007,Friendly in Vietnam,Vietnam,Jamaica,1228,1577,3,0,28,-28,1256,1549,134,75,7,-6,141,69,20,100,-249
+447,Jun 25 2007,Friendly in Qatar,Qatar,Turkmenistan,1506,1349,1,0,4,-4,1510,1345,79,119,1,-1,80,118,20,100,257
+448,Jun 26 2007,Copa América in Venezuela,Peru,Uruguay,1626,1863,3,0,70,-70,1696,1793,32,30,11,-8,43,22,50,0,-237
+449,Jun 26 2007,Copa América in Venezuela,Venezuela,Bolivia,1648,1583,2,2,-11,11,1637,1594,57,61,-4,0,53,61,50,100,165
+450,Jun 27 2007,Friendly in Malaysia,Bahrain,United Arab Emirates,1496,1520,2,2,1,-1,1497,1519,85,78,0,0,85,78,20,0,-24
+451,Jun 27 2007,Copa América in Venezuela,Chile,Ecuador,1746,1738,3,2,24,-24,1770,1714,19,44,9,-2,28,42,50,0,8
+452,Jun 27 2007,Copa América in Venezuela,Mexico,Brazil,1809,2059,2,0,61,-61,1870,1998,7,7,6,-3,13,4,50,0,-250
+453,Jun 27 2007,Friendly tournament in Singapore,Singapore,Saudi Arabia,1317,1611,1,2,-7,7,1310,1618,129,55,-1,2,128,57,30,100,-194
+454,Jun 28 2007,Copa América in Venezuela,Argentina,United States,1986,1845,4,1,27,-27,2013,1818,0,19,3,-2,3,17,50,0,141
+455,Jun 28 2007,Friendly in Malaysia,Malaysia,Jamaica,1183,1549,0,2,-5,5,1178,1554,166,69,-2,0,164,69,20,100,-266
+456,Jun 28 2007,Friendly tournament in Singapore,North Korea,Oman,1486,1614,2,2,5,-5,1491,1609,89,60,0,-1,89,59,30,0,-128
+457,Jun 28 2007,Copa América in Venezuela,Paraguay,Colombia,1756,1830,5,0,60,-60,1816,1770,2,39,16,-11,18,28,50,0,-74
+458,Jun 29 2007,Friendly in South Korea,South Korea,Iraq,1662,1621,3,0,11,-11,1673,1610,44,60,1,-2,45,58,20,100,141
+459,Jun 30 2007,Friendly in Singapore,Singapore,Australia,1310,1757,0,3,-4,4,1306,1761,134,34,-3,0,131,34,20,100,-347
+460,Jun 30 2007,Friendly in Thailand,Thailand,Qatar,1344,1510,1,1,2,-2,1346,1508,117,82,1,-1,118,81,20,100,-66
+461,Jun 30 2007,Copa América in Venezuela,Uruguay,Bolivia,1793,1594,1,0,12,-12,1805,1582,18,61,2,0,20,61,50,0,199
+462,Jun 30 2007,Copa América in Venezuela,Venezuela,Peru,1637,1696,2,0,33,-33,1670,1663,37,51,8,-4,45,47,50,100,41
+463,Jun 30 2007,Friendly in Vietnam,Vietnam,Bahrain,1256,1497,5,3,21,-21,1277,1476,131,95,5,-5,136,90,20,100,-141
+464,Jul 1 2007,Copa América in Venezuela,Brazil,Chile,1998,1770,3,0,19,-19,2017,1751,1,44,2,-8,3,36,50,0,228
+465,Jul 1 2007,Copa América in Venezuela,Mexico,Ecuador,1870,1714,2,1,14,-14,1884,1700,13,42,0,0,13,42,50,0,156
+466,Jul 1 2007,Friendly tournament in Singapore,Oman,Saudi Arabia,1609,1618,1,1,0,0,1609,1618,59,56,0,0,59,56,20,0,-9
+467,Jul 1 2007,Friendly in Singapore,United Arab Emirates,North Korea,1519,1491,1,0,9,-9,1528,1482,72,88,3,0,75,88,20,0,28
+468,Jul 2 2007,Copa América in Venezuela,Argentina,Colombia,2013,1770,4,2,15,-15,2028,1755,2,38,1,-5,3,33,50,0,243
+469,Jul 2 2007,Friendly in Iran,Iran,Jamaica,1783,1554,8,1,6,-6,1789,1548,20,73,3,-2,23,71,20,100,329
+470,Jul 2 2007,Copa América in Venezuela,Paraguay,United States,1816,1818,3,1,38,-38,1854,1780,12,35,3,-9,15,26,50,0,-2
+471,Jul 2 2007,Friendly in Thailand,Thailand,Qatar,1346,1508,2,0,18,-18,1364,1490,106,93,6,-6,112,87,20,100,-62
+472,Jul 2 2007,Friendly in South Korea,Uzbekistan,Iraq,1532,1610,2,0,18,-18,1550,1592,64,62,5,-2,69,60,20,0,-78
+473,Jul 3 2007,Copa América in Venezuela,Bolivia,Peru,1582,1663,2,2,6,-6,1588,1657,61,49,0,-1,61,48,50,0,-81
+474,Jul 3 2007,Copa América in Venezuela,Venezuela,Uruguay,1670,1805,0,0,3,-3,1673,1802,43,21,1,-1,44,20,50,100,-35
+475,Jul 4 2007,Copa América in Venezuela,Brazil,Ecuador,2017,1700,1,0,7,-7,2024,1693,4,42,0,0,4,42,50,0,317
+476,Jul 4 2007,Copa América in Venezuela,Chile,Mexico,1751,1884,0,0,9,-9,1760,1875,30,13,3,0,33,13,50,0,-133
+477,Jul 4 2007,Island Games in Greece,Gibraltar,Bermuda,1089,1174,2,0,37,-37,1126,1137,168,176,4,-5,172,171,40,0,-85
+478,Jul 4 2007,Friendly in Singapore,North Korea,Saudi Arabia,1482,1618,1,1,4,-4,1486,1614,88,56,0,0,88,56,20,0,-136
+479,Jul 5 2007,Copa América in Venezuela,Argentina,Paraguay,2028,1854,1,0,13,-13,2041,1841,1,15,1,0,2,15,50,0,174
+480,Jul 5 2007,Copa América in Venezuela,Colombia,United States,1755,1780,1,0,27,-27,1782,1753,18,42,8,-8,26,34,50,0,-25
+481,Jul 5 2007,Friendly in South Korea,South Korea,Uzbekistan,1673,1550,2,1,4,-4,1677,1546,44,73,0,-2,44,71,20,100,223
+482,Jul 6 2007,Friendly tournament in Malawi,Malawi,Namibia,1289,1227,1,2,-22,22,1267,1249,139,139,-3,5,136,144,30,100,162
+483,Jul 7 2007,Copa América in Venezuela,Brazil,Chile,2024,1760,6,1,18,-18,2042,1742,0,45,2,-6,2,39,50,0,264
+484,Jul 7 2007,Asian Cup in Thailand,Thailand,Iraq,1364,1592,1,1,9,-9,1373,1583,112,62,0,-1,112,61,30,0,-228
+485,Jul 7 2007,Copa América in Venezuela,Venezuela,Uruguay,1673,1802,1,4,-40,40,1633,1842,61,10,-8,5,53,15,50,100,-29
+486,Jul 8 2007,Copa América in Venezuela,Argentina,Peru,2041,1657,4,0,9,-9,2050,1648,1,51,1,-2,2,49,50,0,384
+487,Jul 8 2007,Asian Cup in Thailand,Australia,Oman,1761,1609,1,1,-10,10,1751,1619,38,54,-3,2,35,56,50,0,152
+488,Jul 8 2007,Copa América in Venezuela,Mexico,Paraguay,1875,1841,6,0,48,-48,1923,1793,5,26,4,-5,9,21,50,0,34
+489,Jul 8 2007,Asian Cup in Vietnam,Vietnam,United Arab Emirates,1277,1528,2,0,53,-53,1330,1475,111,105,12,-15,123,90,50,100,-151
+490,Jul 9 2007,Asian Cup in Vietnam,Japan,Qatar,1750,1490,1,1,-16,16,1734,1506,42,74,-3,6,39,80,40,100,360
+491,Jul 10 2007,Copa América in Venezuela,Brazil,Uruguay,2042,1842,2,2,-13,13,2029,1855,5,15,-1,0,4,15,50,0,200
+492,Jul 10 2007,Asian Cup in Indonesia,Indonesia,Bahrain,1311,1476,2,1,30,-30,1341,1446,114,103,7,-7,121,96,50,100,-65
+493,Jul 10 2007,Asian Cup in Malaysia,Malaysia,China,1178,1582,1,5,-14,14,1164,1596,172,58,-4,2,168,60,50,100,-304
+494,Jul 11 2007,Copa América in Venezuela,Argentina,Mexico,2050,1923,3,0,28,-28,2078,1895,0,15,1,-3,1,12,50,0,127
+495,Jul 11 2007,Asian Cup in Malaysia,Iran,Uzbekistan,1789,1546,2,1,10,-10,1799,1536,17,77,3,-3,20,74,50,0,243
+496,Jul 11 2007,Asian Cup in Indonesia,Saudi Arabia,South Korea,1614,1677,1,1,4,-4,1618,1673,57,44,0,0,57,44,40,0,-63
+497,Jul 12 2007,Asian Cup in Thailand,Thailand,Oman,1373,1619,2,0,52,-52,1425,1567,88,76,12,-10,100,66,50,100,-146
+498,Jul 12 2007,Asian Cup in Vietnam,Vietnam,Qatar,1330,1506,1,1,5,-5,1335,1501,122,82,1,-1,123,81,20,0,-176
+499,Jul 13 2007,Asian Cup in Thailand,Iraq,Australia,1583,1751,3,1,54,-54,1637,1697,45,47,8,-6,53,41,50,0,-168
+500,Jul 13 2007,Asian Cup in Vietnam,Japan,United Arab Emirates,1734,1475,3,1,14,-14,1748,1461,31,91,4,-1,35,90,50,0,259
+501,Jul 13 2007,Friendly in the Solomon Islands,Solomon Islands,Papua New Guinea,1353,1047,2,1,2,-2,1355,1045,114,183,0,0,114,183,20,100,406
+502,Jul 14 2007,Asian Cup in Indonesia,Indonesia,Saudi Arabia,1341,1618,1,2,-13,13,1328,1631,129,53,-4,2,125,55,50,100,-177
+503,Jul 14 2007,Asian Cup in Malaysia,Malaysia,Uzbekistan,1164,1536,0,5,-17,17,1147,1553,172,64,-2,5,170,69,50,100,-272
+504,Jul 14 2007,Copa América in Venezuela,Mexico,Uruguay,1895,1855,3,1,33,-33,1928,1822,4,19,4,-2,8,17,50,0,40
+505,Jul 15 2007,Asian Cup in Indonesia,Bahrain,South Korea,1446,1673,2,1,39,-39,1485,1634,80,62,8,-9,88,53,50,0,-227
+506,Jul 15 2007,Copa América in Venezuela,Brazil,Argentina,2029,2078,3,0,50,-50,2079,2028,-2,7,3,-3,1,4,50,0,-49
+507,Jul 15 2007,Asian Cup in Malaysia,China,Iran,1596,1799,2,2,13,-13,1609,1786,58,28,1,-4,59,24,50,0,-203
+508,Jul 16 2007,Asian Cup in Thailand,Iraq,Oman,1637,1567,0,0,-5,5,1632,1572,56,64,-2,1,54,65,20,100,170
+509,Jul 16 2007,Asian Cup in Thailand,Thailand,Australia,1425,1697,0,4,-25,25,1400,1722,110,37,-5,2,105,39,50,100,-172
+510,Jul 16 2007,Asian Cup in Vietnam,United Arab Emirates,Qatar,1461,1501,2,1,28,-28,1489,1473,81,99,5,-9,86,90,50,0,-40
+511,Jul 16 2007,Asian Cup in Vietnam,Vietnam,Japan,1335,1748,1,4,-12,12,1323,1760,130,29,-4,3,126,32,50,100,-313
+512,Jul 17 2007,Friendly in New Caledonia,New Caledonia,Vanuatu,1189,1237,5,3,13,-13,1202,1224,157,153,1,-3,158,150,20,100,52
+513,Jul 18 2007,Asian Cup in Indonesia,Indonesia,South Korea,1328,1634,0,1,-12,12,1316,1646,132,50,-4,1,128,51,50,100,-206
+514,Jul 18 2007,Asian Cup in Malaysia,Malaysia,Iran,1147,1786,0,2,-3,3,1144,1789,170,22,0,1,170,23,40,100,-539
+515,Jul 18 2007,Asian Cup in Indonesia,Saudi Arabia,Bahrain,1631,1485,4,0,28,-28,1659,1457,37,96,9,-4,46,92,50,0,146
+516,Jul 18 2007,Asian Cup in Malaysia,Uzbekistan,China,1553,1609,3,0,51,-51,1604,1558,51,77,9,-9,60,68,50,0,-56
+517,Jul 19 2007,Friendly in Madagascar,Madagascar,Mayotte,1181,1207,2,2,-2,2,1179,1209,163,152,0,2,163,154,20,100,74
+518,Jul 19 2007,Friendly in New Caledonia,New Caledonia,Vanuatu,1202,1224,0,2,-18,18,1184,1242,164,144,-3,3,161,147,20,100,78
+519,Jul 21 2007,Asian Cup in Vietnam,Australia,Japan,1722,1760,1,1,3,-3,1725,1757,39,32,0,0,39,32,50,0,-38
+520,Jul 21 2007,Friendly in Botswana,Botswana,Zambia,1307,1545,0,0,4,-4,1311,1541,128,76,1,-2,129,74,20,100,-138
+521,Jul 21 2007,Asian Cup in Thailand,Iraq,Vietnam,1632,1323,2,0,11,-11,1643,1312,51,131,2,-3,53,128,50,0,309
+522,Jul 22 2007,Asian Cup in Malaysia,Iran,South Korea,1789,1646,0,0,-10,10,1779,1656,29,43,-3,4,26,47,50,0,143
+523,Jul 22 2007,Asian Cup in Indonesia,Saudi Arabia,Uzbekistan,1659,1604,2,1,21,-21,1680,1583,42,62,2,-1,44,61,50,0,55
+524,Jul 25 2007,Asian Cup in Malaysia,Iraq,South Korea,1643,1656,0,0,1,-1,1644,1655,53,49,0,-1,53,48,30,0,-13
+525,Jul 25 2007,Asian Cup in Vietnam,Saudi Arabia,Japan,1680,1757,3,2,30,-30,1710,1727,40,44,2,-6,42,38,50,0,-77
+526,Jul 28 2007,COSAFA Cup in Botswana,Angola,Lesotho,1577,1166,2,0,5,-5,1582,1161,62,167,0,0,62,167,40,0,411
+527,Jul 28 2007,COSAFA Cup in Botswana,Botswana,Namibia,1311,1249,1,0,11,-11,1322,1238,121,150,4,-3,125,147,40,100,162
+528,Jul 28 2007,Asian Cup in Indonesia,Japan,South Korea,1727,1655,0,0,-5,5,1722,1660,40,46,-1,1,39,47,20,100,172
+529,Jul 29 2007,COSAFA Cup in Botswana,Botswana,Angola,1322,1582,0,0,9,-9,1331,1573,121,66,2,-2,123,64,40,100,-160
+530,Jul 29 2007,Asian Cup in Indonesia,Iraq,Saudi Arabia,1644,1710,1,0,30,-30,1674,1680,37,46,8,-2,45,44,50,0,-66
+531,Jul 29 2007,Friendly in Madagascar,Madagascar,DR Congo,1179,1453,0,0,5,-5,1184,1448,159,94,2,0,161,94,20,100,-174
+532,Jul 29 2007,COSAFA Cup in Botswana,Namibia,Lesotho,1238,1161,3,2,16,-16,1254,1145,137,171,5,-2,142,169,40,0,77
+533,Aug 10 2007,Indian Ocean Games in Madagascar,Comoros,Réunion,855,1244,1,1,12,-12,867,1232,203,150,0,-2,203,148,30,0,-389
+534,Aug 10 2007,Indian Ocean Games in Madagascar,Seychelles,Mayotte,1060,1209,2,1,21,-21,1081,1188,175,162,2,-4,177,158,30,0,-149
+535,Aug 12 2007,Indian Ocean Games in Madagascar,Madagascar,Réunion,1184,1232,0,0,-2,2,1182,1234,163,148,-1,0,162,148,30,100,52
+536,Aug 12 2007,Indian Ocean Games in Madagascar,Mayotte,Mauritius,1188,1209,1,0,16,-16,1204,1193,154,162,2,-4,156,158,30,0,-21
+537,Aug 14 2007,Indian Ocean Games in Madagascar,Madagascar,Comoros,1182,867,3,0,4,-4,1186,863,156,203,3,0,159,203,30,100,415
+538,Aug 14 2007,Indian Ocean Games in Madagascar,Mauritius,Seychelles,1193,1081,3,0,18,-18,1211,1063,150,181,4,-2,154,179,30,0,112
+539,Aug 16 2007,Indian Ocean Games in Madagascar,Madagascar,Mayotte,1186,1204,4,0,22,-22,1208,1182,149,167,5,-5,154,162,30,100,82
+540,Aug 16 2007,Indian Ocean Games in Madagascar,Réunion,Mauritius,1234,1211,1,0,14,-14,1248,1197,142,160,3,-3,145,157,30,0,23
+541,Aug 17 2007,Nehru Gold Cup in India,India,Cambodia,1117,808,6,0,7,-7,1124,801,173,208,0,-1,173,207,40,100,409
+542,Aug 18 2007,Indian Ocean Games in Madagascar,Madagascar,Réunion,1208,1248,0,0,-3,3,1205,1251,158,143,-2,1,156,144,30,100,60
+543,Aug 18 2007,Indian Ocean Games in Madagascar,Mauritius,Mayotte,1197,1182,1,1,-1,1,1196,1183,157,162,0,0,157,162,30,0,15
+544,Aug 18 2007,Nehru Gold Cup in India,Syria,Bangladesh,1494,996,2,0,3,-3,1497,993,82,189,1,-1,83,188,40,0,498
+545,Aug 19 2007,Nehru Gold Cup in India,Kyrgyzstan,Cambodia,1169,801,4,3,4,-4,1173,797,165,209,0,-1,165,208,40,0,368
+546,Aug 20 2007,Nehru Gold Cup in India,India,Bangladesh,1124,993,1,0,8,-8,1132,985,169,190,2,-1,171,189,40,100,231
+547,Aug 20 2007,Friendly in Mozambique,Mozambique,Zimbabwe,1349,1447,0,0,0,0,1349,1447,118,96,0,0,118,96,20,100,2
+548,Aug 20 2007,Merdeka Tournament in Malaysia,Myanmar,Lesotho,1158,1145,1,0,14,-14,1172,1131,165,175,1,-3,166,172,30,0,13
+549,Aug 21 2007,Friendly in France,Benin,Gabon,1333,1419,2,2,2,-2,1335,1417,122,102,0,-1,122,101,20,0,-86
+550,Aug 21 2007,Friendly in England,Ghana,Senegal,1769,1641,1,1,-4,4,1765,1645,28,52,0,1,28,53,20,0,128
+551,Aug 21 2007,Nehru Gold Cup in India,Syria,Kyrgyzstan,1497,1173,4,1,9,-9,1506,1164,77,169,3,-2,80,167,40,0,324
+552,Aug 22 2007,Friendly in Albania,Albania,Malta,1519,1267,3,0,4,-4,1523,1263,74,142,2,-3,76,139,20,100,352
+553,Aug 22 2007,European Championship qual in Armenia,Armenia,Portugal,1441,1923,1,1,16,-16,1457,1907,89,10,4,0,93,10,40,100,-382
+554,Aug 22 2007,Friendly in Austria,Austria,Czechia,1613,1867,1,1,4,-4,1617,1863,58,14,0,0,58,14,20,100,-154
+555,Aug 22 2007,Nehru Gold Cup in India,Bangladesh,Cambodia,985,797,1,1,-10,10,975,807,191,204,-1,2,190,206,30,100,288
+556,Aug 22 2007,Friendly in Belarus,Belarus,Israel,1543,1743,2,1,13,-13,1556,1730,67,40,3,-2,70,38,20,100,-100
+557,Aug 22 2007,European Championship qual in Belgium,Belgium,Serbia,1622,1764,3,2,22,-22,1644,1742,53,39,2,-5,55,34,40,100,-42
+558,Aug 22 2007,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Croatia,1628,1895,3,5,-8,8,1620,1903,58,11,-1,1,57,12,20,100,-167
+559,Aug 22 2007,Friendly in France,Brazil,Algeria,2079,1411,2,0,1,-1,2080,1410,1,103,0,0,1,103,20,0,668
+560,Aug 22 2007,Friendly in Bulgaria,Bulgaria,Wales,1776,1577,0,1,-17,17,1759,1594,35,60,-4,1,31,61,20,100,299
+561,Aug 22 2007,Friendly in the United States,Colombia,Mexico,1782,1928,1,0,14,-14,1796,1914,15,10,5,-1,20,9,20,0,-146
+562,Aug 22 2007,Friendly in Costa Rica,Costa Rica,Peru,1648,1648,1,1,-3,3,1645,1651,53,47,-1,2,52,49,20,100,100
+563,Aug 22 2007,Friendly in Denmark,Denmark,Ireland,1907,1763,0,4,-30,30,1877,1793,15,11,-2,10,13,21,20,100,244
+564,Aug 22 2007,Friendly in the Dem Rep of the Congo,DR Congo,Angola,1448,1573,3,1,16,-16,1464,1557,88,74,3,-5,91,69,20,100,-25
+565,Aug 22 2007,Friendly in Ecuador,Ecuador,Bolivia,1693,1588,1,0,5,-5,1698,1583,42,64,0,-2,42,62,20,100,205
+566,Aug 22 2007,Friendly in France,Egypt,Ivory Coast,1720,1786,0,0,2,-2,1722,1784,39,26,1,-1,40,25,20,0,-66
+567,Aug 22 2007,Friendly in El Salvador,El Salvador,Honduras,1357,1668,2,0,23,-23,1380,1645,109,58,2,-6,111,52,20,100,-211
+568,Aug 22 2007,Friendly in England,England,Germany,1945,1993,1,2,-11,11,1934,2004,7,4,0,1,7,5,20,100,52
+569,Aug 22 2007,European Championship qual in Estonia,Estonia,Andorra,1374,1093,2,1,4,-4,1378,1089,112,176,0,0,112,176,40,100,381
+570,Aug 22 2007,European Championship qual in Finland,Finland,Kazakhstan,1645,1353,2,1,4,-4,1649,1349,47,117,3,-1,50,116,40,100,392
+571,Aug 22 2007,Friendly in Greece,Greece,Spain,1795,1924,2,3,-9,9,1786,1933,28,7,-4,1,24,8,20,100,-29
+572,Aug 22 2007,Friendly in Hungary,Hungary,Italy,1569,2032,3,1,27,-27,1596,2005,54,5,6,-1,60,4,20,100,-363
+573,Aug 22 2007,Friendly in Iceland,Iceland,Canada,1472,1650,1,1,2,-2,1474,1648,88,52,1,-1,89,51,20,100,-78
+574,Aug 22 2007,Friendly in Japan,Japan,Cameroon,1722,1788,2,0,14,-14,1736,1774,35,31,2,-4,37,27,20,100,34
+575,Aug 22 2007,Friendly in Latvia,Latvia,Moldova,1415,1394,1,2,-13,13,1402,1407,112,100,-5,4,107,104,20,100,121
+576,Aug 22 2007,Merdeka Tournament in Malaysia,Lesotho,Laos,1131,890,3,1,9,-9,1140,881,168,204,2,-3,170,201,30,0,241
+577,Aug 22 2007,Friendly in Lithuania,Lithuania,Turkmenistan,1498,1345,2,1,4,-4,1502,1341,81,121,1,-1,82,120,20,100,253
+578,Aug 22 2007,Friendly in Luxembourg,Luxembourg,Georgia,997,1523,0,0,8,-8,1005,1515,186,80,0,-2,186,78,20,100,-426
+579,Aug 22 2007,Friendly in Macedonia,Macedonia,Nigeria,1525,1745,0,0,3,-3,1528,1742,73,33,1,1,74,34,20,100,-120
+580,Aug 22 2007,Friendly in France,Mali,Burkina Faso,1558,1351,3,2,5,-5,1563,1346,66,120,1,-2,67,118,20,0,207
+581,Aug 22 2007,Friendly in Montenegro,Montenegro,Slovenia,1681,1549,1,1,-6,6,1675,1555,45,72,-1,-1,44,71,20,100,232
+582,Aug 22 2007,Friendly in Norway,Norway,Argentina,1753,2028,2,1,15,-15,1768,2013,24,2,4,1,28,3,20,100,-175
+583,Aug 22 2007,European Championship qual in Northern Ireland,Northern Ireland,Liechtenstein,1575,1153,3,1,3,-3,1578,1150,65,168,-1,0,64,168,40,100,522
+584,Aug 22 2007,Friendly in Panama,Panama,Guatemala,1566,1510,2,1,6,-6,1572,1504,63,81,2,-1,65,80,20,100,156
+585,Aug 22 2007,Friendly in Paraguay,Paraguay,Venezuela,1793,1633,1,1,-6,6,1787,1639,23,57,-1,-1,22,56,20,100,260
+586,Aug 22 2007,Friendly in Romania,Romania,Turkey,1898,1841,2,0,9,-9,1907,1832,8,17,2,-1,10,16,20,100,157
+587,Aug 22 2007,Friendly in Russia,Russia,Poland,1791,1764,2,2,-4,4,1787,1768,22,27,0,1,22,28,20,100,127
+588,Aug 22 2007,European Championship qual in San Marino,San Marino,Cyprus,935,1481,0,1,-3,3,932,1484,195,88,0,0,195,88,40,100,-446
+589,Aug 22 2007,Friendly in Scotland,Scotland,South Africa,1753,1496,1,0,2,-2,1755,1494,32,84,0,0,32,84,20,100,357
+590,Aug 22 2007,Friendly in Slovakia,Slovakia,France,1721,2059,0,1,-4,4,1717,2063,42,2,-1,0,41,2,20,100,-238
+591,Aug 22 2007,Friendly in Sudan,Sudan,Libya,1398,1427,1,0,8,-8,1406,1419,106,99,0,0,106,99,20,100,71
+592,Aug 22 2007,Friendly in Sweden,Sweden,United States,1812,1753,1,0,6,-6,1818,1747,18,34,0,-1,18,33,20,100,159
+593,Aug 22 2007,Friendly in Switzerland,Switzerland,Netherlands,1830,1999,2,1,12,-12,1842,1987,14,7,1,-1,15,6,20,100,-69
+594,Aug 22 2007,Friendly in Tajikistan,Tajikistan,Azerbaijan,1327,1396,2,3,-11,11,1316,1407,129,101,-2,3,127,104,20,100,31
+595,Aug 22 2007,Friendly in Togo,Togo,Zambia,1428,1541,3,1,16,-16,1444,1525,98,76,0,-1,98,75,20,100,-13
+596,Aug 22 2007,Friendly in Tunisia,Tunisia,Guinea,1656,1605,1,1,-4,4,1652,1609,47,59,1,0,48,59,20,100,151
+597,Aug 22 2007,Friendly in Ukraine,Ukraine,Uzbekistan,1805,1583,2,1,3,-3,1808,1580,19,65,0,-2,19,63,20,100,322
+598,Aug 23 2007,Nehru Gold Cup in India,India,Syria,1132,1506,2,3,-7,7,1125,1513,174,79,-1,0,173,79,40,100,-274
+599,Aug 24 2007,Nehru Gold Cup in India,Kyrgyzstan,Bangladesh,1164,975,3,0,18,-18,1182,957,159,192,4,-1,163,191,40,0,189
+600,Aug 25 2007,South Pacific Games in Samoa,Fiji,Tuvalu,1320,755,16,0,5,-5,1325,750,124,212,1,0,125,212,40,0,565
+601,Aug 25 2007,Merdeka Tournament in Malaysia,Myanmar,Laos,1172,881,1,0,5,-5,1177,876,166,203,0,-1,166,202,30,0,291
+602,Aug 25 2007,W Cup & Oce Cup q & S Pac G in Samoa,New Caledonia,Tahiti,1184,1262,1,0,24,-24,1208,1238,147,154,7,-7,154,147,40,0,-78
+603,Aug 25 2007,W Cup & Oce Cup q & S Pac G in Samoa,Samoa,Vanuatu,685,1242,0,4,-5,5,680,1247,217,143,0,2,217,145,40,100,-457
+604,Aug 25 2007,W Cup & Oce Cup q & S Pac G in Samoa,Solomon Islands,Eastern Samoa,1355,373,12,1,0,0,1355,373,114,232,0,0,114,232,20,0,982
+605,Aug 25 2007,Nehru Gold Cup in India,Syria,Cambodia,1513,807,5,1,1,-1,1514,806,79,206,0,0,79,206,20,0,706
+606,Aug 26 2007,Nehru Gold Cup in India,India,Kyrgyzstan,1125,1182,3,0,31,-31,1156,1151,161,173,6,-5,167,168,30,0,-57
+607,Aug 27 2007,W Cup & Oce Cup q & S Pac G in Samoa,Fiji,Cook Islands,1325,674,4,0,2,-2,1327,672,125,218,0,0,125,218,40,0,651
+608,Aug 27 2007,South Pacific Games in Samoa,New Caledonia,Tuvalu,1208,750,1,0,3,-3,1211,747,154,212,0,0,154,212,40,0,458
+609,Aug 27 2007,W Cup & Oce Cup q & S Pac G in Samoa,Samoa,Eastern Samoa,680,373,7,0,8,-8,688,365,217,232,0,0,217,232,40,100,407
+610,Aug 27 2007,W Cup & Oce Cup q & S Pac G in Samoa,Solomon Islands,Tonga,1355,716,4,0,2,-2,1357,714,114,213,0,0,114,213,40,0,639
+611,Aug 29 2007,Nehru Gold Cup in India,India,Syria,1156,1514,1,0,33,-33,1189,1481,153,97,7,-9,160,88,40,100,-258
+612,Aug 29 2007,W Cup & Oce Cup q & S Pac G in Samoa,New Caledonia,Cook Islands,1211,672,3,0,3,-3,1214,669,152,218,1,0,153,218,40,0,539
+613,Aug 29 2007,W Cup & Oce Cup q & S Pac G in Samoa,Samoa,Tonga,688,714,2,1,16,-16,704,698,213,221,2,-4,215,217,30,0,-26
+614,Aug 29 2007,South Pacific Games in Samoa,Tahiti,Tuvalu,1238,747,1,1,-18,18,1220,765,153,210,-3,1,150,211,40,0,491
+615,Aug 29 2007,W Cup & Oce Cup q & S Pac G in Samoa,Vanuatu,Eastern Samoa,1247,365,15,0,1,-1,1248,364,145,232,0,0,145,232,30,0,882
+616,Sep 1 2007,South Pacific Games in Samoa,Cook Islands,Tuvalu,669,765,4,1,44,-44,713,721,208,213,5,-1,213,212,40,0,-96
+617,Sep 1 2007,W Cup & Oce Cup q & S Pac G in Samoa,Fiji,Tahiti,1327,1220,4,0,26,-26,1353,1194,107,166,9,-8,116,158,40,0,107
+618,Sep 1 2007,W Cup & Oce Cup q & S Pac G in Samoa,Solomon Islands,Vanuatu,1357,1248,2,0,21,-21,1378,1227,110,151,2,-3,112,148,40,0,109
+619,Sep 1 2007,Friendly in Tanzania,Tanzania,Uganda,1351,1411,1,0,9,-9,1360,1402,115,110,0,-4,115,106,20,100,40
+620,Sep 1 2007,W Cup & Oce Cup q & S Pac G in Samoa,Tonga,Eastern Samoa,698,364,4,0,10,-10,708,354,213,232,2,0,215,232,40,0,334
+621,Sep 3 2007,W Cup & Oce Cup q & S Pac G in Samoa,Fiji,New Caledonia,1353,1214,1,1,-8,8,1345,1222,122,148,-3,2,119,150,40,0,139
+622,Sep 3 2007,W Cup & Oce Cup q & S Pac G in Samoa,Samoa,Solomon Islands,704,1378,0,3,-2,2,702,1380,217,110,0,1,217,111,30,100,-574
+623,Sep 3 2007,W Cup & Oce Cup q & S Pac G in Samoa,Tahiti,Cook Islands,1194,713,1,0,2,-2,1196,711,156,213,1,0,157,213,30,0,481
+624,Sep 3 2007,W Cup & Oce Cup q & S Pac G in Samoa,Vanuatu,Tonga,1227,708,4,1,3,-3,1230,705,146,215,1,0,147,215,30,0,519
+625,Sep 5 2007,W Cup & Oce Cup q & S Pac G in Samoa,Fiji,Vanuatu,1345,1230,3,0,24,-24,1369,1206,109,163,5,-8,114,155,40,0,115
+626,Sep 5 2007,W Cup & Oce Cup q & S Pac G in Samoa,New Caledonia,Solomon Islands,1222,1380,3,2,29,-29,1251,1351,136,121,7,-5,143,116,40,0,-158
+627,Sep 7 2007,Friendly tournament in Austria,Austria,Japan,1617,1736,0,0,1,-1,1618,1735,58,35,0,1,58,36,20,100,-19
+628,Sep 7 2007,Friendly in Bahrain,Bahrain,Jordan,1457,1521,1,3,-17,17,1440,1538,103,71,-5,3,98,74,20,100,36
+629,Sep 7 2007,South Pacific Games in Samoa,New Caledonia,Fiji,1251,1369,1,0,27,-27,1278,1342,129,124,7,-5,136,119,40,0,-118
+630,Sep 7 2007,Friendly tournament in Austria,Switzerland,Chile,1842,1742,2,1,11,-11,1853,1731,15,40,0,-3,15,37,30,0,100
+631,Sep 7 2007,W Cup & Oce Cup q & S Pac G in Samoa,Vanuatu,Solomon Islands,1206,1351,2,0,42,-42,1248,1309,137,144,9,-14,146,130,40,0,-145
+632,Sep 8 2007,European Championship qual in Belarus,Belarus,Romania,1556,1907,1,3,-11,11,1545,1918,72,6,-1,2,71,8,40,100,-251
+633,Sep 8 2007,European Championship qual in Croatia,Croatia,Estonia,1903,1378,2,0,2,-2,1905,1376,10,112,1,0,11,112,30,0,525
+634,Sep 8 2007,Friendly in Cyprus,Cyprus,Armenia,1484,1457,3,1,10,-10,1494,1447,79,97,4,-2,83,95,20,100,127
+635,Sep 8 2007,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Libya,1464,1419,1,1,-8,8,1456,1427,93,101,-1,-1,92,100,40,100,145
+636,Sep 8 2007,Friendly in Ecuador,Ecuador,El Salvador,1698,1380,5,1,3,-3,1701,1377,42,111,0,0,42,111,20,100,418
+637,Sep 8 2007,European Championship qual in England,England,Israel,1934,1730,3,0,10,-10,1944,1720,7,42,0,-2,7,40,40,100,304
+638,Sep 8 2007,African Nations Cup qualifier in Ethiopia,Ethiopia,Namibia,1384,1254,2,3,-32,32,1352,1286,118,128,-4,7,114,135,40,100,230
+639,Sep 8 2007,African Nations Cup qualifier in Gabon,Gabon,Ivory Coast,1417,1784,0,0,13,-13,1430,1771,97,35,2,-5,99,30,40,100,-267
+640,Sep 8 2007,European Championship qual in Georgia,Georgia,Ukraine,1515,1808,1,1,10,-10,1525,1798,72,19,3,0,75,19,30,0,-293
+641,Sep 8 2007,Friendly in France,Ghana,Morocco,1765,1661,2,0,11,-11,1776,1650,22,56,4,-5,26,51,20,0,104
+642,Sep 8 2007,European Championship qual in Hungary,Hungary,Bosnia and Herzegovina,1596,1620,1,0,16,-16,1612,1604,56,63,2,-3,58,60,30,0,-24
+643,Sep 8 2007,European Championship qual in Iceland,Iceland,Spain,1474,1933,1,1,16,-16,1490,1917,83,10,3,-1,86,9,40,100,-359
+644,Sep 8 2007,European Championship qual in Italy,Italy,France,2005,2063,0,0,-2,2,2003,2065,6,2,-1,0,5,2,30,100,42
+645,Sep 8 2007,Friendly in Kazakhstan,Kazakhstan,Tajikistan,1349,1316,1,1,-4,4,1345,1320,115,128,0,-1,115,127,20,100,133
+646,Sep 8 2007,African Nations Cup qualifier in Kenya,Kenya,Angola,1310,1557,2,1,28,-28,1338,1529,111,79,9,-5,120,74,40,100,-147
+647,Sep 8 2007,European Championship qual in Latvia,Latvia,Northern Ireland,1402,1578,1,0,24,-24,1426,1554,96,74,5,-5,101,69,40,100,-76
+648,Sep 8 2007,European Championship qual in Luxembourg,Luxembourg,Slovenia,1005,1555,0,3,-5,5,1000,1560,186,63,0,4,186,67,40,100,-450
+649,Sep 8 2007,European Championship qual in Malta,Malta,Turkey,1263,1832,2,2,17,-17,1280,1815,132,20,4,-2,136,18,40,100,-469
+650,Sep 8 2007,European Championship qual in Moldova,Moldova,Norway,1407,1768,0,1,-7,7,1400,1775,111,28,-4,0,107,28,40,100,-261
+651,Sep 8 2007,European Championship qual in the Netherlands,Netherlands,Bulgaria,1987,1759,2,0,8,-8,1995,1751,6,33,0,-1,6,32,40,100,328
+652,Sep 8 2007,African Nations Cup qualifier in Nigeria,Nigeria,Lesotho,1742,1140,2,0,1,-1,1743,1139,34,171,0,0,34,171,20,0,602
+653,Sep 8 2007,Friendly in Peru,Peru,Colombia,1651,1796,2,2,1,-1,1652,1795,47,20,1,0,48,20,20,100,-45
+654,Sep 8 2007,European Championship qual in Portugal,Portugal,Poland,1907,1768,2,2,-12,12,1895,1780,14,20,-2,4,12,24,40,100,239
+655,Sep 8 2007,European Championship qual in Russia,Russia,Macedonia,1787,1528,3,0,8,-8,1795,1520,18,81,2,-3,20,78,40,100,359
+656,Sep 8 2007,African Nations Cup qualifier in Rwanda,Rwanda,Liberia,1283,1264,4,0,25,-25,1308,1239,128,155,3,-8,131,147,40,100,119
+657,Sep 8 2007,European Championship qual in San Marino,San Marino,Czechia,932,1863,0,3,-1,1,931,1864,195,14,0,0,195,14,40,100,-831
+658,Sep 8 2007,European Championship qual in Scotland,Scotland,Lithuania,1755,1502,3,1,7,-7,1762,1495,30,83,1,-1,31,82,40,100,353
+659,Sep 8 2007,African Nations Cup qualifier in Senegal,Senegal,Burkina Faso,1645,1346,5,1,7,-7,1652,1339,44,121,4,-2,48,119,40,100,399
+660,Sep 8 2007,European Championship qual in Serbia,Serbia,Finland,1742,1649,0,0,-10,10,1732,1659,38,44,-2,3,36,47,40,100,193
+661,Sep 8 2007,European Championship qual in Slovakia,Slovakia,Ireland,1717,1793,2,2,-1,1,1716,1794,41,23,0,-1,41,22,20,100,24
+662,Sep 8 2007,European Championship qual in Sweden,Sweden,Denmark,1818,1877,0,0,-2,2,1816,1879,16,13,1,0,17,13,30,100,41
+663,Sep 8 2007,African Nations Cup qualifier in Tanzania,Tanzania,Mozambique,1360,1349,0,1,-26,26,1334,1375,132,111,-9,2,123,113,40,100,111
+664,Sep 8 2007,African Nations Cup qualifier in Uganda,Uganda,Niger,1402,1280,3,1,13,-13,1415,1267,100,141,3,-3,103,138,40,100,222
+665,Sep 8 2007,Friendly in Venezuela,Venezuela,Paraguay,1639,1787,3,2,11,-11,1650,1776,46,30,5,-4,51,26,20,100,-48
+666,Sep 8 2007,European Championship qual in Wales,Wales,Germany,1594,2004,0,2,-9,9,1585,2013,61,1,0,2,61,3,40,100,-310
+667,Sep 9 2007,African Nations Cup qualifier in Burundi,Burundi,Egypt,1265,1722,0,0,15,-15,1280,1707,132,43,4,-2,136,41,40,100,-357
+668,Sep 9 2007,African Nations Cup qualifier in Chad,Chad,Congo,1253,1419,1,1,4,-4,1257,1415,140,104,1,-1,141,103,20,0,-166
+669,Sep 9 2007,Friendly tournament in the United States,Costa Rica,Honduras,1645,1645,0,0,0,0,1645,1645,52,52,1,1,53,53,20,0,0
+670,Sep 9 2007,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Cameroon,1208,1774,1,0,37,-37,1245,1737,138,39,8,-5,146,34,40,100,-466
+671,Sep 9 2007,African Nations Cup qualifier in The Gambia,Gambia,Algeria,1329,1410,2,1,19,-19,1348,1391,105,112,10,-4,115,108,40,100,19
+672,Sep 9 2007,African Nations Cup qualifier in Guinea,Guinea,Cape Verde,1609,1307,4,0,7,-7,1616,1300,57,136,1,-2,58,134,40,100,402
+673,Sep 9 2007,African Nations Cup qualifier in Mauritius,Mauritius,Seychelles,1196,1063,1,1,-12,12,1184,1075,167,175,-5,2,162,177,40,100,233
+674,Sep 9 2007,Friendly in Mexico,Mexico,Panama,1914,1572,1,0,1,-1,1915,1571,10,66,0,-1,10,65,20,100,442
+675,Sep 9 2007,African Nations Cup qualifier in South Africa,South Africa,Zambia,1494,1525,1,3,-36,36,1458,1561,99,59,-8,8,91,67,40,100,69
+676,Sep 9 2007,African Nations Cup qualifier in Sudan,Sudan,Tunisia,1406,1652,3,2,28,-28,1434,1624,92,64,7,-8,99,56,40,100,-146
+677,Sep 9 2007,African Nations Cup qualifier in Swaziland,Swaziland,Eritrea,1194,1178,0,0,-6,6,1188,1184,159,159,0,3,159,162,40,100,116
+678,Sep 9 2007,Friendly in the United States,United States,Brazil,1747,2080,2,4,-6,6,1741,2086,33,1,0,0,33,1,20,100,-233
+679,Sep 9 2007,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Malawi,1447,1267,3,1,10,-10,1457,1257,89,144,3,-3,92,141,40,100,280
+680,Sep 11 2007,Friendly in Australia,Australia,Argentina,1725,2013,0,1,-5,5,1720,2018,38,3,0,0,38,3,20,100,-188
+681,Sep 11 2007,Friendly tournament in Austria,Austria,Chile,1618,1731,0,2,-22,22,1596,1753,63,27,-3,5,60,32,30,100,-13
+682,Sep 11 2007,Friendly tournament in Austria,Japan,Switzerland,1735,1853,4,3,20,-20,1755,1833,27,15,4,0,31,15,30,0,-118
+683,Sep 11 2007,Friendly in Saudi Arabia,Saudi Arabia,Ghana,1680,1776,5,0,20,-20,1700,1756,43,34,0,-4,43,30,20,100,4
+684,Sep 12 2007,European Championship qual in Albania,Albania,Netherlands,1523,1995,0,1,-4,4,1519,1999,77,6,0,0,77,6,40,100,-372
+685,Sep 12 2007,European Championship qual in Andorra,Andorra,Croatia,1089,1905,0,6,-1,1,1088,1906,176,11,0,0,176,11,20,100,-716
+686,Sep 12 2007,Friendly in Azerbaijan,Azerbaijan,Georgia,1407,1525,1,1,1,-1,1408,1524,107,76,-1,0,106,76,20,100,-18
+687,Sep 12 2007,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Moldova,1604,1400,0,1,-34,34,1570,1434,73,92,-7,7,66,99,40,100,304
+688,Sep 12 2007,Friendly in the United States,Brazil,Mexico,2086,1915,3,1,8,-8,2094,1907,1,10,0,0,1,10,20,0,171
+689,Sep 12 2007,European Championship qual in Bulgaria,Bulgaria,Luxembourg,1751,1000,3,0,1,-1,1752,999,33,186,0,0,33,186,30,0,751
+690,Sep 12 2007,Friendly in Canada,Canada,Costa Rica,1648,1645,1,1,-3,3,1645,1648,54,51,-1,1,53,52,20,100,103
+691,Sep 12 2007,Friendly in Colombia,Colombia,Paraguay,1795,1776,1,0,7,-7,1802,1769,18,32,1,-3,19,29,20,100,119
+692,Sep 12 2007,European Championship qual in Cyprus,Cyprus,San Marino,1494,931,3,0,2,-2,1496,929,85,195,-1,0,84,195,30,0,563
+693,Sep 12 2007,European Championship qual in Czechia,Czechia,Ireland,1864,1794,1,0,11,-11,1875,1783,14,24,0,-1,14,23,40,100,170
+694,Sep 12 2007,European Championship qual in Denmark,Denmark,Liechtenstein,1879,1150,4,0,1,-1,1880,1149,13,169,0,0,13,169,20,0,729
+695,Sep 12 2007,European Championship qual in England,England,Russia,1944,1795,3,0,13,-13,1957,1782,7,28,0,-4,7,24,40,100,249
+696,Sep 12 2007,European Championship qual in Finland,Finland,Poland,1659,1780,0,0,1,-1,1660,1779,45,26,1,-1,46,25,20,100,-21
+697,Sep 12 2007,European Championship qual in France,France,Scotland,2065,1762,0,1,-36,36,2029,1798,2,11,0,9,2,20,40,100,403
+698,Sep 12 2007,Friendly in Germany,Germany,Romania,2013,1918,3,1,7,-7,2020,1911,2,10,1,-1,3,9,20,100,195
+699,Sep 12 2007,Friendly in Honduras,Honduras,Ecuador,1645,1701,2,1,9,-9,1654,1692,45,42,4,0,49,42,20,100,44
+700,Sep 12 2007,European Championship qual in Iceland,Iceland,Northern Ireland,1490,1554,2,1,18,-18,1508,1536,71,76,7,-3,78,73,30,0,-64
+701,Sep 12 2007,European Championship qual in Kazakhstan,Kazakhstan,Belgium,1345,1644,2,2,10,-10,1355,1634,112,57,2,-1,114,56,30,0,-299
+702,Sep 12 2007,European Championship qual in Lithuania,Lithuania,Faroe Islands,1495,1167,2,1,3,-3,1498,1164,84,167,-1,0,83,167,20,0,328
+703,Sep 12 2007,European Championship qual in Macedonia,Macedonia,Estonia,1520,1376,1,1,-12,12,1508,1388,78,108,0,2,78,110,40,100,244
+704,Sep 12 2007,Friendly in Malta,Malta,Armenia,1280,1447,0,1,-8,8,1272,1455,140,92,-2,2,138,94,20,100,-67
+705,Sep 12 2007,Friendly in Montenegro,Montenegro,Sweden,1675,1816,1,2,-9,9,1666,1825,44,15,0,1,44,16,20,100,-41
+706,Sep 12 2007,European Championship qual in Norway,Norway,Greece,1775,1786,2,2,-5,5,1770,1791,29,19,-1,2,28,21,40,100,89
+707,Sep 12 2007,Friendly in Peru,Peru,Bolivia,1652,1583,2,0,8,-8,1660,1575,44,64,2,-1,46,63,20,100,169
+708,Sep 12 2007,European Championship qual in Portugal,Portugal,Serbia,1895,1732,1,1,-13,13,1882,1745,12,31,0,3,12,34,40,100,263
+709,Sep 12 2007,Friendly in Singapore,Singapore,United Arab Emirates,1306,1489,1,1,2,-2,1308,1487,130,86,1,0,131,86,20,100,-83
+710,Sep 12 2007,European Championship qual in Slovakia,Slovakia,Wales,1716,1585,2,5,-55,55,1661,1640,50,49,-5,6,45,55,40,100,231
+711,Sep 12 2007,European Championship qual in Slovenia,Slovenia,Belarus,1560,1545,1,0,14,-14,1574,1531,60,76,4,-2,64,74,30,0,15
+712,Sep 12 2007,Friendly in South Africa,South Africa,Uruguay,1458,1822,0,0,6,-6,1464,1816,89,20,1,-2,90,18,20,100,-264
+713,Sep 12 2007,European Championship qual in Spain,Spain,Latvia,1917,1426,2,0,2,-2,1919,1424,7,104,1,-1,8,103,20,0,491
+714,Sep 12 2007,European Championship qual in Turkey,Turkey,Hungary,1815,1612,3,0,10,-10,1825,1602,14,60,2,-1,16,59,40,100,303
+715,Sep 12 2007,European Championship qual in Ukraine,Ukraine,Italy,1798,2003,1,2,-14,14,1784,2017,25,5,-3,0,22,5,40,100,-105
+716,Sep 12 2007,Friendly in Venezuela,Venezuela,Panama,1650,1571,1,1,-5,5,1645,1576,56,59,-3,3,53,62,20,100,179
+717,Sep 17 2007,Friendly in Qatar,Qatar,Oman,1473,1572,1,1,0,0,1473,1572,89,65,0,0,89,65,20,100,1
+718,Sep 23 2007,Friendly in the United Arab Emirates,United Arab Emirates,Lebanon,1487,1321,1,1,-6,6,1481,1327,88,126,-1,0,87,126,20,100,266
+719,Sep 29 2007,COSAFA Cup in South Africa,South Africa,Botswana,1464,1331,1,0,8,-8,1472,1323,90,127,0,-1,90,126,40,100,233
+720,Sep 29 2007,COSAFA Cup in South Africa,Zambia,Mozambique,1561,1375,3,0,18,-18,1579,1357,56,113,6,0,62,113,40,0,186
+721,Oct 2 2007,Friendly in Oman,Oman,Maldives,1572,1027,1,0,0,0,1572,1027,66,184,0,0,66,184,20,100,645
+722,Oct 3 2007,Friendly in Thailand,Thailand,United Arab Emirates,1400,1481,1,1,-1,1,1399,1482,107,87,0,0,107,87,20,100,19
+723,Oct 4 2007,Friendly in Bahrain,Bahrain,Singapore,1440,1308,3,1,6,-6,1446,1302,96,135,1,-2,97,133,20,100,232
+724,Oct 8 2007,World Cup qualifier in Bangladesh,Bangladesh,Tajikistan,957,1320,1,1,13,-13,970,1307,189,135,1,-4,190,131,40,100,-263
+725,Oct 8 2007,World Cup qualifier in Lebanon,Lebanon,India,1327,1189,4,1,14,-14,1341,1175,113,174,6,-8,119,166,40,100,238
+726,Oct 8 2007,World Cup qualifier in Oman,Oman,Nepal,1572,838,2,0,0,0,1572,838,66,204,0,0,66,204,20,0,734
+727,Oct 8 2007,World Cup qualifier in Qatar,Singapore,Palestine,1302,1219,4,0,29,-29,1331,1190,119,162,7,-5,126,157,40,0,83
+728,Oct 8 2007,World Cup qualifier in Syria,Syria,Afghanistan,1481,811,3,0,1,-1,1482,810,88,205,0,0,88,205,20,0,670
+729,Oct 8 2007,World Cup qualifier in Thailand,Thailand,Macao,1399,769,6,1,1,-1,1400,768,107,210,0,0,107,210,20,0,630
+730,Oct 8 2007,World Cup qualifier in Vietnam,Vietnam,United Arab Emirates,1312,1482,0,1,-16,16,1296,1498,139,79,-5,4,134,83,40,100,-70
+731,Oct 8 2007,World Cup qualifier in Yemen,Yemen,Maldives,1250,1027,3,0,9,-9,1259,1018,138,184,3,0,141,184,40,100,323
+732,Oct 11 2007,World Cup qualifier in Cambodia,Cambodia,Turkmenistan,806,1341,0,1,-3,3,803,1344,206,115,0,2,206,117,40,100,-435
+733,Oct 12 2007,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Benin,1262,1335,0,2,-32,32,1230,1367,158,102,-9,11,149,113,40,100,27
+734,Oct 12 2007,African Nations Cup qualifier in Togo,Togo,Mali,1444,1563,0,2,-28,28,1416,1591,108,54,-5,7,103,61,40,100,-19
+735,Oct 13 2007,World Cup qualifier in Argentina,Argentina,Chile,2018,1753,2,0,7,-7,2025,1746,2,34,1,-1,3,33,40,100,365
+736,Oct 13 2007,European Championship qual in Armenia,Armenia,Serbia,1455,1745,0,0,10,-10,1465,1735,88,40,3,-3,91,37,30,0,-290
+737,Oct 13 2007,European Championship qual in Azerbaijan,Azerbaijan,Portugal,1408,1882,0,2,-6,6,1402,1888,106,12,0,0,106,12,40,100,-374
+738,Oct 13 2007,European Championship qual in Belarus,Belarus,Luxembourg,1531,999,0,1,-39,39,1492,1038,96,182,-11,2,85,184,40,100,632
+739,Oct 13 2007,European Championship qual in Belgium,Belgium,Finland,1634,1660,0,0,-4,4,1630,1664,54,44,1,1,55,45,40,100,74
+740,Oct 13 2007,European Championship qual in Croatia,Croatia,Israel,1906,1720,1,0,6,-6,1912,1714,9,40,1,-1,10,39,40,100,286
+741,Oct 13 2007,European Championship qual in Cyprus,Cyprus,Wales,1496,1640,3,1,34,-34,1530,1606,63,63,11,-4,74,59,40,100,-44
+742,Oct 13 2007,European Championship qual in Denmark,Denmark,Spain,1880,1919,1,3,-35,35,1845,1954,15,8,-1,0,14,8,40,100,61
+743,Oct 13 2007,World Cup qualifier in Ecuador,Ecuador,Venezuela,1692,1645,0,1,-28,28,1664,1673,48,33,-3,10,45,43,40,100,147
+744,Oct 13 2007,African Nations Cup qualifier in Egypt,Egypt,Botswana,1707,1323,1,0,2,-2,1709,1321,40,127,0,0,40,127,20,0,384
+745,Oct 13 2007,Friendly in El Salvador,El Salvador,Costa Rica,1377,1648,2,2,5,-5,1382,1643,110,56,1,-2,111,54,20,100,-171
+746,Oct 13 2007,European Championship qual in England,England,Estonia,1957,1388,3,0,1,-1,1958,1387,7,110,0,0,7,110,20,0,569
+747,Oct 13 2007,European Championship qual in the Faroe Islands,Faroe Islands,France,1164,2029,0,6,-1,1,1163,2030,167,2,0,0,167,2,20,100,-765
+748,Oct 13 2007,European Championship qual in Greece,Greece,Bosnia and Herzegovina,1791,1570,3,2,5,-5,1796,1565,21,66,0,1,21,67,40,100,321
+749,Oct 13 2007,European Championship qual in Hungary,Hungary,Malta,1602,1272,2,0,5,-5,1607,1267,57,136,1,1,58,137,40,100,430
+750,Oct 13 2007,European Championship qual in Iceland,Iceland,Latvia,1508,1424,2,4,-45,45,1463,1469,106,78,-14,12,92,90,40,100,184
+751,Oct 13 2007,European Championship qual in Ireland,Ireland,Germany,1783,2020,0,0,8,-8,1791,2012,21,7,1,-2,22,5,40,100,-137
+752,Oct 13 2007,European Championship qual in Italy,Italy,Georgia,2017,1524,2,0,2,-2,2019,1522,3,78,1,-1,4,77,20,0,493
+753,Oct 13 2007,European Championship qual in Liechtenstein,Liechtenstein,Sweden,1149,1825,0,3,-2,2,1147,1827,169,16,0,0,169,16,30,100,-576
+754,Oct 13 2007,African Nations Cup qualifier in Mauritania,Mauritania,Burundi,1207,1280,2,1,18,-18,1225,1262,148,142,3,-3,151,139,30,0,-73
+755,Oct 13 2007,European Championship qual in Moldova,Moldova,Turkey,1434,1825,1,1,14,-14,1448,1811,96,22,1,-3,97,19,40,100,-291
+756,Oct 13 2007,World Cup qualifier in Peru,Peru,Paraguay,1660,1769,0,0,1,-1,1661,1768,50,27,-2,1,48,28,40,100,-9
+757,Oct 13 2007,European Championship qual in Poland,Poland,Kazakhstan,1779,1355,3,1,3,-3,1782,1352,21,115,2,0,23,115,40,100,524
+758,Oct 13 2007,European Championship qual in Romania,Romania,Netherlands,1911,1999,1,0,19,-19,1930,1980,9,6,0,0,9,6,30,0,-88
+759,Oct 13 2007,European Championship qual in Scotland,Scotland,Ukraine,1798,1784,3,1,20,-20,1818,1764,16,36,2,-7,18,29,40,100,114
+760,Oct 13 2007,European Championship qual in Slovakia,Slovakia,San Marino,1661,929,7,0,1,-1,1662,928,49,195,-2,0,47,195,20,0,732
+761,Oct 13 2007,European Championship qual in Slovenia,Slovenia,Albania,1574,1519,0,0,-8,8,1566,1527,66,75,0,1,66,76,40,100,155
+762,Oct 13 2007,Friendly in Switzerland,Switzerland,Austria,1833,1596,3,1,4,-4,1837,1592,15,60,0,0,15,60,20,100,337
+763,Oct 13 2007,World Cup qualifier in Uruguay,Uruguay,Bolivia,1816,1575,5,0,10,-10,1826,1565,16,69,1,-2,17,67,40,100,341
+764,Oct 13 2007,World Cup qualifier in Uzbekistan,Uzbekistan,Taiwan,1580,987,9,0,2,-2,1582,985,62,188,0,0,62,188,20,0,593
+765,Oct 14 2007,World Cup qualifier in Colombia,Colombia,Brazil,1802,2094,0,0,10,-10,1812,2084,18,1,1,0,19,1,30,0,-292
+766,Oct 14 2007,Friendly in Honduras,Honduras,Panama,1654,1576,1,0,5,-5,1659,1571,52,66,-1,-1,51,65,20,100,178
+767,Oct 14 2007,World Cup & African Cup qual in Madagascar,Madagascar,Comoros,1205,863,6,2,5,-5,1210,858,155,203,0,0,155,203,20,0,342
+768,Oct 14 2007,Friendly in Mexico,Mexico,Nigeria,1907,1743,2,2,-6,6,1901,1749,11,32,0,1,11,33,20,100,264
+769,Oct 14 2007,Friendly in France,Senegal,Guinea,1652,1616,3,1,13,-13,1665,1603,39,61,6,-2,45,59,20,0,36
+770,Oct 15 2007,World Cup qualifier in Macao,Macao,Thailand,768,1400,1,7,-4,4,764,1404,210,105,0,1,210,106,40,100,-532
+771,Oct 16 2007,Friendly in Bahrain,Bahrain,Libya,1446,1427,2,0,10,-10,1456,1417,91,102,4,0,95,102,20,100,119
+772,Oct 16 2007,Friendly in Croatia,Croatia,Slovakia,1912,1662,3,0,4,-4,1916,1658,10,54,0,-3,10,51,20,100,350
+773,Oct 16 2007,Friendly in Qatar,Qatar,Iraq,1473,1674,3,2,13,-13,1486,1661,84,52,2,-5,86,47,20,100,-101
+774,Oct 16 2007,World Cup qualifier in Venezuela,Venezuela,Argentina,1673,2025,0,2,-11,11,1662,2036,49,1,-3,1,46,2,40,100,-252
+775,Oct 17 2007,European Championship qual in Albania,Albania,Bulgaria,1527,1752,1,1,7,-7,1534,1745,76,40,0,-4,76,36,40,100,-125
+776,Oct 17 2007,Friendly in Austria,Austria,Ivory Coast,1592,1771,3,2,12,-12,1604,1759,58,36,1,-5,59,31,20,100,-79
+777,Oct 17 2007,European Championship qual in Azerbaijan,Azerbaijan,Serbia,1402,1735,1,6,-17,17,1385,1752,111,31,-2,3,109,34,40,100,-233
+778,Oct 17 2007,European Championship qual in Belgium,Belgium,Armenia,1630,1465,3,0,13,-13,1643,1452,53,103,1,-6,54,97,40,100,265
+779,Oct 17 2007,World Cup qualifier in Bolivia,Bolivia,Colombia,1565,1812,0,0,8,-8,1573,1804,61,21,3,-1,64,20,40,100,-147
+780,Oct 17 2007,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Norway,1565,1770,0,2,-21,21,1544,1791,81,15,-7,6,74,21,40,100,-105
+781,Oct 17 2007,World Cup qualifier in Brazil,Brazil,Ecuador,2084,1664,5,0,4,-4,2088,1660,1,50,0,-3,1,47,40,100,520
+782,Oct 17 2007,World Cup qualifier in Chile,Chile,Peru,1746,1661,2,0,15,-15,1761,1646,26,57,4,-5,30,52,40,100,185
+783,Oct 17 2007,Friendly in Costa Rica,Costa Rica,Haiti,1643,1544,1,1,-5,5,1638,1549,56,71,-1,0,55,71,20,100,199
+784,Oct 17 2007,European Championship qual in Denmark,Denmark,Latvia,1845,1469,3,1,4,-4,1849,1465,14,90,0,0,14,90,40,100,476
+785,Oct 17 2007,Friendly in El Salvador,El Salvador,Trinidad and Tobago,1382,1503,0,0,1,-1,1383,1502,109,82,1,-1,110,81,20,100,-21
+786,Oct 17 2007,Friendly in Estonia,Estonia,Montenegro,1387,1666,0,1,-5,5,1382,1671,112,42,-1,0,111,42,20,100,-179
+787,Oct 17 2007,WC q & Oce Cup in Fiji,Fiji,New Zealand,1342,1494,0,2,-32,32,1310,1526,136,72,-8,6,128,78,50,100,-52
+788,Oct 17 2007,Friendly in Finland,Finland,Spain,1664,1954,0,0,5,-5,1669,1949,42,6,1,1,43,7,20,100,-190
+789,Oct 17 2007,European Championship qual in France,France,Lithuania,2030,1498,2,0,2,-2,2032,1496,3,84,0,-1,3,83,30,0,532
+790,Oct 17 2007,European Championship qual in Georgia,Georgia,Scotland,1522,1818,2,0,45,-45,1567,1773,57,36,10,-9,67,27,40,100,-196
+791,Oct 17 2007,European Championship qual in Germany,Germany,Czechia,2012,1875,0,3,-56,56,1956,1931,7,5,-1,4,6,9,40,100,237
+792,Oct 17 2007,Friendly in the United States,Guatemala,Mexico,1504,1901,3,2,18,-18,1522,1883,79,15,0,-2,79,13,20,0,-397
+793,Oct 17 2007,European Championship qual in Ireland,Ireland,Cyprus,1791,1530,1,1,-16,16,1775,1546,30,72,-4,1,26,73,40,100,361
+794,Oct 17 2007,Friendly in Israel,Israel,Belarus,1714,1492,2,1,3,-3,1717,1489,39,83,0,1,39,84,20,100,322
+795,Oct 17 2007,Friendly in Italy,Italy,South Africa,2019,1472,2,0,1,-1,2020,1471,4,89,0,0,4,89,20,0,547
+796,Oct 17 2007,Afro-Asian Cup in Japan,Japan,Egypt,1755,1709,4,1,26,-26,1781,1683,17,42,7,-1,24,41,50,100,146
+797,Oct 17 2007,European Championship qual in Kazakhstan,Kazakhstan,Portugal,1352,1888,1,2,-3,3,1349,1891,117,12,-1,0,116,12,40,100,-436
+798,Oct 17 2007,European Championship qual in Liechtenstein,Liechtenstein,Iceland,1147,1463,3,0,54,-54,1201,1409,143,118,13,-13,156,105,40,100,-216
+799,Oct 17 2007,European Championship qual in Luxembourg,Luxembourg,Romania,1038,1930,0,2,-1,1,1037,1931,184,9,0,0,184,9,40,100,-792
+800,Oct 17 2007,European Championship qual in Macedonia,Macedonia,Andorra,1508,1088,3,0,3,-3,1511,1085,82,176,-2,0,80,176,20,0,420
+801,Oct 17 2007,European Championship qual in Malta,Malta,Moldova,1267,1448,2,3,-15,15,1252,1463,147,84,-5,7,142,91,40,100,-81
+802,Oct 17 2007,Friendly in Morocco,Morocco,Namibia,1650,1286,2,0,2,-2,1652,1284,50,135,1,0,51,135,20,100,464
+803,Oct 17 2007,European Championship qual in the Netherlands,Netherlands,Slovenia,1980,1566,2,0,3,-3,1983,1563,4,70,1,-2,5,68,20,0,414
+804,Oct 17 2007,World Cup qualifier in Paraguay,Paraguay,Uruguay,1768,1826,1,0,18,-18,1786,1808,16,19,6,-1,22,18,40,100,42
+805,Oct 17 2007,Friendly in Poland,Poland,Hungary,1782,1607,0,1,-17,17,1765,1624,33,57,-5,0,28,57,20,100,275
+806,Oct 17 2007,European Championship qual in Russia,Russia,England,1782,1958,2,1,24,-24,1806,1934,15,9,4,-1,19,8,40,100,-76
+807,Oct 17 2007,European Championship qual in San Marino,San Marino,Wales,928,1606,1,2,-1,1,927,1607,197,58,-1,0,196,58,20,100,-578
+808,Oct 17 2007,World Cup & African Cup qual in Sierra Leone,Sierra Leone,Guinea-Bissau,1230,1245,1,0,15,-15,1245,1230,141,153,4,-4,145,149,40,100,85
+809,Oct 17 2007,European Championship qual in Sweden,Sweden,Northern Ireland,1827,1536,1,1,-16,16,1811,1552,18,67,-1,3,17,70,40,100,391
+810,Oct 17 2007,Friendly in Switzerland,Switzerland,United States,1837,1741,0,1,-15,15,1822,1756,15,29,0,3,15,32,20,100,196
+811,Oct 17 2007,European Championship qual in Turkey,Turkey,Greece,1811,1796,0,1,-26,26,1785,1822,26,9,-3,6,23,15,40,100,115
+812,Oct 17 2007,Friendly in the United Arab Emirates,United Arab Emirates,Tunisia,1498,1624,0,1,-9,9,1489,1633,86,56,-2,0,84,56,20,100,-26
+813,Oct 17 2007,European Championship qual in Ukraine,Ukraine,Faroe Islands,1764,1163,5,0,1,-1,1765,1162,27,169,1,-1,28,168,20,0,601
+814,Oct 18 2007,World Cup qualifier in Kyrgyzstan,Kyrgyzstan,Jordan,1151,1538,2,0,50,-50,1201,1488,143,95,13,-10,156,85,40,100,-287
+815,Oct 21 2007,World Cup qualifier in Bahrain,Bahrain,Malaysia,1456,1144,4,1,6,-6,1462,1138,90,172,2,-1,92,171,40,100,412
+816,Oct 21 2007,World Cup qualifier in China,China,Myanmar,1558,1177,7,0,5,-5,1563,1172,67,169,1,-1,68,168,20,0,381
+817,Oct 21 2007,World Cup qualifier in Indonesia,Hong Kong,East Timor,1212,590,3,2,1,-1,1213,589,154,222,0,0,154,222,20,0,622
+818,Oct 21 2007,World Cup qualifier in Mongolia,Mongolia,North Korea,801,1486,1,4,-2,2,799,1488,208,86,0,0,208,86,30,100,-585
+819,Oct 21 2007,World Cup qualifier in Sri Lanka,Sri Lanka,Qatar,946,1486,0,1,-3,3,943,1489,193,80,0,3,193,83,40,100,-440
+820,Oct 22 2007,World Cup qualifier in Pakistan,Pakistan,Iraq,890,1661,0,7,-2,2,888,1663,200,44,-1,1,199,45,40,100,-671
+821,Oct 24 2007,COSAFA Cup in South Africa,South Africa,Zambia,1471,1579,0,0,0,0,1471,1579,89,63,0,0,89,63,20,100,-8
+822,Oct 26 2007,World Cup qualifier in Tajikistan,Syria,Afghanistan,1482,810,2,1,1,-1,1483,809,88,205,0,0,88,205,30,0,672
+823,Oct 28 2007,World Cup qualifier in Malaysia,China,Myanmar,1563,1172,4,0,7,-7,1570,1165,66,168,1,0,67,168,40,0,391
+824,Oct 28 2007,World Cup qualifier in Hong Kong,Hong Kong,East Timor,1213,589,8,1,1,-1,1214,588,154,222,0,0,154,222,20,0,624
+825,Oct 28 2007,World Cup qualifier in Syria,Iraq,Pakistan,1663,888,0,0,-20,20,1643,908,61,195,-8,2,53,197,40,0,775
+826,Oct 28 2007,World Cup qualifier in Jordan,Jordan,Kyrgyzstan,1488,1201,2,0,6,-6,1494,1195,82,160,2,-2,84,158,40,100,387
+827,Oct 28 2007,World Cup qualifier in Malaysia,Malaysia,Bahrain,1138,1462,0,0,11,-11,1149,1451,169,102,1,-5,170,97,30,0,-324
+828,Oct 28 2007,World Cup qualifier in the Maldives,Maldives,Yemen,1018,1259,2,0,42,-42,1060,1217,175,167,5,-14,180,153,40,100,-141
+829,Oct 28 2007,World Cup qualifier in Nepal,Nepal,Oman,838,1572,0,2,-2,2,836,1574,204,63,0,1,204,64,40,100,-634
+830,Oct 28 2007,World Cup qualifier in North Korea,North Korea,Mongolia,1488,799,5,1,1,-1,1489,798,86,208,0,0,86,208,20,0,689
+831,Oct 28 2007,World Cup qualifier in Qatar,Qatar,Sri Lanka,1489,943,5,0,2,-2,1491,941,87,193,-2,0,85,193,20,0,546
+832,Oct 28 2007,World Cup qualifier in Taiwan,Taiwan,Uzbekistan,985,1582,0,2,-3,3,982,1585,188,62,0,0,188,62,40,100,-497
+833,Oct 28 2007,World Cup qualifier in Tajikistan,Tajikistan,Bangladesh,1307,970,5,0,6,-6,1313,964,125,192,3,-1,128,191,40,100,437
+834,Oct 28 2007,World Cup qualifier in Turkmenistan,Turkmenistan,Cambodia,1344,803,4,1,2,-2,1346,801,118,208,0,-1,118,207,30,0,541
+835,Oct 28 2007,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Vietnam,1489,1296,5,0,12,-12,1501,1284,79,134,2,0,81,134,40,100,293
+836,Oct 30 2007,World Cup qualifier in India,India,Lebanon,1175,1341,2,2,4,-4,1179,1337,167,124,0,-2,167,122,20,0,-166
+837,Oct 31 2007,Friendly tournament in India,Bhutan,Tibet,563,668,2,2,4,-4,567,664,224,219,1,0,225,219,30,0,-105
+838,Nov 2 2007,Friendly tournament in India,Bhutan,Tibet,567,664,3,0,33,-33,600,631,217,221,4,-1,221,220,30,0,-97
+839,Nov 2 2007,Friendly in Saudi Arabia,Saudi Arabia,Namibia,1700,1284,1,0,1,-1,1701,1283,40,136,0,-1,40,135,20,100,516
+840,Nov 9 2007,World Cup qualifier in Indonesia,Indonesia,Syria,1316,1483,1,4,-28,28,1288,1511,139,70,-6,9,133,79,40,100,-67
+841,Nov 9 2007,Friendly in Saudi Arabia,Saudi Arabia,Estonia,1701,1382,2,0,2,-2,1703,1380,40,111,0,0,40,111,20,100,419
+842,Nov 9 2007,World Cup qualifier in Singapore,Singapore,Tajikistan,1331,1313,2,0,20,-20,1351,1293,107,136,9,-4,116,132,40,100,118
+843,Nov 9 2007,World Cup qualifier in Yemen,Yemen,Thailand,1217,1404,1,1,5,-5,1222,1399,151,106,1,0,152,106,20,0,-187
+844,Nov 10 2007,World Cup qualifier in Hong Kong,Hong Kong,Turkmenistan,1214,1346,0,0,2,-2,1216,1344,154,119,0,0,154,119,40,100,-32
+845,Nov 11 2007,Friendly in Saint Martin,Saint Martin,British Virgin Islands,1012,903,0,1,-15,15,997,918,186,196,0,1,186,197,20,100,209
+846,Nov 14 2007,Friendly in French Guiana,French Guiana,Guadeloupe,1218,1448,2,3,-6,6,1212,1454,155,92,-1,3,154,95,20,100,-130
+847,Nov 16 2007,Friendly in Austria,Austria,England,1604,1934,0,1,-4,4,1600,1938,61,8,-1,0,60,8,20,100,-230
+848,Nov 16 2007,World Cup & African Cup qual in Djibouti,Djibouti,Somalia,802,954,1,0,23,-23,825,931,204,196,1,-2,205,194,40,100,-52
+849,Nov 16 2007,Friendly in France,France,Morocco,2032,1652,2,2,-9,9,2023,1661,3,42,0,4,3,46,20,100,480
+850,Nov 16 2007,Friendly in Qatar,Qatar,Georgia,1491,1567,1,2,-11,11,1480,1578,90,60,-2,4,88,64,20,100,24
+851,Nov 17 2007,European Championship qual in Albania,Albania,Belarus,1534,1489,2,4,-42,42,1492,1531,97,72,-11,7,86,79,40,100,145
+852,Nov 17 2007,European Championship qual in Andorra,Andorra,Estonia,1085,1380,0,2,-15,15,1070,1395,180,103,-2,4,178,107,40,100,-195
+853,Nov 17 2007,Friendly in France,Angola,Ivory Coast,1529,1759,2,1,16,-16,1545,1743,72,37,2,-3,74,34,20,0,-230
+854,Nov 17 2007,World Cup qualifier in Argentina,Argentina,Bolivia,2036,1573,3,0,3,-3,2039,1570,2,70,0,-2,2,68,30,0,463
+855,Nov 17 2007,Friendly in England,Australia,Nigeria,1720,1749,1,0,11,-11,1731,1738,38,35,0,0,38,35,20,0,-29
+856,Nov 17 2007,Friendly tournament in Ghana,Benin,United Arab Emirates,1367,1501,1,0,21,-21,1388,1480,107,94,3,-6,110,88,30,0,-134
+857,Nov 17 2007,European Championship qual in Bulgaria,Bulgaria,Romania,1745,1931,1,0,25,-25,1770,1906,18,11,9,-1,27,10,40,100,-86
+858,Nov 17 2007,World Cup qualifier in Colombia,Colombia,Venezuela,1804,1662,1,0,8,-8,1812,1654,14,51,3,-3,17,48,40,100,242
+859,Nov 17 2007,World Cup & African Cup qual in the Comoros,Comoros,Madagascar,858,1210,0,4,-14,14,844,1224,203,149,0,3,203,152,40,100,-252
+860,Nov 17 2007,European Championship qual in Czechia,Czechia,Slovakia,1931,1658,3,1,6,-6,1937,1652,9,48,0,1,9,49,40,100,373
+861,Nov 17 2007,WC q & Oce Cup in Fiji,Fiji,New Caledonia,1310,1278,3,3,-9,9,1301,1287,133,132,-3,2,130,134,50,100,132
+862,Nov 17 2007,European Championship qual in Finland,Finland,Azerbaijan,1669,1385,2,1,4,-4,1673,1381,41,115,1,-3,42,112,40,100,384
+863,Nov 17 2007,European Championship qual in Germany,Germany,Cyprus,1956,1546,4,0,4,-4,1960,1542,8,79,-1,-3,7,76,40,100,510
+864,Nov 17 2007,European Championship qual in Greece,Greece,Malta,1822,1252,5,0,2,-2,1824,1250,13,143,1,-1,14,142,30,0,570
+865,Nov 17 2007,World Cup & African Cup qual in Guinea-Bissau,Guinea-Bissau,Sierra Leone,1230,1245,0,0,-5,5,1225,1250,150,140,-1,2,149,142,40,100,85
+866,Nov 17 2007,Friendly in the United States,Honduras,Guatemala,1659,1522,1,0,6,-6,1665,1516,41,82,4,-2,45,80,20,0,137
+867,Nov 17 2007,European Championship qual in Israel,Israel,Russia,1717,1806,2,1,19,-19,1736,1787,35,25,2,-3,37,22,30,0,-89
+868,Nov 17 2007,European Championship qual in Latvia,Latvia,Liechtenstein,1465,1201,4,1,8,-8,1473,1193,90,160,0,-2,90,158,40,100,364
+869,Nov 17 2007,European Championship qual in Lithuania,Lithuania,Ukraine,1496,1765,2,0,44,-44,1540,1721,70,50,7,-11,77,39,40,100,-169
+870,Nov 17 2007,European Championship qual in Macedonia,Macedonia,Croatia,1511,1916,2,0,51,-51,1562,1865,63,15,8,-2,71,13,40,100,-305
+871,Nov 17 2007,European Championship qual in Moldova,Moldova,Hungary,1463,1624,3,0,41,-41,1504,1583,73,65,9,-4,82,61,40,100,-61
+872,Nov 17 2007,European Championship qual in the Netherlands,Netherlands,Luxembourg,1983,1037,1,0,0,0,1983,1037,5,185,0,0,5,185,20,0,946
+873,Nov 17 2007,European Championship qual in Norway,Norway,Turkey,1791,1785,1,2,-26,26,1765,1811,35,13,-7,5,28,18,40,100,106
+874,Nov 17 2007,European Championship qual in Northern Ireland,Northern Ireland,Denmark,1552,1849,2,1,30,-30,1582,1819,56,18,7,-2,63,16,40,100,-197
+875,Nov 17 2007,World Cup qualifier in Paraguay,Paraguay,Ecuador,1786,1660,5,1,16,-16,1802,1644,18,57,2,-5,20,52,40,100,226
+876,Nov 17 2007,European Championship qual in Poland,Poland,Belgium,1765,1643,2,0,13,-13,1778,1630,22,59,3,-3,25,56,40,100,222
+877,Nov 17 2007,European Championship qual in Portugal,Portugal,Armenia,1891,1452,1,0,2,-2,1893,1450,10,99,1,-1,11,98,30,0,439
+878,Nov 17 2007,European Championship qual in Scotland,Scotland,Italy,1773,2020,1,2,-12,12,1761,2032,33,2,-3,1,30,3,40,100,-147
+879,Nov 17 2007,Friendly in France,Senegal,Mali,1665,1591,3,2,8,-8,1673,1583,40,61,2,0,42,61,20,0,74
+880,Nov 17 2007,Friendly tournament in South Africa,South Africa,United States,1471,1756,0,1,-8,8,1463,1764,93,26,-2,3,91,29,30,100,-185
+881,Nov 17 2007,European Championship qual in Spain,Spain,Sweden,1949,1811,3,0,14,-14,1963,1797,5,25,1,-4,6,21,40,100,238
+882,Nov 17 2007,Friendly in Tunisia,Tunisia,Namibia,1633,1283,2,0,2,-2,1635,1281,54,137,1,-1,55,136,20,100,450
+883,Nov 17 2007,WC q & Oce Cup in Vanuatu,Vanuatu,New Zealand,1248,1526,1,2,-13,13,1235,1539,149,79,-3,-1,146,78,50,100,-178
+884,Nov 17 2007,European Championship qual in Wales,Wales,Ireland,1607,1775,2,2,4,-4,1611,1771,56,26,1,0,57,26,20,0,-168
+885,Nov 18 2007,Friendly tournament in Ghana,Ghana,Togo,1756,1416,2,0,3,-3,1759,1413,32,106,0,-2,32,104,30,100,440
+886,Nov 18 2007,Friendly in Jamaica,Jamaica,El Salvador,1548,1383,3,0,6,-6,1554,1377,71,115,1,-2,72,113,20,100,265
+887,Nov 18 2007,Pan Arab Games in Egypt,Libya,Saudi Arabia,1417,1703,2,1,34,-34,1451,1669,93,48,4,-4,97,44,40,0,-286
+888,Nov 18 2007,World Cup qualifier in Peru,Peru,Brazil,1646,2088,1,1,15,-15,1661,2073,42,1,4,0,46,1,40,100,-342
+889,Nov 18 2007,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1230,1067,3,0,9,-9,1239,1058,142,181,3,-1,145,180,30,100,263
+890,Nov 18 2007,Friendly in Swaziland,Swaziland,Malawi,1188,1257,0,3,-19,19,1169,1276,174,133,-7,3,167,136,20,100,31
+891,Nov 18 2007,World Cup qualifier in Syria,Syria,Indonesia,1511,1288,7,0,12,-12,1523,1276,79,139,1,-3,80,136,40,100,323
+892,Nov 18 2007,World Cup qualifier in Tajikistan,Tajikistan,Singapore,1293,1351,1,1,-2,2,1291,1353,132,116,0,0,132,116,30,100,42
+893,Nov 18 2007,World Cup qualifier in Thailand,Thailand,Yemen,1399,1222,1,0,7,-7,1406,1215,106,153,0,0,106,153,40,100,277
+894,Nov 18 2007,World Cup qualifier in Turkmenistan,Turkmenistan,Hong Kong,1344,1216,3,0,15,-15,1359,1201,109,156,5,-1,114,155,40,100,228
+895,Nov 18 2007,World Cup qualifier in Uruguay,Uruguay,Chile,1808,1761,2,2,-8,8,1800,1769,21,26,-1,2,20,28,40,100,147
+896,Nov 20 2007,Friendly in France,Algeria,Mali,1391,1583,3,2,15,-15,1406,1568,104,75,2,-7,106,68,20,0,-192
+897,Nov 20 2007,World Cup qualifier in Colombia,Colombia,Argentina,1812,2039,2,1,27,-27,1839,2012,11,6,3,-2,14,4,40,100,-127
+898,Nov 20 2007,Friendly in France,Guinea,Angola,1603,1545,3,0,15,-15,1618,1530,56,84,1,-5,57,79,20,0,58
+899,Nov 20 2007,Friendly in South Africa,South Africa,Canada,1463,1645,2,0,18,-18,1481,1627,85,61,3,-5,88,56,20,100,-82
+900,Nov 20 2007,Friendly in Switzerland,Switzerland,Nigeria,1822,1738,0,1,-15,15,1807,1753,21,31,-3,2,18,33,20,100,184
+901,Nov 20 2007,World Cup qualifier in Venezuela,Venezuela,Bolivia,1654,1570,5,3,15,-15,1669,1555,39,74,5,-3,44,71,40,100,184
+902,Nov 21 2007,European Championship qual in Andorra,Andorra,Russia,1070,1787,0,1,-1,1,1069,1788,178,24,0,-1,178,23,20,100,-617
+903,Nov 21 2007,European Championship qual in Armenia,Armenia,Kazakhstan,1450,1349,0,1,-30,30,1420,1379,105,104,-3,7,102,111,40,100,201
+904,Nov 21 2007,Friendly in Austria,Austria,Tunisia,1600,1635,0,0,-2,2,1598,1637,59,54,0,0,59,54,20,100,65
+905,Nov 21 2007,European Championship qual in Azerbaijan,Azerbaijan,Belgium,1381,1630,0,1,-12,12,1369,1642,117,49,-3,3,114,52,40,100,-149
+906,Nov 21 2007,European Championship qual in Belarus,Belarus,Netherlands,1531,1983,2,1,35,-35,1566,1948,58,7,10,-1,68,6,40,100,-352
+907,Nov 21 2007,World Cup qualifier in Brazil,Brazil,Uruguay,2073,1800,2,1,4,-4,2077,1796,1,22,0,-1,1,21,40,100,373
+908,Nov 21 2007,World Cup qualifier in Chile,Chile,Paraguay,1769,1802,0,3,-42,42,1727,1844,50,9,-11,5,39,14,40,100,67
+909,Nov 21 2007,European Championship qual in Cyprus,Cyprus,Czechia,1542,1937,0,2,-9,9,1533,1946,81,5,-3,2,78,7,40,100,-295
+910,Nov 21 2007,European Championship qual in Denmark,Denmark,Iceland,1819,1409,3,0,4,-4,1823,1405,18,109,-1,-2,17,107,40,100,510
+911,Nov 21 2007,World Cup qualifier in Ecuador,Ecuador,Peru,1644,1661,5,1,29,-29,1673,1632,33,63,9,-8,42,55,40,100,83
+912,Nov 21 2007,Pan Arab Games in Egypt,Egypt,Libya,1683,1451,0,0,-15,15,1668,1466,52,85,-6,6,46,91,40,100,332
+913,Nov 21 2007,European Championship qual in England,England,Croatia,1938,1865,2,3,-29,29,1909,1894,12,9,-2,2,10,11,40,100,173
+914,Nov 21 2007,Friendly in Equatorial Guinea,Equatorial Guinea,Niger,1245,1267,1,1,-2,2,1243,1269,144,136,0,1,144,137,20,100,78
+915,Nov 21 2007,European Championship qual in Georgia,Georgia,Lithuania,1578,1540,0,2,-41,41,1537,1581,90,44,-13,16,77,60,40,100,138
+916,Nov 21 2007,European Championship qual in Germany,Germany,Wales,1960,1611,0,0,-17,17,1943,1628,9,54,-1,2,8,56,40,100,449
+917,Nov 21 2007,Friendly tournament in Ghana,Ghana,Benin,1759,1388,4,2,3,-3,1762,1385,28,110,2,0,30,110,20,0,371
+918,Nov 21 2007,European Championship qual in Hungary,Hungary,Greece,1583,1824,1,2,-12,12,1571,1836,65,17,-2,-1,63,16,40,100,-141
+919,Nov 21 2007,European Championship qual in Israel,Israel,Macedonia,1736,1562,1,0,7,-7,1743,1555,33,72,2,-1,35,71,40,100,274
+920,Nov 21 2007,European Championship qual in Italy,Italy,Faroe Islands,2032,1162,3,1,0,0,2032,1162,2,169,0,0,2,169,20,0,870
+921,Nov 21 2007,Friendly in Jamaica,Jamaica,Guatemala,1554,1516,2,0,9,-9,1563,1507,68,81,2,0,70,81,20,100,138
+922,Nov 21 2007,European Championship qual in Malta,Malta,Norway,1250,1765,1,4,-6,6,1244,1771,144,25,-1,2,143,27,40,100,-415
+923,Nov 21 2007,Friendly in France,Morocco,Senegal,1661,1673,3,0,18,-18,1679,1655,35,57,6,-8,41,49,20,0,-12
+924,Nov 21 2007,WC q & Oce Cup in New Caledonia,New Caledonia,Fiji,1287,1301,4,0,36,-36,1323,1265,119,146,7,-8,126,138,50,100,86
+925,Nov 21 2007,WC q & Oce Cup in New Zealand,New Zealand,Vanuatu,1539,1235,4,1,8,-8,1547,1227,71,149,3,-1,74,148,30,0,304
+926,Nov 21 2007,Friendly in Oman,Oman,Kenya,1574,1338,2,2,-7,7,1567,1345,69,120,-2,1,67,121,20,100,336
+927,Nov 21 2007,Friendly in Panama,Panama,Costa Rica,1571,1638,1,1,-1,1,1570,1639,62,53,2,0,64,53,20,100,33
+928,Nov 21 2007,European Championship qual in Portugal,Portugal,Finland,1893,1673,0,0,-15,15,1878,1688,15,39,-2,1,13,40,40,100,320
+929,Nov 21 2007,Friendly in Qatar,Qatar,Ivory Coast,1480,1743,1,6,-11,11,1469,1754,91,29,-1,3,90,32,20,100,-163
+930,Nov 21 2007,European Championship qual in Romania,Romania,Albania,1906,1492,6,1,4,-4,1910,1488,8,88,1,-1,9,87,40,100,514
+931,Nov 21 2007,European Championship qual in San Marino,San Marino,Slovakia,927,1652,0,5,-2,2,925,1654,196,50,0,0,196,50,30,100,-625
+932,Nov 21 2007,European Championship qual in Serbia,Serbia,Poland,1752,1778,2,2,-4,4,1748,1782,34,23,0,1,34,24,40,100,74
+933,Nov 21 2007,European Championship qual in Slovenia,Slovenia,Bulgaria,1563,1770,0,2,-21,21,1542,1791,81,17,-6,5,75,22,40,100,-107
+934,Nov 21 2007,European Championship qual in Spain,Spain,Northern Ireland,1963,1582,1,0,2,-2,1965,1580,4,60,1,1,5,61,20,0,381
+935,Nov 21 2007,European Championship qual in Sweden,Sweden,Latvia,1797,1473,2,1,3,-3,1800,1470,19,87,1,2,20,89,20,0,324
+936,Nov 21 2007,Friendly in Tanzania,Tanzania,Zambia,1334,1579,1,0,14,-14,1348,1565,113,75,6,-6,119,69,20,100,-145
+937,Nov 21 2007,Friendly tournament in Ghana,Togo,United Arab Emirates,1413,1480,5,0,36,-36,1449,1444,92,109,6,-10,98,99,30,0,-67
+938,Nov 21 2007,European Championship qual in Turkey,Turkey,Bosnia and Herzegovina,1811,1544,1,0,4,-4,1815,1540,19,78,-1,-2,18,76,20,0,267
+939,Nov 21 2007,European Championship qual in Ukraine,Ukraine,France,1721,2023,2,2,10,-10,1731,2013,35,3,2,0,37,3,40,100,-202
+940,Nov 21 2007,Friendly in Uzbekistan,Uzbekistan,Estonia,1585,1395,0,0,-7,7,1578,1402,64,108,-2,0,62,108,20,100,290
+941,Nov 22 2007,Friendly in Oman,Oman,Kenya,1567,1345,1,1,-7,7,1560,1352,73,115,-3,3,70,118,20,100,322
+942,Nov 24 2007,European Championship qual in Serbia,Serbia,Kazakhstan,1748,1379,1,0,3,-3,1751,1376,34,115,0,-2,34,113,30,0,369
+943,Nov 25 2007,Pan Arab Games in Egypt,Egypt,Saudi Arabia,1668,1669,2,1,14,-14,1682,1655,36,52,5,-4,41,48,40,100,99
+944,Nov 27 2007,Friendly in South Africa,South Africa,Lesotho,1481,1139,5,0,3,-3,1484,1136,88,173,0,-1,88,172,20,100,442
+945,Nov 30 2007,Friendly in Sudan,Sudan,Eritrea,1434,1184,1,0,2,-2,1436,1182,100,166,0,-2,100,164,20,100,350
+946,Dec 1 2007,Friendly tournament in Antigua and Barbuda,Antigua and Barbuda,Saint Kitts and Nevis,1058,1239,2,0,28,-28,1086,1211,172,163,4,-9,176,154,30,100,-81
+947,Dec 2 2007,Amilcar Cabral Cup in Guinea-Bissau,Guinea-Bissau,Sierra Leone,1225,1250,2,0,24,-24,1249,1226,136,154,6,-6,142,148,30,0,-25
+948,Dec 3 2007,Amilcar Cabral Cup in Guinea-Bissau,Cape Verde,Gambia,1300,1348,0,0,3,-3,1303,1345,129,122,1,-1,130,121,40,0,-48
+949,Dec 3 2007,Friendly in Sudan,Sudan,Eritrea,1436,1182,1,0,2,-2,1438,1180,100,166,0,-1,100,165,20,100,354
+950,Dec 7 2007,Amilcar Cabral Cup in Guinea-Bissau,Guinea-Bissau,Cape Verde,1249,1303,1,1,-3,3,1246,1306,142,130,0,0,142,130,40,100,46
+951,Dec 8 2007,CECAFA Cup in Tanzania,Tanzania,Kenya,1348,1352,2,1,15,-15,1363,1337,110,128,5,-5,115,123,30,0,-4
+952,Dec 9 2007,CECAFA Cup in Tanzania,Rwanda,Eritrea,1308,1180,2,1,13,-13,1321,1167,125,169,2,-2,127,167,40,0,128
+953,Dec 9 2007,CECAFA Cup in Tanzania,Sudan,Zanzibar,1438,1225,2,2,-11,11,1427,1236,102,143,-1,3,101,146,30,100,313
+954,Dec 9 2007,CECAFA Cup in Tanzania,Uganda,Djibouti,1415,825,7,0,3,-3,1418,822,103,205,0,0,103,205,40,0,590
+955,Dec 10 2007,CECAFA Cup in Tanzania,Burundi,Somalia,1262,931,3,0,9,-9,1271,922,135,198,2,-2,137,196,40,0,331
+956,Dec 11 2007,CECAFA Cup in Tanzania,Eritrea,Djibouti,1167,822,3,2,5,-5,1172,817,165,205,1,0,166,205,40,0,345
+957,Dec 11 2007,Friendly in Oman,Oman,Jordan,1560,1494,0,3,-25,25,1535,1519,84,77,-7,4,77,81,20,100,166
+958,Dec 11 2007,CECAFA Cup in Tanzania,Uganda,Rwanda,1418,1321,2,0,22,-22,1440,1299,97,135,3,-4,100,131,40,0,97
+959,Dec 12 2007,CECAFA Cup in Tanzania,Burundi,Kenya,1271,1337,1,0,24,-24,1295,1313,127,131,5,-4,132,127,40,0,-66
+960,Dec 12 2007,CECAFA Cup in Tanzania,Tanzania,Somalia,1363,922,1,0,2,-2,1365,920,115,196,0,0,115,196,30,0,441
+961,Dec 13 2007,CECAFA Cup in Tanzania,Rwanda,Djibouti,1299,817,9,0,6,-6,1305,811,129,205,1,0,130,205,40,0,482
+962,Dec 13 2007,CECAFA Cup in Tanzania,Zanzibar,Ethiopia,1236,1352,3,1,40,-40,1276,1312,126,135,10,-8,136,127,40,0,-116
+963,Dec 14 2007,Friendly in Bermuda,Bermuda,Saint Kitts and Nevis,1137,1211,1,2,-11,11,1126,1222,173,150,-1,2,172,152,20,100,26
+964,Dec 14 2007,CECAFA Cup in Tanzania,Eritrea,Uganda,1172,1440,3,2,33,-33,1205,1407,144,108,11,-4,155,104,40,0,-268
+965,Dec 14 2007,CECAFA Cup in Tanzania,Kenya,Somalia,1313,920,2,0,6,-6,1319,914,126,198,0,-1,126,197,40,0,393
+966,Dec 15 2007,CECAFA Cup in Tanzania,Ethiopia,Sudan,1312,1427,0,0,6,-6,1318,1421,127,101,0,0,127,101,40,0,-115
+967,Dec 15 2007,CECAFA Cup in Tanzania,Tanzania,Burundi,1365,1295,0,0,-9,9,1356,1304,119,130,-2,1,117,131,40,100,170
+968,Dec 16 2007,Friendly in Bermuda,Bermuda,Saint Kitts and Nevis,1126,1222,4,2,15,-15,1141,1207,170,156,1,-2,171,154,20,100,4
+969,Dec 16 2007,Friendly in Oman,Oman,Tajikistan,1535,1291,4,2,4,-4,1539,1287,75,133,1,0,76,133,20,100,344
+970,Dec 17 2007,CECAFA Cup in Tanzania,Burundi,Eritrea,1304,1205,2,1,14,-14,1318,1191,123,163,4,-4,127,159,40,0,99
+971,Dec 17 2007,CECAFA Cup in Tanzania,Tanzania,Sudan,1356,1421,1,2,-22,22,1334,1443,129,99,-6,1,123,100,40,100,35
+972,Dec 18 2007,CECAFA Cup in Tanzania,Kenya,Uganda,1319,1407,1,1,5,-5,1324,1402,122,110,2,-3,124,107,40,0,-88
+973,Dec 18 2007,CECAFA Cup in Tanzania,Rwanda,Zanzibar,1305,1276,0,0,-2,2,1303,1278,131,136,0,0,131,136,40,0,29
+974,Dec 19 2007,CECAFA Cup in Tanzania,Sudan,Burundi,1443,1318,2,1,13,-13,1456,1305,88,133,6,-3,94,130,40,0,125
+975,Dec 20 2007,CECAFA Cup in Tanzania,Rwanda,Uganda,1303,1402,1,0,26,-26,1329,1376,117,117,7,-5,124,112,40,0,-99
+976,Dec 22 2007,CECAFA Cup in Tanzania,Rwanda,Sudan,1329,1456,2,2,7,-7,1336,1449,122,102,1,-4,123,98,40,0,-127
+977,Dec 22 2007,King's Cup in Thailand,Thailand,Uzbekistan,1406,1578,3,2,18,-18,1424,1560,100,76,2,-7,102,69,30,100,-72
+978,Dec 22 2007,CECAFA Cup in Tanzania,Uganda,Burundi,1376,1305,2,0,24,-24,1400,1281,104,137,4,-3,108,134,40,0,71
+979,Dec 23 2007,Friendly in The Gambia,Gambia,Sierra Leone,1345,1226,2,1,4,-4,1349,1222,118,153,0,-2,118,151,20,100,219
+980,Dec 24 2007,King's Cup in Thailand,North Korea,Uzbekistan,1489,1560,2,2,3,-3,1492,1557,86,69,0,0,86,69,30,0,-71
+981,Dec 26 2007,King's Cup in Thailand,Thailand,North Korea,1424,1492,1,0,14,-14,1438,1478,100,90,1,-2,101,88,30,100,32

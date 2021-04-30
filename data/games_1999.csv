@@ -1,0 +1,783 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 3 1999,Friendly in Ivory Coast,Ivory Coast,Togo,1616,1388,3,1,4,-4,1620,1384,52,112,1,-1,53,111,20,100,328
+1,Jan 4 1999,Friendly in Burkina Faso,Burkina Faso,Gabon,1385,1460,2,1,9,-9,1394,1451,106,92,2,-2,108,90,20,100,25
+2,Jan 10 1999,Friendly in Burkina Faso,Burkina Faso,Mali,1394,1431,1,0,8,-8,1402,1423,102,105,3,-3,105,102,20,100,63
+3,Jan 10 1999,Friendly in Senegal,Senegal,Guinea,1430,1455,1,0,8,-8,1438,1447,88,95,6,-3,94,92,20,100,75
+4,Jan 12 1999,Friendly in Bermuda,Bermuda,Antigua and Barbuda,1304,1200,1,0,5,-5,1309,1195,130,155,0,0,130,155,20,100,204
+5,Jan 13 1999,Friendly in Senegal,Senegal,Guinea,1438,1447,1,0,7,-7,1445,1440,90,94,2,-1,92,93,20,100,91
+6,Jan 14 1999,Friendly in Bermuda,Bermuda,Antigua and Barbuda,1309,1195,0,1,-15,15,1294,1210,134,145,-2,5,132,150,20,100,214
+7,Jan 15 1999,Friendly in Burkina Faso,Burkina Faso,Mali,1402,1423,4,1,14,-14,1416,1409,99,106,3,-2,102,104,20,100,79
+8,Jan 18 1999,Friendly tournament in Israel,Israel,Estonia,1690,1214,7,0,2,-2,1692,1212,40,151,0,-2,40,149,20,100,576
+9,Jan 18 1999,Friendly in Togo,Togo,Burkina Faso,1384,1416,1,2,-12,12,1372,1428,119,98,-4,2,115,100,20,100,68
+10,Jan 20 1999,Friendly in France,France,Morocco,2075,1807,1,0,2,-2,2077,1805,1,19,0,0,1,19,20,100,368
+11,Jan 20 1999,Friendly tournament in Israel,Israel,Norway,1692,1829,0,1,-13,13,1679,1842,46,16,-3,0,43,16,30,100,-37
+12,Jan 22 1999,African Nations Cup qualifier in Algeria,Algeria,Tunisia,1520,1632,0,1,-19,19,1501,1651,78,52,-2,0,76,52,40,100,-12
+13,Jan 22 1999,Friendly tournament in Israel,Estonia,Norway,1212,1842,3,3,14,-14,1226,1828,143,16,3,0,146,16,30,0,-630
+14,Jan 23 1999,African Nations Cup qualifier in Eritrea,Eritrea,Cameroon,1213,1563,0,0,12,-12,1225,1551,146,67,1,-2,147,65,40,100,-250
+15,Jan 23 1999,African Nations Cup qualifier in Mauritius,Mauritius,South Africa,1131,1673,1,1,17,-17,1148,1656,159,56,4,-5,163,51,40,100,-442
+16,Jan 23 1999,African Nations Cup qualifier in Nigeria,Nigeria,Burundi,1696,1457,2,0,7,-7,1703,1450,37,92,0,-2,37,90,40,100,339
+17,Jan 23 1999,African Nations Cup qualifier in Senegal,Senegal,Burkina Faso,1445,1428,1,1,-6,6,1439,1434,94,92,-1,4,93,96,40,100,117
+18,Jan 23 1999,Friendly in Zimbabwe,Zimbabwe,Malawi,1462,1317,3,0,7,-7,1469,1310,83,129,2,0,85,129,20,100,245
+19,Jan 24 1999,African Nations Cup qualifier in Angola,Angola,Gabon,1481,1451,3,1,19,-19,1500,1432,77,108,0,-10,77,98,40,100,130
+20,Jan 24 1999,Friendly in Bolivia,Bolivia,United States,1689,1696,0,0,-3,3,1686,1699,44,38,-2,0,42,38,20,100,93
+21,Jan 24 1999,African Nations Cup qualifier in Congo,Congo,Mali,1474,1409,0,0,-9,9,1465,1418,85,100,-1,2,84,102,40,100,165
+22,Jan 24 1999,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Kenya,1512,1472,2,1,12,-12,1524,1460,73,88,1,-2,74,86,40,100,140
+23,Jan 24 1999,African Nations Cup qualifier in Ghana,Ghana,Mozambique,1553,1326,1,0,5,-5,1558,1321,64,129,0,-2,64,127,40,100,327
+24,Jan 24 1999,African Nations Cup qualifier in Guinea,Guinea,Morocco,1440,1805,1,1,13,-13,1453,1792,84,21,4,-1,88,20,40,100,-265
+25,Jan 24 1999,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Namibia,1620,1381,3,0,9,-9,1629,1372,53,118,0,-3,53,115,40,100,339
+26,Jan 24 1999,African Nations Cup qualifier in Liberia,Liberia,Uganda,1360,1433,2,0,28,-28,1388,1405,105,110,6,-6,111,104,40,100,27
+27,Jan 24 1999,African Nations Cup qualifier in Madagascar,Madagascar,Zambia,1475,1592,1,2,-19,19,1456,1611,92,52,-5,3,87,55,40,100,-17
+28,Jan 24 1999,Friendly in Zimbabwe,Zimbabwe,Malawi,1469,1310,1,0,4,-4,1473,1306,79,129,3,0,82,129,20,100,259
+29,Jan 27 1999,Friendly in Malta,Malta,Bosnia and Herzegovina,1210,1561,2,1,16,-16,1226,1545,142,67,4,-2,146,65,20,100,-251
+30,Jan 28 1999,Friendly in Costa Rica,Costa Rica,Ecuador,1620,1750,0,0,1,-1,1621,1749,54,26,0,0,54,26,20,100,-30
+31,Jan 29 1999,Friendly tournament in Vietnam,Vietnam,Singapore,1218,1321,1,0,15,-15,1233,1306,139,129,5,-1,144,128,30,100,-3
+32,Jan 31 1999,Friendly in Ethiopia,Ethiopia,Kenya,1292,1460,2,2,2,-2,1294,1458,131,86,1,0,132,86,20,100,-68
+33,Feb 3 1999,Friendly in Spain,Andorra,Faroe Islands,1056,1213,0,0,4,-4,1060,1209,181,152,0,-1,181,151,20,0,-157
+34,Feb 3 1999,Friendly tournament in Cyprus,Cyprus,Belgium,1514,1815,0,1,-7,7,1507,1822,75,16,0,1,75,17,30,100,-201
+35,Feb 3 1999,Friendly tournament in Cyprus,Greece,Finland,1720,1589,2,1,10,-10,1730,1579,29,59,1,0,30,59,30,0,131
+36,Feb 3 1999,Friendly in Guatemala,Guatemala,Ecuador,1571,1749,0,0,2,-2,1573,1747,61,26,0,0,61,26,20,100,-78
+37,Feb 3 1999,Friendly in Malta,Malta,Poland,1226,1763,0,1,-1,1,1225,1764,149,22,-1,0,148,22,20,0,-537
+38,Feb 3 1999,CONCACAF Ch & Car Cup q in Martinique,Martinique,French Guiana,1403,1132,3,1,6,-6,1409,1126,103,169,1,-1,104,168,40,100,371
+39,Feb 3 1999,Friendly in Venezuela,Venezuela,Argentina,1333,1930,0,2,-2,2,1331,1932,122,10,-1,0,121,10,20,100,-497
+40,Feb 5 1999,CONCACAF Ch & Car Cup q in the British Virgin Islands,British Virgin Islands,Montserrat,773,613,3,1,11,-11,784,602,205,219,0,0,205,219,40,100,260
+41,Feb 5 1999,Friendly tournament in Cyprus,Cyprus,Finland,1507,1579,2,1,14,-14,1521,1565,75,65,0,-3,75,62,30,100,28
+42,Feb 5 1999,Friendly tournament in Cyprus,Greece,Belgium,1730,1822,1,0,19,-19,1749,1803,22,19,4,-1,26,18,30,0,-92
+43,Feb 6 1999,Friendly tournament in Oman,Switzerland,Slovenia,1669,1532,2,0,14,-14,1683,1518,38,80,5,-5,43,75,30,0,137
+44,Feb 6 1999,Friendly in the United States,United States,Germany,1699,1977,3,0,26,-26,1725,1951,26,8,6,-1,32,7,20,100,-178
+45,Feb 7 1999,CONCACAF Ch & Car Cup q in the British Virgin Islands,British Virgin Islands,Montserrat,784,602,3,0,12,-12,796,590,203,221,1,-1,204,220,40,100,282
+46,Feb 7 1999,COSAFA Cup in Lesotho,Lesotho,Namibia,1139,1372,1,0,27,-27,1166,1345,160,123,2,-4,162,119,40,100,-133
+47,Feb 8 1999,Friendly tournament in Oman,Oman,Slovenia,1391,1518,0,7,-31,31,1360,1549,123,55,-7,10,116,65,30,100,-27
+48,Feb 9 1999,Friendly in Belgium,Belgium,Czechia,1803,1902,0,1,-10,10,1793,1912,20,9,-1,2,19,11,20,100,1
+49,Feb 9 1999,Friendly in the United States,Colombia,Germany,1738,1951,3,3,5,-5,1743,1946,29,7,0,0,29,7,20,0,-213
+50,Feb 9 1999,Friendly in Israel,Israel,Belarus,1679,1412,2,1,2,-2,1681,1410,44,103,0,0,44,103,20,100,367
+51,Feb 10 1999,Friendly in Albania,Albania,Macedonia,1438,1566,2,0,16,-16,1454,1550,82,67,6,-3,88,64,20,100,-28
+52,Feb 10 1999,Friendly in the United States,Argentina,Mexico,1932,1864,1,0,8,-8,1940,1856,8,15,1,0,9,15,20,0,68
+53,Feb 10 1999,Friendly in Croatia,Croatia,Denmark,1964,1819,0,1,-16,16,1948,1835,6,15,0,1,6,16,20,100,245
+54,Feb 10 1999,European Championship qual in Cyprus,Cyprus,San Marino,1521,947,4,0,2,-2,1523,945,75,194,0,0,75,194,30,0,574
+55,Feb 10 1999,Friendly in England,England,France,1944,2077,0,2,-14,14,1930,2091,12,1,-2,0,10,1,20,100,-33
+56,Feb 10 1999,Friendly in Malta,Finland,Poland,1565,1764,1,1,5,-5,1570,1759,60,24,1,-1,61,23,20,0,-199
+57,Feb 10 1999,Friendly in Ireland,Ireland,Paraguay,1738,1803,2,0,13,-13,1751,1790,24,22,3,-2,27,20,20,100,35
+58,Feb 10 1999,Friendly in Italy,Italy,Norway,2020,1828,0,0,-7,7,2013,1835,3,16,0,0,3,16,20,100,292
+59,Feb 10 1999,Friendly in Jamaica,Jamaica,Costa Rica,1675,1621,1,1,-4,4,1671,1625,48,54,-1,0,47,54,20,100,154
+60,Feb 10 1999,European Championship qual in Malta,Malta,Yugoslavia,1225,1943,0,3,-2,2,1223,1945,150,7,-1,1,149,8,40,100,-618
+61,Feb 10 1999,Friendly in France,Netherlands,Portugal,1993,1903,0,0,-3,3,1990,1906,4,12,0,0,4,12,20,0,90
+62,Feb 10 1999,Friendly tournament in Oman,Oman,Switzerland,1360,1683,1,2,-7,7,1353,1690,118,37,-1,3,117,40,30,100,-223
+63,Feb 10 1999,Friendly in Peru,Peru,Ecuador,1714,1747,1,2,-12,12,1702,1759,43,19,-5,4,38,23,20,100,67
+64,Feb 10 1999,Friendly in Tunisia,Tunisia,Sweden,1651,1886,0,1,-6,6,1645,1892,52,14,0,0,52,14,20,100,-135
+65,Feb 13 1999,Friendly in Saint Lucia,Saint Lucia,Antigua and Barbuda,1232,1210,0,0,-3,3,1229,1213,145,150,0,0,145,150,20,100,122
+66,Feb 15 1999,Friendly tournament in Kuwait,Kuwait,Iran,1663,1747,1,2,-16,16,1647,1763,53,15,-2,7,51,22,30,100,16
+67,Feb 16 1999,Friendly tournament in Hong Kong,Egypt,Bulgaria,1679,1673,3,1,22,-22,1701,1651,33,54,6,-4,39,50,30,0,6
+68,Feb 17 1999,Friendly in Ecuador,Ecuador,Peru,1759,1702,1,2,-14,14,1745,1716,34,28,-5,5,29,33,20,100,157
+69,Feb 17 1999,Friendly in Guatemala,Guatemala,Chile,1573,1754,1,1,2,-2,1575,1752,60,25,0,1,60,26,20,100,-81
+70,Feb 19 1999,Friendly tournament in Hong Kong,Mexico,Egypt,1856,1701,3,0,15,-15,1871,1686,15,47,0,-4,15,43,30,0,155
+71,Feb 20 1999,COSAFA Cup in Botswana,Botswana,South Africa,1016,1656,1,2,-2,2,1014,1658,185,49,0,0,185,49,40,100,-540
+72,Feb 20 1999,Friendly in Gabon,Gabon,Burkina Faso,1432,1434,1,1,-3,3,1429,1437,100,95,-1,0,99,95,20,100,98
+73,Feb 20 1999,Friendly in Zimbabwe,Zimbabwe,Zambia,1473,1611,1,1,1,-1,1474,1610,82,55,0,0,82,55,20,100,-38
+74,Feb 21 1999,Friendly in the United States,United States,Chile,1725,1752,2,1,8,-8,1733,1744,30,32,1,-3,31,29,20,100,73
+75,Feb 22 1999,Friendly in Suriname,Suriname,Guyana,1277,1071,2,1,3,-3,1280,1068,135,180,0,-1,135,179,20,100,306
+76,Feb 23 1999,King's Cup in Thailand,Thailand,North Korea,1400,1466,2,2,-1,1,1399,1467,108,83,-1,0,107,83,20,100,34
+77,Feb 24 1999,CONCACAF Ch & Car Cup q in the Bahamas,Bahamas,Turks and Caicos Islands,863,800,3,0,20,-20,883,780,200,206,0,0,200,206,40,100,163
+78,Feb 24 1999,Friendly in Costa Rica,Costa Rica,Jamaica,1625,1671,9,0,21,-21,1646,1650,50,54,2,-4,52,50,20,100,54
+79,Feb 24 1999,Friendly in Israel,Israel,Latvia,1681,1448,2,0,4,-4,1685,1444,45,92,0,0,45,92,20,100,333
+80,Feb 24 1999,Friendly in Saint Lucia,Saint Lucia,Grenada,1229,1285,1,2,-11,11,1218,1296,153,130,-4,2,149,132,20,100,44
+81,Feb 26 1999,CONCACAF Ch & Car Cup q in the Bahamas,Turks and Caicos Islands,US Virgin Islands,780,710,2,2,-4,4,776,714,206,211,0,0,206,211,40,0,70
+82,Feb 27 1999,African Nations Cup qualifier in South Africa,South Africa,Gabon,1658,1429,4,1,9,-9,1667,1420,46,103,1,-2,47,101,40,100,329
+83,Feb 28 1999,African Nations Cup qualifier in Angola,Angola,Mauritius,1500,1148,0,2,-56,56,1444,1204,105,144,-14,10,91,154,40,100,452
+84,Feb 28 1999,CONCACAF Ch & Car Cup q in the Bahamas,Bahamas,US Virgin Islands,883,714,0,0,-13,13,870,727,202,209,-1,1,201,210,40,100,269
+85,Feb 28 1999,Friendly in the British Virgin Islands,British Virgin Islands,Antigua and Barbuda,796,1213,0,2,-4,4,792,1217,204,150,0,0,204,150,20,100,-317
+86,Feb 28 1999,African Nations Cup qualifier in Burundi,Burundi,Burkina Faso,1450,1437,1,2,-26,26,1424,1463,109,77,-9,9,100,86,40,100,113
+87,Feb 28 1999,African Nations Cup qualifier in Cameroon,Cameroon,Mozambique,1551,1321,1,0,5,-5,1556,1316,63,127,0,0,63,127,40,100,330
+88,Feb 28 1999,African Nations Cup qualifier in Congo,Congo,Ivory Coast,1465,1629,1,0,24,-24,1489,1605,70,60,7,-3,77,57,40,100,-64
+89,Feb 28 1999,African Nations Cup qualifier in Ghana,Ghana,Eritrea,1558,1225,5,0,6,-6,1564,1219,62,149,0,-1,62,148,40,100,433
+90,Feb 28 1999,CONCACAF Ch & Car Cup q in Guyana,Guyana,Barbados,1068,1297,2,2,7,-7,1075,1290,177,137,1,-3,178,134,40,100,-129
+91,Feb 28 1999,African Nations Cup qualifier in Kenya,Kenya,Zambia,1458,1610,0,1,-17,17,1441,1627,100,53,-7,1,93,54,40,100,-52
+92,Feb 28 1999,African Nations Cup qualifier in Liberia,Liberia,Algeria,1388,1501,1,1,1,-1,1389,1500,110,74,0,1,110,75,30,100,-13
+93,Feb 28 1999,African Nations Cup qualifier in Madagascar,Madagascar,DR Congo,1456,1524,3,1,27,-27,1483,1497,69,78,9,-2,78,76,30,0,-68
+94,Feb 28 1999,African Nations Cup qualifier in Senegal,Senegal,Nigeria,1439,1703,1,1,9,-9,1448,1694,87,40,3,-1,90,39,40,100,-164
+95,Feb 28 1999,African Nations Cup qualifier in Togo,Togo,Morocco,1372,1792,2,3,-5,5,1367,1797,116,17,-1,1,115,18,40,100,-320
+96,Feb 28 1999,African Nations Cup qualifier in Tunisia,Tunisia,Uganda,1645,1405,6,0,11,-11,1656,1394,45,111,4,-3,49,108,40,100,340
+97,Mar 3 1999,Friendly tournament in Guatemala,Bolivia,Jamaica,1686,1650,0,0,-2,2,1684,1652,45,51,-1,0,44,51,30,0,36
+98,Mar 3 1999,Friendly in Bulgaria,Bulgaria,Slovakia,1651,1687,2,0,12,-12,1663,1675,46,48,2,-3,48,45,20,100,64
+99,Mar 3 1999,Friendly tournament in Guatemala,Guatemala,Paraguay,1575,1790,2,3,-10,10,1565,1800,62,16,-1,2,61,18,30,100,-115
+100,Mar 3 1999,Friendly in Poland,Poland,Armenia,1759,1376,1,0,1,-1,1760,1375,24,113,0,0,24,113,20,100,483
+101,Mar 3 1999,Friendly in Romania,Romania,Estonia,1903,1226,2,0,0,0,1903,1226,13,146,0,0,13,146,20,100,777
+102,Mar 5 1999,Friendly tournament in Guatemala,Guatemala,Bolivia,1565,1684,0,3,-25,25,1540,1709,73,28,-6,8,67,36,30,100,-19
+103,Mar 5 1999,Friendly tournament in Guatemala,Paraguay,Jamaica,1800,1652,3,1,13,-13,1813,1639,18,55,0,-2,18,53,30,0,148
+104,Mar 6 1999,Friendly in Cyprus,Azerbaijan,Estonia,1330,1226,2,2,-3,3,1327,1229,124,144,-1,1,123,145,20,0,104
+105,Mar 6 1999,CONCACAF Ch & Car Cup q in Barbados,Barbados,Guyana,1290,1075,2,0,8,-8,1298,1067,128,180,3,-1,131,179,40,100,315
+106,Mar 7 1999,Friendly tournament in Guatemala,Guatemala,Jamaica,1540,1639,2,4,-23,23,1517,1662,81,47,-7,3,74,50,30,100,1
+107,Mar 7 1999,Friendly tournament in Guatemala,Paraguay,Bolivia,1813,1709,3,0,19,-19,1832,1690,18,44,0,-4,18,40,30,0,104
+108,Mar 10 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Barbados,Antigua and Barbuda,1298,1217,2,0,23,-23,1321,1194,123,162,4,-6,127,156,40,0,81
+109,Mar 10 1999,Friendly in Greece,Greece,Croatia,1749,1948,3,2,13,-13,1762,1935,21,12,3,-3,24,9,20,100,-99
+110,Mar 10 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Guadeloupe,Dominica,1356,1172,1,0,7,-7,1363,1165,116,165,0,-2,116,163,40,100,284
+111,Mar 10 1999,Friendly in Hungary,Hungary,Bosnia and Herzegovina,1671,1545,1,1,-6,6,1665,1551,48,61,-1,2,47,63,20,100,226
+112,Mar 10 1999,Friendly in Luxembourg,Luxembourg,Iceland,1207,1536,1,2,-4,4,1203,1540,153,66,0,1,153,67,20,100,-229
+113,Mar 10 1999,Friendly in Malta,Malta,Moldova,1223,1400,0,2,-12,12,1211,1412,151,101,-2,2,149,103,20,100,-77
+114,Mar 10 1999,Friendly in Romania,Romania,Israel,1903,1685,0,2,-26,26,1877,1711,15,26,-1,9,14,35,20,100,318
+115,Mar 10 1999,Friendly in Switzerland,Switzerland,Austria,1690,1730,2,4,-18,18,1672,1748,50,24,-5,4,45,28,20,100,60
+116,Mar 11 1999,US Cup in the United States,Mexico,Bolivia,1871,1690,2,1,8,-8,1879,1682,13,45,1,-2,14,43,30,0,181
+117,Mar 11 1999,US Cup in the United States,United States,Guatemala,1733,1517,3,1,6,-6,1739,1511,32,74,0,0,32,74,30,100,316
+118,Mar 12 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Barbados,Dominica,1321,1165,3,1,17,-17,1338,1148,113,165,7,-1,120,164,40,0,156
+119,Mar 12 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Guadeloupe,Antigua and Barbuda,1363,1194,2,1,7,-7,1370,1187,112,160,2,-2,114,158,40,100,269
+120,Mar 13 1999,US Cup in the United States,Guatemala,Bolivia,1511,1682,2,1,22,-22,1533,1660,64,57,5,-7,69,50,30,0,-171
+121,Mar 13 1999,US Cup in the United States,United States,Mexico,1739,1879,1,2,-13,13,1726,1892,32,12,0,1,32,13,30,100,-40
+122,Mar 14 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Antigua and Barbuda,Dominica,1187,1148,1,1,-2,2,1185,1150,158,164,0,0,158,164,30,0,39
+123,Mar 14 1999,CONCACAF Ch & Car Cup q in Guadeloupe,Guadeloupe,Barbados,1370,1338,1,0,13,-13,1383,1325,108,130,3,-5,111,125,40,100,132
+124,Mar 16 1999,Friendly in Cyprus,Cyprus,Estonia,1523,1229,1,2,-18,18,1505,1247,74,133,0,6,74,139,20,100,394
+125,Mar 17 1999,CONCACAF Ch & Car Cup q in Haiti,British Virgin Islands,Dominican Republic,792,1116,0,0,15,-15,807,1101,204,177,0,-3,204,174,40,0,-324
+126,Mar 17 1999,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Belize,1646,1086,7,0,2,-2,1648,1084,51,176,1,0,52,176,20,0,560
+127,Mar 17 1999,N Am Ch q & UNCAF Cup in Costa Rica,Guatemala,Nicaragua,1533,934,1,0,1,-1,1534,933,69,197,0,0,69,197,20,0,599
+128,Mar 17 1999,CONCACAF Ch & Car Cup q in Haiti,Haiti,Puerto Rico,1399,1011,2,0,3,-3,1402,1008,106,186,0,0,106,186,20,0,388
+129,Mar 19 1999,CONCACAF Ch & Car Cup q in Haiti,British Virgin Islands,Puerto Rico,807,1008,5,0,61,-61,868,947,200,200,2,-7,202,193,40,0,-201
+130,Mar 19 1999,N Am Ch q & UNCAF Cup in Costa Rica,El Salvador,Guatemala,1481,1534,1,1,3,-3,1484,1531,77,73,1,-2,78,71,40,0,-53
+131,Mar 19 1999,CONCACAF Ch & Car Cup q in Haiti,Haiti,Dominican Republic,1402,1101,4,0,7,-7,1409,1094,104,176,1,-1,105,175,40,100,401
+132,Mar 19 1999,N Am Ch q & UNCAF Cup in Costa Rica,Honduras,Belize,1531,1084,5,1,5,-5,1536,1079,67,176,2,0,69,176,40,0,447
+133,Mar 20 1999,Friendly in Georgia,Georgia,Ukraine,1607,1708,0,1,-10,10,1597,1718,60,29,-2,4,58,33,20,100,-1
+134,Mar 21 1999,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Honduras,1648,1536,0,1,-31,31,1617,1567,56,53,-2,8,54,61,40,100,212
+135,Mar 21 1999,CONCACAF Ch & Car Cup q in Haiti,Dominican Republic,Puerto Rico,1094,947,2,0,18,-18,1112,929,167,201,4,-4,171,197,40,0,147
+136,Mar 21 1999,N Am Ch q & UNCAF Cup in Costa Rica,El Salvador,Nicaragua,1484,933,1,0,2,-2,1486,931,78,195,0,1,78,196,40,0,551
+137,Mar 21 1999,CONCACAF Ch & Car Cup q in Haiti,Haiti,British Virgin Islands,1409,868,6,0,2,-2,1411,866,103,202,1,0,104,202,20,0,541
+138,Mar 24 1999,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Guatemala,1617,1531,1,0,10,-10,1627,1521,52,75,1,-2,53,73,40,100,186
+139,Mar 24 1999,N Am Ch q & UNCAF Cup in Costa Rica,Honduras,El Salvador,1567,1486,3,1,23,-23,1590,1463,57,92,2,-7,59,85,40,0,81
+140,Mar 26 1999,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,Honduras,1627,1590,1,2,-28,28,1599,1618,61,49,-4,5,57,54,40,100,137
+141,Mar 26 1999,N Am Ch q & UNCAF Cup in Costa Rica,Guatemala,El Salvador,1521,1463,1,0,17,-17,1538,1446,67,95,3,-5,70,90,40,0,58
+142,Mar 26 1999,European Championship qual in Portugal,Portugal,Azerbaijan,1906,1327,7,0,2,-2,1908,1325,12,125,0,-1,12,124,20,0,579
+143,Mar 27 1999,European Championship qual in Andorra,Andorra,Iceland,1060,1540,0,2,-6,6,1054,1546,183,66,-1,1,182,67,40,100,-380
+144,Mar 27 1999,European Championship qual in Armenia,Armenia,Russia,1375,1778,0,3,-10,10,1365,1788,118,19,-2,1,116,20,40,100,-303
+145,Mar 27 1999,European Championship qual in Belarus,Belarus,Switzerland,1410,1672,0,1,-11,11,1399,1683,107,44,-1,0,106,44,40,100,-162
+146,Mar 27 1999,Friendly in Belgium,Belgium,Bulgaria,1793,1663,0,1,-16,16,1777,1679,22,43,-1,2,21,45,20,100,230
+147,Mar 27 1999,European Championship qual in Czechia,Czechia,Lithuania,1912,1481,2,0,3,-3,1915,1478,11,81,0,-1,11,80,30,0,431
+148,Mar 27 1999,European Championship qual in Denmark,Denmark,Italy,1835,2013,1,2,-16,16,1819,2029,20,3,-2,0,18,3,40,100,-78
+149,Mar 27 1999,European Championship qual in England,England,Poland,1930,1760,3,1,10,-10,1940,1750,6,27,2,-1,8,26,40,100,270
+150,Mar 27 1999,European Championship qual in France,France,Ukraine,2091,1718,0,0,-18,18,2073,1736,1,27,0,3,1,30,40,100,473
+151,Mar 27 1999,European Championship qual in Georgia,Georgia,Slovenia,1597,1549,1,1,-8,8,1589,1557,59,60,0,3,59,63,40,100,148
+152,Mar 27 1999,European Championship qual in Greece,Greece,Norway,1762,1835,0,2,-32,32,1730,1867,40,14,-8,1,32,15,40,100,27
+153,Mar 27 1999,European Championship qual in Hungary,Hungary,Liechtenstein,1665,1078,5,0,2,-2,1667,1076,48,177,-1,0,47,177,30,0,587
+154,Mar 27 1999,European Championship qual in Northern Ireland,Northern Ireland,Germany,1576,1946,0,3,-12,12,1564,1958,62,6,-1,0,61,6,40,100,-270
+155,Mar 27 1999,European Championship qual in Romania,Romania,Slovakia,1877,1675,0,0,-14,14,1863,1689,17,39,-1,2,16,41,40,100,302
+156,Mar 27 1999,European Championship qual in Spain,Spain,Austria,1978,1748,9,0,13,-13,1991,1735,3,34,1,-3,4,31,40,100,330
+157,Mar 27 1999,European Championship qual in Sweden,Sweden,Luxembourg,1892,1203,2,0,1,-1,1893,1202,13,157,0,-2,13,155,20,0,689
+158,Mar 27 1999,European Championship qual in Turkey,Turkey,Moldova,1663,1412,2,0,7,-7,1670,1405,45,107,1,-2,46,105,40,100,351
+159,Mar 28 1999,N Am Ch q & UNCAF Cup in Costa Rica,Costa Rica,El Salvador,1599,1446,4,0,14,-14,1613,1432,51,102,3,-6,54,96,40,100,253
+160,Mar 28 1999,N Am Ch q & UNCAF Cup in Costa Rica,Guatemala,Honduras,1538,1618,2,0,37,-37,1575,1581,50,64,10,-5,60,59,40,0,-80
+161,Mar 28 1999,European Championship qual in Israel,Israel,Cyprus,1711,1505,3,0,10,-10,1721,1495,32,78,2,-2,34,76,40,100,306
+162,Mar 28 1999,Friendly in South Korea,South Korea,Brazil,1689,2050,1,0,16,-16,1705,2034,37,2,2,0,39,2,20,100,-261
+163,Mar 28 1999,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1476,1662,2,0,19,-19,1495,1643,71,55,5,-3,76,52,20,100,-86
+164,Mar 30 1999,Friendly in Belgium,Belgium,Egypt,1777,1686,0,1,-15,15,1762,1701,25,37,-2,3,23,40,20,100,191
+165,Mar 30 1999,Friendly in Venezuela,Venezuela,Colombia,1331,1743,0,0,7,-7,1338,1736,119,29,1,0,120,29,20,100,-312
+166,Mar 31 1999,European Championship qual in Azerbaijan,Azerbaijan,Romania,1325,1863,0,1,-3,3,1322,1866,130,16,-3,0,127,16,40,100,-438
+167,Mar 31 1999,European Championship qual in France,France,Armenia,2073,1365,2,0,1,-1,2074,1364,1,116,0,0,1,116,20,0,708
+168,Mar 31 1999,European Championship qual in Germany,Germany,Finland,1958,1570,2,0,3,-3,1961,1567,6,61,0,0,6,61,20,0,388
+169,Mar 31 1999,European Championship qual in Italy,Italy,Belarus,2029,1399,1,1,-19,19,2010,1418,3,98,0,4,3,102,40,0,630
+170,Mar 31 1999,Friendly in Jamaica,Jamaica,Paraguay,1643,1832,3,0,22,-22,1665,1810,46,19,3,-1,49,18,20,100,-89
+171,Mar 31 1999,Friendly in Japan,Japan,Brazil,1696,2034,0,2,-6,6,1690,2040,45,2,-2,0,43,2,20,100,-238
+172,Mar 31 1999,European Championship qual in Latvia,Latvia,Greece,1444,1730,0,0,10,-10,1454,1720,80,36,5,-2,85,34,30,0,-286
+173,Mar 31 1999,European Championship qual in Liechtenstein,Liechtenstein,Portugal,1076,1908,0,5,-1,1,1075,1909,177,14,0,-1,177,13,20,100,-732
+174,Mar 31 1999,European Championship qual in Lithuania,Lithuania,Estonia,1478,1247,1,2,-35,35,1443,1282,101,131,-10,4,91,135,40,100,331
+175,Mar 31 1999,European Championship qual in Luxembourg,Luxembourg,Bulgaria,1202,1679,0,2,-6,6,1196,1685,155,43,0,1,155,44,40,100,-377
+176,Mar 31 1999,European Championship qual in Moldova,Moldova,Northern Ireland,1405,1564,0,0,3,-3,1408,1561,107,64,-1,-1,106,63,30,100,-59
+177,Mar 31 1999,Friendly in the Netherlands,Netherlands,Argentina,1990,1940,1,1,-4,4,1986,1944,5,8,0,0,5,8,20,100,150
+178,Mar 31 1999,European Championship qual in Poland,Poland,Sweden,1750,1893,0,1,-18,18,1732,1911,34,11,-4,1,30,12,40,100,-43
+179,Mar 31 1999,European Championship qual in Russia,Russia,Andorra,1788,1054,6,1,1,-1,1789,1053,20,182,0,0,20,182,20,0,734
+180,Mar 31 1999,European Championship qual in San Marino,San Marino,Spain,945,1991,0,6,0,0,945,1991,193,4,0,0,193,4,20,0,-1046
+181,Mar 31 1999,European Championship qual in Scotland,Scotland,Czechia,1712,1915,1,2,-14,14,1698,1929,46,11,-5,0,41,11,40,100,-103
+182,Mar 31 1999,European Championship qual in Slovakia,Slovakia,Hungary,1689,1667,0,0,-7,7,1682,1674,47,45,-2,1,45,46,40,100,122
+183,Mar 31 1999,European Championship qual in Switzerland,Switzerland,Wales,1683,1610,2,0,16,-16,1699,1594,36,59,4,-2,40,57,40,100,173
+184,Mar 31 1999,European Championship qual in Ukraine,Ukraine,Iceland,1736,1546,1,1,-14,14,1722,1560,35,60,-3,4,32,64,40,100,290
+185,Apr 3 1999,Friendly in Mali,Mali,Burkina Faso,1418,1463,5,2,15,-15,1433,1448,88,92,7,-4,95,88,20,100,55
+186,Apr 3 1999,Friendly in Swaziland,Swaziland,Namibia,1164,1345,1,1,2,-2,1166,1343,161,119,1,0,162,119,20,100,-81
+187,Apr 9 1999,African Nations Cup qualifier in Algeria,Algeria,Liberia,1500,1389,4,1,16,-16,1516,1373,74,116,0,-3,74,113,40,100,211
+188,Apr 10 1999,African Nations Cup qualifier in Gabon,Gabon,South Africa,1420,1667,1,0,28,-28,1448,1639,74,56,14,-4,88,52,40,100,-147
+189,Apr 10 1999,African Nations Cup qualifier in Mauritius,Mauritius,Angola,1204,1444,1,1,8,-8,1212,1436,146,96,3,-3,149,93,40,100,-140
+190,Apr 10 1999,African Nations Cup qualifier in Morocco,Morocco,Togo,1797,1367,1,1,-18,18,1779,1385,21,103,-1,6,20,109,40,100,530
+191,Apr 10 1999,African Nations Cup qualifier in Uganda,Uganda,Tunisia,1394,1656,0,2,-17,17,1377,1673,118,43,-5,4,113,47,40,100,-162
+192,Apr 10 1999,African Nations Cup qualifier in Zambia,Zambia,Kenya,1627,1441,1,0,6,-6,1633,1435,53,96,0,-2,53,94,40,100,286
+193,Apr 11 1999,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Burundi,1448,1424,3,1,20,-20,1468,1404,74,110,7,-4,81,106,40,100,124
+194,Apr 11 1999,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Madagascar,1497,1483,2,0,20,-20,1517,1463,73,89,1,-5,74,84,40,100,114
+195,Apr 11 1999,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Congo,1605,1489,2,0,13,-13,1618,1476,53,80,1,-1,54,79,40,100,216
+196,Apr 11 1999,African Nations Cup qualifier in Mali,Mali,Namibia,1433,1343,2,1,10,-10,1443,1333,86,121,5,-1,91,120,40,100,190
+197,Apr 11 1999,African Nations Cup qualifier in Mozambique,Mozambique,Cameroon,1316,1556,1,6,-25,25,1291,1581,140,52,-6,7,134,59,40,100,-140
+198,Apr 13 1999,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Grenada,1238,1296,2,1,9,-9,1247,1287,137,137,3,-3,140,134,20,100,42
+199,Apr 14 1999,Friendly in Mexico,Mexico,Ecuador,1892,1745,0,0,-6,6,1886,1751,14,24,0,1,14,25,20,100,247
+200,Apr 15 1999,Friendly in Venezuela,Venezuela,Colombia,1338,1736,1,1,7,-7,1345,1729,119,32,0,-2,119,30,20,100,-298
+201,Apr 17 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,Saint Lucia,Martinique,1218,1409,3,1,45,-45,1263,1364,130,126,9,-11,139,115,40,0,-191
+202,Apr 17 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Saint Kitts and Nevis,1247,1267,3,4,-25,25,1222,1292,154,128,-7,5,147,133,40,100,80
+203,Apr 18 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,Martinique,Saint Kitts and Nevis,1364,1292,2,1,16,-16,1380,1276,107,143,4,-5,111,138,40,0,72
+204,Apr 18 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Saint Lucia,1222,1263,2,2,-3,3,1219,1266,147,139,0,0,147,139,30,100,59
+205,Apr 20 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,Saint Kitts and Nevis,Saint Lucia,1276,1266,4,3,19,-19,1295,1247,124,141,7,-1,131,140,40,0,10
+206,Apr 21 1999,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Martinique,1219,1380,2,1,23,-23,1242,1357,135,121,6,-5,141,116,40,100,-61
+207,Apr 22 1999,South Asian Championship in India,India,Bangladesh,1099,968,0,0,-12,12,1087,980,175,190,0,1,175,191,40,100,231
+208,Apr 22 1999,Friendly in Paraguay,Paraguay,Colombia,1810,1729,0,2,-22,22,1788,1751,20,20,-1,5,19,25,20,100,181
+209,Apr 23 1999,South Asian Championship in India,Maldives,Sri Lanka,789,945,0,0,8,-8,797,937,205,197,0,-2,205,195,40,0,-156
+210,Apr 24 1999,South Asian Championship in India,Bangladesh,Pakistan,980,883,4,0,27,-27,1007,856,181,206,5,-3,186,203,40,0,97
+211,Apr 24 1999,COSAFA Cup in Malawi,Malawi,Angola,1306,1436,1,2,-18,18,1288,1454,140,76,-6,9,134,85,40,100,-30
+212,Apr 25 1999,South Asian Championship in India,Nepal,Sri Lanka,748,937,3,2,30,-30,778,907,203,199,3,-2,206,197,40,0,-189
+213,Apr 25 1999,Friendly tournament in Swaziland,Swaziland,Lesotho,1166,1166,4,1,19,-19,1185,1147,154,166,4,-2,158,164,30,100,100
+214,Apr 26 1999,South Asian Championship in India,India,Pakistan,1087,856,2,0,8,-8,1095,848,175,203,0,0,175,203,40,100,331
+215,Apr 27 1999,South Asian Championship in India,Maldives,Nepal,797,778,3,2,19,-19,816,759,205,210,0,-2,205,208,40,0,19
+216,Apr 27 1999,Friendly in Northern Ireland,Northern Ireland,Canada,1561,1533,1,1,-4,4,1557,1537,66,71,-1,0,65,71,20,100,128
+217,Apr 28 1999,European Championship qual in Austria,Austria,San Marino,1735,945,7,0,1,-1,1736,944,31,193,-1,0,30,193,30,0,790
+218,Apr 28 1999,Friendly in Bolivia,Bolivia,Chile,1660,1744,1,1,0,0,1660,1744,50,30,0,-1,50,29,20,100,16
+219,Apr 28 1999,Friendly in Croatia,Croatia,Italy,1935,2010,0,0,-1,1,1934,2011,10,3,0,0,10,3,20,100,25
+220,Apr 28 1999,Friendly in Denmark,Denmark,South Africa,1819,1639,1,1,-7,7,1812,1646,17,52,0,0,17,52,20,100,280
+221,Apr 28 1999,European Championship qual in Georgia,Georgia,Norway,1589,1867,1,4,-18,18,1571,1885,64,13,-3,1,61,14,40,100,-178
+222,Apr 28 1999,Friendly in Germany,Germany,Scotland,1961,1698,0,1,-18,18,1943,1716,10,29,-2,6,8,35,20,100,363
+223,Apr 28 1999,Friendly in Greece,Greece,Switzerland,1720,1699,1,1,-3,3,1717,1702,34,40,0,0,34,40,20,100,121
+224,Apr 28 1999,Friendly in Hungary,Hungary,England,1674,1940,1,1,4,-4,1678,1936,46,9,0,0,46,9,20,100,-166
+225,Apr 28 1999,Friendly in Ireland,Ireland,Sweden,1751,1911,2,0,18,-18,1769,1893,17,14,4,-1,21,13,20,100,-60
+226,Apr 28 1999,European Championship qual in Latvia,Latvia,Albania,1454,1454,0,0,-6,6,1448,1460,93,85,-4,0,89,85,40,100,100
+227,Apr 28 1999,Friendly in Malta,Malta,Iceland,1211,1560,1,2,-4,4,1207,1564,154,62,-2,1,152,63,20,100,-249
+228,Apr 28 1999,Friendly in the Netherlands,Netherlands,Morocco,1986,1779,1,2,-17,17,1969,1796,5,18,0,1,5,19,20,100,307
+229,Apr 28 1999,Friendly in Paraguay,Paraguay,Mexico,1788,1886,2,1,10,-10,1798,1876,17,16,1,-1,18,15,20,100,2
+230,Apr 28 1999,Friendly in Poland,Poland,Czechia,1732,1929,2,1,13,-13,1745,1916,26,11,2,0,28,11,20,100,-97
+231,Apr 28 1999,Friendly in Romania,Romania,Belgium,1866,1762,1,0,5,-5,1871,1757,16,27,0,-2,16,25,20,100,204
+232,Apr 28 1999,Friendly in Slovenia,Slovenia,Finland,1557,1567,1,1,-3,3,1554,1570,67,62,-1,0,66,62,20,100,90
+233,Apr 29 1999,South Asian Championship in India,Bangladesh,Nepal,1007,759,2,1,8,-8,1015,751,184,210,1,-1,185,209,40,0,248
+234,Apr 29 1999,South Asian Championship in India,India,Maldives,1095,816,2,1,4,-4,1099,812,175,205,0,0,175,205,40,100,379
+235,May 1 1999,South Asian Championship in India,India,Bangladesh,1099,1015,2,0,15,-15,1114,1000,167,191,4,-3,171,188,40,100,184
+236,May 1 1999,South Asian Championship in India,Maldives,Nepal,812,751,2,0,25,-25,837,726,205,211,0,-1,205,210,40,0,61
+237,May 4 1999,CONCACAF Ch & Car Cup q in the Netherlands Antilles,Netherlands Antilles,Grenada,1183,1287,1,3,-30,30,1153,1317,164,121,-2,7,162,128,40,100,-4
+238,May 5 1999,CONCACAF Ch & Car Cup q in Bermuda,Bermuda,Bahamas,1294,870,6,0,4,-4,1298,866,130,200,1,0,131,200,40,100,524
+239,May 5 1999,CONCACAF Ch & Car Cup q in Bermuda,Cuba,Cayman Islands,1432,1137,4,1,11,-11,1443,1126,86,169,6,-2,92,167,40,0,295
+240,May 5 1999,Friendly in Spain,Spain,Croatia,1991,1934,3,1,9,-9,2000,1925,4,10,0,0,4,10,20,100,157
+241,May 6 1999,CONCACAF Ch & Car Cup q in Curaçao,Grenada,Suriname,1317,1280,0,0,-2,2,1315,1282,128,135,0,1,128,136,30,0,37
+242,May 6 1999,Friendly in Trinidad and Tobago,Trinidad and Tobago,South Africa,1495,1646,2,0,17,-17,1512,1629,76,54,0,-1,76,53,20,100,-51
+243,May 7 1999,CONCACAF Ch & Car Cup q in Bermuda,Bermuda,Cayman Islands,1298,1126,4,1,12,-12,1310,1114,127,173,2,-3,129,170,40,100,272
+244,May 7 1999,CONCACAF Ch & Car Cup q in Bermuda,Cuba,Bahamas,1443,866,7,0,3,-3,1446,863,92,202,0,-1,92,201,40,0,577
+245,May 8 1999,African Nations Cup qualifier in Namibia,Namibia,Mali,1333,1443,0,0,1,-1,1334,1442,120,95,0,-1,120,94,40,100,-10
+246,May 8 1999,CONCACAF Ch & Car Cup q in the Netherlands Antilles,Netherlands Antilles,Suriname,1153,1282,1,1,2,-2,1155,1280,162,138,0,-1,162,137,40,100,-29
+247,May 9 1999,CONCACAF Ch & Car Cup q in Bermuda,Bermuda,Cuba,1310,1446,1,2,-18,18,1292,1464,137,74,-4,9,133,83,40,100,-36
+248,May 9 1999,CONCACAF Ch & Car Cup q in Bermuda,Cayman Islands,Bahamas,1114,863,4,1,13,-13,1127,850,164,203,3,-1,167,202,40,0,251
+249,May 9 1999,Friendly in Jamaica,Jamaica,South Africa,1665,1629,1,1,-4,4,1661,1633,49,51,0,1,49,52,20,100,136
+250,May 9 1999,COSAFA Cup in Swaziland,Swaziland,Mozambique,1185,1291,3,1,31,-31,1216,1260,140,144,9,-5,149,139,40,100,-6
+251,May 16 1999,Friendly in Libya,Libya,Senegal,1370,1448,2,1,9,-9,1379,1439,108,98,3,-4,111,94,20,100,22
+252,May 16 1999,Friendly in Swaziland,Swaziland,Botswana,1216,1014,2,1,3,-3,1219,1011,147,185,1,0,148,185,20,100,302
+253,May 19 1999,Friendly in Ecuador,Ecuador,Venezuela,1751,1345,0,2,-28,28,1723,1373,36,109,-5,5,31,114,20,100,506
+254,May 19 1999,Friendly in Russia,Russia,Belarus,1789,1418,1,1,-9,9,1780,1427,20,100,0,1,20,101,20,100,471
+255,May 19 1999,Friendly in Slovakia,Slovakia,Bulgaria,1682,1685,2,0,11,-11,1693,1674,41,48,2,-2,43,46,20,100,97
+256,May 20 1999,Friendly in Norway,Norway,Jamaica,1885,1661,6,0,6,-6,1891,1655,14,51,0,-1,14,50,20,100,324
+257,May 21 1999,Friendly in the United States,Honduras,Haiti,1581,1411,2,0,8,-8,1589,1403,58,107,0,-2,58,105,20,0,170
+258,May 22 1999,COSAFA Cup in Malawi,Malawi,Namibia,1288,1334,1,1,-3,3,1285,1337,134,120,0,0,134,120,40,100,54
+259,May 22 1999,Friendly in Uganda,Uganda,Zambia,1377,1633,0,1,-6,6,1371,1639,117,52,-2,0,115,52,20,100,-156
+260,May 27 1999,Friendly in Sweden,Sweden,Jamaica,1893,1655,2,1,3,-3,1896,1652,13,50,0,0,13,50,20,100,338
+261,May 29 1999,Friendly in Canada,Canada,Guatemala,1537,1575,1,0,8,-8,1545,1567,67,66,2,-3,69,63,20,100,62
+262,May 29 1999,Friendly in Chile,Chile,Costa Rica,1744,1613,3,0,7,-7,1751,1606,24,55,2,0,26,55,20,100,231
+263,May 29 1999,Friendly in the United States,El Salvador,Colombia,1432,1751,2,1,17,-17,1449,1734,81,32,9,-3,90,29,20,0,-319
+264,May 29 1999,Friendly in Ireland,Ireland,Northern Ireland,1769,1557,0,1,-17,17,1752,1574,29,55,-4,5,25,60,20,100,312
+265,May 29 1999,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1295,1185,4,1,8,-8,1303,1177,129,159,1,0,130,159,20,100,210
+266,May 30 1999,Friendly tournament in Japan,Belgium,Peru,1757,1716,1,1,-2,2,1755,1718,24,33,0,1,24,34,30,0,41
+267,May 30 1999,COSAFA Cup in Botswana,Botswana,Mozambique,1011,1260,0,2,-18,18,993,1278,195,135,-5,2,190,137,40,100,-149
+268,May 30 1999,Friendly in Lesotho,Lesotho,Mauritius,1147,1212,1,2,-11,11,1136,1223,164,146,0,2,164,148,20,100,35
+269,May 30 1999,European Championship qual in Norway,Norway,Georgia,1891,1571,1,0,3,-3,1894,1568,14,63,0,-1,14,62,20,0,320
+270,Jun 1999,Friendly in Guam,Guam,FS Micronesia,665,600,3,0,10,-10,675,590,213,222,0,0,213,222,20,100,165
+271,Jun 1999,Friendly in Guam,Guam,FS Micronesia,675,590,4,1,9,-9,684,581,213,222,0,0,213,222,20,100,185
+272,Jun 1999,Friendly in Guam,Guam,FS Micronesia,684,581,5,0,9,-9,693,572,213,222,0,0,213,222,20,100,203
+273,Jun 1 1999,Friendly in Mali,Mali,Senegal,1442,1439,1,1,-3,3,1439,1442,96,93,-1,1,95,94,20,100,103
+274,Jun 2 1999,Friendly tournament in Canada,Canada,Guatemala,1545,1567,2,0,18,-18,1563,1549,61,75,4,-6,65,69,30,100,78
+275,Jun 2 1999,Friendly tournament in Canada,Ecuador,Iran,1723,1763,1,1,2,-2,1725,1761,31,23,0,-1,31,22,30,0,-40
+276,Jun 3 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Grenada,Guadeloupe,1315,1383,2,1,24,-24,1339,1359,112,123,8,-7,120,116,40,0,-68
+277,Jun 3 1999,Friendly tournament in Japan,Japan,Belgium,1690,1755,0,0,-2,2,1688,1757,44,24,0,0,44,24,30,100,35
+278,Jun 3 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1512,1652,1,0,22,-22,1534,1630,68,56,4,-3,72,53,40,100,-40
+279,Jun 4 1999,Friendly tournament in Canada,Canada,Iran,1563,1761,0,1,-11,11,1552,1772,67,20,-1,1,66,21,30,100,-98
+280,Jun 4 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Haiti,1464,1403,3,1,25,-25,1489,1378,73,117,5,-6,78,111,40,0,61
+281,Jun 4 1999,Friendly tournament in Canada,Ecuador,Guatemala,1725,1549,3,1,12,-12,1737,1537,25,73,3,-2,28,71,30,0,176
+282,Jun 4 1999,European Championship qual in Germany,Germany,Moldova,1943,1408,6,1,2,-2,1945,1406,4,103,2,0,6,103,20,0,535
+283,Jun 4 1999,European Championship qual in Poland,Poland,Bulgaria,1745,1674,2,0,16,-16,1761,1658,19,52,4,-3,23,49,40,100,171
+284,Jun 5 1999,European Championship qual in Albania,Albania,Norway,1460,1894,1,2,-5,5,1455,1899,84,14,1,0,85,14,40,100,-334
+285,Jun 5 1999,European Championship qual in Azerbaijan,Azerbaijan,Liechtenstein,1322,1075,4,0,9,-9,1331,1066,116,181,6,-2,122,179,40,100,347
+286,Jun 5 1999,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Lithuania,1551,1443,2,0,14,-14,1565,1429,59,103,4,-5,63,98,40,100,208
+287,Jun 5 1999,Friendly in Brazil,Brazil,Netherlands,2040,1969,2,2,-5,5,2035,1974,2,5,0,0,2,5,20,100,171
+288,Jun 5 1999,European Championship qual in Denmark,Denmark,Belarus,1812,1427,1,0,2,-2,1814,1425,19,101,-1,0,18,101,20,0,385
+289,Jun 5 1999,European Championship qual in England,England,Sweden,1936,1896,0,0,-8,8,1928,1904,9,13,0,0,9,13,40,100,140
+290,Jun 5 1999,European Championship qual in Estonia,Estonia,Czechia,1282,1916,0,2,-3,3,1279,1919,137,9,-1,1,136,10,40,100,-534
+291,Jun 5 1999,European Championship qual in the Faroe Islands,Faroe Islands,Scotland,1209,1716,1,1,16,-16,1225,1700,145,44,3,-4,148,40,40,100,-407
+292,Jun 5 1999,European Championship qual in Finland,Finland,Turkey,1570,1670,2,4,-30,30,1540,1700,79,33,-9,7,70,40,40,100,0
+293,Jun 5 1999,European Championship qual in France,France,Russia,2074,1780,2,3,-36,36,2038,1816,1,14,0,3,1,17,40,100,394
+294,Jun 5 1999,European Championship qual in Georgia,Georgia,Greece,1568,1717,1,2,-17,17,1551,1734,72,25,-5,5,67,30,40,100,-49
+295,Jun 5 1999,European Championship qual in Iceland,Iceland,Armenia,1564,1364,2,0,9,-9,1573,1355,61,117,1,-1,62,116,40,100,300
+296,Jun 5 1999,European Championship qual in Italy,Italy,Wales,2011,1594,4,0,4,-4,2015,1590,3,57,0,0,3,57,40,100,517
+297,Jun 5 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Jamaica,Guadeloupe,1630,1359,5,1,13,-13,1643,1346,51,124,1,-4,52,120,40,0,271
+298,Jun 5 1999,European Championship qual in Latvia,Latvia,Slovenia,1448,1554,1,2,-20,20,1428,1574,107,55,-8,5,99,60,40,100,-6
+299,Jun 5 1999,European Championship qual in Macedonia,Macedonia,Croatia,1550,1925,1,1,13,-13,1563,1912,62,14,3,-2,65,12,40,100,-275
+300,Jun 5 1999,African Nations Cup qualifier in Namibia,Namibia,Ivory Coast,1337,1618,1,1,10,-10,1347,1608,117,54,2,0,119,54,30,0,-281
+301,Jun 5 1999,European Championship qual in Portugal,Portugal,Slovakia,1909,1693,1,0,6,-6,1915,1687,10,47,1,-2,11,45,40,100,316
+302,Jun 5 1999,European Championship qual in Romania,Romania,Hungary,1871,1678,2,0,9,-9,1880,1669,14,49,1,-2,15,47,40,100,293
+303,Jun 5 1999,African Nations Cup qualifier in South Africa,South Africa,Mauritius,1633,1223,2,0,3,-3,1636,1220,54,150,-1,-1,53,149,20,0,410
+304,Jun 5 1999,Friendly in South Korea,South Korea,Belgium,1705,1757,1,2,-11,11,1694,1768,45,19,-3,3,42,22,20,100,48
+305,Jun 5 1999,European Championship qual in Spain,Spain,San Marino,2000,944,9,0,0,0,2000,944,4,193,0,0,4,193,20,0,1056
+306,Jun 5 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Grenada,1534,1339,7,0,14,-14,1548,1325,64,130,4,-5,68,125,40,100,295
+307,Jun 5 1999,African Nations Cup qualifier in Uganda,Uganda,Liberia,1371,1373,1,0,15,-15,1386,1358,100,116,7,-2,107,114,30,0,-2
+308,Jun 5 1999,European Championship qual in Ukraine,Ukraine,Andorra,1722,1053,4,0,1,-1,1723,1052,34,182,-1,0,33,182,20,0,669
+309,Jun 5 1999,African Nations Cup qualifier in Zambia,Zambia,Madagascar,1639,1463,3,0,12,-12,1651,1451,49,91,1,-3,50,88,40,100,276
+310,Jun 6 1999,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Senegal,1468,1442,2,2,-7,7,1461,1449,88,90,-3,1,85,91,40,100,126
+311,Jun 6 1999,African Nations Cup qualifier in Cameroon,Cameroon,Eritrea,1581,1219,1,0,3,-3,1584,1216,59,152,0,-1,59,151,30,0,362
+312,Jun 6 1999,Friendly tournament in Canada,Canada,Ecuador,1552,1737,1,2,-11,11,1541,1748,74,30,-4,-1,70,29,30,100,-85
+313,Jun 6 1999,African Nations Cup qualifier in Gabon,Gabon,Angola,1448,1454,3,1,22,-22,1470,1432,71,106,10,-10,81,96,40,100,94
+314,Jun 6 1999,Friendly tournament in Canada,Guatemala,Iran,1537,1772,2,2,9,-9,1546,1763,64,23,4,-1,68,22,30,0,-235
+315,Jun 6 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Saint Kitts and Nevis,1378,1303,2,0,24,-24,1402,1279,98,140,7,-5,105,135,40,0,75
+316,Jun 6 1999,European Championship qual in Israel,Israel,Austria,1721,1736,5,0,30,-30,1751,1706,20,43,7,-7,27,36,40,100,85
+317,Jun 6 1999,Friendly tournament in Japan,Japan,Peru,1688,1718,0,0,-3,3,1685,1721,46,33,-1,1,45,34,30,100,70
+318,Jun 6 1999,African Nations Cup qualifier in Kenya,Kenya,DR Congo,1435,1517,0,1,-21,21,1414,1538,109,71,-7,2,102,73,40,100,18
+319,Jun 6 1999,African Nations Cup qualifier in Mali,Mali,Congo,1439,1476,3,1,25,-25,1464,1451,73,94,10,-7,83,87,30,0,-37
+320,Jun 6 1999,African Nations Cup qualifier in Morocco,Morocco,Guinea,1796,1453,1,0,3,-3,1799,1450,18,93,1,-3,19,90,40,100,443
+321,Jun 6 1999,African Nations Cup qualifier in Tunisia,Tunisia,Algeria,1673,1516,2,0,11,-11,1684,1505,46,76,0,0,46,76,40,100,257
+322,Jun 7 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Jamaica,Grenada,1643,1325,2,1,6,-6,1649,1319,50,131,1,-3,51,128,40,0,318
+323,Jun 7 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Guadeloupe,1548,1346,3,2,6,-6,1554,1340,65,120,1,0,66,120,40,100,302
+324,Jun 8 1999,Friendly in Brazil,Brazil,Netherlands,2035,1974,3,1,9,-9,2044,1965,0,5,1,0,1,5,20,100,161
+325,Jun 8 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Saint Kitts and Nevis,1489,1279,2,0,14,-14,1503,1265,76,141,1,-3,77,138,40,0,210
+326,Jun 8 1999,European Championship qual in Greece,Yugoslavia,Malta,1945,1207,4,1,1,-1,1946,1206,6,153,0,0,6,153,30,0,738
+327,Jun 9 1999,European Championship qual in Albania,Albania,Slovenia,1455,1574,0,1,-19,19,1436,1593,104,54,-9,3,95,57,40,100,-19
+328,Jun 9 1999,Friendly tournament in the United States,Argentina,Mexico,1944,1876,2,2,-3,3,1941,1879,8,16,0,0,8,16,30,0,68
+329,Jun 9 1999,European Championship qual in Armenia,Armenia,Ukraine,1355,1723,0,0,13,-13,1368,1710,112,37,2,-2,114,35,40,100,-268
+330,Jun 9 1999,European Championship qual in Bulgaria,Bulgaria,England,1658,1928,1,1,9,-9,1667,1919,45,11,2,-1,47,10,40,100,-170
+331,Jun 9 1999,European Championship qual in Czechia,Czechia,Scotland,1919,1700,3,2,5,-5,1924,1695,8,44,1,-2,9,42,40,100,319
+332,Jun 9 1999,European Championship qual in England,Denmark,Wales,1814,1590,2,0,13,-13,1827,1577,16,63,1,-3,17,60,40,0,224
+333,Jun 9 1999,European Championship qual in Estonia,Estonia,Lithuania,1279,1429,1,2,-17,17,1262,1446,141,89,-3,4,138,93,40,100,-50
+334,Jun 9 1999,European Championship qual in the Faroe Islands,Faroe Islands,Bosnia and Herzegovina,1225,1565,2,2,12,-12,1237,1553,142,69,3,-3,145,66,40,100,-240
+335,Jun 9 1999,European Championship qual in Spain,France,Andorra,2038,1052,1,0,0,0,2038,1052,2,182,0,0,2,182,20,0,986
+336,Jun 9 1999,European Championship qual in Greece,Greece,Latvia,1734,1428,1,2,-36,36,1698,1464,52,68,-11,15,41,83,40,100,406
+337,Jun 9 1999,European Championship qual in Hungary,Hungary,Slovakia,1669,1687,0,1,-25,25,1644,1712,57,24,-5,10,52,34,40,100,82
+338,Jun 9 1999,European Championship qual in Ireland,Ireland,Macedonia,1752,1563,1,0,6,-6,1758,1557,24,63,1,1,25,64,40,100,289
+339,Jun 9 1999,European Championship qual in Luxembourg,Luxembourg,Poland,1196,1761,2,3,-3,3,1193,1764,158,20,-1,2,157,22,40,100,-465
+340,Jun 9 1999,European Championship qual in Moldova,Moldova,Finland,1406,1540,0,0,2,-2,1408,1538,103,73,0,-1,103,72,40,100,-34
+341,Jun 9 1999,European Championship qual in Portugal,Portugal,Liechtenstein,1915,1066,8,0,0,0,1915,1066,11,179,0,0,11,179,20,0,849
+342,Jun 9 1999,European Championship qual in Romania,Romania,Azerbaijan,1880,1331,4,0,2,-2,1882,1329,15,122,0,0,15,122,20,0,549
+343,Jun 9 1999,European Championship qual in Russia,Russia,Iceland,1816,1573,1,0,5,-5,1821,1568,19,62,-1,0,18,62,40,100,343
+344,Jun 9 1999,European Championship qual in Switzerland,Switzerland,Italy,1702,2015,0,0,11,-11,1713,2004,28,3,5,0,33,3,30,0,-313
+345,Jun 10 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Jamaica,1503,1649,2,0,42,-42,1545,1607,61,58,8,-4,69,54,40,0,-146
+346,Jun 11 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Haiti,1554,1402,6,1,15,-15,1569,1387,59,109,3,-2,62,107,40,100,252
+347,Jun 12 1999,Korea Cup in South Korea,South Korea,Mexico,1694,1879,1,1,4,-4,1698,1875,39,16,2,0,41,16,30,100,-85
+348,Jun 13 1999,Korea Cup in South Korea,Croatia,Egypt,1912,1701,2,2,-8,8,1904,1709,12,35,0,2,12,37,30,0,211
+349,Jun 13 1999,Friendly in Kenya,Kenya,Zanzibar,1414,1167,0,1,-18,18,1396,1185,108,157,-3,2,105,159,20,100,347
+350,Jun 13 1999,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Cuba,1569,1545,2,1,13,-13,1582,1532,58,79,2,-5,60,74,40,100,124
+351,Jun 13 1999,Friendly in the United States,United States,Argentina,1726,1941,1,0,13,-13,1739,1928,29,8,1,0,30,8,20,100,-115
+352,Jun 15 1999,Korea Cup in South Korea,South Korea,Egypt,1698,1709,0,0,-4,4,1694,1713,45,29,-2,4,43,33,30,100,89
+353,Jun 15 1999,Friendly in Venezuela,Venezuela,Ecuador,1373,1748,3,2,17,-17,1390,1731,99,33,7,-2,106,31,20,100,-275
+354,Jun 16 1999,Korea Cup in South Korea,Croatia,Mexico,1904,1875,2,1,14,-14,1918,1861,10,16,1,0,11,16,30,0,29
+355,Jun 16 1999,Friendly in South Africa,South Africa,Zimbabwe,1636,1474,0,1,-16,16,1620,1490,52,78,0,1,52,79,20,100,262
+356,Jun 16 1999,Friendly tournament in Thailand,Thailand,New Zealand,1399,1539,2,2,2,-2,1401,1537,104,75,0,-2,104,73,30,100,-40
+357,Jun 17 1999,Friendly in Colombia,Colombia,Peru,1734,1721,3,3,-3,3,1731,1724,30,32,0,0,30,32,20,100,113
+358,Jun 17 1999,Friendly in Paraguay,Paraguay,Uruguay,1798,1758,2,3,-14,14,1784,1772,20,17,0,4,20,21,20,100,140
+359,Jun 18 1999,Korea Cup in South Korea,Mexico,Egypt,1861,1713,2,0,13,-13,1874,1700,16,45,0,-6,16,39,30,0,148
+360,Jun 18 1999,Friendly in Saudi Arabia,Saudi Arabia,Jordan,1710,1425,2,1,2,-2,1712,1423,32,102,2,-1,34,101,20,100,385
+361,Jun 19 1999,African Nations Cup qualifier in Eritrea,Eritrea,Mozambique,1216,1278,1,0,18,-18,1234,1260,143,143,4,-4,147,139,30,0,-62
+362,Jun 19 1999,Friendly tournament in Thailand,New Zealand,Poland,1537,1764,0,0,9,-9,1546,1755,63,29,5,-3,68,26,30,0,-227
+363,Jun 19 1999,African Nations Cup qualifier in Senegal,Senegal,Burundi,1449,1404,1,0,12,-12,1461,1392,81,107,5,-2,86,105,40,100,145
+364,Jun 19 1999,Korea Cup in South Korea,South Korea,Croatia,1694,1918,1,1,5,-5,1699,1913,39,13,2,-1,41,12,30,100,-124
+365,Jun 20 1999,African Nations Cup qualifier in Algeria,Algeria,Uganda,1505,1386,2,0,13,-13,1518,1373,77,119,0,-5,77,114,40,100,219
+366,Jun 20 1999,African Nations Cup qualifier in Angola,Angola,South Africa,1432,1620,2,2,5,-5,1437,1615,92,52,3,0,95,52,20,0,-188
+367,Jun 20 1999,Friendly in Chile,Chile,Bolivia,1751,1660,1,0,5,-5,1756,1655,25,48,1,0,26,48,20,100,191
+368,Jun 20 1999,African Nations Cup qualifier in Congo,Congo,Namibia,1451,1347,3,0,17,-17,1468,1330,76,123,6,-2,82,121,40,100,204
+369,Jun 20 1999,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Zambia,1538,1651,0,1,-19,19,1519,1670,80,43,-4,3,76,46,40,100,-13
+370,Jun 20 1999,African Nations Cup qualifier in Réunion,Gabon,Mauritius,1470,1220,2,2,-12,12,1458,1232,97,148,-8,1,89,149,40,0,250
+371,Jun 20 1999,African Nations Cup qualifier in Guinea,Guinea,Togo,1450,1385,2,1,11,-11,1461,1374,81,116,5,-3,86,113,40,100,165
+372,Jun 20 1999,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Mali,1608,1464,0,0,-12,12,1596,1476,59,79,-3,2,56,81,40,100,244
+373,Jun 20 1999,African Nations Cup qualifier in Liberia,Liberia,Tunisia,1358,1684,2,0,47,-47,1405,1637,93,56,11,-5,104,51,40,100,-226
+374,Jun 20 1999,African Nations Cup qualifier in Madagascar,Madagascar,Kenya,1451,1396,1,1,-8,8,1443,1404,98,106,-5,-1,93,105,40,100,155
+375,Jun 20 1999,Friendly in Venezuela,Venezuela,Peru,1390,1724,3,0,28,-28,1418,1696,98,52,4,-10,102,42,20,100,-234
+376,Jun 22 1999,Friendly in Chile,Chile,Ecuador,1756,1731,0,0,-3,3,1753,1734,28,30,-1,0,27,30,20,100,125
+377,Jun 22 1999,Friendly in Oman,Oman,New Zealand,1353,1546,1,0,13,-13,1366,1533,115,76,1,-4,116,72,20,100,-93
+378,Jun 22 1999,Friendly in Saudi Arabia,Saudi Arabia,Jordan,1712,1423,2,0,3,-3,1715,1420,31,101,1,0,32,101,20,100,389
+379,Jun 22 1999,Friendly in Uganda,Uganda,Zambia,1373,1670,0,1,-5,5,1368,1675,114,46,0,0,114,46,20,100,-197
+380,Jun 23 1999,Friendly in Peru,Peru,Venezuela,1696,1418,3,0,4,-4,1700,1414,34,102,4,0,38,102,20,100,378
+381,Jun 24 1999,Friendly in Oman,Oman,New Zealand,1366,1533,2,2,2,-2,1368,1531,112,74,2,-1,114,73,20,100,-67
+382,Jun 24 1999,Friendly in Paraguay,Paraguay,Colombia,1784,1731,2,1,6,-6,1790,1725,20,31,0,0,20,31,20,100,153
+383,Jun 24 1999,Friendly in Saudi Arabia,Saudi Arabia,Lithuania,1715,1446,0,1,-18,18,1697,1464,52,76,-10,8,42,84,20,100,369
+384,Jun 26 1999,Friendly in Argentina,Argentina,Lithuania,1928,1464,0,0,-9,9,1919,1473,10,80,-1,2,9,82,20,0,464
+385,Jun 26 1999,Friendly in Brazil,Brazil,Latvia,2044,1464,3,0,1,-1,2045,1463,1,88,0,-2,1,86,20,0,580
+386,Jun 28 1999,Friendly in Jordan,Jordan,Iraq,1420,1598,0,1,-8,8,1412,1606,103,53,-1,1,102,54,20,100,-78
+387,Jun 29 1999,Copa América in Paraguay,Paraguay,Bolivia,1790,1655,0,0,-15,15,1775,1670,20,44,0,2,20,46,50,100,235
+388,Jun 29 1999,Copa América in Paraguay,Peru,Japan,1700,1685,3,2,24,-24,1724,1661,27,51,5,-3,32,48,50,0,15
+389,Jun 29 1999,Friendly in Singapore,Singapore,New Zealand,1306,1531,0,1,-7,7,1299,1538,131,69,-1,2,130,71,20,100,-125
+390,Jun 29 1999,Friendly in Zimbabwe,Zimbabwe,Egypt,1490,1700,1,1,3,-3,1493,1697,79,45,0,-4,79,41,20,100,-110
+391,Jun 30 1999,Copa América in Paraguay,Brazil,Venezuela,2045,1414,7,0,3,-3,2048,1411,1,103,0,-1,1,102,50,0,631
+392,Jun 30 1999,Friendly in Jordan,Jordan,Iraq,1412,1606,1,1,3,-3,1415,1603,100,56,1,-1,101,55,20,100,-94
+393,Jun 30 1999,Copa América in Paraguay,Mexico,Chile,1874,1753,1,0,17,-17,1891,1736,14,31,1,-2,15,29,50,0,121
+394,Jul 1 1999,Copa América in Paraguay,Argentina,Ecuador,1919,1734,3,1,19,-19,1938,1715,7,34,1,-2,8,32,50,0,185
+395,Jul 1 1999,Copa América in Paraguay,Colombia,Uruguay,1725,1772,1,0,28,-28,1753,1744,21,35,5,-7,26,28,50,0,-47
+396,Jul 1 1999,Friendly in Malaysia,Malaysia,New Zealand,1203,1538,2,1,16,-16,1219,1522,148,79,3,-4,151,75,20,100,-235
+397,Jul 2 1999,Friendly in Estonia,Indonesia,Lithuania,1323,1473,2,2,4,-4,1327,1469,122,82,2,0,124,82,20,0,-150
+398,Jul 2 1999,Copa América in Paraguay,Paraguay,Japan,1775,1661,4,0,21,-21,1796,1640,20,52,0,-2,20,50,50,100,214
+399,Jul 2 1999,Copa América in Paraguay,Peru,Bolivia,1724,1670,1,0,21,-21,1745,1649,25,48,3,-1,28,47,50,0,54
+400,Jul 3 1999,Copa América in Paraguay,Brazil,Mexico,2048,1891,2,1,14,-14,2062,1877,1,17,0,-1,1,16,50,0,157
+401,Jul 3 1999,Copa América in Paraguay,Chile,Venezuela,1736,1411,3,0,12,-12,1748,1399,25,110,3,-4,28,106,50,0,325
+402,Jul 3 1999,African Nations Cup qualifier in Eritrea,Eritrea,Zimbabwe,1234,1493,0,1,-11,11,1223,1504,153,77,-3,1,150,78,40,100,-159
+403,Jul 3 1999,Friendly in Malaysia,Malaysia,New Zealand,1219,1522,1,5,-9,9,1210,1531,153,71,-1,2,152,73,20,100,-203
+404,Jul 4 1999,Copa América in Paraguay,Colombia,Argentina,1753,1938,3,0,65,-65,1818,1873,12,24,7,-8,19,16,50,0,-185
+405,Jul 4 1999,COSAFA Cup in Lesotho,Lesotho,Angola,1136,1437,0,1,-10,10,1126,1447,170,91,-3,2,167,93,40,100,-201
+406,Jul 4 1999,Copa América in Paraguay,Uruguay,Ecuador,1744,1715,2,1,23,-23,1767,1692,16,56,7,-12,23,44,50,0,29
+407,Jul 5 1999,Copa América in Paraguay,Bolivia,Japan,1649,1640,1,1,-1,1,1648,1641,47,50,0,0,47,50,40,0,9
+408,Jul 5 1999,Copa América in Paraguay,Paraguay,Peru,1796,1745,1,0,15,-15,1811,1730,19,32,1,-1,20,31,50,100,151
+409,Jul 6 1999,Copa América in Paraguay,Brazil,Chile,2062,1748,1,0,7,-7,2069,1741,1,29,0,0,1,29,50,0,314
+410,Jul 6 1999,Friendly in Malawi,Malawi,Uganda,1285,1368,0,2,-16,16,1269,1384,137,106,-2,4,135,110,20,100,17
+411,Jul 6 1999,Copa América in Paraguay,Mexico,Venezuela,1877,1399,3,1,4,-4,1881,1395,15,106,0,0,15,106,40,0,478
+412,Jul 7 1999,Copa América in Paraguay,Argentina,Uruguay,1873,1767,2,0,26,-26,1899,1741,10,33,3,-5,13,28,50,0,106
+413,Jul 7 1999,Copa América in Paraguay,Colombia,Ecuador,1818,1692,2,1,16,-16,1834,1676,15,44,2,0,17,44,50,0,126
+414,Jul 9 1999,Friendly in the United States,Saudi Arabia,Canada,1697,1541,2,0,9,-9,1706,1532,30,72,5,-1,35,71,20,0,156
+415,Jul 10 1999,Friendly in Mexico,Egypt,New Zealand,1697,1531,1,1,-4,4,1693,1535,45,69,-2,2,43,71,20,0,166
+416,Jul 10 1999,Copa América in Paraguay,Mexico,Peru,1881,1730,3,3,-10,10,1871,1740,16,29,0,1,16,30,50,0,151
+417,Jul 10 1999,Copa América in Paraguay,Paraguay,Uruguay,1811,1741,1,1,-11,11,1800,1752,20,26,0,1,20,27,50,100,170
+418,Jul 11 1999,Copa América in Paraguay,Brazil,Argentina,2069,1899,2,1,14,-14,2083,1885,1,15,0,-1,1,14,50,0,170
+419,Jul 11 1999,Copa América in Paraguay,Chile,Colombia,1741,1834,3,2,32,-32,1773,1802,15,21,7,-2,22,19,50,0,-93
+420,Jul 11 1999,Friendly in Uzbekistan,Uzbekistan,Malaysia,1544,1210,3,0,3,-3,1547,1207,67,154,1,-1,68,153,20,100,434
+421,Jul 12 1999,Micronesian Cup in the FS Micronesia,FS Micronesia,Northern Mariana Islands,572,682,7,0,46,-46,618,636,216,220,3,-2,219,218,40,100,-10
+422,Jul 13 1999,Copa América in Paraguay,Chile,Uruguay,1773,1752,1,1,-2,2,1771,1754,22,28,0,0,22,28,50,0,21
+423,Jul 13 1999,Friendly in the United States,Jamaica,Saudi Arabia,1607,1706,2,1,13,-13,1620,1693,51,49,1,-7,52,42,20,0,-99
+424,Jul 14 1999,Copa América in Paraguay,Brazil,Mexico,2083,1871,2,0,17,-17,2100,1854,1,16,0,0,1,16,50,0,212
+425,Jul 15 1999,Friendly in Mexico,Egypt,New Zealand,1693,1535,1,0,6,-6,1699,1529,36,77,3,-3,39,74,20,0,158
+426,Jul 15 1999,Friendly in the United States,Saudi Arabia,Jamaica,1693,1620,4,0,15,-15,1708,1605,28,56,7,-2,35,54,20,0,73
+427,Jul 16 1999,Friendly in Jordan,Jordan,Syria,1415,1464,1,0,9,-9,1424,1455,101,95,0,-5,101,90,20,100,51
+428,Jul 17 1999,Friendly in the United States,Costa Rica,Saudi Arabia,1606,1708,1,0,13,-13,1619,1695,51,47,1,-6,52,41,20,0,-102
+429,Jul 17 1999,Copa América in Paraguay,Mexico,Chile,1854,1771,2,1,19,-19,1873,1752,16,34,0,-6,16,28,50,0,83
+430,Jul 18 1999,Copa América in Paraguay,Brazil,Uruguay,2100,1754,3,0,11,-11,2111,1743,1,31,0,-2,1,29,50,0,346
+431,Jul 18 1999,Friendly in Jordan,Jordan,Syria,1424,1455,4,0,15,-15,1439,1440,89,98,6,-4,95,94,20,100,69
+432,Jul 18 1999,African Nations Cup qualifier in Senegal,Senegal,Eritrea,1461,1223,6,2,9,-9,1470,1214,78,152,4,-1,82,151,40,100,338
+433,Jul 18 1999,COSAFA Cup in Swaziland,Swaziland,Zimbabwe,1219,1504,1,1,10,-10,1229,1494,147,80,2,-1,149,79,30,0,-285
+434,Jul 21 1999,Friendly in Oman,Oman,Kenya,1368,1404,2,2,-2,2,1366,1406,117,102,-1,1,116,103,20,100,64
+435,Jul 24 1999,Confederations Cup in Mexico,Brazil,Germany,2111,1945,4,0,26,-26,2137,1919,1,9,0,-1,1,8,50,0,166
+436,Jul 24 1999,CECAFA Cup in Rwanda,Rwanda,Djibouti,1118,888,4,1,9,-9,1127,879,162,199,4,0,166,199,40,100,330
+437,Jul 24 1999,Friendly in Thailand,Thailand,Uzbekistan,1401,1547,1,0,11,-11,1412,1536,99,72,3,-2,102,70,20,100,-46
+438,Jul 24 1999,Confederations Cup in Mexico,United States,New Zealand,1739,1529,2,1,11,-11,1750,1518,27,78,2,-2,29,76,50,0,210
+439,Jul 25 1999,Confederations Cup in Mexico,Bolivia,Egypt,1648,1699,2,2,4,-4,1652,1695,47,42,0,-2,47,40,50,0,-51
+440,Jul 25 1999,CECAFA Cup in Rwanda,Burundi,Uganda,1392,1384,0,0,0,0,1392,1384,107,110,0,0,107,110,20,0,8
+441,Jul 25 1999,CECAFA Cup in Rwanda,Ethiopia,Zanzibar,1294,1185,2,0,21,-21,1315,1164,127,163,2,-2,129,161,40,0,109
+442,Jul 25 1999,Confederations Cup in Mexico,Mexico,Saudi Arabia,1873,1695,5,1,16,-16,1889,1679,12,45,2,-2,14,43,50,100,278
+443,Jul 26 1999,CECAFA Cup in Rwanda,Tanzania,Djibouti,1262,879,2,1,4,-4,1266,875,135,199,1,0,136,199,40,0,383
+444,Jul 27 1999,Confederations Cup in Mexico,Bolivia,Saudi Arabia,1652,1679,0,0,2,-2,1654,1677,47,43,0,0,47,43,40,0,-27
+445,Jul 27 1999,CECAFA Cup in Rwanda,Burundi,Somalia,1392,1136,3,0,13,-13,1405,1123,103,176,2,-6,105,170,40,0,256
+446,Jul 27 1999,CECAFA Cup in Rwanda,Ethiopia,Sudan,1315,1379,0,0,4,-4,1319,1375,127,114,1,-1,128,113,40,0,-64
+447,Jul 27 1999,Confederations Cup in Mexico,Mexico,Egypt,1889,1695,2,2,-17,17,1872,1712,18,26,-2,7,16,33,50,100,294
+448,Jul 28 1999,Confederations Cup in Mexico,Brazil,United States,2137,1750,1,0,5,-5,2142,1745,1,29,0,0,1,29,50,0,387
+449,Jul 28 1999,Confederations Cup in Mexico,Germany,New Zealand,1919,1518,2,0,7,-7,1926,1511,6,78,1,-1,7,77,50,0,401
+450,Jul 28 1999,Friendly tournament in the United States,Guatemala,El Salvador,1546,1449,2,0,16,-16,1562,1433,62,105,3,-7,65,98,30,0,97
+451,Jul 28 1999,CECAFA Cup in Rwanda,Kenya,Eritrea,1406,1214,1,0,10,-10,1416,1204,100,157,2,-3,102,154,40,0,192
+452,Jul 28 1999,CECAFA Cup in Rwanda,Rwanda,Tanzania,1127,1266,0,0,2,-2,1129,1264,163,138,1,-1,164,137,30,100,-39
+453,Jul 29 1999,Confederations Cup in Mexico,Mexico,Bolivia,1872,1654,1,0,7,-7,1879,1647,16,47,0,0,16,47,30,0,218
+454,Jul 29 1999,Confederations Cup in Mexico,Saudi Arabia,Egypt,1677,1712,5,1,52,-52,1729,1660,21,59,11,-13,32,46,50,0,-35
+455,Jul 29 1999,CECAFA Cup in Rwanda,Sudan,Zanzibar,1375,1164,1,1,-11,11,1364,1175,119,159,-3,1,116,160,30,100,311
+456,Jul 29 1999,CECAFA Cup in Rwanda,Uganda,Somalia,1384,1123,2,0,11,-11,1395,1112,104,172,3,-1,107,171,40,0,261
+457,Jul 30 1999,Confederations Cup in Mexico,Brazil,New Zealand,2142,1511,2,0,2,-2,2144,1509,1,77,0,0,1,77,40,0,631
+458,Jul 30 1999,Southeast Asian Games in Brunei,Thailand,Philippines,1412,715,9,0,2,-2,1414,713,103,211,0,0,103,211,40,0,697
+459,Jul 30 1999,Confederations Cup in Mexico,United States,Germany,1745,1926,2,0,55,-55,1800,1871,11,25,9,-9,20,16,50,0,-181
+460,Jul 30 1999,Southeast Asian Games in Brunei,Vietnam,Laos,1233,981,9,0,19,-19,1252,962,133,193,7,-1,140,192,40,0,252
+461,Jul 30 1999,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Senegal,1494,1470,2,1,13,-13,1507,1457,77,96,1,-7,78,89,40,100,124
+462,Jul 31 1999,CECAFA Cup in Rwanda,Burundi,Tanzania,1405,1264,1,0,12,-12,1417,1252,99,141,3,-2,102,139,40,0,141
+463,Jul 31 1999,Southeast Asian Games in Brunei,Indonesia,Cambodia,1327,998,1,0,5,-5,1332,993,118,190,3,-1,121,189,40,0,329
+464,Jul 31 1999,COSAFA Cup in Namibia,Namibia,South Africa,1330,1615,1,1,10,-10,1340,1605,117,53,2,0,119,53,30,0,-285
+465,Jul 31 1999,CECAFA Cup in Rwanda,Rwanda,Uganda,1129,1395,1,0,29,-29,1158,1366,160,121,2,-7,162,114,40,100,-166
+466,Jul 31 1999,Southeast Asian Games in Brunei,Singapore,Malaysia,1299,1207,2,1,15,-15,1314,1192,129,162,1,-5,130,157,40,0,92
+467,Aug 1 1999,Confederations Cup in Mexico,Brazil,Saudi Arabia,2144,1729,8,2,9,-9,2153,1720,1,32,0,0,1,32,50,0,415
+468,Aug 1 1999,CECAFA Cup in Rwanda,Kenya,Sudan,1416,1364,3,0,30,-30,1446,1334,81,124,11,-4,92,120,40,0,52
+469,Aug 1 1999,Confederations Cup in Mexico,Mexico,United States,1879,1800,1,0,13,-13,1892,1787,11,24,2,-2,13,22,50,100,179
+470,Aug 1 1999,Southeast Asian Games in Brunei,Myanmar,Philippines,1128,713,4,1,6,-6,1134,707,165,211,0,0,165,211,40,0,415
+471,Aug 1 1999,Southeast Asian Games in Brunei,Thailand,Laos,1414,962,4,1,5,-5,1419,957,102,192,1,0,103,192,40,0,452
+472,Aug 2 1999,Southeast Asian Games in Brunei,Brunei,Cambodia,772,993,3,3,7,-7,779,986,205,191,1,-1,206,190,40,100,-121
+473,Aug 2 1999,Southeast Asian Games in Brunei,Indonesia,Malaysia,1332,1192,6,0,26,-26,1358,1166,111,165,5,-4,116,161,40,0,140
+474,Aug 3 1999,Southeast Asian Games in Brunei,Laos,Philippines,957,707,3,2,8,-8,965,699,192,213,0,-1,192,212,40,0,250
+475,Aug 3 1999,Asian Cup qualifier in Tajikistan,Oman,Kyrgyzstan,1366,1237,3,0,23,-23,1389,1214,104,154,5,-4,109,150,40,0,129
+476,Aug 3 1999,CECAFA Cup in Rwanda,Rwanda,Kenya,1158,1446,0,0,10,-10,1168,1436,160,98,1,-3,161,95,30,0,-288
+477,Aug 3 1999,Asian Cup qualifier in Tajikistan,Tajikistan,Iraq,1439,1603,1,2,-16,16,1423,1619,109,49,-7,3,102,52,40,100,-64
+478,Aug 3 1999,Confederations Cup in Mexico,United States,Saudi Arabia,1787,1720,2,0,30,-30,1817,1690,16,52,3,-10,19,42,50,0,67
+479,Aug 3 1999,Southeast Asian Games in Brunei,Vietnam,Myanmar,1252,1134,2,0,20,-20,1272,1114,131,173,4,-4,135,169,40,0,118
+480,Aug 4 1999,Southeast Asian Games in Brunei,Brunei,Singapore,779,1314,1,3,-5,5,774,1319,208,126,-1,2,207,128,40,100,-435
+481,Aug 4 1999,Southeast Asian Games in Brunei,Malaysia,Cambodia,1166,986,7,2,21,-21,1187,965,154,192,4,-1,158,191,40,0,180
+482,Aug 4 1999,Confederations Cup in Mexico,Mexico,Brazil,1892,2153,4,3,36,-36,1928,2117,1,1,6,0,7,1,50,100,-161
+483,Aug 5 1999,Asian Cup qualifier in Tajikistan,Iraq,Oman,1619,1389,2,0,13,-13,1632,1376,52,115,0,-3,52,112,40,0,230
+484,Aug 5 1999,Southeast Asian Games in Brunei,Laos,Myanmar,965,1114,0,0,8,-8,973,1106,191,175,0,-3,191,172,40,0,-149
+485,Aug 5 1999,Asian Cup qualifier in Tajikistan,Tajikistan,Kyrgyzstan,1423,1214,3,2,6,-6,1429,1208,98,152,2,-1,100,151,40,100,309
+486,Aug 5 1999,Southeast Asian Games in Brunei,Thailand,Vietnam,1419,1272,0,0,-8,8,1411,1280,105,131,-1,2,104,133,40,0,147
+487,Aug 6 1999,Southeast Asian Games in Brunei,Brunei,Malaysia,774,1187,0,2,-8,8,766,1195,207,152,0,3,207,155,40,100,-313
+488,Aug 6 1999,Southeast Asian Games in Brunei,Indonesia,Singapore,1358,1319,1,1,-2,2,1356,1321,118,128,-1,0,117,128,30,0,39
+489,Aug 7 1999,Friendly tournament in Ghana,Ghana,Jamaica,1564,1605,2,1,12,-12,1576,1593,60,58,2,-2,62,56,30,100,59
+490,Aug 7 1999,Asian Cup qualifier in Tajikistan,Iraq,Kyrgyzstan,1632,1208,5,1,6,-6,1638,1202,50,157,1,-3,51,154,40,0,424
+491,Aug 7 1999,CECAFA Cup in Rwanda,Rwanda,Burundi,1168,1417,0,0,8,-8,1176,1409,158,105,2,-1,160,104,40,100,-149
+492,Aug 7 1999,Asian Cup qualifier in Tajikistan,Tajikistan,Oman,1429,1376,2,1,12,-12,1441,1364,86,118,7,-3,93,115,40,100,153
+493,Aug 7 1999,COSAFA Cup in Zambia,Zambia,Mozambique,1675,1260,1,1,-18,18,1657,1278,48,131,-2,4,46,135,40,100,515
+494,Aug 8 1999,African Nations Cup qualifier in Senegal,Senegal,Zimbabwe,1457,1507,2,0,26,-26,1483,1481,69,82,10,-2,79,80,30,0,-50
+495,Aug 8 1999,Southeast Asian Games in Brunei,Thailand,Myanmar,1411,1106,7,0,13,-13,1424,1093,103,178,0,-3,103,175,40,0,305
+496,Aug 8 1999,Southeast Asian Games in Brunei,Vietnam,Philippines,1280,699,2,0,2,-2,1282,697,133,212,0,0,133,212,30,0,581
+497,Aug 9 1999,Southeast Asian Games in Brunei,Brunei,Indonesia,766,1356,0,3,-4,4,762,1360,207,115,0,1,207,116,40,100,-490
+498,Aug 9 1999,Southeast Asian Games in Brunei,Singapore,Cambodia,1321,965,2,0,7,-7,1328,958,120,192,4,0,124,192,40,0,356
+499,Aug 12 1999,Southeast Asian Games in Brunei,Thailand,Singapore,1424,1328,2,0,22,-22,1446,1306,81,136,11,-6,92,130,40,0,96
+500,Aug 12 1999,Southeast Asian Games in Brunei,Vietnam,Indonesia,1282,1360,1,0,24,-24,1306,1336,127,124,3,-4,130,120,40,0,-78
+501,Aug 14 1999,Southeast Asian Games in Brunei,Indonesia,Singapore,1336,1306,0,0,-2,2,1334,1308,120,130,0,0,120,130,40,0,30
+502,Aug 14 1999,Southeast Asian Games in Brunei,Thailand,Vietnam,1446,1306,2,0,19,-19,1465,1287,82,136,5,-3,87,133,40,0,140
+503,Aug 14 1999,COSAFA Cup in Zambia,Zambia,Angola,1657,1447,0,1,-34,34,1623,1481,58,69,-6,11,52,80,40,100,310
+504,Aug 15 1999,Friendly in Lesotho,Lesotho,Swaziland,1126,1229,0,3,-17,17,1109,1246,176,136,-5,6,171,142,20,100,-3
+505,Aug 15 1999,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Eritrea,1481,1204,4,0,8,-8,1489,1196,78,156,1,-2,79,154,40,100,377
+506,Aug 17 1999,Friendly in Mozambique,Mozambique,Nigeria,1278,1694,0,1,-3,3,1275,1697,137,39,-1,1,136,40,20,100,-316
+507,Aug 18 1999,Friendly in Belarus,Belarus,Russia,1425,1821,0,2,-5,5,1420,1826,103,18,0,0,103,18,20,100,-296
+508,Aug 18 1999,Friendly in Belgium,Belgium,Finland,1768,1538,3,4,-17,17,1751,1555,31,65,-4,2,27,67,20,100,330
+509,Aug 18 1999,Friendly in Cyprus,Cyprus,Romania,1495,1882,2,2,7,-7,1502,1875,78,15,0,0,78,15,20,100,-287
+510,Aug 18 1999,Friendly in Czechia,Czechia,Switzerland,1924,1713,3,0,5,-5,1929,1708,6,36,1,-2,7,34,20,100,311
+511,Aug 18 1999,Friendly in Denmark,Denmark,Netherlands,1827,1965,0,0,1,-1,1828,1964,17,5,0,0,17,5,20,100,-38
+512,Aug 18 1999,Friendly in Estonia,Estonia,Armenia,1262,1368,2,0,15,-15,1277,1353,131,119,4,-3,135,116,20,100,-6
+513,Aug 18 1999,Friendly in the Faroe Islands,Faroe Islands,Iceland,1237,1568,0,1,-4,4,1233,1572,147,62,0,1,147,63,20,100,-231
+514,Aug 18 1999,Friendly in Greece,Greece,El Salvador,1698,1433,3,1,3,-3,1701,1430,35,100,2,0,37,100,20,100,365
+515,Aug 18 1999,Friendly in Hungary,Hungary,Moldova,1644,1408,1,1,-7,7,1637,1415,52,103,-2,1,50,104,20,100,336
+516,Aug 18 1999,Pan Arab Games in Jordan,Jordan,Palestine,1439,1228,2,0,9,-9,1448,1219,90,149,3,0,93,149,40,100,311
+517,Aug 18 1999,Friendly in Liechtenstein,Liechtenstein,Bosnia and Herzegovina,1066,1553,0,0,8,-8,1074,1545,175,71,2,-2,177,69,20,100,-387
+518,Aug 18 1999,Friendly in Norway,Norway,Lithuania,1899,1469,1,0,1,-1,1900,1468,11,84,1,0,12,84,20,100,530
+519,Aug 18 1999,Friendly in Northern Ireland,Northern Ireland,France,1574,2038,0,1,-2,2,1572,2040,63,2,0,0,63,2,20,100,-364
+520,Aug 18 1999,Friendly in Poland,Poland,Spain,1755,2000,1,2,-6,6,1749,2006,29,2,-1,1,28,3,20,100,-145
+521,Aug 18 1999,Friendly in Portugal,Portugal,Andorra,1915,1052,4,0,0,0,1915,1052,12,182,-1,0,11,182,20,0,863
+522,Aug 18 1999,Friendly in Slovakia,Slovakia,Israel,1712,1751,1,0,8,-8,1720,1743,31,31,1,-1,32,30,20,100,61
+523,Aug 18 1999,European Championship qual in Slovenia,Slovenia,Albania,1593,1436,2,0,11,-11,1604,1425,54,107,1,-5,55,102,40,100,257
+524,Aug 18 1999,Friendly in Sweden,Sweden,Austria,1904,1706,0,0,-7,7,1897,1713,14,31,-1,2,13,33,20,100,298
+525,Aug 18 1999,Friendly in Ukraine,Ukraine,Bulgaria,1710,1667,1,1,-4,4,1706,1671,36,44,-1,0,35,44,20,100,143
+526,Aug 18 1999,Friendly in Uruguay,Uruguay,Costa Rica,1743,1619,5,4,4,-4,1747,1615,28,53,1,0,29,53,20,100,224
+527,Aug 18 1999,Friendly in Uzbekistan,Uzbekistan,Azerbaijan,1536,1329,5,1,5,-5,1541,1324,70,129,0,-3,70,126,20,100,307
+528,Aug 18 1999,European Championship qual in Yugoslavia,Yugoslavia,Croatia,1946,1913,0,0,-7,7,1939,1920,6,7,0,2,6,9,40,100,133
+529,Aug 19 1999,Pan Arab Games in Jordan,Oman,Syria,1364,1440,1,1,4,-4,1368,1436,112,96,1,0,113,96,40,0,-76
+530,Aug 20 1999,African Nations Cup qualifier in Eritrea,Eritrea,Senegal,1196,1483,0,2,-15,15,1181,1498,162,78,-4,1,158,79,40,100,-187
+531,Aug 20 1999,Friendly in Greece,Greece,El Salvador,1701,1430,3,0,4,-4,1705,1426,37,102,0,-1,37,101,20,100,371
+532,Aug 20 1999,Pan Arab Games in Jordan,United Arab Emirates,Lebanon,1525,1352,2,0,16,-16,1541,1336,66,121,4,-2,70,119,40,0,173
+533,Aug 21 1999,European Championship qual in Croatia,Croatia,Malta,1920,1206,2,1,0,0,1920,1206,9,151,0,0,9,151,20,0,714
+534,Aug 21 1999,Pan Arab Games in Jordan,Libya,Iraq,1379,1638,2,0,49,-49,1428,1589,89,65,11,-8,100,57,40,0,-259
+535,Aug 23 1999,Pan Arab Games in Jordan,Iraq,Oman,1589,1368,3,0,15,-15,1604,1353,51,119,3,-3,54,116,40,0,221
+536,Aug 23 1999,Pan Arab Games in Jordan,Jordan,Lebanon,1448,1336,1,3,-46,46,1402,1382,121,105,-14,7,107,112,40,100,212
+537,Aug 23 1999,Pan Arab Games in Jordan,Libya,Syria,1428,1436,1,1,0,0,1428,1436,98,94,1,1,99,95,20,0,-8
+538,Aug 23 1999,Pan Arab Games in Jordan,Palestine,United Arab Emirates,1219,1541,1,0,35,-35,1254,1506,131,84,9,-7,140,77,40,0,-322
+539,Aug 25 1999,Friendly in Bolivia,Bolivia,Venezuela,1647,1395,0,0,-8,8,1639,1403,50,108,-2,0,48,108,20,100,352
+540,Aug 25 1999,Pan Arab Games in Jordan,Jordan,Iraq,1402,1604,2,1,26,-26,1428,1578,91,66,8,-6,99,60,40,100,-102
+541,Aug 25 1999,Pan Arab Games in Jordan,Lebanon,Oman,1382,1353,1,1,-2,2,1380,1355,112,116,0,0,112,116,40,0,29
+542,Aug 25 1999,Pan Arab Games in Jordan,Libya,Palestine,1428,1254,2,2,-9,9,1419,1263,109,140,-5,0,104,140,40,0,174
+543,Aug 25 1999,Pan Arab Games in Jordan,Syria,United Arab Emirates,1436,1506,2,2,4,-4,1440,1502,95,77,0,0,95,77,40,0,-70
+544,Aug 27 1999,Pan Arab Games in Jordan,Iraq,Lebanon,1578,1380,4,0,18,-18,1596,1362,50,116,5,-2,55,114,40,0,198
+545,Aug 27 1999,Pan Arab Games in Jordan,Jordan,Oman,1428,1355,2,0,16,-16,1444,1339,87,122,6,-3,93,119,40,100,173
+546,Aug 27 1999,Pan Arab Games in Jordan,Libya,United Arab Emirates,1419,1502,1,0,25,-25,1444,1477,82,87,11,-5,93,82,40,0,-83
+547,Aug 27 1999,Pan Arab Games in Jordan,Palestine,Syria,1263,1440,1,1,9,-9,1272,1431,136,105,2,-5,138,100,40,0,-177
+548,Aug 28 1999,COSAFA Cup in Namibia,Namibia,Swaziland,1340,1246,1,1,-10,10,1330,1256,127,139,-5,2,122,141,40,100,194
+549,Aug 28 1999,Friendly in Nigeria,Nigeria,Ghana,1697,1576,0,0,-6,6,1691,1582,42,58,-1,2,41,60,20,100,221
+550,Aug 29 1999,Pan Arab Games in Jordan,Iraq,Libya,1596,1444,3,1,18,-18,1614,1426,51,109,2,-8,53,101,40,0,152
+551,Aug 29 1999,Pan Arab Games in Jordan,Jordan,Palestine,1444,1272,4,1,12,-12,1456,1260,91,142,1,-2,92,140,40,100,272
+552,Aug 31 1999,Pan Arab Games in Jordan,Jordan,Iraq,1456,1614,4,4,3,-3,1459,1611,90,53,1,0,91,53,40,100,-58
+553,Sep 1 1999,European Championship qual in Ireland,Ireland,Yugoslavia,1758,1939,2,1,25,-25,1783,1914,21,16,2,-5,23,11,40,100,-81
+554,Sep 2 1999,Friendly in Canada,Canada,Jamaica,1532,1593,1,0,9,-9,1541,1584,69,59,1,-1,70,58,20,100,39
+555,Sep 4 1999,European Championship qual in Albania,Albania,Latvia,1425,1463,3,3,-4,4,1421,1467,103,82,0,3,103,85,40,100,62
+556,Sep 4 1999,Friendly tournament in Argentina,Argentina,Brazil,1885,2117,2,0,31,-31,1916,2086,6,1,4,0,10,1,30,100,-132
+557,Sep 4 1999,European Championship qual in Austria,Austria,Spain,1713,2006,1,3,-15,15,1698,2021,45,3,-6,0,39,3,40,100,-193
+558,Sep 4 1999,European Championship qual in Azerbaijan,Azerbaijan,Portugal,1324,1915,1,1,18,-18,1342,1897,108,20,9,-5,117,15,40,100,-491
+559,Sep 4 1999,European Championship qual in Belarus,Belarus,Wales,1420,1577,1,2,-17,17,1403,1594,110,52,-3,5,107,57,40,100,-57
+560,Sep 4 1999,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Scotland,1545,1695,1,2,-17,17,1528,1712,77,28,-4,6,73,34,40,100,-50
+561,Sep 4 1999,European Championship qual in Croatia,Croatia,Ireland,1920,1783,1,0,8,-8,1928,1775,6,23,1,0,7,23,40,100,237
+562,Sep 4 1999,European Championship qual in Denmark,Denmark,Switzerland,1828,1708,2,1,9,-9,1837,1699,17,38,0,-2,17,36,40,100,220
+563,Sep 4 1999,European Championship qual in England,England,Luxembourg,1919,1193,6,0,1,-1,1920,1192,9,156,0,0,9,156,20,0,726
+564,Sep 4 1999,European Championship qual in the Faroe Islands,Faroe Islands,Estonia,1233,1277,0,2,-35,35,1198,1312,158,125,-5,5,153,130,40,100,56
+565,Sep 4 1999,European Championship qual in Finland,Finland,Germany,1555,1871,1,2,-9,9,1546,1880,65,16,1,0,66,16,40,100,-216
+566,Sep 4 1999,European Championship qual in Iceland,Iceland,Andorra,1572,1052,3,0,2,-2,1574,1050,63,182,0,0,63,182,20,0,520
+567,Sep 4 1999,European Championship qual in Liechtenstein,Liechtenstein,Hungary,1074,1637,0,0,17,-17,1091,1620,175,53,1,-2,176,51,40,100,-463
+568,Sep 4 1999,European Championship qual in Lithuania,Lithuania,Czechia,1468,1929,0,4,-8,8,1460,1937,96,6,-6,0,90,6,40,100,-361
+569,Sep 4 1999,Friendly in the Netherlands,Netherlands,Belgium,1964,1751,5,5,-7,7,1957,1758,5,25,0,1,5,26,20,100,313
+570,Sep 4 1999,European Championship qual in Norway,Norway,Greece,1900,1705,1,0,6,-6,1906,1699,14,35,-1,1,13,36,40,100,295
+571,Sep 4 1999,European Championship qual in Northern Ireland,Northern Ireland,Turkey,1572,1700,0,3,-32,32,1540,1732,75,26,-6,6,69,32,40,100,-28
+572,Sep 4 1999,European Championship qual in Russia,Russia,Armenia,1826,1353,2,0,2,-2,1828,1351,18,116,0,0,18,116,20,0,473
+573,Sep 4 1999,European Championship qual in Slovakia,Slovakia,Romania,1720,1875,1,5,-32,32,1688,1907,52,9,-10,3,42,12,40,100,-55
+574,Sep 4 1999,European Championship qual in Slovenia,Slovenia,Georgia,1604,1551,2,1,12,-12,1616,1539,49,72,3,-2,52,70,40,100,153
+575,Sep 4 1999,European Championship qual in Sweden,Sweden,Bulgaria,1897,1671,1,0,5,-5,1902,1666,15,44,-1,0,14,44,40,100,326
+576,Sep 4 1999,European Championship qual in Ukraine,Ukraine,France,1706,2040,0,0,12,-12,1718,2028,31,2,2,0,33,2,40,100,-234
+577,Sep 5 1999,European Championship qual in Cyprus,Cyprus,Israel,1502,1743,3,2,28,-28,1530,1715,69,36,4,-3,73,33,40,100,-141
+578,Sep 5 1999,European Championship qual in Yugoslavia,Yugoslavia,Macedonia,1914,1557,3,1,4,-4,1918,1553,9,65,1,0,10,65,40,100,457
+579,Sep 7 1999,Friendly in Belgium,Belgium,Morocco,1758,1799,4,0,16,-16,1774,1783,22,22,2,0,24,22,20,100,59
+580,Sep 7 1999,Friendly tournament in Brazil,Brazil,Argentina,2086,1916,4,2,8,-8,2094,1908,1,11,0,0,1,11,20,0,170
+581,Sep 8 1999,European Championship qual in Andorra,Andorra,Russia,1050,1828,1,2,-1,1,1049,1829,182,18,0,0,182,18,30,100,-678
+582,Sep 8 1999,European Championship qual in Armenia,Armenia,France,1351,2028,2,3,-1,1,1350,2029,116,2,0,0,116,2,20,100,-577
+583,Sep 8 1999,European Championship qual in Czechia,Czechia,Bosnia and Herzegovina,1937,1528,3,0,4,-4,1941,1524,6,74,0,0,6,74,40,100,509
+584,Sep 8 1999,European Championship qual in Estonia,Estonia,Scotland,1312,1712,0,0,14,-14,1326,1698,122,42,4,-4,126,38,40,100,-300
+585,Sep 8 1999,European Championship qual in the Faroe Islands,Faroe Islands,Lithuania,1198,1460,0,1,-11,11,1187,1471,161,80,-4,5,157,85,40,100,-162
+586,Sep 8 1999,European Championship qual in Georgia,Georgia,Latvia,1539,1467,2,2,-9,9,1530,1476,74,81,-2,2,72,83,40,100,172
+587,Sep 8 1999,European Championship qual in Germany,Germany,Northern Ireland,1880,1540,4,0,6,-6,1886,1534,16,69,0,0,16,69,40,100,440
+588,Sep 8 1999,European Championship qual in Hungary,Hungary,Azerbaijan,1620,1342,3,0,7,-7,1627,1335,49,121,1,-2,50,119,40,100,378
+589,Sep 8 1999,European Championship qual in Iceland,Iceland,Ukraine,1574,1718,0,1,-17,17,1557,1735,65,30,-1,1,64,31,40,100,-44
+590,Sep 8 1999,European Championship qual in Israel,Israel,San Marino,1715,944,8,0,1,-1,1716,943,33,193,0,0,33,193,20,0,771
+591,Sep 8 1999,European Championship qual in Italy,Italy,Denmark,2004,1837,2,3,-33,33,1971,1870,4,17,0,0,4,17,40,100,267
+592,Sep 8 1999,Friendly in Jamaica,Jamaica,United States,1584,1817,2,2,4,-4,1588,1813,61,19,-1,0,60,19,20,100,-133
+593,Sep 8 1999,Friendly tournament in Japan,Japan,Iran,1641,1763,1,1,1,-1,1642,1762,47,27,0,-1,47,26,20,100,-22
+594,Sep 8 1999,European Championship qual in Luxembourg,Luxembourg,Sweden,1192,1902,0,1,-1,1,1191,1903,154,12,1,1,155,13,20,100,-610
+595,Sep 8 1999,European Championship qual in Macedonia,Macedonia,Yugoslavia,1553,1918,2,4,-11,11,1542,1929,67,4,-1,3,66,7,40,100,-265
+596,Sep 8 1999,European Championship qual in Malta,Malta,Ireland,1206,1775,2,3,-3,3,1203,1778,150,23,0,0,150,23,40,100,-469
+597,Sep 8 1999,European Championship qual in Moldova,Moldova,Turkey,1415,1732,1,1,11,-11,1426,1721,98,33,3,-1,101,32,30,0,-317
+598,Sep 8 1999,European Championship qual in Norway,Norway,Slovenia,1906,1616,4,0,7,-7,1913,1609,9,56,2,-2,11,54,40,100,390
+599,Sep 8 1999,European Championship qual in Poland,Poland,England,1749,1920,0,0,4,-4,1753,1916,26,11,1,-1,27,10,40,100,-71
+600,Sep 8 1999,European Championship qual in Romania,Romania,Portugal,1907,1897,1,1,-6,6,1901,1903,18,11,-3,2,15,13,40,100,110
+601,Sep 8 1999,Friendly in Zimbabwe,Saudi Arabia,Zambia,1690,1623,0,0,-2,2,1688,1625,43,52,-1,-1,42,51,20,0,67
+602,Sep 8 1999,European Championship qual in Slovakia,Slovakia,Liechtenstein,1688,1091,2,0,1,-1,1689,1090,40,176,1,0,41,176,20,0,597
+603,Sep 8 1999,European Championship qual in Spain,Spain,Cyprus,2021,1530,8,0,3,-3,2024,1527,3,73,0,0,3,73,20,0,491
+604,Sep 8 1999,European Championship qual in Switzerland,Switzerland,Belarus,1699,1403,2,0,6,-6,1705,1397,34,109,1,-1,35,108,40,100,396
+605,Sep 8 1999,Friendly in the United States,Trinidad and Tobago,Colombia,1582,1802,4,3,16,-16,1598,1786,51,22,5,-1,56,21,20,0,-220
+606,Sep 8 1999,Friendly in Uruguay,Uruguay,Venezuela,1747,1403,2,0,2,-2,1749,1401,29,107,0,0,29,107,20,100,444
+607,Sep 9 1999,Friendly in Bermuda,Bermuda,Cayman Islands,1292,1127,3,1,5,-5,1297,1122,133,169,0,-2,133,167,20,100,265
+608,Sep 9 1999,Friendly tournament in Guyana,Saint Lucia,Dominica,1247,1150,2,0,16,-16,1263,1134,137,164,3,0,140,164,30,0,97
+609,Sep 11 1999,Friendly in Bermuda,Bermuda,Cayman Islands,1297,1122,1,0,3,-3,1300,1119,133,167,0,0,133,167,20,100,275
+610,Sep 11 1999,Friendly in Zimbabwe,Saudi Arabia,Zambia,1688,1625,2,1,8,-8,1696,1617,38,51,2,0,40,51,20,0,63
+611,Sep 18 1999,Afro-Asian Cup in South Africa,South Africa,Saudi Arabia,1605,1696,1,0,24,-24,1629,1672,45,46,5,-3,50,43,50,100,9
+612,Sep 22 1999,Friendly in the Cayman Islands,Cayman Islands,Bahamas,1119,850,4,0,4,-4,1123,846,167,206,0,-2,167,204,20,100,369
+613,Sep 24 1999,South Asian Games in Nepal,Maldives,Sri Lanka,837,907,4,0,45,-45,882,862,191,205,7,-4,198,201,40,0,-70
+614,Sep 26 1999,COSAFA Cup in Angola,Angola,Namibia,1481,1330,1,0,8,-8,1489,1322,78,133,1,-5,79,128,40,100,251
+615,Sep 26 1999,South Asian Games in Nepal,India,Pakistan,1114,848,5,2,12,-12,1126,836,162,207,3,-2,165,205,40,0,266
+616,Sep 26 1999,South Asian Games in Nepal,Nepal,Bhutan,726,617,7,0,21,-21,747,596,208,222,1,-1,209,221,40,100,209
+617,Sep 27 1999,South Asian Games in Nepal,Maldives,Bangladesh,882,1000,2,1,27,-27,909,973,196,193,1,-3,197,190,40,0,-118
+618,Sep 28 1999,Friendly in Haiti,Haiti,Venezuela,1387,1401,3,2,8,-8,1395,1393,106,111,2,-2,108,109,20,100,86
+619,Sep 28 1999,South Asian Games in Nepal,India,Bhutan,1126,596,3,0,3,-3,1129,593,165,221,0,0,165,221,40,0,530
+620,Sep 28 1999,South Asian Games in Nepal,Nepal,Pakistan,747,836,3,1,29,-29,776,807,203,205,3,0,206,205,40,100,11
+621,Sep 29 1999,South Asian Games in Nepal,Bangladesh,Sri Lanka,973,862,1,0,14,-14,987,848,188,203,1,-1,189,202,40,0,111
+622,Sep 30 1999,South Asian Games in Nepal,Nepal,India,776,1129,0,4,-14,14,762,1143,208,163,-1,1,207,164,40,100,-253
+623,Sep 30 1999,South Asian Games in Nepal,Pakistan,Bhutan,807,593,2,1,9,-9,816,584,205,223,0,-1,205,222,40,0,214
+624,Sep 30 1999,Afro-Asian Cup in Saudi Arabia,Saudi Arabia,South Africa,1672,1629,0,0,-10,10,1662,1639,45,46,-1,2,44,48,50,100,143
+625,Oct 2 1999,South Asian Games in Nepal,Bangladesh,India,987,1143,1,0,28,-28,1015,1115,181,172,4,-4,185,168,40,0,-156
+626,Oct 2 1999,COSAFA Cup in Namibia,Namibia,Angola,1322,1489,1,1,4,-4,1326,1485,122,81,3,-1,125,80,20,0,-167
+627,Oct 2 1999,South Asian Games in Nepal,Nepal,Maldives,762,909,2,1,23,-23,785,886,205,199,1,-1,206,198,40,100,-47
+628,Oct 4 1999,South Asian Games in Nepal,India,Maldives,1115,886,3,1,13,-13,1128,873,162,200,3,-1,165,199,40,0,229
+629,Oct 4 1999,South Asian Games in Nepal,Nepal,Bangladesh,785,1015,0,1,-13,13,772,1028,208,183,-1,1,207,184,40,100,-130
+630,Oct 5 1999,European Championship qual in Scotland,Scotland,Bosnia and Herzegovina,1698,1524,1,0,7,-7,1705,1517,32,78,3,-2,35,76,40,100,274
+631,Oct 6 1999,CONCACAF Champ qual in the United States,Canada,Cuba,1541,1532,0,0,-1,1,1540,1533,69,70,-1,0,68,70,40,0,9
+632,Oct 6 1999,CONCACAF Champ qual in the United States,El Salvador,Haiti,1426,1395,1,1,-2,2,1424,1397,105,106,-2,1,103,107,40,0,31
+633,Oct 6 1999,European Championship qual in Greece,Greece,Albania,1699,1421,2,0,6,-6,1705,1415,33,104,2,0,35,104,40,100,378
+634,Oct 8 1999,CONCACAF Champ qual in the United States,Canada,El Salvador,1540,1424,2,1,14,-14,1554,1410,62,107,3,-2,65,105,40,0,116
+635,Oct 8 1999,CONCACAF Champ qual in the United States,Haiti,Cuba,1397,1533,1,0,27,-27,1424,1506,99,84,4,-7,103,77,40,0,-136
+636,Oct 9 1999,European Championship qual in Albania,Albania,Georgia,1415,1530,2,1,21,-21,1436,1509,88,79,8,-4,96,75,40,100,-15
+637,Oct 9 1999,European Championship qual in Andorra,Andorra,Armenia,1049,1350,0,3,-17,17,1032,1367,184,110,-1,3,183,113,40,100,-201
+638,Oct 9 1999,European Championship qual in Azerbaijan,Azerbaijan,Slovakia,1335,1689,0,1,-8,8,1327,1697,127,39,-4,1,123,40,40,100,-254
+639,Oct 9 1999,European Championship qual in Belarus,Belarus,Italy,1397,1971,0,0,18,-18,1415,1953,102,6,3,-1,105,5,40,100,-474
+640,Oct 9 1999,European Championship qual in Croatia,Croatia,Yugoslavia,1928,1929,2,2,-6,6,1922,1935,10,7,-1,0,9,7,40,100,99
+641,Oct 9 1999,European Championship qual in Czechia,Czechia,Faroe Islands,1941,1187,2,0,0,0,1941,1187,6,157,0,0,6,157,20,0,754
+642,Oct 9 1999,European Championship qual in Estonia,Estonia,Bosnia and Herzegovina,1326,1517,1,4,-26,26,1300,1543,139,61,-7,7,132,68,40,100,-91
+643,Oct 9 1999,European Championship qual in Finland,Finland,Northern Ireland,1546,1534,4,1,24,-24,1570,1510,58,79,4,-5,62,74,40,100,112
+644,Oct 9 1999,European Championship qual in France,France,Iceland,2029,1557,3,2,1,-1,2030,1556,2,66,0,-1,2,65,20,0,472
+645,Oct 9 1999,European Championship qual in Germany,Germany,Turkey,1886,1721,0,0,-13,13,1873,1734,16,34,0,-1,16,33,40,100,265
+646,Oct 9 1999,European Championship qual in Latvia,Latvia,Norway,1476,1913,1,2,-5,5,1471,1918,85,9,-1,1,84,10,40,100,-337
+647,Oct 9 1999,European Championship qual in Liechtenstein,Liechtenstein,Romania,1090,1901,0,3,-1,1,1089,1902,176,15,0,0,176,15,20,100,-711
+648,Oct 9 1999,European Championship qual in Macedonia,Macedonia,Ireland,1542,1778,1,1,7,-7,1549,1771,67,25,0,-1,67,24,40,100,-136
+649,Oct 9 1999,Friendly in the Netherlands,Netherlands,Brazil,1957,2094,2,2,1,-1,1958,2093,3,1,1,0,4,1,20,100,-37
+650,Oct 9 1999,European Championship qual in Portugal,Portugal,Hungary,1903,1627,3,0,7,-7,1910,1620,13,51,0,0,13,51,40,100,376
+651,Oct 9 1999,European Championship qual in Russia,Russia,Ukraine,1829,1735,1,1,-10,10,1819,1745,18,27,0,2,18,29,40,100,194
+652,Oct 9 1999,European Championship qual in Scotland,Scotland,Lithuania,1705,1471,3,0,9,-9,1714,1462,37,91,-1,-3,36,88,40,100,334
+653,Oct 9 1999,European Championship qual in Slovenia,Slovenia,Greece,1609,1705,0,3,-35,35,1574,1740,67,27,-6,4,61,31,40,100,4
+654,Oct 9 1999,European Championship qual in Sweden,Sweden,Poland,1903,1753,2,0,12,-12,1915,1741,11,33,1,-3,12,30,40,100,250
+655,Oct 9 1999,European Championship qual in Wales,Wales,Switzerland,1594,1705,0,2,-29,29,1565,1734,68,31,-5,2,63,33,40,100,-11
+656,Oct 10 1999,European Championship qual in Austria,Austria,Cyprus,1698,1527,3,1,10,-10,1708,1517,35,77,2,-3,37,74,40,100,271
+657,Oct 10 1999,European Championship qual in Bulgaria,Bulgaria,Luxembourg,1666,1191,3,0,2,-2,1668,1189,43,155,0,0,43,155,20,0,475
+658,Oct 10 1999,CONCACAF Champ qual in the United States,Canada,Haiti,1554,1424,2,1,13,-13,1567,1411,60,106,3,-1,63,105,40,0,130
+659,Oct 10 1999,CONCACAF Champ qual in the United States,Cuba,El Salvador,1506,1410,3,1,22,-22,1528,1388,65,114,6,-4,71,110,40,0,96
+660,Oct 10 1999,Friendly in Denmark,Denmark,Iran,1870,1762,0,0,-5,5,1865,1767,17,24,0,1,17,25,20,100,208
+661,Oct 10 1999,Friendly in England,England,Belgium,1916,1774,2,1,4,-4,1920,1770,9,25,1,-1,10,24,20,100,242
+662,Oct 10 1999,European Championship qual in Spain,Spain,Israel,2024,1716,3,0,6,-6,2030,1710,1,37,1,-1,2,36,40,100,408
+663,Oct 12 1999,Friendly in Hong Kong,Hong Kong,Mauritius,1174,1232,4,3,9,-9,1183,1223,154,148,4,0,158,148,20,100,42
+664,Oct 12 1999,Friendly in Panama,Panama,Trinidad and Tobago,1328,1598,2,2,5,-5,1333,1593,120,57,1,-1,121,56,20,100,-170
+665,Oct 12 1999,Friendly in Uruguay,Uruguay,Ecuador,1749,1676,0,0,-5,5,1744,1681,30,42,-1,0,29,42,20,100,173
+666,Oct 13 1999,Friendly in Argentina,Argentina,Colombia,1908,1786,2,1,4,-4,1912,1782,12,23,1,-1,13,22,20,100,222
+667,Oct 13 1999,Friendly in the United States,Paraguay,Mexico,1800,1928,1,0,14,-14,1814,1914,18,16,1,-4,19,12,20,0,-128
+668,Oct 15 1999,Friendly in Guatemala,Guatemala,Paraguay,1562,1814,0,0,4,-4,1566,1810,63,21,1,-1,64,20,20,100,-152
+669,Oct 16 1999,Friendly in Tunisia,Tunisia,United Arab Emirates,1637,1477,1,0,4,-4,1641,1473,46,84,2,-1,48,83,20,100,260
+670,Oct 18 1999,Asian Cup qualifier in Hong Kong,Hong Kong,Cambodia,1183,958,4,1,9,-9,1192,949,152,192,3,0,155,192,40,100,325
+671,Oct 20 1999,Friendly in the United States,Colombia,Mexico,1782,1914,0,0,4,-4,1786,1910,20,14,1,-1,21,13,20,0,-132
+672,Oct 24 1999,Friendly in the Cayman Islands,Cayman Islands,Jamaica,1123,1588,1,4,-4,4,1119,1592,168,56,0,1,168,57,20,100,-365
+673,Oct 24 1999,Asian Cup qualifier in Hong Kong,Hong Kong,Indonesia,1192,1334,1,1,2,-2,1194,1332,153,123,1,-2,154,121,30,100,-42
+674,Oct 27 1999,Friendly in the United States,Ecuador,Mexico,1681,1910,0,0,6,-6,1687,1904,42,15,0,-1,42,14,20,0,-229
+675,Oct 30 1999,Asian Cup qualifier in Cambodia,Cambodia,Indonesia,949,1332,1,5,-12,12,937,1344,196,113,-2,4,194,117,40,100,-283
+676,Oct 30 1999,Friendly in the Dem Rep of the Congo,DR Congo,Congo,1519,1468,1,1,-4,4,1515,1472,76,85,-2,0,74,85,20,100,151
+677,Oct 30 1999,Friendly tournament in the United Arab Emirates,Estonia,Iraq,1300,1611,1,1,11,-11,1311,1600,128,54,2,0,130,54,30,0,-311
+678,Oct 30 1999,Friendly in Ivory Coast,Ivory Coast,Gabon,1596,1458,0,1,-16,16,1580,1474,65,76,-5,8,60,84,20,100,238
+679,Oct 30 1999,Friendly tournament in the United Arab Emirates,United Arab Emirates,Turkmenistan,1473,1434,3,1,14,-14,1487,1420,77,108,3,-5,80,103,30,100,139
+680,Oct 31 1999,Friendly in Tunisia,Tunisia,Zambia,1641,1617,2,1,7,-7,1648,1610,44,54,2,-1,46,53,20,100,124
+681,Nov 1 1999,Friendly tournament in the United Arab Emirates,Iraq,Turkmenistan,1600,1420,3,0,14,-14,1614,1406,52,109,1,-3,53,106,30,0,180
+682,Nov 1 1999,Friendly tournament in the United Arab Emirates,United Arab Emirates,Estonia,1487,1311,2,2,-10,10,1477,1321,84,126,-2,2,82,128,30,100,276
+683,Nov 2 1999,Friendly in Tunisia,Tunisia,Zambia,1648,1610,0,0,-4,4,1644,1614,48,52,-1,1,47,53,20,100,138
+684,Nov 3 1999,Copa Paz del Chaco in Argentina,Bolivia,Paraguay,1639,1810,0,0,7,-7,1646,1803,45,20,2,0,47,20,30,0,-171
+685,Nov 3 1999,Friendly tournament in the United Arab Emirates,Estonia,Turkmenistan,1321,1406,1,1,4,-4,1325,1402,124,108,2,-1,126,107,30,0,-85
+686,Nov 3 1999,Friendly tournament in the United Arab Emirates,United Arab Emirates,Iraq,1477,1614,2,2,2,-2,1479,1612,82,55,0,-1,82,54,30,100,-37
+687,Nov 7 1999,Friendly in Burkina Faso,Burkina Faso,Togo,1461,1374,1,0,5,-5,1466,1369,86,112,2,0,88,112,20,100,187
+688,Nov 7 1999,Asian Cup qualifier in Cambodia,Cambodia,Hong Kong,937,1194,0,1,-12,12,925,1206,198,146,-2,4,196,150,40,100,-157
+689,Nov 7 1999,Unifac Cup in Gabon,Chad,Central African Republic,1241,1209,1,1,-2,2,1239,1211,146,149,0,0,146,149,40,0,32
+690,Nov 7 1999,Unifac Cup in Gabon,Gabon,Equatorial Guinea,1474,1070,4,0,4,-4,1478,1066,82,180,1,-1,83,179,40,100,504
+691,Nov 8 1999,Unifac Cup in Gabon,Central African Republic,Chad,1211,1239,4,1,38,-38,1249,1201,139,160,5,-7,144,153,40,0,-28
+692,Nov 10 1999,Friendly in Burkina Faso,Burkina Faso,Togo,1466,1369,1,1,-5,5,1461,1374,92,112,-2,0,90,112,20,100,197
+693,Nov 10 1999,Unifac Cup in Gabon,Chad,São Tomé and Príncipe,1201,1034,5,0,22,-22,1223,1012,143,188,5,-3,148,185,40,0,167
+694,Nov 10 1999,Unifac Cup in Gabon,Congo,Equatorial Guinea,1472,1066,2,1,4,-4,1476,1062,83,181,1,-1,84,180,40,0,406
+695,Nov 10 1999,Unifac Cup in Gabon,Gabon,Central African Republic,1478,1249,1,0,5,-5,1483,1244,79,144,2,0,81,144,40,100,329
+696,Nov 10 1999,Friendly in Guatemala,Guatemala,Honduras,1566,1589,1,1,-2,2,1564,1591,66,57,-1,0,65,57,20,100,77
+697,Nov 11 1999,Unifac Cup in Gabon,Chad,Congo,1223,1476,2,0,49,-49,1272,1427,128,116,10,-16,138,100,40,0,-253
+698,Nov 11 1999,Unifac Cup in Gabon,Equatorial Guinea,Central African Republic,1062,1244,4,2,44,-44,1106,1200,164,162,8,-9,172,153,40,0,-182
+699,Nov 11 1999,Unifac Cup in Gabon,Gabon,São Tomé and Príncipe,1483,1012,1,0,1,-1,1484,1011,81,185,0,0,81,185,20,0,471
+700,Nov 12 1999,Unifac Cup in Gabon,Congo,São Tomé and Príncipe,1427,1011,1,0,3,-3,1430,1008,98,185,1,0,99,185,30,0,416
+701,Nov 12 1999,Friendly in Egypt,Egypt,Ghana,1660,1582,1,2,-15,15,1645,1597,49,51,-2,4,47,55,20,100,178
+702,Nov 13 1999,Leeward Islands Champ in Antigua and Barbuda,Antigua and Barbuda,British Virgin Islands,1177,866,5,1,5,-5,1182,861,158,202,1,-1,159,201,20,0,311
+703,Nov 13 1999,Unifac Cup in Gabon,Chad,Equatorial Guinea,1272,1106,1,0,11,-11,1283,1095,132,178,3,-3,135,175,40,0,166
+704,Nov 13 1999,Unifac Cup in Gabon,Central African Republic,São Tomé and Príncipe,1200,1008,3,0,17,-17,1217,991,145,193,4,-4,149,189,40,0,192
+705,Nov 13 1999,Friendly in France,France,Croatia,2030,1922,3,0,8,-8,2038,1914,2,14,0,-3,2,11,20,100,208
+706,Nov 13 1999,Unifac Cup in Gabon,Gabon,Congo,1484,1430,0,0,-8,8,1476,1438,85,91,-2,4,83,95,40,100,154
+707,Nov 13 1999,Friendly in Greece,Greece,Nigeria,1740,1691,2,0,9,-9,1749,1682,25,41,3,0,28,41,20,100,149
+708,Nov 13 1999,European Championship qual in Ireland,Ireland,Turkey,1771,1734,1,1,-8,8,1763,1742,27,27,-2,3,25,30,40,100,137
+709,Nov 13 1999,European Championship qual in Israel,Israel,Denmark,1710,1865,0,5,-34,34,1676,1899,48,15,-6,1,42,16,40,100,-55
+710,Nov 13 1999,Friendly in Italy,Italy,Belgium,1953,1770,1,3,-25,25,1928,1795,11,18,-3,3,8,21,20,100,283
+711,Nov 13 1999,Friendly in the Netherlands,Netherlands,Czechia,1958,1941,1,1,-3,3,1955,1944,4,4,0,1,4,5,20,100,117
+712,Nov 13 1999,European Championship qual in Scotland,Scotland,England,1714,1920,0,2,-21,21,1693,1941,43,3,-4,3,39,6,40,100,-106
+713,Nov 13 1999,European Championship qual in Slovenia,Slovenia,Ukraine,1574,1745,2,1,24,-24,1598,1721,49,40,6,-6,55,34,40,100,-71
+714,Nov 13 1999,Friendly in Spain,Spain,Brazil,2030,2093,0,0,-1,1,2029,2094,4,1,-1,0,3,1,20,100,37
+715,Nov 14 1999,Leeward Islands Champ in Antigua and Barbuda,Antigua and Barbuda,Saint Kitts,1182,1265,2,3,-16,16,1166,1281,165,130,-3,5,162,135,30,100,17
+716,Nov 14 1999,Unifac Cup in Gabon,Central African Republic,Congo,1217,1438,4,2,47,-47,1264,1391,133,121,8,-13,141,108,40,0,-221
+717,Nov 14 1999,Friendly in Egypt,Egypt,Namibia,1645,1326,1,0,2,-2,1647,1324,43,129,2,-2,45,127,20,100,419
+718,Nov 14 1999,Unifac Cup in Gabon,Gabon,Chad,1476,1283,2,0,9,-9,1485,1274,77,143,3,-4,80,139,40,100,293
+719,Nov 14 1999,Asian Cup qualifier in Indonesia,Indonesia,Hong Kong,1344,1206,3,1,12,-12,1356,1194,117,158,0,-4,117,154,40,100,238
+720,Nov 14 1999,Friendly in Norway,Norway,Germany,1918,1873,0,1,-14,14,1904,1887,17,17,-4,0,13,17,20,100,145
+721,Nov 14 1999,Unifac Cup in Gabon,São Tomé and Príncipe,Equatorial Guinea,991,1095,2,0,39,-39,1030,1056,177,185,6,-5,183,180,40,0,-104
+722,Nov 17 1999,European Championship qual in Denmark,Denmark,Israel,1899,1676,3,0,9,-9,1908,1667,8,42,4,0,12,42,40,100,323
+723,Nov 17 1999,European Championship qual in England,England,Scotland,1941,1693,0,1,-35,35,1906,1728,20,29,-7,5,13,34,40,100,348
+724,Nov 17 1999,Friendly in Greece,Greece,Bulgaria,1749,1668,1,0,5,-5,1754,1663,26,43,1,0,27,43,20,100,181
+725,Nov 17 1999,Friendly in Honduras,Honduras,Trinidad and Tobago,1591,1593,3,2,7,-7,1598,1586,53,61,3,-2,56,59,20,100,98
+726,Nov 17 1999,Friendly in Morocco,Morocco,United States,1783,1813,2,1,8,-8,1791,1805,21,21,1,-1,22,20,20,100,70
+727,Nov 17 1999,Friendly in Peru,Peru,Slovakia,1740,1697,2,1,6,-6,1746,1691,26,40,3,-1,29,39,20,100,143
+728,Nov 17 1999,Friendly in Spain,Spain,Argentina,2029,1912,0,2,-23,23,2006,1935,3,1,0,5,3,6,20,100,217
+729,Nov 17 1999,European Championship qual in Turkey,Turkey,Ireland,1742,1763,0,0,-4,4,1738,1767,32,23,-1,1,31,24,40,100,79
+730,Nov 17 1999,European Championship qual in Ukraine,Ukraine,Slovenia,1721,1598,1,1,-11,11,1710,1609,36,55,-1,0,35,55,40,100,223
+731,Nov 17 1999,Friendly in Uruguay,Uruguay,Paraguay,1744,1803,0,1,-11,11,1733,1814,37,18,-4,1,33,19,20,100,41
+732,Nov 19 1999,Friendly in Colombia,Colombia,Slovakia,1786,1691,1,0,5,-5,1791,1686,21,41,1,-1,22,40,20,100,195
+733,Nov 19 1999,Friendly in Libya,Libya,Togo,1426,1374,2,1,6,-6,1432,1368,96,112,2,0,98,112,20,100,152
+734,Nov 20 1999,Asian Cup qualifier in Indonesia,Indonesia,Cambodia,1356,925,9,2,4,-4,1360,921,115,196,1,0,116,196,40,100,531
+735,Nov 20 1999,Friendly in Senegal,Senegal,Ivory Coast,1498,1580,3,0,17,-17,1515,1563,70,69,4,-4,74,65,20,100,18
+736,Nov 21 1999,Friendly in Gabon,Gabon,Nigeria,1485,1682,0,2,-11,11,1474,1693,88,37,-4,2,84,39,20,100,-97
+737,Nov 21 1999,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,India,1479,1128,3,1,4,-4,1483,1124,79,169,2,-2,81,167,20,0,351
+738,Nov 21 1999,Asian Cup qualifier in the United Arab Emirates,Uzbekistan,Bangladesh,1541,1028,6,0,4,-4,1545,1024,67,186,1,-1,68,185,40,0,513
+739,Nov 23 1999,Friendly in Guatemala,Guatemala,Slovakia,1564,1686,0,1,-9,9,1555,1695,68,37,-2,2,66,39,20,100,-22
+740,Nov 23 1999,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Bangladesh,1483,1024,3,0,3,-3,1486,1021,79,185,1,0,80,185,30,0,459
+741,Nov 23 1999,Asian Cup qualifier in the United Arab Emirates,Uzbekistan,Sri Lanka,1545,848,6,0,2,-2,1547,846,68,204,0,-1,68,203,40,0,697
+742,Nov 24 1999,Friendly in Lebanon,Lebanon,Malta,1362,1203,0,0,-6,6,1356,1209,119,150,-2,0,117,150,20,100,259
+743,Nov 25 1999,Asian Cup qualifier in the United Arab Emirates,Bangladesh,Sri Lanka,1021,846,3,1,16,-16,1037,830,179,205,3,-1,182,204,40,0,175
+744,Nov 25 1999,Friendly in Costa Rica,Costa Rica,Slovakia,1615,1695,4,0,18,-18,1633,1677,50,43,1,-2,51,41,20,100,20
+745,Nov 25 1999,Asian Cup qualifier in the United Arab Emirates,Uzbekistan,India,1547,1124,3,2,3,-3,1550,1121,66,167,1,0,67,167,40,0,423
+746,Nov 26 1999,Friendly tournament in Gabon,Gabon,Togo,1474,1368,0,0,-8,8,1466,1376,88,112,-2,0,86,112,30,100,206
+747,Nov 27 1999,Friendly tournament in Gabon,Congo,Burkina Faso,1391,1461,2,1,18,-18,1409,1443,100,95,4,-3,104,92,30,0,-70
+748,Nov 27 1999,Asian Cup qualifier in the United Arab Emirates,India,Sri Lanka,1121,830,3,1,9,-9,1130,821,163,204,2,0,165,204,40,0,291
+749,Nov 27 1999,Friendly tournament in South Africa,South Africa,Sweden,1639,1915,1,0,22,-22,1661,1893,40,23,5,-7,45,16,30,100,-176
+750,Nov 27 1999,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Uzbekistan,1486,1550,0,1,-22,22,1464,1572,94,55,-7,6,87,61,40,100,36
+751,Nov 27 1999,Friendly in Zimbabwe,Zimbabwe,Libya,1489,1432,2,1,6,-6,1495,1426,79,102,0,-2,79,100,20,100,157
+752,Nov 28 1999,Friendly tournament in Gabon,Congo,Togo,1409,1376,2,1,14,-14,1423,1362,100,116,2,-2,102,114,30,0,33
+753,Nov 28 1999,Friendly tournament in Gabon,Gabon,Burkina Faso,1466,1443,3,2,10,-10,1476,1433,79,100,3,-4,82,96,30,100,123
+754,Nov 29 1999,Asian Cup qualifier in the United Arab Emirates,Bangladesh,India,1037,1130,2,2,5,-5,1042,1125,182,169,0,-2,182,167,40,0,-93
+755,Nov 29 1999,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Sri Lanka,1464,821,6,0,1,-1,1465,820,85,204,1,0,86,204,20,0,643
+756,Dec 1 1999,Friendly in Congo,Congo,DR Congo,1423,1515,0,1,-10,10,1413,1525,104,70,-1,2,103,72,20,100,8
+757,Dec 1 1999,Friendly in Peru,Peru,Honduras,1746,1598,0,0,-6,6,1740,1604,31,56,-1,0,30,56,20,100,248
+758,Dec 4 1999,Friendly in The Gambia,Gambia,Sierra Leone,1303,1433,0,0,1,-1,1304,1432,132,100,0,-2,132,98,20,100,-30
+759,Dec 4 1999,Friendly in Malawi,Malawi,Libya,1269,1426,1,2,-8,8,1261,1434,144,92,-2,4,142,96,20,100,-57
+760,Dec 5 1999,Friendly in Panama,Panama,Cuba,1333,1528,1,0,13,-13,1346,1515,115,77,3,-3,118,74,20,100,-95
+761,Dec 11 1999,Friendly in Malawi,Malawi,Rwanda,1261,1176,1,1,-5,5,1256,1181,144,158,-1,1,143,159,20,100,185
+762,Dec 12 1999,Friendly in Senegal,Senegal,Gambia,1515,1304,3,0,5,-5,1520,1299,70,134,2,-1,72,133,20,100,311
+763,Dec 12 1999,Friendly in Saint Lucia,Saint Lucia,Dominica,1263,1134,3,1,6,-6,1269,1128,139,164,1,0,140,164,20,100,229
+764,Dec 13 1999,Friendly in Malawi,Malawi,Rwanda,1256,1181,1,1,-5,5,1251,1186,147,159,-2,0,145,159,20,100,175
+765,Dec 13 1999,Friendly in Saint Lucia,Saint Lucia,Dominica,1269,1128,2,1,4,-4,1273,1124,140,170,0,-3,140,167,20,100,241
+766,Dec 14 1999,Friendly in Greece,Greece,Ghana,1754,1597,1,1,-6,6,1748,1603,29,57,-1,0,28,57,20,100,257
+767,Dec 15 1999,Friendly in Malawi,Malawi,Rwanda,1251,1186,1,2,-14,14,1237,1200,151,147,-3,6,148,153,20,100,165
+768,Dec 15 1999,Friendly in Malta,Malta,Lebanon,1209,1356,1,0,11,-11,1220,1345,150,119,0,-1,150,118,20,100,-47
+769,Dec 16 1999,Friendly in Greece,Greece,Moldova,1748,1426,2,0,2,-2,1750,1424,28,101,0,0,28,101,20,100,422
+770,Dec 16 1999,Friendly in Honduras,Honduras,Zambia,1604,1614,7,1,16,-16,1620,1598,48,61,4,-4,52,57,20,100,90
+771,Dec 18 1999,Friendly in Dominica,Dominica,Saint Lucia,1124,1273,2,1,11,-11,1135,1262,161,142,3,-1,164,141,20,100,-49
+772,Dec 18 1999,Friendly in Greece,Greece,Estonia,1750,1325,2,2,-9,9,1741,1334,28,117,0,4,28,121,20,100,525
+773,Dec 19 1999,Friendly in Dominica,Dominica,Saint Lucia,1135,1262,2,1,11,-11,1146,1251,164,147,0,-3,164,144,20,100,-27
+774,Dec 21 1999,Friendly in Morocco,Morocco,Senegal,1791,1520,0,0,-8,8,1783,1528,24,70,-1,1,23,71,20,100,371
+775,Dec 22 1999,Friendly in Tunisia,Tunisia,Ghana,1644,1603,2,0,9,-9,1653,1594,43,58,3,-1,46,57,20,100,141
+776,Dec 23 1999,Friendly tournament in Libya,Libya,Gabon,1434,1476,2,0,19,-19,1453,1457,86,98,5,-8,91,90,30,100,58
+777,Dec 27 1999,Friendly tournament in Libya,Gabon,Togo,1457,1362,3,2,11,-11,1468,1351,78,118,6,-2,84,116,30,0,95
+778,Dec 28 1999,Friendly in the United Arab Emirates,Malaysia,Singapore,1195,1308,1,0,13,-13,1208,1295,148,135,3,-2,151,133,20,0,-113
+779,Dec 29 1999,Friendly in Costa Rica,Costa Rica,Honduras,1633,1620,1,1,-3,3,1630,1623,51,52,0,0,51,52,20,100,113
+780,Dec 29 1999,Friendly in Ivory Coast,Ivory Coast,Burkina Faso,1563,1433,3,1,6,-6,1569,1427,61,103,2,-3,63,100,20,100,230
+781,Dec 29 1999,Friendly tournament in Libya,Libya,Togo,1453,1351,2,0,11,-11,1464,1340,85,120,3,-2,88,118,20,0,102

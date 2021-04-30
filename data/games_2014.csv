@@ -1,0 +1,880 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 1 2014,West Asian Championship in Qatar,Jordan,Kuwait,1572,1573,2,1,20,-20,1592,1553,51,74,8,-4,59,70,40,0,-1
+1,Jan 4 2014,West Asian Championship in Qatar,Jordan,Bahrain,1592,1467,1,0,13,-13,1605,1454,55,101,2,-3,57,98,40,0,125
+2,Jan 4 2014,West Asian Championship in Qatar,Qatar,Kuwait,1500,1553,3,0,30,-30,1530,1523,63,84,12,-7,75,77,30,0,-53
+3,Jan 7 2014,West Asian Championship in Qatar,Bahrain,Kuwait,1454,1523,0,0,4,-4,1458,1519,96,77,1,0,97,77,40,0,-69
+4,Jan 7 2014,West Asian Championship in Qatar,Qatar,Jordan,1530,1605,2,0,28,-28,1558,1577,63,73,6,-8,69,65,40,100,25
+5,Jan 15 2014,Friendly in the United Arab Emirates,Norway,Moldova,1626,1445,2,1,5,-5,1631,1440,52,105,1,-2,53,103,20,0,181
+6,Jan 17 2014,Friendly in the United Arab Emirates,Sweden,Moldova,1826,1440,2,1,2,-2,1828,1438,19,105,0,-1,19,104,20,0,386
+7,Jan 18 2014,Friendly in the United Arab Emirates,Poland,Norway,1623,1631,3,0,18,-18,1641,1613,49,57,3,-2,52,55,20,0,-8
+8,Jan 20 2014,Friendly in the United Arab Emirates,Poland,Moldova,1641,1438,1,0,5,-5,1646,1433,50,104,1,0,51,104,20,0,203
+9,Jan 21 2014,Friendly in the United Arab Emirates,Sweden,Iceland,1828,1542,2,0,5,-5,1833,1537,19,74,0,0,19,74,20,0,286
+10,Jan 22 2014,Friendly in Chile,Chile,Costa Rica,1914,1735,4,0,6,-6,1920,1729,8,31,1,-1,9,30,20,100,279
+11,Jan 24 2014,Friendly in Oman,Oman,Finland,1567,1672,0,0,0,0,1567,1672,68,46,0,0,68,46,20,100,-5
+12,Jan 25 2014,Friendly in the United States,South Korea,Costa Rica,1685,1729,1,0,11,-11,1696,1718,40,36,2,-3,42,33,20,0,-44
+13,Jan 29 2014,Friendly in the United States,Mexico,South Korea,1798,1696,4,0,13,-13,1811,1683,20,46,1,-2,21,44,20,0,102
+14,Jan 31 2014,Asian Cup qualifier in Oman,Oman,Jordan,1567,1577,0,0,-5,5,1562,1582,68,61,0,2,68,63,40,100,90
+15,Feb 1 2014,Friendly in the United States,United States,South Korea,1862,1683,2,0,5,-5,1867,1678,13,46,0,-1,13,45,20,100,279
+16,Feb 4 2014,Asian Cup qualifier in Singapore,Singapore,Jordan,1263,1582,1,3,-13,13,1250,1595,148,53,-3,5,145,58,40,100,-219
+17,Feb 7 2014,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Dominica,1142,1015,3,2,4,-4,1146,1011,171,189,0,-1,171,188,20,100,227
+18,Feb 9 2014,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Dominica,1146,1011,0,0,-6,6,1140,1017,171,186,0,1,171,187,20,100,235
+19,Feb 19 2014,Friendly in Lebanon,Lebanon,Pakistan,1368,941,3,1,1,-1,1369,940,117,194,1,0,118,194,20,100,527
+20,Feb 21 2014,Friendly in the United Arab Emirates,Iraq,North Korea,1516,1582,2,0,18,-18,1534,1564,70,70,5,-3,75,67,20,0,-66
+21,Mar 1 2014,Friendly in Gibraltar,Gibraltar,Faroe Islands,1152,1183,1,4,-21,21,1131,1204,178,150,-5,5,173,155,20,100,69
+22,Mar 1 2014,Friendly in Malaysia,Malaysia,Philippines,1167,1192,0,0,-2,2,1165,1194,166,160,0,-1,166,159,20,100,75
+23,Mar 2 2014,Friendly in Barbados,Barbados,Jamaica,1133,1519,0,2,-5,5,1128,1524,174,76,-1,1,173,77,20,100,-286
+24,Mar 3 2014,Asian Cup qualifier in Iran,Iran,Kuwait,1730,1519,3,2,6,-6,1736,1513,29,87,0,-4,29,83,40,100,311
+25,Mar 5 2014,Friendly in Albania,Albania,Malta,1518,1252,2,0,3,-3,1521,1249,81,144,-1,0,80,144,20,100,366
+26,Mar 5 2014,Friendly in Algeria,Algeria,Slovenia,1587,1661,2,0,14,-14,1601,1647,56,52,3,-2,59,50,20,100,26
+27,Mar 5 2014,Friendly in Andorra,Andorra,Moldova,993,1433,0,3,-4,4,989,1437,192,104,0,0,192,104,20,100,-340
+28,Mar 5 2014,Friendly in Austria,Austria,Uruguay,1662,1919,1,1,4,-4,1666,1915,47,10,0,0,47,10,20,100,-157
+29,Mar 5 2014,Friendly in the United Arab Emirates,Azerbaijan,Philippines,1439,1194,1,0,4,-4,1443,1190,101,159,1,0,102,159,20,0,245
+30,Mar 5 2014,Friendly in Belgium,Belgium,Ivory Coast,1836,1778,2,2,-4,4,1832,1782,18,22,0,1,18,23,20,100,158
+31,Mar 5 2014,Friendly in Botswana,Botswana,South Sudan,1303,1061,3,0,4,-4,1307,1057,128,182,2,0,130,182,20,100,342
+32,Mar 5 2014,Friendly in Bulgaria,Bulgaria,Belarus,1642,1590,2,1,6,-6,1648,1584,46,63,3,-1,49,62,20,100,152
+33,Mar 5 2014,Friendly in France,Burkina Faso,Comoros,1549,870,1,1,-10,10,1539,880,75,201,-1,1,74,202,20,0,679
+34,Mar 5 2014,Friendly in Burundi,Burundi,Rwanda,1305,1300,1,1,-3,3,1302,1303,135,128,-2,3,133,131,20,100,105
+35,Mar 5 2014,Friendly in Spain,Colombia,Tunisia,1934,1506,1,1,-8,8,1926,1514,10,79,-2,3,8,82,20,0,428
+36,Mar 5 2014,Friendly in Costa Rica,Costa Rica,Paraguay,1718,1702,2,1,7,-7,1725,1695,27,45,3,-3,30,42,20,100,116
+37,Mar 5 2014,Friendly in Cyprus,Cyprus,Northern Ireland,1389,1410,0,0,-2,2,1387,1412,115,109,-2,0,113,109,20,100,79
+38,Mar 5 2014,Friendly in Czechia,Czechia,Norway,1761,1613,2,2,-6,6,1755,1619,28,55,-1,0,27,55,20,100,248
+39,Mar 5 2014,Friendly in England,Ecuador,Australia,1837,1729,4,3,7,-7,1844,1722,15,36,1,-3,16,33,20,0,108
+40,Mar 5 2014,Friendly in Austria,Egypt,Bosnia and Herzegovina,1695,1784,2,0,19,-19,1714,1765,28,27,7,-2,35,25,20,0,-89
+41,Mar 5 2014,Friendly in England,England,Denmark,1933,1747,1,0,3,-3,1936,1744,5,28,1,0,6,28,20,100,286
+42,Mar 5 2014,Friendly in France,France,Netherlands,1881,2004,2,0,16,-16,1897,1988,12,5,0,0,12,5,20,100,-23
+43,Mar 5 2014,Friendly in Georgia,Georgia,Liechtenstein,1497,1180,2,0,2,-2,1499,1178,88,163,0,-1,88,162,20,100,417
+44,Mar 5 2014,Friendly in Germany,Germany,Chile,2085,1920,1,0,4,-4,2089,1916,3,9,0,0,3,9,20,100,265
+45,Mar 5 2014,Friendly in Gibraltar,Gibraltar,Estonia,1131,1468,0,2,-6,6,1125,1474,174,94,-1,0,173,94,20,100,-237
+46,Mar 5 2014,Friendly in Greece,Greece,South Korea,1840,1678,0,2,-25,25,1815,1703,24,31,-4,7,20,38,20,100,262
+47,Mar 5 2014,Friendly in Honduras,Honduras,Venezuela,1686,1705,2,1,8,-8,1694,1697,43,45,0,-4,43,41,20,100,81
+48,Mar 5 2014,Friendly in Hungary,Hungary,Finland,1681,1672,1,2,-13,13,1668,1685,48,44,-2,1,46,45,20,100,109
+49,Mar 5 2014,Friendly in India,India,Bangladesh,1081,939,2,2,-6,6,1075,945,182,193,-2,1,180,194,20,100,242
+50,Mar 5 2014,Friendly in Iran,Iran,Guinea,1736,1515,1,2,-17,17,1719,1532,39,70,-5,5,34,75,20,100,321
+51,Mar 5 2014,Asian Cup qualifier in the United Arab Emirates,Iraq,China,1534,1591,3,1,35,-35,1569,1556,57,80,9,-10,66,70,40,0,-57
+52,Mar 5 2014,Friendly in Ireland,Ireland,Serbia,1713,1753,1,2,-12,12,1701,1765,44,23,-5,2,39,25,20,100,60
+53,Mar 5 2014,Friendly in Israel,Israel,Slovakia,1640,1606,1,3,-21,21,1619,1627,57,50,-2,3,55,53,20,100,134
+54,Mar 5 2014,Friendly in Japan,Japan,New Zealand,1764,1550,4,2,4,-4,1768,1546,23,74,1,-1,24,73,20,100,314
+55,Mar 5 2014,Asian Cup qualifier in Jordan,Jordan,Syria,1595,1467,2,1,8,-8,1603,1459,58,97,0,-1,58,96,40,100,228
+56,Mar 5 2014,Friendly in Turkey,Kazakhstan,Lithuania,1358,1460,1,1,3,-3,1361,1457,123,98,0,-1,123,97,20,0,-102
+57,Mar 5 2014,Friendly in Kosovo,Kosovo,Haiti,1379,1431,0,0,-1,1,1378,1432,121,105,-2,0,119,105,20,100,48
+58,Mar 5 2014,Friendly in Luxembourg,Luxembourg,Cape Verde,1208,1510,0,0,5,-5,1213,1505,154,90,0,-3,154,87,20,100,-202
+59,Mar 5 2014,Friendly in Macedonia,Macedonia,Latvia,1514,1454,2,1,6,-6,1520,1448,80,101,1,-1,81,100,20,100,160
+60,Mar 5 2014,Friendly in Malawi,Malawi,Zimbabwe,1335,1360,1,4,-21,21,1314,1381,129,114,-1,4,128,118,20,100,75
+61,Mar 5 2014,Asian Cup qualifier in the United Arab Emirates,Malaysia,Yemen,1165,1169,2,1,20,-20,1185,1149,156,171,5,-3,161,168,40,0,-4
+62,Mar 5 2014,Friendly in France,Mali,Senegal,1558,1570,1,1,0,0,1558,1570,69,64,0,1,69,65,20,0,-12
+63,Mar 5 2014,Friendly in Mauritania,Mauritania,Niger,1186,1291,1,1,0,0,1186,1291,160,137,0,0,160,137,20,100,-5
+64,Mar 5 2014,Friendly in the United States,Mexico,Nigeria,1811,1729,0,0,-2,2,1809,1731,23,28,-1,1,22,29,20,0,82
+65,Mar 5 2014,Friendly in Montenegro,Montenegro,Ghana,1601,1703,1,0,10,-10,1611,1693,57,50,0,-6,57,44,20,100,-2
+66,Mar 5 2014,Friendly in Morocco,Morocco,Gabon,1531,1502,1,1,-4,4,1527,1506,80,83,-2,2,78,85,20,100,129
+67,Mar 5 2014,Friendly in Mozambique,Mozambique,Angola,1369,1444,1,1,-1,1,1368,1445,122,101,-2,0,120,101,20,100,25
+68,Mar 5 2014,Friendly in Namibia,Namibia,Tanzania,1292,1384,1,1,0,0,1292,1384,135,115,0,-1,135,114,20,100,8
+69,Mar 5 2014,Asian Cup qualifier in Oman,Oman,Singapore,1562,1250,3,1,5,-5,1567,1245,66,145,1,0,67,145,40,100,412
+70,Mar 5 2014,Friendly in Poland,Poland,Scotland,1646,1699,0,1,-11,11,1635,1710,53,33,-1,4,52,37,20,100,47
+71,Mar 5 2014,Friendly in Portugal,Portugal,Cameroon,1930,1594,5,1,3,-3,1933,1591,6,63,1,-2,7,61,20,100,436
+72,Mar 5 2014,Asian Cup qualifier in Qatar,Qatar,Bahrain,1558,1458,0,0,-10,10,1548,1468,75,93,-3,2,72,95,40,100,200
+73,Mar 5 2014,Friendly in Romania,Romania,Argentina,1719,2021,0,0,5,-5,1724,2016,30,4,1,0,31,4,20,100,-202
+74,Mar 5 2014,Friendly in Russia,Russia,Armenia,1845,1581,2,0,3,-3,1848,1578,13,62,1,1,14,63,20,100,364
+75,Mar 5 2014,Asian Cup qualifier in Saudi Arabia,Saudi Arabia,Indonesia,1486,1228,1,0,5,-5,1491,1223,90,156,0,-3,90,153,40,100,358
+76,Mar 5 2014,Friendly in South Africa,South Africa,Brazil,1576,2132,0,5,-3,3,1573,2135,63,1,1,0,64,1,20,100,-456
+77,Mar 5 2014,Friendly in Spain,Spain,Italy,2104,1907,1,0,3,-3,2107,1904,2,11,0,0,2,11,20,100,297
+78,Mar 5 2014,Friendly in Saint Lucia,Saint Lucia,Jamaica,1051,1524,0,5,-4,4,1047,1528,186,75,-1,1,185,76,20,100,-373
+79,Mar 5 2014,Friendly in Switzerland,Switzerland,Croatia,1852,1806,2,2,-4,4,1848,1810,14,20,0,1,14,21,20,100,146
+80,Mar 5 2014,Asian Cup qualifier in Thailand,Thailand,Lebanon,1338,1369,2,5,-42,42,1296,1411,142,102,-8,8,134,110,40,100,69
+81,Mar 5 2014,Friendly in Turkey,Turkey,Sweden,1713,1833,2,1,11,-11,1724,1822,28,19,3,0,31,19,20,100,-20
+82,Mar 5 2014,Friendly in Cyprus,Ukraine,United States,1823,1867,2,0,17,-17,1840,1850,14,13,3,0,17,13,20,0,-44
+83,Mar 5 2014,Asian Cup qualifier in Uzbekistan,Uzbekistan,United Arab Emirates,1649,1649,1,1,-6,6,1643,1655,53,47,-2,1,51,48,40,100,100
+84,Mar 5 2014,Asian Cup qualifier in Vietnam,Vietnam,Hong Kong,1217,1176,3,1,18,-18,1235,1158,145,170,4,-4,149,166,40,100,141
+85,Mar 5 2014,Friendly in Wales,Wales,Iceland,1586,1537,3,1,9,-9,1595,1528,57,78,3,-2,60,76,20,100,149
+86,Mar 5 2014,Friendly in Zambia,Zambia,Uganda,1484,1515,2,1,8,-8,1492,1507,87,88,2,-4,89,84,20,100,69
+87,Mar 7 2014,Friendly in Lesotho,Lesotho,Swaziland,1237,1080,0,1,-16,16,1221,1096,159,175,-6,2,153,177,20,100,257
+88,Mar 9 2014,Friendly in Lesotho,Lesotho,Swaziland,1221,1096,0,0,-6,6,1215,1102,153,175,0,1,153,176,20,100,225
+89,Mar 19 2014,Friendly in Saint Lucia,Saint Lucia,Martinique,1047,1419,0,0,7,-7,1054,1412,183,109,1,-1,184,108,20,100,-272
+90,Mar 25 2014,Friendly in Qatar,Yemen,Nepal,1149,901,2,0,6,-6,1155,895,166,201,1,0,167,201,20,0,248
+91,Mar 26 2014,Friendly in Spain,Indonesia,Andorra,1223,989,1,0,4,-4,1227,985,148,192,2,0,150,192,20,0,234
+92,Mar 27 2014,Friendly in Aruba,Aruba,Guam,939,737,2,2,-7,7,932,744,198,212,-1,0,197,212,20,100,302
+93,Mar 29 2014,Friendly in Spain,Cuba,Indonesia,1416,1227,1,0,5,-5,1421,1222,107,154,0,-2,107,152,20,0,189
+94,Mar 30 2014,Friendly in Aruba,Aruba,Guam,932,744,2,0,5,-5,937,739,195,212,1,0,196,212,20,100,288
+95,Apr 2 2014,Friendly in the United States,United States,Mexico,1850,1809,2,2,-4,4,1846,1813,17,20,-2,1,15,21,20,100,141
+96,Apr 11 2014,Friendly in Qatar,Philippines,Nepal,1190,895,3,0,5,-5,1195,890,159,201,0,0,159,201,20,0,295
+97,Apr 12 2014,African Nations Cup qualifier in Mauritania,Mauritania,Mauritius,1186,1056,1,0,8,-8,1194,1048,160,187,0,-2,160,185,40,100,230
+98,Apr 13 2014,Friendly in the United Arab Emirates,Afghanistan,Kyrgyzstan,1051,1134,0,0,2,-2,1053,1132,184,171,0,0,184,171,20,0,-83
+99,Apr 15 2014,Friendly in Qatar,Chad,Yemen,1232,1155,0,0,-2,2,1230,1157,149,167,0,0,149,167,20,0,77
+100,Apr 17 2014,Friendly tournament in Guadeloupe,Guadeloupe,French Guiana,1384,1244,3,2,6,-6,1390,1238,110,146,2,0,112,146,20,0,140
+101,Apr 19 2014,Friendly tournament in Guadeloupe,Guadeloupe,Martinique,1390,1412,0,1,-18,18,1372,1430,126,104,-7,2,119,106,30,100,78
+102,Apr 20 2014,African Nations Cup qualifier in Mauritius,Mauritius,Mauritania,1048,1194,0,2,-26,26,1022,1220,187,146,-1,7,186,153,40,100,-46
+103,Apr 26 2014,Friendly in Tanzania,Tanzania,Burundi,1384,1302,0,3,-26,26,1358,1328,132,121,-9,6,123,127,20,100,182
+104,Apr 27 2014,Friendly in the Philippines,Philippines,Malaysia,1195,1185,0,0,-3,3,1192,1188,160,161,0,0,160,161,20,100,110
+105,Apr 30 2014,Windward Islands Champ in Dominica,Dominica,Saint Lucia,1017,1054,0,2,-27,27,990,1081,195,175,-4,4,191,179,30,100,63
+106,Apr 30 2014,Windward Islands Champ in Dominica,Grenada,St Vincent & Grenadines,1196,1140,0,0,-2,2,1194,1142,159,170,0,0,159,170,20,0,56
+107,May 2 2014,Windward Islands Champ in Dominica,Dominica,St Vincent & Grenadines,990,1142,2,3,-13,13,977,1155,193,166,-1,2,192,168,30,100,-52
+108,May 2 2014,Windward Islands Champ in Dominica,Saint Lucia,Grenada,1081,1194,1,0,20,-20,1101,1174,175,167,2,-4,177,163,30,0,-113
+109,May 4 2014,Windward Islands Champ in Dominica,Dominica,Grenada,977,1174,3,5,-16,16,961,1190,194,157,-1,3,193,160,30,100,-97
+110,May 4 2014,Windward Islands Champ in Dominica,Saint Lucia,St Vincent & Grenadines,1101,1155,0,0,2,-2,1103,1153,175,168,1,0,176,168,20,0,-54
+111,May 4 2014,Friendly in Tajikistan,Tajikistan,Afghanistan,1261,1053,1,0,3,-3,1264,1050,142,184,0,0,142,184,20,100,308
+112,May 4 2014,Friendly in Tanzania,Tanzania,Malawi,1358,1314,0,0,-4,4,1354,1318,125,127,-1,1,124,128,20,100,144
+113,May 10 2014,Friendly in Italy,Monaco,Vatican,902,693,2,0,7,-7,909,686,200,217,0,0,200,217,20,0,209
+114,May 11 2014,Friendly in Botswana,Botswana,Swaziland,1307,1102,1,4,-30,30,1277,1132,147,165,-8,6,139,171,20,100,305
+115,May 12 2014,Friendly in Kuwait,Afghanistan,Kyrgyzstan,1050,1132,1,0,12,-12,1062,1120,182,177,1,-3,183,174,20,0,-82
+116,May 13 2014,Friendly in Germany,Germany,Poland,2089,1635,0,0,-9,9,2080,1644,3,50,0,1,3,51,20,0,454
+117,May 13 2014,Friendly in the Maldives,Maldives,Laos,1081,855,7,1,6,-6,1087,849,178,206,1,0,179,206,20,100,326
+118,May 14 2014,Friendly in Kuwait,Kuwait,Afghanistan,1513,1062,3,2,1,-1,1514,1061,81,183,1,0,82,183,20,0,451
+119,May 16 2014,Friendly in Kuwait,Kuwait,Kyrgyzstan,1514,1120,2,2,-9,9,1505,1129,90,170,-4,2,86,172,20,100,494
+120,May 17 2014,African Nations Cup qualifier in Malawi,Malawi,Chad,1318,1230,2,0,15,-15,1333,1215,126,157,1,-4,127,153,40,100,188
+121,May 17 2014,African Nations Cup qualifier in Mauritania,Mauritania,Equatorial Guinea,1220,1303,1,0,19,-19,1239,1284,139,141,7,-5,146,136,30,0,-83
+122,May 17 2014,African Nations Cup qualifier in Namibia,Namibia,Congo,1292,1394,1,0,20,-20,1312,1374,126,123,4,-6,130,117,40,100,-2
+123,May 17 2014,Friendly in the Netherlands,Netherlands,Ecuador,1988,1844,1,1,-6,6,1982,1850,5,10,0,3,5,13,20,100,244
+124,May 17 2014,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Benin,1100,1388,0,2,-15,15,1085,1403,180,110,-1,1,179,111,40,100,-188
+125,May 18 2014,Friendly in Austria,Belarus,Iran,1584,1719,0,0,4,-4,1588,1715,62,34,0,0,62,34,20,0,-135
+126,May 18 2014,African Nations Cup qualifier in Burundi,Burundi,Botswana,1328,1277,0,0,-8,8,1320,1285,130,133,-1,3,129,136,40,100,151
+127,May 18 2014,African Nations Cup qualifier in Congo,Central African Republic,Guinea-Bissau,1270,1226,0,0,-3,3,1267,1229,140,150,0,0,140,150,40,0,44
+128,May 18 2014,African Nations Cup qualifier in Kenya,Kenya,Comoros,1442,880,1,0,1,-1,1443,879,101,202,1,0,102,202,20,0,562
+129,May 18 2014,African Nations Cup qualifier in Liberia,Liberia,Lesotho,1317,1215,1,0,10,-10,1327,1205,127,157,1,-2,128,155,40,100,202
+130,May 18 2014,African Nations Cup qualifier in Tunisia,Libya,Rwanda,1553,1303,0,0,-12,12,1541,1315,75,128,-2,2,73,130,40,0,250
+131,May 18 2014,African Nations Cup qualifier in Madagascar,Madagascar,Uganda,1164,1507,2,1,32,-32,1196,1475,153,103,6,-10,159,93,40,100,-243
+132,May 18 2014,African Nations Cup qualifier in Mozambique,Mozambique,South Sudan,1368,1057,5,0,7,-7,1375,1050,113,184,3,0,116,184,40,100,411
+133,May 18 2014,African Nations Cup qualifier in Swaziland,Swaziland,Sierra Leone,1132,1364,1,1,7,-7,1139,1357,171,126,0,-3,171,123,40,100,-132
+134,May 18 2014,African Nations Cup qualifier in Tanzania,Tanzania,Zimbabwe,1354,1381,1,0,16,-16,1370,1365,114,125,5,-5,119,120,30,0,-27
+135,May 19 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Maldives,Myanmar,1087,1005,2,3,-30,30,1057,1035,188,182,-5,3,183,185,40,100,182
+136,May 19 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Palestine,Kyrgyzstan,1292,1129,1,0,11,-11,1303,1118,132,176,1,-2,133,174,40,0,163
+137,May 20 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Afghanistan,Philippines,1061,1192,0,0,7,-7,1068,1185,180,164,1,-2,181,162,40,0,-131
+138,May 20 2014,Friendly in French Guiana,French Guiana,Suriname,1238,1236,0,0,-3,3,1235,1239,149,144,-1,2,148,146,20,100,102
+139,May 20 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Turkmenistan,Laos,1346,849,5,1,4,-4,1350,845,125,206,0,0,125,206,40,0,497
+140,May 21 2014,Friendly in Burkina Faso,Burkina Faso,Senegal,1539,1570,1,1,-2,2,1537,1572,74,65,0,0,74,65,20,100,69
+141,May 21 2014,Friendly in Finland,Finland,Czechia,1685,1755,2,2,-1,1,1684,1756,45,27,0,0,45,27,20,100,30
+142,May 21 2014,Friendly in Kosovo,Kosovo,Turkey,1378,1724,1,6,-8,8,1370,1732,121,27,-3,2,118,29,20,100,-246
+143,May 21 2014,Friendly in Liechtenstein,Liechtenstein,Belarus,1178,1588,1,5,-5,5,1173,1593,167,60,-2,1,165,61,20,100,-310
+144,May 21 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Maldives,Kyrgyzstan,1057,1118,2,0,27,-27,1084,1091,177,180,3,-3,180,177,40,100,39
+145,May 21 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Palestine,Myanmar,1303,1035,2,0,11,-11,1314,1024,129,187,2,-1,131,186,40,0,268
+146,May 22 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Afghanistan,Turkmenistan,1068,1350,3,1,50,-50,1118,1300,166,141,8,-8,174,133,40,0,-282
+147,May 22 2014,Friendly in Hungary,Hungary,Denmark,1668,1744,2,2,-1,1,1667,1745,46,28,0,0,46,28,20,100,24
+148,May 22 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Philippines,Laos,1185,845,2,0,7,-7,1192,838,158,208,2,-1,160,207,40,0,340
+149,May 22 2014,Friendly in Ukraine,Ukraine,Niger,1840,1291,2,1,0,0,1840,1291,17,135,0,0,17,135,20,100,649
+150,May 23 2014,Friendly in Austria,Bulgaria,Canada,1648,1488,1,1,-4,4,1644,1492,51,86,-1,2,50,88,20,0,160
+151,May 23 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Kyrgyzstan,Myanmar,1091,1024,1,0,16,-16,1107,1008,176,190,1,-2,177,188,40,0,67
+152,May 23 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Maldives,Palestine,1084,1314,0,0,7,-7,1091,1307,177,134,2,-2,179,132,40,100,-130
+153,May 23 2014,Friendly in Portugal,Morocco,Mozambique,1527,1375,4,0,11,-11,1538,1364,70,125,4,-5,74,120,20,0,152
+154,May 23 2014,Friendly in Slovakia,Slovakia,Montenegro,1627,1611,2,0,10,-10,1637,1601,53,59,0,-1,53,58,20,100,116
+155,May 24 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Afghanistan,Laos,1118,838,0,0,-13,13,1105,851,180,205,-3,1,177,206,40,0,280
+156,May 24 2014,Friendly in Spain,Moldova,Saudi Arabia,1437,1491,4,0,22,-22,1459,1469,88,98,8,-4,96,94,20,0,-54
+157,May 24 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Philippines,Turkmenistan,1192,1300,2,0,39,-39,1231,1261,140,151,10,-9,150,142,40,0,-108
+158,May 25 2014,Friendly in France,Guinea,Mali,1532,1558,2,1,11,-11,1543,1547,70,73,3,-2,73,71,20,0,-26
+159,May 25 2014,Friendly in Ireland,Ireland,Turkey,1701,1732,1,2,-12,12,1689,1744,49,29,-5,0,44,29,20,100,69
+160,May 25 2014,Friendly in Switzerland,Senegal,Kosovo,1572,1370,3,1,7,-7,1579,1363,61,123,2,-3,63,120,20,0,202
+161,May 26 2014,Friendly in Australia,Australia,South Africa,1722,1573,1,1,-6,6,1716,1579,33,61,0,2,33,63,20,100,249
+162,May 26 2014,Friendly in Belgium,Belgium,Luxembourg,1832,1213,5,1,1,-1,1833,1212,18,155,0,0,18,155,20,0,619
+163,May 26 2014,Friendly in Austria,Cameroon,Macedonia,1591,1520,2,0,12,-12,1603,1508,54,83,4,-1,58,82,20,0,71
+164,May 26 2014,Friendly in Estonia,Estonia,Gibraltar,1474,1125,1,1,-9,9,1465,1134,97,171,-2,1,95,172,20,100,449
+165,May 26 2014,Friendly in Austria,Iran,Montenegro,1715,1601,0,0,-3,3,1712,1604,36,56,-1,1,35,57,20,0,114
+166,May 26 2014,Friendly in Russia,Russia,Slovakia,1848,1637,1,0,3,-3,1851,1634,12,53,1,0,13,53,20,100,311
+167,May 26 2014,Friendly in the United States,Serbia,Jamaica,1765,1528,2,1,4,-4,1769,1524,23,79,1,-1,24,78,20,0,237
+168,May 27 2014,Friendly in Switzerland,Armenia,United Arab Emirates,1578,1655,4,3,12,-12,1590,1643,61,54,2,-3,63,51,20,0,-77
+169,May 27 2014,Friendly in Austria,Canada,Moldova,1492,1459,1,1,-1,1,1491,1460,90,96,-1,0,89,96,20,0,33
+170,May 27 2014,Friendly in France,France,Norway,1897,1619,4,0,4,-4,1901,1615,12,57,0,-1,12,56,20,100,378
+171,May 27 2014,Friendly in Japan,Japan,Cyprus,1768,1387,1,0,1,-1,1769,1386,23,112,1,0,24,112,20,100,481
+172,May 27 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Maldives,Philippines,1091,1231,2,3,-18,18,1073,1249,185,138,-3,6,182,144,40,100,-40
+173,May 27 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Palestine,Afghanistan,1307,1105,2,0,14,-14,1321,1091,124,179,4,-1,128,178,40,0,202
+174,May 27 2014,Friendly in Suriname,Suriname,French Guiana,1239,1235,1,0,7,-7,1246,1228,146,154,0,-3,146,151,20,100,104
+175,May 27 2014,Friendly in Tanzania,Tanzania,Malawi,1370,1333,1,0,6,-6,1376,1327,113,126,2,0,115,126,20,100,137
+176,May 27 2014,Friendly in the United States,United States,Azerbaijan,1846,1443,2,0,2,-2,1848,1441,14,105,1,-1,15,104,20,100,503
+177,May 27 2014,Friendly in Uzbekistan,Uzbekistan,Oman,1643,1567,0,1,-15,15,1628,1582,54,61,-1,3,53,64,20,100,176
+178,May 28 2014,Friendly in Portugal,Angola,Morocco,1445,1538,2,0,19,-19,1464,1519,90,87,6,-6,96,81,20,0,-93
+179,May 28 2014,Friendly in Denmark,Denmark,Sweden,1745,1822,1,0,9,-9,1754,1813,28,23,0,-2,28,21,20,100,23
+180,May 28 2014,Friendly in Mexico,Mexico,Israel,1813,1619,3,0,5,-5,1818,1614,17,57,2,-1,19,56,20,100,294
+181,May 28 2014,Friendly in England,Nigeria,Scotland,1731,1710,2,2,-1,1,1730,1711,30,35,0,1,30,36,20,0,21
+182,May 28 2014,Friendly in South Korea,South Korea,Tunisia,1703,1514,0,1,-17,17,1686,1531,50,71,-6,5,44,76,20,100,289
+183,May 29 2014,Friendly in Spain,Georgia,Saudi Arabia,1499,1469,2,0,14,-14,1513,1455,77,105,5,-6,82,99,20,0,30
+184,May 29 2014,Baltic Cup in Latvia,Latvia,Estonia,1448,1465,0,0,-4,4,1444,1469,102,93,0,1,102,94,30,100,83
+185,May 29 2014,Baltic Cup in Latvia,Lithuania,Finland,1457,1684,1,0,24,-24,1481,1660,81,49,9,-2,90,47,30,0,-227
+186,May 29 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Maldives,Afghanistan,1073,1091,1,1,-5,5,1068,1096,182,178,0,0,182,178,40,100,82
+187,May 29 2014,Friendly in Austria,Paraguay,Cameroon,1695,1603,2,1,7,-7,1702,1596,36,62,2,-2,38,60,20,0,92
+188,May 29 2014,Friendly in the United States,Turkey,Honduras,1744,1694,2,0,13,-13,1757,1681,25,47,2,-3,27,44,20,0,50
+189,May 29 2014,Friendly in Uzbekistan,Uzbekistan,Oman,1628,1582,0,1,-14,14,1614,1596,57,56,-2,4,55,60,20,100,146
+190,May 30 2014,Friendly in Austria,Angola,Iran,1464,1712,1,1,6,-6,1470,1706,92,37,2,-1,94,36,20,0,-248
+191,May 30 2014,CONCACAF Ch & Car Ch q in Aruba,Aruba,Turks and Caicos Islands,937,765,1,0,7,-7,944,758,194,211,1,0,195,211,40,100,272
+192,May 30 2014,Friendly in Austria,Austria,Iceland,1666,1528,1,1,-6,6,1660,1534,46,75,0,1,46,76,20,100,238
+193,May 30 2014,Friendly in the United States,Bosnia and Herzegovina,Ivory Coast,1765,1782,2,1,10,-10,1775,1772,20,25,3,-1,23,24,20,0,-17
+194,May 30 2014,Friendly in Chile,Chile,Egypt,1916,1714,3,2,3,-3,1919,1711,9,34,0,0,9,34,20,100,302
+195,May 30 2014,African Nations Cup qualifier in the Comoros,Comoros,Kenya,879,1443,1,1,17,-17,896,1426,200,109,1,-3,201,106,40,100,-464
+196,May 30 2014,Friendly in England,England,Peru,1936,1711,3,0,5,-5,1941,1706,6,36,0,0,6,36,20,100,325
+197,May 30 2014,CONCACAF Ch & Car Ch q in Aruba,French Guiana,British Virgin Islands,1228,685,6,0,4,-4,1232,681,149,220,1,-1,150,219,40,0,543
+198,May 30 2014,Friendly in Italy,Macedonia,Qatar,1508,1548,0,0,1,-1,1509,1547,83,70,0,0,83,70,20,0,-40
+199,May 30 2014,CONCACAF Ch & Car Ch q in Montserrat,Montserrat,US Virgin Islands,583,706,1,0,21,-21,604,685,228,220,0,-3,228,217,40,100,-23
+200,May 30 2014,African Nations Cup qualifier in Sudan,Mozambique,South Sudan,1364,1050,0,0,-14,14,1350,1064,129,182,-5,1,124,183,40,0,314
+201,May 30 2014,Friendly in New Zealand,New Zealand,South Africa,1546,1579,0,0,-2,2,1544,1581,72,65,0,0,72,65,20,100,67
+202,May 30 2014,Asian Cup q & Asian Chlg Cup in the Maldives,Palestine,Philippines,1321,1249,1,0,16,-16,1337,1233,122,154,3,-5,125,149,40,0,72
+203,May 30 2014,Friendly in Spain,Spain,Bolivia,2107,1627,2,0,1,-1,2108,1626,2,53,0,0,2,53,20,100,580
+204,May 30 2014,Friendly in Switzerland,Switzerland,Jamaica,1848,1524,1,0,2,-2,1850,1522,13,80,1,-1,14,79,20,100,424
+205,May 30 2014,Friendly in Uruguay,Uruguay,Northern Ireland,1915,1412,1,0,1,-1,1916,1411,10,109,0,0,10,109,20,0,503
+206,May 31 2014,Friendly in Switzerland,Algeria,Armenia,1601,1590,3,1,15,-15,1616,1575,51,68,4,-2,55,66,20,0,11
+207,May 31 2014,African Nations Cup qualifier in Chad,Chad,Malawi,1215,1327,3,1,31,-31,1246,1296,136,137,9,-5,145,132,40,100,-12
+208,May 31 2014,Friendly in Argentina,Colombia,Senegal,1926,1579,2,2,-8,8,1918,1587,10,62,-1,2,9,64,20,0,347
+209,May 31 2014,Friendly in Croatia,Croatia,Mali,1810,1547,2,1,2,-2,1812,1545,22,72,0,-1,22,71,20,100,363
+210,May 31 2014,Baltic Cup in Latvia,Finland,Estonia,1660,1469,2,0,11,-11,1671,1458,44,101,1,-3,45,98,30,0,191
+211,May 31 2014,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Central African Republic,1229,1267,3,1,25,-25,1254,1242,135,157,8,-9,143,148,30,0,-38
+212,May 31 2014,Friendly in England,Ireland,Italy,1689,1904,0,0,6,-6,1695,1898,40,13,1,-1,41,12,20,0,-215
+213,May 31 2014,Baltic Cup in Latvia,Latvia,Lithuania,1444,1481,1,0,12,-12,1456,1469,96,98,3,-4,99,94,30,100,63
+214,May 31 2014,Friendly in the United States,Mexico,Ecuador,1818,1850,3,1,16,-16,1834,1834,15,20,2,-3,17,17,20,0,-32
+215,May 31 2014,Friendly in the Netherlands,Netherlands,Ghana,1982,1693,1,0,2,-2,1984,1691,5,43,0,-1,5,42,20,100,389
+216,May 31 2014,Friendly in Norway,Norway,Russia,1615,1851,1,1,4,-4,1619,1847,54,17,0,-2,54,15,20,100,-136
+217,May 31 2014,Friendly in the United States,Panama,Serbia,1700,1769,1,1,2,-2,1702,1767,37,27,1,-1,38,26,20,0,-69
+218,May 31 2014,Friendly in Portugal,Portugal,Greece,1933,1815,0,0,-6,6,1927,1821,7,20,0,0,7,20,20,100,218
+219,May 31 2014,Friendly in Switzerland,Romania,Albania,1724,1521,1,0,5,-5,1729,1516,30,80,1,0,31,80,20,0,203
+220,May 31 2014,African Nations Cup qualifier in Rwanda,Rwanda,Libya,1315,1541,3,0,47,-47,1362,1494,114,100,8,-13,122,87,40,100,-126
+221,May 31 2014,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Swaziland,1357,1139,1,0,6,-6,1363,1133,116,173,3,-1,119,172,40,100,318
+222,May 31 2014,African Nations Cup qualifier in Uganda,Uganda,Madagascar,1475,1196,1,0,4,-4,1479,1192,87,160,3,0,90,160,40,100,379
+223,Jun 1 2014,CONCACAF Ch & Car Ch q in Aruba,Aruba,British Virgin Islands,944,681,7,0,10,-10,954,671,193,227,1,-4,194,223,40,100,363
+224,Jun 1 2014,African Nations Cup qualifier in Benin,Benin,São Tomé and Príncipe,1403,1085,2,0,5,-5,1408,1080,111,181,0,-1,111,180,40,100,418
+225,Jun 1 2014,CONCACAF Ch & Car Ch q in Montserrat,Bonaire,US Virgin Islands,1030,685,2,1,5,-5,1035,680,185,221,0,-2,185,219,40,0,345
+226,Jun 1 2014,African Nations Cup qualifier in Botswana,Botswana,Burundi,1285,1320,1,0,16,-16,1301,1304,127,131,4,-1,131,130,40,100,65
+227,Jun 1 2014,African Nations Cup qualifier in Congo,Congo,Namibia,1374,1312,3,0,20,-20,1394,1292,108,140,4,-5,112,135,40,100,162
+228,Jun 1 2014,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Mauritania,1284,1239,3,0,21,-21,1305,1218,122,161,7,-6,129,155,40,100,145
+229,Jun 1 2014,Friendly in France,France,Paraguay,1901,1702,1,1,-7,7,1894,1709,13,34,-1,2,12,36,20,100,299
+230,Jun 1 2014,CONCACAF Ch & Car Ch q in Aruba,French Guiana,Turks and Caicos Islands,1232,758,6,0,5,-5,1237,753,146,211,3,0,149,211,40,0,474
+231,Jun 1 2014,Friendly in Germany,Germany,Cameroon,2080,1596,2,2,-9,9,2071,1605,3,56,0,2,3,58,20,0,484
+232,Jun 1 2014,Friendly in the United States,Israel,Honduras,1614,1681,4,2,18,-18,1632,1663,50,48,3,-2,53,46,20,0,-67
+233,Jun 1 2014,African Nations Cup qualifier in Lesotho,Lesotho,Liberia,1205,1327,2,0,32,-32,1237,1295,142,140,7,-6,149,134,40,100,-22
+234,Jun 1 2014,Friendly in Sweden,Sweden,Belgium,1813,1833,0,2,-18,18,1795,1851,23,9,-1,5,22,14,20,100,80
+235,Jun 1 2014,Friendly in the United States,United States,Turkey,1848,1757,2,1,5,-5,1853,1752,12,31,1,-2,13,29,20,100,191
+236,Jun 1 2014,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Tanzania,1365,1376,2,2,-5,5,1360,1381,128,117,-5,-1,123,116,40,100,89
+237,Jun 2 2014,Friendly in the United States,Japan,Costa Rica,1769,1725,3,1,13,-13,1782,1712,21,34,2,-1,23,33,20,0,44
+238,Jun 3 2014,CONCACAF Ch & Car Ch q in Aruba,Aruba,French Guiana,954,1237,0,2,-16,16,938,1253,198,139,-2,5,196,144,40,100,-183
+239,Jun 3 2014,Friendly in the United States,Bosnia and Herzegovina,Mexico,1775,1834,1,0,12,-12,1787,1822,22,20,1,-1,23,19,20,0,-59
+240,Jun 3 2014,Friendly in Brazil,Brazil,Panama,2135,1702,4,0,2,-2,2137,1700,1,37,0,1,1,38,20,100,533
+241,Jun 3 2014,Friendly in Czechia,Czechia,Austria,1756,1660,1,2,-15,15,1741,1675,31,41,-2,3,29,44,20,100,196
+242,Jun 3 2014,Friendly in the United States,Greece,Nigeria,1821,1730,0,0,-3,3,1818,1733,20,30,0,0,20,30,20,0,91
+243,Jun 3 2014,CONCACAF Ch & Car Ch q in Montserrat,Montserrat,Bonaire,604,1035,0,0,15,-15,619,1020,224,187,2,-1,226,186,40,100,-331
+244,Jun 3 2014,Friendly in Switzerland,Switzerland,Peru,1850,1706,2,0,6,-6,1856,1700,11,39,2,-1,13,38,20,100,244
+245,Jun 3 2014,CONCACAF Ch & Car Ch q in Aruba,Turks and Caicos Islands,British Virgin Islands,753,671,2,0,23,-23,776,648,211,225,0,-1,211,224,40,0,82
+246,Jun 3 2014,Friendly in Switzerland,United Arab Emirates,Georgia,1643,1513,1,0,6,-6,1649,1507,45,83,3,-1,48,82,20,0,130
+247,Jun 4 2014,Friendly in Switzerland,Algeria,Romania,1616,1729,2,1,13,-13,1629,1716,52,31,2,0,54,31,20,0,-113
+248,Jun 4 2014,Friendly in Argentina,Argentina,Trinidad and Tobago,2016,1506,3,0,1,-1,2017,1505,4,85,0,-1,4,84,20,100,610
+249,Jun 4 2014,Friendly in Chile,Chile,Northern Ireland,1919,1411,2,0,1,-1,1920,1410,8,111,0,-1,8,110,20,100,608
+250,Jun 4 2014,Friendly in the United States,Ecuador,England,1834,1941,2,2,3,-3,1837,1938,18,6,0,0,18,6,20,0,-107
+251,Jun 4 2014,Friendly in England,Egypt,Jamaica,1711,1522,2,2,-5,5,1706,1527,38,76,-2,1,36,77,20,0,189
+252,Jun 4 2014,Friendly in Equatorial Guinea,Equatorial Guinea,São Tomé and Príncipe,1305,1080,3,2,3,-3,1308,1077,129,180,0,0,129,180,20,100,325
+253,Jun 4 2014,Friendly in Portugal,Gibraltar,Malta,1134,1249,1,0,13,-13,1147,1236,171,155,0,-5,171,150,20,0,-115
+254,Jun 4 2014,Friendly in Hungary,Hungary,Albania,1667,1516,1,0,4,-4,1671,1512,44,80,1,0,45,80,20,100,251
+255,Jun 4 2014,Friendly in Iceland,Iceland,Estonia,1534,1458,1,0,5,-5,1539,1453,73,104,1,-3,74,101,20,100,176
+256,Jun 4 2014,Friendly in Italy,Italy,Luxembourg,1898,1212,1,1,-10,10,1888,1222,13,152,-1,2,12,154,20,0,686
+257,Jun 4 2014,Friendly in the United States,Ivory Coast,El Salvador,1772,1524,2,1,4,-4,1776,1520,25,79,0,-1,25,78,20,0,248
+258,Jun 4 2014,Friendly in the Netherlands,Netherlands,Wales,1984,1595,2,0,2,-2,1986,1593,5,62,0,0,5,62,20,100,489
+259,Jun 4 2014,Friendly in Uruguay,Uruguay,Slovenia,1916,1647,2,0,3,-3,1919,1644,8,49,1,0,9,49,20,100,369
+260,Jun 6 2014,Friendly in Brazil,Brazil,Serbia,2137,1767,1,0,1,-1,2138,1766,1,26,0,0,1,26,20,100,470
+261,Jun 6 2014,Friendly in Argentina,Colombia,Jordan,1918,1603,3,0,5,-5,1923,1598,6,60,2,0,8,60,20,0,315
+262,Jun 6 2014,Friendly in the United States,Costa Rica,Ireland,1712,1695,1,1,0,0,1712,1695,31,41,1,0,32,41,20,0,17
+263,Jun 6 2014,Friendly in Brazil,Croatia,Australia,1812,1716,1,0,7,-7,1819,1709,19,37,1,-3,20,34,20,0,96
+264,Jun 6 2014,Friendly in Germany,Germany,Armenia,2071,1575,6,1,1,-1,2072,1574,3,66,0,0,3,66,20,100,596
+265,Jun 6 2014,Friendly in the United States,Greece,Bolivia,1818,1626,2,1,5,-5,1823,1621,18,55,1,0,19,55,20,0,192
+266,Jun 6 2014,Friendly in the United States,Japan,Zambia,1782,1492,4,3,3,-3,1785,1489,24,90,0,-1,24,89,20,0,290
+267,Jun 6 2014,Friendly in Poland,Poland,Lithuania,1644,1469,2,1,3,-3,1647,1466,49,96,0,-1,49,95,20,100,275
+268,Jun 6 2014,Friendly in the United States,Portugal,Mexico,1927,1822,1,0,7,-7,1934,1815,7,23,0,-2,7,21,20,0,105
+269,Jun 6 2014,Friendly in Russia,Russia,Morocco,1847,1519,2,0,2,-2,1849,1517,16,79,0,0,16,79,20,100,428
+270,Jun 7 2014,Friendly in Argentina,Argentina,Slovenia,2017,1644,2,0,2,-2,2019,1642,4,52,0,-1,4,51,20,100,473
+271,Jun 7 2014,Friendly in Belgium,Belgium,Tunisia,1851,1531,1,0,2,-2,1853,1529,15,76,0,0,15,76,20,100,420
+272,Jun 7 2014,Friendly in Cameroon,Cameroon,Moldova,1605,1460,1,0,4,-4,1609,1456,58,98,0,-1,58,97,20,100,245
+273,Jun 7 2014,Friendly in the United States,England,Honduras,1938,1663,0,0,-7,7,1931,1670,8,47,-1,0,7,47,20,0,275
+274,Jun 7 2014,Friendly in Estonia,Estonia,Tajikistan,1453,1264,2,1,3,-3,1456,1261,93,140,4,0,97,140,20,100,289
+275,Jun 7 2014,Friendly in Hungary,Hungary,Kazakhstan,1671,1361,3,0,3,-3,1674,1358,45,124,0,-1,45,123,20,100,410
+276,Jun 7 2014,Friendly in the United States,Spain,El Salvador,2108,1520,2,0,1,-1,2109,1519,2,78,0,0,2,78,20,0,588
+277,Jun 7 2014,Friendly in the United States,United States,Nigeria,1853,1733,2,1,4,-4,1857,1729,12,30,1,0,13,30,20,100,220
+278,Jun 8 2014,Friendly in France,France,Jamaica,1894,1527,8,0,3,-3,1897,1524,11,77,0,0,11,77,20,100,467
+279,Jun 8 2014,Friendly in Brazil,Iran,Trinidad and Tobago,1706,1505,2,0,7,-7,1713,1498,28,88,4,-2,32,86,20,0,201
+280,Jun 8 2014,Friendly in San Marino,San Marino,Albania,877,1512,0,3,-2,2,875,1514,203,80,0,0,203,80,20,100,-535
+281,Jun 9 2014,Friendly in the United States,Ghana,South Korea,1691,1686,4,0,18,-18,1709,1668,28,51,7,-4,35,47,20,0,5
+282,Jun 10 2014,Friendly in the United States,Portugal,Ireland,1934,1695,5,1,8,-8,1942,1687,6,42,0,0,6,42,20,0,239
+283,Jun 12 2014,World Cup in Brazil,Brazil,Croatia,2138,1819,3,1,7,-7,2145,1812,1,22,0,-1,1,21,60,100,419
+284,Jun 13 2014,World Cup in Brazil,Chile,Australia,1920,1709,3,1,21,-21,1941,1688,5,47,2,-6,7,41,60,0,211
+285,Jun 13 2014,World Cup in Brazil,Mexico,Cameroon,1815,1609,1,0,14,-14,1829,1595,18,64,1,-3,19,61,60,0,206
+286,Jun 13 2014,World Cup in Brazil,Netherlands,Spain,1986,2109,5,1,75,-75,2061,2034,1,6,2,-2,3,4,60,0,-123
+287,Jun 14 2014,World Cup in Brazil,Colombia,Greece,1923,1823,3,0,38,-38,1961,1785,3,28,3,-4,6,24,60,0,100
+288,Jun 14 2014,World Cup in Brazil,Costa Rica,Uruguay,1712,1919,3,1,69,-69,1781,1850,17,20,8,-5,25,15,60,0,-207
+289,Jun 14 2014,World Cup in Brazil,Italy,England,1888,1931,2,1,34,-34,1922,1897,6,12,3,-2,9,10,60,0,-43
+290,Jun 14 2014,World Cup in Brazil,Ivory Coast,Japan,1776,1785,2,1,31,-31,1807,1754,17,30,4,-3,21,27,60,0,-9
+291,Jun 15 2014,World Cup in Brazil,Argentina,Bosnia and Herzegovina,2019,1787,2,1,12,-12,2031,1775,5,27,0,-2,5,25,60,0,232
+292,Jun 15 2014,World Cup in Brazil,France,Honduras,1897,1670,3,0,22,-22,1919,1648,10,50,0,-2,10,48,60,0,227
+293,Jun 15 2014,World Cup in Brazil,Switzerland,Ecuador,1856,1837,2,1,28,-28,1884,1809,11,22,1,-2,12,20,60,0,19
+294,Jun 16 2014,World Cup in Brazil,Germany,Portugal,2072,1942,4,0,36,-36,2108,1906,2,13,0,-3,2,10,60,0,130
+295,Jun 16 2014,World Cup in Brazil,Iran,Nigeria,1713,1729,0,0,1,-1,1714,1728,33,31,0,0,33,31,30,0,-16
+296,Jun 16 2014,World Cup in Brazil,United States,Ghana,1857,1709,2,1,18,-18,1875,1691,13,45,0,-5,13,40,60,0,148
+297,Jun 17 2014,World Cup in Brazil,Belgium,Algeria,1853,1629,2,1,13,-13,1866,1616,14,58,0,-2,14,56,60,0,224
+298,Jun 17 2014,World Cup in Brazil,Brazil,Mexico,2145,1829,0,0,-25,25,2120,1854,1,12,0,3,1,15,60,100,416
+299,Jun 17 2014,World Cup in Brazil,Russia,South Korea,1849,1668,1,1,-14,14,1835,1682,20,40,-2,3,18,43,60,0,181
+300,Jun 18 2014,World Cup in Brazil,Chile,Spain,1941,2034,2,0,57,-57,1998,1977,3,8,2,-2,5,6,60,0,-93
+301,Jun 18 2014,Friendly in China,China,Macedonia,1556,1509,2,0,9,-9,1565,1500,67,89,1,-4,68,85,20,100,147
+302,Jun 18 2014,World Cup in Brazil,Croatia,Cameroon,1812,1595,4,0,25,-25,1837,1570,17,71,1,-5,18,66,60,0,217
+303,Jun 18 2014,World Cup in Brazil,Netherlands,Australia,2061,1688,3,2,6,-6,2067,1682,3,43,0,-1,3,42,60,0,373
+304,Jun 19 2014,World Cup in Brazil,Colombia,Ivory Coast,1961,1807,2,1,18,-18,1979,1789,5,23,1,-1,6,22,60,0,154
+305,Jun 19 2014,World Cup in Brazil,Greece,Japan,1785,1754,0,0,-3,3,1782,1757,23,27,0,0,23,27,60,0,31
+306,Jun 19 2014,World Cup in Brazil,Uruguay,England,1850,1897,2,1,34,-34,1884,1863,6,19,5,-4,11,15,60,0,-47
+307,Jun 20 2014,World Cup in Brazil,Costa Rica,Italy,1781,1922,1,0,42,-42,1823,1880,18,14,3,-3,21,11,60,0,-141
+308,Jun 20 2014,World Cup in Brazil,Ecuador,Honduras,1809,1648,2,1,17,-17,1826,1631,20,58,0,-5,20,53,60,0,161
+309,Jun 20 2014,World Cup in Brazil,France,Switzerland,1919,1884,5,2,47,-47,1966,1837,7,23,1,-6,8,17,60,0,35
+310,Jun 21 2014,World Cup in Brazil,Argentina,Iran,2031,1714,1,0,8,-8,2039,1706,4,39,0,-3,4,36,60,0,317
+311,Jun 21 2014,World Cup in Brazil,Germany,Ghana,2108,1691,2,2,-25,25,2083,1716,2,24,0,8,2,32,60,0,417
+312,Jun 21 2014,Friendly in Indonesia,Indonesia,Pakistan,1222,940,4,0,4,-4,1226,936,152,197,1,-1,153,196,20,100,382
+313,Jun 21 2014,World Cup in Brazil,Nigeria,Bosnia and Herzegovina,1728,1775,1,0,34,-34,1762,1741,21,35,5,-5,26,30,60,0,-47
+314,Jun 22 2014,World Cup in Brazil,Algeria,South Korea,1616,1682,4,2,53,-53,1669,1629,36,66,10,-12,46,54,60,0,-66
+315,Jun 22 2014,World Cup in Brazil,Belgium,Russia,1866,1835,1,0,27,-27,1893,1808,7,23,3,-2,10,21,60,0,31
+316,Jun 22 2014,Friendly in China,China,Macedonia,1565,1500,0,0,-4,4,1561,1504,70,85,-1,0,69,85,20,100,165
+317,Jun 22 2014,World Cup in Brazil,Portugal,United States,1906,1875,2,2,-3,3,1903,1878,9,14,0,-1,9,13,60,0,31
+318,Jun 23 2014,World Cup in Brazil,Brazil,Cameroon,2120,1570,4,1,2,-2,2122,1568,1,68,0,-1,1,67,30,0,550
+319,Jun 23 2014,World Cup in Brazil,Mexico,Croatia,1854,1837,3,1,43,-43,1897,1794,5,27,5,-5,10,22,60,0,17
+320,Jun 23 2014,World Cup in Brazil,Netherlands,Chile,2067,1998,2,0,36,-36,2103,1962,1,11,1,-3,2,8,60,0,69
+321,Jun 23 2014,World Cup in Brazil,Spain,Australia,1977,1682,3,0,16,-16,1993,1666,3,50,2,-4,5,46,60,0,295
+322,Jun 24 2014,World Cup in Brazil,Colombia,Japan,1979,1757,4,1,23,-23,2002,1734,4,35,1,-4,5,31,60,0,222
+323,Jun 24 2014,World Cup in Brazil,Costa Rica,England,1823,1863,0,0,3,-3,1826,1860,17,13,1,1,18,14,50,0,-40
+324,Jun 24 2014,World Cup in Brazil,Greece,Ivory Coast,1782,1789,2,1,31,-31,1813,1758,16,29,4,-3,20,26,60,0,-7
+325,Jun 24 2014,World Cup in Brazil,Uruguay,Italy,1884,1880,1,0,30,-30,1914,1850,6,17,3,-2,9,15,60,0,4
+326,Jun 25 2014,World Cup in Brazil,Argentina,Nigeria,2039,1762,3,2,10,-10,2049,1752,4,31,0,-3,4,28,60,0,277
+327,Jun 25 2014,World Cup in Brazil,Bosnia and Herzegovina,Iran,1741,1706,3,1,40,-40,1781,1666,19,54,5,-9,24,45,60,0,35
+328,Jun 25 2014,World Cup in Brazil,Ecuador,France,1826,1966,0,0,11,-11,1837,1955,18,9,0,-1,18,8,60,0,-140
+329,Jun 25 2014,Friendly in Indonesia,Indonesia,Nepal,1226,890,2,0,2,-2,1228,888,153,202,0,0,153,202,20,100,436
+330,Jun 25 2014,World Cup in Brazil,Switzerland,Honduras,1837,1631,3,0,25,-25,1862,1606,11,61,3,-4,14,57,60,0,206
+331,Jun 26 2014,World Cup in Brazil,Algeria,Russia,1669,1808,1,1,11,-11,1680,1797,38,21,3,0,41,21,60,0,-139
+332,Jun 26 2014,World Cup in Brazil,Belgium,South Korea,1893,1629,1,0,11,-11,1904,1618,10,57,1,-2,11,55,60,0,264
+333,Jun 26 2014,World Cup in Brazil,Germany,United States,2083,1878,1,0,14,-14,2097,1864,3,13,0,0,3,13,60,0,205
+334,Jun 26 2014,World Cup in Brazil,Portugal,Ghana,1903,1716,2,1,15,-15,1918,1701,8,40,1,-4,9,36,60,0,187
+335,Jun 28 2014,World Cup in Brazil,Brazil,Chile,2122,1962,1,1,-19,19,2103,1981,1,7,0,0,1,7,60,100,260
+336,Jun 28 2014,World Cup in Brazil,Colombia,Uruguay,2002,1914,2,0,34,-34,2036,1880,5,14,0,-2,5,12,60,0,88
+337,Jun 29 2014,Friendly in China,China,Mali,1561,1545,1,3,-20,20,1541,1565,77,65,-4,3,73,68,20,100,116
+338,Jun 29 2014,World Cup in Brazil,Costa Rica,Greece,1826,1813,1,1,-1,1,1825,1814,19,20,0,0,19,20,30,0,13
+339,Jun 29 2014,World Cup in Brazil,Netherlands,Mexico,2103,1897,2,1,14,-14,2117,1883,1,11,0,0,1,11,60,0,206
+340,Jun 30 2014,World Cup in Brazil,France,Nigeria,1955,1752,2,0,21,-21,1976,1731,8,34,0,-3,8,31,60,0,203
+341,Jun 30 2014,World Cup in Brazil,Germany,Algeria,2097,1680,2,1,5,-5,2102,1675,3,41,0,0,3,41,60,0,417
+342,Jul 1 2014,World Cup in Brazil,Argentina,Switzerland,2049,1862,1,0,15,-15,2064,1847,4,16,0,-1,4,15,60,0,187
+343,Jul 1 2014,World Cup in Brazil,Belgium,United States,1904,1864,2,1,27,-27,1931,1837,8,21,1,-4,9,17,60,0,40
+344,Jul 1 2014,Friendly in Botswana,Botswana,Tanzania,1301,1381,4,2,14,-14,1315,1367,125,118,3,-1,128,117,20,100,20
+345,Jul 2 2014,Friendly in Vietnam,Vietnam,Myanmar,1235,1008,6,0,6,-6,1241,1002,147,188,2,0,149,188,20,100,327
+346,Jul 4 2014,World Cup in Brazil,Brazil,Colombia,2103,2036,2,1,17,-17,2120,2019,2,5,0,0,2,5,60,100,167
+347,Jul 4 2014,World Cup in Brazil,Germany,France,2102,1976,1,0,20,-20,2122,1956,-1,8,2,0,1,8,60,0,126
+348,Jul 5 2014,World Cup in Brazil,Argentina,Belgium,2064,1931,1,0,19,-19,2083,1912,4,11,0,-1,4,10,60,0,133
+349,Jul 5 2014,World Cup in Brazil,Costa Rica,Netherlands,1825,2117,0,0,21,-21,1846,2096,13,3,3,0,16,3,60,0,-292
+350,Jul 6 2014,Friendly in Malawi,Malawi,Mozambique,1296,1350,1,1,-1,1,1295,1351,134,125,-1,0,133,125,20,100,46
+351,Jul 8 2014,World Cup in Brazil,Brazil,Germany,2120,2122,1,7,-81,81,2039,2203,6,1,-2,0,4,1,60,100,98
+352,Jul 9 2014,World Cup in Brazil,Argentina,Netherlands,2083,2096,0,0,1,-1,2084,2095,3,2,0,0,3,2,30,0,-13
+353,Jul 11 2014,Friendly in Uganda,Uganda,Seychelles,1479,995,1,0,1,-1,1480,994,90,190,0,0,90,190,20,0,484
+354,Jul 12 2014,World Cup in Brazil,Brazil,Netherlands,2039,2095,0,3,-59,59,1980,2154,10,2,-3,0,7,2,60,100,44
+355,Jul 12 2014,Friendly in Rwanda,Rwanda,Gabon,1362,1506,1,0,11,-11,1373,1495,111,90,5,-4,116,86,20,100,-44
+356,Jul 13 2014,World Cup in Brazil,Germany,Argentina,2203,2084,1,0,20,-20,2223,2064,1,3,0,0,1,3,60,0,119
+357,Jul 14 2014,Friendly in Botswana,Botswana,Lesotho,1315,1237,2,0,8,-8,1323,1229,128,156,0,-3,128,153,20,100,178
+358,Jul 14 2014,Friendly in Qatar,Qatar,Indonesia,1547,1228,2,2,-8,8,1539,1236,76,147,-3,3,73,150,20,100,419
+359,Jul 15 2014,Friendly in Kenya,Kenya,Burundi,1426,1304,0,0,-6,6,1420,1310,110,127,-2,2,108,129,20,100,222
+360,Jul 15 2014,Friendly in Uganda,Uganda,Malawi,1480,1295,0,0,-7,7,1473,1302,94,131,-2,1,92,132,20,100,285
+361,Jul 19 2014,African Nations Cup qualifier in Botswana,Botswana,Guinea-Bissau,1323,1254,2,0,16,-16,1339,1238,124,155,2,-6,126,149,40,100,169
+362,Jul 19 2014,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Seychelles,1363,994,2,0,4,-4,1367,990,117,190,1,0,118,190,40,100,469
+363,Jul 19 2014,African Nations Cup qualifier in Uganda,Uganda,Mauritania,1473,1218,2,0,7,-7,1480,1211,88,156,2,0,90,156,40,100,355
+364,Jul 20 2014,African Nations Cup qualifier in Benin,Benin,Malawi,1408,1302,1,0,9,-9,1417,1293,105,136,3,-2,108,134,40,100,206
+365,Jul 20 2014,African Nations Cup qualifier in Congo,Congo,Rwanda,1394,1373,2,0,20,-20,1414,1353,106,134,3,-9,109,125,40,100,121
+366,Jul 20 2014,African Nations Cup qualifier in Lesotho,Lesotho,Kenya,1229,1420,1,0,25,-25,1254,1395,133,116,10,-4,143,112,40,100,-91
+367,Jul 20 2014,African Nations Cup qualifier in Tanzania,Tanzania,Mozambique,1367,1351,2,2,-6,6,1361,1357,122,121,-2,2,120,123,40,100,116
+368,Jul 21 2014,East Asian Championship qual in Guam,Guam,Macao,739,617,0,0,-11,11,728,628,212,225,0,1,212,226,40,100,222
+369,Jul 21 2014,East Asian Championship qual in Guam,Mongolia,Northern Mariana Islands,780,450,4,0,10,-10,790,440,208,235,1,0,209,235,40,0,330
+370,Jul 23 2014,East Asian Championship qual in Guam,Guam,Mongolia,728,790,2,0,27,-27,755,763,212,213,0,-2,212,211,40,100,38
+371,Jul 23 2014,East Asian Championship qual in Guam,Northern Mariana Islands,Macao,440,628,2,1,30,-30,470,598,235,230,0,-2,235,228,40,0,-188
+372,Jul 25 2014,East Asian Championship qual in Guam,Guam,Northern Mariana Islands,755,470,5,0,8,-8,763,462,210,235,1,0,211,235,40,100,385
+373,Jul 25 2014,East Asian Championship qual in Guam,Macao,Mongolia,598,763,3,2,29,-29,627,734,224,213,2,-1,226,212,40,0,-165
+374,Jul 27 2014,Friendly in Gabon,Gabon,Rwanda,1495,1353,0,1,-16,16,1479,1369,94,109,-4,8,90,117,20,100,242
+375,Aug 2 2014,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Botswana,1238,1339,1,1,0,0,1238,1339,150,126,0,0,150,126,20,100,-1
+376,Aug 2 2014,African Nations Cup qualifier in Malawi,Malawi,Benin,1293,1417,1,0,21,-21,1314,1396,124,112,5,-2,129,110,40,100,-24
+377,Aug 2 2014,African Nations Cup qualifier in Rwanda,Rwanda,Congo,1369,1414,2,0,25,-25,1394,1389,107,117,5,-4,112,113,30,0,-45
+378,Aug 3 2014,Friendly in Angola,Angola,Ethiopia,1470,1384,1,0,5,-5,1475,1379,93,117,0,-1,93,116,20,100,186
+379,Aug 3 2014,African Nations Cup qualifier in Kenya,Kenya,Lesotho,1395,1254,0,0,-12,12,1383,1266,117,137,-3,3,114,140,40,100,241
+380,Aug 3 2014,African Nations Cup qualifier in Mauritania,Mauritania,Uganda,1211,1480,0,1,-11,11,1200,1491,160,85,-2,2,158,87,40,100,-169
+381,Aug 3 2014,African Nations Cup qualifier in Mozambique,Mozambique,Tanzania,1357,1361,2,1,15,-15,1372,1346,110,129,7,-4,117,125,30,0,-4
+382,Aug 6 2014,Friendly in Peru,Peru,Panama,1700,1700,3,0,13,-13,1713,1687,29,41,4,-2,33,39,20,100,100
+383,Aug 8 2014,Friendly in Tajikistan,Tajikistan,Malaysia,1261,1188,4,1,9,-9,1270,1179,137,162,2,0,139,162,20,100,173
+384,Aug 12 2014,Friendly in Kazakhstan,Kazakhstan,Tajikistan,1358,1270,2,1,5,-5,1363,1265,117,143,3,-2,120,141,20,100,188
+385,Aug 13 2014,Friendly in Angola,Angola,Botswana,1475,1339,0,0,-6,6,1469,1345,93,126,0,0,93,126,20,100,236
+386,Aug 14 2014,Friendly in Guatemala,Guatemala,Nicaragua,1478,1118,3,0,2,-2,1480,1116,89,174,1,0,90,174,20,100,460
+387,Aug 16 2014,Friendly in the British Virgin Islands,British Virgin Islands,Saint Martin,648,857,2,4,-10,10,638,867,224,205,0,0,224,205,20,100,-109
+388,Aug 20 2014,Friendly in Azerbaijan,Azerbaijan,Uzbekistan,1441,1614,0,0,2,-2,1443,1612,103,56,0,0,103,56,20,100,-73
+389,Aug 20 2014,Friendly in Panama,Panama,Cuba,1687,1421,4,0,4,-4,1691,1417,39,107,0,0,39,107,20,100,366
+390,Aug 23 2014,Friendly in Guatemala,Guatemala,Cuba,1480,1417,1,0,6,-6,1486,1411,90,107,0,0,90,107,20,100,163
+391,Aug 24 2014,Friendly in French Guiana,French Guiana,Suriname,1253,1246,0,1,-13,13,1240,1259,154,143,-5,1,149,144,20,100,107
+392,Aug 26 2014,Friendly in the Seychelles,Seychelles,Sri Lanka,990,827,1,2,-16,16,974,843,192,206,-1,1,191,207,20,100,263
+393,Aug 27 2014,Friendly in Norway,Norway,United Arab Emirates,1619,1649,0,0,-2,2,1617,1651,56,47,-1,0,55,47,20,100,70
+394,Aug 28 2014,Friendly in the Seychelles,Seychelles,Sri Lanka,974,843,3,0,7,-7,981,836,191,209,0,-1,191,208,20,100,231
+395,Aug 30 2014,Friendly in Egypt,Egypt,Kenya,1706,1383,1,0,2,-2,1708,1381,36,116,0,-1,36,115,20,100,423
+396,Aug 30 2014,Friendly in El Salvador,El Salvador,Dominican Republic,1519,1261,2,0,3,-3,1522,1258,78,146,0,-2,78,144,20,100,358
+397,Aug 31 2014,Friendly in Zambia,Zambia,Sudan,1489,1383,3,1,7,-7,1496,1376,83,118,3,-2,86,116,20,100,206
+398,Sep 2 2014,Friendly in Niger,Niger,Uganda,1291,1491,2,0,19,-19,1310,1472,124,96,6,-4,130,92,20,100,-100
+399,Sep 3 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,Anguilla,1267,557,6,0,1,-1,1268,556,139,231,0,0,139,231,20,0,710
+400,Sep 3 2014,CONCACAF Ch & Car Ch q in Martinique,Barbados,Suriname,1128,1259,1,1,7,-7,1135,1252,171,143,1,0,172,143,40,0,-131
+401,Sep 3 2014,CONCACAF Ch q & C Am Cup in the United States,Costa Rica,Nicaragua,1846,1116,3,0,1,-1,1847,1115,14,174,1,0,15,174,20,0,730
+402,Sep 3 2014,Friendly in Czechia,Czechia,United States,1741,1837,0,1,-10,10,1731,1847,31,12,-1,3,30,15,20,100,4
+403,Sep 3 2014,Friendly in Denmark,Denmark,Turkey,1754,1752,1,2,-13,13,1741,1765,29,24,-1,2,28,26,20,100,102
+404,Sep 3 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Dominica,Guyana,961,1309,0,0,15,-15,976,1294,191,136,1,-2,192,134,40,0,-348
+405,Sep 3 2014,Friendly in England,England,Norway,1860,1617,1,0,2,-2,1862,1615,13,55,0,0,13,55,20,100,343
+406,Sep 3 2014,CONCACAF Ch & Car Ch q in Puerto Rico,French Guiana,Grenada,1240,1190,1,1,-3,3,1237,1193,149,159,0,1,149,160,40,0,50
+407,Sep 3 2014,Friendly in Germany,Germany,Argentina,2223,2064,2,4,-24,24,2199,2088,1,3,0,0,1,3,20,100,259
+408,Sep 3 2014,CONCACAF Ch q & C Am Cup in the United States,Guatemala,El Salvador,1486,1522,2,1,22,-22,1508,1500,71,92,9,-7,80,85,40,0,-36
+409,Sep 3 2014,CONCACAF Ch q & C Am Cup in the United States,Honduras,Belize,1606,1152,2,0,4,-4,1610,1148,57,169,0,0,57,169,40,0,454
+410,Sep 3 2014,Friendly in Ireland,Ireland,Oman,1687,1596,2,0,7,-7,1694,1589,38,64,1,-2,39,62,20,100,191
+411,Sep 3 2014,Friendly in Latvia,Latvia,Armenia,1456,1574,2,0,16,-16,1472,1558,87,73,5,-4,92,69,20,100,-18
+412,Sep 3 2014,Friendly in Austria,Lithuania,United Arab Emirates,1466,1651,1,1,5,-5,1471,1646,93,49,1,-1,94,48,20,0,-185
+413,Sep 3 2014,CONCACAF Ch & Car Ch q in Martinique,Martinique,Bonaire,1430,1020,6,0,4,-4,1434,1016,103,190,1,-2,104,188,20,0,410
+414,Sep 3 2014,Friendly in Morocco,Morocco,Qatar,1517,1539,0,0,-2,2,1515,1541,77,71,1,1,78,72,20,100,78
+415,Sep 3 2014,Friendly tournament in the Philippines,Myanmar,Palestine,1002,1337,4,1,46,-46,1048,1291,182,145,3,-9,185,136,30,0,-335
+416,Sep 3 2014,Friendly tournament in the Philippines,Philippines,Taiwan,1233,842,5,1,3,-3,1236,839,147,207,3,0,150,207,30,100,491
+417,Sep 3 2014,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,Curaçao,1085,1013,2,2,-9,9,1076,1022,181,185,-1,1,180,186,40,100,172
+418,Sep 3 2014,Friendly in Russia,Russia,Azerbaijan,1797,1443,4,0,3,-3,1800,1440,21,103,0,0,21,103,20,100,454
+419,Sep 3 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Lucia,1149,1103,0,0,-8,8,1141,1111,172,173,-1,2,171,175,40,100,146
+420,Sep 3 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,St Vincent & Grenadines,Dominican Republic,1153,1258,1,0,26,-26,1179,1232,156,162,6,-9,162,153,40,0,-105
+421,Sep 3 2014,Friendly in Ukraine,Ukraine,Moldova,1840,1456,1,0,1,-1,1841,1455,19,101,-1,-2,18,99,20,100,484
+422,Sep 4 2014,Friendly in Belarus,Belarus,Tajikistan,1593,1265,6,1,3,-3,1596,1262,58,141,1,0,59,141,20,100,428
+423,Sep 4 2014,Friendly in Belgium,Belgium,Australia,1912,1666,2,0,4,-4,1916,1662,10,47,0,-1,10,46,20,100,346
+424,Sep 4 2014,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Liechtenstein,1781,1173,3,0,1,-1,1782,1172,24,166,0,0,24,166,20,0,608
+425,Sep 4 2014,Friendly in China,China,Kuwait,1541,1505,3,1,9,-9,1550,1496,68,90,2,-4,70,86,20,100,136
+426,Sep 4 2014,Friendly in Croatia,Croatia,Cyprus,1794,1386,2,0,2,-2,1796,1384,23,113,0,0,23,113,20,100,508
+427,Sep 4 2014,Friendly in France,France,Spain,1956,1993,1,0,8,-8,1964,1985,8,5,0,0,8,5,20,100,63
+428,Sep 4 2014,Friendly in Italy,Italy,Netherlands,1850,2154,2,0,23,-23,1873,2131,12,2,1,0,13,2,20,100,-204
+429,Sep 4 2014,Friendly in the United Arab Emirates,Peru,Iraq,1713,1569,2,0,9,-9,1722,1560,31,71,1,-3,32,68,20,0,144
+430,Sep 4 2014,Friendly in Slovakia,Slovakia,Malta,1634,1236,1,0,1,-1,1635,1235,51,154,0,-2,51,152,20,100,498
+431,Sep 4 2014,Friendly in Sweden,Sweden,Estonia,1795,1456,2,0,2,-2,1797,1454,22,104,0,-3,22,101,20,100,439
+432,Sep 4 2014,Friendly in Uzbekistan,Uzbekistan,Jordan,1612,1598,2,0,10,-10,1622,1588,50,65,3,-3,53,62,20,100,114
+433,Sep 5 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,Dominican Republic,1268,1232,2,1,13,-13,1281,1219,133,157,3,-2,136,155,30,0,36
+434,Sep 5 2014,CONCACAF Ch & Car Ch q in Martinique,Bonaire,Suriname,1016,1252,3,2,32,-32,1048,1220,184,165,2,-11,186,154,40,0,-236
+435,Sep 5 2014,Friendly in the United States,Brazil,Colombia,1980,2019,1,0,11,-11,1991,2008,3,4,2,0,5,4,20,0,-39
+436,Sep 5 2014,CONCACAF Ch & Car Ch q in Puerto Rico,Curaçao,Grenada,1022,1193,2,1,29,-29,1051,1164,184,172,1,-6,185,166,40,0,-171
+437,Sep 5 2014,African Nations Cup qualifier in Morocco,Guinea,Togo,1543,1477,2,1,16,-16,1559,1461,66,101,3,-5,69,96,40,0,66
+438,Sep 5 2014,Friendly in Japan,Japan,Uruguay,1734,1880,0,2,-13,13,1721,1893,35,10,-3,1,32,11,20,100,-46
+439,Sep 5 2014,Friendly in Kazakhstan,Kazakhstan,Kyrgyzstan,1363,1107,7,1,5,-5,1368,1102,116,177,2,0,118,177,20,100,356
+440,Sep 5 2014,CONCACAF Ch & Car Ch q in Martinique,Martinique,Barbados,1434,1135,3,2,4,-4,1438,1131,104,176,0,-2,104,174,40,100,399
+441,Sep 5 2014,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,French Guiana,1076,1237,1,2,-17,17,1059,1254,188,135,-4,7,184,142,40,100,-61
+442,Sep 5 2014,African Nations Cup qualifier in Senegal,Senegal,Egypt,1587,1708,2,0,32,-32,1619,1676,49,44,7,-4,56,40,40,100,-21
+443,Sep 5 2014,Friendly in South Korea,South Korea,Venezuela,1618,1697,3,1,14,-14,1632,1683,49,40,3,-1,52,39,20,100,21
+444,Sep 5 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Dominica,1141,976,5,0,14,-14,1155,962,167,194,2,-1,169,193,40,100,265
+445,Sep 5 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Lucia,Guyana,1111,1294,2,0,44,-44,1155,1250,163,152,6,-9,169,143,40,0,-183
+446,Sep 5 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,St Vincent & Grenadines,Anguilla,1179,556,4,0,2,-2,1181,554,160,231,1,0,161,231,30,0,623
+447,Sep 5 2014,African Nations Cup qualifier in Sudan,Sudan,South Africa,1376,1581,0,3,-25,25,1351,1606,132,54,-8,5,124,59,40,100,-105
+448,Sep 6 2014,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Lesotho,1537,1266,2,0,6,-6,1543,1260,71,143,2,-2,73,141,40,100,371
+449,Sep 6 2014,Friendly in the United States,Chile,Mexico,1981,1883,0,0,-3,3,1978,1886,7,12,0,0,7,12,20,0,98
+450,Sep 6 2014,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Cameroon,1450,1568,0,2,-28,28,1422,1596,112,57,-5,4,107,61,40,100,-18
+451,Sep 6 2014,Friendly in the United States,Ecuador,Bolivia,1837,1621,4,0,8,-8,1845,1613,17,59,1,-2,18,57,20,0,216
+452,Sep 6 2014,African Nations Cup qualifier in Ethiopia,Ethiopia,Algeria,1379,1675,1,2,-10,10,1369,1685,119,37,-2,2,117,39,40,100,-196
+453,Sep 6 2014,African Nations Cup qualifier in Gabon,Gabon,Angola,1479,1469,1,0,14,-14,1493,1455,84,100,3,-3,87,97,40,100,110
+454,Sep 6 2014,African Nations Cup qualifier in Ghana,Ghana,Uganda,1701,1472,1,1,-15,15,1686,1487,40,89,-2,1,38,90,40,100,329
+455,Sep 6 2014,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Sierra Leone,1758,1367,2,1,2,-2,1760,1365,27,119,0,0,27,119,20,0,391
+456,Sep 6 2014,African Nations Cup qualifier in Niger,Niger,Cape Verde,1310,1505,1,3,-22,22,1288,1527,141,72,-6,5,135,77,40,100,-95
+457,Sep 6 2014,African Nations Cup qualifier in Nigeria,Nigeria,Congo,1731,1389,2,3,-37,37,1694,1426,41,98,-6,7,35,105,40,100,442
+458,Sep 6 2014,Friendly tournament in the Philippines,Palestine,Taiwan,1291,839,7,3,4,-4,1295,835,129,209,3,-1,132,208,30,0,452
+459,Sep 6 2014,Friendly tournament in the Philippines,Philippines,Myanmar,1236,1048,2,3,-25,25,1211,1073,161,176,-6,5,155,181,30,100,288
+460,Sep 6 2014,Friendly in Singapore,Singapore,Papua New Guinea,1245,1064,2,1,3,-3,1248,1061,145,186,0,-2,145,184,20,100,281
+461,Sep 6 2014,Friendly in Trinidad and Tobago,Trinidad and Tobago,Guadeloupe,1498,1372,1,1,-6,6,1492,1378,91,116,-3,0,88,116,20,100,226
+462,Sep 6 2014,African Nations Cup qualifier in Tunisia,Tunisia,Botswana,1529,1345,2,1,7,-7,1536,1338,76,126,0,0,76,126,40,100,284
+463,Sep 6 2014,Friendly in Vietnam,Vietnam,Hong Kong,1241,1158,3,1,8,-8,1249,1150,141,173,3,-3,144,170,20,100,183
+464,Sep 6 2014,African Nations Cup qualifier in Zambia,Zambia,Mozambique,1496,1372,0,0,-11,11,1485,1383,96,112,-5,2,91,114,40,100,224
+465,Sep 7 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,St Vincent & Grenadines,1281,1181,2,1,10,-10,1291,1171,134,171,1,-5,135,166,40,100,200
+466,Sep 7 2014,CONCACAF Ch & Car Ch q in Martinique,Barbados,Bonaire,1131,1048,4,1,27,-27,1158,1021,164,189,5,-1,169,188,40,0,83
+467,Sep 7 2014,Friendly in Burundi,Burundi,Tanzania,1310,1346,2,0,12,-12,1322,1334,127,127,1,-1,128,126,20,100,64
+468,Sep 7 2014,CONCACAF Ch q & C Am Cup in the United States,Costa Rica,Panama,1847,1691,2,2,-8,8,1839,1699,23,35,-4,1,19,36,40,0,156
+469,Sep 7 2014,CONCACAF Ch & Car Ch q in Puerto Rico,Curaçao,French Guiana,1051,1254,0,0,11,-11,1062,1243,182,148,2,-3,184,145,40,0,-203
+470,Sep 7 2014,European Championship qual in Denmark,Denmark,Armenia,1741,1558,2,1,7,-7,1748,1551,28,72,0,-1,28,71,40,100,283
+471,Sep 7 2014,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Dominican Republic,Anguilla,1219,554,10,0,2,-2,1221,552,152,231,1,0,153,231,30,0,665
+472,Sep 7 2014,CONCACAF Ch q & C Am Cup in the United States,El Salvador,Honduras,1500,1610,1,0,26,-26,1526,1584,76,70,4,-6,80,64,40,0,-110
+473,Sep 7 2014,European Championship qual in the Faroe Islands,Faroe Islands,Finland,1204,1671,1,3,-6,6,1198,1677,162,38,-3,3,159,41,40,100,-367
+474,Sep 7 2014,European Championship qual in Georgia,Georgia,Ireland,1507,1694,1,2,-15,15,1492,1709,90,33,-4,1,86,34,40,100,-87
+475,Sep 7 2014,European Championship qual in Germany,Germany,Scotland,2199,1711,2,1,1,-1,2200,1710,1,33,0,0,1,33,20,0,488
+476,Sep 7 2014,European Championship qual in Greece,Greece,Romania,1814,1716,0,1,-30,30,1784,1746,26,26,-3,3,23,29,40,100,198
+477,Sep 7 2014,CONCACAF Ch q & C Am Cup in the United States,Guatemala,Belize,1508,1148,2,1,4,-4,1512,1144,83,173,-1,-1,82,172,40,0,360
+478,Sep 7 2014,European Championship qual in Hungary,Hungary,Northern Ireland,1674,1410,1,2,-36,36,1638,1446,57,94,-7,8,50,102,40,100,364
+479,Sep 7 2014,Friendly in Kosovo,Kosovo,Oman,1363,1589,1,0,13,-13,1376,1576,114,66,3,-1,117,65,20,100,-126
+480,Sep 7 2014,African Nations Cup qualifier in Mali,Mali,Malawi,1565,1314,2,0,7,-7,1572,1307,66,132,0,-2,66,130,40,100,351
+481,Sep 7 2014,CONCACAF Ch & Car Ch q in Martinique,Martinique,Suriname,1438,1220,0,0,-14,14,1424,1234,109,147,-3,3,106,150,40,100,318
+482,Sep 7 2014,Friendly in Morocco,Morocco,Libya,1515,1494,3,0,12,-12,1527,1482,77,96,1,-5,78,91,20,100,121
+483,Sep 7 2014,Friendly in Austria,Paraguay,United Arab Emirates,1709,1646,0,0,-2,2,1707,1648,36,46,-1,1,35,47,20,0,63
+484,Sep 7 2014,European Championship qual in Portugal,Poland,Gibraltar,1647,1147,7,0,5,-5,1652,1142,45,174,1,-1,46,173,40,0,500
+485,Sep 7 2014,European Championship qual in Portugal,Portugal,Albania,1918,1514,0,1,-38,38,1880,1552,15,60,-3,10,12,70,40,100,504
+486,Sep 7 2014,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,Grenada,1059,1164,2,2,0,0,1059,1164,187,170,-1,-2,186,168,20,100,-5
+487,Sep 7 2014,Friendly in Serbia,Serbia,France,1766,1964,1,1,3,-3,1769,1961,25,8,0,0,25,8,20,100,-98
+488,Sep 7 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Guyana,1155,1250,2,0,30,-30,1185,1220,154,165,7,-11,161,154,40,100,5
+489,Sep 7 2014,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Lucia,Dominica,1155,962,2,1,10,-10,1165,952,166,193,1,0,167,193,40,0,193
+490,Sep 8 2014,Friendly in England,Australia,Saudi Arabia,1662,1455,3,2,5,-5,1667,1450,45,103,0,-3,45,100,20,0,207
+491,Sep 8 2014,European Championship qual in Austria,Austria,Sweden,1675,1797,1,1,1,-1,1676,1796,41,21,1,0,42,21,20,100,-22
+492,Sep 8 2014,European Championship qual in Estonia,Estonia,Slovenia,1454,1642,1,0,25,-25,1479,1617,83,61,9,-6,92,55,40,100,-88
+493,Sep 8 2014,European Championship qual in Luxembourg,Luxembourg,Belarus,1222,1596,1,1,13,-13,1235,1583,146,68,3,-4,149,64,40,100,-274
+494,Sep 8 2014,European Championship qual in Montenegro,Montenegro,Moldova,1604,1455,2,0,12,-12,1616,1443,53,107,3,-5,56,102,40,100,249
+495,Sep 8 2014,European Championship qual in Russia,Russia,Liechtenstein,1800,1172,4,0,1,-1,1801,1171,20,165,0,0,20,165,20,0,628
+496,Sep 8 2014,European Championship qual in San Marino,San Marino,Lithuania,875,1471,0,2,-3,3,872,1474,203,93,0,0,203,93,40,100,-496
+497,Sep 8 2014,Friendly in South Korea,South Korea,Uruguay,1632,1893,0,1,-6,6,1626,1899,54,10,-1,0,53,10,20,100,-161
+498,Sep 8 2014,European Championship qual in Spain,Spain,Macedonia,1985,1504,5,1,3,-3,1988,1501,6,83,0,0,6,83,30,0,481
+499,Sep 8 2014,European Championship qual in Switzerland,Switzerland,England,1847,1862,0,2,-37,37,1810,1899,21,6,-3,4,18,10,40,100,85
+500,Sep 8 2014,European Championship qual in Ukraine,Ukraine,Slovakia,1841,1635,0,1,-34,34,1807,1669,20,37,-1,7,19,44,40,100,306
+501,Sep 8 2014,Friendly in Uzbekistan,Uzbekistan,New Zealand,1622,1544,3,1,8,-8,1630,1536,50,79,2,-3,52,76,20,100,178
+502,Sep 9 2014,European Championship qual in Andorra,Andorra,Wales,985,1593,1,2,-2,2,983,1595,190,61,0,0,190,61,30,100,-508
+503,Sep 9 2014,European Championship qual in Azerbaijan,Azerbaijan,Bulgaria,1440,1644,1,2,-14,14,1426,1658,105,45,-1,2,104,47,40,100,-104
+504,Sep 9 2014,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Cyprus,1782,1384,1,2,-38,38,1744,1422,34,103,-5,5,29,108,40,100,498
+505,Sep 9 2014,Friendly in the United States,Brazil,Ecuador,1991,1845,1,0,6,-6,1997,1839,5,16,0,0,5,16,20,0,146
+506,Sep 9 2014,Friendly in Canada,Canada,Jamaica,1491,1524,3,1,12,-12,1503,1512,78,81,5,0,83,81,20,100,67
+507,Sep 9 2014,Friendly in the United States,Chile,Haiti,1978,1432,1,0,1,-1,1979,1431,7,102,0,1,7,103,20,0,546
+508,Sep 9 2014,Friendly in China,China,Jordan,1550,1588,1,1,-2,2,1548,1590,74,62,-1,0,73,62,20,100,62
+509,Sep 9 2014,European Championship qual in Croatia,Croatia,Malta,1796,1235,2,0,1,-1,1797,1234,21,149,0,0,21,149,20,0,561
+510,Sep 9 2014,European Championship qual in Czechia,Czechia,Netherlands,1731,2131,2,1,34,-34,1765,2097,20,2,5,0,25,2,40,100,-300
+511,Sep 9 2014,European Championship qual in Iceland,Iceland,Turkey,1539,1765,3,0,47,-47,1586,1718,51,36,12,-5,63,31,40,100,-126
+512,Sep 9 2014,Friendly in Indonesia,Indonesia,Yemen,1236,1157,0,0,-5,5,1231,1162,154,168,-3,1,151,169,20,100,179
+513,Sep 9 2014,Friendly in Japan,Japan,Venezuela,1721,1683,2,2,-4,4,1717,1687,32,36,0,2,32,38,20,100,138
+514,Sep 9 2014,European Championship qual in Kazakhstan,Kazakhstan,Latvia,1368,1472,0,0,0,0,1368,1472,119,96,0,-1,119,95,20,100,-4
+515,Sep 9 2014,Friendly in Kuwait,Kuwait,Bahrain,1496,1468,0,1,-14,14,1482,1482,96,85,-6,5,90,90,20,100,128
+516,Sep 9 2014,Friendly in the United States,Mexico,Bolivia,1886,1613,1,0,3,-3,1889,1610,14,56,-1,1,13,57,20,0,273
+517,Sep 9 2014,European Championship qual in Norway,Norway,Italy,1615,1873,0,2,-17,17,1598,1890,61,10,-2,2,59,12,40,100,-158
+518,Sep 9 2014,Friendly in Qatar,Qatar,Peru,1541,1722,0,2,-12,12,1529,1734,80,29,-3,1,77,30,20,100,-81
+519,Sep 9 2014,Friendly in Singapore,Singapore,Hong Kong,1248,1150,0,0,-5,5,1243,1155,145,171,-1,0,144,171,20,100,198
+520,Sep 10 2014,African Nations Cup qualifier in Algeria,Algeria,Mali,1685,1572,1,0,9,-9,1694,1563,38,71,1,-2,39,69,40,100,213
+521,Sep 10 2014,African Nations Cup qualifier in Angola,Angola,Burkina Faso,1455,1543,0,3,-36,36,1419,1579,120,56,-11,9,109,65,40,100,12
+522,Sep 10 2014,African Nations Cup qualifier in Botswana,Botswana,Senegal,1338,1619,0,2,-16,16,1322,1635,131,50,-3,2,128,52,40,100,-181
+523,Sep 10 2014,African Nations Cup qualifier in Cameroon,Cameroon,Ivory Coast,1596,1760,4,1,41,-41,1637,1719,42,34,9,-4,51,30,40,100,-64
+524,Sep 10 2014,African Nations Cup qualifier in Cape Verde,Cape Verde,Zambia,1527,1485,2,1,12,-12,1539,1473,74,99,2,-5,76,94,40,100,142
+525,Sep 10 2014,African Nations Cup qualifier in Congo,Congo,Sudan,1426,1351,2,0,16,-16,1442,1335,100,124,2,0,102,124,40,100,175
+526,Sep 10 2014,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Sierra Leone,1422,1365,2,0,17,-17,1439,1348,98,126,5,-3,103,123,40,100,157
+527,Sep 10 2014,African Nations Cup qualifier in Egypt,Egypt,Tunisia,1676,1536,0,1,-32,32,1644,1568,56,59,-7,8,49,67,40,100,240
+528,Sep 10 2014,CONCACAF Ch q & C Am Cup in the United States,El Salvador,Belize,1526,1144,2,0,6,-6,1532,1138,76,176,2,-2,78,174,40,0,382
+529,Sep 10 2014,CONCACAF Ch q & C Am Cup in the United States,Guatemala,Honduras,1512,1584,2,0,36,-36,1548,1548,65,82,8,-9,73,73,40,0,-72
+530,Sep 10 2014,African Nations Cup qualifier in Lesotho,Lesotho,Gabon,1260,1493,1,1,7,-7,1267,1486,137,91,2,-3,139,88,40,100,-133
+531,Sep 10 2014,African Nations Cup qualifier in Malawi,Malawi,Ethiopia,1307,1369,3,2,18,-18,1325,1351,124,126,3,-4,127,122,30,0,-62
+532,Sep 10 2014,African Nations Cup qualifier in Mozambique,Mozambique,Niger,1383,1288,1,1,-10,10,1373,1298,120,126,-3,5,117,131,40,100,195
+533,Sep 10 2014,Friendly in Namibia,Namibia,Swaziland,1292,1133,1,1,-6,6,1286,1139,138,172,-2,1,136,173,20,100,259
+534,Sep 10 2014,CONCACAF Ch q & C Am Cup in the United States,Panama,Nicaragua,1699,1115,2,0,2,-2,1701,1113,36,175,0,0,36,175,30,0,584
+535,Sep 10 2014,African Nations Cup qualifier in South Africa,South Africa,Nigeria,1606,1694,0,0,-1,1,1605,1695,60,39,-1,-1,59,38,30,100,12
+536,Sep 10 2014,African Nations Cup qualifier in Togo,Togo,Ghana,1461,1686,2,3,-13,13,1448,1699,102,35,-3,2,99,37,40,100,-125
+537,Sep 10 2014,African Nations Cup qualifier in Uganda,Uganda,Guinea,1487,1559,2,0,28,-28,1515,1531,76,88,6,-9,82,79,40,100,28
+538,Sep 13 2014,Central American Cup in the United States,Costa Rica,Guatemala,1839,1548,2,1,6,-6,1845,1542,16,77,0,-2,16,75,40,0,291
+539,Sep 13 2014,CONCACAF Ch q & C Am Cup in the United States,Honduras,Nicaragua,1548,1113,1,0,3,-3,1551,1110,71,175,1,0,72,175,40,0,435
+540,Sep 13 2014,Central American Cup in the United States,Panama,El Salvador,1701,1532,1,0,11,-11,1712,1521,30,84,3,-3,33,81,40,0,169
+541,Sep 14 2014,Friendly in Indonesia,Indonesia,Malaysia,1231,1179,2,0,9,-9,1240,1170,143,170,4,-4,147,166,20,100,152
+542,Sep 20 2014,Friendly in Malaysia,Malaysia,Cambodia,1170,674,4,1,1,-1,1171,673,162,222,2,0,164,222,20,100,596
+543,Sep 21 2014,Friendly in the British Virgin Islands,British Virgin Islands,St Vincent & Grenadines,638,1171,0,6,-3,3,635,1174,224,162,0,1,224,163,20,100,-433
+544,Sep 25 2014,Friendly in Indonesia,Indonesia,Cambodia,1240,673,1,0,0,0,1240,673,147,222,0,0,147,222,20,100,667
+545,Oct 6 2014,Friendly in India,India,Palestine,1075,1295,2,3,-7,7,1068,1302,182,129,-1,2,181,131,20,100,-120
+546,Oct 6 2014,Friendly in Qatar,Qatar,Uzbekistan,1529,1630,3,0,18,-18,1547,1612,71,60,4,-3,75,57,20,100,-1
+547,Oct 8 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Antigua and Barbuda,Saint Lucia,1291,1165,2,1,13,-13,1304,1152,127,175,4,-4,131,171,40,0,126
+548,Oct 8 2014,CONCACAF Ch & Car Ch q in Haiti,Barbados,Saint Kitts and Nevis,1158,1185,3,2,22,-22,1180,1163,152,175,9,-7,161,168,40,0,-27
+549,Oct 8 2014,CONCACAF Ch & Car Ch q in Guadeloupe,Curaçao,Martinique,1062,1424,1,1,16,-16,1078,1408,174,116,5,-5,179,111,40,0,-362
+550,Oct 8 2014,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,St Vincent & Grenadines,1378,1174,3,1,9,-9,1387,1165,113,169,1,-3,114,166,40,100,304
+551,Oct 8 2014,CONCACAF Ch & Car Ch q in Haiti,Haiti,French Guiana,1431,1243,2,2,-14,14,1417,1257,112,140,-4,2,108,142,40,100,288
+552,Oct 8 2014,Friendly in Taiwan,Taiwan,Cambodia,835,673,0,2,-25,25,810,698,208,208,0,7,208,215,20,100,262
+553,Oct 8 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Dominican Republic,1492,1221,6,1,8,-8,1500,1213,86,155,0,-1,86,154,40,100,371
+554,Oct 9 2014,European Championship qual in Belarus,Belarus,Ukraine,1583,1807,0,2,-20,20,1563,1827,72,17,-4,1,68,18,40,100,-124
+555,Oct 9 2014,European Championship qual in England,England,San Marino,1899,872,5,0,0,0,1899,872,10,203,0,0,10,203,20,0,1027
+556,Oct 9 2014,European Championship qual in Liechtenstein,Liechtenstein,Montenegro,1171,1616,0,0,15,-15,1186,1601,158,62,3,-3,161,59,40,100,-345
+557,Oct 9 2014,European Championship qual in Lithuania,Lithuania,Estonia,1474,1479,1,0,15,-15,1489,1464,83,98,5,-3,88,95,30,0,-5
+558,Oct 9 2014,European Championship qual in Macedonia,Macedonia,Luxembourg,1501,1235,3,2,4,-4,1505,1231,83,153,1,-2,84,151,20,0,266
+559,Oct 9 2014,Friendly in Mexico,Mexico,Honduras,1889,1551,2,0,2,-2,1891,1549,11,76,1,-2,12,74,20,100,438
+560,Oct 9 2014,European Championship qual in Moldova,Moldova,Austria,1443,1676,1,2,-13,13,1430,1689,105,40,-2,1,103,41,40,100,-133
+561,Oct 9 2014,Friendly in Morocco,Morocco,Central African Republic,1527,1242,4,0,4,-4,1531,1238,78,148,1,-1,79,147,20,100,385
+562,Oct 9 2014,Friendly in Qatar,Qatar,Lebanon,1547,1411,5,0,8,-8,1555,1403,67,113,4,-2,71,111,20,100,236
+563,Oct 9 2014,European Championship qual in Slovakia,Slovakia,Spain,1669,1988,2,1,31,-31,1700,1957,31,10,6,-2,37,8,40,100,-219
+564,Oct 9 2014,European Championship qual in Slovenia,Slovenia,Switzerland,1617,1810,1,0,25,-25,1642,1785,45,26,5,-4,50,22,40,100,-93
+565,Oct 9 2014,European Championship qual in Sweden,Sweden,Russia,1796,1801,1,1,-5,5,1791,1806,20,18,1,1,21,19,40,100,95
+566,Oct 10 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Antigua and Barbuda,Dominican Republic,1304,1213,0,0,-5,5,1299,1218,133,154,-1,0,132,154,20,100,191
+567,Oct 10 2014,Friendly in the United Arab Emirates,Bahrain,Uzbekistan,1482,1612,0,0,4,-4,1486,1608,90,62,0,-3,90,59,20,0,-130
+568,Oct 10 2014,European Championship qual in Belgium,Belgium,Andorra,1916,983,6,0,0,0,1916,983,9,190,0,0,9,190,20,0,933
+569,Oct 10 2014,African Nations Cup qualifier in Botswana,Botswana,Egypt,1322,1644,0,2,-13,13,1309,1657,130,43,-1,3,129,46,40,100,-222
+570,Oct 10 2014,European Championship qual in Bulgaria,Bulgaria,Croatia,1658,1797,0,1,-18,18,1640,1815,56,18,-5,1,51,19,40,100,-39
+571,Oct 10 2014,Friendly in Chile,Chile,Peru,1979,1734,3,0,4,-4,1983,1730,6,29,0,0,6,29,20,100,345
+572,Oct 10 2014,Friendly in China,China,Thailand,1548,1296,3,0,4,-4,1552,1292,67,136,4,-1,71,135,20,100,352
+573,Oct 10 2014,Friendly in the United States,Colombia,El Salvador,2008,1521,3,0,2,-2,2010,1519,4,81,0,0,4,81,20,0,487
+574,Oct 10 2014,European Championship qual in Cyprus,Cyprus,Israel,1422,1632,1,2,-14,14,1408,1646,114,42,-4,6,110,48,40,100,-110
+575,Oct 10 2014,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Martinique,1387,1408,1,2,-24,24,1363,1432,122,96,-4,7,118,103,40,100,79
+576,Oct 10 2014,CONCACAF Ch & Car Ch q in Haiti,Haiti,Barbados,1417,1180,4,2,8,-8,1425,1172,102,170,3,-4,105,166,40,100,337
+577,Oct 10 2014,Friendly in Hong Kong,Hong Kong,Singapore,1155,1243,2,1,10,-10,1165,1233,168,151,1,-3,169,148,20,100,12
+578,Oct 10 2014,Friendly in Bahrain,Iraq,Yemen,1560,1162,1,1,-8,8,1552,1170,72,167,-1,1,71,168,20,0,398
+579,Oct 10 2014,European Championship qual in Italy,Italy,Azerbaijan,1890,1426,2,1,1,-1,1891,1425,9,106,2,-1,11,105,20,0,464
+580,Oct 10 2014,Friendly in Japan,Japan,Jamaica,1717,1512,1,0,3,-3,1720,1509,28,83,2,0,30,83,20,100,305
+581,Oct 10 2014,Friendly in Jordan,Jordan,Kuwait,1590,1482,0,1,-15,15,1575,1497,68,84,-3,3,65,87,20,100,208
+582,Oct 10 2014,European Championship qual in Latvia,Latvia,Iceland,1472,1586,0,3,-34,34,1438,1620,110,49,-8,7,102,56,40,100,-14
+583,Oct 10 2014,African Nations Cup qualifier in Lesotho,Lesotho,Angola,1267,1419,0,0,3,-3,1270,1416,139,109,0,-1,139,108,40,100,-52
+584,Oct 10 2014,European Championship qual in Malta,Malta,Norway,1234,1598,0,3,-13,13,1221,1611,155,54,-3,3,152,57,40,100,-264
+585,Oct 10 2014,European Championship qual in the Netherlands,Netherlands,Kazakhstan,2097,1368,3,1,1,-1,2098,1367,2,116,0,1,2,117,30,0,729
+586,Oct 10 2014,Friendly in Oman,Oman,Costa Rica,1576,1845,3,4,-5,5,1571,1850,67,14,-1,1,66,15,20,100,-169
+587,Oct 10 2014,Friendly in Saudi Arabia,Saudi Arabia,Uruguay,1450,1899,1,1,8,-8,1458,1891,94,12,2,-1,96,11,20,100,-349
+588,Oct 10 2014,African Nations Cup qualifier in Senegal,Senegal,Tunisia,1635,1568,0,0,-9,9,1626,1577,57,62,-2,2,55,64,40,100,167
+589,Oct 10 2014,Friendly in South Korea,South Korea,Paraguay,1626,1707,2,0,14,-14,1640,1693,47,44,4,-4,51,40,20,100,19
+590,Oct 10 2014,CONCACAF Ch & Car Ch q in Haiti,Saint Kitts and Nevis,French Guiana,1163,1257,2,1,25,-25,1188,1232,154,156,7,-7,161,149,40,0,-94
+591,Oct 10 2014,CONCACAF Ch & Car Ch q in Guadeloupe,St Vincent & Grenadines,Curaçao,1165,1078,1,0,15,-15,1180,1063,160,189,3,-5,163,184,40,0,87
+592,Oct 10 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Saint Lucia,1500,1152,2,0,4,-4,1504,1148,84,171,1,0,85,171,20,0,348
+593,Oct 10 2014,European Championship qual in Turkey,Turkey,Czechia,1718,1765,1,2,-23,23,1695,1788,43,19,-6,3,37,22,40,100,53
+594,Oct 10 2014,Friendly in the United Arab Emirates,United Arab Emirates,Australia,1648,1667,0,0,-2,2,1646,1669,48,44,0,0,48,44,20,100,81
+595,Oct 10 2014,Friendly in the United States,United States,Ecuador,1847,1839,1,1,-3,3,1844,1842,17,17,-1,0,16,17,20,100,108
+596,Oct 10 2014,European Championship qual in Wales,Wales,Bosnia and Herzegovina,1595,1744,0,0,3,-3,1598,1741,63,28,-1,0,62,28,40,100,-49
+597,Oct 11 2014,European Championship qual in Albania,Albania,Denmark,1552,1748,1,1,5,-5,1557,1743,69,26,1,0,70,26,20,0,-196
+598,Oct 11 2014,European Championship qual in Armenia,Armenia,Serbia,1551,1769,1,1,7,-7,1558,1762,64,25,5,0,69,25,40,100,-118
+599,Oct 11 2014,Friendly tournament in China,Brazil,Argentina,1997,2088,2,0,28,-28,2025,2060,3,3,1,0,4,3,30,0,-91
+600,Oct 11 2014,African Nations Cup qualifier in Cameroon,Cameroon,Sierra Leone,1637,1348,0,0,-16,16,1621,1364,58,115,-2,4,56,119,40,100,389
+601,Oct 11 2014,African Nations Cup qualifier in Congo,Congo,South Africa,1442,1605,0,2,-25,25,1417,1630,114,48,-7,6,107,54,40,100,-63
+602,Oct 11 2014,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Ivory Coast,1439,1719,1,2,-10,10,1429,1729,105,29,-2,1,103,30,40,100,-180
+603,Oct 11 2014,African Nations Cup qualifier in Ethiopia,Ethiopia,Mali,1351,1563,0,2,-21,21,1330,1584,130,58,-4,5,126,63,40,100,-112
+604,Oct 11 2014,European Championship qual in Finland,Finland,Greece,1677,1784,1,1,0,0,1677,1784,43,24,0,0,43,24,20,100,-7
+605,Oct 11 2014,Friendly in France,France,Portugal,1961,1880,2,1,5,-5,1966,1875,7,14,0,0,7,14,20,100,181
+606,Oct 11 2014,African Nations Cup qualifier in Gabon,Gabon,Burkina Faso,1486,1579,2,0,29,-29,1515,1550,72,85,9,-11,81,74,40,100,7
+607,Oct 11 2014,African Nations Cup qualifier in Morocco,Ghana,Guinea,1699,1531,1,1,-9,9,1690,1540,44,75,-4,2,40,77,40,0,168
+608,Oct 11 2014,European Championship qual in Ireland,Ireland,Gibraltar,1709,1142,7,0,2,-2,1711,1140,34,172,0,0,34,172,20,0,567
+609,Oct 11 2014,African Nations Cup qualifier in Malawi,Malawi,Algeria,1325,1694,0,2,-11,11,1314,1705,129,33,-1,3,128,36,40,100,-269
+610,Oct 11 2014,African Nations Cup qualifier in Mozambique,Mozambique,Cape Verde,1373,1539,2,0,36,-36,1409,1503,104,93,6,-8,110,85,40,100,-66
+611,Oct 11 2014,African Nations Cup qualifier in Niger,Niger,Zambia,1298,1473,0,0,4,-4,1302,1469,129,95,2,-1,131,94,40,100,-75
+612,Oct 11 2014,European Championship qual in Northern Ireland,Northern Ireland,Faroe Islands,1446,1198,2,0,7,-7,1453,1191,99,161,0,-1,99,160,40,100,348
+613,Oct 11 2014,European Championship qual in Poland,Poland,Germany,1652,2200,2,0,56,-56,1708,2144,23,1,12,0,35,1,40,100,-448
+614,Oct 11 2014,European Championship qual in Romania,Romania,Hungary,1746,1638,1,1,-11,11,1735,1649,29,43,-1,5,28,48,40,100,208
+615,Oct 11 2014,European Championship qual in Scotland,Scotland,Georgia,1710,1492,1,0,6,-6,1716,1486,31,90,1,-1,32,89,40,100,318
+616,Oct 11 2014,African Nations Cup qualifier in Sudan,Sudan,Nigeria,1335,1695,1,0,33,-33,1368,1662,110,55,7,-9,117,46,40,100,-260
+617,Oct 11 2014,African Nations Cup qualifier in Uganda,Uganda,Togo,1515,1448,0,1,-29,29,1486,1477,96,88,-7,5,89,93,40,100,167
+618,Oct 12 2014,European Championship qual in Austria,Austria,Montenegro,1689,1601,1,0,10,-10,1699,1591,35,63,3,-1,38,62,40,100,188
+619,Oct 12 2014,European Championship qual in Belarus,Belarus,Slovakia,1563,1700,1,3,-27,27,1536,1727,86,25,-9,6,77,31,40,100,-37
+620,Oct 12 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Dominican Republic,Saint Lucia,1218,1148,3,2,16,-16,1234,1132,142,177,6,-3,148,174,40,0,70
+621,Oct 12 2014,Southeast Asian Champ qual in Laos,East Timor,Brunei,615,669,4,2,35,-35,650,634,218,227,5,-2,223,225,40,0,-54
+622,Oct 12 2014,European Championship qual in Estonia,Estonia,England,1464,1899,0,1,-5,5,1459,1904,95,10,0,0,95,10,40,100,-335
+623,Oct 12 2014,CONCACAF Ch & Car Ch q in Haiti,French Guiana,Barbados,1232,1172,2,0,25,-25,1257,1147,135,174,7,-4,142,170,40,0,60
+624,Oct 12 2014,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Curaçao,1363,1063,0,1,-36,36,1327,1099,132,172,-6,6,126,178,40,100,400
+625,Oct 12 2014,CONCACAF Ch & Car Ch q in Haiti,Haiti,Saint Kitts and Nevis,1425,1188,0,0,-15,15,1410,1203,114,153,-5,4,109,157,40,100,337
+626,Oct 12 2014,Southeast Asian Champ qual in Laos,Laos,Cambodia,851,698,3,2,8,-8,859,690,206,217,0,-1,206,216,40,100,253
+627,Oct 12 2014,European Championship qual in Lithuania,Lithuania,Slovenia,1489,1642,0,2,-25,25,1464,1667,100,39,-6,6,94,45,40,100,-53
+628,Oct 12 2014,European Championship qual in Luxembourg,Luxembourg,Spain,1231,1957,0,4,-2,2,1229,1959,152,8,-1,0,151,8,40,100,-626
+629,Oct 12 2014,CONCACAF Ch & Car Ch q in Guadeloupe,Martinique,St Vincent & Grenadines,1432,1180,4,3,8,-8,1440,1172,101,167,0,-2,101,165,40,0,252
+630,Oct 12 2014,Friendly in Mexico,Mexico,Panama,1891,1712,1,0,3,-3,1894,1709,11,37,0,-2,11,35,20,100,279
+631,Oct 12 2014,Friendly in Pakistan,Pakistan,Palestine,936,1302,0,2,-5,5,931,1307,200,131,-2,0,198,131,20,100,-266
+632,Oct 12 2014,Friendly in the Philippines,Philippines,Papua New Guinea,1211,1061,5,0,8,-8,1219,1053,155,187,0,-1,155,186,20,100,250
+633,Oct 12 2014,European Championship qual in Russia,Russia,Moldova,1806,1430,1,1,-18,18,1788,1448,22,98,-1,2,21,100,40,100,476
+634,Oct 12 2014,European Championship qual in Sweden,Sweden,Liechtenstein,1791,1186,2,0,1,-1,1792,1185,19,162,1,0,20,162,20,0,605
+635,Oct 12 2014,Friendly in Tanzania,Tanzania,Benin,1334,1396,4,1,16,-16,1350,1380,122,117,1,-2,123,115,20,100,38
+636,Oct 12 2014,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Antigua and Barbuda,1504,1299,1,0,6,-6,1510,1293,80,135,2,-1,82,134,40,100,305
+637,Oct 12 2014,European Championship qual in Ukraine,Ukraine,Macedonia,1827,1505,1,0,3,-3,1830,1502,18,89,0,-3,18,86,20,0,322
+638,Oct 13 2014,European Championship qual in Andorra,Andorra,Israel,983,1646,1,4,-3,3,980,1649,192,50,-1,0,191,50,40,100,-563
+639,Oct 13 2014,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Belgium,1741,1916,1,1,4,-4,1745,1912,25,9,1,0,26,9,40,100,-75
+640,Oct 13 2014,European Championship qual in Croatia,Croatia,Azerbaijan,1815,1425,6,0,5,-5,1820,1420,19,106,0,-1,19,105,40,100,490
+641,Oct 13 2014,European Championship qual in Iceland,Iceland,Netherlands,1620,2098,2,0,54,-54,1674,2044,31,4,13,-1,44,3,40,100,-378
+642,Oct 13 2014,Friendly in Jordan,Jordan,Kuwait,1575,1497,1,1,-5,5,1570,1502,65,85,0,1,65,86,20,100,178
+643,Oct 13 2014,European Championship qual in Kazakhstan,Kazakhstan,Czechia,1367,1788,2,4,-8,8,1359,1796,124,19,-3,1,121,20,40,100,-321
+644,Oct 13 2014,European Championship qual in Latvia,Latvia,Turkey,1438,1695,1,1,8,-8,1446,1687,100,43,1,-2,101,41,40,100,-157
+645,Oct 13 2014,European Championship qual in Malta,Malta,Italy,1221,1891,0,1,-1,1,1220,1892,153,14,0,-1,153,13,20,100,-570
+646,Oct 13 2014,Friendly in Morocco,Morocco,Kenya,1531,1381,3,0,7,-7,1538,1374,75,118,2,-2,77,116,20,100,250
+647,Oct 13 2014,European Championship qual in Norway,Norway,Bulgaria,1611,1640,2,1,16,-16,1627,1624,52,62,3,-5,55,57,30,0,-29
+648,Oct 13 2014,Friendly in Oman,Oman,Uruguay,1571,1891,0,3,-8,8,1563,1899,68,10,-1,1,67,11,20,100,-220
+649,Oct 13 2014,European Championship qual in Wales,Wales,Cyprus,1598,1408,2,1,6,-6,1604,1402,61,113,0,-1,61,112,40,100,290
+650,Oct 14 2014,Friendly in Armenia,Armenia,France,1558,1966,0,3,-5,5,1553,1971,76,7,-4,0,72,7,20,100,-308
+651,Oct 14 2014,Friendly in Bahrain,Bahrain,Iraq,1486,1552,0,0,-1,1,1485,1553,94,73,-3,-1,91,72,20,100,34
+652,Oct 14 2014,Friendly in Singapore,Brazil,Japan,2025,1720,4,0,6,-6,2031,1714,4,36,0,-2,4,34,20,0,305
+653,Oct 14 2014,Friendly in Chile,Chile,Bolivia,1983,1610,2,2,-9,9,1974,1619,6,61,0,-1,6,60,20,100,473
+654,Oct 14 2014,Friendly in China,China,Paraguay,1552,1693,2,1,11,-11,1563,1682,67,45,2,-3,69,42,20,100,-41
+655,Oct 14 2014,Friendly in the United States,Colombia,Canada,2010,1503,1,0,1,-1,2011,1502,5,88,0,-2,5,86,20,0,507
+656,Oct 14 2014,European Championship qual in Denmark,Denmark,Portugal,1743,1875,0,1,-18,18,1725,1893,37,12,-5,1,32,13,40,100,-32
+657,Oct 14 2014,Southeast Asian Champ qual in Laos,East Timor,Myanmar,650,1073,0,0,17,-17,667,1056,223,189,0,-4,223,185,40,0,-423
+658,Oct 14 2014,Friendly in the United States,Ecuador,El Salvador,1842,1519,5,1,5,-5,1847,1514,15,82,1,-1,16,81,20,0,323
+659,Oct 14 2014,European Championship qual in the Faroe Islands,Faroe Islands,Hungary,1191,1649,0,1,-5,5,1186,1654,161,48,0,1,161,49,40,100,-358
+660,Oct 14 2014,European Championship qual in Finland,Finland,Romania,1677,1735,0,2,-34,34,1643,1769,59,20,-8,4,51,24,40,100,42
+661,Oct 14 2014,European Championship qual in Portugal,Georgia,Gibraltar,1486,1140,3,0,8,-8,1494,1132,90,175,-1,-2,89,173,40,0,346
+662,Oct 14 2014,European Championship qual in Germany,Germany,Ireland,2144,1711,1,1,-18,18,2126,1729,1,22,0,6,1,28,40,100,533
+663,Oct 14 2014,European Championship qual in Greece,Greece,Northern Ireland,1784,1453,0,2,-55,55,1729,1508,32,69,-4,15,28,84,40,100,431
+664,Oct 14 2014,Friendly in Hong Kong,Hong Kong,Argentina,1165,2060,0,7,0,0,1165,2060,168,2,0,0,168,2,20,0,-895
+665,Oct 14 2014,Southeast Asian Champ qual in Laos,Laos,Brunei,859,634,4,2,8,-8,867,626,204,229,1,-2,205,227,40,100,325
+666,Oct 14 2014,Friendly in Macao,Macao,Singapore,627,1233,2,2,9,-9,636,1224,221,154,3,-2,224,152,20,0,-606
+667,Oct 14 2014,Friendly in Peru,Peru,Guatemala,1730,1542,1,0,3,-3,1733,1539,25,77,2,-1,27,76,20,100,288
+668,Oct 14 2014,European Championship qual in Poland,Poland,Scotland,1708,1716,2,2,-5,5,1703,1721,38,33,-1,0,37,33,40,100,92
+669,Oct 14 2014,Friendly in Qatar,Qatar,Australia,1555,1669,1,0,10,-10,1565,1659,64,49,3,-2,67,47,20,100,-14
+670,Oct 14 2014,European Championship qual in San Marino,San Marino,Switzerland,872,1785,0,4,-1,1,871,1786,203,23,0,0,203,23,30,100,-813
+671,Oct 14 2014,Friendly in Saudi Arabia,Saudi Arabia,Lebanon,1458,1403,1,1,-4,4,1454,1407,101,111,-2,0,99,111,20,100,155
+672,Oct 14 2014,European Championship qual in Serbia,Serbia,Albania,1762,1557,0,0,-14,14,1748,1571,25,61,0,4,25,65,40,100,305
+673,Oct 14 2014,Friendly in South Korea,South Korea,Costa Rica,1640,1850,1,3,-10,10,1630,1860,53,15,0,0,53,15,20,100,-110
+674,Oct 14 2014,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1646,1608,0,4,-26,26,1620,1634,66,44,-7,8,59,52,20,100,138
+675,Oct 14 2014,Friendly in the United States,United States,Honduras,1844,1549,1,1,-8,8,1836,1557,18,68,-1,3,17,71,20,100,395
+676,Oct 15 2014,African Nations Cup qualifier in Algeria,Algeria,Malawi,1705,1314,3,0,4,-4,1709,1310,32,128,2,0,34,128,40,100,491
+677,Oct 15 2014,African Nations Cup qualifier in Angola,Angola,Lesotho,1416,1270,4,0,15,-15,1431,1255,101,145,3,-3,104,142,40,100,246
+678,Oct 15 2014,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Gabon,1550,1515,1,1,-7,7,1543,1522,74,80,0,0,74,80,40,100,135
+679,Oct 15 2014,African Nations Cup qualifier in Cameroon,Cameroon,Sierra Leone,1621,1364,2,0,7,-7,1628,1357,50,126,4,-4,54,122,40,100,357
+680,Oct 15 2014,African Nations Cup qualifier in Cape Verde,Cape Verde,Mozambique,1503,1409,1,0,10,-10,1513,1399,79,114,3,-2,82,112,40,100,194
+681,Oct 15 2014,African Nations Cup qualifier in Egypt,Egypt,Botswana,1657,1309,2,0,4,-4,1661,1305,46,133,1,-2,47,131,20,0,348
+682,Oct 15 2014,African Nations Cup qualifier in Ghana,Ghana,Guinea,1690,1540,3,1,12,-12,1702,1528,35,83,2,-4,37,79,40,100,250
+683,Oct 15 2014,African Nations Cup qualifier in Ivory Coast,Ivory Coast,DR Congo,1729,1429,3,4,-36,36,1693,1465,50,87,-11,8,39,95,40,100,400
+684,Oct 15 2014,African Nations Cup qualifier in Mali,Mali,Ethiopia,1584,1330,2,3,-35,35,1549,1365,83,109,-10,8,73,117,40,100,354
+685,Oct 15 2014,African Nations Cup qualifier in Nigeria,Nigeria,Sudan,1662,1368,3,1,6,-6,1668,1362,42,121,2,-2,44,119,40,100,394
+686,Oct 15 2014,African Nations Cup qualifier in South Africa,South Africa,Congo,1630,1417,0,0,-14,14,1616,1431,65,102,-6,2,59,104,40,100,313
+687,Oct 15 2014,African Nations Cup qualifier in Togo,Togo,Uganda,1477,1486,1,0,15,-15,1492,1471,87,98,3,-4,90,94,30,0,-9
+688,Oct 15 2014,African Nations Cup qualifier in Tunisia,Tunisia,Senegal,1577,1626,1,0,17,-17,1594,1609,60,64,2,-4,62,60,30,0,-49
+689,Oct 15 2014,African Nations Cup qualifier in Zambia,Zambia,Niger,1469,1302,3,0,12,-12,1481,1290,92,138,1,-3,93,135,40,100,267
+690,Oct 16 2014,Southeast Asian Champ qual in Laos,Cambodia,East Timor,690,667,3,2,19,-19,709,648,212,223,2,0,214,223,40,0,23
+691,Oct 16 2014,Southeast Asian Champ qual in Laos,Myanmar,Brunei,1056,626,3,1,5,-5,1061,621,183,227,1,0,184,227,40,0,430
+692,Oct 18 2014,Southeast Asian Champ qual in Laos,Laos,East Timor,867,648,2,0,8,-8,875,640,201,223,2,0,203,223,40,100,319
+693,Oct 18 2014,Southeast Asian Champ qual in Laos,Myanmar,Cambodia,1061,709,1,0,5,-5,1066,704,182,214,1,0,183,214,40,0,352
+694,Oct 20 2014,Southeast Asian Champ qual in Laos,Cambodia,Brunei,704,621,1,0,15,-15,719,606,214,229,0,-1,214,228,40,0,83
+695,Oct 20 2014,Southeast Asian Champ qual in Laos,Laos,Myanmar,875,1066,1,2,-15,15,860,1081,209,177,-3,3,206,180,40,100,-91
+696,Oct 24 2014,Friendly in Bangladesh,Bangladesh,Sri Lanka,945,836,1,1,-5,5,940,841,194,207,0,0,194,207,20,100,209
+697,Oct 27 2014,Friendly in Bangladesh,Bangladesh,Sri Lanka,940,841,1,0,5,-5,945,836,194,207,0,0,194,207,20,100,199
+698,Oct 31 2014,Friendly tournament in England,Chagos Islands,Somaliland,800,1000,1,1,8,-8,808,992,210,190,0,0,210,190,30,0,-200
+699,Oct 31 2014,Friendly in the United Arab Emirates,Kuwait,North Korea,1502,1564,1,0,12,-12,1514,1552,76,77,5,-5,81,72,20,0,-62
+700,Oct 31 2014,Friendly in Qatar,Philippines,Nepal,1219,888,3,0,5,-5,1224,883,149,204,3,-1,152,203,20,0,331
+701,Nov 2 2014,Friendly in Bahrain,Bahrain,North Korea,1485,1552,2,2,-1,1,1484,1553,91,68,0,2,91,70,20,100,33
+702,Nov 4 2014,Friendly in the United Arab Emirates,Kuwait,Yemen,1514,1170,1,1,-8,8,1506,1178,91,159,-5,4,86,163,20,0,344
+703,Nov 6 2014,Friendly in Qatar,Qatar,North Korea,1565,1553,3,1,10,-10,1575,1543,62,76,2,-3,64,73,20,100,112
+704,Nov 6 2014,Friendly in Saudi Arabia,Saudi Arabia,Palestine,1454,1307,2,0,6,-6,1460,1301,94,132,3,-1,97,131,20,100,247
+705,Nov 6 2014,Friendly in Saudi Arabia,United Arab Emirates,Lebanon,1620,1407,3,2,5,-5,1625,1402,55,110,1,0,56,110,20,0,213
+706,Nov 7 2014,Friendly in Bahrain,Bahrain,Singapore,1484,1224,2,0,3,-3,1487,1221,91,154,0,-1,91,153,20,100,360
+707,Nov 7 2014,Friendly in Oman,Oman,Yemen,1563,1178,2,0,2,-2,1565,1176,67,163,0,0,67,163,20,100,485
+708,Nov 9 2014,Friendly in Thailand,Thailand,Philippines,1292,1224,3,0,10,-10,1302,1214,130,158,2,-3,132,155,20,100,168
+709,Nov 9 2014,Friendly in Uganda,Uganda,Ethiopia,1471,1365,3,0,8,-8,1479,1357,94,125,0,-4,94,121,20,100,206
+710,Nov 9 2014,Friendly in Vietnam,Vietnam,Palestine,1249,1301,1,3,-17,17,1232,1318,155,125,-6,3,149,128,20,100,48
+711,Nov 11 2014,CONCACAF Ch q & Car Ch in Jamaica,Cuba,French Guiana,1411,1257,1,1,-8,8,1403,1265,110,137,-1,2,109,139,40,0,154
+712,Nov 11 2014,Friendly in Indonesia,Indonesia,East Timor,1240,640,4,0,1,-1,1241,639,144,225,0,0,144,225,20,0,600
+713,Nov 11 2014,CONCACAF Ch q & Car Ch in Jamaica,Trinidad and Tobago,Curaçao,1510,1099,3,2,3,-3,1513,1096,81,178,1,0,82,178,30,0,411
+714,Nov 12 2014,CONCACAF Ch q & Car Ch in Jamaica,Antigua and Barbuda,Haiti,1293,1410,2,2,6,-6,1299,1404,132,108,1,0,133,108,40,0,-117
+715,Nov 12 2014,Friendly in England,Argentina,Croatia,2060,1820,2,1,4,-4,2064,1816,2,19,0,0,2,19,20,0,240
+716,Nov 12 2014,Friendly in Belgium,Belgium,Iceland,1912,1674,3,1,4,-4,1916,1670,9,43,0,0,9,43,20,100,338
+717,Nov 12 2014,CONCACAF Ch q & Car Ch in Jamaica,Jamaica,Martinique,1509,1440,1,1,-9,9,1500,1449,92,99,-4,2,88,101,40,100,169
+718,Nov 12 2014,Friendly in Malaysia,Malaysia,Syria,1171,1459,0,3,-9,9,1162,1468,171,94,-2,2,169,96,20,100,-188
+719,Nov 12 2014,Friendly in the Netherlands,Netherlands,Mexico,2044,1894,2,3,-16,16,2028,1910,5,8,-1,2,4,10,20,100,250
+720,Nov 12 2014,Friendly in Norway,Norway,Estonia,1627,1459,0,1,-16,16,1611,1475,63,92,-4,3,59,95,20,100,268
+721,Nov 12 2014,Friendly in Turkey,Turkey,Brazil,1687,2031,0,4,-7,7,1680,2038,44,2,-2,1,42,3,20,100,-244
+722,Nov 13 2014,Gulf Cup in Saudi Arabia,Bahrain,Yemen,1487,1176,0,0,-14,14,1473,1190,99,159,-4,2,95,161,40,0,311
+723,Nov 13 2014,CONCACAF Ch q & Car Ch in Jamaica,Cuba,Curaçao,1403,1096,3,2,6,-6,1409,1090,107,180,1,-1,108,179,40,0,307
+724,Nov 13 2014,Friendly in Morocco,Morocco,Benin,1538,1380,6,1,7,-7,1545,1373,72,118,2,-2,74,116,20,100,258
+725,Nov 13 2014,East Asian Championship qual in Taiwan,North Korea,Hong Kong,1543,1165,2,1,4,-4,1547,1161,73,171,0,-2,73,169,40,0,378
+726,Nov 13 2014,Gulf Cup in Saudi Arabia,Saudi Arabia,Qatar,1460,1575,1,1,1,-1,1461,1574,99,64,0,0,99,64,30,100,-15
+727,Nov 13 2014,Friendly in Singapore,Singapore,Laos,1221,860,2,0,2,-2,1223,858,152,207,0,0,152,207,20,100,461
+728,Nov 13 2014,East Asian Championship qual in Taiwan,Taiwan,Guam,810,763,1,2,-28,28,782,791,215,207,-3,3,212,210,40,100,147
+729,Nov 13 2014,CONCACAF Ch q & Car Ch in Jamaica,Trinidad and Tobago,French Guiana,1513,1265,4,2,12,-12,1525,1253,78,145,2,-3,80,142,40,0,248
+730,Nov 13 2014,Friendly tournament in Uruguay,Uruguay,Costa Rica,1899,1860,3,3,-6,6,1893,1866,12,15,0,0,12,15,30,100,139
+731,Nov 14 2014,African Nations Cup qualifier in Botswana,Botswana,Tunisia,1305,1594,0,0,10,-10,1315,1584,127,64,2,-1,129,63,30,0,-289
+732,Nov 14 2014,Friendly in Chile,Chile,Venezuela,1974,1687,5,0,4,-4,1978,1683,6,42,0,-1,6,41,20,100,387
+733,Nov 14 2014,Friendly in China,China,New Zealand,1563,1536,1,1,-4,4,1559,1540,66,73,1,2,67,75,20,100,127
+734,Nov 14 2014,Friendly in England,Colombia,United States,2011,1836,2,1,5,-5,2016,1831,5,17,0,0,5,17,20,0,175
+735,Nov 14 2014,Friendly in El Salvador,El Salvador,Panama,1514,1709,1,3,-11,11,1503,1720,88,30,-3,2,85,32,20,100,-95
+736,Nov 14 2014,Friendly in France,France,Albania,1971,1571,1,1,-9,9,1962,1580,7,63,0,1,7,64,20,100,500
+737,Nov 14 2014,European Championship qual in Georgia,Georgia,Poland,1494,1703,0,4,-26,26,1468,1729,101,20,-6,8,95,28,40,100,-109
+738,Nov 14 2014,European Championship qual in Germany,Germany,Gibraltar,2126,1132,4,0,0,0,2126,1132,1,173,0,0,1,173,20,0,994
+739,Nov 14 2014,European Championship qual in Greece,Greece,Faroe Islands,1729,1186,0,1,-39,39,1690,1225,52,142,-12,10,40,152,40,100,643
+740,Nov 14 2014,CONCACAF Ch q & Car Ch in Jamaica,Haiti,Martinique,1404,1449,3,0,40,-40,1444,1409,97,115,6,-7,103,108,40,0,-45
+741,Nov 14 2014,European Championship qual in Hungary,Hungary,Finland,1654,1643,1,0,14,-14,1668,1629,39,55,5,-2,44,53,40,100,111
+742,Nov 14 2014,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Sierra Leone,1693,1357,5,1,6,-6,1699,1351,35,125,2,-2,37,123,40,100,436
+743,Nov 14 2014,CONCACAF Ch q & Car Ch in Jamaica,Jamaica,Antigua and Barbuda,1500,1299,3,0,11,-11,1511,1288,80,137,4,-2,84,135,40,100,301
+744,Nov 14 2014,Friendly in Japan,Japan,Honduras,1714,1557,6,0,8,-8,1722,1549,29,71,2,-1,31,70,20,100,257
+745,Nov 14 2014,Friendly in Jordan,Jordan,South Korea,1570,1630,0,1,-11,11,1559,1641,68,49,-1,2,67,51,20,100,40
+746,Nov 14 2014,Gulf Cup in Saudi Arabia,Kuwait,Iraq,1506,1553,1,0,23,-23,1529,1530,73,86,6,-8,79,78,40,0,-47
+747,Nov 14 2014,Gulf Cup in Saudi Arabia,Oman,United Arab Emirates,1565,1625,0,0,3,-3,1568,1622,65,57,1,-1,66,56,30,0,-60
+748,Nov 14 2014,Friendly in Paraguay,Paraguay,Peru,1682,1733,2,1,9,-9,1691,1724,37,33,2,-3,39,30,20,100,49
+749,Nov 14 2014,Friendly in the Philippines,Philippines,Cambodia,1214,719,3,0,1,-1,1215,718,157,216,-1,0,156,216,20,100,595
+750,Nov 14 2014,European Championship qual in Portugal,Portugal,Armenia,1893,1553,1,0,3,-3,1896,1550,12,68,0,1,12,69,40,100,440
+751,Nov 14 2014,European Championship qual in Romania,Romania,Northern Ireland,1769,1508,2,0,7,-7,1776,1501,24,92,0,-4,24,88,40,100,361
+752,Nov 14 2014,European Championship qual in Scotland,Scotland,Ireland,1721,1729,1,0,15,-15,1736,1714,22,38,5,-5,27,33,30,0,-8
+753,Nov 14 2014,European Championship qual in Serbia,Serbia,Denmark,1748,1725,1,3,-40,40,1708,1765,45,19,-10,6,35,25,40,100,123
+754,Nov 15 2014,African Nations Cup qualifier in Algeria,Algeria,Ethiopia,1709,1357,3,1,4,-4,1713,1353,36,123,-1,-1,35,122,40,100,452
+755,Nov 15 2014,African Nations Cup qualifier in Angola,Angola,Gabon,1431,1522,0,0,-1,1,1430,1523,102,78,1,2,103,80,40,100,9
+756,Nov 15 2014,European Championship qual in Austria,Austria,Russia,1699,1788,1,0,19,-19,1718,1769,29,26,4,-2,33,24,30,0,-89
+757,Nov 15 2014,African Nations Cup qualifier in Cameroon,Cameroon,DR Congo,1628,1465,1,0,7,-7,1635,1458,50,95,2,1,52,96,40,100,263
+758,Nov 15 2014,African Nations Cup qualifier in Cape Verde,Cape Verde,Niger,1513,1290,3,1,8,-8,1521,1282,79,138,2,-2,81,136,40,100,323
+759,Nov 15 2014,African Nations Cup qualifier in Congo,Congo,Nigeria,1431,1668,0,2,-19,19,1412,1687,110,36,-3,4,107,40,40,100,-137
+760,Nov 15 2014,CONCACAF Ch q & Car Ch in Jamaica,Cuba,Trinidad and Tobago,1409,1525,0,0,6,-6,1415,1519,104,83,2,-1,106,82,40,0,-116
+761,Nov 15 2014,African Nations Cup qualifier in Egypt,Egypt,Senegal,1661,1609,0,1,-28,28,1633,1637,60,42,-6,9,54,51,40,100,152
+762,Nov 15 2014,European Championship qual in England,England,Slovenia,1904,1667,3,1,8,-8,1912,1659,9,48,1,-1,10,47,40,100,337
+763,Nov 15 2014,CONCACAF Ch q & Car Ch in Jamaica,French Guiana,Curaçao,1253,1090,4,1,20,-20,1273,1070,136,183,3,-2,139,181,40,0,163
+764,Nov 15 2014,Friendly in Indonesia,Indonesia,Syria,1241,1468,0,2,-10,10,1231,1478,154,89,-5,3,149,92,20,100,-127
+765,Nov 15 2014,African Nations Cup qualifier in Lesotho,Lesotho,Burkina Faso,1255,1543,0,1,-10,10,1245,1553,145,66,-2,4,143,70,40,100,-188
+766,Nov 15 2014,European Championship qual in Luxembourg,Luxembourg,Ukraine,1229,1830,0,3,-4,4,1225,1834,152,16,-1,1,151,17,40,100,-501
+767,Nov 15 2014,European Championship qual in Macedonia,Macedonia,Slovakia,1502,1727,0,2,-20,20,1482,1747,94,23,-4,3,90,26,40,100,-125
+768,Nov 15 2014,African Nations Cup qualifier in Malawi,Malawi,Mali,1310,1549,2,0,41,-41,1351,1508,116,98,7,-14,123,84,40,100,-139
+769,Nov 15 2014,European Championship qual in Moldova,Moldova,Liechtenstein,1448,1185,0,1,-36,36,1412,1221,113,145,-6,9,107,154,40,100,363
+770,Nov 15 2014,European Championship qual in Montenegro,Montenegro,Sweden,1591,1792,1,1,6,-6,1597,1786,62,23,0,-1,62,22,40,100,-101
+771,Nov 15 2014,African Nations Cup qualifier in Mozambique,Mozambique,Zambia,1399,1481,0,1,-21,21,1378,1502,114,83,-1,4,113,87,40,100,18
+772,Nov 15 2014,European Championship qual in San Marino,San Marino,Estonia,871,1475,0,0,18,-18,889,1457,202,103,1,-5,203,98,40,100,-504
+773,Nov 15 2014,African Nations Cup qualifier in South Africa,South Africa,Sudan,1616,1362,2,1,5,-5,1621,1357,58,122,0,-2,58,120,40,100,354
+774,Nov 15 2014,European Championship qual in Spain,Spain,Belarus,1959,1536,3,0,3,-3,1962,1533,6,77,1,0,7,77,20,0,423
+775,Nov 15 2014,European Championship qual in Switzerland,Switzerland,Lithuania,1786,1464,4,0,6,-6,1792,1458,19,94,2,2,21,96,40,100,422
+776,Nov 15 2014,African Nations Cup qualifier in Togo,Togo,Guinea,1492,1528,1,4,-41,41,1451,1569,111,52,-11,14,100,66,40,100,64
+777,Nov 15 2014,African Nations Cup qualifier in Uganda,Uganda,Ghana,1479,1702,1,0,27,-27,1506,1675,78,50,7,-7,85,43,40,100,-123
+778,Nov 16 2014,European Championship qual in Azerbaijan,Azerbaijan,Norway,1420,1611,0,1,-15,15,1405,1626,115,52,-5,4,110,56,40,100,-91
+779,Nov 16 2014,European Championship qual in Belgium,Belgium,Wales,1916,1604,0,0,-17,17,1899,1621,13,55,-2,3,11,58,40,100,412
+780,Nov 16 2014,European Championship qual in Bulgaria,Bulgaria,Malta,1624,1220,1,1,-18,18,1606,1238,66,135,-5,10,61,145,40,100,504
+781,Nov 16 2014,European Championship qual in Cyprus,Cyprus,Andorra,1402,980,5,0,4,-4,1406,976,108,192,1,0,109,192,40,100,522
+782,Nov 16 2014,European Championship qual in Czechia,Czechia,Iceland,1796,1670,2,1,9,-9,1805,1661,20,50,0,-3,20,47,40,100,226
+783,Nov 16 2014,European Championship qual in Israel,Israel,Bosnia and Herzegovina,1649,1745,3,0,35,-35,1684,1710,35,43,7,-8,42,35,40,100,4
+784,Nov 16 2014,European Championship qual in Italy,Italy,Croatia,1892,1816,1,1,-9,9,1883,1825,14,19,0,0,14,19,40,100,176
+785,Nov 16 2014,CONCACAF Ch q & Car Ch in Jamaica,Jamaica,Haiti,1511,1444,2,0,17,-17,1528,1427,77,106,3,-2,80,104,40,100,167
+786,Nov 16 2014,CONCACAF Ch q & Car Ch in Jamaica,Martinique,Antigua and Barbuda,1409,1288,2,0,20,-20,1429,1268,97,144,6,-5,103,139,40,0,121
+787,Nov 16 2014,European Championship qual in the Netherlands,Netherlands,Latvia,2028,1446,6,0,2,-2,2030,1444,4,101,0,0,4,101,30,0,582
+788,Nov 16 2014,East Asian Championship qual in Taiwan,North Korea,Guam,1547,791,5,1,1,-1,1548,790,73,210,0,0,73,210,30,0,756
+789,Nov 16 2014,Gulf Cup in Saudi Arabia,Qatar,Yemen,1574,1190,0,0,-16,16,1558,1206,73,153,-4,5,69,158,40,0,384
+790,Nov 16 2014,Gulf Cup in Saudi Arabia,Saudi Arabia,Bahrain,1461,1473,3,0,26,-26,1487,1447,85,107,5,-7,90,100,40,100,88
+791,Nov 16 2014,Friendly in Swaziland,Swaziland,Tanzania,1139,1350,1,1,3,-3,1142,1347,171,125,0,0,171,125,20,100,-111
+792,Nov 16 2014,East Asian Championship qual in Taiwan,Taiwan,Hong Kong,782,1161,0,1,-7,7,775,1168,214,165,-1,2,213,167,40,100,-279
+793,Nov 16 2014,European Championship qual in Turkey,Turkey,Kazakhstan,1680,1359,3,1,5,-5,1685,1354,40,123,1,-2,41,121,40,100,421
+794,Nov 16 2014,Friendly in Vietnam,Vietnam,Malaysia,1232,1162,3,1,8,-8,1240,1154,140,170,4,-1,144,169,20,100,170
+795,Nov 17 2014,Gulf Cup in Saudi Arabia,Iraq,Oman,1530,1568,1,1,2,-2,1532,1566,80,66,-1,0,79,66,30,0,-38
+796,Nov 17 2014,Gulf Cup in Saudi Arabia,Kuwait,United Arab Emirates,1529,1622,2,2,5,-5,1534,1617,75,63,2,-3,77,60,40,0,-93
+797,Nov 17 2014,Friendly in Singapore,Singapore,Cambodia,1223,718,4,2,1,-1,1224,717,154,216,0,0,154,216,20,100,605
+798,Nov 18 2014,Friendly in Austria,Austria,Brazil,1718,2038,1,2,-4,4,1714,2042,34,3,-1,0,33,3,20,100,-220
+799,Nov 18 2014,Friendly in Belarus,Belarus,Mexico,1533,1910,3,2,17,-17,1550,1893,64,16,7,-3,71,13,20,100,-277
+800,Nov 18 2014,Friendly in Bolivia,Bolivia,Venezuela,1619,1683,3,2,9,-9,1628,1674,51,43,4,0,55,43,20,100,36
+801,Nov 18 2014,Friendly in Chile,Chile,Uruguay,1978,1893,1,2,-15,15,1963,1908,8,9,-1,2,7,11,20,100,185
+802,Nov 18 2014,Friendly in China,China,Honduras,1559,1549,0,0,-3,3,1556,1552,69,68,-1,2,68,70,20,100,110
+803,Nov 18 2014,Friendly in Estonia,Estonia,Jordan,1457,1559,1,0,10,-10,1467,1549,93,79,2,-6,95,73,20,100,-2
+804,Nov 18 2014,Friendly in France,France,Sweden,1962,1786,1,0,3,-3,1965,1783,5,24,1,-1,6,23,20,100,276
+805,Nov 18 2014,Friendly in Greece,Greece,Serbia,1690,1708,0,2,-18,18,1672,1726,51,26,-6,5,45,31,20,100,82
+806,Nov 18 2014,Caribbean Championship in Jamaica,Haiti,Cuba,1427,1415,2,1,19,-19,1446,1396,98,116,3,-5,101,111,40,0,12
+807,Nov 18 2014,Friendly in Hungary,Hungary,Russia,1668,1769,1,2,-10,10,1658,1779,49,24,-2,0,47,24,20,100,-1
+808,Nov 18 2014,Friendly in Iran,Iran,South Korea,1666,1641,1,0,7,-7,1673,1634,42,54,2,-2,44,52,20,100,125
+809,Nov 18 2014,Friendly in Ireland,Ireland,United States,1714,1831,4,1,18,-18,1732,1813,21,20,6,-1,27,19,20,100,-17
+810,Nov 18 2014,Friendly in Italy,Italy,Albania,1883,1580,1,0,2,-2,1885,1578,14,64,0,0,14,64,20,100,403
+811,Nov 18 2014,Caribbean Championship in Jamaica,Jamaica,Trinidad and Tobago,1528,1519,0,0,-6,6,1522,1525,82,75,-1,4,81,79,40,100,109
+812,Nov 18 2014,Friendly in Japan,Japan,Australia,1722,1659,2,1,6,-6,1728,1653,28,50,1,-1,29,49,20,100,163
+813,Nov 18 2014,Friendly in Nicaragua,Nicaragua,El Salvador,1110,1503,0,2,-5,5,1105,1508,177,84,-1,1,176,85,20,100,-293
+814,Nov 18 2014,Friendly in Panama,Panama,Canada,1720,1502,0,0,-7,7,1713,1509,37,81,-3,3,34,84,20,100,318
+815,Nov 18 2014,Friendly in Peru,Peru,Paraguay,1724,1691,2,1,6,-6,1730,1685,27,40,1,-1,28,39,20,100,133
+816,Nov 18 2014,Friendly in Poland,Poland,Switzerland,1729,1792,2,2,-1,1,1728,1793,30,21,-1,0,29,21,20,100,37
+817,Nov 18 2014,Friendly in England,Portugal,Argentina,1896,2064,1,0,14,-14,1910,2050,8,2,2,0,10,2,20,0,-168
+818,Nov 18 2014,Friendly in Romania,Romania,Denmark,1776,1765,2,0,10,-10,1786,1755,21,25,1,0,22,25,20,100,111
+819,Nov 18 2014,Friendly in Scotland,Scotland,England,1736,1912,1,3,-12,12,1724,1924,37,9,-5,0,32,9,20,100,-76
+820,Nov 18 2014,Friendly in Slovakia,Slovakia,Finland,1747,1629,2,1,4,-4,1751,1625,26,59,0,-2,26,57,20,100,218
+821,Nov 18 2014,Friendly in Slovenia,Slovenia,Colombia,1659,2016,0,1,-4,4,1655,2020,48,5,0,0,48,5,20,100,-257
+822,Nov 18 2014,Friendly in Spain,Spain,Germany,1962,2126,0,1,-8,8,1954,2134,9,1,-1,0,8,1,20,100,-64
+823,Nov 18 2014,Friendly in Thailand,Thailand,New Zealand,1302,1540,2,0,21,-21,1323,1519,124,91,4,-8,128,83,20,100,-138
+824,Nov 18 2014,Friendly in Ukraine,Ukraine,Lithuania,1834,1458,0,0,-9,9,1825,1467,17,95,0,0,17,95,20,100,476
+825,Nov 19 2014,Gulf Cup in Saudi Arabia,Bahrain,Qatar,1447,1558,0,0,6,-6,1453,1552,98,69,1,-1,99,68,40,0,-111
+826,Nov 19 2014,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Angola,1553,1430,1,1,-11,11,1542,1441,81,103,-6,0,75,103,40,100,223
+827,Nov 19 2014,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Sierra Leone,1458,1351,3,1,14,-14,1472,1337,91,125,3,-1,94,124,40,100,207
+828,Nov 19 2014,African Nations Cup qualifier in Ethiopia,Ethiopia,Malawi,1353,1351,0,0,-6,6,1347,1357,122,115,0,4,122,119,40,100,102
+829,Nov 19 2014,African Nations Cup qualifier in Gabon,Gabon,Lesotho,1523,1245,4,2,6,-6,1529,1239,78,145,1,-1,79,144,40,100,378
+830,Nov 19 2014,African Nations Cup qualifier in Ghana,Ghana,Togo,1675,1451,3,1,8,-8,1683,1443,38,105,2,-3,40,102,40,100,324
+831,Nov 19 2014,East Asian Championship qual in Taiwan,Guam,Hong Kong,790,1168,0,0,16,-16,806,1152,210,171,0,-2,210,169,40,0,-378
+832,Nov 19 2014,African Nations Cup qualifier in Morocco,Guinea,Uganda,1569,1506,2,0,25,-25,1594,1481,63,97,1,-5,64,92,40,0,63
+833,Nov 19 2014,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Cameroon,1699,1635,0,0,-9,9,1690,1644,35,49,1,1,36,50,40,100,164
+834,Nov 19 2014,African Nations Cup qualifier in Mali,Mali,Algeria,1508,1713,2,0,39,-39,1547,1674,61,50,12,-8,73,42,40,100,-105
+835,Nov 19 2014,African Nations Cup qualifier in Niger,Niger,Mozambique,1282,1378,1,1,0,0,1282,1378,135,113,0,0,135,113,20,100,4
+836,Nov 19 2014,African Nations Cup qualifier in Nigeria,Nigeria,South Africa,1687,1621,2,2,-9,9,1678,1630,44,50,-3,4,41,54,40,100,166
+837,Nov 19 2014,Gulf Cup in Saudi Arabia,Saudi Arabia,Yemen,1487,1206,1,0,4,-4,1491,1202,88,162,1,-2,89,160,40,100,381
+838,Nov 19 2014,African Nations Cup qualifier in Senegal,Senegal,Botswana,1637,1315,3,0,6,-6,1643,1309,52,131,-1,0,51,131,40,100,422
+839,Nov 19 2014,African Nations Cup qualifier in Sudan,Sudan,Congo,1357,1412,0,1,-23,23,1334,1435,131,102,-6,2,125,104,40,100,45
+840,Nov 19 2014,East Asian Championship qual in Taiwan,Taiwan,North Korea,775,1548,0,0,19,-19,794,1529,209,84,2,-5,211,79,40,100,-673
+841,Nov 19 2014,African Nations Cup qualifier in Tunisia,Tunisia,Egypt,1584,1633,2,1,17,-17,1601,1616,61,66,1,-6,62,60,30,0,-49
+842,Nov 19 2014,African Nations Cup qualifier in Zambia,Zambia,Cape Verde,1502,1521,1,0,15,-15,1517,1506,80,92,4,-5,84,87,40,100,81
+843,Nov 20 2014,Gulf Cup in Saudi Arabia,Oman,Kuwait,1566,1534,5,0,36,-36,1602,1498,58,99,4,-11,62,88,40,0,32
+844,Nov 20 2014,Gulf Cup in Saudi Arabia,United Arab Emirates,Iraq,1617,1532,2,0,23,-23,1640,1509,45,88,7,-5,52,83,40,0,85
+845,Nov 22 2014,Southeast Asian Champ in Vietnam,Philippines,Laos,1215,858,4,1,8,-8,1223,850,153,207,2,0,155,207,40,0,357
+846,Nov 22 2014,Southeast Asian Champ in Vietnam,Vietnam,Indonesia,1240,1231,2,2,-6,6,1234,1237,153,144,-5,3,148,147,40,100,109
+847,Nov 23 2014,Southeast Asian Champ in Singapore,Malaysia,Myanmar,1154,1081,0,0,-4,4,1150,1085,170,179,-1,0,169,179,40,0,73
+848,Nov 23 2014,Gulf Cup in Saudi Arabia,Qatar,Oman,1552,1602,3,1,34,-34,1586,1568,62,72,3,-5,65,67,40,0,-50
+849,Nov 23 2014,Gulf Cup in Saudi Arabia,Saudi Arabia,United Arab Emirates,1491,1640,3,2,23,-23,1514,1617,77,66,6,-7,83,59,40,100,-49
+850,Nov 23 2014,Southeast Asian Champ in Singapore,Singapore,Thailand,1224,1323,1,2,-20,20,1204,1343,160,120,-3,4,157,124,40,100,1
+851,Nov 25 2014,Southeast Asian Champ in Vietnam,Philippines,Indonesia,1223,1237,4,0,39,-39,1262,1198,126,177,14,-15,140,162,40,0,-14
+852,Nov 25 2014,Gulf Cup in Saudi Arabia,United Arab Emirates,Oman,1617,1568,1,0,17,-17,1634,1551,45,71,7,-2,52,69,40,0,49
+853,Nov 25 2014,Southeast Asian Champ in Vietnam,Vietnam,Laos,1234,850,3,0,4,-4,1238,846,142,207,3,0,145,207,40,100,484
+854,Nov 26 2014,Gulf Cup in Saudi Arabia,Saudi Arabia,Qatar,1514,1586,1,2,-22,22,1492,1608,95,57,-6,4,89,61,40,100,28
+855,Nov 26 2014,Southeast Asian Champ in Singapore,Singapore,Myanmar,1204,1085,4,2,13,-13,1217,1072,156,181,0,-1,156,180,40,100,219
+856,Nov 26 2014,Southeast Asian Champ in Singapore,Thailand,Malaysia,1343,1150,3,2,10,-10,1353,1140,120,173,2,-2,122,171,40,0,193
+857,Nov 28 2014,Southeast Asian Champ in Vietnam,Indonesia,Laos,1198,846,5,1,9,-9,1207,837,152,207,5,0,157,207,40,0,352
+858,Nov 28 2014,Southeast Asian Champ in Vietnam,Vietnam,Philippines,1238,1262,3,1,24,-24,1262,1238,135,150,5,-5,140,145,30,0,-24
+859,Nov 29 2014,Southeast Asian Champ in Singapore,Singapore,Malaysia,1217,1140,1,3,-44,44,1173,1184,176,155,-10,8,166,163,40,100,177
+860,Nov 29 2014,Southeast Asian Champ in Singapore,Thailand,Myanmar,1353,1072,2,0,10,-10,1363,1062,112,188,5,-4,117,184,40,0,281
+861,Dec 6 2014,Southeast Asian Champ in the Philippines,Philippines,Thailand,1238,1363,0,0,1,-1,1239,1362,143,119,1,-1,144,118,20,100,-25
+862,Dec 7 2014,Southeast Asian Champ in Malaysia,Malaysia,Vietnam,1184,1262,1,2,-21,21,1163,1283,173,130,-5,5,168,135,40,100,22
+863,Dec 10 2014,Southeast Asian Champ in Thailand,Thailand,Philippines,1362,1239,3,0,15,-15,1377,1224,110,162,4,-9,114,153,40,100,223
+864,Dec 11 2014,Southeast Asian Champ in Vietnam,Vietnam,Malaysia,1283,1163,2,4,-47,47,1236,1210,159,144,-12,12,147,156,40,100,220
+865,Dec 13 2014,Friendly in China,China,Kyrgyzstan,1556,1102,4,0,1,-1,1557,1101,67,177,0,0,67,177,20,100,554
+866,Dec 13 2014,Friendly in the United Arab Emirates,Uzbekistan,Palestine,1634,1318,1,0,3,-3,1637,1315,52,130,0,0,52,130,20,0,316
+867,Dec 17 2014,Friendly in China,China,Kyrgyzstan,1557,1101,2,0,1,-1,1558,1100,67,177,0,0,67,177,20,100,556
+868,Dec 17 2014,Southeast Asian Champ in Thailand,Thailand,Malaysia,1377,1210,2,0,11,-11,1388,1199,112,166,1,-5,113,161,40,100,267
+869,Dec 20 2014,Southeast Asian Champ in Malaysia,Malaysia,Thailand,1199,1388,3,2,25,-25,1224,1363,145,121,8,-4,153,117,40,100,-89
+870,Dec 21 2014,Friendly in China,China,Palestine,1558,1315,0,0,-8,8,1550,1323,71,128,-2,1,69,129,20,100,343
+871,Dec 21 2014,Friendly in the United Arab Emirates,Uzbekistan,Jordan,1637,1549,2,1,8,-8,1645,1541,48,78,2,-3,50,75,20,0,88
+872,Dec 22 2014,Friendly in the United Arab Emirates,Iraq,Kuwait,1509,1498,1,1,0,0,1509,1498,83,88,0,0,83,88,20,0,11
+873,Dec 25 2014,Friendly in the United Arab Emirates,Uzbekistan,Iraq,1645,1509,1,0,6,-6,1651,1503,50,89,0,-3,50,86,20,0,136
+874,Dec 27 2014,Friendly in Qatar,Qatar,Estonia,1608,1467,3,0,7,-7,1615,1460,61,98,0,-1,61,97,20,100,241
+875,Dec 28 2014,Friendly in the United Arab Emirates,Iraq,Uzbekistan,1503,1651,0,0,4,-4,1507,1647,84,50,1,0,85,50,20,0,-148
+876,Dec 30 2014,Friendly in Australia,Bahrain,Saudi Arabia,1453,1492,4,1,19,-19,1472,1473,89,97,5,-4,94,93,20,0,-39
+877,Dec 30 2014,Friendly in Australia,United Arab Emirates,Jordan,1634,1541,1,0,7,-7,1641,1534,53,77,0,-1,53,76,20,0,93
+878,Dec 31 2014,Friendly in Australia,Oman,Qatar,1551,1615,2,2,2,-2,1553,1613,66,61,1,0,67,61,20,0,-64

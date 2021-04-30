@@ -1,0 +1,919 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,1997,Friendly in Jordan,Jordan,Syria,1312,1476,0,0,2,-2,1314,1474,125,88,1,-2,126,86,20,100,-64
+1,1997,Friendly in Syria,Syria,Jordan,1474,1314,0,0,-6,6,1468,1320,88,125,-2,1,86,126,20,100,260
+2,Jan 4 1997,Friendly in Chile,Chile,Armenia,1739,1332,7,0,2,-2,1741,1330,29,124,0,0,29,124,20,100,507
+3,Jan 4 1997,Friendly in Kenya,Kenya,Malawi,1393,1442,2,2,-1,1,1392,1443,108,93,0,0,108,93,20,100,51
+4,Jan 4 1997,Friendly in Tunisia,Tunisia,Algeria,1636,1610,0,0,-3,3,1633,1613,47,52,-1,1,46,53,20,100,126
+5,Jan 5 1997,Friendly in Egypt,Egypt,Belarus,1621,1409,2,0,4,-4,1625,1405,45,105,3,-1,48,104,20,100,312
+6,Jan 5 1997,Friendly in Kenya,Kenya,Malawi,1392,1443,0,0,-1,1,1391,1444,110,93,-1,0,109,93,20,100,49
+7,Jan 6 1997,Friendly in Paraguay,Paraguay,Armenia,1811,1330,2,0,1,-1,1812,1329,20,124,0,0,20,124,20,100,581
+8,Jan 6 1997,Friendly in Togo,Togo,Ghana,1373,1586,4,0,25,-25,1398,1561,100,71,8,-6,108,65,20,100,-113
+9,Jan 8 1997,Friendly in Ivory Coast,Ivory Coast,Guinea,1517,1370,2,1,4,-4,1521,1366,70,121,1,-2,71,119,20,100,247
+10,Jan 11 1997,World Cup qualifier in Namibia,Namibia,Liberia,1246,1409,0,0,4,-4,1250,1405,139,103,1,0,140,103,20,0,-163
+11,Jan 11 1997,World Cup qualifier in Sierra Leone,Sierra Leone,Gabon,1418,1516,1,0,20,-20,1438,1496,87,87,7,-7,94,80,40,100,2
+12,Jan 11 1997,World Cup qualifier in Zambia,Zambia,South Africa,1622,1764,0,0,2,-2,1624,1762,48,24,1,0,49,24,30,100,-42
+13,Jan 12 1997,World Cup qualifier in Bolivia,Bolivia,Ecuador,1662,1689,2,0,24,-24,1686,1665,29,47,6,-6,35,41,30,0,-27
+14,Jan 12 1997,World Cup qualifier in Burkina Faso,Burkina Faso,Guinea,1387,1366,0,2,-40,40,1347,1406,131,87,-9,16,122,103,40,100,121
+15,Jan 12 1997,World Cup qualifier in Cameroon,Cameroon,Angola,1582,1501,0,0,-10,10,1572,1511,65,69,-3,4,62,73,40,100,181
+16,Jan 12 1997,World Cup qualifier in Ghana,Ghana,Morocco,1561,1671,2,2,1,-1,1562,1670,65,39,0,0,65,39,40,100,-10
+17,Jan 12 1997,World Cup qualifier in Kenya,Kenya,Nigeria,1391,1760,1,1,13,-13,1404,1747,104,29,3,-2,107,27,40,100,-269
+18,Jan 12 1997,Friendly in Lebanon,Lebanon,Algeria,1382,1613,2,2,4,-4,1386,1609,112,57,1,-2,113,55,20,100,-131
+19,Jan 12 1997,Friendly in Mali,Mali,Senegal,1365,1454,0,0,0,0,1365,1454,118,89,1,0,119,89,20,100,11
+20,Jan 12 1997,World Cup qualifier in Peru,Peru,Chile,1598,1741,2,1,22,-22,1620,1719,46,35,5,-3,51,32,40,100,-43
+21,Jan 12 1997,World Cup qualifier in Tunisia,Tunisia,Egypt,1633,1625,1,0,14,-14,1647,1611,40,60,3,-6,43,54,40,100,108
+22,Jan 12 1997,World Cup qualifier in Uruguay,Uruguay,Argentina,1768,1794,0,0,-4,4,1764,1798,23,21,0,0,23,21,40,100,74
+23,Jan 12 1997,World Cup qualifier in Venezuela,Venezuela,Paraguay,1363,1812,0,2,-7,7,1356,1819,119,16,1,2,120,18,40,100,-349
+24,Jan 12 1997,World Cup qualifier in Zaire,Zaire,Congo,1499,1425,1,1,-9,9,1490,1434,82,93,-2,2,80,95,40,100,174
+25,Jan 12 1997,World Cup qualifier in Zimbabwe,Zimbabwe,Togo,1531,1398,3,0,15,-15,1546,1383,67,120,1,-6,68,114,40,100,233
+26,Jan 17 1997,US Cup in the United States,United States,Peru,1708,1620,0,1,-22,22,1686,1642,35,39,-1,6,34,45,30,100,188
+27,Jan 18 1997,Friendly tournament in Australia,Australia,New Zealand,1755,1479,1,0,3,-3,1758,1476,24,83,1,0,25,83,20,0,276
+28,Jan 18 1997,Friendly tournament in Australia,South Korea,Norway,1582,1853,1,0,25,-25,1607,1828,53,16,3,0,56,16,30,0,-271
+29,Jan 19 1997,Friendly in Benin,Benin,Togo,1196,1383,1,1,2,-2,1198,1381,156,116,1,-1,157,115,20,100,-87
+30,Jan 19 1997,Friendly in Mozambique,Mozambique,Zimbabwe,1367,1546,1,2,-8,8,1359,1554,120,64,-1,2,119,66,20,100,-79
+31,Jan 19 1997,US Cup in the United States,United States,Mexico,1686,1794,0,2,-22,22,1664,1816,48,18,-7,2,41,20,30,100,-8
+32,Jan 22 1997,Friendly tournament in Australia,Australia,South Korea,1758,1607,2,1,6,-6,1764,1601,21,58,2,-1,23,57,20,0,151
+33,Jan 22 1997,Friendly in Israel,Israel,Greece,1613,1667,1,1,-1,1,1612,1668,53,39,0,0,53,39,20,100,46
+34,Jan 22 1997,Friendly in Italy,Italy,Northern Ireland,1973,1624,2,0,2,-2,1975,1622,5,51,0,-1,5,50,20,100,449
+35,Jan 22 1997,US Cup in the United States,Mexico,Peru,1816,1642,0,0,-7,7,1809,1649,22,41,-1,2,21,43,20,100,274
+36,Jan 22 1997,Friendly tournament in Australia,Norway,New Zealand,1828,1476,3,0,6,-6,1834,1470,16,87,0,-2,16,85,30,0,352
+37,Jan 22 1997,Friendly in Portugal,Portugal,France,1885,2015,0,2,-14,14,1871,2029,15,2,-1,1,14,3,20,100,-30
+38,Jan 25 1997,Friendly tournament in Australia,Australia,Norway,1764,1834,1,0,14,-14,1778,1820,23,18,0,-1,23,17,30,100,30
+39,Jan 25 1997,African Nations Cup qualifier in Kenya,Kenya,Gabon,1404,1496,1,0,20,-20,1424,1476,89,85,9,-3,98,82,40,100,8
+40,Jan 25 1997,African Nations Cup qualifier in Malawi,Malawi,Zambia,1444,1624,0,2,-23,23,1421,1647,109,39,-8,5,101,44,40,100,-80
+41,Jan 25 1997,African Nations Cup qualifier in Senegal,Senegal,Egypt,1454,1611,0,0,3,-3,1457,1608,87,58,1,-2,88,56,40,100,-57
+42,Jan 25 1997,Friendly tournament in Australia,South Korea,New Zealand,1601,1470,3,1,14,-14,1615,1456,49,93,4,-4,53,89,30,0,131
+43,Jan 26 1997,African Nations Cup qualifier in Cameroon,Cameroon,Namibia,1572,1250,4,0,6,-6,1578,1244,62,144,0,-2,62,142,40,100,422
+44,Jan 26 1997,Friendly in Chile,Chile,Honduras,1719,1564,3,2,4,-4,1723,1560,30,66,1,-1,31,65,20,100,255
+45,Jan 26 1997,African Nations Cup qualifier in Guinea,Guinea,Tunisia,1406,1647,1,0,28,-28,1434,1619,84,60,10,-8,94,52,40,100,-141
+46,Jan 26 1997,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Benin,1521,1198,1,0,3,-3,1524,1195,69,157,1,0,70,157,20,0,323
+47,Jan 26 1997,Friendly in Lebanon,Lebanon,Estonia,1386,1199,2,0,5,-5,1391,1194,111,160,1,-2,112,158,20,100,287
+48,Jan 26 1997,African Nations Cup qualifier in Mali,Mali,Algeria,1365,1609,1,0,28,-28,1393,1581,102,65,8,-5,110,60,40,100,-144
+49,Jan 26 1997,African Nations Cup qualifier in Mozambique,Mozambique,Mauritius,1359,1153,3,0,10,-10,1369,1143,119,165,0,0,119,165,40,100,306
+50,Jan 26 1997,Friendly in Swaziland,Swaziland,Lesotho,1206,1186,3,1,10,-10,1216,1176,148,162,2,-1,150,161,20,100,120
+51,Jan 26 1997,African Nations Cup qualifier in Tanzania,Tanzania,Zaire,1352,1490,1,2,-18,18,1334,1508,125,71,-2,4,123,75,40,100,-38
+52,Jan 26 1997,African Nations Cup qualifier in Ghana,Togo,Liberia,1381,1405,2,1,21,-21,1402,1384,103,125,6,-10,109,115,40,0,-24
+53,Jan 26 1997,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Ghana,1554,1562,0,0,-5,5,1549,1567,68,63,-1,1,67,64,40,100,92
+54,Jan 29 1997,Friendly in China,China,United States,1551,1664,2,1,10,-10,1561,1654,64,41,1,0,65,41,20,100,-13
+55,Feb 1 1997,Friendly in China,China,United States,1561,1654,1,1,0,0,1561,1654,65,41,0,0,65,41,20,100,7
+56,Feb 2 1997,Friendly in Bolivia,Bolivia,Slovakia,1686,1684,0,1,-13,13,1673,1697,40,31,-3,2,37,33,20,100,102
+57,Feb 2 1997,Friendly in Lebanon,Lebanon,Jordan,1391,1320,1,0,5,-5,1396,1315,108,128,2,-1,110,127,20,100,171
+58,Feb 5 1997,Friendly in Costa Rica,Costa Rica,Slovakia,1579,1697,2,2,1,-1,1580,1696,61,33,0,0,61,33,20,100,-18
+59,Feb 5 1997,Friendly in Mexico,Mexico,Ecuador,1809,1665,3,1,6,-6,1815,1659,19,40,1,0,20,40,20,100,244
+60,Feb 7 1997,Friendly in Jordan,Jordan,Lebanon,1315,1396,0,0,-1,1,1314,1397,127,110,0,0,127,110,20,100,19
+61,Feb 7 1997,Friendly tournament in Hong Kong,Russia,Yugoslavia,1886,1933,1,1,2,-2,1888,1931,12,9,0,0,12,9,30,0,-47
+62,Feb 8 1997,Friendly in Colombia,Colombia,Slovakia,1880,1696,1,0,3,-3,1883,1693,13,35,0,-1,13,34,20,100,284
+63,Feb 9 1997,Friendly in Lebanon,Lebanon,Jordan,1397,1314,0,0,-5,5,1392,1319,112,125,-1,1,111,126,20,100,183
+64,Feb 9 1997,King's Cup in Thailand,Thailand,Japan,1403,1745,1,1,9,-9,1412,1736,103,28,2,0,105,28,30,100,-242
+65,Feb 10 1997,Friendly tournament in Hong Kong,Russia,Switzerland,1888,1720,2,1,8,-8,1896,1712,10,32,1,0,11,32,30,0,168
+66,Feb 11 1997,World Cup qualifier in Monaco,Estonia,Scotland,1194,1813,0,0,19,-19,1213,1794,144,23,7,-1,151,22,40,0,-619
+67,Feb 11 1997,Friendly in Northern Ireland,Northern Ireland,Belgium,1622,1756,3,0,19,-19,1641,1737,43,28,3,-1,46,27,20,100,-34
+68,Feb 11 1997,King's Cup in Thailand,Thailand,Sweden,1412,1819,0,0,11,-11,1423,1808,95,22,5,-2,100,20,30,100,-307
+69,Feb 11 1997,Friendly in Wales,Wales,Ireland,1598,1731,0,0,1,-1,1599,1730,57,31,0,-1,57,30,20,100,-33
+70,Feb 12 1997,World Cup qualifier in Bolivia,Bolivia,Chile,1673,1723,1,1,-3,3,1670,1726,39,29,-1,1,38,30,40,100,50
+71,Feb 12 1997,World Cup qualifier in Colombia,Colombia,Argentina,1883,1798,0,1,-30,30,1853,1828,17,11,-2,5,15,16,40,100,185
+72,Feb 12 1997,World Cup qualifier in Ecuador,Ecuador,Uruguay,1659,1764,4,0,38,-38,1697,1726,26,36,7,-6,33,30,40,100,-5
+73,Feb 12 1997,World Cup qualifier in England,England,Italy,1956,1975,0,1,-25,25,1931,2000,8,5,0,0,8,5,40,100,81
+74,Feb 12 1997,Friendly in Jamaica,Jamaica,Venezuela,1568,1356,0,0,-7,7,1561,1363,65,120,-1,0,64,120,20,100,312
+75,Feb 12 1997,World Cup qualifier in Paraguay,Paraguay,Peru,1819,1649,2,1,7,-7,1826,1642,18,47,0,-2,18,45,40,100,270
+76,Feb 12 1997,World Cup qualifier in Spain,Spain,Malta,2025,1300,4,0,1,-1,2026,1299,4,131,0,-1,4,130,20,0,725
+77,Feb 12 1997,Friendly in Turkey,Turkey,Finland,1696,1464,1,1,-7,7,1689,1471,37,83,-2,2,35,85,20,100,332
+78,Feb 13 1997,King's Cup in Thailand,Sweden,Japan,1808,1736,1,0,12,-12,1820,1724,17,35,2,-4,19,31,30,0,72
+79,Feb 14 1997,Friendly tournament in Cyprus,Cyprus,Latvia,1426,1392,2,0,14,-14,1440,1378,89,121,4,-5,93,116,20,0,34
+80,Feb 14 1997,Friendly tournament in Cyprus,Lithuania,Poland,1467,1654,0,0,7,-7,1474,1647,79,43,4,-1,83,42,30,0,-187
+81,Feb 15 1997,Friendly tournament in Cyprus,Cyprus,Poland,1440,1647,2,3,-11,11,1429,1658,99,40,-3,1,96,41,30,100,-107
+82,Feb 15 1997,Friendly tournament in Cyprus,Latvia,Lithuania,1378,1474,1,0,19,-19,1397,1455,104,95,6,-6,110,89,30,0,-96
+83,Feb 15 1997,World Cup qualifier in Tonga,Tonga,Solomon Islands,714,1266,0,4,-5,5,709,1271,210,135,0,0,210,135,40,100,-452
+84,Feb 16 1997,Friendly in Iraq,Iraq,Jordan,1646,1319,1,0,2,-2,1648,1317,42,126,1,0,43,126,20,100,427
+85,Feb 16 1997,Friendly in Senegal,Senegal,Mali,1457,1393,1,1,-4,4,1453,1397,91,109,-2,1,89,110,20,100,164
+86,Feb 16 1997,King's Cup in Thailand,Thailand,Sweden,1423,1820,1,3,-7,7,1416,1827,110,17,-5,1,105,18,30,100,-297
+87,Feb 17 1997,Friendly tournament in Cyprus,Cyprus,Lithuania,1429,1455,1,0,12,-12,1441,1443,90,96,3,-4,93,92,30,100,74
+88,Feb 17 1997,Friendly in Fiji,Fiji,Solomon Islands,1420,1271,1,2,-16,16,1404,1287,111,135,-4,0,107,135,20,100,249
+89,Feb 17 1997,Friendly tournament in Cyprus,Poland,Latvia,1658,1397,3,2,5,-5,1663,1392,41,112,0,-1,41,111,30,0,261
+90,Feb 18 1997,Friendly in Kuwait,Kuwait,Egypt,1626,1608,2,0,10,-10,1636,1598,47,59,1,-2,48,57,20,100,118
+91,Feb 19 1997,Friendly in Costa Rica,Costa Rica,Venezuela,1580,1363,5,2,5,-5,1585,1358,57,120,2,0,59,120,20,100,317
+92,Feb 19 1997,Friendly in Greece,Greece,Portugal,1668,1871,0,0,3,-3,1671,1868,36,13,2,0,38,13,20,100,-103
+93,Feb 19 1997,Friendly in the United States,Guatemala,Mexico,1503,1815,1,1,7,-7,1510,1808,71,21,3,0,74,21,20,0,-312
+94,Feb 19 1997,CONCACAF Ch & Car Cup q in Guyana,Guyana,French Guiana,1075,1191,2,0,31,-31,1106,1160,160,169,9,-5,169,164,40,100,-16
+95,Feb 21 1997,Friendly in Botswana,Botswana,Swaziland,1014,1216,0,0,3,-3,1017,1213,188,150,1,0,189,150,20,100,-102
+96,Feb 21 1997,Friendly tournament in Malaysia,China,Singapore,1561,1288,3,1,8,-8,1569,1280,62,136,1,-1,63,135,30,0,273
+97,Feb 21 1997,Friendly in Fiji,Fiji,Solomon Islands,1404,1287,3,2,4,-4,1408,1283,103,133,2,1,105,134,20,100,217
+98,Feb 21 1997,CONCACAF Ch & Car Cup q in Jamaica,Jamaica,Bermuda,1561,1377,1,0,7,-7,1568,1370,64,117,0,0,64,117,40,100,284
+99,Feb 21 1997,Friendly tournament in Malaysia,Malaysia,Finland,1301,1471,2,1,18,-18,1319,1453,124,89,2,-2,126,87,30,100,-70
+100,Feb 22 1997,Friendly tournament in Malaysia,Bosnia and Herzegovina,Vietnam,1605,1263,4,0,7,-7,1612,1256,53,138,1,-1,54,137,30,0,342
+101,Feb 22 1997,World Cup qualifier in Hong Kong,Hong Kong,South Korea,1210,1615,0,2,-9,9,1201,1624,156,47,-2,3,154,50,40,100,-305
+102,Feb 22 1997,Friendly tournament in Malaysia,Indonesia,Zimbabwe,1234,1549,0,0,11,-11,1245,1538,142,71,1,-2,143,69,30,0,-315
+103,Feb 22 1997,African Nations Cup qualifier in Kenya,Kenya,Cameroon,1424,1578,0,0,3,-3,1427,1575,97,62,1,0,98,62,40,100,-54
+104,Feb 22 1997,African Nations Cup qualifier in Malawi,Malawi,Mozambique,1421,1369,2,0,18,-18,1439,1351,86,121,8,-1,94,120,40,100,152
+105,Feb 22 1997,African Nations Cup qualifier in Namibia,Namibia,Gabon,1244,1476,1,1,7,-7,1251,1469,138,86,2,-2,140,84,40,100,-132
+106,Feb 22 1997,African Nations Cup qualifier in Senegal,Senegal,Morocco,1453,1670,0,0,6,-6,1459,1664,85,41,1,-1,86,40,20,0,-217
+107,Feb 23 1997,African Nations Cup qualifier in Benin,Benin,Algeria,1195,1581,1,1,14,-14,1209,1567,146,67,6,-3,152,64,40,100,-286
+108,Feb 23 1997,Friendly in Botswana,Botswana,Lesotho,1017,1176,1,4,-15,15,1002,1191,191,158,-1,1,190,159,20,100,-59
+109,Feb 23 1997,Friendly tournament in Malaysia,China,Finland,1569,1453,2,1,10,-10,1579,1443,59,96,2,-4,61,92,30,0,116
+110,Feb 23 1997,African Nations Cup qualifier in Ethiopia,Ethiopia,Egypt,1316,1598,1,1,10,-10,1326,1588,122,59,3,-1,125,58,30,0,-282
+111,Feb 23 1997,African Nations Cup qualifier in Guinea,Guinea,Sierra Leone,1434,1438,1,0,15,-15,1449,1423,84,105,6,-5,90,100,30,0,-4
+112,Feb 23 1997,CONCACAF Ch & Car Cup q in Guyana,Guyana,French Guiana,1106,1160,2,2,-3,3,1103,1163,173,164,-2,0,171,164,40,100,46
+113,Feb 23 1997,Friendly in Iraq,Iraq,Jordan,1648,1317,1,0,2,-2,1650,1315,43,127,0,0,43,127,20,100,431
+114,Feb 23 1997,CONCACAF Ch & Car Cup q in Jamaica,Jamaica,Bermuda,1568,1370,3,2,6,-6,1574,1364,62,119,1,-1,63,118,40,100,298
+115,Feb 23 1997,Friendly tournament in Malaysia,Malaysia,Singapore,1319,1280,0,0,-6,6,1313,1286,130,133,-2,1,128,134,30,100,139
+116,Feb 23 1997,African Nations Cup qualifier in Mali,Mali,Ivory Coast,1397,1524,1,2,-18,18,1379,1542,122,68,-6,1,116,69,40,100,-27
+117,Feb 23 1997,African Nations Cup qualifier in Mauritius,Mauritius,Zambia,1143,1647,0,0,16,-16,1159,1631,165,54,0,-5,165,49,40,100,-404
+118,Feb 23 1997,African Nations Cup qualifier in Tanzania,Tanzania,Liberia,1334,1384,1,1,-3,3,1331,1387,123,113,0,1,123,114,40,100,50
+119,Feb 23 1997,African Nations Cup qualifier in Togo,Togo,Zaire,1402,1508,1,1,0,0,1402,1508,109,74,0,1,109,75,20,100,-6
+120,Feb 23 1997,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Angola,1538,1511,1,0,13,-13,1551,1498,65,83,2,-5,67,78,40,100,127
+121,Feb 24 1997,Friendly tournament in Malaysia,Bosnia and Herzegovina,Zimbabwe,1612,1551,2,2,-3,3,1609,1554,56,67,-1,0,55,67,30,0,61
+122,Feb 24 1997,Friendly tournament in Malaysia,Indonesia,Vietnam,1245,1256,1,0,15,-15,1260,1241,129,149,7,-6,136,143,30,0,-11
+123,Feb 25 1997,Friendly tournament in Malaysia,Finland,Singapore,1443,1286,1,0,9,-9,1452,1277,86,136,3,-1,89,135,30,0,157
+124,Feb 25 1997,Friendly tournament in Malaysia,Malaysia,China,1313,1579,0,2,-12,12,1301,1591,128,55,0,3,128,58,30,100,-166
+125,Feb 26 1997,Friendly tournament in Malaysia,Bosnia and Herzegovina,Indonesia,1609,1260,2,0,5,-5,1614,1255,53,138,1,-1,54,137,30,0,349
+126,Feb 26 1997,Friendly in Brazil,Brazil,Poland,2065,1663,4,2,2,-2,2067,1661,2,41,0,0,2,41,20,100,502
+127,Feb 26 1997,Friendly in France,France,Netherlands,2029,1961,2,1,6,-6,2035,1955,3,7,0,0,3,7,20,100,168
+128,Feb 26 1997,Friendly in Israel,Israel,Germany,1612,2081,0,1,-2,2,1610,2083,56,1,-1,0,55,1,20,100,-369
+129,Feb 26 1997,Friendly tournament in Malaysia,Zimbabwe,Vietnam,1554,1241,6,0,9,-9,1563,1232,65,147,1,-2,66,145,30,0,313
+130,Feb 28 1997,Friendly tournament in Malaysia,China,Zimbabwe,1591,1563,3,1,21,-21,1612,1542,52,70,3,-2,55,68,30,0,28
+131,Feb 28 1997,Friendly tournament in Malaysia,Malaysia,Bosnia and Herzegovina,1301,1614,0,1,-7,7,1294,1621,134,50,-3,2,131,52,30,100,-213
+132,Mar 1 1997,COSAFA Cup in Botswana,Botswana,Malawi,1002,1439,1,4,-9,9,993,1448,190,91,0,2,190,93,40,100,-337
+133,Mar 1 1997,Friendly in Cyprus,Estonia,Azerbaijan,1213,1425,2,0,23,-23,1236,1402,138,117,6,-9,144,108,20,0,-212
+134,Mar 1 1997,World Cup qualifier in the Solomon Islands,Solomon Islands,Tonga,1283,709,9,0,2,-2,1285,707,134,210,0,0,134,210,20,0,574
+135,Mar 2 1997,CONCACAF Ch & Car Cup q in Aruba,Aruba,Netherlands Antilles,962,1246,2,1,30,-30,992,1216,189,158,2,-8,191,150,40,100,-184
+136,Mar 2 1997,Friendly tournament in Malaysia,China,Bosnia and Herzegovina,1612,1621,3,0,27,-27,1639,1594,41,64,7,-6,48,58,30,0,-9
+137,Mar 2 1997,World Cup qualifier in Jamaica,Jamaica,United States,1574,1654,0,0,-1,1,1573,1655,63,42,0,0,63,42,20,100,20
+138,Mar 2 1997,COSAFA Cup in Lesotho,Lesotho,Zambia,1191,1631,0,2,-7,7,1184,1638,157,51,1,-1,158,50,40,100,-340
+139,Mar 2 1997,World Cup qualifier in Mexico,Mexico,Canada,1808,1674,4,0,15,-15,1823,1659,19,45,1,-4,20,41,40,100,234
+140,Mar 2 1997,Friendly in Saudi Arabia,Saudi Arabia,Syria,1636,1468,3,0,6,-6,1642,1462,43,85,2,0,45,85,20,100,268
+141,Mar 2 1997,COSAFA Cup in Swaziland,Swaziland,Mozambique,1213,1351,0,4,-33,33,1180,1384,169,110,-9,5,160,115,40,100,-38
+142,Mar 2 1997,World Cup qualifier in Thailand,Thailand,South Korea,1416,1624,1,3,-21,21,1395,1645,115,38,-6,6,109,44,40,100,-108
+143,Mar 5 1997,Friendly in Saudi Arabia,Saudi Arabia,Syria,1642,1462,1,1,-7,7,1635,1469,57,83,-6,1,51,84,20,100,280
+144,Mar 6 1997,Friendly in Bahrain,Bahrain,Oman,1382,1259,1,0,4,-4,1386,1255,114,136,1,0,115,136,20,100,223
+145,Mar 9 1997,Friendly in Costa Rica,Costa Rica,Cameroon,1585,1575,5,0,14,-14,1599,1561,52,68,4,-3,56,65,20,100,110
+146,Mar 9 1997,Friendly in Singapore,Saudi Arabia,Indonesia,1635,1255,4,0,4,-4,1639,1251,43,142,4,-3,47,139,20,0,380
+147,Mar 9 1997,World Cup qualifier in Thailand,Thailand,Hong Kong,1395,1201,2,0,9,-9,1404,1192,103,160,3,-3,106,157,40,100,294
+148,Mar 11 1997,Friendly in Bulgaria,Bulgaria,Slovakia,1828,1693,0,1,-16,16,1812,1709,26,32,-5,1,21,33,20,100,235
+149,Mar 12 1997,Friendly in Cyprus,Cyprus,Greece,1441,1671,0,4,-12,12,1429,1683,97,35,-1,1,96,36,20,100,-130
+150,Mar 12 1997,Friendly in Czechia,Czechia,Poland,1924,1661,2,1,2,-2,1926,1659,10,40,0,0,10,40,20,100,363
+151,Mar 12 1997,Friendly in Singapore,Indonesia,Saudi Arabia,1251,1639,1,1,8,-8,1259,1631,133,55,3,-4,136,51,20,0,-388
+152,Mar 12 1997,Friendly in Israel,Israel,Sweden,1610,1827,0,1,-7,7,1603,1834,55,15,0,1,55,16,20,100,-117
+153,Mar 12 1997,Friendly in Macedonia,Macedonia,Australia,1541,1778,0,1,-6,6,1535,1784,70,23,0,0,70,23,20,100,-137
+154,Mar 12 1997,CONCACAF Ch & Car Cup q in Martinique,Martinique,Saint Lucia,1482,1197,1,0,4,-4,1486,1193,79,156,1,0,80,156,40,100,385
+155,Mar 12 1997,Friendly in Yugoslavia,Yugoslavia,Russia,1931,1896,0,0,-4,4,1927,1900,10,11,-1,0,9,11,20,100,135
+156,Mar 13 1997,Friendly in El Salvador,El Salvador,Guatemala,1519,1510,0,0,-3,3,1516,1513,72,73,0,0,72,73,20,100,109
+157,Mar 14 1997,CONCACAF Ch & Car Cup q in Martinique,Saint Lucia,St Vincent & Grenadines,1193,1230,3,2,22,-22,1215,1208,144,160,6,-7,150,153,40,0,-37
+158,Mar 15 1997,Friendly in Thailand,Thailand,Japan,1404,1724,3,1,23,-23,1427,1701,88,35,9,-2,97,33,20,100,-220
+159,Mar 16 1997,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1599,1823,0,0,7,-7,1606,1816,54,21,1,-1,55,20,40,100,-124
+160,Mar 16 1997,World Cup qualifier in Malaysia,Malaysia,Bangladesh,1294,1031,2,0,7,-7,1301,1024,125,188,3,-2,128,186,40,100,363
+161,Mar 16 1997,CONCACAF Ch & Car Cup q in Martinique,Martinique,St Vincent & Grenadines,1486,1208,7,1,9,-9,1495,1199,80,159,0,-3,80,156,40,100,378
+162,Mar 16 1997,COSAFA Cup in Namibia,Namibia,Zimbabwe,1251,1542,2,1,30,-30,1281,1512,130,78,5,-5,135,73,40,100,-191
+163,Mar 16 1997,World Cup qualifier in Malaysia,Saudi Arabia,Taiwan,1631,1018,2,0,2,-2,1633,1016,49,190,1,-1,50,189,40,0,613
+164,Mar 16 1997,World Cup qualifier in the United States,United States,Canada,1655,1659,3,0,26,-26,1681,1633,32,60,5,-10,37,50,40,100,96
+165,Mar 18 1997,Friendly in Austria,Austria,Slovenia,1731,1549,0,2,-25,25,1706,1574,37,57,-5,5,32,62,20,100,282
+166,Mar 18 1997,Friendly in Kuwait,Kuwait,Bahrain,1636,1386,3,1,4,-4,1640,1382,43,117,3,-1,46,116,20,100,350
+167,Mar 18 1997,World Cup qualifier in Malaysia,Malaysia,Saudi Arabia,1301,1633,0,0,12,-12,1313,1621,128,54,0,-2,128,52,40,100,-232
+168,Mar 18 1997,World Cup qualifier in Malaysia,Taiwan,Bangladesh,1016,1024,3,1,31,-31,1047,993,173,192,8,-3,181,189,40,0,-8
+169,Mar 19 1997,Friendly in Malta,Malta,Hungary,1299,1620,1,4,-8,8,1291,1628,132,49,-1,2,131,51,20,100,-221
+170,Mar 19 1997,Friendly in the United Arab Emirates,United Arab Emirates,Lebanon,1622,1392,2,1,3,-3,1625,1389,53,116,-1,-3,52,113,20,100,330
+171,Mar 20 1997,World Cup qualifier in Malaysia,Malaysia,Taiwan,1313,1047,2,0,7,-7,1320,1040,126,185,1,-2,127,183,40,100,366
+172,Mar 20 1997,World Cup qualifier in Malaysia,Saudi Arabia,Bangladesh,1621,993,4,1,2,-2,1623,991,53,193,0,-2,53,191,40,0,628
+173,Mar 22 1997,Friendly in Azerbaijan,Azerbaijan,Turkmenistan,1402,1423,3,0,14,-14,1416,1409,98,108,5,-4,103,104,20,100,79
+174,Mar 23 1997,Friendly in Bolivia,Bolivia,Jamaica,1670,1573,6,0,10,-10,1680,1563,35,67,2,-2,37,65,20,100,197
+175,Mar 23 1997,World Cup qualifier in Costa Rica,Costa Rica,United States,1606,1681,3,2,19,-19,1625,1662,49,43,3,-3,52,40,40,100,25
+176,Mar 23 1997,World Cup qualifier in Oman,Macao,Nepal,1027,816,1,1,-11,11,1016,827,190,202,-2,2,188,204,30,100,311
+177,Mar 23 1997,World Cup qualifier in Oman,Oman,Japan,1255,1701,0,1,-5,5,1250,1706,142,31,-2,1,140,32,40,100,-346
+178,Mar 23 1997,N Am Ch & UNCAF Cup q in Panama,Panama,Belize,1370,1082,1,1,-16,16,1354,1098,122,170,-2,3,120,173,40,100,388
+179,Mar 23 1997,Friendly in Ukraine,Ukraine,Moldova,1639,1449,1,0,3,-3,1642,1446,41,95,3,-2,44,93,20,100,290
+180,Mar 25 1997,Friendly in Guatemala,Guatemala,Ecuador,1513,1697,0,0,2,-2,1515,1695,72,34,0,0,72,34,20,100,-84
+181,Mar 25 1997,World Cup qualifier in Oman,Japan,Macao,1706,1016,10,0,2,-2,1708,1014,32,188,0,0,32,188,40,0,690
+182,Mar 25 1997,World Cup qualifier in Oman,Oman,Nepal,1250,827,1,0,2,-2,1252,825,138,204,1,0,139,204,20,0,423
+183,Mar 27 1997,World Cup qualifier in Oman,Japan,Nepal,1708,825,6,0,1,-1,1709,824,30,204,1,0,31,204,40,0,883
+184,Mar 27 1997,World Cup qualifier in Saudi Arabia,Malaysia,Taiwan,1320,1040,0,0,-13,13,1307,1053,129,177,-1,3,128,180,40,0,280
+185,Mar 27 1997,World Cup qualifier in Oman,Oman,Macao,1252,1014,4,0,9,-9,1261,1005,135,188,2,0,137,188,40,100,338
+186,Mar 27 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Bangladesh,1623,991,3,0,1,-1,1624,990,54,191,0,0,54,191,20,0,632
+187,Mar 29 1997,World Cup qualifier in Saudi Arabia,Bangladesh,Taiwan,990,1053,2,1,24,-24,1014,1029,185,190,3,-5,188,185,40,0,-63
+188,Mar 29 1997,World Cup qualifier in Croatia,Croatia,Denmark,1889,1970,1,1,-1,1,1888,1971,10,6,1,0,11,6,20,100,19
+189,Mar 29 1997,World Cup qualifier in Cyprus,Cyprus,Russia,1429,1900,1,1,16,-16,1445,1884,90,13,3,-1,93,12,40,100,-371
+190,Mar 29 1997,Friendly in England,England,Mexico,1931,1816,2,0,7,-7,1938,1809,8,22,0,-1,8,21,20,100,215
+191,Mar 29 1997,World Cup qualifier in Italy,Italy,Moldova,2000,1446,3,0,2,-2,2002,1444,5,95,0,-1,5,94,30,0,554
+192,Mar 29 1997,World Cup qualifier in the Netherlands,Netherlands,San Marino,1955,956,4,0,0,0,1955,956,7,195,0,0,7,195,20,0,999
+193,Mar 29 1997,World Cup qualifier in Northern Ireland,Northern Ireland,Portugal,1641,1868,0,0,7,-7,1648,1861,42,13,2,0,44,13,40,100,-127
+194,Mar 29 1997,World Cup qualifier in Romania,Romania,Liechtenstein,1858,1078,8,0,1,-1,1859,1077,14,177,0,0,14,177,20,0,780
+195,Mar 29 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Malaysia,1624,1307,3,0,6,-6,1630,1301,48,128,3,0,51,128,40,100,417
+196,Mar 29 1997,World Cup qualifier in Scotland,Scotland,Estonia,1794,1236,2,0,1,-1,1795,1235,22,143,0,0,22,143,20,0,558
+197,Mar 29 1997,Friendly in Sierra Leone,Sierra Leone,Senegal,1423,1459,2,1,8,-8,1431,1451,94,92,3,-3,97,89,20,100,64
+198,Mar 29 1997,Friendly in Tanzania,Tanzania,Burkina Faso,1331,1347,3,2,8,-8,1339,1339,121,123,1,-1,122,122,20,100,84
+199,Mar 29 1997,Friendly in the United Arab Emirates,United Arab Emirates,Norway,1625,1820,1,4,-13,13,1612,1833,58,15,-3,2,55,17,20,100,-95
+200,Mar 29 1997,World Cup qualifier in Spain,Ukraine,Albania,1642,1422,1,0,9,-9,1651,1413,40,105,2,-2,42,103,40,0,220
+201,Mar 29 1997,World Cup qualifier in Wales,Wales,Belgium,1599,1737,1,2,-18,18,1581,1755,65,24,-4,1,61,25,40,100,-38
+202,Mar 30 1997,N Am Ch & UNCAF Cup q in Belize,Belize,Panama,1098,1354,0,1,-12,12,1086,1366,177,116,-2,2,175,118,40,100,-156
+203,Mar 30 1997,Friendly in Gabon,Gabon,Togo,1469,1402,2,1,6,-6,1475,1396,80,109,2,0,82,109,20,100,167
+204,Mar 30 1997,Friendly in Georgia,Georgia,Armenia,1582,1329,7,0,5,-5,1587,1324,60,128,0,-2,60,126,20,100,353
+205,Mar 30 1997,World Cup qualifier in Hong Kong,Hong Kong,Thailand,1192,1427,3,2,27,-27,1219,1400,141,118,8,-10,149,108,40,100,-135
+206,Mar 30 1997,Friendly in Mozambique,Mozambique,Angola,1384,1498,1,2,-10,10,1374,1508,119,72,-2,3,117,75,20,100,-14
+207,Mar 31 1997,World Cup qualifier in Luxembourg,Luxembourg,Israel,1252,1603,0,3,-13,13,1239,1616,142,54,-1,1,141,55,40,100,-251
+208,Mar 31 1997,World Cup qualifier in Saudi Arabia,Malaysia,Bangladesh,1301,1014,1,0,6,-6,1307,1008,128,188,0,0,128,188,40,0,287
+209,Mar 31 1997,World Cup qualifier in Malta,Malta,Slovakia,1291,1709,0,2,-8,8,1283,1717,137,29,-3,1,134,30,40,100,-318
+210,Mar 31 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Taiwan,1630,1029,6,0,1,-1,1631,1028,51,185,0,0,51,185,20,0,601
+211,Apr 2 1997,World Cup qualifier in Azerbaijan,Azerbaijan,Finland,1416,1452,1,2,-24,24,1392,1476,117,76,-8,6,109,82,40,100,64
+212,Apr 2 1997,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Barbados,Grenada,1291,1254,1,1,-2,2,1289,1256,131,139,0,0,131,139,30,0,37
+213,Apr 2 1997,World Cup qualifier in Bolivia,Bolivia,Argentina,1680,1828,2,1,23,-23,1703,1805,33,26,2,-4,35,22,40,100,-48
+214,Apr 2 1997,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Greece,1594,1683,0,1,-21,21,1573,1704,66,32,-4,2,62,34,40,100,11
+215,Apr 2 1997,Friendly in Brazil,Brazil,Chile,2067,1726,4,0,3,-3,2070,1723,2,28,0,0,2,28,20,100,441
+216,Apr 2 1997,World Cup qualifier in Bulgaria,Bulgaria,Cyprus,1812,1445,4,1,4,-4,1816,1441,18,95,1,-1,19,94,20,0,367
+217,Apr 2 1997,World Cup qualifier in Croatia,Croatia,Slovenia,1888,1574,3,3,-17,17,1871,1591,13,54,-1,4,12,58,40,100,414
+218,Apr 2 1997,World Cup qualifier in Czechia,Czechia,Yugoslavia,1926,1927,1,2,-26,26,1900,1953,10,5,0,2,10,7,40,100,99
+219,Apr 2 1997,CONCACAF Ch & Car Cup q in Dominica,Dominica,British Virgin Islands,1183,822,6,1,5,-5,1188,817,157,206,1,0,158,206,40,100,461
+220,Apr 2 1997,Friendly in France,France,Sweden,2035,1834,1,0,3,-3,2038,1831,3,20,0,-2,3,18,20,100,301
+221,Apr 2 1997,World Cup qualifier in Spain,Germany,Albania,2083,1413,3,2,1,-1,2084,1412,1,100,0,1,1,101,30,0,670
+222,Apr 2 1997,Friendly in Hungary,Hungary,Australia,1628,1784,1,3,-13,13,1615,1797,58,23,-3,0,55,23,20,100,-56
+223,Apr 2 1997,World Cup qualifier in Lithuania,Lithuania,Romania,1443,1859,0,1,-6,6,1437,1865,95,12,0,1,95,13,40,100,-316
+224,Apr 2 1997,World Cup qualifier in Macedonia,Macedonia,Ireland,1535,1730,3,2,25,-25,1560,1705,65,39,2,-6,67,33,40,100,-95
+225,Apr 2 1997,World Cup qualifier in Paraguay,Paraguay,Colombia,1826,1853,2,1,16,-16,1842,1837,11,17,4,-1,15,16,30,0,-27
+226,Apr 2 1997,World Cup qualifier in Peru,Peru,Ecuador,1642,1695,1,1,-3,3,1639,1698,46,38,0,-2,46,36,40,100,47
+227,Apr 2 1997,World Cup qualifier in Poland,Poland,Italy,1659,2002,0,0,12,-12,1671,1990,37,5,2,0,39,5,40,100,-243
+228,Apr 2 1997,World Cup qualifier in Scotland,Scotland,Austria,1795,1706,2,0,15,-15,1810,1691,18,41,2,-4,20,37,40,100,189
+229,Apr 2 1997,CONCACAF Ch & Car Cup q in Dominica,Sint Maarten,Anguilla,958,519,3,0,5,-5,963,514,194,220,0,0,194,220,40,0,439
+230,Apr 2 1997,Friendly in Switzerland,Switzerland,Latvia,1712,1392,1,0,2,-2,1714,1390,31,112,0,-1,31,111,20,100,420
+231,Apr 2 1997,Friendly in Trinidad and Tobago,Trinidad and Tobago,Guyana,1486,1103,3,0,2,-2,1488,1101,81,173,0,-1,81,172,20,100,483
+232,Apr 2 1997,World Cup qualifier in Turkey,Turkey,Netherlands,1689,1955,1,0,29,-29,1718,1926,23,11,6,-2,29,9,40,100,-166
+233,Apr 2 1997,World Cup qualifier in Ukraine,Ukraine,Northern Ireland,1651,1648,2,1,14,-14,1665,1634,38,54,2,-5,40,49,40,100,103
+234,Apr 2 1997,World Cup qualifier in Uruguay,Uruguay,Venezuela,1726,1358,3,1,4,-4,1730,1354,26,120,1,0,27,120,40,100,468
+235,Apr 4 1997,CONCACAF Ch & Car Cup q in Dominica,British Virgin Islands,Anguilla,817,514,4,1,10,-10,827,504,202,220,2,0,204,220,40,0,303
+236,Apr 4 1997,CONCACAF Ch & Car Cup q in Dominica,Dominica,Sint Maarten,1188,963,1,0,5,-5,1193,958,158,194,0,0,158,194,40,100,325
+237,Apr 4 1997,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Grenada,Guyana,1256,1101,5,1,22,-22,1278,1079,133,180,3,-4,136,176,40,0,155
+238,Apr 4 1997,Friendly in Lebanon,Lebanon,Norway,1389,1833,0,0,8,-8,1397,1825,103,19,5,-1,108,18,20,100,-344
+239,Apr 4 1997,Friendly in Trinidad and Tobago,Trinidad and Tobago,Barbados,1488,1289,0,1,-17,17,1471,1306,89,127,-4,2,85,129,20,100,299
+240,Apr 5 1997,World Cup qualifier in Nigeria,Nigeria,Guinea,1747,1449,2,1,4,-4,1751,1445,26,93,0,-1,26,92,40,100,398
+241,Apr 5 1997,World Cup qualifier in Sierra Leone,Sierra Leone,Ghana,1431,1567,1,1,2,-2,1433,1565,97,65,0,-1,97,64,30,100,-36
+242,Apr 6 1997,World Cup qualifier in Angola,Angola,Togo,1508,1396,3,1,14,-14,1522,1382,69,119,3,-5,72,114,40,100,212
+243,Apr 6 1997,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Barbados,Guyana,1306,1079,2,0,13,-13,1319,1066,125,180,2,-2,127,178,40,0,227
+244,Apr 6 1997,World Cup qualifier in Cameroon,Cameroon,Zimbabwe,1561,1512,1,0,12,-12,1573,1500,56,83,5,-5,61,78,40,100,149
+245,Apr 6 1997,World Cup qualifier in Canada,Canada,El Salvador,1633,1516,0,0,-11,11,1622,1527,56,69,-3,1,53,70,40,100,217
+246,Apr 6 1997,World Cup qualifier in Congo,Congo,South Africa,1434,1762,2,0,47,-47,1481,1715,66,36,15,-6,81,30,40,100,-228
+247,Apr 6 1997,CONCACAF Ch & Car Cup q in Dominica,Dominica,Anguilla,1193,504,5,0,1,-1,1194,503,158,220,0,0,158,220,20,0,689
+248,Apr 6 1997,World Cup qualifier in Gabon,Gabon,Morocco,1475,1664,0,4,-28,28,1447,1692,102,33,-10,4,92,37,40,100,-89
+249,Apr 6 1997,Nehru Gold Cup in India,India,Iraq,1055,1650,0,1,-2,2,1053,1652,179,43,0,0,179,43,30,100,-495
+250,Apr 6 1997,World Cup qualifier in Indonesia,Indonesia,Cambodia,1259,1024,8,0,12,-12,1271,1012,137,188,1,-1,138,187,40,100,335
+251,Apr 6 1997,World Cup qualifier in Kenya,Kenya,Burkina Faso,1427,1339,4,3,10,-10,1437,1329,94,124,2,-1,96,123,40,100,188
+252,Apr 6 1997,World Cup qualifier in Ghana,Liberia,Egypt,1387,1588,1,0,30,-30,1417,1558,88,77,13,-9,101,68,40,0,-201
+253,Apr 6 1997,World Cup qualifier in Namibia,Namibia,Tunisia,1281,1619,1,2,-8,8,1273,1627,139,49,-2,2,137,51,40,100,-238
+254,Apr 6 1997,CONCACAF Ch & Car Cup q in Dominica,Sint Maarten,British Virgin Islands,958,827,3,2,13,-13,971,814,192,208,1,-2,193,206,40,0,131
+255,Apr 6 1997,Friendly in Trinidad and Tobago,Trinidad and Tobago,Grenada,1471,1278,2,3,-17,17,1454,1295,89,128,-2,4,87,132,20,100,293
+256,Apr 8 1997,World Cup qualifier in Bahrain,Jordan,United Arab Emirates,1315,1612,0,0,14,-14,1329,1598,118,56,5,0,123,56,40,0,-297
+257,Apr 9 1997,World Cup qualifier in Zimbabwe,Zaire,Zambia,1508,1638,2,2,7,-7,1515,1631,71,50,2,-1,73,49,40,0,-130
+258,Apr 10 1997,Nehru Gold Cup in India,India,Iraq,1053,1652,1,1,18,-18,1071,1634,177,51,1,-4,178,47,40,100,-499
+259,Apr 11 1997,World Cup qualifier in Bahrain,Bahrain,United Arab Emirates,1382,1598,1,2,-14,14,1368,1612,120,56,-3,0,117,56,40,100,-116
+260,Apr 11 1997,Friendly in Kuwait,Kuwait,Iran,1640,1678,0,2,-18,18,1622,1696,60,35,-8,2,52,37,20,100,62
+261,Apr 12 1997,COSAFA Cup in Malawi,Malawi,Mozambique,1448,1374,2,2,-9,9,1439,1383,99,112,-4,2,95,114,40,100,174
+262,Apr 13 1997,Friendly in the United States,El Salvador,Guatemala,1527,1515,1,1,0,0,1527,1515,70,73,0,0,70,73,20,0,12
+263,Apr 13 1997,World Cup qualifier in Indonesia,Indonesia,Yemen,1271,1176,0,0,-10,10,1261,1186,138,157,0,2,138,159,40,100,195
+264,Apr 13 1997,World Cup qualifier in Lebanon,Lebanon,Singapore,1397,1277,1,1,-11,11,1386,1288,117,132,-4,2,113,134,40,100,220
+265,Apr 13 1997,World Cup qualifier in Mexico,Mexico,Jamaica,1809,1563,6,0,10,-10,1819,1553,17,71,2,-3,19,68,40,100,346
+266,Apr 14 1997,World Cup qualifier in Bahrain,Bahrain,Jordan,1368,1329,1,0,12,-12,1380,1317,115,133,1,-5,116,128,40,100,139
+267,Apr 16 1997,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Costa Rica,1515,1625,1,1,1,-1,1516,1624,73,51,0,0,73,51,40,100,-10
+268,Apr 16 1997,N Am Ch q & UNCAF Cup in Guatemala,Honduras,Panama,1560,1366,5,0,20,-20,1580,1346,57,122,4,-2,61,120,40,0,194
+269,Apr 17 1997,Friendly in Thailand,Thailand,Kuwait,1400,1622,3,1,20,-20,1420,1602,92,60,8,-4,100,56,20,100,-122
+270,Apr 18 1997,N Am Ch q & UNCAF Cup in Guatemala,Costa Rica,Nicaragua,1624,937,5,1,1,-1,1625,936,51,196,0,0,51,196,20,0,687
+271,Apr 18 1997,N Am Ch q & UNCAF Cup in Guatemala,Honduras,El Salvador,1580,1527,3,0,30,-30,1610,1497,51,86,5,-8,56,78,40,0,53
+272,Apr 19 1997,Friendly in Iraq,Iraq,Tajikistan,1634,1427,5,1,5,-5,1639,1422,44,99,1,0,45,99,20,100,307
+273,Apr 19 1997,World Cup qualifier in the United Arab Emirates,Jordan,Bahrain,1317,1380,4,1,41,-41,1358,1339,108,128,10,-6,118,122,40,0,-63
+274,Apr 19 1997,COSAFA Cup in Zambia,Zambia,Malawi,1631,1439,4,0,12,-12,1643,1427,40,101,4,-3,44,98,40,100,292
+275,Apr 20 1997,World Cup qualifier in Cambodia,Cambodia,Yemen,1012,1186,0,1,-16,16,996,1202,191,149,-2,5,189,154,40,100,-74
+276,Apr 20 1997,Friendly in Cameroon,Cameroon,Congo,1573,1481,2,0,7,-7,1580,1474,62,83,0,-1,62,82,20,100,192
+277,Apr 20 1997,N Am Ch q & UNCAF Cup in Guatemala,El Salvador,Panama,1497,1346,2,0,18,-18,1515,1328,68,128,5,-4,73,124,40,0,151
+278,Apr 20 1997,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Nicaragua,1516,936,6,1,2,-2,1518,934,72,196,0,0,72,196,30,0,580
+279,Apr 20 1997,World Cup qualifier in the United States,United States,Mexico,1662,1819,2,2,3,-3,1665,1816,40,19,1,0,41,19,40,100,-57
+280,Apr 21 1997,Friendly in China,China,Myanmar,1639,1134,5,0,1,-1,1640,1133,45,167,0,0,45,167,20,100,605
+281,Apr 21 1997,Friendly in Iran,Iran,Kenya,1696,1437,3,0,4,-4,1700,1433,35,97,1,-1,36,96,20,100,359
+282,Apr 22 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Bahrain,1612,1339,3,0,7,-7,1619,1332,51,123,2,-1,53,122,40,100,373
+283,Apr 23 1997,Friendly in China,China,South Korea,1640,1645,0,2,-19,19,1621,1664,59,43,-7,0,52,43,20,100,95
+284,Apr 23 1997,N Am Ch q & UNCAF Cup in Guatemala,Costa Rica,Honduras,1625,1610,4,0,36,-36,1661,1574,37,68,7,-6,44,62,40,0,15
+285,Apr 23 1997,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,El Salvador,1518,1515,1,0,14,-14,1532,1501,68,81,2,-4,70,77,40,100,103
+286,Apr 25 1997,N Am Ch q & UNCAF Cup in Guatemala,Costa Rica,El Salvador,1661,1501,1,0,11,-11,1672,1490,36,83,4,-3,40,80,40,0,160
+287,Apr 25 1997,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Honduras,1532,1574,1,0,17,-17,1549,1557,68,72,1,-5,69,67,30,0,-42
+288,Apr 25 1997,Friendly in Turkmenistan,Turkmenistan,Azerbaijan,1409,1392,2,0,10,-10,1419,1382,98,119,3,-5,101,114,20,100,117
+289,Apr 26 1997,World Cup qualifier in Namibia,Namibia,Egypt,1273,1558,2,3,-10,10,1263,1568,137,60,0,3,137,63,40,100,-185
+290,Apr 26 1997,World Cup qualifier in Sierra Leone,Sierra Leone,Morocco,1433,1692,0,1,-11,11,1422,1703,100,32,-2,3,98,35,40,100,-159
+291,Apr 26 1997,World Cup qualifier in Singapore,Singapore,Kuwait,1288,1602,0,1,-9,9,1279,1611,138,56,-2,0,136,56,40,100,-214
+292,Apr 26 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Jordan,1619,1358,2,0,7,-7,1626,1351,49,120,2,-1,51,119,40,100,361
+293,Apr 27 1997,World Cup qualifier in Burkina Faso,Burkina Faso,Nigeria,1329,1751,1,2,-5,5,1324,1756,129,23,-3,1,126,24,40,100,-322
+294,Apr 27 1997,World Cup qualifier in Cambodia,Cambodia,Indonesia,996,1261,1,1,9,-9,1005,1252,187,140,1,-1,188,139,40,100,-165
+295,Apr 27 1997,World Cup qualifier in Cameroon,Cameroon,Togo,1580,1382,2,0,9,-9,1589,1373,57,118,2,-2,59,116,40,100,298
+296,Apr 27 1997,World Cup qualifier in Canada,Canada,Jamaica,1622,1553,0,0,-9,9,1613,1562,58,64,-3,2,55,66,40,100,169
+297,Apr 27 1997,Friendly in China,China,Iran,1621,1700,0,0,-1,1,1620,1701,51,37,1,0,52,37,20,100,21
+298,Apr 27 1997,CONCACAF Ch & Car Cup q in Dominica,Dominica,Martinique,1194,1495,1,2,-10,10,1184,1505,159,71,0,4,159,75,40,100,-201
+299,Apr 27 1997,N Am Ch q & UNCAF Cup in Guatemala,El Salvador,Honduras,1490,1557,0,0,4,-4,1494,1553,78,69,1,-1,79,68,40,0,-67
+300,Apr 27 1997,World Cup qualifier in Ghana,Ghana,Gabon,1565,1447,3,0,16,-16,1581,1431,57,99,4,-4,61,95,40,100,218
+301,Apr 27 1997,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Costa Rica,1549,1672,1,1,1,-1,1550,1671,69,40,0,0,69,40,20,100,-23
+302,Apr 27 1997,World Cup qualifier in Kenya,Kenya,Guinea,1433,1445,1,0,15,-15,1448,1430,86,100,5,-4,91,96,40,100,88
+303,Apr 27 1997,Friendly in Lebanon,Lebanon,Libya,1386,1502,2,0,16,-16,1402,1486,106,84,3,-4,109,80,20,100,-16
+304,Apr 27 1997,World Cup qualifier in Togo,South Africa,Zaire,1715,1515,2,1,10,-10,1725,1505,24,77,3,-2,27,75,40,0,200
+305,Apr 27 1997,World Cup qualifier in Tunisia,Tunisia,Liberia,1627,1417,2,0,9,-9,1636,1408,46,105,2,-1,48,104,40,100,310
+306,Apr 27 1997,World Cup qualifier in Zambia,Zambia,Congo,1643,1474,3,0,12,-12,1655,1462,45,88,0,-3,45,85,40,100,269
+307,Apr 27 1997,World Cup qualifier in Zimbabwe,Zimbabwe,Angola,1500,1522,0,0,-4,4,1496,1526,79,70,-1,1,78,71,40,100,78
+308,Apr 28 1997,Friendly in Bermuda,Bermuda,Saint Martin,1364,1104,2,1,2,-2,1366,1102,117,171,0,-1,117,170,20,100,360
+309,Apr 29 1997,World Cup qualifier in Chile,Chile,Venezuela,1723,1354,6,0,5,-5,1728,1349,26,120,1,-1,27,119,20,0,369
+310,Apr 29 1997,Friendly in Slovakia,Slovakia,Iceland,1717,1524,3,1,5,-5,1722,1519,28,72,1,0,29,72,20,100,293
+311,Apr 30 1997,World Cup qualifier in Argentina,Argentina,Ecuador,1805,1698,2,1,9,-9,1814,1689,14,36,4,1,18,37,40,100,207
+312,Apr 30 1997,World Cup qualifier in Armenia,Armenia,Northern Ireland,1324,1634,0,0,11,-11,1335,1623,118,55,4,-3,122,52,30,0,-310
+313,Apr 30 1997,World Cup qualifier in Austria,Austria,Estonia,1691,1235,2,0,2,-2,1693,1233,33,145,3,-1,36,144,20,0,456
+314,Apr 30 1997,Friendly in the United States,Brazil,Mexico,2070,1816,4,0,7,-7,2077,1809,2,19,0,0,2,19,20,0,254
+315,Apr 30 1997,World Cup qualifier in Colombia,Colombia,Peru,1837,1639,0,1,-34,34,1803,1673,26,34,-5,6,21,40,40,100,298
+316,Apr 30 1997,World Cup qualifier in Denmark,Denmark,Slovenia,1971,1591,4,0,4,-4,1975,1587,6,60,0,-1,6,59,20,0,380
+317,Apr 30 1997,World Cup qualifier in England,England,Georgia,1938,1587,2,0,4,-4,1942,1583,8,60,0,0,8,60,20,0,351
+318,Apr 30 1997,World Cup qualifier in Germany,Germany,Ukraine,2084,1665,2,0,3,-3,2087,1662,1,48,0,-3,1,45,40,100,519
+319,Apr 30 1997,World Cup qualifier in Greece,Greece,Croatia,1704,1871,0,1,-16,16,1688,1887,42,10,-4,1,38,11,40,100,-67
+320,Apr 30 1997,World Cup qualifier in Israel,Israel,Cyprus,1616,1441,2,0,10,-10,1626,1431,47,95,3,-1,50,94,40,100,275
+321,Apr 30 1997,World Cup qualifier in Italy,Italy,Poland,1990,1671,3,0,6,-6,1996,1665,5,44,0,-2,5,42,40,100,419
+322,Apr 30 1997,World Cup qualifier in Latvia,Latvia,Belarus,1390,1405,2,0,23,-23,1413,1382,95,120,8,-7,103,113,30,0,-15
+323,Apr 30 1997,World Cup qualifier in Liechtenstein,Liechtenstein,Lithuania,1077,1437,0,2,-11,11,1066,1448,180,88,-2,3,178,91,40,100,-260
+324,Apr 30 1997,World Cup qualifier in Malta,Malta,Faroe Islands,1283,1174,1,2,-31,31,1252,1205,141,146,-3,8,138,154,40,100,209
+325,Apr 30 1997,World Cup qualifier in Norway,Norway,Finland,1825,1476,1,1,-17,17,1808,1493,22,79,-2,1,20,80,40,100,449
+326,Apr 30 1997,World Cup qualifier in Paraguay,Paraguay,Uruguay,1842,1730,3,1,14,-14,1856,1716,15,34,0,-4,15,30,40,100,212
+327,Apr 30 1997,World Cup qualifier in Romania,Romania,Ireland,1865,1705,1,0,7,-7,1872,1698,13,37,0,-2,13,35,40,100,260
+328,Apr 30 1997,World Cup qualifier in Russia,Russia,Luxembourg,1884,1239,3,0,1,-1,1885,1238,13,141,-1,0,12,141,20,0,645
+329,Apr 30 1997,World Cup qualifier in San Marino,San Marino,Netherlands,956,1926,0,6,-1,1,955,1927,195,9,0,0,195,9,40,100,-870
+330,Apr 30 1997,World Cup qualifier in Sweden,Sweden,Scotland,1831,1810,2,1,13,-13,1844,1797,15,23,1,-1,16,22,40,100,121
+331,Apr 30 1997,World Cup qualifier in Switzerland,Switzerland,Hungary,1714,1615,1,0,10,-10,1724,1605,25,58,3,-2,28,56,40,100,199
+332,Apr 30 1997,Friendly in Syria,Syria,Libya,1469,1486,1,1,-2,2,1467,1488,84,82,0,-1,84,81,20,100,83
+333,Apr 30 1997,World Cup qualifier in Turkey,Turkey,Belgium,1718,1755,1,3,-35,35,1683,1790,48,23,-9,1,39,24,40,100,63
+334,Apr 30 1997,World Cup qualifier in Yugoslavia,Yugoslavia,Spain,1953,2026,1,1,-2,2,1951,2028,7,4,0,0,7,4,40,100,27
+335,May 1 1997,Friendly in Fiji,Fiji,New Caledonia,1408,1202,5,1,5,-5,1413,1197,101,163,2,-4,103,159,20,100,306
+336,May 1 1997,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1454,1562,1,1,0,0,1454,1562,87,66,0,0,87,66,20,100,-8
+337,May 4 1997,CONCACAF Ch & Car Cup q in Aruba,Aruba,Jamaica,992,1562,0,6,-5,5,987,1567,191,64,0,1,191,65,40,100,-470
+338,May 4 1997,World Cup qualifier in El Salvador,El Salvador,Costa Rica,1494,1671,2,1,24,-24,1518,1647,67,51,6,-5,73,46,40,100,-77
+339,May 4 1997,CONCACAF Ch & Car Cup q in Martinique,Martinique,Dominica,1505,1184,7,0,7,-7,1512,1177,73,164,1,-2,74,162,40,100,421
+340,May 4 1997,World Cup qualifier in Tajikistan,Tajikistan,Vietnam,1422,1232,4,0,12,-12,1434,1220,90,151,4,-3,94,148,40,100,290
+341,May 4 1997,World Cup qualifier in Turkmenistan,Turkmenistan,China,1419,1620,1,4,-25,25,1394,1645,117,41,-8,6,109,47,40,100,-101
+342,May 7 1997,World Cup qualifier in Ukraine,Ukraine,Armenia,1662,1335,1,1,-17,17,1645,1352,48,114,-2,4,46,118,40,100,427
+343,May 8 1997,Friendly in Ivory Coast,Ivory Coast,Senegal,1542,1451,4,1,9,-9,1551,1442,68,97,1,-4,69,93,20,100,191
+344,May 8 1997,World Cup qualifier in Kuwait,Kuwait,Lebanon,1611,1402,2,0,9,-9,1620,1393,53,110,1,-1,54,109,40,100,309
+345,May 9 1997,World Cup qualifier in Yemen,Yemen,Uzbekistan,1202,1597,0,1,-6,6,1196,1603,163,57,-4,0,159,57,40,100,-295
+346,May 11 1997,World Cup qualifier in Costa Rica,Costa Rica,Jamaica,1647,1567,3,1,16,-16,1663,1551,43,71,1,-3,44,68,40,100,180
+347,May 11 1997,World Cup qualifier in Kazakhstan,Kazakhstan,Pakistan,1473,867,3,0,1,-1,1474,866,82,201,0,0,82,201,20,0,606
+348,May 11 1997,World Cup qualifier in Tajikistan,Tajikistan,China,1434,1645,0,1,-14,14,1420,1659,104,44,-5,1,99,45,40,100,-111
+349,May 11 1997,World Cup qualifier in Turkmenistan,Turkmenistan,Vietnam,1394,1220,2,1,7,-7,1401,1213,108,154,0,-3,108,151,40,100,274
+350,May 16 1997,World Cup qualifier in Yemen,Yemen,Cambodia,1196,1005,7,0,14,-14,1210,991,145,192,7,-2,152,190,40,100,291
+351,May 18 1997,World Cup qualifier in Estonia,Estonia,Latvia,1233,1413,1,3,-23,23,1210,1436,158,86,-7,8,151,94,40,100,-80
+352,May 18 1997,World Cup qualifier in Jamaica,Jamaica,El Salvador,1551,1518,1,0,13,-13,1564,1505,64,79,2,-3,66,76,40,100,133
+353,May 21 1997,World Cup qualifier in Ireland,Ireland,Liechtenstein,1698,1066,5,0,1,-1,1699,1065,35,180,0,-1,35,179,20,0,632
+354,May 21 1997,Friendly in Japan,Japan,South Korea,1709,1664,1,1,-4,4,1705,1668,31,39,0,2,31,41,20,100,145
+355,May 21 1997,Friendly in Thailand,Thailand,Northern Ireland,1420,1623,0,0,3,-3,1423,1620,98,53,1,0,99,53,20,100,-103
+356,May 22 1997,Friendly in Sweden,Sweden,Poland,1844,1665,2,2,-7,7,1837,1672,16,40,0,1,16,41,20,100,279
+357,May 23 1997,World Cup qualifier in Pakistan,Pakistan,Iraq,866,1639,2,6,-2,2,864,1641,201,48,0,0,201,48,40,100,-673
+358,May 24 1997,Friendly in England,England,South Africa,1942,1725,2,1,3,-3,1945,1722,8,29,0,-1,8,28,20,100,317
+359,May 24 1997,World Cup qualifier in Singapore,Singapore,Lebanon,1279,1393,1,2,-19,19,1260,1412,139,99,-2,5,137,104,40,100,-14
+360,May 25 1997,World Cup qualifier in Turkmenistan,Turkmenistan,Tajikistan,1401,1420,1,2,-25,25,1376,1445,121,83,-6,9,115,92,40,100,81
+361,May 25 1997,World Cup qualifier in Uzbekistan,Uzbekistan,Cambodia,1603,991,6,0,1,-1,1604,990,57,190,0,0,57,190,20,0,612
+362,May 25 1997,World Cup qualifier in Vietnam,Vietnam,China,1213,1659,1,3,-7,7,1206,1666,158,41,-4,2,154,43,40,100,-346
+363,May 27 1997,Friendly in Kuwait,Kuwait,Zambia,1620,1655,2,1,8,-8,1628,1647,49,46,2,0,51,46,20,100,65
+364,May 27 1997,Friendly in Scotland,Scotland,Wales,1797,1581,0,1,-17,17,1780,1598,26,55,-2,3,24,58,20,100,316
+365,May 28 1997,Friendly in El Salvador,El Salvador,Ecuador,1505,1689,0,2,-11,11,1494,1700,82,33,-3,2,79,35,20,100,-84
+366,May 28 1997,World Cup qualifier in South Korea,South Korea,Hong Kong,1668,1219,4,0,3,-3,1671,1216,42,147,0,0,42,147,20,0,449
+367,May 30 1997,Friendly in Norway,Norway,Brazil,1808,2077,4,2,22,-22,1830,2055,14,2,3,0,17,2,20,100,-169
+368,May 31 1997,Friendly in Burkina Faso,Burkina Faso,Mali,1324,1379,2,0,13,-13,1337,1366,117,118,5,-2,122,116,20,100,45
+369,May 31 1997,African Nations Cup qualifier in Morocco,Morocco,Ethiopia,1703,1326,4,0,5,-5,1708,1321,30,129,1,-2,31,127,40,100,477
+370,May 31 1997,World Cup qualifier in Papua New Guinea,Papua New Guinea,New Zealand,1093,1456,1,0,33,-33,1126,1423,164,112,4,-13,168,99,40,100,-263
+371,May 31 1997,World Cup qualifier in Poland,Poland,England,1672,1945,0,2,-16,16,1656,1961,49,6,-4,1,45,7,40,100,-173
+372,May 31 1997,COSAFA Cup in Tanzania,Tanzania,Namibia,1339,1263,0,0,-9,9,1330,1272,126,135,-2,0,124,135,40,100,176
+373,May 31 1997,Friendly in Tunisia,Tunisia,Algeria,1636,1567,0,1,-15,15,1621,1582,57,59,-4,3,53,62,20,100,169
+374,Jun 1 1997,World Cup qualifier in Canada,Canada,Costa Rica,1613,1663,1,0,17,-17,1630,1646,45,48,5,-2,50,46,30,0,-50
+375,Jun 1 1997,World Cup qualifier in China,China,Turkmenistan,1666,1376,1,0,4,-4,1670,1372,40,116,1,-1,41,115,40,100,390
+376,Jun 1 1997,World Cup qualifier in Indonesia,Indonesia,Uzbekistan,1252,1604,1,1,12,-12,1264,1592,134,59,2,-1,136,58,30,0,-352
+377,Jun 1 1997,Friendly in Malta,Malta,Scotland,1252,1780,2,3,-2,2,1250,1782,140,24,-1,0,139,24,20,100,-428
+378,Jun 1 1997,World Cup qualifier in South Korea,South Korea,Thailand,1671,1423,0,0,-15,15,1656,1438,47,89,-3,5,44,94,40,100,348
+379,Jun 1 1997,World Cup qualifier in Vietnam,Vietnam,Tajikistan,1206,1445,0,4,-23,23,1183,1468,166,77,-6,7,160,84,40,100,-139
+380,Jun 1 1997,Friendly in Zambia,Zambia,Cameroon,1647,1589,3,0,10,-10,1657,1579,40,67,3,-4,43,63,20,100,158
+381,Jun 2 1997,World Cup qualifier in Syria,Iran,Maldives,1701,746,17,0,1,-1,1702,745,34,208,0,0,34,208,40,0,955
+382,Jun 3 1997,Friendly tournament in France,France,Brazil,2038,2055,1,1,-4,4,2034,2059,3,2,0,0,3,2,30,100,83
+383,Jun 4 1997,Friendly tournament in France,England,Italy,1961,1996,2,0,25,-25,1986,1971,3,9,2,-2,5,7,30,0,-35
+384,Jun 4 1997,Friendly in Estonia,Estonia,Azerbaijan,1210,1382,1,0,12,-12,1222,1370,142,116,4,-2,146,114,20,100,-72
+385,Jun 4 1997,World Cup qualifier in Syria,Iran,Kyrgyzstan,1702,1201,7,0,5,-5,1707,1196,28,161,3,-3,31,158,40,0,501
+386,Jun 4 1997,Friendly tournament in South Africa,South Africa,Netherlands,1722,1927,0,2,-16,16,1706,1943,36,9,-4,0,32,9,30,100,-105
+387,Jun 4 1997,World Cup qualifier in Syria,Syria,Maldives,1467,745,12,0,1,-1,1468,744,83,208,1,0,84,208,20,0,722
+388,Jun 4 1997,Friendly in Togo,Togo,Burkina Faso,1373,1337,0,0,-4,4,1369,1341,116,120,-1,1,115,121,20,100,136
+389,Jun 4 1997,Friendly in the United States,United States,Paraguay,1665,1856,0,0,3,-3,1668,1853,42,15,0,0,42,15,20,100,-91
+390,Jun 5 1997,World Cup qualifier in Kuwait,Kuwait,Singapore,1628,1260,4,0,5,-5,1633,1255,47,138,2,0,49,138,40,100,468
+391,Jun 6 1997,World Cup qualifier in Iraq,Iraq,Kazakhstan,1641,1474,1,2,-33,33,1608,1507,62,68,-7,7,55,75,40,100,267
+392,Jun 6 1997,World Cup qualifier in Syria,Kyrgyzstan,Maldives,1196,744,3,0,5,-5,1201,739,152,208,3,0,155,208,40,0,452
+393,Jun 6 1997,Friendly in Palestine,Palestine,Jordan,1237,1351,0,0,0,0,1237,1351,142,119,0,0,142,119,20,100,-14
+394,Jun 6 1997,Friendly in Senegal,Senegal,Algeria,1442,1582,0,0,1,-1,1443,1581,93,61,0,0,93,61,20,100,-40
+395,Jun 6 1997,World Cup qualifier in Syria,Syria,Iran,1468,1707,0,1,-12,12,1456,1719,88,27,-2,2,86,29,40,100,-139
+396,Jun 7 1997,World Cup qualifier in Belgium,Belgium,San Marino,1790,955,6,0,0,0,1790,955,23,195,0,0,23,195,20,0,835
+397,Jun 7 1997,World Cup qualifier in Fiji,Fiji,New Zealand,1413,1423,0,1,-25,25,1388,1448,117,80,-7,10,110,90,40,100,90
+398,Jun 7 1997,Friendly tournament in France,France,England,2034,1986,0,1,-21,21,2013,2007,5,5,-1,0,4,5,30,100,148
+399,Jun 7 1997,World Cup qualifier in Georgia,Georgia,Moldova,1583,1444,2,0,12,-12,1595,1432,56,100,2,-4,58,96,40,100,239
+400,Jun 7 1997,World Cup qualifier in Macedonia,Macedonia,Iceland,1560,1519,1,0,12,-12,1572,1507,61,76,3,-2,64,74,40,100,141
+401,Jun 7 1997,World Cup qualifier in Morocco,Morocco,Ghana,1708,1581,1,0,9,-9,1717,1572,29,67,1,-3,30,64,40,100,227
+402,Jun 7 1997,World Cup qualifier in Nigeria,Nigeria,Kenya,1756,1448,3,0,6,-6,1762,1442,25,96,0,-3,25,93,40,100,408
+403,Jun 7 1997,World Cup qualifier in Portugal,Portugal,Albania,1861,1412,2,0,2,-2,1863,1410,14,104,0,0,14,104,20,0,449
+404,Jun 7 1997,World Cup qualifier in Ukraine,Ukraine,Germany,1645,2087,0,0,15,-15,1660,2072,39,1,4,0,43,1,40,100,-342
+405,Jun 8 1997,World Cup qualifier in Angola,Angola,Cameroon,1526,1579,1,1,-3,3,1523,1582,71,60,0,1,71,61,40,100,47
+406,Jun 8 1997,World Cup qualifier in Argentina,Argentina,Peru,1814,1673,2,0,12,-12,1826,1661,15,42,2,-1,17,41,40,100,241
+407,Jun 8 1997,World Cup qualifier in Belarus,Belarus,Scotland,1382,1782,0,1,-6,6,1376,1788,114,24,-1,0,113,24,40,100,-300
+408,Jun 8 1997,Friendly tournament in France,Brazil,Italy,2059,1971,3,3,-4,4,2055,1975,2,7,0,0,2,7,30,0,88
+409,Jun 8 1997,World Cup qualifier in Bulgaria,Bulgaria,Luxembourg,1816,1238,4,0,1,-1,1817,1237,22,139,-2,1,20,140,20,0,578
+410,Jun 8 1997,World Cup qualifier in China,China,Tajikistan,1670,1468,0,0,-14,14,1656,1482,45,80,-2,2,43,82,40,100,302
+411,Jun 8 1997,World Cup qualifier in Congo,Congo,DR Congo,1462,1505,1,0,17,-17,1479,1488,81,81,2,-2,83,79,30,0,-43
+412,Jun 8 1997,World Cup qualifier in Denmark,Denmark,Bosnia and Herzegovina,1975,1573,2,0,3,-3,1978,1570,6,67,0,-2,6,65,20,0,402
+413,Jun 8 1997,World Cup qualifier in Ecuador,Ecuador,Chile,1700,1728,1,1,-4,4,1696,1732,37,26,-1,0,36,26,40,100,72
+414,Jun 8 1997,World Cup qualifier in Egypt,Egypt,Tunisia,1568,1621,0,0,-3,3,1565,1624,66,51,0,1,66,52,40,100,47
+415,Jun 8 1997,World Cup qualifier in El Salvador,El Salvador,Mexico,1494,1809,0,1,-9,9,1485,1818,82,18,-1,1,81,19,40,100,-215
+416,Jun 8 1997,World Cup qualifier in Estonia,Estonia,Sweden,1222,1837,2,3,-2,2,1220,1839,150,16,-2,0,148,16,40,100,-515
+417,Jun 8 1997,World Cup qualifier in the Faroe Islands,Faroe Islands,Malta,1205,1250,2,1,17,-17,1222,1233,138,147,8,-4,146,143,30,0,-45
+418,Jun 8 1997,World Cup qualifier in Finland,Finland,Azerbaijan,1493,1370,3,0,15,-15,1508,1355,67,122,7,-4,74,118,40,100,223
+419,Jun 8 1997,World Cup qualifier in Guinea,Guinea,Burkina Faso,1430,1341,3,1,15,-15,1445,1326,85,129,7,-4,92,125,40,100,189
+420,Jun 8 1997,World Cup qualifier in Hungary,Hungary,Norway,1605,1830,1,1,7,-7,1612,1823,54,19,1,-1,55,18,40,100,-125
+421,Jun 8 1997,Friendly tournament in Japan,Japan,Croatia,1705,1887,4,3,18,-18,1723,1869,25,15,4,-2,29,13,30,100,-82
+422,Jun 8 1997,World Cup qualifier in Latvia,Latvia,Austria,1436,1693,1,3,-17,17,1419,1710,107,31,-6,3,101,34,40,100,-157
+423,Jun 8 1997,World Cup qualifier in Liberia,Liberia,Namibia,1408,1272,1,2,-32,32,1376,1304,121,125,-8,5,113,130,40,100,236
+424,Jun 8 1997,World Cup qualifier in Russia,Russia,Israel,1885,1626,2,0,7,-7,1892,1619,8,57,2,-3,10,54,40,100,359
+425,Jun 8 1997,World Cup qualifier in South Africa,South Africa,Zambia,1706,1657,3,0,21,-21,1727,1636,22,50,5,-3,27,47,40,100,149
+426,Jun 8 1997,World Cup qualifier in Spain,Spain,Czechia,2028,1900,1,0,8,-8,2036,1892,3,10,0,0,3,10,40,100,228
+427,Jun 8 1997,World Cup qualifier in Togo,Togo,Zimbabwe,1369,1496,2,1,22,-22,1391,1474,101,89,7,-5,108,84,40,100,-27
+428,Jun 8 1997,World Cup qualifier in Uruguay,Uruguay,Colombia,1716,1803,1,1,-1,1,1715,1804,33,21,-1,0,32,21,30,100,13
+429,Jun 8 1997,World Cup qualifier in Venezuela,Venezuela,Bolivia,1349,1703,1,1,12,-12,1361,1691,114,40,3,-3,117,37,30,0,-354
+430,Jun 8 1997,World Cup qualifier in Vietnam,Vietnam,Turkmenistan,1183,1372,0,4,-28,28,1155,1400,170,101,-5,6,165,107,40,100,-89
+431,Jun 8 1997,World Cup qualifier in Yugoslavia,Yugoslavia,Slovakia,1951,1722,2,0,8,-8,1959,1714,8,38,0,-5,8,33,40,100,329
+432,Jun 9 1997,World Cup qualifier in Iran,Iran,Kyrgyzstan,1719,1201,3,1,2,-2,1721,1199,30,157,0,-1,30,156,30,0,518
+433,Jun 9 1997,World Cup qualifier in Iran,Syria,Maldives,1456,739,12,0,2,-2,1458,737,86,208,0,0,86,208,40,0,717
+434,Jun 10 1997,Friendly tournament in France,Brazil,England,2055,2007,1,0,13,-13,2068,1994,2,5,0,0,2,5,30,0,48
+435,Jun 11 1997,Copa América in Bolivia,Argentina,Ecuador,1826,1696,0,0,-9,9,1817,1705,21,34,-2,1,19,35,30,100,230
+436,Jun 11 1997,World Cup qualifier in Australia,Australia,Solomon Islands,1797,1285,13,0,3,-3,1800,1282,22,135,0,0,22,135,20,0,512
+437,Jun 11 1997,Friendly tournament in France,France,Italy,2013,1975,2,2,-6,6,2007,1981,4,5,0,1,4,6,30,100,138
+438,Jun 11 1997,World Cup qualifier in Iceland,Iceland,Lithuania,1507,1448,0,0,-9,9,1498,1457,79,82,-2,4,77,86,40,100,159
+439,Jun 11 1997,World Cup qualifier in Iran,Iran,Maldives,1721,737,9,0,0,0,1721,737,28,208,1,0,29,208,20,0,984
+440,Jun 11 1997,World Cup qualifier in Iran,Kyrgyzstan,Syria,1199,1458,2,1,33,-33,1232,1425,132,112,12,-13,144,99,40,0,-259
+441,Jun 11 1997,World Cup qualifier in New Zealand,New Zealand,Papua New Guinea,1448,1126,7,0,7,-7,1455,1119,84,170,3,-1,87,169,40,100,422
+442,Jun 11 1997,World Cup qualifier in Pakistan,Pakistan,Kazakhstan,864,1507,0,7,-4,4,860,1511,205,71,-2,2,203,73,40,100,-543
+443,Jun 11 1997,Copa América in Bolivia,Paraguay,Chile,1853,1732,1,0,17,-17,1870,1715,11,36,2,-5,13,31,50,0,121
+444,Jun 12 1997,Copa América in Bolivia,Bolivia,Venezuela,1691,1361,1,0,4,-4,1695,1357,35,117,1,0,36,117,30,0,330
+445,Jun 12 1997,Friendly tournament in Japan,Croatia,Turkey,1869,1683,1,1,-7,7,1862,1690,16,35,-1,2,15,37,20,100,286
+446,Jun 12 1997,Copa América in Bolivia,Peru,Uruguay,1661,1715,1,0,29,-29,1690,1686,33,49,4,-9,37,40,50,0,-54
+447,Jun 12 1997,Korea Cup in South Korea,South Korea,Egypt,1656,1565,3,1,11,-11,1667,1554,41,68,1,-1,42,67,20,0,91
+448,Jun 12 1997,Korea Cup in South Korea,Yugoslavia,Ghana,1959,1572,3,1,4,-4,1963,1568,8,67,0,-2,8,65,30,0,387
+449,Jun 13 1997,World Cup qualifier in Australia,Australia,Tahiti,1800,1510,5,0,8,-8,1808,1502,20,78,1,-2,21,76,40,100,390
+450,Jun 13 1997,Copa América in Bolivia,Brazil,Costa Rica,2068,1646,5,0,8,-8,2076,1638,0,46,1,0,1,46,50,0,422
+451,Jun 13 1997,World Cup qualifier in Iran,Iran,Syria,1721,1425,2,2,-16,16,1705,1441,37,89,-4,5,33,94,40,100,396
+452,Jun 13 1997,World Cup qualifier in Iran,Kyrgyzstan,Maldives,1232,737,6,0,5,-5,1237,732,136,210,4,-1,140,209,40,0,495
+453,Jun 13 1997,Copa América in Bolivia,Mexico,Colombia,1818,1804,2,1,24,-24,1842,1780,14,27,2,-3,16,24,50,0,14
+454,Jun 13 1997,World Cup qualifier in Yemen,Yemen,Indonesia,1210,1264,1,1,-3,3,1207,1267,157,136,-2,0,155,136,40,100,46
+455,Jun 14 1997,Copa América in Bolivia,Argentina,Chile,1817,1715,2,0,27,-27,1844,1688,11,46,4,-8,15,38,50,0,102
+456,Jun 14 1997,Copa América in Bolivia,Ecuador,Paraguay,1705,1870,2,0,54,-54,1759,1816,19,27,7,-7,26,20,50,0,-165
+457,Jun 14 1997,Korea Cup in South Korea,Egypt,Yugoslavia,1554,1963,0,0,12,-12,1566,1951,63,8,2,0,65,8,30,0,-409
+458,Jun 14 1997,World Cup qualifier in Poland,Poland,Georgia,1656,1595,4,1,20,-20,1676,1575,40,66,2,-4,42,62,40,100,161
+459,Jun 14 1997,Korea Cup in South Korea,South Korea,Ghana,1667,1568,3,0,13,-13,1680,1555,40,69,1,-2,41,67,20,0,99
+460,Jun 15 1997,Copa América in Bolivia,Bolivia,Peru,1695,1690,2,0,26,-26,1721,1664,25,50,5,-7,30,43,50,100,105
+461,Jun 15 1997,World Cup qualifier in Fiji,Fiji,Papua New Guinea,1388,1119,3,1,6,-6,1394,1113,107,169,2,0,109,169,40,100,369
+462,Jun 15 1997,Friendly tournament in Japan,Japan,Turkey,1723,1690,1,0,10,-10,1733,1680,25,42,2,-3,27,39,30,100,133
+463,Jun 15 1997,COSAFA Cup in Mozambique,Mozambique,Tanzania,1383,1330,3,0,21,-21,1404,1309,100,135,6,-6,106,129,40,100,153
+464,Jun 15 1997,World Cup qualifier in Australia,Solomon Islands,Tahiti,1282,1502,4,1,55,-55,1337,1447,109,104,13,-14,122,90,40,0,-220
+465,Jun 15 1997,Copa América in Bolivia,Uruguay,Venezuela,1686,1357,2,0,10,-10,1696,1347,32,123,4,-3,36,120,50,0,329
+466,Jun 16 1997,Copa América in Bolivia,Brazil,Mexico,2076,1842,3,2,10,-10,2086,1832,1,18,0,-1,1,17,50,0,234
+467,Jun 16 1997,Copa América in Bolivia,Colombia,Costa Rica,1780,1638,4,1,27,-27,1807,1611,20,64,2,-9,22,55,50,0,142
+468,Jun 16 1997,Korea Cup in South Korea,Egypt,Ghana,1566,1555,2,0,22,-22,1588,1533,53,73,6,-3,59,70,30,0,11
+469,Jun 16 1997,Korea Cup in South Korea,South Korea,Yugoslavia,1680,1951,1,1,7,-7,1687,1944,39,8,0,0,39,8,20,0,-271
+470,Jun 17 1997,Copa América in Bolivia,Argentina,Paraguay,1844,1816,1,1,-2,2,1842,1818,15,18,0,1,15,19,40,0,28
+471,Jun 17 1997,World Cup qualifier in Australia,Australia,Solomon Islands,1808,1337,6,2,3,-3,1811,1334,21,122,0,0,21,122,40,100,571
+472,Jun 17 1997,Copa América in Bolivia,Ecuador,Chile,1759,1688,2,1,20,-20,1779,1668,24,47,1,-5,25,42,50,0,71
+473,Jun 17 1997,Friendly in the United States,United States,Israel,1668,1619,2,1,6,-6,1674,1613,40,53,1,0,41,53,20,100,149
+474,Jun 18 1997,Copa América in Bolivia,Bolivia,Uruguay,1721,1696,1,0,16,-16,1737,1680,24,40,3,-2,27,38,50,100,125
+475,Jun 18 1997,World Cup qualifier in New Zealand,New Zealand,Fiji,1455,1394,5,0,23,-23,1478,1371,80,119,3,-5,83,114,40,100,161
+476,Jun 18 1997,Copa América in Bolivia,Peru,Venezuela,1664,1347,2,0,10,-10,1674,1337,39,122,2,-1,41,121,50,0,317
+477,Jun 19 1997,World Cup qualifier in Australia,Australia,Tahiti,1811,1447,2,0,4,-4,1815,1443,21,92,0,-1,21,91,40,100,464
+478,Jun 19 1997,Copa América in Bolivia,Brazil,Colombia,2086,1807,2,0,13,-13,2099,1794,1,22,0,0,1,22,50,0,279
+479,Jun 19 1997,Copa América in Bolivia,Costa Rica,Mexico,1611,1832,1,1,14,-14,1625,1818,47,19,4,-1,51,18,50,0,-221
+480,Jun 20 1997,World Cup qualifier in Iraq,Iraq,Pakistan,1608,860,6,1,1,-1,1609,859,56,203,0,0,56,203,20,0,748
+481,Jun 20 1997,World Cup qualifier in Uzbekistan,Uzbekistan,Indonesia,1592,1267,3,0,6,-6,1598,1261,56,136,1,0,57,136,40,100,425
+482,Jun 21 1997,Friendly in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1121,1215,1,1,0,0,1121,1215,168,152,0,0,168,152,20,100,6
+483,Jun 21 1997,Copa América in Bolivia,Bolivia,Colombia,1737,1794,2,1,22,-22,1759,1772,27,28,0,-3,27,25,50,100,43
+484,Jun 21 1997,African Nations Cup qualifier in Kenya,Kenya,Namibia,1442,1304,0,1,-32,32,1410,1336,113,115,-10,8,103,123,40,100,238
+485,Jun 21 1997,African Nations Cup qualifier in Malawi,Malawi,Mauritius,1427,1159,3,2,4,-4,1431,1155,93,164,3,0,96,164,20,0,268
+486,Jun 21 1997,African Nations Cup qualifier in Morocco,Morocco,Egypt,1717,1588,1,0,8,-8,1725,1580,29,65,1,-3,30,62,40,100,229
+487,Jun 21 1997,World Cup qualifier in Papua New Guinea,Papua New Guinea,Fiji,1113,1371,0,1,-11,11,1102,1382,171,110,-1,2,170,112,40,100,-158
+488,Jun 21 1997,Copa América in Bolivia,Peru,Argentina,1674,1842,2,1,36,-36,1710,1806,25,27,8,-6,33,21,50,0,-168
+489,Jun 21 1997,World Cup qualifier in Australia,Solomon Islands,Tahiti,1334,1443,1,1,6,-6,1340,1437,118,97,2,-3,120,94,40,0,-109
+490,Jun 22 1997,African Nations Cup qualifier in Angola,Angola,Ghana,1523,1533,1,0,15,-15,1538,1518,69,72,1,-1,70,71,30,0,-10
+491,Jun 22 1997,Friendly in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1121,1215,1,0,10,-10,1131,1205,168,156,0,-2,168,154,20,100,6
+492,Jun 22 1997,Copa América in Bolivia,Brazil,Paraguay,2099,1818,2,0,12,-12,2111,1806,1,23,0,-3,1,20,50,0,281
+493,Jun 22 1997,African Nations Cup qualifier in Cameroon,Cameroon,Gabon,1582,1431,2,2,-12,12,1570,1443,66,88,-3,4,63,92,40,100,251
+494,Jun 22 1997,World Cup qualifier in China,China,Vietnam,1656,1155,4,0,2,-2,1658,1153,45,166,0,-1,45,165,20,0,501
+495,Jun 22 1997,Copa América in Bolivia,Ecuador,Mexico,1779,1818,1,1,3,-3,1782,1815,24,19,0,-1,24,18,50,0,-39
+496,Jun 22 1997,Friendly in Estonia,Estonia,Andorra,1220,1077,4,1,7,-7,1227,1070,143,178,3,-1,146,177,20,100,243
+497,Jun 22 1997,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Algeria,1551,1581,2,1,16,-16,1567,1565,62,71,3,-5,65,66,30,0,-30
+498,Jun 22 1997,World Cup qualifier in Japan,Japan,Macao,1733,1005,10,0,1,-1,1734,1004,28,188,0,0,28,188,20,0,728
+499,Jun 22 1997,World Cup qualifier in Lebanon,Lebanon,Kuwait,1412,1633,1,3,-20,20,1392,1653,114,45,-6,1,108,46,40,100,-121
+500,Jun 22 1997,African Nations Cup qualifier in Liberia,Liberia,DR Congo,1376,1488,2,1,21,-21,1397,1467,101,92,6,-7,107,85,40,100,-12
+501,Jun 22 1997,African Nations Cup qualifier in Mali,Mali,Benin,1366,1209,3,1,11,-11,1377,1198,111,161,2,-4,113,157,40,100,257
+502,Jun 22 1997,African Nations Cup qualifier in Mozambique,Mozambique,Zambia,1404,1636,2,2,7,-7,1411,1629,98,52,4,-3,102,49,40,100,-132
+503,Jun 22 1997,World Cup qualifier in Japan,Oman,Nepal,1261,824,6,0,6,-6,1267,818,136,206,0,-1,136,205,40,0,437
+504,Jun 22 1997,African Nations Cup qualifier in Senegal,Senegal,Ethiopia,1443,1321,3,0,15,-15,1458,1306,81,134,5,-3,86,131,40,100,222
+505,Jun 22 1997,World Cup qualifier in Tajikistan,Tajikistan,Turkmenistan,1482,1400,5,0,21,-21,1503,1379,71,116,5,-4,76,112,40,100,182
+506,Jun 22 1997,African Nations Cup qualifier in Tanzania,Tanzania,Togo,1309,1391,1,0,19,-19,1328,1372,120,121,5,-6,125,115,40,100,18
+507,Jun 25 1997,Copa América in Bolivia,Bolivia,Mexico,1759,1815,3,1,33,-33,1792,1782,15,30,6,-6,21,24,50,100,44
+508,Jun 25 1997,World Cup qualifier in Japan,Japan,Nepal,1734,818,3,0,0,0,1734,818,28,205,0,0,28,205,20,0,916
+509,Jun 25 1997,Friendly in Latvia,Latvia,Andorra,1419,1070,4,1,2,-2,1421,1068,100,177,0,0,100,177,20,100,449
+510,Jun 25 1997,World Cup qualifier in Japan,Oman,Macao,1267,1004,2,0,11,-11,1278,993,136,188,0,0,136,188,40,0,263
+511,Jun 26 1997,Copa América in Bolivia,Brazil,Peru,2111,1710,7,0,10,-10,2121,1700,1,37,0,-2,1,35,50,0,401
+512,Jun 28 1997,Friendly in the Dem Rep of the Congo,DR Congo,Uganda,1467,1405,0,0,-4,4,1463,1409,85,103,0,1,85,104,20,100,162
+513,Jun 28 1997,World Cup qualifier in Japan,Japan,Oman,1734,1278,1,1,-18,18,1716,1296,34,130,-3,3,31,133,40,100,556
+514,Jun 28 1997,World Cup qualifier in Japan,Macao,Nepal,993,818,2,1,11,-11,1004,807,188,207,0,-1,188,206,40,0,175
+515,Jun 28 1997,Copa América in Bolivia,Mexico,Peru,1782,1700,1,0,19,-19,1801,1681,18,41,3,-3,21,38,50,0,82
+516,Jun 28 1997,COSAFA Cup in Namibia,Namibia,Malawi,1336,1431,4,1,34,-34,1370,1397,109,115,7,-9,116,106,40,100,5
+517,Jun 28 1997,World Cup qualifier in New Zealand,New Zealand,Australia,1478,1815,0,3,-14,14,1464,1829,86,14,-2,2,84,16,40,100,-237
+518,Jun 29 1997,Copa América in Bolivia,Bolivia,Brazil,1792,2121,1,3,-16,16,1776,2137,28,1,-3,0,25,1,50,100,-229
+519,Jun 29 1997,World Cup qualifier in Cambodia,Cambodia,Uzbekistan,990,1598,1,4,-4,4,986,1602,192,55,-1,1,191,56,40,100,-508
+520,Jun 29 1997,World Cup qualifier in El Salvador,El Salvador,United States,1485,1674,1,1,5,-5,1490,1669,78,42,1,0,79,42,20,0,-189
+521,Jun 29 1997,Friendly in Jamaica,Jamaica,Cuba,1564,1453,3,0,8,-8,1572,1445,57,91,5,-1,62,90,20,100,211
+522,Jun 29 1997,World Cup qualifier in Kazakhstan,Kazakhstan,Iraq,1511,1609,3,1,30,-30,1541,1579,67,64,3,-4,70,60,40,100,2
+523,Jul 1 1997,Friendly in Grenada,Grenada,Saint Lucia,1295,1205,3,2,5,-5,1300,1200,129,154,3,0,132,154,20,100,190
+524,Jul 2 1997,Friendly in Barbados,Barbados,Trinidad and Tobago,1319,1454,1,1,1,-1,1320,1453,129,88,0,0,129,88,20,100,-35
+525,Jul 2 1997,Island Games in the United Kingdom,Gibraltar,Greenland,1017,1035,5,1,39,-39,1056,996,174,193,6,-5,180,188,40,0,-18
+526,Jul 4 1997,CONCACAF Ch q & Car Cup in Antigua and Barbuda,Grenada,Jamaica,1300,1572,1,1,13,-13,1313,1559,128,72,2,-5,130,67,40,0,-272
+527,Jul 4 1997,CONCACAF Ch q & Car Cup in Saint Kitts and Nevis,Martinique,Trinidad and Tobago,1512,1453,2,1,17,-17,1529,1436,71,102,1,-7,72,95,40,0,59
+528,Jul 5 1997,World Cup qualifier in Chile,Chile,Colombia,1668,1772,4,1,35,-35,1703,1737,27,28,8,-1,35,27,40,100,-4
+529,Jul 5 1997,COSAFA Cup in Tanzania,Tanzania,Zambia,1328,1629,2,2,10,-10,1338,1619,121,57,2,-4,123,53,30,0,-301
+530,Jul 5 1997,Friendly in Tunisia,Tunisia,Mali,1624,1377,1,0,2,-2,1626,1375,46,115,3,-1,49,114,20,100,347
+531,Jul 6 1997,CONCACAF Ch q & Car Cup in Antigua and Barbuda,Antigua and Barbuda,Grenada,1131,1313,1,3,-23,23,1108,1336,168,120,0,5,168,125,40,100,-82
+532,Jul 6 1997,World Cup qualifier in Australia,Australia,New Zealand,1829,1464,2,0,4,-4,1833,1460,16,86,0,-1,16,85,40,100,465
+533,Jul 6 1997,Friendly in Malawi,Malawi,Botswana,1397,993,0,0,-9,9,1388,1002,114,187,-4,1,110,188,20,100,504
+534,Jul 6 1997,World Cup qualifier in Paraguay,Paraguay,Argentina,1806,1806,1,2,-26,26,1780,1832,27,15,-4,2,23,17,40,100,100
+535,Jul 6 1997,World Cup qualifier in Peru,Peru,Bolivia,1681,1776,2,1,20,-20,1701,1756,33,27,3,-1,36,26,40,100,5
+536,Jul 6 1997,CONCACAF Ch q & Car Cup in Saint Kitts and Nevis,Saint Kitts and Nevis,Martinique,1221,1529,2,0,46,-46,1267,1483,125,88,12,-8,137,80,40,100,-208
+537,Jul 6 1997,World Cup qualifier in Venezuela,Venezuela,Ecuador,1337,1782,1,1,15,-15,1352,1767,114,24,5,0,119,24,40,100,-345
+538,Jul 8 1997,CONCACAF Ch q & Car Cup in Antigua and Barbuda,Antigua and Barbuda,Jamaica,1108,1559,0,2,-7,7,1101,1566,176,65,-4,1,172,66,40,100,-351
+539,Jul 8 1997,CONCACAF Ch q & Car Cup in Saint Kitts and Nevis,Saint Kitts and Nevis,Trinidad and Tobago,1267,1436,0,3,-28,28,1239,1464,143,73,-3,11,140,84,40,100,-69
+540,Jul 9 1997,Baltic Cup in Lithuania,Lithuania,Estonia,1457,1227,2,1,4,-4,1461,1223,84,149,2,-1,86,148,20,0,230
+541,Jul 10 1997,CONCACAF Ch q & Car Cup in Antigua and Barbuda,Jamaica,Trinidad and Tobago,1566,1464,1,1,-6,6,1560,1470,68,84,-1,0,67,84,40,0,102
+542,Jul 10 1997,Baltic Cup in Lithuania,Latvia,Estonia,1421,1223,2,1,7,-7,1428,1216,97,150,1,-1,98,149,30,0,198
+543,Jul 10 1997,CONCACAF Ch q & Car Cup in Saint Kitts and Nevis,Saint Kitts and Nevis,Grenada,1239,1336,2,1,20,-20,1259,1316,136,135,2,-5,138,130,40,100,3
+544,Jul 11 1997,African Nations Cup qualifier in Algeria,Algeria,Mali,1565,1375,1,0,6,-6,1571,1369,60,118,3,-2,63,116,40,100,290
+545,Jul 11 1997,Baltic Cup in Lithuania,Lithuania,Latvia,1461,1428,1,0,10,-10,1471,1418,82,100,2,-1,84,99,30,100,133
+546,Jul 12 1997,African Nations Cup qualifier in Namibia,Namibia,Cameroon,1370,1570,0,1,-14,14,1356,1584,119,54,-2,5,117,59,40,100,-100
+547,Jul 12 1997,African Nations Cup qualifier in Zambia,Zambia,Malawi,1619,1388,3,1,8,-8,1627,1380,45,112,4,-1,49,111,40,100,331
+548,Jul 13 1997,African Nations Cup qualifier in Benin,Benin,Ivory Coast,1198,1567,0,0,13,-13,1211,1554,147,68,5,-1,152,67,40,100,-269
+549,Jul 13 1997,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Tanzania,1463,1338,1,1,-11,11,1452,1349,90,120,-2,2,88,122,40,100,225
+550,Jul 13 1997,African Nations Cup qualifier in Egypt,Egypt,Senegal,1580,1458,2,0,13,-13,1593,1445,56,92,2,-2,58,90,40,100,222
+551,Jul 13 1997,African Nations Cup qualifier in Ethiopia,Ethiopia,Morocco,1306,1725,0,1,-5,5,1301,1730,132,27,0,1,132,28,40,100,-319
+552,Jul 13 1997,African Nations Cup qualifier in Gabon,Gabon,Kenya,1443,1410,1,0,13,-13,1456,1397,82,110,5,-4,87,106,40,100,133
+553,Jul 13 1997,African Nations Cup qualifier in Ghana,Ghana,Zimbabwe,1518,1474,2,1,12,-12,1530,1462,72,88,0,-3,72,85,40,100,144
+554,Jul 13 1997,CONCACAF Ch q & Car Cup in Saint Kitts and Nevis,Jamaica,Grenada,1560,1316,4,1,14,-14,1574,1302,59,132,4,-1,63,131,40,0,244
+555,Jul 13 1997,Pan Arab Games in Lebanon,Lebanon,Jordan,1392,1351,1,1,-8,8,1384,1359,111,113,-2,4,109,117,40,100,141
+556,Jul 13 1997,African Nations Cup qualifier in Mauritius,Mauritius,Mozambique,1155,1411,1,3,-17,17,1138,1428,166,95,-1,3,165,98,40,100,-156
+557,Jul 13 1997,African Nations Cup qualifier in Togo,Togo,Liberia,1372,1397,4,0,30,-30,1402,1367,96,124,9,-9,105,115,30,0,-25
+558,Jul 13 1997,CONCACAF Ch q & Car Cup in Antigua and Barbuda,Trinidad and Tobago,Saint Kitts and Nevis,1470,1259,4,0,17,-17,1487,1242,75,142,5,-2,80,140,40,0,211
+559,Jul 13 1997,African Nations Cup qualifier in Tunisia,Tunisia,Guinea,1626,1445,1,0,7,-7,1633,1438,44,96,3,-3,47,93,40,100,281
+560,Jul 14 1997,Pan Arab Games in Lebanon,Libya,Oman,1488,1296,2,2,-10,10,1478,1306,85,128,-3,3,82,131,30,100,292
+561,Jul 16 1997,Pan Arab Games in Lebanon,Lebanon,Oman,1384,1306,1,1,-9,9,1375,1315,117,129,-4,1,113,130,40,100,178
+562,Jul 17 1997,Pan Arab Games in Lebanon,Jordan,Libya,1359,1478,1,1,7,-7,1366,1471,115,84,1,-1,116,83,40,0,-119
+563,Jul 19 1997,Pan Arab Games in Lebanon,Lebanon,Libya,1375,1471,2,1,20,-20,1395,1451,101,93,6,-5,107,88,40,100,4
+564,Jul 20 1997,World Cup qualifier in Argentina,Argentina,Venezuela,1832,1352,2,0,2,-2,1834,1350,15,122,1,-1,16,121,20,0,480
+565,Jul 20 1997,World Cup qualifier in Bolivia,Bolivia,Uruguay,1756,1680,1,0,11,-11,1767,1669,20,44,3,-2,23,42,40,100,176
+566,Jul 20 1997,World Cup qualifier in Chile,Chile,Paraguay,1703,1780,2,1,19,-19,1722,1761,27,27,4,-2,31,25,40,100,23
+567,Jul 20 1997,World Cup qualifier in Colombia,Colombia,Ecuador,1737,1767,1,0,16,-16,1753,1751,25,30,1,-3,26,27,30,0,-30
+568,Jul 20 1997,Friendly in Iceland,Iceland,Norway,1498,1823,0,1,-4,4,1494,1827,78,18,-1,0,77,18,20,100,-225
+569,Jul 20 1997,Pan Arab Games in Lebanon,Jordan,Oman,1366,1315,3,1,26,-26,1392,1289,100,140,8,-5,108,135,40,0,51
+570,Jul 20 1997,COSAFA Cup in Mozambique,Mozambique,Namibia,1428,1356,1,1,-9,9,1419,1365,100,118,-1,0,99,118,40,100,172
+571,Jul 20 1997,Pan Arab Games in Lebanon,Syria,Mauritania,1441,1200,1,0,8,-8,1449,1192,88,161,2,-3,90,158,40,0,241
+572,Jul 24 1997,Pan Arab Games in Lebanon,Lebanon,Syria,1395,1449,2,3,-23,23,1372,1472,121,76,-7,7,114,83,40,100,46
+573,Jul 27 1997,African Nations Cup qualifier in Algeria,Algeria,Benin,1571,1211,2,0,4,-4,1575,1207,57,154,4,-1,61,153,40,100,460
+574,Jul 27 1997,African Nations Cup qualifier in Angola,Angola,Zimbabwe,1538,1462,2,1,11,-11,1549,1451,69,87,1,-1,70,86,40,100,176
+575,Jul 27 1997,African Nations Cup qualifier in Cameroon,Cameroon,Kenya,1584,1397,1,1,-14,14,1570,1411,70,100,-5,3,65,103,40,100,287
+576,Jul 27 1997,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Togo,1452,1402,1,0,12,-12,1464,1390,80,111,4,-3,84,108,40,100,150
+577,Jul 27 1997,African Nations Cup qualifier in Egypt,Egypt,Ethiopia,1593,1301,8,1,9,-9,1602,1292,54,136,2,-2,56,134,40,100,392
+578,Jul 27 1997,African Nations Cup qualifier in Gabon,Gabon,Namibia,1456,1365,1,1,-10,10,1446,1375,93,110,-3,4,90,114,40,100,191
+579,Jul 27 1997,Friendly in Iceland,Iceland,Faroe Islands,1494,1222,1,0,2,-2,1496,1220,77,148,0,0,77,148,20,100,372
+580,Jul 27 1997,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Mali,1554,1369,4,2,10,-10,1564,1359,67,121,0,-3,67,118,40,100,285
+581,Jul 27 1997,Pan Arab Games in Lebanon,Jordan,Syria,1392,1472,1,0,25,-25,1417,1447,97,95,5,-6,102,89,40,0,-80
+582,Jul 27 1997,African Nations Cup qualifier in Liberia,Liberia,Tanzania,1367,1349,1,0,13,-13,1380,1336,106,126,5,-2,111,124,40,100,118
+583,Jul 27 1997,African Nations Cup qualifier in Morocco,Morocco,Senegal,1730,1445,3,0,7,-7,1737,1438,28,93,0,-1,28,92,40,100,385
+584,Jul 27 1997,African Nations Cup qualifier in Mozambique,Mozambique,Malawi,1419,1380,2,1,12,-12,1431,1368,95,121,2,-5,97,116,40,100,139
+585,Jul 27 1997,African Nations Cup qualifier in Zambia,Zambia,Mauritius,1627,1138,1,0,1,-1,1628,1137,50,165,0,0,50,165,20,0,489
+586,Aug 2 1997,COSAFA Cup in Zambia,Zambia,Mozambique,1628,1431,2,1,6,-6,1634,1425,44,99,3,-1,47,98,40,100,297
+587,Aug 5 1997,Friendly in Belarus,Belarus,Israel,1376,1613,2,3,-6,6,1370,1619,117,54,-2,0,115,54,20,100,-137
+588,Aug 6 1997,Friendly in Estonia,Estonia,Faroe Islands,1216,1220,0,2,-19,19,1197,1239,163,134,-7,7,156,141,20,100,96
+589,Aug 6 1997,Friendly in Hungary,Hungary,Malta,1612,1233,3,0,2,-2,1614,1231,55,147,0,-1,55,146,20,100,479
+590,Aug 6 1997,Friendly in Jamaica,Jamaica,Colombia,1574,1753,1,0,12,-12,1586,1741,57,28,3,-1,60,27,20,100,-79
+591,Aug 6 1997,Friendly in Slovakia,Slovakia,Switzerland,1714,1724,1,0,7,-7,1721,1717,29,34,2,-2,31,32,20,100,90
+592,Aug 6 1997,Friendly in Sweden,Sweden,Lithuania,1839,1471,1,0,1,-1,1840,1470,15,83,0,0,15,83,20,100,468
+593,Aug 7 1997,Friendly tournament in Tunisia,Nigeria,Cameroon,1762,1570,1,0,7,-7,1769,1563,22,69,1,-2,23,67,30,0,192
+594,Aug 7 1997,Friendly tournament in Tunisia,Tunisia,Zambia,1633,1634,3,1,16,-16,1649,1618,46,61,1,-7,47,54,30,100,99
+595,Aug 7 1997,Friendly in the United States,United States,Ecuador,1669,1751,0,1,-11,11,1658,1762,46,24,-2,1,44,25,20,100,18
+596,Aug 9 1997,Friendly tournament in Tunisia,Cameroon,Zambia,1563,1618,3,3,2,-2,1565,1616,65,54,1,0,66,54,20,0,-55
+597,Aug 9 1997,COSAFA Cup in Malawi,Malawi,Tanzania,1368,1336,2,2,-7,7,1361,1343,118,120,-1,2,117,122,40,100,132
+598,Aug 9 1997,Friendly tournament in Tunisia,Tunisia,Nigeria,1649,1769,2,0,24,-24,1673,1745,37,29,5,-3,42,26,30,100,-20
+599,Aug 10 1997,World Cup qualifier in Costa Rica,Costa Rica,El Salvador,1625,1490,0,0,-12,12,1613,1502,59,74,-4,2,55,76,40,100,235
+600,Aug 10 1997,Friendly in South Korea,South Korea,Brazil,1687,2137,1,2,-2,2,1685,2139,39,1,0,0,39,1,20,100,-350
+601,Aug 13 1997,Friendly in Japan,Japan,Brazil,1716,2139,0,3,-5,5,1711,2144,33,1,0,0,33,1,20,100,-323
+602,Aug 16 1997,World Cup qualifier in Burkina Faso,Burkina Faso,Kenya,1326,1411,2,4,-31,31,1295,1442,139,81,-6,11,133,92,40,100,15
+603,Aug 16 1997,World Cup qualifier in South Africa,South Africa,Congo,1727,1479,1,0,5,-5,1732,1474,29,81,0,0,29,81,40,100,348
+604,Aug 16 1997,World Cup qualifier in Zambia,Zambia,DR Congo,1616,1464,2,0,11,-11,1627,1453,47,86,3,-1,50,85,40,100,252
+605,Aug 17 1997,Friendly in Canada,Canada,Iran,1630,1705,0,1,-11,11,1619,1716,55,29,-3,3,52,32,20,100,25
+606,Aug 17 1997,World Cup qualifier in Egypt,Egypt,Liberia,1602,1380,5,0,11,-11,1613,1369,54,117,1,-3,55,114,40,100,322
+607,Aug 17 1997,World Cup qualifier in Ghana,Ghana,Sierra Leone,1530,1422,0,2,-46,46,1484,1468,86,70,-7,15,79,85,40,100,208
+608,Aug 17 1997,World Cup qualifier in Guinea,Guinea,Nigeria,1438,1745,1,0,31,-31,1469,1714,75,40,9,-7,84,33,40,100,-207
+609,Aug 17 1997,World Cup qualifier in Morocco,Morocco,Gabon,1737,1446,2,0,6,-6,1743,1440,24,96,2,-3,26,93,40,100,391
+610,Aug 17 1997,World Cup qualifier in Togo,Togo,Angola,1390,1549,1,1,3,-3,1393,1546,106,70,1,0,107,70,30,100,-59
+611,Aug 17 1997,World Cup qualifier in Tunisia,Tunisia,Namibia,1673,1375,4,0,7,-7,1680,1368,38,117,2,-2,40,115,40,100,398
+612,Aug 17 1997,World Cup qualifier in Zimbabwe,Zimbabwe,Cameroon,1451,1565,1,2,-19,19,1432,1584,108,56,-11,5,97,61,40,100,-14
+613,Aug 19 1997,Friendly in Greece,Greece,Cyprus,1688,1431,2,1,2,-2,1690,1429,38,99,0,0,38,99,20,100,357
+614,Aug 19 1997,Friendly in Latvia,Latvia,Azerbaijan,1418,1355,0,0,-4,4,1414,1359,105,117,-2,1,103,118,20,100,163
+615,Aug 20 1997,World Cup qualifier in Belarus,Belarus,Sweden,1370,1840,1,2,-4,4,1366,1844,117,15,-2,0,115,15,40,100,-370
+616,Aug 20 1997,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Denmark,1570,1978,3,0,60,-60,1630,1918,32,11,17,-2,49,9,40,100,-308
+617,Aug 20 1997,World Cup qualifier in Bulgaria,Bulgaria,Israel,1817,1619,1,0,6,-6,1823,1613,19,56,0,-2,19,54,40,100,298
+618,Aug 20 1997,World Cup qualifier in Colombia,Colombia,Bolivia,1741,1767,3,0,28,-28,1769,1739,21,31,3,-4,24,27,30,0,-26
+619,Aug 20 1997,World Cup qualifier in Czechia,Czechia,Faroe Islands,1892,1239,2,0,1,-1,1893,1238,10,141,0,0,10,141,20,0,653
+620,Aug 20 1997,World Cup qualifier in Ecuador,Ecuador,Paraguay,1762,1761,2,1,14,-14,1776,1747,22,25,1,0,23,25,40,100,101
+621,Aug 20 1997,World Cup qualifier in Estonia,Estonia,Austria,1197,1710,0,3,-6,6,1191,1716,160,27,-2,4,158,31,40,100,-413
+622,Aug 20 1997,World Cup qualifier in Finland,Finland,Norway,1508,1827,0,4,-17,17,1491,1844,82,12,-5,3,77,15,40,100,-219
+623,Aug 20 1997,World Cup qualifier in Hungary,Hungary,Switzerland,1614,1717,1,1,0,0,1614,1717,52,29,1,1,53,30,20,100,-3
+624,Aug 20 1997,World Cup qualifier in Ireland,Ireland,Lithuania,1699,1470,0,0,-15,15,1684,1485,45,75,-4,4,41,79,40,100,329
+625,Aug 20 1997,World Cup qualifier in Liechtenstein,Liechtenstein,Iceland,1065,1496,0,4,-10,10,1055,1506,181,69,-1,4,180,73,40,100,-331
+626,Aug 20 1997,World Cup qualifier in Northern Ireland,Northern Ireland,Germany,1620,2072,1,3,-7,7,1613,2079,57,2,-3,0,54,2,40,100,-352
+627,Aug 20 1997,World Cup qualifier in Portugal,Portugal,Armenia,1863,1352,3,1,2,-2,1865,1350,13,120,0,0,13,120,20,0,511
+628,Aug 20 1997,World Cup qualifier in Romania,Romania,Macedonia,1872,1572,4,2,5,-5,1877,1567,12,67,0,-1,12,66,20,0,300
+629,Aug 20 1997,Friendly in Russia,Russia,Yugoslavia,1892,1944,0,1,-11,11,1881,1955,12,6,-1,1,11,7,20,100,48
+630,Aug 20 1997,World Cup qualifier in Turkey,Turkey,Wales,1680,1598,6,4,16,-16,1696,1582,34,66,3,-4,37,62,40,100,182
+631,Aug 20 1997,World Cup qualifier in Ukraine,Ukraine,Albania,1660,1410,1,0,5,-5,1665,1405,44,106,0,-1,44,105,40,100,350
+632,Aug 20 1997,World Cup qualifier in Uruguay,Uruguay,Chile,1669,1722,1,0,17,-17,1686,1705,35,43,4,-7,39,36,30,0,-53
+633,Aug 20 1997,World Cup qualifier in Venezuela,Venezuela,Peru,1350,1701,0,3,-13,13,1337,1714,127,30,-3,3,124,33,40,100,-251
+634,Aug 21 1997,Friendly in Lebanon,Lebanon,Iraq,1372,1579,0,2,-11,11,1361,1590,120,55,-4,4,116,59,20,100,-107
+635,Aug 24 1997,Friendly tournament in Peru,Peru,Colombia,1714,1769,2,1,13,-13,1727,1756,27,24,3,0,30,24,30,100,45
+636,Aug 24 1997,World Cup qualifier in Slovakia,Slovakia,Czechia,1721,1893,2,1,24,-24,1745,1869,23,14,3,-2,26,12,40,100,-72
+637,Aug 24 1997,Friendly in South Korea,South Korea,Tajikistan,1685,1503,4,1,6,-6,1691,1497,36,76,2,-1,38,75,20,100,282
+638,Aug 24 1997,World Cup qualifier in Uzbekistan,Uzbekistan,Yemen,1602,1207,5,1,4,-4,1606,1203,58,154,0,-1,58,153,40,100,495
+639,Aug 30 1997,Friendly in South Korea,South Korea,China,1691,1658,0,0,-4,4,1687,1662,40,45,-1,0,39,45,20,100,133
+640,Aug 31 1997,Friendly in Jamaica,Jamaica,Trinidad and Tobago,1586,1487,6,1,10,-10,1596,1477,57,84,2,-3,59,81,20,100,199
+641,Aug 31 1997,COSAFA Cup in Namibia,Namibia,Zambia,1368,1627,1,1,9,-9,1377,1618,111,54,1,-2,112,52,30,0,-259
+642,Sep 2 1997,Friendly in China,China,Kazakhstan,1662,1541,3,0,8,-8,1670,1533,43,71,1,0,44,71,20,100,221
+643,Sep 2 1997,Friendly in the United Arab Emirates,United Arab Emirates,Iran,1626,1716,3,1,15,-15,1641,1701,46,40,2,-4,48,36,20,100,10
+644,Sep 4 1997,South Asian Championship in Nepal,Nepal,Pakistan,807,859,0,2,-34,34,773,893,206,195,0,4,206,199,40,100,48
+645,Sep 5 1997,South Asian Championship in Nepal,Bangladesh,Maldives,1008,732,1,1,-13,13,995,745,192,207,-3,1,189,208,40,0,276
+646,Sep 5 1997,Friendly in the United States,Colombia,El Salvador,1756,1502,2,2,-6,6,1750,1508,24,70,0,2,24,72,20,0,254
+647,Sep 6 1997,World Cup qualifier in Armenia,Armenia,Albania,1350,1405,3,0,30,-30,1380,1375,100,121,10,-8,110,113,30,0,-55
+648,Sep 6 1997,World Cup qualifier in Austria,Austria,Sweden,1716,1844,1,0,22,-22,1738,1822,26,23,3,-4,29,19,40,100,-28
+649,Sep 6 1997,World Cup qualifier in Azerbaijan,Azerbaijan,Norway,1359,1844,0,1,-4,4,1355,1848,122,15,-2,0,120,15,40,100,-385
+650,Sep 6 1997,World Cup qualifier in Croatia,Croatia,Bosnia and Herzegovina,1862,1630,3,2,5,-5,1867,1625,14,50,0,0,14,50,40,100,332
+651,Sep 6 1997,World Cup qualifier in the Faroe Islands,Faroe Islands,Czechia,1238,1869,0,2,-3,3,1235,1872,147,14,-3,-1,144,13,40,100,-531
+652,Sep 6 1997,World Cup qualifier in Germany,Germany,Portugal,2079,1865,1,1,-14,14,2065,1879,2,9,0,2,2,11,40,100,314
+653,Sep 6 1997,World Cup qualifier in Iceland,Iceland,Ireland,1506,1684,2,4,-23,23,1483,1707,84,29,-5,6,79,35,40,100,-78
+654,Sep 6 1997,World Cup qualifier in Latvia,Latvia,Estonia,1414,1191,1,0,5,-5,1419,1186,99,158,2,0,101,158,40,100,323
+655,Sep 6 1997,World Cup qualifier in Liechtenstein,Liechtenstein,Romania,1055,1877,1,8,-1,1,1054,1878,180,13,0,-1,180,12,20,100,-722
+656,Sep 6 1997,World Cup qualifier in Lithuania,Lithuania,Macedonia,1485,1567,2,0,28,-28,1513,1539,68,74,5,-4,73,70,30,0,-82
+657,Sep 6 1997,World Cup qualifier in the Netherlands,Netherlands,Belgium,1943,1790,3,1,11,-11,1954,1779,8,23,0,-1,8,22,40,100,253
+658,Sep 6 1997,Friendly in Poland,Poland,Hungary,1676,1614,1,0,6,-6,1682,1608,39,61,2,-4,41,57,20,100,162
+659,Sep 6 1997,World Cup qualifier in Slovenia,Slovenia,Greece,1587,1690,0,3,-35,35,1552,1725,73,26,-6,6,67,32,40,100,-3
+660,Sep 6 1997,World Cup qualifier in South Korea,South Korea,Kazakhstan,1687,1533,3,0,13,-13,1700,1520,37,73,1,-1,38,72,40,100,254
+661,Sep 6 1997,South Asian Championship in Nepal,Sri Lanka,Pakistan,971,893,2,0,23,-23,994,870,187,201,3,-1,190,200,40,0,78
+662,Sep 6 1997,World Cup qualifier in Switzerland,Switzerland,Finland,1717,1491,1,2,-35,35,1682,1526,51,65,-10,6,41,71,40,100,326
+663,Sep 7 1997,South Asian Championship in Nepal,India,Bangladesh,1071,995,3,0,27,-27,1098,968,170,199,3,-5,173,194,40,0,76
+664,Sep 7 1997,World Cup qualifier in Jamaica,Jamaica,Canada,1596,1619,1,0,16,-16,1612,1603,51,63,4,-6,55,57,30,0,-23
+665,Sep 7 1997,World Cup qualifier in Japan,Japan,Uzbekistan,1711,1606,6,3,16,-16,1727,1590,28,60,3,-1,31,59,40,100,205
+666,Sep 7 1997,World Cup qualifier in Luxembourg,Luxembourg,Cyprus,1237,1429,1,3,-22,22,1215,1451,159,77,-9,11,150,88,40,100,-92
+667,Sep 7 1997,World Cup qualifier in Scotland,Scotland,Belarus,1788,1366,4,1,3,-3,1791,1363,21,117,0,-1,21,116,20,0,422
+668,Sep 7 1997,World Cup qualifier in the United States,United States,Costa Rica,1658,1613,1,0,12,-12,1670,1601,42,63,2,-5,44,58,40,100,145
+669,Sep 8 1997,South Asian Championship in Nepal,Nepal,Sri Lanka,773,994,1,3,-20,20,753,1014,206,183,0,3,206,186,40,100,-121
+670,Sep 9 1997,South Asian Championship in Nepal,India,Maldives,1098,745,2,2,-15,15,1083,760,179,204,-3,2,176,206,40,0,353
+671,Sep 10 1997,World Cup qualifier in Switzerland,Albania,Northern Ireland,1375,1613,1,0,32,-32,1407,1581,97,74,8,-11,105,63,40,0,-238
+672,Sep 10 1997,World Cup qualifier in Belarus,Belarus,Austria,1363,1738,0,1,-7,7,1356,1745,122,25,-3,2,119,27,40,100,-275
+673,Sep 10 1997,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Slovenia,1625,1552,1,0,11,-11,1636,1541,48,71,1,-2,49,69,40,100,173
+674,Sep 10 1997,Friendly in Brazil,Brazil,Ecuador,2144,1776,4,2,2,-2,2146,1774,1,23,0,0,1,23,20,100,468
+675,Sep 10 1997,World Cup qualifier in Bulgaria,Bulgaria,Russia,1823,1881,1,0,18,-18,1841,1863,16,16,1,-3,17,13,40,100,42
+676,Sep 10 1997,World Cup qualifier in Chile,Chile,Argentina,1705,1834,1,2,-18,18,1687,1852,42,14,-3,1,39,15,40,100,-29
+677,Sep 10 1997,World Cup qualifier in Colombia,Colombia,Venezuela,1750,1337,1,0,2,-2,1752,1335,26,124,-1,0,25,124,20,0,413
+678,Sep 10 1997,World Cup qualifier in Denmark,Denmark,Croatia,1918,1867,3,1,18,-18,1936,1849,9,18,0,-2,9,16,40,100,151
+679,Sep 10 1997,World Cup qualifier in England,England,Moldova,1994,1432,4,0,2,-2,1996,1430,5,100,0,-1,5,99,30,0,562
+680,Sep 10 1997,World Cup qualifier in Georgia,Georgia,Italy,1575,1981,0,0,14,-14,1589,1967,57,6,3,0,60,6,40,100,-306
+681,Sep 10 1997,World Cup qualifier in Germany,Germany,Armenia,2065,1380,4,0,1,-1,2066,1379,2,112,0,-1,2,111,20,0,685
+682,Sep 10 1997,World Cup qualifier in Hungary,Hungary,Azerbaijan,1608,1355,3,1,7,-7,1615,1348,48,120,4,0,52,120,40,100,353
+683,Sep 10 1997,World Cup qualifier in Lithuania,Lithuania,Ireland,1513,1707,1,2,-15,15,1498,1722,77,33,-2,1,75,34,40,100,-94
+684,Sep 10 1997,South Asian Championship in Nepal,Maldives,Sri Lanka,760,1014,2,1,32,-32,792,982,206,196,0,-5,206,191,40,0,-254
+685,Sep 10 1997,World Cup qualifier in Norway,Norway,Switzerland,1848,1682,5,0,14,-14,1862,1668,13,49,1,-4,14,45,40,100,266
+686,Sep 10 1997,World Cup qualifier in Paraguay,Paraguay,Bolivia,1747,1739,2,1,14,-14,1761,1725,23,36,1,-4,24,32,40,100,108
+687,Sep 10 1997,World Cup qualifier in Peru,Peru,Uruguay,1727,1686,2,1,12,-12,1739,1674,27,44,2,-2,29,42,40,100,141
+688,Sep 10 1997,World Cup qualifier in Romania,Romania,Iceland,1878,1483,4,0,4,-4,1882,1479,8,81,2,-1,10,80,40,100,495
+689,Sep 10 1997,World Cup qualifier in San Marino,San Marino,Turkey,955,1696,0,5,-2,2,953,1698,195,37,0,1,195,38,40,100,-641
+690,Sep 10 1997,World Cup qualifier in Slovakia,Slovakia,Yugoslavia,1745,1955,1,1,6,-6,1751,1949,26,9,0,-1,26,8,40,100,-110
+691,Sep 10 1997,World Cup qualifier in Sweden,Sweden,Latvia,1822,1419,1,0,2,-2,1824,1417,19,103,0,-1,19,102,20,0,403
+692,Sep 11 1997,South Asian Championship in Nepal,India,Pakistan,1083,870,2,0,14,-14,1097,856,170,206,3,-3,173,203,40,0,213
+693,Sep 12 1997,World Cup qualifier in South Korea,South Korea,Uzbekistan,1700,1590,2,1,9,-9,1709,1581,35,66,1,-4,36,62,40,100,210
+694,Sep 12 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Kazakhstan,1641,1520,4,0,16,-16,1657,1504,46,76,1,-2,47,74,40,100,221
+695,Sep 13 1997,World Cup qualifier in China,China,Iran,1670,1701,2,4,-36,36,1634,1737,55,23,-6,7,49,30,40,100,69
+696,Sep 13 1997,South Asian Championship in Nepal,India,Maldives,1097,792,5,1,11,-11,1108,781,163,206,5,0,168,206,40,0,305
+697,Sep 13 1997,South Asian Championship in Nepal,Pakistan,Sri Lanka,856,982,1,0,27,-27,883,955,197,197,3,-3,200,194,40,0,-126
+698,Sep 14 1997,World Cup qualifier in El Salvador,El Salvador,Canada,1508,1603,4,1,34,-34,1542,1569,66,72,3,-8,69,64,40,100,5
+699,Sep 14 1997,Friendly in Indonesia,Indonesia,Tanzania,1261,1343,3,1,14,-14,1275,1329,137,129,0,-4,137,125,20,100,18
+700,Sep 14 1997,World Cup qualifier in Jamaica,Jamaica,Costa Rica,1612,1601,1,0,14,-14,1626,1587,47,59,4,-1,51,58,40,100,111
+701,Sep 14 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Kuwait,1631,1653,2,1,16,-16,1647,1637,44,49,3,-1,47,48,30,0,-22
+702,Sep 19 1997,World Cup qualifier in Iran,Iran,Saudi Arabia,1737,1647,1,1,-10,10,1727,1657,34,47,-2,0,32,47,40,100,190
+703,Sep 19 1997,World Cup qualifier in Qatar,Qatar,Kuwait,1507,1637,0,2,-27,27,1480,1664,85,44,-6,2,79,46,40,100,-30
+704,Sep 19 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Japan,1657,1727,0,0,-2,2,1655,1729,50,30,-2,1,48,31,40,100,30
+705,Sep 20 1997,World Cup qualifier in Kazakhstan,Kazakhstan,Uzbekistan,1504,1581,1,1,-1,1,1503,1582,73,59,0,1,73,60,20,100,23
+706,Sep 20 1997,Friendly tournament in Libya,Libya,Bahrain,1451,1332,2,1,7,-7,1458,1325,86,128,1,-2,87,126,20,0,119
+707,Sep 21 1997,Friendly in Indonesia,Indonesia,New Zealand,1275,1460,5,0,25,-25,1300,1435,125,108,6,-11,131,97,20,100,-85
+708,Sep 21 1997,Friendly tournament in Libya,Jordan,Chad,1417,1227,1,0,8,-8,1425,1219,98,147,2,0,100,147,30,0,190
+709,Sep 23 1997,Friendly tournament in Libya,Bahrain,Jordan,1325,1425,0,0,4,-4,1329,1421,122,102,2,-1,124,101,30,0,-100
+710,Sep 23 1997,Friendly tournament in Libya,Libya,Chad,1458,1219,3,1,6,-6,1464,1213,86,153,0,-3,86,150,20,0,239
+711,Sep 24 1997,Friendly in the United States,Guatemala,El Salvador,1550,1542,1,0,10,-10,1560,1532,65,73,1,-2,66,71,20,0,8
+712,Sep 24 1997,World Cup qualifier in Malta,Malta,Czechia,1231,1872,0,1,-2,2,1229,1874,145,12,0,0,145,12,40,100,-541
+713,Sep 24 1997,World Cup qualifier in Moldova,Moldova,Georgia,1430,1589,0,1,-17,17,1413,1606,107,55,-4,1,103,56,40,100,-59
+714,Sep 24 1997,Friendly in Poland,Poland,Lithuania,1682,1498,2,0,5,-5,1687,1493,38,78,1,-2,39,76,20,100,284
+715,Sep 24 1997,World Cup qualifier in Slovakia,Slovakia,Spain,1751,2036,1,2,-10,10,1741,2046,30,3,-2,0,28,3,40,100,-185
+716,Sep 25 1997,Friendly tournament in Libya,Bahrain,Chad,1329,1213,1,1,-5,5,1324,1218,130,144,-3,3,127,147,30,0,116
+717,Sep 25 1997,Friendly tournament in Libya,Libya,Jordan,1464,1421,1,1,-6,6,1458,1427,86,98,0,1,86,99,30,100,143
+718,Sep 25 1997,Friendly in Saudi Arabia,Saudi Arabia,Mali,1657,1359,5,1,3,-3,1660,1356,47,118,0,0,47,118,20,100,398
+719,Sep 26 1997,World Cup qualifier in Kuwait,Kuwait,Iran,1664,1727,1,1,-2,2,1662,1729,46,30,0,1,46,31,30,100,37
+720,Sep 26 1997,World Cup qualifier in Qatar,Qatar,China,1480,1634,1,1,3,-3,1483,1631,77,50,1,0,78,50,40,100,-54
+721,Sep 27 1997,Friendly tournament in Tanzania,Tanzania,Zambia,1329,1618,0,0,7,-7,1336,1611,122,58,1,-3,123,55,20,0,-289
+722,Sep 27 1997,World Cup qualifier in Uzbekistan,Uzbekistan,United Arab Emirates,1582,1655,2,3,-22,22,1560,1677,70,36,-5,6,65,42,40,100,27
+723,Sep 28 1997,World Cup qualifier in Japan,Japan,South Korea,1729,1709,1,2,-27,27,1702,1736,43,23,-6,7,37,30,40,100,120
+724,Sep 28 1997,Friendly tournament in Tanzania,Kenya,Algeria,1442,1575,1,0,20,-20,1462,1555,80,70,6,-4,86,66,30,0,-133
+725,Sep 29 1997,Friendly tournament in Tanzania,Tanzania,Zanzibar,1336,1172,3,2,5,-5,1341,1167,119,162,2,0,121,162,30,100,264
+726,Sep 30 1997,Friendly tournament in Tanzania,Zambia,Algeria,1611,1555,1,0,13,-13,1624,1542,49,70,3,-2,52,68,30,0,56
+727,Oct 1 1997,Friendly tournament in Tanzania,Tanzania,Kenya,1341,1462,0,1,-14,14,1327,1476,129,78,-4,4,125,82,30,100,-21
+728,Oct 1 1997,Friendly in Tunisia,Tunisia,Australia,1680,1833,0,3,-15,15,1665,1848,49,16,-4,1,45,17,20,100,-53
+729,Oct 3 1997,World Cup qualifier in China,China,Saudi Arabia,1631,1660,1,0,16,-16,1647,1644,46,50,2,-1,48,49,30,0,-29
+730,Oct 3 1997,World Cup qualifier in Iran,Iran,Qatar,1729,1483,3,0,8,-8,1737,1475,28,86,2,-4,30,82,40,100,346
+731,Oct 3 1997,Friendly tournament in Tanzania,Kenya,Zambia,1476,1624,0,0,6,-6,1482,1618,76,52,3,0,79,52,30,0,-148
+732,Oct 3 1997,Friendly in Kuwait,Kuwait,Mali,1662,1356,8,1,4,-4,1666,1352,41,120,3,-1,44,119,20,100,406
+733,Oct 3 1997,World Cup qualifier in the United States,United States,Jamaica,1670,1626,1,1,-8,8,1662,1634,51,51,-4,0,47,51,40,100,144
+734,Oct 4 1997,World Cup qualifier in Kazakhstan,Kazakhstan,Japan,1503,1702,1,1,6,-6,1509,1696,73,39,0,-1,73,38,40,100,-99
+735,Oct 4 1997,World Cup qualifier in South Korea,South Korea,United Arab Emirates,1736,1677,3,0,20,-20,1756,1657,19,53,6,-6,25,47,40,100,159
+736,Oct 4 1997,CONCACAF Champ qual in Saint Kitts and Nevis,Saint Kitts and Nevis,Cuba,1242,1445,0,2,-21,21,1221,1466,152,82,-6,5,146,87,40,100,-103
+737,Oct 4 1997,Friendly in Tanzania,Tanzania,Algeria,1327,1542,0,1,-7,7,1320,1549,129,66,-2,1,127,67,20,100,-115
+738,Oct 5 1997,Southeast Asian Games in Indonesia,Cambodia,Brunei,986,823,4,0,21,-21,1007,802,182,206,4,-1,186,205,40,0,163
+739,Oct 5 1997,Southeast Asian Games in Indonesia,Indonesia,Laos,1300,973,5,2,6,-6,1306,967,129,195,1,-2,130,193,40,100,427
+740,Oct 5 1997,Southeast Asian Games in Indonesia,Malaysia,Vietnam,1307,1153,1,0,12,-12,1319,1141,129,164,0,0,129,164,40,0,154
+741,Oct 5 1997,World Cup qualifier in Mexico,Mexico,El Salvador,1801,1532,5,0,9,-9,1810,1523,20,73,0,-1,20,72,40,100,369
+742,Oct 5 1997,Southeast Asian Games in Indonesia,Thailand,Myanmar,1438,1133,2,1,6,-6,1444,1127,92,167,1,0,93,167,40,0,305
+743,Oct 7 1997,Southeast Asian Games in Indonesia,Indonesia,Vietnam,1306,1141,2,2,-13,13,1293,1154,138,164,-4,0,134,164,40,100,265
+744,Oct 7 1997,Southeast Asian Games in Indonesia,Malaysia,Philippines,1319,734,4,0,2,-2,1321,732,125,209,2,0,127,209,30,0,585
+745,Oct 7 1997,World Cup qualifier in Moldova,Moldova,Poland,1413,1687,0,3,-19,19,1394,1706,109,35,-3,2,106,37,40,100,-174
+746,Oct 7 1997,Southeast Asian Games in Indonesia,Myanmar,Singapore,1127,1255,2,2,7,-7,1134,1248,167,138,0,0,167,138,40,0,-128
+747,Oct 7 1997,Southeast Asian Games in Indonesia,Thailand,Brunei,1444,802,6,0,2,-2,1446,800,93,205,0,0,93,205,30,0,642
+748,Oct 8 1997,Friendly in Norway,Norway,Colombia,1862,1752,0,0,-5,5,1857,1757,14,24,0,1,14,25,20,100,210
+749,Oct 9 1997,Friendly in Brazil,Brazil,Morocco,2146,1743,2,0,2,-2,2148,1741,1,28,0,0,1,28,20,100,503
+750,Oct 9 1997,Southeast Asian Games in Indonesia,Indonesia,Malaysia,1293,1321,4,0,30,-30,1323,1291,120,143,7,-8,127,135,30,0,-28
+751,Oct 9 1997,Southeast Asian Games in Indonesia,Laos,Philippines,967,732,4,1,14,-14,981,718,189,209,2,0,191,209,40,0,235
+752,Oct 9 1997,Southeast Asian Games in Indonesia,Myanmar,Brunei,1134,800,6,1,10,-10,1144,790,163,205,2,0,165,205,40,0,334
+753,Oct 9 1997,Southeast Asian Games in Indonesia,Singapore,Cambodia,1248,1007,2,1,8,-8,1256,999,138,190,0,-2,138,188,40,0,241
+754,Oct 10 1997,World Cup qualifier in Kuwait,Kuwait,China,1666,1647,1,2,-27,27,1639,1674,55,34,-6,7,49,41,40,100,119
+755,Oct 10 1997,Friendly in the United Arab Emirates,United Arab Emirates,Togo,1657,1393,3,0,4,-4,1661,1389,47,111,0,-2,47,109,20,100,364
+756,Oct 11 1997,World Cup qualifier in Armenia,Armenia,Ukraine,1379,1665,0,2,-15,15,1364,1680,119,36,-4,4,115,40,40,100,-186
+757,Oct 11 1997,World Cup qualifier in Austria,Austria,Belarus,1745,1356,4,0,4,-4,1749,1352,25,118,1,0,26,118,20,0,389
+758,Oct 11 1997,World Cup qualifier in Belgium,Belgium,Wales,1779,1582,3,2,6,-6,1785,1576,22,62,0,-1,22,61,40,100,297
+759,Oct 11 1997,World Cup qualifier in Cyprus,Cyprus,Luxembourg,1451,1215,2,0,8,-8,1459,1207,86,152,2,-1,88,151,40,100,336
+760,Oct 11 1997,World Cup qualifier in Czechia,Czechia,Slovakia,1874,1741,3,0,15,-15,1889,1726,8,38,2,-5,10,33,40,100,233
+761,Oct 11 1997,World Cup qualifier in Finland,Finland,Hungary,1526,1615,1,1,-1,1,1525,1616,69,55,1,-1,70,54,40,100,11
+762,Oct 11 1997,Friendly in France,France,South Africa,2007,1732,2,1,2,-2,2009,1730,4,32,0,0,4,32,20,100,375
+763,Oct 11 1997,World Cup qualifier in Georgia,Georgia,Poland,1606,1706,3,0,35,-35,1641,1671,42,51,7,-7,49,44,40,100,0
+764,Oct 11 1997,World Cup qualifier in Germany,Germany,Albania,2066,1407,4,3,1,-1,2067,1406,2,104,0,0,2,104,30,0,659
+765,Oct 11 1997,World Cup qualifier in Greece,Greece,Denmark,1725,1936,0,0,6,-6,1731,1930,29,9,2,0,31,9,40,100,-111
+766,Oct 11 1997,World Cup qualifier in Iceland,Iceland,Liechtenstein,1479,1054,4,0,3,-3,1482,1051,78,180,1,0,79,180,20,0,425
+767,Oct 11 1997,World Cup qualifier in Ireland,Ireland,Romania,1722,1882,1,1,3,-3,1725,1879,33,16,1,-3,34,13,30,100,-60
+768,Oct 11 1997,World Cup qualifier in Italy,Italy,England,1967,1996,0,0,-4,4,1963,2000,6,5,0,0,6,5,40,100,71
+769,Oct 11 1997,World Cup qualifier in Kazakhstan,Kazakhstan,South Korea,1509,1756,1,1,8,-8,1517,1748,73,28,0,-1,73,27,40,100,-147
+770,Oct 11 1997,World Cup qualifier in Macedonia,Macedonia,Lithuania,1539,1493,1,2,-28,28,1511,1521,78,68,-4,4,74,72,40,100,146
+771,Oct 11 1997,World Cup qualifier in Malta,Malta,Yugoslavia,1229,1949,0,5,-2,2,1227,1951,146,6,-1,1,145,7,30,100,-620
+772,Oct 11 1997,World Cup qualifier in the Netherlands,Netherlands,Turkey,1954,1698,0,0,-15,15,1939,1713,9,36,-1,1,8,37,40,100,356
+773,Oct 11 1997,World Cup qualifier in Portugal,Portugal,Northern Ireland,1879,1581,1,0,4,-4,1883,1577,11,59,0,1,11,60,40,100,398
+774,Oct 11 1997,World Cup qualifier in Russia,Russia,Bulgaria,1863,1841,4,2,20,-20,1883,1821,9,20,2,-1,11,19,40,100,122
+775,Oct 11 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Qatar,1644,1475,1,0,7,-7,1651,1468,48,88,0,-3,48,85,40,100,269
+776,Oct 11 1997,World Cup qualifier in Scotland,Scotland,Latvia,1791,1417,2,0,4,-4,1795,1413,21,102,0,0,21,102,40,100,474
+777,Oct 11 1997,World Cup qualifier in Slovenia,Slovenia,Croatia,1541,1849,1,3,-14,14,1527,1863,69,12,0,2,69,14,40,100,-208
+778,Oct 11 1997,World Cup qualifier in Spain,Spain,Faroe Islands,2046,1235,3,1,0,0,2046,1235,3,142,0,0,3,142,20,0,811
+779,Oct 11 1997,World Cup qualifier in Sweden,Sweden,Estonia,1824,1186,1,0,1,-1,1825,1185,17,158,1,0,18,158,30,0,638
+780,Oct 11 1997,World Cup qualifier in Switzerland,Switzerland,Azerbaijan,1668,1348,5,0,7,-7,1675,1341,39,120,2,0,41,120,40,100,420
+781,Oct 11 1997,World Cup qualifier in Uzbekistan,Uzbekistan,Japan,1560,1696,1,1,2,-2,1562,1694,64,37,0,1,64,38,30,100,-36
+782,Oct 12 1997,World Cup qualifier in Argentina,Argentina,Uruguay,1852,1674,0,0,-13,13,1839,1687,18,38,-1,2,17,40,40,100,278
+783,Oct 12 1997,World Cup qualifier in Canada,Canada,Mexico,1569,1810,2,2,8,-8,1577,1802,58,20,2,0,60,20,40,100,-141
+784,Oct 12 1997,World Cup qualifier in Chile,Chile,Peru,1687,1739,4,0,32,-32,1719,1707,29,47,5,-9,34,38,30,0,-52
+785,Oct 12 1997,World Cup qualifier in Ecuador,Ecuador,Bolivia,1774,1725,1,0,12,-12,1786,1713,21,38,1,-2,22,36,40,100,149
+786,Oct 12 1997,Southeast Asian Games in Indonesia,Indonesia,Philippines,1323,718,2,0,1,-1,1324,717,125,209,1,0,126,209,20,0,605
+787,Oct 12 1997,World Cup qualifier in Paraguay,Paraguay,Venezuela,1761,1335,1,0,2,-2,1763,1333,24,123,0,0,24,123,20,0,426
+788,Oct 12 1997,Southeast Asian Games in Indonesia,Singapore,Brunei,1256,790,1,0,3,-3,1259,787,138,205,0,0,138,205,40,0,466
+789,Oct 12 1997,Southeast Asian Games in Indonesia,Thailand,Cambodia,1446,999,4,0,5,-5,1451,994,89,190,2,-1,91,189,40,0,447
+790,Oct 12 1997,Southeast Asian Games in Indonesia,Vietnam,Laos,1154,981,2,1,11,-11,1165,970,162,193,1,-1,163,192,40,0,173
+791,Oct 14 1997,Southeast Asian Games in Indonesia,Cambodia,Myanmar,994,1144,3,1,42,-42,1036,1102,179,173,5,-4,184,169,40,0,-150
+792,Oct 14 1997,Southeast Asian Games in Indonesia,Laos,Malaysia,970,1291,1,0,35,-35,1005,1256,182,141,5,-3,187,138,40,0,-321
+793,Oct 14 1997,Southeast Asian Games in Indonesia,Singapore,Thailand,1259,1451,0,0,10,-10,1269,1441,136,95,1,-2,137,93,40,0,-192
+794,Oct 14 1997,Southeast Asian Games in Indonesia,Vietnam,Philippines,1165,717,3,0,5,-5,1170,712,161,209,1,0,162,209,40,0,448
+795,Oct 16 1997,Southeast Asian Games in Indonesia,Indonesia,Singapore,1324,1269,2,1,12,-12,1336,1257,120,137,3,0,123,137,40,100,155
+796,Oct 16 1997,Southeast Asian Games in Indonesia,Thailand,Vietnam,1441,1170,2,1,7,-7,1448,1163,91,164,1,-1,92,163,40,0,271
+797,Oct 17 1997,World Cup qualifier in Iran,Iran,China,1737,1674,4,1,20,-20,1757,1654,21,51,4,-4,25,47,40,100,163
+798,Oct 17 1997,World Cup qualifier in Kuwait,Kuwait,Saudi Arabia,1639,1651,2,1,15,-15,1654,1636,44,52,3,-2,47,50,40,100,88
+799,Oct 18 1997,Friendly in Haiti,Haiti,Jamaica,1340,1634,0,1,-5,5,1335,1639,125,46,-2,3,123,49,20,100,-194
+800,Oct 18 1997,Southeast Asian Games in Indonesia,Indonesia,Thailand,1336,1448,1,1,1,-1,1337,1447,121,92,1,0,122,92,30,100,-12
+801,Oct 18 1997,World Cup qualifier in Kazakhstan,Kazakhstan,United Arab Emirates,1517,1661,3,0,39,-39,1556,1622,57,58,8,-6,65,52,40,100,-44
+802,Oct 18 1997,World Cup qualifier in Uzbekistan,Uzbekistan,South Korea,1562,1748,1,5,-28,28,1534,1776,74,20,-5,4,69,24,40,100,-86
+803,Oct 18 1997,Southeast Asian Games in Indonesia,Vietnam,Singapore,1163,1257,1,0,25,-25,1188,1232,153,149,5,-6,158,143,40,0,-94
+804,Oct 19 1997,Friendly tournament in Haiti,Martinique,Cameroon,1483,1584,2,1,19,-19,1502,1565,72,65,3,-3,75,62,30,0,-101
+805,Oct 20 1997,Friendly tournament in Haiti,Haiti,Cuba,1335,1466,2,2,1,-1,1336,1465,123,87,0,0,123,87,20,100,-31
+806,Oct 22 1997,Friendly tournament in Haiti,Cameroon,Cuba,1565,1465,1,1,-4,4,1561,1469,64,81,-1,3,63,84,30,0,100
+807,Oct 23 1997,Friendly tournament in Haiti,Haiti,Martinique,1336,1502,3,0,31,-31,1367,1471,105,91,9,-8,114,83,30,100,-66
+808,Oct 24 1997,World Cup qualifier in Kuwait,Kuwait,Qatar,1654,1468,0,1,-34,34,1620,1502,58,64,-6,11,52,75,40,100,286
+809,Oct 24 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,Iran,1636,1757,1,0,21,-21,1657,1736,42,32,4,-3,46,29,40,100,-21
+810,Oct 24 1997,Friendly in Saint Lucia,Saint Lucia,Jamaica,1200,1639,1,3,-4,4,1196,1643,158,47,-2,1,156,48,20,100,-339
+811,Oct 25 1997,World Cup qualifier in Uzbekistan,Uzbekistan,Kazakhstan,1534,1556,4,0,29,-29,1563,1527,57,73,6,-4,63,69,40,100,78
+812,Oct 26 1997,Friendly in Antigua and Barbuda,Antigua and Barbuda,Jamaica,1101,1643,0,3,-3,3,1098,1646,173,48,0,0,173,48,20,100,-442
+813,Oct 26 1997,World Cup qualifier in Japan,Japan,United Arab Emirates,1694,1622,1,1,-9,9,1685,1631,41,51,-1,0,40,51,40,100,172
+814,Oct 29 1997,World Cup qualifier in Croatia,Croatia,Ukraine,1863,1680,2,0,10,-10,1873,1670,14,45,0,-2,14,43,40,100,283
+815,Oct 29 1997,World Cup qualifier in Hungary,Hungary,Yugoslavia,1616,1951,1,7,-17,17,1599,1968,58,5,-2,1,56,6,40,100,-235
+816,Oct 29 1997,World Cup qualifier in Ireland,Ireland,Belgium,1725,1785,1,1,-2,2,1723,1787,33,21,0,1,33,22,30,100,40
+817,Oct 29 1997,World Cup qualifier in Russia,Russia,Italy,1883,1963,1,1,-1,1,1882,1964,13,8,-1,-1,12,7,20,100,20
+818,Oct 29 1997,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Jamaica,1221,1646,1,1,7,-7,1228,1639,144,50,1,-1,145,49,20,100,-325
+819,Oct 30 1997,Friendly in Lesotho,Lesotho,Namibia,1184,1377,2,1,13,-13,1197,1364,150,118,5,-3,155,115,20,100,-93
+820,Oct 31 1997,World Cup qualifier in China,China,Qatar,1654,1502,2,3,-32,32,1622,1534,57,63,-5,6,52,69,40,100,252
+821,Oct 31 1997,World Cup qualifier in Iran,Iran,Kuwait,1736,1620,0,0,-11,11,1725,1631,35,48,-3,2,32,50,40,100,216
+822,Nov 1 1997,World Cup qualifier in South Korea,South Korea,Japan,1776,1685,0,2,-45,45,1731,1730,32,20,-4,10,28,30,40,100,191
+823,Nov 2 1997,Friendly in Ivory Coast,Ivory Coast,Burkina Faso,1564,1295,0,0,-8,8,1556,1303,68,127,-3,3,65,130,20,100,369
+824,Nov 2 1997,World Cup qualifier in Mexico,Mexico,United States,1802,1662,0,0,-12,12,1790,1674,22,39,-1,3,21,42,40,100,240
+825,Nov 2 1997,Friendly in Swaziland,Swaziland,Mauritius,1180,1137,0,1,-14,14,1166,1151,165,165,-2,0,163,165,20,100,143
+826,Nov 2 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Uzbekistan,1631,1563,0,0,-9,9,1622,1572,52,61,-1,1,51,62,40,100,168
+827,Nov 5 1997,Friendly in Tunisia,Tunisia,Bosnia and Herzegovina,1665,1636,2,1,6,-6,1671,1630,41,51,2,-1,43,50,20,100,129
+828,Nov 6 1997,Leeward Islands Champ in Antigua and Barbuda,Antigua and Barbuda,British Virgin Islands,1098,814,2,0,4,-4,1102,810,165,204,4,0,169,204,30,100,384
+829,Nov 6 1997,World Cup qualifier in Saudi Arabia,Saudi Arabia,China,1657,1622,1,1,-7,7,1650,1629,46,51,0,0,46,51,40,100,135
+830,Nov 7 1997,Friendly in Chile,Chile,Guatemala,1719,1560,4,1,6,-6,1725,1554,31,68,2,-2,33,66,20,100,259
+831,Nov 7 1997,World Cup qualifier in Qatar,Qatar,Iran,1534,1725,2,0,38,-38,1572,1687,55,45,7,-6,62,39,40,100,-91
+832,Nov 8 1997,Leeward Islands Champ in the British Virgin Islands,British Virgin Islands,Antigua and Barbuda,810,1102,1,3,-11,11,799,1113,204,165,0,2,204,167,30,100,-192
+833,Nov 8 1997,World Cup qualifier in Japan,Japan,Kazakhstan,1730,1527,5,1,11,-11,1741,1516,24,78,3,-4,27,74,40,100,303
+834,Nov 9 1997,World Cup qualifier in Canada,Canada,United States,1577,1674,0,3,-35,35,1542,1709,79,34,-10,4,69,38,40,100,3
+835,Nov 9 1997,World Cup qualifier in El Salvador,El Salvador,Jamaica,1523,1639,2,2,1,-1,1524,1638,72,48,0,0,72,48,30,100,-16
+836,Nov 9 1997,World Cup qualifier in Mexico,Mexico,Costa Rica,1790,1587,3,3,-14,14,1776,1601,25,52,-2,3,23,55,40,100,303
+837,Nov 9 1997,World Cup qualifier in the United Arab Emirates,United Arab Emirates,South Korea,1622,1731,1,3,-29,29,1593,1760,62,21,-5,4,57,25,40,100,-9
+838,Nov 11 1997,Friendly in Brazil,Brazil,Wales,2148,1576,3,0,1,-1,2149,1575,1,60,0,0,1,60,20,0,572
+839,Nov 12 1997,World Cup qualifier in China,China,Kuwait,1629,1631,1,0,15,-15,1644,1616,43,55,4,-3,47,52,30,0,-2
+840,Nov 12 1997,Friendly in France,France,Scotland,2009,1795,2,1,3,-3,2012,1792,4,20,0,0,4,20,20,100,314
+841,Nov 12 1997,World Cup qualifier in Qatar,Qatar,Saudi Arabia,1572,1650,0,1,-21,21,1551,1671,71,40,-5,3,66,43,40,100,22
+842,Nov 13 1997,Friendly in Mali,Mali,Mauritania,1352,1192,3,1,5,-5,1357,1187,119,160,0,-1,119,159,20,100,260
+843,Nov 15 1997,Leeward Islands Champ in Saint Kitts and Nevis,Antigua and Barbuda,Sint Maarten,1113,971,5,1,17,-17,1130,954,167,196,0,-2,167,194,30,0,142
+844,Nov 15 1997,World Cup qualifier in Belgium,Belgium,Ireland,1787,1723,2,1,11,-11,1798,1712,19,40,1,-3,20,37,40,100,164
+845,Nov 15 1997,Friendly in England,England,Cameroon,2000,1561,2,0,1,-1,2001,1560,5,62,0,0,5,62,20,100,539
+846,Nov 15 1997,Friendly in Germany,Germany,South Africa,2067,1730,3,0,3,-3,2070,1727,2,31,0,0,2,31,20,100,437
+847,Nov 15 1997,World Cup qualifier in Italy,Italy,Russia,1964,1882,1,0,10,-10,1974,1872,5,14,1,-1,6,13,40,100,182
+848,Nov 15 1997,Friendly in Mali,Mali,Mauritania,1357,1187,3,0,6,-6,1363,1181,115,161,2,-1,117,160,20,100,270
+849,Nov 15 1997,World Cup qualifier in Ukraine,Ukraine,Croatia,1670,1873,1,1,6,-6,1676,1867,38,14,4,0,42,14,40,100,-103
+850,Nov 15 1997,World Cup qualifier in Yugoslavia,Yugoslavia,Hungary,1968,1599,5,0,5,-5,1973,1594,8,56,-1,0,7,56,40,100,469
+851,Nov 16 1997,World Cup qualifier in Argentina,Argentina,Colombia,1839,1757,1,1,-10,10,1829,1767,17,20,0,3,17,23,40,100,182
+852,Nov 16 1997,World Cup qualifier in Chile,Chile,Bolivia,1725,1713,3,0,24,-24,1749,1689,21,45,6,-5,27,40,40,100,112
+853,Nov 16 1997,World Cup qualifier in Costa Rica,Costa Rica,Canada,1601,1542,3,1,17,-17,1618,1525,47,71,4,-1,51,70,40,100,159
+854,Nov 16 1997,World Cup qualifier in Jamaica,Jamaica,Mexico,1638,1776,0,0,2,-2,1640,1774,49,21,0,1,49,22,30,100,-38
+855,Nov 16 1997,World Cup qualifier in Malaysia,Japan,Iran,1741,1687,3,2,17,-17,1758,1670,22,52,3,-6,25,46,40,0,54
+856,Nov 16 1997,World Cup qualifier in Peru,Peru,Paraguay,1707,1763,1,0,17,-17,1724,1746,29,34,5,-5,34,29,30,0,-56
+857,Nov 16 1997,Leeward Islands Champ in Saint Kitts,Saint Kitts,Antigua and Barbuda,1228,1130,2,0,11,-11,1239,1119,133,167,6,0,139,167,20,0,98
+858,Nov 16 1997,World Cup qualifier in Uruguay,Uruguay,Ecuador,1687,1786,5,3,30,-30,1717,1756,32,30,4,-4,36,26,40,100,1
+859,Nov 16 1997,World Cup qualifier in the United States,United States,El Salvador,1709,1524,4,2,10,-10,1719,1514,32,76,3,-2,35,74,40,100,285
+860,Nov 19 1997,Friendly in Senegal,Senegal,Mali,1438,1363,1,2,-15,15,1423,1378,105,107,-5,5,100,112,20,100,175
+861,Nov 19 1997,Friendly in Spain,Spain,Romania,2046,1879,1,1,-6,6,2040,1885,3,10,0,1,3,11,20,100,267
+862,Nov 22 1997,World Cup qualifier in Iran,Iran,Australia,1670,1848,1,1,4,-4,1674,1844,40,16,3,0,43,16,40,100,-78
+863,Nov 23 1997,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1477,1640,0,0,2,-2,1479,1638,81,49,0,0,81,49,20,100,-63
+864,Nov 26 1997,Friendly in Morocco,Morocco,Togo,1741,1389,3,0,2,-2,1743,1387,30,109,0,0,30,109,20,100,452
+865,Nov 27 1997,Friendly in the Philippines,Philippines,Estonia,712,1185,0,1,-2,2,710,1187,209,159,0,0,209,159,20,100,-373
+866,Nov 28 1997,Amilcar Cabral Cup in The Gambia,Gambia,Cape Verde,1296,1289,3,1,21,-21,1317,1268,127,137,3,-1,130,136,40,100,107
+867,Nov 28 1997,Amilcar Cabral Cup in The Gambia,Mauritania,Senegal,1181,1423,1,1,12,-12,1193,1411,156,104,2,-2,158,102,40,0,-242
+868,Nov 29 1997,World Cup qualifier in Australia,Australia,Iran,1844,1674,2,2,-13,13,1831,1687,16,39,0,2,16,41,40,100,270
+869,Nov 29 1997,Amilcar Cabral Cup in The Gambia,Guinea,Mali,1469,1378,0,0,-5,5,1464,1383,89,108,-2,2,87,110,20,100,191
+870,Nov 29 1997,Amilcar Cabral Cup in The Gambia,Sierra Leone,Guinea-Bissau,1468,1234,2,1,8,-8,1476,1226,77,149,5,-3,82,146,40,0,234
+871,Nov 30 1997,Amilcar Cabral Cup in The Gambia,Gambia,Mauritania,1317,1193,2,1,9,-9,1326,1184,122,162,4,-2,126,160,40,100,224
+872,Nov 30 1997,Amilcar Cabral Cup in The Gambia,Senegal,Cape Verde,1411,1268,2,0,18,-18,1429,1250,94,138,4,-1,98,137,40,0,143
+873,Dec 1 1997,Amilcar Cabral Cup in The Gambia,Guinea,Sierra Leone,1464,1476,3,0,36,-36,1500,1440,65,104,11,-11,76,93,40,0,-12
+874,Dec 1 1997,Amilcar Cabral Cup in The Gambia,Mali,Guinea-Bissau,1383,1226,6,1,23,-23,1406,1203,98,158,6,-6,104,152,40,0,157
+875,Dec 2 1997,Amilcar Cabral Cup in The Gambia,Cape Verde,Mauritania,1250,1184,2,2,-4,4,1246,1188,139,156,-1,2,138,158,20,100,166
+876,Dec 2 1997,Amilcar Cabral Cup in The Gambia,Gambia,Senegal,1326,1429,0,0,0,0,1326,1429,126,98,0,0,126,98,20,100,-3
+877,Dec 3 1997,Friendly in Egypt,Egypt,Ghana,1613,1484,3,2,4,-4,1617,1480,52,83,1,-2,53,81,20,100,229
+878,Dec 3 1997,Amilcar Cabral Cup in The Gambia,Guinea,Guinea-Bissau,1500,1203,2,0,9,-9,1509,1194,76,162,0,-5,76,157,40,0,297
+879,Dec 3 1997,Amilcar Cabral Cup in The Gambia,Mali,Sierra Leone,1406,1440,1,1,2,-2,1408,1438,104,95,0,-1,104,94,40,0,-34
+880,Dec 5 1997,Amilcar Cabral Cup in The Gambia,Gambia,Mali,1326,1408,1,2,-21,21,1305,1429,134,94,-4,5,130,99,40,100,18
+881,Dec 5 1997,Amilcar Cabral Cup in The Gambia,Senegal,Guinea,1429,1509,2,1,25,-25,1454,1484,80,80,9,-2,89,78,40,0,-80
+882,Dec 7 1997,Amilcar Cabral Cup in The Gambia,Gambia,Guinea,1305,1484,2,2,4,-4,1309,1480,130,82,0,-2,130,80,40,100,-79
+883,Dec 7 1997,Amilcar Cabral Cup in The Gambia,Mali,Senegal,1429,1454,1,0,21,-21,1450,1433,83,107,8,-9,91,98,40,0,-25
+884,Dec 7 1997,Friendly in Saudi Arabia,Saudi Arabia,Iceland,1671,1482,0,0,-7,7,1664,1489,48,77,-2,1,46,78,20,100,289
+885,Dec 7 1997,Friendly in South Africa,South Africa,Brazil,1727,2149,1,2,-3,3,1724,2152,34,1,-1,0,33,1,20,100,-322
+886,Dec 12 1997,Confederations Cup in Saudi Arabia,Australia,Mexico,1831,1774,3,1,31,-31,1862,1743,14,36,1,-7,15,29,50,0,57
+887,Dec 12 1997,Confederations Cup in Saudi Arabia,Saudi Arabia,Brazil,1664,2152,0,3,-8,8,1656,2160,46,1,0,0,46,1,50,100,-388
+888,Dec 12 1997,Friendly in Swaziland,Swaziland,Mozambique,1166,1425,1,1,4,-4,1170,1421,161,101,1,0,162,101,20,100,-159
+889,Dec 13 1997,Confederations Cup in Saudi Arabia,Czechia,South Africa,1889,1724,2,2,-11,11,1878,1735,14,31,-2,1,12,32,50,0,165
+890,Dec 13 1997,Confederations Cup in Saudi Arabia,Uruguay,United Arab Emirates,1717,1593,2,0,25,-25,1742,1568,26,65,5,-4,31,61,50,0,124
+891,Dec 13 1997,Friendly in Zambia,Zambia,Burkina Faso,1618,1303,2,0,3,-3,1621,1300,51,133,0,-1,51,132,20,100,415
+892,Dec 14 1997,Confederations Cup in Saudi Arabia,Australia,Brazil,1862,2160,0,0,17,-17,1879,2143,9,1,3,0,12,1,50,0,-298
+893,Dec 14 1997,Confederations Cup in Saudi Arabia,Saudi Arabia,Mexico,1656,1743,0,5,-52,52,1604,1795,64,13,-9,8,55,21,50,100,13
+894,Dec 15 1997,Confederations Cup in Saudi Arabia,United Arab Emirates,South Africa,1568,1735,1,0,36,-36,1604,1699,49,44,6,-6,55,38,50,0,-167
+895,Dec 15 1997,Confederations Cup in Saudi Arabia,Uruguay,Czechia,1742,1878,2,1,34,-34,1776,1844,15,19,8,-3,23,16,50,0,-136
+896,Dec 15 1997,Friendly in Zambia,Zambia,Nigeria,1621,1714,2,0,15,-15,1636,1699,48,39,1,-1,49,38,20,100,7
+897,Dec 16 1997,Confederations Cup in Saudi Arabia,Brazil,Mexico,2143,1795,3,2,6,-6,2149,1789,1,23,0,-1,1,22,50,0,348
+898,Dec 16 1997,Confederations Cup in Saudi Arabia,Saudi Arabia,Australia,1604,1879,1,0,37,-37,1641,1842,39,20,8,-4,47,16,50,100,-175
+899,Dec 17 1997,Confederations Cup in Saudi Arabia,Czechia,United Arab Emirates,1844,1604,6,1,20,-20,1864,1584,13,60,1,-2,14,58,50,0,240
+900,Dec 17 1997,Friendly in Martinique,Martinique,Trinidad and Tobago,1471,1479,3,0,13,-13,1484,1466,73,90,6,-4,79,86,20,100,92
+901,Dec 17 1997,Confederations Cup in Saudi Arabia,Uruguay,South Africa,1776,1699,4,3,20,-20,1796,1679,19,44,2,-3,21,41,50,0,77
+902,Dec 17 1997,Friendly in Zambia,Zambia,Nigeria,1636,1699,0,0,-1,1,1635,1700,50,38,0,0,50,38,20,100,37
+903,Dec 18 1997,Friendly in Egypt,Egypt,Togo,1617,1387,7,2,5,-5,1622,1382,51,110,1,0,52,110,20,100,330
+904,Dec 18 1997,Friendly in Lesotho,Lesotho,Swaziland,1197,1170,0,0,-4,4,1193,1174,160,162,-3,0,157,162,20,100,127
+905,Dec 18 1997,Friendly in Martinique,Martinique,Trinidad and Tobago,1484,1466,3,2,7,-7,1491,1459,77,86,1,0,78,86,20,100,118
+906,Dec 19 1997,Confederations Cup in Saudi Arabia,Australia,Uruguay,1842,1796,1,0,22,-22,1864,1774,12,25,2,-2,14,23,50,0,46
+907,Dec 19 1997,Confederations Cup in Saudi Arabia,Brazil,Czechia,2149,1864,2,0,12,-12,2161,1852,1,18,0,-2,1,16,50,0,285
+908,Dec 20 1997,Friendly in Egypt,Egypt,Algeria,1622,1549,1,2,-15,15,1607,1564,58,57,-3,5,55,62,20,100,173
+909,Dec 21 1997,Confederations Cup in Saudi Arabia,Brazil,Australia,2161,1864,6,0,16,-16,2177,1848,1,18,0,-2,1,16,50,0,297
+910,Dec 21 1997,Confederations Cup in Saudi Arabia,Czechia,Uruguay,1852,1774,1,0,19,-19,1871,1755,10,31,3,-4,13,27,50,0,78
+911,Dec 21 1997,Friendly in Mozambique,Mozambique,Lesotho,1421,1193,1,1,-7,7,1414,1200,103,149,-1,4,102,153,20,100,328
+912,Dec 22 1997,Friendly in Egypt,Egypt,Cameroon,1607,1560,2,0,9,-9,1616,1551,51,67,2,-2,53,65,20,100,147
+913,Dec 22 1997,Friendly in Egypt,Togo,Algeria,1382,1564,1,0,15,-15,1397,1549,104,72,3,-5,107,67,20,0,-182
+914,Dec 24 1997,Friendly in Egypt,Cameroon,Togo,1551,1397,3,1,9,-9,1560,1388,61,113,2,-3,63,110,20,0,154
+915,Dec 24 1997,Friendly in Egypt,Egypt,Algeria,1616,1549,1,2,-14,14,1602,1563,57,57,-2,5,55,62,20,100,167
+916,Dec 27 1997,Friendly in Burkina Faso,Burkina Faso,Ivory Coast,1300,1556,2,0,21,-21,1321,1535,124,72,4,-4,128,68,20,100,-156
+917,Dec 28 1997,Friendly in Lesotho,Lesotho,Swaziland,1200,1174,0,0,-3,3,1197,1177,155,160,-1,1,154,161,20,100,126

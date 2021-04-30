@@ -1,0 +1,771 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 3 1998,Friendly in Malawi,Malawi,Zimbabwe,1361,1432,1,0,9,-9,1370,1423,108,101,5,-1,113,100,20,100,29
+1,Jan 4 1998,Friendly in Barbados,Barbados,Trinidad and Tobago,1320,1459,0,1,-9,9,1311,1468,131,86,-1,0,130,86,20,100,-39
+2,Jan 4 1998,Friendly in Burkina Faso,Burkina Faso,Mozambique,1321,1414,1,0,10,-10,1331,1404,122,108,3,-3,125,105,20,100,7
+3,Jan 4 1998,Friendly in Guinea,Guinea,Togo,1480,1388,1,0,5,-5,1485,1383,79,110,1,0,80,110,20,100,192
+4,Jan 4 1998,Friendly in Malawi,Malawi,Zimbabwe,1370,1423,0,2,-17,17,1353,1440,125,88,-6,6,119,94,20,100,47
+5,Jan 7 1998,Friendly in Burkina Faso,Burkina Faso,Mozambique,1331,1404,4,2,14,-14,1345,1390,117,111,4,-3,121,108,20,100,27
+6,Jan 7 1998,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1468,1638,0,0,2,-2,1470,1636,84,49,1,0,85,49,20,100,-70
+7,Jan 10 1998,COSAFA Cup in Malawi,Malawi,Zambia,1353,1635,0,1,-10,10,1343,1645,123,42,-2,4,121,46,40,100,-182
+8,Jan 10 1998,Friendly in Swaziland,Swaziland,Botswana,1177,1002,0,0,-7,7,1170,1009,163,185,-1,2,162,187,20,100,275
+9,Jan 11 1998,Friendly in Burkina Faso,Burkina Faso,Mali,1345,1450,0,0,0,0,1345,1450,120,91,0,0,120,91,20,100,-5
+10,Jan 11 1998,Friendly in Togo,Togo,Mozambique,1383,1390,1,2,-13,13,1370,1403,114,102,-2,3,112,105,20,100,93
+11,Jan 12 1998,Friendly in Lesotho,Lesotho,Botswana,1197,1009,0,0,-7,7,1190,1016,160,187,-3,0,157,187,20,100,288
+12,Jan 14 1998,Friendly in Ghana,Ghana,Mozambique,1480,1403,0,0,-5,5,1475,1408,82,103,0,1,82,104,20,100,177
+13,Jan 14 1998,Friendly in Morocco,Morocco,Angola,1743,1546,2,1,3,-3,1746,1543,29,67,1,0,30,67,20,100,297
+14,Jan 16 1998,Friendly in The Gambia,Gambia,Zambia,1309,1645,0,2,-6,6,1303,1651,131,46,0,0,131,46,20,100,-236
+15,Jan 18 1998,COSAFA Cup in Lesotho,Lesotho,Zimbabwe,1190,1440,0,2,-18,18,1172,1458,165,82,-4,6,161,88,40,100,-150
+16,Jan 19 1998,Friendly in Ghana,Ghana,Mozambique,1475,1408,3,1,8,-8,1483,1400,80,108,1,-2,81,106,20,100,167
+17,Jan 21 1998,Friendly in Costa Rica,Costa Rica,Honduras,1618,1553,1,4,-25,25,1593,1578,60,53,-4,6,56,59,20,100,165
+18,Jan 21 1998,Friendly in El Salvador,El Salvador,Trinidad and Tobago,1514,1470,2,0,9,-9,1523,1461,70,87,2,-1,72,86,20,100,144
+19,Jan 21 1998,Friendly in Turkey,Turkey,Albania,1713,1406,1,4,-32,32,1681,1438,44,88,-4,8,40,96,20,100,407
+20,Jan 23 1998,Friendly in Guatemala,Guatemala,Trinidad and Tobago,1554,1461,3,1,7,-7,1561,1454,63,92,1,-3,64,89,20,100,193
+21,Jan 24 1998,COSAFA Cup in Namibia,Namibia,South Africa,1364,1679,3,2,31,-31,1395,1648,98,51,9,-5,107,46,40,100,-215
+22,Jan 24 1998,Friendly in the United States,United States,Sweden,1719,1825,1,0,10,-10,1729,1815,31,20,2,-1,33,19,20,100,-6
+23,Jan 25 1998,COSAFA Cup in Botswana,Botswana,Mozambique,1016,1400,1,2,-7,7,1009,1407,187,104,0,1,187,105,40,100,-284
+24,Jan 25 1998,King's Cup in Thailand,Thailand,Egypt,1447,1602,1,1,2,-2,1449,1600,93,54,0,0,93,54,20,100,-55
+25,Jan 27 1998,Friendly in Liberia,Liberia,Burkina Faso,1369,1345,1,2,-13,13,1356,1358,124,116,-5,2,119,118,20,100,124
+26,Jan 27 1998,King's Cup in Thailand,South Korea,Egypt,1760,1600,2,0,13,-13,1773,1587,22,60,1,-3,23,57,30,0,160
+27,Jan 28 1998,Friendly in Cameroon,Cameroon,Angola,1560,1543,1,0,7,-7,1567,1536,61,67,2,0,63,67,20,100,117
+28,Jan 28 1998,Friendly in Costa Rica,Costa Rica,Trinidad and Tobago,1593,1454,4,0,8,-8,1601,1446,53,99,1,-5,54,94,20,100,239
+29,Jan 28 1998,Friendly in France,France,Spain,2012,2040,1,0,8,-8,2020,2032,4,3,0,0,4,3,20,100,72
+30,Jan 28 1998,Friendly in Italy,Italy,Slovakia,1974,1726,3,0,4,-4,1978,1722,8,36,-1,-1,7,35,20,100,348
+31,Jan 28 1998,Friendly tournament in Hong Kong,Nigeria,Iran,1700,1687,1,0,14,-14,1714,1673,35,45,1,-3,36,42,30,0,13
+32,Jan 28 1998,Friendly in Tunisia,Tunisia,Yugoslavia,1671,1973,0,3,-8,8,1663,1981,45,5,-1,1,44,6,20,100,-202
+33,Jan 29 1998,Friendly in El Salvador,El Salvador,Honduras,1523,1578,1,1,-1,1,1522,1579,72,59,0,0,72,59,20,100,45
+34,Jan 29 1998,Friendly in Ivory Coast,Ivory Coast,Mozambique,1535,1407,4,1,7,-7,1542,1400,66,107,1,-1,67,106,20,100,228
+35,Jan 29 1998,Friendly in Jamaica,Jamaica,Sweden,1636,1815,0,0,2,-2,1638,1813,50,19,0,0,50,19,20,100,-79
+36,Jan 29 1998,King's Cup in Thailand,Thailand,South Korea,1449,1773,0,2,-10,10,1439,1783,98,23,-3,0,95,23,30,100,-224
+37,Jan 29 1998,Friendly in Togo,Togo,Mali,1370,1450,2,1,9,-9,1379,1441,111,95,1,-2,112,93,20,100,20
+38,Jan 30 1998,Friendly in Niger,Niger,Namibia,1325,1395,2,1,9,-9,1334,1386,123,113,2,-3,125,110,20,100,30
+39,Jan 31 1998,Friendly tournament in Hong Kong,Chile,Iran,1749,1673,1,1,-3,3,1746,1676,30,38,-1,2,29,40,30,0,76
+40,Jan 31 1998,King's Cup in Thailand,Egypt,South Korea,1587,1783,1,1,8,-8,1595,1775,53,23,2,0,55,23,30,0,-196
+41,Jan 31 1998,Friendly in Tunisia,Tunisia,Guinea,1663,1485,4,1,6,-6,1669,1479,44,84,0,-2,44,82,20,100,278
+42,Feb 1 1998,Friendly in Niger,Burkina Faso,Namibia,1358,1386,3,1,16,-16,1374,1370,106,116,6,-3,112,113,20,0,-28
+43,Feb 1 1998,CONCACAF Championship in the United States,El Salvador,Guatemala,1522,1561,0,0,3,-3,1525,1558,68,63,2,1,70,64,50,0,-39
+44,Feb 1 1998,Friendly in Ivory Coast,Ivory Coast,Cameroon,1542,1567,1,0,8,-8,1550,1559,65,63,1,0,66,63,20,100,75
+45,Feb 1 1998,Friendly in Togo,Togo,Mali,1379,1441,0,4,-21,21,1358,1462,124,79,-6,7,118,86,20,100,38
+46,Feb 1 1998,CONCACAF Championship in the United States,Trinidad and Tobago,Honduras,1446,1579,3,1,51,-51,1497,1528,60,77,16,-9,76,68,50,0,-133
+47,Feb 1 1998,CONCACAF Championship in the United States,United States,Cuba,1729,1469,3,0,10,-10,1739,1459,31,89,1,-2,32,87,30,0,260
+48,Feb 3 1998,CONCACAF Championship in the United States,Brazil,Jamaica,2177,1638,0,0,-23,23,2154,1661,1,40,0,5,1,45,50,0,539
+49,Feb 4 1998,CONCACAF Championship in the United States,Costa Rica,Cuba,1601,1459,7,2,31,-31,1632,1428,48,113,3,-13,51,100,50,0,142
+50,Feb 4 1998,Friendly in Mali,Mali,Tunisia,1462,1669,0,1,-7,7,1455,1676,92,36,-3,4,89,40,20,100,-107
+51,Feb 4 1998,CONCACAF Championship in the United States,Mexico,Trinidad and Tobago,1789,1497,4,2,12,-12,1801,1485,18,84,2,-4,20,80,50,0,292
+52,Feb 4 1998,Friendly in New Zealand,New Zealand,Chile,1435,1746,0,0,5,-5,1440,1741,87,33,6,-2,93,31,20,100,-211
+53,Feb 5 1998,CONCACAF Championship in the United States,Brazil,Guatemala,2154,1558,1,1,-23,23,2131,1581,1,54,0,5,1,59,50,0,596
+54,Feb 5 1998,Friendly tournament in Cyprus,Cyprus,Finland,1459,1525,1,1,-1,1,1458,1526,86,70,0,0,86,70,20,100,34
+55,Feb 5 1998,Friendly in Morocco,Morocco,Niger,1746,1334,3,0,2,-2,1748,1332,29,127,0,-1,29,126,20,100,512
+56,Feb 5 1998,Friendly tournament in Cyprus,Slovenia,Iceland,1527,1489,3,2,13,-13,1540,1476,65,87,2,-4,67,83,30,0,38
+57,Feb 6 1998,Friendly tournament in Malta,Georgia,Latvia,1641,1413,2,1,6,-6,1647,1407,47,105,1,-1,48,104,30,0,228
+58,Feb 6 1998,Friendly tournament in Malta,Malta,Albania,1227,1438,1,1,5,-5,1232,1433,141,100,2,-2,143,98,20,0,-211
+59,Feb 6 1998,Friendly tournament in Cyprus,Slovakia,Slovenia,1722,1540,1,1,-7,7,1715,1547,35,67,0,0,35,67,20,100,282
+60,Feb 7 1998,Friendly in Australia,Australia,Chile,1848,1741,0,1,-15,15,1833,1756,16,21,0,5,16,26,20,100,207
+61,Feb 7 1998,African Nations Cup in Burkina Faso,Burkina Faso,Cameroon,1374,1559,0,1,-19,19,1355,1578,126,56,-7,4,119,60,50,100,-85
+62,Feb 7 1998,CONCACAF Championship in the United States,Mexico,Honduras,1801,1528,2,0,13,-13,1814,1515,18,79,1,-5,19,74,50,0,273
+63,Feb 7 1998,Friendly in New Zealand,New Zealand,South Korea,1440,1775,0,1,-4,4,1436,1779,101,23,-4,0,97,23,20,100,-235
+64,Feb 7 1998,Friendly tournament in Cyprus,Slovakia,Iceland,1715,1476,2,1,6,-6,1721,1470,35,87,0,-2,35,85,30,0,239
+65,Feb 7 1998,CONCACAF Championship in the United States,United States,Costa Rica,1739,1632,2,1,12,-12,1751,1620,26,53,3,-1,29,52,50,100,207
+66,Feb 8 1998,African Nations Cup in Burkina Faso,Angola,South Africa,1536,1648,0,0,8,-8,1544,1640,66,53,1,-3,67,50,50,0,-112
+67,Feb 8 1998,CONCACAF Championship in the United States,Brazil,El Salvador,2131,1525,4,0,3,-3,2134,1522,1,72,0,-1,1,71,50,0,606
+68,Feb 8 1998,Friendly tournament in Malta,Georgia,Albania,1647,1433,3,0,12,-12,1659,1421,44,104,2,-3,46,101,30,0,214
+69,Feb 8 1998,African Nations Cup in Burkina Faso,Guinea,Algeria,1479,1563,1,0,31,-31,1510,1532,70,72,6,-4,76,68,50,0,-84
+70,Feb 8 1998,African Nations Cup in Burkina Faso,Ivory Coast,Namibia,1550,1370,4,3,13,-13,1563,1357,60,122,3,-5,63,117,50,0,180
+71,Feb 8 1998,CONCACAF Championship in the United States,Jamaica,Guatemala,1661,1581,3,2,19,-19,1680,1562,35,69,5,-5,40,64,50,0,80
+72,Feb 8 1998,Friendly tournament in Malta,Malta,Latvia,1232,1407,2,1,18,-18,1250,1389,131,114,6,-5,137,109,30,100,-75
+73,Feb 8 1998,Friendly in Paraguay,Paraguay,Poland,1746,1671,4,0,10,-10,1756,1661,20,46,6,-1,26,45,20,100,175
+74,Feb 9 1998,Friendly tournament in Cyprus,Cyprus,Slovenia,1458,1547,1,0,15,-15,1473,1532,82,70,2,-2,84,68,30,100,11
+75,Feb 9 1998,African Nations Cup in Burkina Faso,DR Congo,Togo,1453,1358,2,1,18,-18,1471,1340,82,128,4,-6,86,122,50,0,95
+76,Feb 9 1998,African Nations Cup in Burkina Faso,Ghana,Tunisia,1483,1676,2,0,56,-56,1539,1620,53,61,14,-10,67,51,50,0,-193
+77,Feb 9 1998,CONCACAF Championship in the United States,Jamaica,El Salvador,1680,1522,2,0,22,-22,1702,1500,36,83,2,-6,38,77,50,0,158
+78,Feb 9 1998,African Nations Cup in Burkina Faso,Morocco,Zambia,1748,1651,1,1,-7,7,1741,1658,32,45,0,1,32,46,50,0,97
+79,Feb 9 1998,Friendly tournament in Cyprus,Slovakia,Finland,1721,1526,2,0,11,-11,1732,1515,31,77,2,-4,33,73,30,0,195
+80,Feb 10 1998,Friendly tournament in Malta,Albania,Latvia,1421,1389,2,2,-1,1,1420,1390,101,105,0,2,101,107,20,0,32
+81,Feb 10 1998,African Nations Cup in Burkina Faso,Egypt,Mozambique,1595,1400,2,0,18,-18,1613,1382,53,113,1,-4,54,109,50,0,195
+82,Feb 10 1998,Friendly tournament in Malta,Malta,Georgia,1250,1659,1,3,-7,7,1243,1666,141,43,-2,1,139,44,30,100,-309
+83,Feb 10 1998,CONCACAF Championship in the United States,United States,Brazil,1751,2134,1,0,42,-42,1793,2092,14,1,8,0,22,1,50,100,-283
+84,Feb 11 1998,Friendly in Australia,Australia,South Korea,1833,1779,1,0,6,-6,1839,1773,16,26,0,-1,16,25,20,100,154
+85,Feb 11 1998,African Nations Cup in Burkina Faso,Burkina Faso,Algeria,1355,1532,2,1,30,-30,1385,1502,100,84,9,-8,109,76,50,100,-77
+86,Feb 11 1998,African Nations Cup in Burkina Faso,Cameroon,Guinea,1578,1510,2,2,-5,5,1573,1515,63,68,-2,4,61,72,50,0,68
+87,Feb 11 1998,Friendly in England,England,Chile,2001,1756,0,2,-26,26,1975,1782,9,21,-2,3,7,24,20,100,345
+88,Feb 11 1998,African Nations Cup in Burkina Faso,Ivory Coast,South Africa,1563,1640,1,1,5,-5,1568,1635,63,49,0,0,63,49,50,0,-77
+89,Feb 12 1998,African Nations Cup in Burkina Faso,Angola,Namibia,1544,1357,3,3,-12,12,1532,1369,66,111,0,3,66,114,50,0,187
+90,Feb 12 1998,CONCACAF Championship in the United States,Mexico,Jamaica,1814,1702,1,0,17,-17,1831,1685,15,40,2,-1,17,39,50,0,112
+91,Feb 12 1998,African Nations Cup in Burkina Faso,Togo,Ghana,1340,1539,2,1,38,-38,1378,1501,104,85,9,-9,113,76,50,0,-199
+92,Feb 12 1998,African Nations Cup in Burkina Faso,Tunisia,DR Congo,1620,1471,2,1,15,-15,1635,1456,47,92,2,-3,49,89,50,0,149
+93,Feb 13 1998,African Nations Cup in Burkina Faso,Egypt,Zambia,1613,1658,4,0,53,-53,1666,1605,34,64,10,-9,44,55,50,0,-45
+94,Feb 13 1998,African Nations Cup in Burkina Faso,Morocco,Mozambique,1741,1382,3,0,10,-10,1751,1372,30,116,1,-3,31,113,50,0,359
+95,Feb 15 1998,Friendly in Australia,Australia,Japan,1839,1758,0,3,-26,26,1813,1784,22,19,-3,4,19,23,20,100,181
+96,Feb 15 1998,CONCACAF Championship in the United States,Brazil,Jamaica,2092,1685,1,0,4,-4,2096,1681,1,39,0,0,1,39,40,0,407
+97,Feb 15 1998,African Nations Cup in Burkina Faso,Burkina Faso,Guinea,1385,1515,1,0,27,-27,1412,1488,97,87,6,-8,103,79,40,0,-130
+98,Feb 15 1998,African Nations Cup in Burkina Faso,Cameroon,Algeria,1573,1502,2,1,20,-20,1593,1482,53,87,4,-6,57,81,50,0,71
+99,Feb 15 1998,CONCACAF Championship in the United States,United States,Mexico,1793,1831,0,1,-29,29,1764,1860,32,13,-5,2,27,15,50,100,62
+100,Feb 16 1998,African Nations Cup in Burkina Faso,DR Congo,Ghana,1456,1501,1,0,28,-28,1484,1473,71,94,9,-10,80,84,50,0,-45
+101,Feb 16 1998,African Nations Cup in Burkina Faso,Ivory Coast,Angola,1568,1532,5,2,39,-39,1607,1493,47,86,8,-10,55,76,50,0,36
+102,Feb 16 1998,African Nations Cup in Burkina Faso,South Africa,Namibia,1635,1369,4,1,16,-16,1651,1353,45,124,2,-5,47,119,50,0,266
+103,Feb 16 1998,African Nations Cup in Burkina Faso,Tunisia,Togo,1635,1378,3,1,14,-14,1649,1364,47,118,1,-3,48,115,50,0,257
+104,Feb 17 1998,African Nations Cup in Burkina Faso,Morocco,Egypt,1751,1666,1,0,19,-19,1770,1647,21,52,5,-4,26,48,50,0,85
+105,Feb 17 1998,African Nations Cup in Burkina Faso,Zambia,Mozambique,1605,1372,3,1,16,-16,1621,1356,48,122,4,-5,52,117,50,0,233
+106,Feb 18 1998,Friendly in Greece,Greece,Russia,1731,1872,1,1,1,-1,1732,1871,32,12,1,0,33,12,20,100,-41
+107,Feb 18 1998,Friendly in Israel,Israel,Turkey,1613,1681,4,0,17,-17,1630,1664,47,49,4,-5,51,44,20,100,32
+108,Feb 18 1998,Friendly in Oman,Oman,Germany,1289,2070,0,2,-1,1,1288,2071,135,2,0,0,135,2,20,100,-681
+109,Feb 20 1998,African Nations Cup in Burkina Faso,DR Congo,Cameroon,1484,1593,1,0,33,-33,1517,1560,58,70,11,-6,69,64,50,0,-109
+110,Feb 21 1998,African Nations Cup in Burkina Faso,Burkina Faso,Tunisia,1412,1649,1,1,9,-9,1421,1640,99,53,2,-3,101,50,30,0,-237
+111,Feb 21 1998,African Nations Cup in Burkina Faso,Egypt,Ivory Coast,1647,1607,0,0,-3,3,1644,1610,46,56,1,0,47,56,50,0,40
+112,Feb 21 1998,Friendly in the United States,United States,Netherlands,1764,1939,0,2,-12,12,1752,1951,34,8,-3,0,31,8,20,100,-75
+113,Feb 22 1998,Friendly in Antigua and Barbuda,Antigua and Barbuda,Dominica,1119,1177,1,1,-1,1,1118,1178,167,160,0,0,167,160,20,100,42
+114,Feb 22 1998,Friendly in Jamaica,Jamaica,Nigeria,1681,1714,2,2,-2,2,1679,1716,41,36,-1,0,40,36,20,100,67
+115,Feb 22 1998,Friendly in Saudi Arabia,Saudi Arabia,Germany,1641,2071,0,3,-5,5,1636,2076,51,2,-1,0,50,2,20,100,-330
+116,Feb 22 1998,African Nations Cup in Burkina Faso,South Africa,Morocco,1651,1770,2,1,33,-33,1684,1737,32,38,7,-6,39,32,50,0,-119
+117,Feb 24 1998,Friendly in Argentina,Argentina,Yugoslavia,1829,1981,3,1,17,-17,1846,1964,17,9,0,-2,17,7,20,100,-52
+118,Feb 24 1998,Friendly in the United States,Netherlands,Mexico,1951,1860,3,2,7,-7,1958,1853,8,17,0,-1,8,16,20,0,91
+119,Feb 25 1998,Friendly in Belgium,Belgium,United States,1798,1752,2,0,9,-9,1807,1743,21,32,0,-1,21,31,20,100,146
+120,Feb 25 1998,African Nations Cup in Burkina Faso,Burkina Faso,Egypt,1421,1644,0,2,-25,25,1396,1669,109,41,-4,3,105,44,50,100,-123
+121,Feb 25 1998,Friendly in France,France,Norway,2020,1857,3,3,-6,6,2014,1863,4,15,0,0,4,15,20,100,263
+122,Feb 25 1998,Friendly in Israel,Israel,Poland,1630,1661,2,0,12,-12,1642,1649,47,48,2,-1,49,47,20,100,69
+123,Feb 25 1998,African Nations Cup in Burkina Faso,South Africa,DR Congo,1684,1517,2,1,14,-14,1698,1503,37,77,1,-4,38,73,50,0,167
+124,Feb 27 1998,African Nations Cup in Burkina Faso,Burkina Faso,DR Congo,1396,1503,4,4,1,-1,1397,1502,105,73,0,0,105,73,50,100,-7
+125,Feb 28 1998,African Nations Cup in Burkina Faso,Egypt,South Africa,1669,1698,2,0,41,-41,1710,1657,32,54,6,-8,38,46,50,0,-29
+126,Mar 1 1998,Friendly in Barbados,Barbados,Saint Kitts and Nevis,1311,1239,6,2,10,-10,1321,1229,128,148,1,-4,129,144,20,100,172
+127,Mar 1 1998,Dynasty Cup in Japan,Japan,South Korea,1784,1773,2,1,10,-10,1794,1763,21,27,1,-1,22,26,20,0,11
+128,Mar 3 1998,CONCACAF Ch & Car Cup q in Aruba,Aruba,French Guiana,987,1163,1,0,24,-24,1011,1139,183,166,4,-1,187,165,40,100,-76
+129,Mar 3 1998,CONCACAF Ch & Car Cup q in Aruba,Netherlands Antilles,Suriname,1216,1300,3,3,5,-5,1221,1295,143,133,2,0,145,133,40,0,-84
+130,Mar 3 1998,Friendly in Saint Lucia,Saint Lucia,Saint Kitts and Nevis,1196,1229,2,0,12,-12,1208,1217,145,150,5,-3,150,147,20,100,67
+131,Mar 4 1998,Dynasty Cup in Japan,South Korea,China,1763,1644,2,1,10,-10,1773,1634,24,54,1,-3,25,51,30,0,119
+132,Mar 5 1998,CONCACAF Ch & Car Cup q in Aruba,Aruba,Netherlands Antilles,1011,1221,0,1,-14,14,997,1235,193,139,-3,3,190,142,40,100,-110
+133,Mar 5 1998,CONCACAF Ch & Car Cup q in Aruba,French Guiana,Suriname,1139,1295,2,2,8,-8,1147,1287,165,137,0,-2,165,135,40,0,-156
+134,Mar 5 1998,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Saint Kitts and Nevis,1199,1217,4,2,12,-12,1211,1205,142,159,6,-6,148,153,20,100,82
+135,Mar 7 1998,CONCACAF Ch & Car Cup q in Aruba,Aruba,Suriname,997,1287,3,3,10,-10,1007,1277,186,135,2,0,188,135,30,0,-290
+136,Mar 7 1998,Dynasty Cup in Japan,Japan,China,1794,1634,0,2,-37,37,1757,1671,30,37,-4,7,26,44,30,100,260
+137,Mar 7 1998,CONCACAF Ch & Car Cup q in Aruba,Netherlands Antilles,French Guiana,1235,1147,2,1,15,-15,1250,1132,132,167,5,-1,137,166,40,0,88
+138,Mar 8 1998,COSAFA Cup in Swaziland,Swaziland,Angola,1170,1493,0,1,-9,9,1161,1502,164,69,-1,4,163,73,40,100,-223
+139,Mar 10 1998,Friendly in Argentina,Argentina,Bulgaria,1846,1821,2,0,10,-10,1856,1811,15,22,1,-2,16,20,20,100,125
+140,Mar 11 1998,CONCACAF Ch & Car Cup q in Haiti,Haiti,Puerto Rico,1367,1041,4,0,6,-6,1373,1035,112,185,0,-1,112,184,40,100,426
+141,Mar 13 1998,CONCACAF Ch & Car Cup q in Haiti,Dominican Republic,Puerto Rico,1102,1035,3,1,24,-24,1126,1011,164,188,3,-2,167,186,40,0,67
+142,Mar 14 1998,Southeast Asian Champ qual in Myanmar,Myanmar,Brunei,1102,787,4,1,6,-6,1108,781,167,205,2,0,169,205,40,100,415
+143,Mar 14 1998,Friendly in the United States,United States,Paraguay,1743,1756,2,2,-2,2,1741,1758,31,25,0,1,31,26,20,100,87
+144,Mar 15 1998,CONCACAF Ch & Car Cup q in Haiti,Haiti,Dominican Republic,1373,1126,5,0,10,-10,1383,1116,108,169,2,-1,110,168,40,100,347
+145,Mar 16 1998,Southeast Asian Champ qual in Myanmar,Laos,Brunei,1005,781,2,1,9,-9,1014,772,183,207,3,-1,186,206,40,0,224
+146,Mar 18 1998,Friendly in Mexico,Mexico,Paraguay,1853,1758,1,1,-5,5,1848,1763,17,26,0,0,17,26,20,100,195
+147,Mar 18 1998,Southeast Asian Champ qual in Myanmar,Myanmar,Laos,1108,1014,3,0,17,-17,1125,997,165,194,2,-4,167,190,40,100,194
+148,Mar 18 1998,Friendly in Romania,Romania,Israel,1885,1642,0,1,-18,18,1867,1660,16,45,-3,2,13,47,20,100,343
+149,Mar 18 1998,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Barbados,1208,1321,2,1,21,-21,1229,1300,142,135,4,-3,146,132,40,100,-13
+150,Mar 18 1998,CONCACAF Ch & Car Cup q in Saint Lucia,St Vincent & Grenadines,Martinique,1211,1491,4,1,58,-58,1269,1433,124,116,12,-19,136,97,40,0,-280
+151,Mar 20 1998,CONCACAF Ch & Car Cup q in Saint Lucia,Martinique,Barbados,1433,1300,4,1,22,-22,1455,1278,81,136,8,-2,89,134,40,0,133
+152,Mar 20 1998,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,St Vincent & Grenadines,1229,1269,3,2,17,-17,1246,1252,134,138,6,-1,140,137,30,0,-40
+153,Mar 22 1998,Friendly in Azerbaijan,Azerbaijan,Moldova,1341,1394,1,0,9,-9,1350,1385,120,112,1,-3,121,109,20,100,47
+154,Mar 22 1998,CONCACAF Ch & Car Cup q in Saint Lucia,Barbados,St Vincent & Grenadines,1278,1252,4,3,19,-19,1297,1233,130,151,2,-7,132,144,40,0,26
+155,Mar 22 1998,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Martinique,1246,1455,1,2,-14,14,1232,1469,150,85,-5,2,145,87,40,100,-109
+156,Mar 22 1998,Friendly in the US Virgin Islands,US Virgin Islands,British Virgin Islands,700,799,1,0,10,-10,710,789,209,204,0,0,209,204,20,100,1
+157,Mar 24 1998,Southeast Asian Champ qual in Singapore,Singapore,Philippines,1232,710,1,0,1,-1,1233,709,143,211,1,-1,144,210,20,0,522
+158,Mar 25 1998,Friendly in Austria,Austria,Hungary,1749,1594,2,3,-16,16,1733,1610,34,55,-2,1,32,56,20,100,255
+159,Mar 25 1998,Friendly in Belgium,Belgium,Norway,1807,1863,2,2,-1,1,1806,1864,19,15,1,0,20,15,20,100,44
+160,Mar 25 1998,Friendly in Colombia,Colombia,Yugoslavia,1767,1964,0,0,3,-3,1770,1961,25,7,0,0,25,7,20,100,-97
+161,Mar 25 1998,Friendly in Czechia,Czechia,Ireland,1871,1712,2,1,4,-4,1875,1708,13,39,-1,-1,12,38,20,100,259
+162,Mar 25 1998,Friendly in Germany,Germany,Brazil,2076,2096,1,2,-12,12,2064,2108,2,1,0,0,2,1,20,100,80
+163,Mar 25 1998,Friendly in Macedonia,Macedonia,Bulgaria,1511,1811,1,0,15,-15,1526,1796,60,22,6,-1,66,21,20,100,-200
+164,Mar 25 1998,Friendly in Malta,Malta,Finland,1243,1515,0,2,-8,8,1235,1523,144,68,-2,1,142,69,20,100,-172
+165,Mar 25 1998,Friendly in Northern Ireland,Northern Ireland,Slovakia,1577,1732,1,0,12,-12,1589,1720,58,37,1,-2,59,35,20,100,-55
+166,Mar 25 1998,Friendly in Poland,Poland,Slovenia,1649,1532,2,0,7,-7,1656,1525,49,68,0,-1,49,67,20,100,217
+167,Mar 25 1998,Friendly in Russia,Russia,France,1871,2014,1,0,11,-11,1882,2003,11,4,0,0,11,4,20,100,-43
+168,Mar 25 1998,Friendly in Scotland,Scotland,Denmark,1792,1930,0,1,-9,9,1783,1939,22,9,0,0,22,9,20,100,-38
+169,Mar 25 1998,Friendly in Spain,Spain,Sweden,2032,1813,4,0,5,-5,2037,1808,3,20,0,-1,3,19,20,100,319
+170,Mar 25 1998,Friendly in Switzerland,Switzerland,England,1675,1975,1,1,5,-5,1680,1970,37,6,3,0,40,6,20,100,-200
+171,Mar 25 1998,Friendly in Wales,Wales,Jamaica,1575,1679,0,0,0,0,1575,1679,61,42,0,-1,61,41,20,100,-4
+172,Mar 26 1998,Southeast Asian Champ qual in Singapore,Cambodia,Philippines,1036,709,1,1,-15,15,1021,724,187,208,-2,1,185,209,40,0,327
+173,Mar 28 1998,Southeast Asian Champ qual in Singapore,Singapore,Cambodia,1233,1021,3,0,10,-10,1243,1011,136,185,4,0,140,185,40,100,312
+174,Mar 29 1998,Friendly in the United States,Colombia,Paraguay,1770,1763,1,1,0,0,1770,1763,25,26,0,0,25,26,20,0,7
+175,Mar 31 1998,Friendly in Cyprus,Cyprus,Estonia,1473,1187,4,0,4,-4,1477,1183,81,159,1,0,82,159,20,100,386
+176,Apr 1 1998,Friendly in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1118,1232,1,1,0,0,1118,1232,168,146,0,0,168,146,20,100,-14
+177,Apr 1 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Dominica,Guadeloupe,1178,1391,1,1,11,-11,1189,1380,154,116,3,-5,157,111,40,0,-213
+178,Apr 1 1998,Friendly in South Korea,South Korea,Japan,1773,1757,2,1,7,-7,1780,1750,24,31,0,-2,24,29,20,100,116
+179,Apr 1 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,British Virgin Islands,1205,789,4,0,4,-4,1209,785,147,204,3,0,150,204,40,100,516
+180,Apr 3 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Guadeloupe,British Virgin Islands,1380,785,3,0,2,-2,1382,783,109,204,1,0,110,204,30,0,595
+181,Apr 3 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Dominica,1209,1189,1,2,-27,27,1182,1216,170,141,-10,8,160,149,40,100,120
+182,Apr 5 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Dominica,British Virgin Islands,1216,783,4,1,5,-5,1221,778,147,206,1,-1,148,205,40,0,433
+183,Apr 5 1998,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Guadeloupe,1182,1382,2,1,26,-26,1208,1356,144,122,8,-6,152,116,40,100,-100
+184,Apr 8 1998,Friendly in Romania,Romania,Greece,1867,1732,2,1,4,-4,1871,1728,13,33,0,0,13,33,20,100,235
+185,Apr 14 1998,Friendly in Iran,Iran,Kuwait,1676,1616,1,1,-4,4,1672,1620,44,53,-1,1,43,54,20,100,160
+186,Apr 15 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Guyana,1118,1066,2,2,-8,8,1110,1074,170,176,-1,1,169,177,40,100,152
+187,Apr 15 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Grenada,Anguilla,1302,503,14,1,1,-1,1303,502,129,221,1,0,130,221,20,0,799
+188,Apr 15 1998,Friendly in Israel,Israel,Argentina,1660,1856,2,1,13,-13,1673,1843,39,18,4,-1,43,17,20,100,-96
+189,Apr 15 1998,Friendly in the United States,Mexico,Peru,1848,1724,1,0,7,-7,1855,1717,15,36,1,-1,16,35,20,0,124
+190,Apr 15 1998,Friendly in Slovakia,Slovakia,South Korea,1720,1780,0,0,-1,1,1719,1781,33,24,1,0,34,24,20,100,40
+191,Apr 17 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Anguilla,1110,502,7,0,2,-2,1112,500,169,221,0,0,169,221,30,0,608
+192,Apr 17 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Grenada,Guyana,1303,1074,2,1,8,-8,1311,1066,130,179,0,-1,130,178,40,0,229
+193,Apr 18 1998,Friendly in Macedonia,Macedonia,South Korea,1526,1781,2,2,4,-4,1530,1777,66,24,0,0,66,24,20,100,-155
+194,Apr 19 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Grenada,1112,1311,2,1,26,-26,1138,1285,161,138,4,-4,165,134,40,100,-99
+195,Apr 19 1998,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Guyana,Anguilla,1066,500,14,0,5,-5,1071,495,176,223,1,-1,177,222,40,0,566
+196,Apr 19 1998,COSAFA Cup in Zimbabwe,Zimbabwe,Namibia,1458,1353,5,2,16,-16,1474,1337,78,127,5,-4,83,123,40,100,205
+197,Apr 20 1998,Friendly tournament in Iran,Iran,Hungary,1672,1610,0,2,-32,32,1640,1642,56,42,-6,7,50,49,30,100,162
+198,Apr 20 1998,Friendly tournament in Iran,Macedonia,Jamaica,1530,1679,2,1,21,-21,1551,1658,64,51,1,-5,65,46,30,0,-149
+199,Apr 21 1998,Baltic Cup in Latvia,Latvia,Lithuania,1390,1521,1,2,-14,14,1376,1535,116,64,-5,3,111,67,30,100,-31
+200,Apr 22 1998,Friendly in Austria,Austria,United States,1733,1741,0,3,-22,22,1711,1763,40,22,-4,4,36,26,20,100,92
+201,Apr 22 1998,Friendly in Belgium,Belgium,Romania,1806,1871,1,1,-1,1,1805,1872,20,15,0,-1,20,14,20,100,35
+202,Apr 22 1998,Friendly in Bulgaria,Bulgaria,Morocco,1796,1737,2,1,6,-6,1802,1731,21,31,0,0,21,31,20,100,159
+203,Apr 22 1998,Friendly in Chile,Chile,Colombia,1782,1770,2,2,-3,3,1779,1773,21,23,1,1,22,24,20,100,112
+204,Apr 22 1998,Friendly in Croatia,Croatia,Poland,1867,1656,4,1,5,-5,1872,1651,14,48,0,0,14,48,20,100,311
+205,Apr 22 1998,Friendly in Denmark,Denmark,Norway,1939,1864,0,2,-22,22,1917,1886,9,5,0,5,9,10,20,100,175
+206,Apr 22 1998,Friendly in England,England,Portugal,1970,1883,3,0,9,-9,1979,1874,6,16,0,-3,6,13,20,100,187
+207,Apr 22 1998,Friendly in Germany,Germany,Nigeria,2064,1716,1,0,1,-1,2065,1715,2,34,0,1,2,35,20,100,448
+208,Apr 22 1998,Friendly tournament in Iran,Hungary,Macedonia,1642,1551,0,0,-4,4,1638,1555,53,65,-2,0,51,65,30,0,91
+209,Apr 22 1998,Friendly tournament in Iran,Iran,Jamaica,1640,1658,1,0,12,-12,1652,1646,44,52,3,-3,47,49,30,100,82
+210,Apr 22 1998,Friendly in Ireland,Ireland,Argentina,1708,1843,0,2,-13,13,1695,1856,38,15,0,1,38,16,20,100,-35
+211,Apr 22 1998,Friendly in Italy,Italy,Paraguay,1978,1763,3,1,4,-4,1982,1759,5,28,0,-1,5,27,20,100,315
+212,Apr 22 1998,Friendly in Northern Ireland,Northern Ireland,Switzerland,1589,1680,1,0,10,-10,1599,1670,57,46,1,-3,58,43,20,100,9
+213,Apr 22 1998,Friendly in Russia,Russia,Turkey,1882,1664,1,0,3,-3,1885,1661,11,45,0,0,11,45,20,100,318
+214,Apr 22 1998,Friendly in Scotland,Scotland,Finland,1783,1523,1,1,-8,8,1775,1531,24,66,-1,2,23,68,20,100,360
+215,Apr 22 1998,Friendly in Slovenia,Slovenia,Czechia,1525,1875,1,3,-6,6,1519,1881,72,12,-2,0,70,12,20,100,-250
+216,Apr 22 1998,Friendly in Sweden,Sweden,France,1808,2003,0,0,3,-3,1811,2000,19,4,0,0,19,4,20,100,-95
+217,Apr 22 1998,Friendly in Yugoslavia,Yugoslavia,South Korea,1961,1777,3,1,5,-5,1966,1772,7,26,0,-1,7,25,20,100,284
+218,Apr 24 1998,Friendly in Azerbaijan,Azerbaijan,Uzbekistan,1350,1572,2,1,13,-13,1363,1559,110,66,5,-2,115,64,20,100,-122
+219,Apr 29 1998,Friendly in Brazil,Brazil,Argentina,2108,1856,0,1,-18,18,2090,1874,1,10,0,3,1,13,20,100,352
+220,Apr 29 1998,Friendly in Chile,Chile,Lithuania,1779,1535,1,0,2,-2,1781,1533,22,67,0,0,22,67,20,100,344
+221,May 2 1998,Friendly in Tunisia,Tunisia,Georgia,1640,1666,1,1,-2,2,1638,1668,50,44,0,0,50,44,20,100,74
+222,May 3 1998,COSAFA Cup in Angola,Angola,Zambia,1502,1621,1,1,1,-1,1503,1620,73,54,0,0,73,54,20,100,-19
+223,May 4 1998,Friendly in France,Jamaica,Saudi Arabia,1646,1636,0,0,0,0,1646,1636,49,52,0,0,49,52,20,0,10
+224,May 6 1998,CONCACAF Ch & Car Cup q in the Cayman Islands,Cayman Islands,Cuba,1046,1428,2,2,13,-13,1059,1415,176,105,3,-3,179,102,40,100,-282
+225,May 8 1998,CONCACAF Ch & Car Cup q in the Cayman Islands,Cuba,Bermuda,1415,1366,2,1,17,-17,1432,1349,96,128,3,-8,99,120,40,0,49
+226,May 9 1998,Friendly in Italy,Mexico,Estonia,1855,1183,6,0,1,-1,1856,1182,17,160,0,0,17,160,20,0,672
+227,May 9 1998,Friendly in France,Saudi Arabia,Trinidad and Tobago,1636,1485,2,1,6,-6,1642,1479,48,83,2,-2,50,81,20,0,151
+228,May 10 1998,CONCACAF Ch & Car Cup q in the Cayman Islands,Cayman Islands,Bermuda,1059,1349,2,0,45,-45,1104,1304,163,138,8,-9,171,129,40,100,-190
+229,May 13 1998,Friendly in France,Iceland,Saudi Arabia,1470,1642,1,1,5,-5,1475,1637,79,54,4,-2,83,52,20,0,-172
+230,May 14 1998,Friendly in Argentina,Argentina,Bosnia and Herzegovina,1874,1630,5,0,5,-5,1879,1625,13,53,0,0,13,53,20,100,344
+231,May 16 1998,Friendly in Estonia,Estonia,Azerbaijan,1182,1363,0,0,2,-2,1184,1361,160,114,0,0,160,114,20,100,-81
+232,May 16 1998,Friendly in South Korea,South Korea,Jamaica,1772,1646,2,1,4,-4,1776,1642,21,49,2,0,23,49,20,100,226
+233,May 16 1998,Friendly in the United States,United States,Macedonia,1763,1555,0,0,-7,7,1756,1562,28,59,-1,3,27,62,20,100,308
+234,May 16 1998,COSAFA Cup in Zambia,Zambia,Mozambique,1620,1356,1,0,4,-4,1624,1352,54,120,0,-2,54,118,20,0,264
+235,May 17 1998,Friendly tournament in Japan,Japan,Paraguay,1750,1759,1,1,-4,4,1746,1763,30,26,0,0,30,26,30,100,91
+236,May 17 1998,Friendly in Latvia,Latvia,Israel,1376,1673,1,5,-9,9,1367,1682,111,39,0,1,111,40,20,100,-197
+237,May 17 1998,Friendly in France,Saudi Arabia,Namibia,1637,1337,2,1,3,-3,1640,1334,48,124,2,-1,50,123,20,0,300
+238,May 18 1998,Friendly in Canada,Canada,Macedonia,1525,1562,1,0,8,-8,1533,1554,65,68,2,-3,67,65,20,100,63
+239,May 19 1998,Friendly in Argentina,Argentina,Chile,1879,1781,1,0,5,-5,1884,1776,11,22,1,0,12,22,20,100,198
+240,May 19 1998,Friendly in Cameroon,Cameroon,Burkina Faso,1560,1397,2,0,5,-5,1565,1392,61,105,1,0,62,105,20,100,263
+241,May 19 1998,Friendly in South Korea,South Korea,Jamaica,1776,1642,0,0,-6,6,1770,1648,27,49,-2,0,25,49,20,100,234
+242,May 20 1998,Friendly in Norway,Norway,Mexico,1886,1856,5,2,11,-11,1897,1845,10,17,0,0,10,17,20,100,130
+243,May 20 1998,Friendly in South Africa,South Africa,Zambia,1657,1624,1,1,-4,4,1653,1628,46,52,0,1,46,53,20,100,133
+244,May 21 1998,Friendly tournament in Japan,Czechia,Paraguay,1881,1763,1,0,10,-10,1891,1753,9,32,2,-3,11,29,30,0,118
+245,May 23 1998,Friendly in the United States,Colombia,Scotland,1773,1775,2,2,0,0,1773,1775,24,23,0,0,24,23,20,0,-2
+246,May 23 1998,Friendly in England,England,Saudi Arabia,1979,1640,0,0,-9,9,1970,1649,6,48,0,1,6,49,20,100,439
+247,May 23 1998,Friendly in Ireland,Ireland,Mexico,1695,1845,0,0,1,-1,1696,1844,38,17,0,0,38,17,20,100,-50
+248,May 24 1998,Friendly in Chile,Chile,Uruguay,1776,1755,2,2,-3,3,1773,1758,24,26,-1,1,23,27,20,100,121
+249,May 24 1998,Friendly tournament in Japan,Japan,Czechia,1746,1891,0,0,2,-2,1748,1889,30,11,0,0,30,11,30,100,-45
+250,May 24 1998,COSAFA Cup in Mozambique,Mozambique,Zimbabwe,1352,1474,0,2,-28,28,1324,1502,134,64,-8,10,126,74,40,100,-22
+251,May 24 1998,Friendly in the United States,United States,Kuwait,1756,1620,2,0,6,-6,1762,1614,26,57,0,-1,26,56,20,100,236
+252,May 25 1998,Friendly in Argentina,Argentina,South Africa,1884,1653,2,0,4,-4,1888,1649,11,50,1,-2,12,48,20,100,331
+253,May 27 1998,Friendly in Austria,Austria,Tunisia,1711,1638,2,1,5,-5,1716,1633,34,53,1,-1,35,52,20,100,173
+254,May 27 1998,Friendly in Finland,Finland,Germany,1531,2065,0,0,8,-8,1539,2057,65,2,2,0,67,2,20,100,-434
+255,May 27 1998,Friendly tournament in Morocco,France,Belgium,2000,1805,1,0,7,-7,2007,1798,4,22,0,-1,4,21,30,0,195
+256,May 27 1998,Friendly in Hungary,Hungary,Lithuania,1638,1533,1,0,5,-5,1643,1528,51,71,0,-2,51,69,20,100,205
+257,May 27 1998,Friendly tournament in Morocco,Morocco,England,1731,1970,0,1,-9,9,1722,1979,33,6,-1,0,32,6,30,100,-139
+258,May 27 1998,Friendly in the Netherlands,Netherlands,Cameroon,1958,1565,0,0,-9,9,1949,1574,8,62,0,0,8,62,20,100,493
+259,May 27 1998,Friendly in Norway,Norway,Saudi Arabia,1897,1649,6,0,5,-5,1902,1644,10,52,0,-2,10,50,20,100,348
+260,May 27 1998,Friendly in Poland,Poland,Russia,1651,1885,3,1,21,-21,1672,1864,37,19,5,-3,42,16,20,100,-134
+261,May 27 1998,Friendly in South Korea,South Korea,Czechia,1770,1889,2,2,1,-1,1771,1888,25,11,0,0,25,11,20,100,-19
+262,May 28 1998,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Trinidad and Tobago,1208,1479,4,1,38,-38,1246,1441,126,102,13,-10,139,92,30,100,-171
+263,May 28 1998,Friendly in Sweden,Sweden,Denmark,1811,1917,3,0,18,-18,1829,1899,17,11,1,-1,18,10,20,100,-6
+264,May 29 1998,Friendly tournament in Morocco,Belgium,England,1798,1979,0,0,7,-7,1805,1972,19,6,1,0,20,6,30,0,-181
+265,May 29 1998,Friendly in Croatia,Croatia,Slovakia,1872,1719,1,2,-16,16,1856,1735,18,29,-2,2,16,31,20,100,253
+266,May 29 1998,Friendly tournament in Morocco,Morocco,France,1722,2007,2,2,7,-7,1729,2000,32,4,0,0,32,4,20,0,-285
+267,May 29 1998,Friendly in Yugoslavia,Yugoslavia,Nigeria,1966,1715,3,0,4,-4,1970,1711,7,36,0,0,7,36,20,100,351
+268,May 30 1998,Friendly in Georgia,Georgia,Russia,1668,1864,1,1,3,-3,1671,1861,41,15,2,0,43,15,20,100,-96
+269,May 30 1998,Friendly in Germany,Germany,Colombia,2057,1773,3,1,3,-3,2060,1770,2,27,0,-2,2,25,20,100,384
+270,May 30 1998,COSAFA Cup in Namibia,Namibia,Angola,1334,1503,1,1,4,-4,1338,1499,120,79,1,-3,121,76,40,100,-69
+271,May 30 1998,Friendly in the United States,United States,Scotland,1762,1775,0,0,-2,2,1760,1777,26,22,0,0,26,22,20,100,87
+272,May 31 1998,Friendly in France,Chile,Tunisia,1773,1633,3,2,6,-6,1779,1627,21,54,1,-1,22,53,20,0,140
+273,May 31 1998,Friendly in Luxembourg,Luxembourg,Cameroon,1207,1574,0,2,-5,5,1202,1579,157,60,-2,1,155,61,20,100,-267
+274,May 31 1998,Friendly in Switzerland,Mexico,Japan,1844,1748,2,1,7,-7,1851,1741,17,30,0,0,17,30,20,0,96
+275,Jun 1 1998,Friendly in the Netherlands,Netherlands,Paraguay,1949,1753,5,1,6,-6,1955,1747,8,29,0,0,8,29,20,100,296
+276,Jun 2 1998,Friendly in Austria,Austria,Liechtenstein,1716,1051,6,0,1,-1,1717,1050,33,181,1,0,34,181,20,0,665
+277,Jun 2 1998,Friendly in Sweden,Sweden,Italy,1829,1982,1,0,12,-12,1841,1970,18,7,0,-1,18,6,20,100,-53
+278,Jun 3 1998,Friendly in Belgium,Belgium,Colombia,1805,1770,2,0,9,-9,1814,1761,18,25,1,0,19,25,20,100,135
+279,Jun 3 1998,Friendly in France,Brazil,Andorra,2090,1068,3,0,0,0,2090,1068,1,179,0,0,1,179,20,0,1022
+280,Jun 3 1998,Friendly in Croatia,Croatia,Iran,1856,1652,2,0,4,-4,1860,1648,16,51,0,-2,16,49,20,100,304
+281,Jun 3 1998,Friendly in Macedonia,Macedonia,Bosnia and Herzegovina,1554,1625,1,1,-1,1,1553,1626,65,54,0,0,65,54,20,100,29
+282,Jun 3 1998,Friendly in Malta,Malta,Wales,1235,1575,0,3,-7,7,1228,1582,152,60,-4,1,148,61,20,100,-240
+283,Jun 3 1998,Friendly in France,Mexico,Saudi Arabia,1851,1644,0,0,-5,5,1846,1649,17,44,0,3,17,47,20,0,207
+284,Jun 3 1998,Friendly in Romania,Romania,Paraguay,1872,1747,3,2,4,-4,1876,1743,12,29,1,0,13,29,20,100,225
+285,Jun 3 1998,Friendly in Spain,Spain,Northern Ireland,2037,1599,4,1,2,-2,2039,1597,3,58,0,0,3,58,20,100,538
+286,Jun 3 1998,Friendly in Switzerland,Yugoslavia,Japan,1970,1741,1,0,4,-4,1974,1737,4,30,1,0,5,30,20,0,229
+287,Jun 4 1998,Friendly in France,Chile,Morocco,1779,1729,1,1,-1,1,1778,1730,22,32,0,0,22,32,20,0,50
+288,Jun 4 1998,European Championship qual in Estonia,Estonia,Faroe Islands,1184,1235,5,0,34,-34,1218,1201,138,168,11,-12,149,156,30,0,-51
+289,Jun 4 1998,Friendly in South Korea,South Korea,China,1771,1671,1,1,-5,5,1766,1676,24,39,0,2,24,41,20,100,200
+290,Jun 5 1998,Friendly in Bulgaria,Bulgaria,Algeria,1802,1482,2,0,2,-2,1804,1480,21,82,0,-1,21,81,20,100,420
+291,Jun 5 1998,Friendly in Denmark,Denmark,Cameroon,1899,1579,1,2,-18,18,1881,1597,14,54,-2,4,12,58,20,100,420
+292,Jun 5 1998,Friendly in Finland,Finland,France,1539,2000,0,1,-2,2,1537,2002,67,4,0,0,67,4,20,100,-361
+293,Jun 5 1998,Friendly in Germany,Germany,Luxembourg,2060,1202,7,0,0,0,2060,1202,2,155,0,0,2,155,20,0,858
+294,Jun 5 1998,Friendly in the Netherlands,Netherlands,Nigeria,1955,1711,5,1,5,-5,1960,1706,8,38,0,-1,8,37,20,100,344
+295,Jun 6 1998,Friendly in Belgium,Belgium,Paraguay,1814,1743,1,0,5,-5,1819,1738,19,29,0,0,19,29,20,100,171
+296,Jun 6 1998,Friendly in Croatia,Croatia,Australia,1860,1813,7,0,14,-14,1874,1799,12,22,2,-1,14,21,20,100,147
+297,Jun 6 1998,Friendly in Germany,Iceland,South Africa,1475,1649,1,1,5,-5,1480,1644,77,53,3,-3,80,50,20,0,-174
+298,Jun 6 1998,Friendly in Kenya,Kenya,Seychelles,1482,930,1,1,-10,10,1472,940,92,195,-6,1,86,196,20,100,652
+299,Jun 6 1998,Friendly in Romania,Romania,Moldova,1876,1385,5,1,1,-1,1877,1384,13,107,0,0,13,107,20,100,591
+300,Jun 6 1998,Friendly in Switzerland,Switzerland,Yugoslavia,1670,1974,1,1,5,-5,1675,1969,41,9,2,-2,43,7,20,100,-204
+301,Jun 6 1998,Friendly in Tunisia,Tunisia,Wales,1627,1582,4,0,11,-11,1638,1571,51,62,1,0,52,62,20,100,145
+302,Jun 7 1998,Friendly in Belarus,Belarus,Lithuania,1352,1528,5,0,24,-24,1376,1504,104,75,7,-3,111,72,20,100,-76
+303,Jun 10 1998,World Cup in France,Brazil,Scotland,2090,1777,2,1,8,-8,2098,1769,1,23,0,0,1,23,60,0,313
+304,Jun 10 1998,World Cup in France,Morocco,Norway,1730,1902,2,2,14,-14,1744,1888,26,9,3,0,29,9,60,0,-172
+305,Jun 11 1998,World Cup in France,Austria,Cameroon,1717,1597,1,1,-10,10,1707,1607,38,58,-2,0,36,58,60,0,120
+306,Jun 11 1998,World Cup in France,Chile,Italy,1778,1970,2,2,15,-15,1793,1955,22,10,0,-2,22,8,60,0,-192
+307,Jun 12 1998,World Cup in France,Bulgaria,Paraguay,1804,1738,0,0,-6,6,1798,1744,22,28,-1,1,21,29,60,0,66
+308,Jun 12 1998,World Cup in France,Denmark,Saudi Arabia,1881,1649,1,0,12,-12,1893,1637,6,55,3,-4,9,51,60,0,232
+309,Jun 12 1998,World Cup in France,France,South Africa,2002,1644,3,0,7,-7,2009,1637,4,52,0,-1,4,51,60,100,458
+310,Jun 13 1998,World Cup in France,Belgium,Netherlands,1819,1960,0,0,12,-12,1831,1948,19,9,0,-1,19,8,60,0,-141
+311,Jun 13 1998,World Cup in France,Mexico,South Korea,1846,1766,3,1,35,-35,1881,1731,9,42,4,-9,13,33,60,0,80
+312,Jun 13 1998,World Cup in France,Nigeria,Spain,1706,2039,3,2,52,-52,1758,1987,15,5,11,-1,26,4,60,0,-333
+313,Jun 13 1998,Friendly in the Seychelles,Seychelles,Kenya,940,1472,0,1,-2,2,938,1474,196,80,0,3,196,83,20,100,-432
+314,Jun 14 1998,World Cup in France,Argentina,Japan,1888,1737,1,0,18,-18,1906,1719,8,37,1,-3,9,34,60,0,151
+315,Jun 14 1998,World Cup in France,Croatia,Jamaica,1874,1648,3,1,19,-19,1893,1629,5,57,5,-5,10,52,60,0,226
+316,Jun 14 1998,World Cup in France,Yugoslavia,Iran,1969,1648,1,0,8,-8,1977,1640,4,49,1,-1,5,48,60,0,321
+317,Jun 15 1998,World Cup in France,England,Tunisia,1972,1638,2,0,11,-11,1983,1627,4,57,1,-4,5,53,60,0,334
+318,Jun 15 1998,World Cup in France,Germany,United States,2060,1760,2,0,14,-14,2074,1746,2,29,0,-2,2,27,60,0,300
+319,Jun 15 1998,World Cup in France,Romania,Colombia,1877,1761,1,0,20,-20,1897,1741,5,36,5,-6,10,30,60,0,116
+320,Jun 16 1998,World Cup in France,Brazil,Morocco,2098,1744,3,0,12,-12,2110,1732,1,34,0,-3,1,31,60,0,354
+321,Jun 16 1998,World Cup in France,Norway,Scotland,1888,1769,1,1,-10,10,1878,1779,17,23,-2,0,15,23,60,0,119
+322,Jun 17 1998,World Cup in France,Austria,Chile,1707,1793,1,1,7,-7,1714,1786,35,22,1,0,36,22,60,0,-86
+323,Jun 17 1998,World Cup in France,Italy,Cameroon,1955,1607,3,0,12,-12,1967,1595,7,60,0,-1,7,59,60,0,348
+324,Jun 18 1998,World Cup in France,Denmark,South Africa,1893,1637,1,1,-19,19,1874,1656,19,45,-4,2,15,47,50,100,356
+325,Jun 18 1998,World Cup in France,France,Saudi Arabia,2009,1637,4,0,7,-7,2016,1630,3,51,0,-1,3,50,60,100,472
+326,Jun 19 1998,World Cup in France,Nigeria,Bulgaria,1758,1798,1,0,33,-33,1791,1765,18,27,3,-3,21,24,60,0,-40
+327,Jun 19 1998,World Cup in France,Paraguay,Spain,1744,1987,0,0,18,-18,1762,1969,22,8,3,-2,25,6,60,0,-243
+328,Jun 20 1998,World Cup in France,Belgium,Mexico,1831,1881,2,2,4,-4,1835,1877,19,15,0,-1,19,14,50,0,-50
+329,Jun 20 1998,World Cup in France,Croatia,Japan,1893,1719,1,0,16,-16,1909,1703,7,40,2,-3,9,37,60,0,174
+330,Jun 20 1998,World Cup in France,Netherlands,South Korea,1948,1731,5,0,27,-27,1975,1704,4,40,2,-4,6,36,60,0,217
+331,Jun 21 1998,World Cup in France,Argentina,Jamaica,1906,1629,5,0,20,-20,1926,1609,8,63,1,-6,9,57,60,0,277
+332,Jun 21 1998,World Cup in France,Germany,Yugoslavia,2074,1977,2,2,-8,8,2066,1985,2,3,0,1,2,4,30,100,197
+333,Jun 21 1998,World Cup in France,Iran,United States,1640,1746,2,1,39,-39,1679,1707,33,42,8,-7,41,35,60,0,-106
+334,Jun 22 1998,World Cup in France,Colombia,Tunisia,1741,1627,1,0,20,-20,1761,1607,24,62,2,-5,26,57,60,0,114
+335,Jun 22 1998,Friendly in Estonia,Estonia,Andorra,1218,1068,2,1,4,-4,1222,1064,147,179,1,0,148,179,20,100,250
+336,Jun 22 1998,World Cup in France,Romania,England,1897,1983,2,1,37,-37,1934,1946,7,11,2,-3,9,8,60,0,-86
+337,Jun 23 1998,World Cup in France,Cameroon,Chile,1595,1786,1,1,15,-15,1610,1771,51,24,4,-1,55,23,60,0,-191
+338,Jun 23 1998,World Cup in France,Italy,Austria,1967,1714,2,1,11,-11,1978,1703,3,39,2,-3,5,36,60,0,253
+339,Jun 23 1998,World Cup in France,Morocco,Scotland,1732,1779,3,0,60,-60,1792,1719,12,39,9,-8,21,31,60,0,-47
+340,Jun 23 1998,World Cup in France,Norway,Brazil,1878,2110,2,1,48,-48,1926,2062,7,3,3,-1,10,2,60,0,-232
+341,Jun 24 1998,Friendly in Estonia,Andorra,Azerbaijan,1064,1361,0,0,7,-7,1071,1354,177,121,1,-3,178,118,20,0,-297
+342,Jun 24 1998,World Cup in France,France,Denmark,2016,1874,2,1,12,-12,2028,1862,3,17,0,-1,3,16,40,0,142
+343,Jun 24 1998,World Cup in France,Paraguay,Nigeria,1762,1791,3,1,49,-49,1811,1742,15,32,5,-5,20,27,60,0,-29
+344,Jun 24 1998,World Cup in France,Saudi Arabia,South Africa,1630,1656,2,2,2,-2,1632,1654,50,48,0,0,50,48,50,0,-26
+345,Jun 24 1998,World Cup in France,Spain,Bulgaria,1969,1765,6,1,28,-28,1997,1737,1,32,3,-4,4,28,60,0,204
+346,Jun 25 1998,World Cup in France,Belgium,South Korea,1835,1704,1,1,-11,11,1824,1715,19,31,0,2,19,33,60,0,131
+347,Jun 25 1998,Baltic Cup in Estonia,Estonia,Latvia,1222,1367,0,2,-20,20,1202,1387,160,102,-6,5,154,107,30,100,-45
+348,Jun 25 1998,World Cup in France,Germany,Iran,2066,1679,2,0,9,-9,2075,1670,1,51,0,-5,1,46,60,0,387
+349,Jun 25 1998,World Cup in France,Mexico,Netherlands,1877,1975,2,2,8,-8,1885,1967,14,7,0,0,14,7,60,0,-98
+350,Jun 25 1998,World Cup in France,Yugoslavia,United States,1985,1707,1,0,10,-10,1995,1697,5,40,0,-3,5,37,60,0,278
+351,Jun 26 1998,World Cup in France,Argentina,Croatia,1926,1909,1,0,29,-29,1955,1880,8,16,1,-2,9,14,60,0,17
+352,Jun 26 1998,Friendly in Estonia,Azerbaijan,Lithuania,1354,1504,2,1,14,-14,1368,1490,108,84,5,-6,113,78,20,0,-150
+353,Jun 26 1998,World Cup in France,England,Colombia,1946,1761,2,0,23,-23,1969,1738,6,30,1,-3,7,27,60,0,185
+354,Jun 26 1998,World Cup in France,Jamaica,Japan,1609,1703,2,1,38,-38,1647,1665,41,57,8,-11,49,46,60,0,-94
+355,Jun 26 1998,Friendly in Estonia,Latvia,Andorra,1387,1071,2,0,4,-4,1391,1067,105,180,1,-1,106,179,20,0,316
+356,Jun 26 1998,World Cup in France,Romania,Tunisia,1934,1607,1,1,-22,22,1912,1629,13,46,-2,6,11,52,60,0,327
+357,Jun 27 1998,World Cup in France,Brazil,Chile,2062,1771,4,1,17,-17,2079,1754,0,27,1,-2,1,25,60,0,291
+358,Jun 27 1998,World Cup in France,Italy,Norway,1978,1926,1,0,26,-26,2004,1900,2,12,2,-1,4,11,60,0,52
+359,Jun 27 1998,Friendly in Thailand,Thailand,China,1439,1676,0,3,-11,11,1428,1687,104,38,-5,1,99,39,20,100,-137
+360,Jun 28 1998,World Cup in France,Denmark,Nigeria,1862,1742,4,1,35,-35,1897,1707,8,42,4,-8,12,34,60,0,120
+361,Jun 28 1998,Baltic Cup in Estonia,Estonia,Lithuania,1202,1490,0,0,7,-7,1209,1483,148,80,3,-1,151,79,20,0,-288
+362,Jun 28 1998,World Cup in France,France,Paraguay,2028,1811,1,0,8,-8,2036,1803,3,20,0,0,3,20,60,100,317
+363,Jun 29 1998,World Cup in France,Germany,Mexico,2075,1885,2,1,15,-15,2090,1870,0,18,1,-2,1,16,60,0,190
+364,Jun 29 1998,Friendly in Estonia,Lithuania,Andorra,1483,1067,4,0,3,-3,1486,1064,79,179,0,0,79,179,20,0,416
+365,Jun 29 1998,World Cup in France,Netherlands,Yugoslavia,1967,1995,2,1,32,-32,1999,1963,2,10,3,-2,5,8,60,0,-28
+366,Jun 30 1998,World Cup in France,Argentina,England,1955,1969,2,2,1,-1,1956,1968,9,7,0,0,9,7,30,0,-14
+367,Jun 30 1998,World Cup in France,Croatia,Romania,1880,1912,1,0,33,-33,1913,1879,6,18,4,-4,10,14,60,0,-32
+368,Jun 30 1998,Friendly in Malaysia,Malaysia,China,1256,1687,1,1,7,-7,1263,1680,136,41,0,-1,136,40,20,100,-331
+369,Jul 2 1998,Friendly in Oman,Oman,Syria,1288,1447,1,2,-8,8,1280,1455,135,87,-1,2,134,89,20,100,-59
+370,Jul 3 1998,World Cup in France,Brazil,Denmark,2079,1897,3,2,16,-16,2095,1881,0,14,1,-1,1,13,60,0,182
+371,Jul 3 1998,World Cup in France,France,Italy,2036,2004,0,0,-11,11,2025,2015,3,4,0,0,3,4,60,100,132
+372,Jul 4 1998,World Cup in France,Croatia,Germany,1913,2090,3,0,77,-77,1990,2013,4,8,3,-3,7,5,60,0,-177
+373,Jul 4 1998,World Cup in France,Netherlands,Argentina,1999,1956,2,1,26,-26,2025,1930,-1,11,3,-1,2,10,60,0,43
+374,Jul 6 1998,Friendly in Malawi,Malawi,Mozambique,1343,1324,2,1,7,-7,1350,1317,119,128,0,-1,119,127,20,100,119
+375,Jul 6 1998,Friendly in Rwanda,Rwanda,Tanzania,1092,1320,2,0,20,-20,1112,1300,165,132,5,-2,170,130,20,100,-128
+376,Jul 7 1998,World Cup in France,Brazil,Netherlands,2095,2025,1,1,-6,6,2089,2031,1,2,0,0,1,2,60,0,70
+377,Jul 7 1998,Friendly in Rwanda,Rwanda,Tanzania,1112,1300,2,2,2,-2,1114,1298,170,130,0,0,170,130,20,100,-88
+378,Jul 8 1998,Friendly in China,China,Uzbekistan,1680,1559,3,1,7,-7,1687,1552,38,66,1,-1,39,65,20,100,221
+379,Jul 8 1998,World Cup in France,France,Croatia,2025,1990,2,1,19,-19,2044,1971,1,7,1,0,2,7,60,100,135
+380,Jul 8 1998,Friendly in Malawi,Malawi,Mozambique,1350,1317,2,2,-4,4,1346,1321,119,127,0,0,119,127,20,100,133
+381,Jul 10 1998,Friendly in Uganda,Uganda,Tanzania,1409,1298,3,0,8,-8,1417,1290,103,134,0,-2,103,132,20,100,211
+382,Jul 11 1998,World Cup in France,Croatia,Netherlands,1971,2031,2,1,35,-35,2006,1996,3,11,2,-4,5,7,60,0,-60
+383,Jul 11 1998,Friendly in Malawi,Malawi,Mozambique,1346,1321,0,0,-3,3,1343,1324,119,125,0,1,119,126,20,100,125
+384,Jul 12 1998,World Cup in France,France,Brazil,2044,2089,3,0,44,-44,2088,2045,0,3,1,-1,1,2,60,100,55
+385,Jul 15 1998,Friendly in Ukraine,Ukraine,Poland,1676,1672,1,2,-13,13,1663,1685,51,37,-5,3,46,40,20,100,104
+386,Jul 18 1998,Friendly in Malawi,Malawi,Zimbabwe,1343,1502,1,0,12,-12,1355,1490,119,82,0,-5,119,77,20,100,-59
+387,Jul 18 1998,Friendly in Uganda,Uganda,Kenya,1417,1474,3,3,-1,1,1416,1475,103,83,0,0,103,83,20,100,43
+388,Jul 19 1998,COSAFA Cup in Mozambique,Mozambique,Angola,1324,1499,1,1,4,-4,1328,1495,124,78,1,-2,125,76,40,100,-75
+389,Jul 20 1998,Arab Nations Cup qualifier in Lebanon,Lebanon,Palestine,1361,1237,3,1,13,-13,1374,1224,110,152,3,-5,113,147,40,100,224
+390,Jul 20 1998,Friendly in Malawi,Malawi,Zimbabwe,1355,1490,0,0,1,-1,1356,1489,115,77,2,0,117,77,20,100,-35
+391,Jul 20 1998,Arab Nations Cup qualifier in Lebanon,Syria,Jordan,1455,1427,3,0,32,-32,1487,1395,69,108,10,-4,79,104,40,0,28
+392,Jul 22 1998,CONCACAF Ch q & Car Cup in Jamaica,Haiti,Netherlands Antilles,1383,1250,4,0,24,-24,1407,1226,97,155,6,-9,103,146,40,0,133
+393,Jul 22 1998,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Cayman Islands,1647,1104,4,0,2,-2,1649,1102,49,174,0,-1,49,173,20,0,543
+394,Jul 22 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Martinique,Dominica,1469,1221,5,1,15,-15,1484,1206,74,158,7,-5,81,153,40,0,248
+395,Jul 22 1998,Friendly in Senegal,Senegal,Cape Verde,1433,1246,1,0,3,-3,1436,1243,95,139,1,0,96,139,20,100,287
+396,Jul 22 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Antigua and Barbuda,1441,1138,3,2,4,-4,1445,1134,92,167,0,-1,92,166,30,0,303
+397,Jul 23 1998,Arab Nations Cup qualifier in Lebanon,Lebanon,Jordan,1374,1395,0,2,-37,37,1337,1432,129,91,-8,7,121,98,40,100,79
+398,Jul 23 1998,Arab Nations Cup qualifier in Lebanon,Syria,Palestine,1487,1224,2,1,7,-7,1494,1217,75,149,2,-1,77,148,40,0,263
+399,Jul 24 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Antigua and Barbuda,Dominica,1134,1206,2,1,24,-24,1158,1182,162,167,2,-7,164,160,40,0,-72
+400,Jul 24 1998,Friendly in Burkina Faso,Burkina Faso,Niger,1392,1332,1,0,6,-6,1398,1326,106,128,0,-2,106,126,20,100,160
+401,Jul 24 1998,CONCACAF Ch q & Car Cup in Jamaica,Haiti,Cayman Islands,1407,1102,1,0,6,-6,1413,1096,104,177,0,-2,104,175,40,0,305
+402,Jul 24 1998,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Netherlands Antilles,1649,1226,3,2,2,-2,1651,1224,49,146,0,0,49,146,20,0,423
+403,Jul 24 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Martinique,1445,1484,2,1,17,-17,1462,1467,86,95,3,-7,89,88,30,0,-39
+404,Jul 25 1998,Friendly in Burkina Faso,Ghana,Benin,1473,1207,1,0,4,-4,1477,1203,80,152,3,0,83,152,20,0,266
+405,Jul 26 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Antigua and Barbuda,Martinique,1158,1467,5,1,64,-64,1222,1403,130,120,17,-16,147,104,40,0,-309
+406,Jul 26 1998,CONCACAF Ch q & Car Cup in Jamaica,Cayman Islands,Netherlands Antilles,1096,1224,2,0,41,-41,1137,1183,157,174,9,-14,166,160,40,0,-128
+407,Jul 26 1998,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Haiti,1651,1413,2,1,5,-5,1656,1408,47,102,1,1,48,103,40,100,338
+408,Jul 26 1998,Arab Nations Cup qualifier in Lebanon,Jordan,Palestine,1432,1217,1,1,-11,11,1421,1228,100,142,-1,3,99,145,30,100,315
+409,Jul 26 1998,Arab Nations Cup qualifier in Lebanon,Lebanon,Syria,1337,1494,0,1,-17,17,1320,1511,133,67,-6,5,127,72,40,100,-57
+410,Jul 26 1998,Friendly in Niger,Niger,Ivory Coast,1326,1610,1,0,15,-15,1341,1595,112,61,7,-2,119,59,20,100,-184
+411,Jul 26 1998,Friendly in Senegal,Senegal,Mali,1436,1455,3,1,12,-12,1448,1443,86,93,5,-1,91,92,20,100,81
+412,Jul 26 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Dominica,1462,1182,8,0,10,-10,1472,1172,87,162,1,-1,88,161,40,100,380
+413,Jul 29 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Jamaica,Antigua and Barbuda,1656,1222,1,0,3,-3,1659,1219,48,147,0,0,48,147,40,0,434
+414,Jul 29 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Haiti,1472,1408,4,1,20,-20,1492,1388,68,113,10,-5,78,108,40,100,164
+415,Jul 30 1998,Micronesian Games in Palau,Guam,Northern Mariana Islands,650,600,2,1,17,-17,667,583,214,220,0,0,214,220,40,0,50
+416,Jul 31 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Antigua and Barbuda,1388,1219,3,2,11,-11,1399,1208,102,155,3,-4,105,151,40,0,169
+417,Jul 31 1998,African Nations Cup qualifier in Kenya,Kenya,Djibouti,1475,891,3,0,1,-1,1476,890,84,199,1,0,85,199,20,0,584
+418,Jul 31 1998,African Nations Cup qualifier in Libya,Libya,Algeria,1458,1480,1,3,-37,37,1421,1517,107,58,-9,12,98,70,40,100,78
+419,Jul 31 1998,Micronesian Games in Palau,Palau,Northern Mariana Islands,500,583,1,12,-58,58,442,641,224,216,0,0,224,216,40,100,17
+420,Jul 31 1998,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1492,1659,1,2,-16,16,1476,1675,92,36,-7,6,85,42,40,100,-67
+421,Aug 1 1998,African Nations Cup qualifier in Namibia,Namibia,Malawi,1338,1356,2,1,15,-15,1353,1341,115,122,3,-3,118,119,40,100,82
+422,Aug 1 1998,Micronesian Games in Palau,Palau,Guam,442,667,2,15,-39,39,403,706,224,210,0,2,224,212,40,100,-125
+423,Aug 1 1998,African Nations Cup qualifier in Uganda,Uganda,Rwanda,1416,1114,5,0,7,-7,1423,1107,94,173,4,-1,98,172,40,100,402
+424,Aug 2 1998,African Nations Cup qualifier in Benin,Benin,Angola,1203,1495,2,1,30,-30,1233,1465,130,98,11,-10,141,88,40,100,-192
+425,Aug 2 1998,African Nations Cup qualifier in Botswana,Botswana,Mozambique,1009,1328,0,0,11,-11,1020,1317,183,130,2,-3,185,127,30,0,-319
+426,Aug 2 1998,African Nations Cup qualifier in Burundi,Burundi,Tanzania,1418,1290,1,0,8,-8,1426,1282,94,134,4,-1,98,133,40,100,228
+427,Aug 2 1998,African Nations Cup qualifier in Chad,Chad,Congo,1218,1474,1,1,8,-8,1226,1466,149,87,-1,0,148,87,40,100,-156
+428,Aug 2 1998,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Gabon,1085,1440,0,2,-11,11,1074,1451,177,88,0,2,177,90,40,100,-255
+429,Aug 2 1998,African Nations Cup qualifier in Lesotho,Lesotho,Mauritius,1172,1151,1,1,-7,7,1165,1158,165,163,-2,1,163,164,40,100,121
+430,Aug 2 1998,African Nations Cup qualifier in Mali,Mali,Cape Verde,1443,1243,3,0,11,-11,1454,1232,87,147,2,-4,89,143,40,100,300
+431,Aug 2 1998,African Nations Cup qualifier in Niger,Niger,Liberia,1341,1356,2,1,15,-15,1356,1341,113,122,3,-3,116,119,40,100,85
+432,Aug 2 1998,African Nations Cup qualifier in Swaziland,Swaziland,Madagascar,1161,1473,1,2,-9,9,1152,1482,166,74,-1,7,165,81,40,100,-212
+433,Aug 2 1998,African Nations Cup qualifier in Gabon,Togo,São Tomé and Príncipe,1364,1049,4,0,11,-11,1375,1038,112,182,1,0,113,182,40,0,315
+434,Aug 3 1998,Micronesian Games in Palau,Northern Mariana Islands,Guam,641,706,3,0,41,-41,682,665,212,218,2,-3,214,215,40,0,-65
+435,Aug 7 1998,Indian Ocean Games in Réunion,Madagascar,Comoros,1482,870,3,0,2,-2,1484,868,81,201,0,0,81,201,30,0,612
+436,Aug 7 1998,Indian Ocean Games in Réunion,Réunion,Mauritius,1247,1158,4,0,14,-14,1261,1144,137,166,0,-1,137,165,20,0,89
+437,Aug 8 1998,COSAFA Cup in Zambia,Zambia,Namibia,1628,1353,1,1,-16,16,1612,1369,59,110,-3,4,56,114,40,100,375
+438,Aug 9 1998,Friendly in Benin,Benin,Niger,1233,1356,1,1,1,-1,1234,1355,141,119,0,-1,141,118,20,100,-23
+439,Aug 9 1998,Indian Ocean Games in Réunion,Seychelles,Comoros,938,868,3,0,21,-21,959,847,190,205,3,-2,193,203,30,0,70
+440,Aug 11 1998,Indian Ocean Games in Réunion,Madagascar,Seychelles,1484,959,5,2,2,-2,1486,957,79,193,1,0,80,193,20,0,525
+441,Aug 11 1998,Indian Ocean Games in Réunion,Réunion,Mauritius,1261,1144,1,0,7,-7,1268,1137,135,165,1,0,136,165,20,0,117
+442,Aug 12 1998,Friendly in Azerbaijan,Azerbaijan,Georgia,1368,1671,1,0,15,-15,1383,1656,105,52,5,-4,110,48,20,100,-203
+443,Aug 13 1998,Indian Ocean Games in Réunion,Madagascar,Mauritius,1486,1137,2,0,5,-5,1491,1132,76,169,2,-2,78,167,30,0,349
+444,Aug 13 1998,Indian Ocean Games in Réunion,Réunion,Seychelles,1268,957,2,0,4,-4,1272,953,136,197,0,-2,136,195,20,0,311
+445,Aug 14 1998,African Nations Cup qualifier in Algeria,Algeria,Libya,1517,1421,3,0,17,-17,1534,1404,66,104,2,-2,68,102,40,100,196
+446,Aug 15 1998,African Nations Cup qualifier in Kenya,Kenya,Djibouti,1476,890,9,1,2,-2,1478,888,81,199,2,0,83,199,20,0,586
+447,Aug 15 1998,African Nations Cup qualifier in Malawi,Malawi,Namibia,1341,1369,0,1,-24,24,1317,1393,135,99,-8,8,127,107,40,100,72
+448,Aug 15 1998,African Nations Cup qualifier in Mozambique,Mozambique,Botswana,1317,1020,2,1,4,-4,1321,1016,123,185,2,0,125,185,40,100,397
+449,Aug 15 1998,Indian Ocean Games in Réunion,Réunion,Madagascar,1272,1491,3,3,5,-5,1277,1486,132,82,2,-2,134,80,30,100,-119
+450,Aug 15 1998,Indian Ocean Games in Réunion,Seychelles,Mauritius,953,1132,4,3,22,-22,975,1110,189,173,3,-3,192,170,30,0,-179
+451,Aug 15 1998,African Nations Cup qualifier in Tanzania,Tanzania,Burundi,1282,1426,0,1,-17,17,1265,1443,139,90,-3,4,136,94,40,100,-44
+452,Aug 15 1998,Friendly in Thailand,Thailand,Uzbekistan,1428,1552,4,1,19,-19,1447,1533,89,71,4,-3,93,68,20,100,-24
+453,Aug 16 1998,African Nations Cup qualifier in Angola,Angola,Benin,1465,1234,2,0,8,-8,1473,1226,86,155,1,-7,87,148,40,100,331
+454,Aug 16 1998,African Nations Cup qualifier in Cape Verde,Cape Verde,Mali,1232,1454,0,0,7,-7,1239,1447,139,95,2,-3,141,92,40,100,-122
+455,Aug 16 1998,African Nations Cup qualifier in Congo,Congo,Chad,1466,1226,0,0,-15,15,1451,1241,91,132,-2,8,89,140,40,100,340
+456,Aug 16 1998,African Nations Cup qualifier in Gabon,Gabon,Equatorial Guinea,1451,1074,3,0,4,-4,1455,1070,86,179,2,-1,88,178,20,0,377
+457,Aug 16 1998,African Nations Cup qualifier in Liberia,Liberia,Niger,1341,1355,2,0,23,-23,1364,1332,113,126,3,-4,116,122,30,0,-14
+458,Aug 16 1998,Friendly in Lithuania,Lithuania,Moldova,1486,1384,1,1,-5,5,1481,1389,82,110,-1,0,81,110,20,100,202
+459,Aug 16 1998,African Nations Cup qualifier in Rwanda,Rwanda,Uganda,1107,1423,0,0,11,-11,1118,1412,166,103,3,-2,169,101,30,0,-316
+460,Aug 18 1998,Friendly in Armenia,Armenia,Lebanon,1364,1320,1,0,6,-6,1370,1314,116,128,0,-1,116,127,20,100,144
+461,Aug 18 1998,Friendly in Poland,Poland,Israel,1685,1682,2,0,11,-11,1696,1671,34,45,3,-2,37,43,20,100,103
+462,Aug 18 1998,African Nations Cup qualifier in Togo,Togo,São Tomé and Príncipe,1375,1038,2,0,4,-4,1379,1034,111,182,2,0,113,182,20,0,337
+463,Aug 19 1998,Friendly in Austria,Austria,France,1703,2088,2,2,7,-7,1710,2081,31,1,2,0,33,1,20,100,-285
+464,Aug 19 1998,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Faroe Islands,1626,1201,1,0,2,-2,1628,1199,53,155,0,0,53,155,20,0,425
+465,Aug 19 1998,Friendly in Cyprus,Cyprus,Albania,1477,1420,3,2,6,-6,1483,1414,80,100,2,0,82,100,20,100,157
+466,Aug 19 1998,Friendly in Czechia,Czechia,Denmark,1888,1881,1,0,7,-7,1895,1874,12,15,0,-1,12,14,20,100,107
+467,Aug 19 1998,Friendly in Hungary,Hungary,Slovenia,1643,1519,2,1,4,-4,1647,1515,48,72,1,-1,49,71,20,100,224
+468,Aug 19 1998,Friendly in Iceland,Iceland,Latvia,1480,1391,4,1,9,-9,1489,1382,74,116,4,-4,78,112,20,100,189
+469,Aug 19 1998,Friendly in Lithuania,Lithuania,Belarus,1481,1376,0,3,-27,27,1454,1403,95,91,-7,12,88,103,20,100,205
+470,Aug 19 1998,Friendly in Norway,Norway,Romania,1900,1879,0,0,-3,3,1897,1882,11,12,0,1,11,13,20,100,121
+471,Aug 19 1998,Friendly in Portugal,Portugal,Mozambique,1874,1321,2,1,0,0,1874,1321,13,125,1,0,14,125,20,100,653
+472,Aug 19 1998,Friendly in Slovakia,Slovakia,Finland,1735,1537,0,0,-7,7,1728,1544,28,66,0,0,28,66,20,100,298
+473,Aug 19 1998,Friendly in Sweden,Sweden,Russia,1841,1861,1,0,8,-8,1849,1853,18,17,0,0,18,17,20,100,80
+474,Aug 19 1998,Friendly in Ukraine,Ukraine,Georgia,1663,1656,4,0,13,-13,1676,1643,36,52,5,-2,41,50,20,100,107
+475,Aug 20 1998,Friendly in Estonia,Estonia,Moldova,1209,1389,0,1,-8,8,1201,1397,158,106,-4,2,154,108,20,100,-80
+476,Aug 23 1998,Friendly in Burkina Faso,Burkina Faso,Togo,1398,1379,1,1,-3,3,1395,1382,109,110,-1,2,108,112,20,100,119
+477,Aug 23 1998,African Nations Cup qualifier in Madagascar,Madagascar,Swaziland,1486,1152,1,1,-17,17,1469,1169,91,160,-5,2,86,162,40,100,434
+478,Aug 23 1998,African Nations Cup qualifier in Mauritius,Mauritius,Lesotho,1110,1165,3,1,26,-26,1136,1139,161,165,5,-1,166,164,30,0,-55
+479,Aug 26 1998,Southeast Asian Champ in Vietnam,Singapore,Malaysia,1243,1263,2,0,32,-32,1275,1231,133,151,3,-7,136,144,40,0,-20
+480,Aug 26 1998,Southeast Asian Champ in Vietnam,Vietnam,Laos,1188,997,4,1,11,-11,1199,986,152,192,3,-1,155,191,40,100,291
+481,Aug 27 1998,Southeast Asian Champ in Vietnam,Indonesia,Philippines,1337,724,3,0,2,-2,1339,722,120,209,0,0,120,209,40,0,613
+482,Aug 27 1998,Southeast Asian Champ in Vietnam,Myanmar,Thailand,1125,1447,1,1,15,-15,1140,1432,159,102,5,-5,164,97,40,0,-322
+483,Aug 28 1998,Southeast Asian Champ in Vietnam,Laos,Malaysia,986,1231,0,0,12,-12,998,1219,189,152,1,-4,190,148,40,0,-245
+484,Aug 28 1998,Southeast Asian Champ in Vietnam,Vietnam,Singapore,1199,1275,0,0,-1,1,1198,1276,157,136,-1,0,156,136,20,100,24
+485,Aug 29 1998,Southeast Asian Champ in Vietnam,Indonesia,Myanmar,1339,1140,6,2,18,-18,1357,1122,116,174,2,-5,118,169,40,0,199
+486,Aug 29 1998,Southeast Asian Champ in Vietnam,Thailand,Philippines,1432,722,3,1,1,-1,1433,721,97,209,0,0,97,209,30,0,710
+487,Aug 30 1998,COSAFA Cup in Angola,Angola,Zimbabwe,1473,1489,2,1,15,-15,1488,1474,73,92,6,-7,79,85,40,100,84
+488,Aug 30 1998,Friendly in Burkina Faso,Burkina Faso,Ivory Coast,1395,1595,1,1,3,-3,1398,1592,106,59,1,0,107,59,20,100,-100
+489,Aug 30 1998,Southeast Asian Champ in Vietnam,Singapore,Laos,1276,998,4,1,12,-12,1288,986,128,192,4,-1,132,191,40,0,278
+490,Aug 30 1998,Southeast Asian Champ in Vietnam,Vietnam,Malaysia,1198,1219,1,0,16,-16,1214,1203,142,156,7,-4,149,152,30,0,-21
+491,Aug 31 1998,Friendly in Burkina Faso,Burkina Faso,Senegal,1398,1448,1,1,-1,1,1397,1449,107,91,0,0,107,91,20,100,50
+492,Aug 31 1998,Southeast Asian Champ in Vietnam,Myanmar,Philippines,1122,721,5,2,6,-6,1128,715,169,209,0,0,169,209,40,0,401
+493,Aug 31 1998,Southeast Asian Champ in Vietnam,Thailand,Indonesia,1433,1357,3,2,16,-16,1449,1341,85,120,6,-1,91,119,40,0,76
+494,Sep 2 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Cook Islands,Samoa,646,628,2,1,13,-13,659,615,216,219,0,-1,216,218,40,100,118
+495,Sep 2 1998,Friendly in Malta,Malta,Germany,1228,2013,1,2,0,0,1228,2013,145,4,0,0,145,4,20,0,-785
+496,Sep 2 1998,Friendly in Morocco,Morocco,Senegal,1792,1449,2,0,2,-2,1794,1447,22,93,0,-1,22,92,20,100,443
+497,Sep 2 1998,European Championship qual in Romania,Romania,Liechtenstein,1882,1050,7,0,0,0,1882,1050,13,181,0,0,13,181,20,0,832
+498,Sep 2 1998,Southeast Asian Champ in Vietnam,Singapore,Indonesia,1288,1341,2,1,23,-23,1311,1318,124,131,4,-6,128,125,40,0,-53
+499,Sep 2 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Tonga,Eastern Samoa,707,535,3,0,19,-19,726,516,207,221,2,0,209,221,40,0,172
+500,Sep 2 1998,Friendly in Yugoslavia,Yugoslavia,Switzerland,1963,1675,1,1,-8,8,1955,1683,9,40,0,1,9,41,20,100,388
+501,Sep 3 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Cook Islands,Eastern Samoa,659,516,4,3,8,-8,667,508,214,221,1,0,215,221,40,100,243
+502,Sep 3 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Tahiti,Tonga,1437,726,5,0,1,-1,1438,725,92,209,2,0,94,209,20,0,711
+503,Sep 3 1998,Southeast Asian Champ in Vietnam,Vietnam,Thailand,1214,1449,3,0,48,-48,1262,1401,127,119,11,-14,138,105,40,100,-135
+504,Sep 5 1998,European Championship qual in Armenia,Armenia,Andorra,1370,1064,3,1,5,-5,1375,1059,116,179,0,0,116,179,40,100,406
+505,Sep 5 1998,European Championship qual in Austria,Austria,Israel,1710,1671,1,1,-8,8,1702,1679,39,44,-3,0,36,44,40,100,139
+506,Sep 5 1998,European Championship qual in Belarus,Belarus,Denmark,1403,1874,0,0,16,-16,1419,1858,96,20,3,-3,99,17,40,100,-371
+507,Sep 5 1998,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Estonia,1628,1201,1,1,-18,18,1610,1219,59,143,-3,6,56,149,40,100,527
+508,Sep 5 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Cook Islands,Tonga,667,725,2,2,-2,2,665,727,215,209,0,0,215,209,30,100,42
+509,Sep 5 1998,European Championship qual in Cyprus,Cyprus,Spain,1483,1997,3,2,37,-37,1520,1960,59,6,11,0,70,6,40,100,-414
+510,Sep 5 1998,Oce Cup q & Melanesian Cup in Vanuatu,Fiji,New Caledonia,1382,1197,3,0,18,-18,1400,1179,98,163,7,-3,105,160,40,0,185
+511,Sep 5 1998,European Championship qual in Finland,Finland,Moldova,1544,1397,3,2,8,-8,1552,1389,64,115,1,-4,65,111,40,100,247
+512,Sep 5 1998,European Championship qual in Georgia,Georgia,Albania,1643,1414,1,0,5,-5,1648,1409,48,103,1,-2,49,101,40,100,329
+513,Sep 5 1998,Friendly in Malta,Germany,Romania,2013,1882,1,1,-4,4,2009,1886,4,13,0,0,4,13,20,0,131
+514,Sep 5 1998,European Championship qual in Iceland,Iceland,France,1489,2081,1,1,18,-18,1507,2063,72,1,3,0,75,1,40,100,-492
+515,Sep 5 1998,Southeast Asian Champ in Vietnam,Indonesia,Thailand,1318,1401,3,3,5,-5,1323,1396,125,111,0,-3,125,108,40,0,-83
+516,Sep 5 1998,European Championship qual in Ireland,Ireland,Croatia,1696,2006,2,0,46,-46,1742,1960,15,7,11,-1,26,6,40,100,-210
+517,Sep 5 1998,European Championship qual in England,Italy,Wales,2015,1571,2,0,4,-4,2019,1567,3,62,0,0,3,62,40,0,444
+518,Sep 5 1998,European Championship qual in Lithuania,Lithuania,Scotland,1454,1719,0,0,9,-9,1463,1710,86,36,1,-3,87,33,40,100,-165
+519,Sep 5 1998,European Championship qual in Slovakia,Slovakia,Azerbaijan,1728,1383,3,0,5,-5,1733,1378,30,119,-1,-4,29,115,40,100,445
+520,Sep 5 1998,Oce Cup q & Melanesian Cup in Vanuatu,Solomon Islands,Papua New Guinea,1340,1102,3,1,12,-12,1352,1090,119,176,0,-1,119,175,40,0,238
+521,Sep 5 1998,European Championship qual in Sweden,Sweden,England,1849,1968,2,1,21,-21,1870,1947,12,10,3,-1,15,9,40,100,-19
+522,Sep 5 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Tahiti,Samoa,1438,615,5,1,1,-1,1439,614,94,218,0,0,94,218,40,0,823
+523,Sep 5 1998,European Championship qual in Turkey,Turkey,Northern Ireland,1661,1597,3,0,20,-20,1681,1577,39,64,4,-3,43,61,40,100,164
+524,Sep 5 1998,European Championship qual in Ukraine,Ukraine,Russia,1676,1853,3,2,24,-24,1700,1829,32,19,5,-1,37,18,40,100,-77
+525,Sep 5 1998,Southeast Asian Champ in Vietnam,Vietnam,Singapore,1262,1311,0,1,-23,23,1239,1334,142,112,-2,8,140,120,40,100,51
+526,Sep 6 1998,European Championship qual in Bulgaria,Bulgaria,Poland,1737,1696,0,3,-48,48,1689,1744,50,13,-11,13,39,26,40,100,141
+527,Sep 6 1998,European Championship qual in the Faroe Islands,Faroe Islands,Czechia,1199,1895,0,1,-1,1,1198,1896,156,10,0,1,156,11,20,100,-596
+528,Sep 6 1998,European Championship qual in Greece,Greece,Slovenia,1728,1515,2,2,-14,14,1714,1529,34,68,-2,2,32,70,40,100,313
+529,Sep 6 1998,European Championship qual in Hungary,Hungary,Portugal,1647,1874,1,3,-19,19,1628,1893,54,10,-2,2,52,12,40,100,-127
+530,Sep 6 1998,European Championship qual in Macedonia,Macedonia,Malta,1553,1228,4,0,6,-6,1559,1222,64,150,0,-2,64,148,40,100,425
+531,Sep 6 1998,European Championship qual in Norway,Norway,Latvia,1897,1382,1,3,-58,58,1839,1440,23,76,-6,18,17,94,40,100,615
+532,Sep 6 1998,Friendly in Swaziland,Swaziland,Ghana,1169,1477,0,1,-5,5,1164,1482,164,81,-1,1,163,82,20,100,-208
+533,Sep 6 1998,Friendly in Togo,Togo,Benin,1382,1226,0,1,-16,16,1366,1242,120,130,-4,9,116,139,20,100,256
+534,Sep 7 1998,Oce Cup q & Melanesian Cup in Vanuatu,Papua New Guinea,New Caledonia,1090,1179,1,0,25,-25,1115,1154,169,166,3,-3,172,163,40,0,-89
+535,Sep 7 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Samoa,Tonga,614,727,2,0,39,-39,653,688,216,215,1,-3,217,212,40,0,-113
+536,Sep 7 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Tahiti,Eastern Samoa,1439,508,12,0,1,-1,1440,507,93,221,1,0,94,221,40,0,931
+537,Sep 7 1998,Oce Cup q & Melanesian Cup in Vanuatu,Vanuatu,Fiji,1031,1400,1,2,-7,7,1024,1407,185,100,-1,3,184,103,40,100,-269
+538,Sep 8 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Cook Islands,Tahiti,665,1440,0,5,-2,2,663,1442,219,94,-2,0,217,94,40,100,-675
+539,Sep 8 1998,Oce Cup q & Polynesian Cup in the Cook Islands,Samoa,Eastern Samoa,653,507,4,0,23,-23,676,484,213,225,2,-2,215,223,40,0,146
+540,Sep 8 1998,Oce Cup q & Melanesian Cup in Vanuatu,Solomon Islands,New Caledonia,1352,1154,3,2,10,-10,1362,1144,117,163,1,0,118,163,40,0,198
+541,Sep 8 1998,Oce Cup q & Melanesian Cup in Vanuatu,Vanuatu,Papua New Guinea,1024,1115,1,1,-1,1,1023,1116,184,170,0,1,184,171,40,100,9
+542,Sep 9 1998,Friendly in Kuwait,Kuwait,Lebanon,1614,1314,0,0,-8,8,1606,1322,60,124,-3,2,57,126,20,100,400
+543,Sep 10 1998,Oce Cup q & Melanesian Cup in Vanuatu,Fiji,Papua New Guinea,1407,1116,2,0,9,-9,1416,1107,99,175,2,-2,101,173,40,0,291
+544,Sep 10 1998,Oce Cup q & Melanesian Cup in Vanuatu,Vanuatu,Solomon Islands,1023,1362,3,1,48,-48,1071,1314,170,138,7,-10,177,128,40,100,-239
+545,Sep 11 1998,Friendly in Saudi Arabia,Saudi Arabia,Tanzania,1632,1265,8,0,3,-3,1635,1262,50,137,0,0,50,137,20,100,467
+546,Sep 12 1998,Oce Cup q & Melanesian Cup in Vanuatu,Fiji,Solomon Islands,1416,1314,1,1,-6,6,1410,1320,103,124,-1,2,102,126,40,0,102
+547,Sep 12 1998,COSAFA Cup in Namibia,Namibia,Mozambique,1393,1321,2,1,11,-11,1404,1310,98,130,6,-2,104,128,40,100,172
+548,Sep 12 1998,Friendly in Syria,Syria,Oman,1511,1280,3,0,5,-5,1516,1275,70,138,2,-2,72,136,20,100,331
+549,Sep 12 1998,Oce Cup q & Melanesian Cup in Vanuatu,Vanuatu,New Caledonia,1071,1144,3,2,18,-18,1089,1126,175,175,1,-6,176,169,30,0,-73
+550,Sep 13 1998,Friendly in Qatar,Bahrain,Libya,1324,1404,2,2,2,-2,1326,1402,123,110,0,-3,123,107,20,0,-80
+551,Sep 13 1998,Friendly in Kuwait,Kuwait,North Korea,1606,1497,4,0,9,-9,1615,1488,51,80,3,-1,54,79,20,100,209
+552,Sep 14 1998,Friendly in Saudi Arabia,Saudi Arabia,Sudan,1635,1403,2,1,3,-3,1638,1400,50,109,0,-2,50,107,20,100,332
+553,Sep 15 1998,Friendly in Syria,Syria,Oman,1516,1275,0,0,-8,8,1508,1283,76,132,-2,2,74,134,20,100,341
+554,Sep 16 1998,Friendly in Egypt,Egypt,Ivory Coast,1710,1592,0,0,-6,6,1704,1598,37,58,-2,0,35,58,20,100,218
+555,Sep 16 1998,Friendly in Qatar,Qatar,Sudan,1551,1400,1,1,-6,6,1545,1406,66,101,0,3,66,104,20,100,251
+556,Sep 16 1998,Friendly in the United Arab Emirates,United Arab Emirates,Libya,1584,1402,5,1,6,-6,1590,1396,58,112,1,-3,59,109,20,100,282
+557,Sep 17 1998,Friendly in Saudi Arabia,Saudi Arabia,Senegal,1638,1447,3,2,3,-3,1641,1444,50,93,0,-1,50,92,20,100,291
+558,Sep 18 1998,Friendly in Bahrain,Bahrain,Syria,1326,1508,2,0,18,-18,1344,1490,115,82,4,-4,119,78,20,100,-82
+559,Sep 19 1998,Friendly in the Solomon Islands,Solomon Islands,Papua New Guinea,1320,1107,2,1,3,-3,1323,1104,122,173,2,0,124,173,20,100,313
+560,Sep 20 1998,Friendly in Togo,Togo,Mali,1366,1447,0,1,-11,11,1355,1458,120,85,-2,3,118,88,20,100,19
+561,Sep 22 1998,Friendly in Oman,Oman,Zambia,1283,1612,2,0,24,-24,1307,1588,124,65,5,-5,129,60,20,100,-229
+562,Sep 22 1998,Arab Nations Cup in Qatar,Qatar,Libya,1545,1396,2,1,8,-8,1553,1388,64,115,1,-3,65,112,40,100,249
+563,Sep 23 1998,Friendly in Brazil,Brazil,Yugoslavia,2045,1955,1,1,-5,5,2040,1960,2,6,0,1,2,7,20,100,190
+564,Sep 23 1998,Friendly in Estonia,Estonia,Egypt,1219,1704,2,2,8,-8,1227,1696,147,41,1,-3,148,38,20,100,-385
+565,Sep 23 1998,Friendly in Spain,Spain,Russia,1960,1829,1,0,4,-4,1964,1825,6,18,0,0,6,18,20,100,231
+566,Sep 24 1998,Arab Nations Cup in Qatar,Jordan,Libya,1421,1388,2,1,18,-18,1439,1370,93,118,3,-3,96,115,40,0,33
+567,Sep 24 1998,Friendly in Oman,Oman,Zambia,1307,1588,1,1,5,-5,1312,1583,127,60,1,0,128,60,20,100,-181
+568,Sep 25 1998,Oceania Nations Cup in Australia,Australia,Fiji,1799,1410,3,1,4,-4,1803,1406,19,104,1,-1,20,103,30,0,389
+569,Sep 25 1998,Oceania Nations Cup in Australia,New Zealand,Tahiti,1436,1442,1,0,25,-25,1461,1417,78,106,10,-6,88,100,50,0,-6
+570,Sep 26 1998,Arab Nations Cup in Qatar,Kuwait,Syria,1615,1490,4,0,25,-25,1640,1465,48,94,3,-8,51,86,40,0,125
+571,Sep 26 1998,Arab Nations Cup in Qatar,Qatar,Jordan,1553,1439,2,0,14,-14,1567,1425,59,100,3,-2,62,98,40,100,214
+572,Sep 27 1998,Friendly in Mali,Mali,Burkina Faso,1458,1397,1,0,6,-6,1464,1391,83,108,3,0,86,108,20,100,161
+573,Sep 27 1998,Arab Nations Cup in Qatar,Saudi Arabia,Lebanon,1641,1322,4,1,10,-10,1651,1312,48,128,1,-1,49,127,40,0,319
+574,Sep 27 1998,Arab Nations Cup in Qatar,United Arab Emirates,Sudan,1590,1406,4,1,18,-18,1608,1388,56,119,1,-8,57,111,40,0,184
+575,Sep 27 1998,COSAFA Cup in Zimbabwe,Zimbabwe,Zambia,1474,1583,0,1,-19,19,1455,1602,94,56,-5,2,89,58,40,100,-9
+576,Sep 28 1998,Oceania Nations Cup in Australia,Australia,Cook Islands,1803,663,16,0,0,0,1803,663,20,217,0,0,20,217,20,0,1140
+577,Sep 28 1998,Oceania Nations Cup in Australia,New Zealand,Vanuatu,1461,1089,8,1,12,-12,1473,1077,80,178,4,-1,84,177,50,0,372
+578,Sep 29 1998,Friendly in Macedonia,Macedonia,Egypt,1559,1696,2,2,1,-1,1560,1695,65,38,0,0,65,38,20,100,-37
+579,Sep 29 1998,Arab Nations Cup in Qatar,Qatar,United Arab Emirates,1567,1608,2,1,17,-17,1584,1591,60,61,1,-2,61,59,30,0,-41
+580,Sep 29 1998,Arab Nations Cup in Qatar,Saudi Arabia,Kuwait,1651,1640,2,1,19,-19,1670,1621,43,55,3,-2,46,53,40,0,11
+581,Sep 30 1998,Oceania Nations Cup in Australia,Fiji,Cook Islands,1406,663,3,0,1,-1,1407,662,103,217,0,0,103,217,30,0,743
+582,Sep 30 1998,Oceania Nations Cup in Australia,Tahiti,Vanuatu,1417,1077,5,1,12,-12,1429,1065,96,181,2,-2,98,179,50,0,340
+583,Oct 1 1998,Arab Nations Cup in Qatar,Kuwait,United Arab Emirates,1621,1591,4,1,32,-32,1653,1559,47,69,3,-5,50,64,40,0,30
+584,Oct 1 1998,Arab Nations Cup in Qatar,Qatar,Saudi Arabia,1584,1670,1,3,-31,31,1553,1701,69,26,-4,10,65,36,40,100,14
+585,Oct 2 1998,Oceania Nations Cup in Australia,Australia,Tahiti,1803,1429,4,1,5,-5,1808,1424,20,102,0,-2,20,100,30,0,374
+586,Oct 2 1998,Oceania Nations Cup in Australia,New Zealand,Fiji,1473,1407,1,0,20,-20,1493,1387,72,119,6,-8,78,111,50,0,66
+587,Oct 2 1998,African Nations Cup qualifier in Uganda,Uganda,Algeria,1412,1534,2,1,21,-21,1433,1513,93,79,4,-6,97,73,40,100,-22
+588,Oct 3 1998,Friendly in Bahrain,Bahrain,Sudan,1344,1388,2,3,-12,12,1332,1400,123,98,-2,6,121,104,20,100,56
+589,Oct 3 1998,African Nations Cup qualifier in Kenya,Kenya,Madagascar,1478,1469,1,1,-6,6,1472,1475,89,83,-3,1,86,84,40,100,109
+590,Oct 3 1998,African Nations Cup qualifier in Morocco,Morocco,Sierra Leone,1794,1438,3,0,5,-5,1799,1433,22,96,0,0,22,96,40,100,456
+591,Oct 3 1998,African Nations Cup qualifier in Namibia,Namibia,Congo,1404,1451,0,1,-23,23,1381,1474,119,79,-8,6,111,85,40,100,53
+592,Oct 3 1998,African Nations Cup qualifier in South Africa,South Africa,Angola,1654,1488,1,0,7,-7,1661,1481,49,85,0,-3,49,82,40,100,266
+593,Oct 4 1998,Oceania Nations Cup in Australia,Australia,New Zealand,1808,1493,0,1,-46,46,1762,1539,24,56,-2,11,22,67,50,100,415
+594,Oct 4 1998,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Nigeria,1391,1707,0,0,11,-11,1402,1696,101,42,3,-4,104,38,30,0,-316
+595,Oct 4 1998,African Nations Cup qualifier in Cameroon,Cameroon,Ghana,1610,1482,1,3,-47,47,1563,1529,67,59,-6,11,61,70,40,100,228
+596,Oct 4 1998,Oceania Nations Cup in Australia,Fiji,Tahiti,1387,1424,4,2,41,-41,1428,1383,88,122,11,-11,99,111,50,0,-37
+597,Oct 4 1998,African Nations Cup qualifier in Gabon,Gabon,Mauritius,1455,1136,2,0,5,-5,1460,1131,86,169,2,-2,88,167,40,100,419
+598,Oct 4 1998,African Nations Cup qualifier in Mali,Mali,Ivory Coast,1464,1598,0,1,-18,18,1446,1616,96,52,-4,3,92,55,40,100,-34
+599,Oct 4 1998,African Nations Cup qualifier in Mozambique,Mozambique,Eritrea,1310,1229,3,1,16,-16,1326,1213,119,154,5,-4,124,150,40,100,181
+600,Oct 4 1998,African Nations Cup qualifier in Togo,Togo,Guinea,1355,1488,2,0,33,-33,1388,1455,102,99,8,-10,110,89,40,100,-33
+601,Oct 4 1998,African Nations Cup qualifier in Tunisia,Tunisia,Liberia,1629,1364,2,1,4,-4,1633,1360,52,118,0,-1,52,117,20,0,265
+602,Oct 4 1998,African Nations Cup qualifier in Zambia,Zambia,DR Congo,1602,1502,1,1,-10,10,1592,1512,57,77,0,-1,57,76,40,100,200
+603,Oct 10 1998,European Championship qual in Andorra,Andorra,Ukraine,1059,1700,0,2,-3,3,1056,1703,180,38,0,-1,180,37,40,100,-541
+604,Oct 10 1998,European Championship qual in Armenia,Armenia,Iceland,1375,1507,0,0,2,-2,1377,1505,113,75,1,1,114,76,40,100,-32
+605,Oct 10 1998,European Championship qual in Azerbaijan,Azerbaijan,Hungary,1378,1628,0,4,-22,22,1356,1650,120,49,-3,2,117,51,40,100,-150
+606,Oct 10 1998,European Championship qual in Bosnia and Herzegovina,Bosnia and Herzegovina,Czechia,1610,1896,1,3,-15,15,1595,1911,58,13,-1,-1,57,12,40,100,-186
+607,Oct 10 1998,European Championship qual in Cyprus,Cyprus,Austria,1520,1702,0,3,-27,27,1493,1729,86,26,-7,4,79,30,40,100,-82
+608,Oct 10 1998,European Championship qual in Denmark,Denmark,Wales,1858,1567,1,2,-36,36,1822,1603,20,52,-2,4,18,56,40,100,391
+609,Oct 10 1998,European Championship qual in England,England,Bulgaria,1947,1689,0,0,-15,15,1932,1704,9,32,0,4,9,36,40,100,358
+610,Oct 10 1998,European Championship qual in Italy,Italy,Switzerland,2019,1683,2,0,5,-5,2024,1678,3,47,0,-2,3,45,40,100,436
+611,Oct 10 1998,European Championship qual in Latvia,Latvia,Georgia,1440,1648,1,0,26,-26,1466,1622,77,55,9,-2,86,53,40,100,-108
+612,Oct 10 1998,European Championship qual in Liechtenstein,Liechtenstein,Slovakia,1050,1733,0,4,-3,3,1047,1736,182,29,0,0,182,29,40,100,-583
+613,Oct 10 1998,European Championship qual in Lithuania,Lithuania,Faroe Islands,1463,1198,0,0,-16,16,1447,1214,97,144,-5,6,92,150,40,100,365
+614,Oct 10 1998,European Championship qual in Malta,Malta,Croatia,1222,1960,1,4,-2,2,1220,1962,148,7,0,0,148,7,40,100,-638
+615,Oct 10 1998,Friendly in the Netherlands,Netherlands,Peru,1996,1717,2,0,3,-3,1999,1714,3,34,1,-2,4,32,20,100,379
+616,Oct 10 1998,European Championship qual in Northern Ireland,Northern Ireland,Finland,1577,1552,1,0,13,-13,1590,1539,59,66,0,0,59,66,40,100,125
+617,Oct 10 1998,European Championship qual in Poland,Poland,Luxembourg,1744,1202,3,0,2,-2,1746,1200,26,157,0,-1,26,156,30,0,542
+618,Oct 10 1998,European Championship qual in Portugal,Portugal,Romania,1893,1886,0,1,-26,26,1867,1912,18,9,-3,2,15,11,40,100,107
+619,Oct 10 1998,European Championship qual in Russia,Russia,France,1825,2063,2,3,-12,12,1813,2075,20,1,-1,0,19,1,40,100,-138
+620,Oct 10 1998,European Championship qual in San Marino,San Marino,Israel,953,1679,0,5,-2,2,951,1681,196,43,0,1,196,44,30,100,-626
+621,Oct 10 1998,European Championship qual in Scotland,Scotland,Estonia,1710,1227,3,2,1,-1,1711,1226,37,147,-2,0,35,147,20,0,483
+622,Oct 10 1998,European Championship qual in Slovenia,Slovenia,Norway,1529,1839,1,2,-9,9,1520,1848,72,15,-1,1,71,16,40,100,-210
+623,Oct 10 1998,European Championship qual in Turkey,Turkey,Germany,1681,2009,1,0,32,-32,1713,1977,24,6,10,-1,34,5,40,100,-228
+624,Oct 13 1998,Friendly in Kuwait,Kuwait,Iran,1653,1670,3,0,13,-13,1666,1657,44,53,3,-3,47,50,20,100,83
+625,Oct 13 1998,Friendly in the Netherlands,Netherlands,Ghana,1999,1529,0,0,-9,9,1990,1538,4,66,0,2,4,68,20,0,470
+626,Oct 14 1998,Friendly in the United States,Brazil,Ecuador,2040,1756,5,1,6,-6,2046,1750,2,26,0,-1,2,25,20,0,284
+627,Oct 14 1998,European Championship qual in Bulgaria,Bulgaria,Sweden,1704,1870,0,1,-16,16,1688,1886,46,15,-5,-1,41,14,40,100,-66
+628,Oct 14 1998,European Championship qual in Croatia,Croatia,Macedonia,1962,1560,3,2,2,-2,1964,1558,7,67,0,-2,7,65,20,0,402
+629,Oct 14 1998,European Championship qual in Czechia,Czechia,Estonia,1911,1226,4,1,1,-1,1912,1225,10,147,1,0,11,147,20,0,685
+630,Oct 14 1998,European Championship qual in France,France,Andorra,2075,1056,2,0,0,0,2075,1056,1,182,0,-1,1,181,20,0,1019
+631,Oct 14 1998,European Championship qual in Greece,Greece,Georgia,1714,1622,3,0,17,-17,1731,1605,26,59,3,-3,29,56,40,100,192
+632,Oct 14 1998,European Championship qual in Hungary,Hungary,Romania,1650,1912,1,1,9,-9,1659,1903,49,13,1,-1,50,12,40,100,-162
+633,Oct 14 1998,European Championship qual in Iceland,Iceland,Russia,1505,1813,1,0,31,-31,1536,1782,62,23,7,-2,69,21,40,100,-208
+634,Oct 14 1998,European Championship qual in Ireland,Ireland,Malta,1742,1220,5,0,2,-2,1744,1218,27,148,0,0,27,148,20,0,522
+635,Oct 14 1998,European Championship qual in Israel,Israel,Spain,1681,1964,1,2,-10,10,1671,1974,46,6,-1,0,45,6,40,100,-183
+636,Oct 14 1998,European Championship qual in Liechtenstein,Liechtenstein,Azerbaijan,1047,1356,2,1,31,-31,1078,1325,172,131,5,-7,177,124,40,100,-209
+637,Oct 14 1998,European Championship qual in Lithuania,Lithuania,Bosnia and Herzegovina,1447,1595,4,2,34,-34,1481,1561,70,69,11,-6,81,63,40,100,-48
+638,Oct 14 1998,European Championship qual in Luxembourg,Luxembourg,England,1200,1932,0,3,-2,2,1198,1934,156,9,0,0,156,9,40,100,-632
+639,Oct 14 1998,European Championship qual in Moldova,Moldova,Germany,1389,1977,1,3,-3,3,1386,1980,111,5,-1,0,110,5,30,100,-488
+640,Oct 14 1998,European Championship qual in Norway,Norway,Albania,1848,1409,2,2,-18,18,1830,1427,16,98,0,2,16,100,40,100,539
+641,Oct 14 1998,European Championship qual in San Marino,San Marino,Austria,951,1729,1,4,-1,1,950,1730,196,30,0,0,196,30,20,100,-678
+642,Oct 14 1998,European Championship qual in Scotland,Scotland,Faroe Islands,1711,1214,2,1,1,-1,1712,1213,31,150,2,0,33,150,20,0,497
+643,Oct 14 1998,European Championship qual in Slovakia,Slovakia,Portugal,1736,1867,0,3,-32,32,1704,1899,41,11,-6,2,35,13,40,100,-31
+644,Oct 14 1998,European Championship qual in Slovenia,Slovenia,Latvia,1520,1466,1,0,12,-12,1532,1454,73,96,-1,-5,72,91,40,100,154
+645,Oct 14 1998,European Championship qual in Switzerland,Switzerland,Denmark,1678,1822,1,1,3,-3,1681,1819,41,18,2,0,43,18,40,100,-44
+646,Oct 14 1998,European Championship qual in Turkey,Turkey,Finland,1713,1539,1,3,-50,50,1663,1589,62,54,-14,6,48,60,40,100,274
+647,Oct 14 1998,European Championship qual in Ukraine,Ukraine,Armenia,1703,1377,2,0,5,-5,1708,1372,31,114,3,0,34,114,40,100,426
+648,Oct 14 1998,European Championship qual in Wales,Wales,Belarus,1603,1419,3,2,7,-7,1610,1412,54,103,1,-1,55,102,40,100,284
+649,Oct 17 1998,Friendly tournament in the United Arab Emirates,Lebanon,Syria,1312,1465,3,3,6,-6,1318,1459,126,89,1,-1,127,88,30,0,-153
+650,Oct 17 1998,Friendly in Qatar,Qatar,Burkina Faso,1553,1402,2,2,-6,6,1547,1408,66,102,0,1,66,103,20,100,251
+651,Oct 17 1998,Friendly tournament in the United Arab Emirates,United Arab Emirates,Sudan,1559,1400,2,1,6,-6,1565,1394,58,109,3,-2,61,107,20,0,159
+652,Oct 19 1998,Friendly tournament in the United Arab Emirates,Lebanon,Sudan,1318,1394,1,1,3,-3,1321,1391,129,107,-1,0,128,107,30,0,-76
+653,Oct 19 1998,Friendly in Oman,Oman,Burkina Faso,1312,1408,4,2,15,-15,1327,1393,117,109,6,-3,123,106,20,100,4
+654,Oct 19 1998,Friendly tournament in the United Arab Emirates,United Arab Emirates,Syria,1565,1459,1,0,7,-7,1572,1452,61,94,0,-3,61,91,20,0,106
+655,Oct 21 1998,Friendly in Oman,Oman,Burkina Faso,1327,1393,0,0,-1,1,1326,1394,123,106,0,0,123,106,20,100,34
+656,Oct 21 1998,Friendly tournament in the United Arab Emirates,Syria,Sudan,1452,1391,3,2,12,-12,1464,1379,83,117,4,-5,87,112,30,0,61
+657,Oct 21 1998,Friendly tournament in the United Arab Emirates,United Arab Emirates,Lebanon,1572,1321,1,0,4,-4,1576,1317,61,128,0,0,61,128,20,0,251
+658,Oct 23 1998,Friendly in Bahrain,Bahrain,Burkina Faso,1332,1394,2,1,9,-9,1341,1385,116,112,2,-3,118,109,20,100,38
+659,Oct 27 1998,Friendly in Cyprus,Cyprus,Kuwait,1493,1666,5,3,18,-18,1511,1648,75,56,2,-5,77,51,20,100,-73
+660,Oct 28 1998,Friendly in Japan,Japan,Egypt,1665,1695,1,0,8,-8,1673,1687,44,43,1,-2,45,41,20,100,70
+661,Oct 30 1998,Gulf Cup in Bahrain,Bahrain,United Arab Emirates,1341,1576,0,1,-13,13,1328,1589,124,59,-3,1,121,60,40,100,-135
+662,Oct 31 1998,Gulf Cup in Bahrain,Oman,Qatar,1326,1547,2,1,31,-31,1357,1516,111,78,6,-6,117,72,40,0,-221
+663,Oct 31 1998,Gulf Cup in Bahrain,Saudi Arabia,Kuwait,1701,1648,2,1,17,-17,1718,1631,26,53,5,-1,31,52,40,0,53
+664,Nov 2 1998,Gulf Cup in Bahrain,Bahrain,Saudi Arabia,1328,1718,1,1,14,-14,1342,1704,116,39,3,-4,119,35,40,100,-290
+665,Nov 2 1998,Gulf Cup in Bahrain,Kuwait,Qatar,1631,1516,6,2,26,-26,1657,1490,48,86,2,-7,50,79,40,0,115
+666,Nov 3 1998,Gulf Cup in Bahrain,United Arab Emirates,Oman,1589,1357,3,2,8,-8,1597,1349,54,119,3,-1,57,118,40,0,232
+667,Nov 4 1998,Friendly in Bulgaria,Bulgaria,Algeria,1688,1513,0,0,-7,7,1681,1520,44,70,-2,2,42,72,20,100,275
+668,Nov 5 1998,Gulf Cup in Bahrain,Qatar,United Arab Emirates,1490,1597,0,0,6,-6,1496,1591,79,59,0,-1,79,58,40,0,-107
+669,Nov 5 1998,Gulf Cup in Bahrain,Saudi Arabia,Oman,1704,1349,1,0,5,-5,1709,1344,33,118,1,0,34,118,40,0,355
+670,Nov 6 1998,Gulf Cup in Bahrain,Bahrain,Kuwait,1342,1657,0,2,-13,13,1329,1670,125,44,-3,3,122,47,40,100,-215
+671,Nov 6 1998,Friendly in the United States,United States,Australia,1697,1762,0,0,-1,1,1696,1763,37,22,0,0,37,22,20,100,35
+672,Nov 7 1998,Friendly in Tunisia,Tunisia,Zimbabwe,1633,1455,1,1,-7,7,1626,1462,52,87,0,1,52,88,20,100,278
+673,Nov 8 1998,Gulf Cup in Bahrain,Bahrain,Qatar,1329,1496,0,0,4,-4,1333,1492,118,79,2,0,120,79,20,0,-167
+674,Nov 8 1998,Gulf Cup in Bahrain,Saudi Arabia,United Arab Emirates,1709,1591,1,0,13,-13,1722,1578,28,64,3,-3,31,61,40,0,118
+675,Nov 9 1998,Gulf Cup in Bahrain,Kuwait,Oman,1670,1344,5,0,11,-11,1681,1333,37,120,5,-1,42,119,40,0,326
+676,Nov 10 1998,Friendly in Slovakia,Slovakia,Poland,1704,1746,1,3,-17,17,1687,1763,42,18,-3,4,39,22,20,100,58
+677,Nov 10 1998,Friendly in Tunisia,Tunisia,Latvia,1626,1454,3,0,6,-6,1632,1448,52,93,0,-1,52,92,20,100,272
+678,Nov 11 1998,Gulf Cup in Bahrain,Qatar,Saudi Arabia,1492,1722,0,0,12,-12,1504,1710,75,37,2,-3,77,34,40,0,-230
+679,Nov 12 1998,Gulf Cup in Bahrain,Bahrain,Oman,1333,1333,2,2,-6,6,1327,1339,127,117,-4,1,123,118,40,100,100
+680,Nov 12 1998,Gulf Cup in Bahrain,Kuwait,United Arab Emirates,1681,1578,4,1,25,-25,1706,1553,30,69,6,-4,36,65,40,0,103
+681,Nov 15 1998,Friendly tournament in Sri Lanka,Sri Lanka,Maldives,955,781,2,2,-10,10,945,791,198,204,-2,0,196,204,30,100,274
+682,Nov 16 1998,Friendly in India,India,Uzbekistan,1108,1533,0,0,7,-7,1115,1526,172,73,0,-2,172,71,20,100,-325
+683,Nov 17 1998,Friendly tournament in the United States,Guatemala,Honduras,1562,1515,3,3,-2,2,1560,1517,64,72,-1,1,63,73,30,0,47
+684,Nov 17 1998,Friendly tournament in the United States,Mexico,El Salvador,1870,1500,2,0,5,-5,1875,1495,15,80,0,-1,15,79,30,0,370
+685,Nov 18 1998,European Championship qual in Albania,Albania,Greece,1427,1731,0,0,11,-11,1438,1720,92,31,4,-1,96,30,30,0,-304
+686,Nov 18 1998,Friendly in Brazil,Brazil,Russia,2046,1782,5,1,4,-4,2050,1778,2,21,0,0,2,21,20,100,364
+687,Nov 18 1998,Friendly in Egypt,Egypt,Norway,1687,1830,1,1,1,-1,1688,1829,40,16,0,0,40,16,20,100,-43
+688,Nov 18 1998,Friendly in England,England,Czechia,1934,1912,2,0,10,-10,1944,1902,9,15,0,-2,9,13,20,100,122
+689,Nov 18 1998,Friendly in Georgia,Georgia,Estonia,1605,1225,3,1,2,-2,1607,1223,56,147,0,0,56,147,20,100,480
+690,Nov 18 1998,Friendly in Germany,Germany,Netherlands,1980,1990,1,1,-3,3,1977,1993,7,4,-1,0,6,4,20,100,90
+691,Nov 18 1998,Friendly tournament in the United States,Guatemala,Mexico,1560,1875,2,2,11,-11,1571,1864,59,15,2,0,61,15,30,0,-315
+692,Nov 18 1998,Friendly tournament in the United States,Honduras,El Salvador,1517,1495,2,1,14,-14,1531,1481,69,81,2,-1,71,80,30,0,22
+693,Nov 18 1998,Friendly in Hungary,Hungary,Switzerland,1659,1681,2,0,12,-12,1671,1669,42,51,4,-4,46,47,20,100,78
+694,Nov 18 1998,Friendly in Italy,Italy,Spain,2024,1974,2,2,-4,4,2020,1978,3,4,0,1,3,5,20,100,150
+695,Nov 18 1998,Friendly in Lebanon,Lebanon,Iraq,1317,1590,0,2,-8,8,1309,1598,130,56,-1,1,129,57,20,100,-173
+696,Nov 18 1998,Friendly in Luxembourg,Luxembourg,Belgium,1198,1824,0,0,9,-9,1207,1815,152,19,2,-1,154,18,20,0,-626
+697,Nov 18 1998,European Championship qual in Malta,Malta,Macedonia,1218,1558,1,2,-8,8,1210,1566,154,60,-3,2,151,62,40,100,-240
+698,Nov 18 1998,European Championship qual in Northern Ireland,Northern Ireland,Moldova,1590,1386,2,2,-14,14,1576,1400,62,100,-2,4,60,104,40,100,304
+699,Nov 18 1998,Friendly in Portugal,Portugal,Israel,1899,1671,2,0,4,-4,1903,1667,9,49,2,-1,11,48,20,100,328
+700,Nov 18 1998,European Championship qual in San Marino,San Marino,Cyprus,950,1511,0,1,-3,3,947,1514,195,74,0,1,195,75,40,100,-461
+701,Nov 18 1998,European Championship qual in Yugoslavia,Yugoslavia,Ireland,1960,1744,1,0,6,-6,1966,1738,6,27,1,0,7,27,40,100,316
+702,Nov 19 1998,Friendly in Hong Kong,Hong Kong,Vietnam,1216,1239,1,1,-2,2,1214,1241,148,139,0,1,148,140,20,100,77
+703,Nov 19 1998,Friendly in India,India,Uzbekistan,1115,1526,0,4,-5,5,1110,1531,172,70,0,1,172,71,20,100,-311
+704,Nov 21 1998,Friendly in Armenia,Armenia,Estonia,1372,1223,2,1,4,-4,1376,1219,114,147,0,0,114,147,20,100,249
+705,Nov 21 1998,Friendly in Thailand,Thailand,Turkmenistan,1396,1379,3,3,-3,3,1393,1382,106,110,0,1,106,111,20,100,117
+706,Nov 22 1998,Friendly in China,China,South Korea,1687,1715,0,0,-2,2,1685,1717,43,31,-1,0,42,31,20,100,72
+707,Nov 24 1998,Friendly in Thailand,Thailand,Qatar,1393,1504,0,0,0,0,1393,1504,106,77,0,0,106,77,20,100,-11
+708,Nov 25 1998,Friendly in Singapore,Singapore,United Arab Emirates,1334,1553,0,4,-13,13,1321,1566,135,59,-8,3,127,62,20,100,-119
+709,Nov 27 1998,Friendly in Thailand,Thailand,Nepal,1393,753,2,0,0,0,1393,753,106,207,0,0,106,207,20,100,740
+710,Nov 28 1998,Friendly in Azerbaijan,Azerbaijan,Estonia,1325,1219,2,1,5,-5,1330,1214,118,147,3,0,121,147,20,100,206
+711,Nov 30 1998,Asian Games in Thailand,China,Lebanon,1685,1309,4,1,7,-7,1692,1302,36,133,3,-2,39,131,40,0,376
+712,Nov 30 1998,Asian Games in Thailand,Oman,Hong Kong,1339,1214,6,0,28,-28,1367,1186,114,169,2,-11,116,158,40,0,125
+713,Nov 30 1998,Asian Games in Thailand,Turkmenistan,Vietnam,1382,1241,2,0,18,-18,1400,1223,97,152,7,-6,104,146,40,0,141
+714,Dec 1 1998,Asian Games in Thailand,Iran,Kazakhstan,1657,1516,2,0,18,-18,1675,1498,37,80,7,-3,44,77,40,0,141
+715,Dec 1 1998,Asian Games in Thailand,Kuwait,Mongolia,1706,896,11,0,1,-1,1707,895,36,198,0,0,36,198,20,0,810
+716,Dec 1 1998,Asian Games in Thailand,Tajikistan,Maldives,1497,791,3,0,1,-1,1498,790,76,204,1,0,77,204,20,0,706
+717,Dec 2 1998,Asian Games in Thailand,China,Cambodia,1692,1011,4,1,1,-1,1693,1010,37,188,1,-1,38,187,20,0,681
+718,Dec 2 1998,Asian Games in Thailand,North Korea,United Arab Emirates,1488,1566,3,3,4,-4,1492,1562,79,66,0,-2,79,64,40,0,-78
+719,Dec 2 1998,Asian Games in Thailand,Thailand,Hong Kong,1393,1186,5,0,12,-12,1405,1174,101,160,3,-1,104,159,40,100,307
+720,Dec 2 1998,Asian Games in Thailand,Turkmenistan,South Korea,1400,1717,3,2,34,-34,1434,1683,90,53,7,-11,97,42,40,0,-317
+721,Dec 3 1998,Asian Games in Thailand,Kazakhstan,Laos,1498,986,5,0,4,-4,1502,982,77,191,0,0,77,191,40,0,512
+722,Dec 3 1998,Asian Games in Thailand,Kuwait,Uzbekistan,1707,1531,3,3,-9,9,1698,1540,35,63,0,4,35,67,40,0,176
+723,Dec 3 1998,Friendly in Mali,Mali,Ghana,1446,1538,0,2,-15,15,1431,1553,107,65,-7,1,100,66,20,100,8
+724,Dec 3 1998,Asian Games in Thailand,Qatar,Tajikistan,1504,1498,2,1,20,-20,1524,1478,70,87,3,-5,73,82,40,0,6
+725,Dec 4 1998,Asian Games in Thailand,Lebanon,Cambodia,1302,1010,5,1,12,-12,1314,998,127,191,2,-2,129,189,40,0,292
+726,Dec 4 1998,Asian Games in Thailand,South Korea,Vietnam,1683,1223,4,0,5,-5,1688,1218,38,146,2,0,40,146,40,0,460
+727,Dec 4 1998,Asian Games in Thailand,Thailand,Oman,1405,1367,2,0,19,-19,1424,1348,102,120,1,-2,103,118,40,100,138
+728,Dec 5 1998,Asian Games in Thailand,India,Nepal,1110,753,1,0,5,-5,1115,748,172,209,0,-1,172,208,40,0,357
+729,Dec 5 1998,Asian Games in Thailand,Iran,Laos,1675,982,6,1,1,-1,1676,981,44,191,0,0,44,191,20,0,693
+730,Dec 5 1998,Asian Games in Thailand,Qatar,Maldives,1524,790,4,0,1,-1,1525,789,73,204,0,0,73,204,20,0,734
+731,Dec 5 1998,Leeward Islands Champ in Sint Maarten,Sint Maarten,Antigua and Barbuda,954,1208,0,2,-13,13,941,1221,198,140,-2,6,196,146,30,100,-154
+732,Dec 5 1998,Asian Games in Thailand,Uzbekistan,Mongolia,1540,895,15,0,3,-3,1543,892,67,198,0,0,67,198,40,0,645
+733,Dec 6 1998,Friendly in the British Virgin Islands,British Virgin Islands,St Vincent & Grenadines,778,1233,0,5,-5,5,773,1238,205,141,0,1,205,142,20,100,-355
+734,Dec 6 1998,Leeward Islands Champ in Sint Maarten,Saint Kitts,Antigua and Barbuda,1246,1221,3,1,21,-21,1267,1200,136,164,1,-9,137,155,30,0,25
+735,Dec 7 1998,Asian Games in Thailand,Kuwait,United Arab Emirates,1698,1562,5,0,25,-25,1723,1537,25,72,5,-4,30,68,40,0,136
+736,Dec 7 1998,Asian Games in Thailand,Turkmenistan,India,1434,1115,3,2,5,-5,1439,1110,94,172,1,0,95,172,40,0,319
+737,Dec 7 1998,Asian Games in Thailand,Uzbekistan,North Korea,1543,1492,4,0,32,-32,1575,1460,55,98,6,-10,61,88,40,0,51
+738,Dec 8 1998,Asian Games in Thailand,China,Tajikistan,1693,1478,3,1,13,-13,1706,1465,34,89,2,-4,36,85,40,0,215
+739,Dec 8 1998,Asian Games in Thailand,Oman,Iran,1348,1676,4,2,52,-52,1400,1624,94,60,12,-8,106,52,40,0,-328
+740,Dec 8 1998,Asian Games in Thailand,Qatar,Lebanon,1525,1314,1,0,9,-9,1534,1305,67,129,3,0,70,129,40,0,211
+741,Dec 8 1998,Asian Games in Thailand,Thailand,Kazakhstan,1424,1502,1,1,-1,1,1423,1503,103,77,0,0,103,77,20,100,22
+742,Dec 9 1998,Asian Games in Thailand,Japan,Kuwait,1673,1723,2,1,23,-23,1696,1700,31,42,7,-6,38,36,40,0,-50
+743,Dec 9 1998,Asian Games in Thailand,North Korea,Turkmenistan,1460,1439,1,1,-1,1,1459,1440,90,95,-1,0,89,95,20,0,21
+744,Dec 9 1998,Asian Games in Thailand,South Korea,United Arab Emirates,1688,1537,2,1,12,-12,1700,1525,32,78,4,-5,36,73,40,0,151
+745,Dec 9 1998,Asian Games in Thailand,Uzbekistan,India,1575,1110,2,0,4,-4,1579,1106,59,172,1,0,60,172,40,0,465
+746,Dec 10 1998,Asian Games in Thailand,China,Oman,1706,1400,6,1,12,-12,1718,1388,27,112,4,-3,31,109,40,0,306
+747,Dec 10 1998,Asian Games in Thailand,Iran,Tajikistan,1624,1465,5,0,23,-23,1647,1442,50,103,1,-9,51,94,40,0,159
+748,Dec 10 1998,Asian Games in Thailand,Kazakhstan,Qatar,1503,1534,2,0,33,-33,1536,1501,59,85,9,-8,68,77,40,0,-31
+749,Dec 10 1998,Asian Games in Thailand,Thailand,Lebanon,1423,1305,1,0,9,-9,1432,1296,95,135,4,-3,99,132,40,100,218
+750,Dec 11 1998,Asian Games in Thailand,North Korea,India,1459,1106,2,0,7,-7,1466,1099,82,178,3,-3,85,175,40,0,353
+751,Dec 11 1998,Asian Games in Thailand,South Korea,Kuwait,1700,1700,1,0,20,-20,1720,1680,24,52,6,-8,30,44,40,0,0
+752,Dec 11 1998,Asian Games in Thailand,Turkmenistan,Uzbekistan,1440,1579,1,1,8,-8,1448,1571,87,62,4,-1,91,61,40,0,-139
+753,Dec 12 1998,Asian Games in Thailand,Iran,China,1647,1718,2,1,24,-24,1671,1694,41,46,5,-7,46,39,40,0,-71
+754,Dec 12 1998,Asian Games in Thailand,Lebanon,Kazakhstan,1296,1536,3,0,56,-56,1352,1480,106,92,13,-12,119,80,40,0,-240
+755,Dec 12 1998,Asian Games in Thailand,Oman,Tajikistan,1388,1442,3,3,3,-3,1391,1439,107,95,1,0,108,95,40,0,-54
+756,Dec 12 1998,Asian Games in Thailand,Thailand,Qatar,1432,1501,1,2,-22,22,1410,1523,109,69,-5,4,104,73,40,100,31
+757,Dec 13 1998,African Nations Cup qualifier in Burundi,Burundi,Senegal,1443,1444,1,0,14,-14,1457,1430,84,107,5,-7,89,100,40,100,99
+758,Dec 14 1998,Asian Games in Thailand,China,Turkmenistan,1694,1448,3,0,14,-14,1708,1434,29,100,5,-4,34,96,40,0,246
+759,Dec 14 1998,Asian Games in Thailand,Iran,Uzbekistan,1671,1571,4,0,27,-27,1698,1544,26,71,10,-5,36,66,40,0,100
+760,Dec 14 1998,Asian Games in Thailand,Kuwait,Qatar,1680,1523,0,0,-8,8,1672,1531,48,69,-2,2,46,71,40,0,157
+761,Dec 14 1998,Asian Games in Thailand,Thailand,South Korea,1410,1720,2,1,31,-31,1441,1689,82,50,11,-10,93,40,40,100,-210
+762,Dec 16 1998,Asian Games in Thailand,Iran,China,1698,1708,1,0,21,-21,1719,1687,26,50,5,-8,31,42,40,0,-10
+763,Dec 16 1998,Friendly tournament in South Africa,South Africa,Egypt,1661,1688,2,1,12,-12,1673,1676,43,48,4,-3,47,45,30,100,73
+764,Dec 16 1998,Asian Games in Thailand,Thailand,Kuwait,1441,1672,0,3,-22,22,1419,1694,113,32,-10,7,103,39,40,100,-131
+765,Dec 19 1998,Asian Games in Thailand,Iran,Kuwait,1719,1694,2,0,28,-28,1747,1666,23,61,4,-11,27,50,40,0,25
+766,Dec 19 1998,Asian Games in Thailand,Thailand,China,1419,1687,0,3,-19,19,1400,1706,107,30,-2,6,105,36,40,100,-168
+767,Dec 23 1998,Friendly in Israel,Israel,Yugoslavia,1667,1966,2,0,23,-23,1690,1943,31,11,9,-2,40,9,20,100,-199
+768,Dec 24 1998,Friendly in Morocco,Morocco,Bulgaria,1799,1681,4,1,8,-8,1807,1673,18,48,1,-2,19,46,20,100,218
+769,Dec 27 1998,Friendly in Kuwait,Kuwait,Egypt,1666,1676,1,1,-3,3,1663,1679,50,44,0,0,50,44,20,100,90

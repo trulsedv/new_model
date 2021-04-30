@@ -1,0 +1,927 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 3 2016,South Asian Championship in India,India,Afghanistan,1062,1143,2,1,19,-19,1081,1124,180,174,2,0,182,174,40,100,19
+1,Jan 6 2016,Friendly in the United Arab Emirates,Estonia,Sweden,1493,1767,1,1,7,-7,1500,1760,87,31,0,-2,87,29,20,0,-274
+2,Jan 8 2016,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Sri Lanka,890,775,4,2,10,-10,900,765,202,211,0,0,202,211,20,0,115
+3,Jan 8 2016,Copa América qualifier in Panama,Haiti,Trinidad and Tobago,1477,1615,1,0,28,-28,1505,1587,82,67,5,-6,87,61,40,0,-138
+4,Jan 8 2016,Copa América qualifier in Panama,Panama,Cuba,1683,1340,4,0,5,-5,1688,1335,42,128,0,-3,42,125,20,0,343
+5,Jan 10 2016,Friendly in the United Arab Emirates,Sweden,Finland,1760,1603,3,0,10,-10,1770,1593,23,62,3,-2,26,60,20,0,157
+6,Jan 11 2016,Bangabandhu Gold Cup in Bangladesh,Maldives,Cambodia,994,729,3,2,5,-5,999,724,186,218,1,-2,187,216,30,0,265
+7,Jan 13 2016,Friendly in the United Arab Emirates,Iceland,Finland,1673,1593,1,0,8,-8,1681,1585,43,62,0,-1,43,61,20,0,80
+8,Jan 13 2016,Bangabandhu Gold Cup in Bangladesh,Nepal,Sri Lanka,842,765,1,0,12,-12,854,753,205,215,1,-2,206,213,30,0,77
+9,Jan 15 2016,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Nepal,900,854,0,0,-6,6,894,860,202,206,0,0,202,206,30,100,146
+10,Jan 16 2016,Friendly in the United Arab Emirates,United Arab Emirates,Iceland,1626,1681,2,1,9,-9,1635,1672,50,45,0,-1,50,44,20,100,45
+11,Jan 19 2016,Bangabandhu Gold Cup in Bangladesh,Nepal,Maldives,860,999,4,1,36,-36,896,963,198,193,4,-3,202,190,30,0,-139
+12,Jan 27 2016,Friendly in Egypt,Egypt,Jordan,1624,1529,0,1,-15,15,1609,1544,58,69,-3,4,55,73,20,100,195
+13,Jan 27 2016,Friendly in Nicaragua,Nicaragua,Honduras,1248,1510,1,3,-8,8,1240,1518,148,78,-1,2,147,80,20,100,-162
+14,Jan 29 2016,Friendly in Egypt,Egypt,Libya,1609,1506,2,0,7,-7,1616,1499,53,90,1,-2,54,88,20,100,203
+15,Jan 31 2016,Friendly in the United States,United States,Iceland,1759,1672,3,2,5,-5,1764,1667,28,44,1,0,29,44,20,100,187
+16,Feb 2 2016,Friendly in Venezuela,Venezuela,Costa Rica,1600,1794,1,0,13,-13,1613,1781,52,25,3,-2,55,23,20,100,-94
+17,Feb 5 2016,Friendly in Bahrain,Bahrain,Lebanon,1411,1399,2,0,10,-10,1421,1389,103,112,2,-1,105,111,20,100,112
+18,Feb 5 2016,Friendly in the United States,United States,Canada,1764,1529,1,0,3,-3,1767,1526,27,78,1,0,28,78,20,100,335
+19,Feb 6 2016,Friendly in Guadeloupe,Guadeloupe,Martinique,1320,1436,1,1,0,0,1320,1436,131,100,0,0,131,100,20,100,-16
+20,Feb 10 2016,Friendly in Guatemala,Guatemala,Honduras,1455,1518,3,1,13,-13,1468,1505,94,90,1,-5,95,85,20,100,37
+21,Feb 14 2016,Friendly in the United Arab Emirates,Uzbekistan,Lebanon,1649,1389,2,0,5,-5,1654,1384,46,113,0,-1,46,112,20,0,260
+22,Feb 17 2016,Friendly in Panama,Panama,El Salvador,1688,1477,1,0,3,-3,1691,1474,42,95,0,-1,42,94,20,100,311
+23,Feb 21 2016,Friendly in Guyana,Guyana,Suriname,1226,1171,2,0,9,-9,1235,1162,146,171,4,-1,150,170,20,100,155
+24,Feb 21 2016,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Bermuda,1232,1235,3,0,13,-13,1245,1222,141,161,5,-6,146,155,20,100,97
+25,Feb 25 2016,Friendly in French Guiana,French Guiana,Suriname,1304,1162,2,3,-16,16,1288,1178,139,164,-3,3,136,167,20,100,242
+26,Mar 2 2016,Friendly in Guatemala,Guatemala,El Salvador,1468,1474,1,0,7,-7,1475,1467,91,96,2,-1,93,95,20,100,94
+27,Mar 9 2016,Friendly in Nicaragua,Nicaragua,El Salvador,1240,1467,1,1,4,-4,1244,1463,146,95,1,0,147,95,20,100,-127
+28,Mar 13 2016,Friendly in Sint Maarten,Sint Maarten,Anguilla,928,568,2,0,2,-2,930,566,199,231,0,0,199,231,20,100,460
+29,Mar 13 2016,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Martinique,1161,1436,0,4,-10,10,1151,1446,173,98,-1,1,172,99,20,100,-175
+30,Mar 15 2016,Friendly in Nicaragua,Nicaragua,Panama,1244,1691,1,0,18,-18,1262,1673,139,42,4,0,143,42,20,100,-347
+31,Mar 18 2016,Friendly in Iran,Syria,Iraq,1516,1507,1,0,10,-10,1526,1497,76,93,2,-5,78,88,20,0,9
+32,Mar 18 2016,Friendly in the United Arab Emirates,United Arab Emirates,Bangladesh,1635,894,6,1,0,0,1635,894,50,203,0,0,50,203,20,100,841
+33,Mar 19 2016,Friendly in Grenada,Grenada,Trinidad and Tobago,1123,1587,2,2,8,-8,1131,1579,173,68,1,-4,174,64,20,100,-364
+34,Mar 19 2016,Friendly in Taiwan,Taiwan,Guam,782,882,3,2,10,-10,792,872,210,205,0,0,210,205,20,100,0
+35,Mar 22 2016,CONCACAF Ch & Car Ch q in Cuba,Cuba,Bermuda,1335,1222,2,1,9,-9,1344,1213,119,159,3,-2,122,157,40,100,213
+36,Mar 22 2016,CONCACAF Ch & Car Ch q in Grenada,Grenada,Sint Maarten,1131,930,5,0,12,-12,1143,918,174,199,0,0,174,199,40,100,301
+37,Mar 22 2016,CONCACAF Ch & Car Ch q in Guyana,Guyana,Anguilla,1235,566,7,0,1,-1,1236,565,148,231,1,0,149,231,20,0,669
+38,Mar 22 2016,Friendly in Sierra Leone,Sierra Leone,Malawi,1336,1310,1,1,-3,3,1333,1313,126,132,-1,0,125,132,20,100,126
+39,Mar 23 2016,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,Aruba,1244,935,2,1,3,-3,1247,932,146,198,1,0,147,198,20,0,309
+40,Mar 23 2016,CONCACAF Ch & Car Ch q in Barbados,Barbados,Curaçao,1145,1121,1,0,13,-13,1158,1108,169,182,2,-3,171,179,40,100,124
+41,Mar 23 2016,African Nations Cup qualifier in Chad,Chad,Tanzania,1278,1322,0,1,-23,23,1255,1345,148,112,-5,9,143,121,40,100,56
+42,Mar 23 2016,Friendly in Croatia,Croatia,Israel,1814,1579,2,0,4,-4,1818,1575,15,68,1,-2,16,66,20,100,335
+43,Mar 23 2016,Friendly in Gibraltar,Gibraltar,Liechtenstein,1119,1203,0,0,0,0,1119,1203,177,161,0,0,177,161,20,100,16
+44,Mar 23 2016,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Suriname,1320,1178,0,0,-12,12,1308,1190,133,157,-1,5,132,162,40,100,242
+45,Mar 23 2016,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Kenya,1208,1381,1,0,24,-24,1232,1357,145,120,7,-3,152,117,40,100,-73
+46,Mar 23 2016,CONCACAF Ch & Car Ch q in Martinique,Martinique,British Virgin Islands,1446,626,3,0,0,0,1446,626,99,227,0,0,99,227,20,0,820
+47,Mar 23 2016,Friendly in Poland,Poland,Serbia,1773,1715,1,0,6,-6,1779,1709,23,38,1,0,24,38,20,100,158
+48,Mar 23 2016,Friendly in Romania,Romania,Lithuania,1764,1427,1,0,1,-1,1765,1426,30,102,0,0,30,102,20,100,437
+49,Mar 23 2016,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Libya,1086,1499,2,1,34,-34,1120,1465,171,101,5,-7,176,94,40,100,-313
+50,Mar 23 2016,Friendly in Slovenia,Slovenia,Macedonia,1619,1439,1,0,3,-3,1622,1436,53,100,0,0,53,100,20,100,280
+51,Mar 23 2016,African Nations Cup qualifier in South Sudan,South Sudan,Benin,1156,1376,1,2,-13,13,1143,1389,175,107,-2,4,173,111,40,100,-120
+52,Mar 23 2016,African Nations Cup qualifier in Zambia,Zambia,Congo,1510,1487,1,1,-7,7,1503,1494,88,87,-3,1,85,88,40,100,123
+53,Mar 24 2016,World Cup & Asian Cup qual in Australia,Australia,Tajikistan,1701,1230,7,0,3,-3,1704,1227,41,154,-1,0,40,154,20,0,471
+54,Mar 24 2016,World Cup & Asian Cup qual in Bahrain,Bahrain,Yemen,1421,1181,3,0,9,-9,1430,1172,97,172,4,-3,101,169,40,100,340
+55,Mar 24 2016,World Cup qualifier in Bolivia,Bolivia,Colombia,1624,1954,2,3,-8,8,1616,1962,58,3,-3,2,55,5,40,100,-230
+56,Mar 24 2016,World Cup qualifier in Chile,Chile,Argentina,1976,2023,1,2,-23,23,1953,2046,11,1,-3,1,8,2,40,100,53
+57,Mar 24 2016,World Cup & Asian Cup qual in China,China,Maldives,1548,963,4,0,1,-1,1549,962,71,194,0,-2,71,192,20,0,585
+58,Mar 24 2016,African Nations Cup qualifier in the Comoros,Comoros,Botswana,938,1331,1,0,34,-34,972,1297,183,137,7,-5,190,132,40,100,-293
+59,Mar 24 2016,Friendly in Czechia,Czechia,Scotland,1766,1700,0,1,-14,14,1752,1714,31,36,-1,2,30,38,20,100,166
+60,Mar 24 2016,Friendly in Denmark,Denmark,Iceland,1727,1667,2,1,6,-6,1733,1661,35,46,0,-1,35,45,20,100,160
+61,Mar 24 2016,African Nations Cup qualifier in Djibouti,Djibouti,Liberia,760,1330,0,1,-3,3,757,1333,212,123,0,3,212,126,40,100,-470
+62,Mar 24 2016,World Cup qualifier in Ecuador,Ecuador,Paraguay,1915,1728,2,2,-14,14,1901,1742,14,32,-1,1,13,33,40,100,287
+63,Mar 24 2016,Friendly in Estonia,Estonia,Norway,1500,1626,0,0,1,-1,1501,1625,86,53,0,-1,86,52,20,100,-26
+64,Mar 24 2016,African Nations Cup qualifier in Ghana,Ghana,Mozambique,1644,1331,3,1,5,-5,1649,1326,46,131,1,-2,47,129,40,100,413
+65,Mar 24 2016,Friendly in Greece,Greece,Montenegro,1611,1569,2,1,6,-6,1617,1563,52,69,2,-1,54,68,20,100,142
+66,Mar 24 2016,World Cup & Asian Cup qual in Iran,Iran,India,1727,1081,4,0,1,-1,1728,1080,37,182,-1,0,36,182,20,0,646
+67,Mar 24 2016,World Cup & Asian Cup qual in Iran,Iraq,Thailand,1497,1408,2,2,-5,5,1492,1413,89,108,-1,0,88,108,20,100,189
+68,Mar 24 2016,Friendly in Italy,Italy,Spain,1871,2003,1,1,1,-1,1872,2002,15,4,0,0,15,4,20,100,-32
+69,Mar 24 2016,World Cup & Asian Cup qual in Japan,Japan,Afghanistan,1749,1124,5,0,1,-1,1750,1123,31,175,0,0,31,175,20,0,625
+70,Mar 24 2016,World Cup & Asian Cup qual in Jordan,Jordan,Bangladesh,1544,894,8,0,1,-1,1545,893,71,203,1,0,72,203,20,0,650
+71,Mar 24 2016,African Nations Cup qualifier in Madagascar,Madagascar,Central African Republic,1282,1252,1,1,-7,7,1275,1259,137,141,0,2,137,143,40,100,130
+72,Mar 24 2016,Friendly in Malta,Malta,Moldova,1233,1352,0,0,1,-1,1234,1351,149,119,1,0,150,119,20,100,-19
+73,Mar 24 2016,World Cup & Asian Cup qual in Oman,Oman,Guam,1475,872,1,0,1,-1,1476,871,92,205,0,0,92,205,20,0,603
+74,Mar 24 2016,World Cup qualifier in Peru,Peru,Venezuela,1787,1613,2,2,-13,13,1774,1626,27,47,-3,4,24,51,40,100,274
+75,Mar 24 2016,World Cup & Asian Cup qual in Qatar,Qatar,Hong Kong,1569,1219,2,0,4,-4,1573,1215,67,160,0,-2,67,158,20,0,350
+76,Mar 24 2016,World Cup & Asian Cup qual in Saudi Arabia,Saudi Arabia,Malaysia,1511,1118,2,0,3,-3,1514,1115,81,178,0,0,81,178,20,0,393
+77,Mar 24 2016,Friendly in Singapore,Singapore,Myanmar,1185,1032,2,1,4,-4,1189,1028,162,186,1,0,163,186,20,100,253
+78,Mar 24 2016,Friendly in the Solomon Islands,Solomon Islands,Papua New Guinea,1175,1053,2,0,7,-7,1182,1046,163,185,3,0,166,185,20,100,222
+79,Mar 24 2016,World Cup & Asian Cup qual in South Korea,South Korea,Lebanon,1787,1384,1,0,2,-2,1789,1382,21,113,0,0,21,113,20,0,403
+80,Mar 24 2016,World Cup & Asian Cup qual in Oman,Syria,Cambodia,1526,724,6,0,1,-1,1527,723,78,216,0,0,78,216,30,0,802
+81,Mar 24 2016,Friendly in Turkey,Turkey,Sweden,1805,1770,2,1,6,-6,1811,1764,17,32,1,-3,18,29,20,100,135
+82,Mar 24 2016,World Cup & Asian Cup qual in the United Arab Emirates,United Arab Emirates,Palestine,1635,1345,2,0,6,-6,1641,1339,48,125,1,-2,49,123,40,100,390
+83,Mar 24 2016,Friendly in Ukraine,Ukraine,Cyprus,1817,1424,1,0,1,-1,1818,1423,15,107,1,-2,16,105,20,100,493
+84,Mar 24 2016,World Cup & Asian Cup qual in Uzbekistan,Uzbekistan,Philippines,1654,1236,1,0,2,-2,1656,1234,46,151,0,-1,46,150,20,0,418
+85,Mar 24 2016,World Cup & Asian Cup qual in Vietnam,Vietnam,Taiwan,1213,792,4,1,3,-3,1216,789,156,210,1,0,157,210,20,0,421
+86,Mar 24 2016,Friendly in Wales,Wales,Northern Ireland,1673,1594,1,1,-5,5,1668,1599,44,59,-1,0,43,59,20,100,179
+87,Mar 25 2016,African Nations Cup qualifier in Algeria,Algeria,Ethiopia,1666,1272,7,1,5,-5,1671,1267,40,144,2,-3,42,141,40,100,494
+88,Mar 25 2016,Friendly in Armenia,Armenia,Belarus,1485,1578,0,0,0,0,1485,1578,93,65,-2,0,91,65,20,100,7
+89,Mar 25 2016,World Cup qualifier in Brazil,Brazil,Uruguay,2038,1947,2,2,-10,10,2028,1957,3,7,0,1,3,8,40,100,191
+90,Mar 25 2016,World Cup qualifier in Canada,Canada,Mexico,1526,1907,0,3,-12,12,1514,1919,83,10,-2,1,81,11,40,100,-281
+91,Mar 25 2016,World Cup qualifier in El Salvador,El Salvador,Honduras,1463,1505,2,2,-3,3,1460,1508,95,85,0,-1,95,84,40,100,58
+92,Mar 25 2016,Friendly in Gabon,Gabon,Sierra Leone,1482,1333,2,1,4,-4,1486,1329,90,128,0,-1,90,127,20,100,249
+93,Mar 25 2016,World Cup qualifier in Guatemala,Guatemala,United States,1475,1767,2,0,45,-45,1520,1722,67,47,13,-10,80,37,40,100,-192
+94,Mar 25 2016,African Nations Cup qualifier in Guinea,Guinea,Malawi,1555,1313,0,0,-15,15,1540,1328,79,126,-5,2,74,128,40,100,342
+95,Mar 25 2016,World Cup qualifier in Haiti,Haiti,Panama,1505,1673,0,0,4,-4,1509,1669,83,44,0,-1,83,43,20,0,-168
+96,Mar 25 2016,Friendly in Ireland,Ireland,Switzerland,1770,1810,1,0,8,-8,1778,1802,20,19,3,0,23,19,20,100,60
+97,Mar 25 2016,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Sudan,1736,1289,1,0,2,-2,1738,1287,30,138,2,-2,32,136,30,0,447
+98,Mar 25 2016,World Cup qualifier in Jamaica,Jamaica,Costa Rica,1585,1781,1,1,5,-5,1590,1776,62,26,-1,-2,61,24,20,0,-196
+99,Mar 25 2016,Friendly in Luxembourg,Luxembourg,Bosnia and Herzegovina,1254,1722,0,3,-4,4,1250,1726,147,35,-1,1,146,36,20,100,-368
+100,Mar 25 2016,African Nations Cup qualifier in Mali,Mali,Equatorial Guinea,1537,1364,1,0,7,-7,1544,1357,72,117,1,-1,73,116,40,100,273
+101,Mar 25 2016,African Nations Cup qualifier in Mauritania,Mauritania,Gambia,1251,1328,2,1,19,-19,1270,1309,134,132,6,-2,140,130,40,100,23
+102,Mar 25 2016,Friendly in the Netherlands,Netherlands,France,1898,1954,2,3,-11,11,1887,1965,14,3,0,2,14,5,20,100,44
+103,Mar 25 2016,African Nations Cup qualifier in Nigeria,Nigeria,Egypt,1637,1616,1,1,-7,7,1630,1623,50,51,0,2,50,53,40,100,121
+104,Mar 25 2016,Friendly in Portugal,Portugal,Bulgaria,1919,1584,0,1,-18,18,1901,1602,13,56,-1,3,12,59,20,100,435
+105,Mar 25 2016,Friendly in Slovakia,Slovakia,Latvia,1744,1449,0,0,-8,8,1736,1457,34,96,-1,1,33,97,20,100,395
+106,Mar 25 2016,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines,Trinidad and Tobago,1151,1579,2,3,-5,5,1146,1584,172,62,0,1,172,63,40,100,-328
+107,Mar 25 2016,African Nations Cup qualifier in Swaziland,Swaziland,Zimbabwe,1263,1360,1,1,0,0,1263,1360,143,114,-1,1,142,115,20,100,3
+108,Mar 25 2016,African Nations Cup qualifier in Tunisia,Tunisia,Togo,1551,1403,1,0,8,-8,1559,1395,68,109,1,0,69,109,40,100,248
+109,Mar 26 2016,CONCACAF Ch & Car Ch q in Anguilla,Anguilla,Puerto Rico,565,1063,0,4,-7,7,558,1070,235,184,-2,0,233,184,40,100,-398
+110,Mar 26 2016,CONCACAF Ch & Car Ch q in Aruba,Aruba,Saint Kitts and Nevis,932,1245,0,2,-14,14,918,1259,198,140,0,4,198,144,40,100,-213
+111,Mar 26 2016,Friendly in Austria,Austria,Albania,1801,1609,2,1,3,-3,1804,1606,18,57,1,0,19,57,20,100,292
+112,Mar 26 2016,CONCACAF Ch & Car Ch q in Bermuda,Bermuda,French Guiana,1213,1288,2,1,19,-19,1232,1269,145,145,7,-5,152,140,40,100,25
+113,Mar 26 2016,CONCACAF Ch & Car Ch q in the British Virgin Islands,British Virgin Islands,Dominica,626,956,0,7,-19,19,607,975,229,189,-1,2,228,191,40,100,-230
+114,Mar 26 2016,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Uganda,1430,1534,1,0,20,-20,1450,1514,97,87,2,-6,99,81,40,100,-4
+115,Mar 26 2016,African Nations Cup qualifier in Burundi,Burundi,Namibia,1350,1337,1,3,-39,39,1311,1376,136,106,-8,9,128,115,40,100,113
+116,Mar 26 2016,African Nations Cup qualifier in Cameroon,Cameroon,South Africa,1609,1583,2,2,-7,7,1602,1590,59,58,-1,3,58,61,40,100,126
+117,Mar 26 2016,African Nations Cup qualifier in Cape Verde,Cape Verde,Morocco,1545,1530,0,1,-26,26,1519,1556,87,63,-8,7,79,70,40,100,115
+118,Mar 26 2016,CONCACAF Ch & Car Ch q in Curaçao,Curaçao,Dominican Republic,1108,1165,2,1,18,-18,1126,1147,171,170,4,0,175,170,40,100,43
+119,Mar 26 2016,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Angola,1507,1421,2,1,10,-10,1517,1411,75,108,5,-1,80,107,40,100,186
+120,Mar 26 2016,Friendly in Germany,Germany,England,2069,1959,2,3,-15,15,2054,1974,1,3,0,2,1,5,20,100,210
+121,Mar 26 2016,Friendly in Hungary,Hungary,Croatia,1699,1818,1,1,1,-1,1700,1817,41,18,0,-1,41,17,20,100,-19
+122,Mar 26 2016,Friendly in Turkey,Kazakhstan,Azerbaijan,1388,1419,1,0,11,-11,1399,1408,106,109,3,-1,109,108,20,0,-31
+123,Mar 26 2016,African Nations Cup qualifier in Mauritius,Mauritius,Rwanda,1089,1337,1,0,28,-28,1117,1309,177,134,2,-5,179,129,40,100,-148
+124,Mar 26 2016,Friendly in Poland,Poland,Finland,1779,1585,5,0,6,-6,1785,1579,22,66,0,-2,22,64,20,100,294
+125,Mar 26 2016,Friendly in Russia,Russia,Lithuania,1774,1426,3,0,2,-2,1776,1424,23,103,1,0,24,103,20,100,448
+126,Mar 26 2016,African Nations Cup qualifier in Senegal,Senegal,Niger,1646,1289,2,0,4,-4,1650,1285,46,136,1,-1,47,135,40,100,457
+127,Mar 26 2016,African Nations Cup qualifier in the Seychelles,Seychelles,Lesotho,955,1176,2,0,40,-40,995,1136,182,180,6,-6,188,174,40,100,-121
+128,Mar 26 2016,CONCACAF Ch & Car Ch q in Sint Maarten,Sint Maarten,US Virgin Islands,918,707,1,2,-34,34,884,741,207,211,-4,3,203,214,40,100,311
+129,Mar 26 2016,Friendly in Vanuatu,Vanuatu,New Caledonia,1184,1357,2,1,12,-12,1196,1345,159,124,3,-4,162,120,20,100,-73
+130,Mar 27 2016,African Nations Cup qualifier in Benin,Benin,South Sudan,1389,1143,4,1,8,-8,1397,1135,108,176,2,-2,110,174,40,100,346
+131,Mar 27 2016,African Nations Cup qualifier in Botswana,Botswana,Comoros,1297,972,2,1,3,-3,1300,969,132,192,0,0,132,192,20,0,325
+132,Mar 27 2016,African Nations Cup qualifier in Congo,Congo,Zambia,1494,1503,1,1,-5,5,1489,1508,90,84,-1,1,89,85,40,100,91
+133,Mar 27 2016,African Nations Cup qualifier in Kenya,Kenya,Guinea-Bissau,1357,1232,0,1,-31,31,1326,1263,137,132,-10,10,127,142,40,100,225
+134,Mar 27 2016,African Nations Cup qualifier in Mozambique,Mozambique,Ghana,1326,1649,0,0,11,-11,1337,1638,119,50,4,-1,123,49,30,0,-323
+135,Mar 27 2016,Friendly in Romania,Romania,Spain,1765,2002,0,0,4,-4,1769,1998,27,4,0,0,27,4,20,100,-137
+136,Mar 27 2016,Friendly in the Solomon Islands,Solomon Islands,Papua New Guinea,1182,1046,1,2,-16,16,1166,1062,170,185,-2,0,168,185,20,100,236
+137,Mar 27 2016,Friendly in Thailand,Thailand,South Korea,1413,1789,0,1,-3,3,1410,1792,108,21,-1,0,107,21,20,100,-276
+138,Mar 28 2016,African Nations Cup qualifier in Central African Republic,Central African Republic,Madagascar,1259,1275,2,1,15,-15,1274,1260,127,152,9,-8,136,144,40,100,84
+139,Mar 28 2016,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Mali,1357,1544,0,1,-15,15,1342,1559,125,65,-4,4,121,69,40,100,-87
+140,Mar 28 2016,Friendly in Spain,Faroe Islands,Liechtenstein,1232,1203,3,2,9,-9,1241,1194,147,163,3,-1,150,162,20,0,29
+141,Mar 28 2016,African Nations Cup qualifier in Algeria,Libya,São Tomé and Príncipe,1465,1120,4,0,9,-9,1474,1111,92,183,1,-3,93,180,40,0,345
+142,Mar 28 2016,Friendly in Malta,Moldova,Andorra,1351,954,1,0,2,-2,1353,952,116,195,1,0,117,195,20,0,397
+143,Mar 28 2016,Friendly in Northern Ireland,Northern Ireland,Slovenia,1599,1622,1,0,8,-8,1607,1614,54,58,3,-2,57,56,20,100,77
+144,Mar 28 2016,Friendly in Sierra Leone,Sierra Leone,Gabon,1329,1486,1,0,12,-12,1341,1474,119,96,3,-3,122,93,20,100,-57
+145,Mar 28 2016,Friendly in Ukraine,Ukraine,Wales,1818,1668,1,0,4,-4,1822,1664,16,44,0,0,16,44,20,100,250
+146,Mar 28 2016,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Swaziland,1360,1263,4,0,18,-18,1378,1245,114,156,1,-7,115,149,40,100,197
+147,Mar 29 2016,World Cup & Asian Cup qual in Iran,Afghanistan,Singapore,1123,1189,2,1,24,-24,1147,1165,166,174,5,-5,171,169,40,0,-66
+148,Mar 29 2016,African Nations Cup qualifier in Angola,Angola,DR Congo,1411,1517,0,2,-29,29,1382,1546,118,68,-6,6,112,74,40,100,-6
+149,Mar 29 2016,World Cup qualifier in Argentina,Argentina,Bolivia,2046,1616,2,0,3,-3,2049,1613,2,55,0,0,2,55,30,0,430
+150,Mar 29 2016,World Cup & Asian Cup qual in Australia,Australia,Jordan,1704,1545,5,1,14,-14,1718,1531,38,77,1,-2,39,75,40,100,259
+151,Mar 29 2016,Friendly in Austria,Austria,Turkey,1804,1811,1,2,-13,13,1791,1824,21,14,-1,2,20,16,20,100,93
+152,Mar 29 2016,World Cup & Asian Cup qual in China,China,Qatar,1549,1573,2,0,24,-24,1573,1549,62,79,5,-6,67,73,30,0,-24
+153,Mar 29 2016,World Cup qualifier in Colombia,Colombia,Ecuador,1962,1901,3,1,17,-17,1979,1884,3,16,2,-2,5,14,40,100,161
+154,Mar 29 2016,World Cup qualifier in Costa Rica,Costa Rica,Jamaica,1776,1590,3,0,11,-11,1787,1579,18,67,3,-3,21,64,40,100,286
+155,Mar 29 2016,CONCACAF Ch & Car Ch q in Dominica,Dominica,Martinique,975,1446,1,4,-7,7,968,1453,193,98,-1,1,192,99,40,100,-371
+156,Mar 29 2016,CONCACAF Ch & Car Ch q in the Dominican Republic,Dominican Republic,Barbados,1147,1158,2,0,22,-22,1169,1136,164,179,3,-5,167,174,40,100,89
+157,Mar 29 2016,African Nations Cup qualifier in Egypt,Egypt,Nigeria,1623,1630,1,0,15,-15,1638,1615,43,54,5,-2,48,52,30,0,-7
+158,Mar 29 2016,Friendly in England,England,Netherlands,1974,1887,1,2,-15,15,1959,1902,13,12,-4,1,9,13,20,100,187
+159,Mar 29 2016,Friendly in Estonia,Estonia,Serbia,1501,1709,0,1,-7,7,1494,1716,89,41,-1,-1,88,40,20,100,-108
+160,Mar 29 2016,African Nations Cup qualifier in Ethiopia,Ethiopia,Algeria,1267,1671,3,3,14,-14,1281,1657,133,50,4,-4,137,46,40,100,-304
+161,Mar 29 2016,Friendly in France,France,Russia,1965,1776,4,2,5,-5,1970,1771,6,26,0,-1,6,25,20,100,289
+162,Mar 29 2016,CONCACAF Ch & Car Ch q in French Guiana,French Guiana,Cuba,1269,1344,3,0,32,-32,1301,1312,122,138,9,-9,131,129,30,0,-75
+163,Mar 29 2016,African Nations Cup qualifier in The Gambia,Gambia,Mauritania,1309,1270,0,0,-8,8,1301,1278,133,137,-2,1,131,138,40,100,139
+164,Mar 29 2016,Friendly in Georgia,Georgia,Kazakhstan,1480,1399,1,1,-5,5,1475,1404,91,107,0,1,91,108,20,100,181
+165,Mar 29 2016,Friendly in Germany,Germany,Italy,2054,1872,4,1,6,-6,2060,1866,1,15,0,0,1,15,20,100,282
+166,Mar 29 2016,Friendly in Gibraltar,Gibraltar,Latvia,1119,1457,0,5,-8,8,1111,1465,177,93,0,2,177,95,20,100,-238
+167,Mar 29 2016,Friendly in Greece,Greece,Iceland,1617,1661,2,3,-12,12,1605,1673,66,41,-6,2,60,43,20,100,56
+168,Mar 29 2016,World Cup qualifier in Honduras,Honduras,El Salvador,1508,1460,2,0,18,-18,1526,1442,67,105,9,-5,76,100,40,100,148
+169,Mar 29 2016,World Cup & Asian Cup qual in India,India,Turkmenistan,1080,1271,1,2,-15,15,1065,1286,184,135,-1,1,183,136,40,100,-91
+170,Mar 29 2016,World Cup & Asian Cup qual in Iran,Iran,Oman,1728,1476,2,0,7,-7,1735,1469,33,96,1,-2,34,94,40,100,352
+171,Mar 29 2016,World Cup & Asian Cup qual in Iran,Iraq,Vietnam,1492,1216,1,0,7,-7,1499,1209,86,160,1,-1,87,159,40,0,276
+172,Mar 29 2016,Friendly in Ireland,Ireland,Slovakia,1778,1736,2,2,-4,4,1774,1740,25,33,-1,0,24,33,20,100,142
+173,Mar 29 2016,World Cup & Asian Cup qual in Japan,Japan,Syria,1750,1527,5,0,11,-11,1761,1516,26,82,2,-3,28,79,40,100,323
+174,Mar 29 2016,World Cup & Asian Cup qual in Lebanon,Lebanon,Myanmar,1382,1028,1,1,-17,17,1365,1045,117,186,-2,0,115,186,40,100,454
+175,Mar 29 2016,African Nations Cup qualifier in Lesotho,Lesotho,Seychelles,1136,995,2,1,8,-8,1144,987,171,192,1,-2,172,190,40,100,241
+176,Mar 29 2016,African Nations Cup qualifier in Liberia,Liberia,Djibouti,1333,757,5,0,2,-2,1335,755,123,212,1,0,124,212,30,0,576
+177,Mar 29 2016,Friendly in Luxembourg,Luxembourg,Albania,1250,1606,0,2,-6,6,1244,1612,153,54,-3,2,150,56,20,100,-256
+178,Mar 29 2016,Friendly in Macedonia,Macedonia,Bulgaria,1436,1602,0,2,-12,12,1424,1614,103,47,-1,6,102,53,20,100,-66
+179,Mar 29 2016,African Nations Cup qualifier in Malawi,Malawi,Guinea,1328,1540,1,2,-14,14,1314,1554,130,70,-2,2,128,72,40,100,-112
+180,Mar 29 2016,Friendly in Malaysia,Malaysia,Macao,1115,612,0,0,-9,9,1106,621,179,227,0,0,179,227,20,0,503
+181,Mar 29 2016,World Cup & Asian Cup qual in the Maldives,Maldives,Bhutan,962,553,4,2,3,-3,965,550,192,234,1,0,193,234,20,0,409
+182,Mar 29 2016,World Cup qualifier in Mexico,Mexico,Canada,1919,1514,2,0,3,-3,1922,1511,9,79,1,1,10,80,20,0,405
+183,Mar 29 2016,Friendly in Montenegro,Montenegro,Belarus,1563,1578,0,0,-2,2,1561,1580,70,61,-1,2,69,63,20,100,85
+184,Mar 29 2016,African Nations Cup qualifier in Morocco,Morocco,Cape Verde,1556,1519,2,0,19,-19,1575,1500,59,93,6,-7,65,86,40,100,137
+185,Mar 29 2016,African Nations Cup qualifier in Namibia,Namibia,Burundi,1376,1311,1,3,-43,43,1333,1354,134,104,-9,12,125,116,40,100,165
+186,Mar 29 2016,African Nations Cup qualifier in Niger,Niger,Senegal,1285,1650,1,2,-7,7,1278,1657,141,45,-3,1,138,46,40,100,-265
+187,Mar 29 2016,Friendly in Norway,Norway,Finland,1625,1579,2,0,9,-9,1634,1570,48,72,2,-4,50,68,20,100,146
+188,Mar 29 2016,World Cup & Asian Cup qual in Palestine,Palestine,East Timor,1339,728,7,0,1,-1,1340,727,121,215,1,0,122,215,20,0,611
+189,Mar 29 2016,World Cup qualifier in Panama,Panama,Haiti,1669,1509,1,0,7,-7,1676,1502,41,84,1,0,42,84,40,100,260
+190,Mar 29 2016,World Cup qualifier in Paraguay,Paraguay,Brazil,1742,2028,2,2,10,-10,1752,2018,31,3,0,0,31,3,30,0,-286
+191,Mar 29 2016,World Cup & Asian Cup qual in the Philippines,Philippines,North Korea,1234,1532,3,2,30,-30,1264,1502,134,93,9,-9,143,84,40,100,-198
+192,Mar 29 2016,Friendly in Portugal,Portugal,Belgium,1901,1929,2,1,8,-8,1909,1921,12,12,0,-1,12,11,20,100,72
+193,Mar 29 2016,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,Guyana,1070,1236,0,1,-16,16,1054,1252,186,145,-1,3,185,148,40,100,-66
+194,Mar 29 2016,African Nations Cup qualifier in Rwanda,Rwanda,Mauritius,1309,1117,5,0,13,-13,1322,1104,125,182,2,-2,127,180,40,100,292
+195,Mar 29 2016,Friendly in Scotland,Scotland,Denmark,1714,1733,1,0,8,-8,1722,1725,38,38,0,-2,38,36,20,100,81
+196,Mar 29 2016,African Nations Cup qualifier in South Africa,South Africa,Cameroon,1590,1602,0,0,-5,5,1585,1607,63,57,-1,1,62,58,40,100,88
+197,Mar 29 2016,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1259,1247,1,0,14,-14,1273,1233,137,158,4,-5,141,153,30,0,12
+198,Mar 29 2016,African Nations Cup qualifier in Sudan,Sudan,Ivory Coast,1287,1738,1,1,15,-15,1302,1723,126,42,4,-5,130,37,40,100,-351
+199,Mar 29 2016,CONCACAF Ch & Car Ch q in Suriname,Suriname,Guadeloupe,1190,1308,3,2,21,-21,1211,1287,153,139,5,-4,158,135,40,100,-18
+200,Mar 29 2016,Friendly in Sweden,Sweden,Czechia,1764,1752,1,1,-3,3,1761,1755,28,31,0,-1,28,30,20,100,112
+201,Mar 29 2016,Friendly in Switzerland,Switzerland,Bosnia and Herzegovina,1802,1726,0,2,-22,22,1780,1748,26,28,-3,4,23,32,20,100,176
+202,Mar 29 2016,World Cup & Asian Cup qual in Tajikistan,Tajikistan,Kyrgyzstan,1227,1181,0,1,-28,28,1199,1209,169,152,-7,7,162,159,40,100,146
+203,Mar 29 2016,African Nations Cup qualifier in Togo,Togo,Tunisia,1395,1559,0,0,4,-4,1399,1555,107,73,2,-2,109,71,20,0,-164
+204,Mar 29 2016,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,St Vincent & Grenadines,1584,1146,6,0,4,-4,1588,1142,59,175,2,-2,61,173,40,100,538
+205,Mar 29 2016,World Cup & Asian Cup qual in the United Arab Emirates,United Arab Emirates,Saudi Arabia,1641,1514,1,1,-11,11,1630,1525,54,73,-3,4,51,77,40,100,227
+206,Mar 29 2016,African Nations Cup qualifier in Uganda,Uganda,Burkina Faso,1514,1450,0,0,-9,9,1505,1459,85,95,-2,2,83,97,40,100,164
+207,Mar 29 2016,World Cup qualifier in Uruguay,Uruguay,Peru,1957,1774,1,0,7,-7,1964,1767,8,28,0,-1,8,27,40,100,283
+208,Mar 29 2016,World Cup qualifier in the United States,United States,Guatemala,1722,1520,4,0,11,-11,1733,1509,33,84,2,-3,35,81,40,100,302
+209,Mar 29 2016,CONCACAF Ch & Car Ch q in the US Virgin Islands,US Virgin Islands,Grenada,741,1143,1,2,-6,6,735,1149,214,168,0,2,214,170,40,100,-302
+210,Mar 29 2016,World Cup & Asian Cup qual in Uzbekistan,Uzbekistan,Bahrain,1656,1430,1,0,5,-5,1661,1425,44,100,1,1,45,101,40,100,326
+211,Mar 29 2016,World Cup qualifier in Venezuela,Venezuela,Chile,1626,1953,1,4,-15,15,1611,1968,63,5,-6,2,57,7,40,100,-227
+212,Apr 27 2016,Friendly in Martinique,Martinique,Panama,1453,1676,0,2,-10,10,1443,1686,99,42,0,0,99,42,20,100,-123
+213,May 20 2016,Friendly in Hungary,Hungary,Ivory Coast,1700,1723,0,0,-2,2,1698,1725,41,35,0,1,41,36,20,100,77
+214,May 21 2016,Friendly in Botswana,Botswana,Lesotho,1300,1144,2,1,4,-4,1304,1140,127,174,3,-1,130,173,20,100,256
+215,May 22 2016,Friendly in England,England,Turkey,1959,1824,2,1,4,-4,1963,1820,9,18,0,-1,9,17,20,100,235
+216,May 22 2016,Friendly in Puerto Rico,Puerto Rico,United States,1054,1733,1,3,-1,1,1053,1734,185,35,0,0,185,35,20,0,-679
+217,May 23 2016,Friendly in Peru,Peru,Trinidad and Tobago,1767,1588,4,0,6,-6,1773,1582,23,63,2,-1,25,62,20,100,279
+218,May 24 2016,Friendly in Panama,Panama,Venezuela,1686,1611,0,0,-5,5,1681,1616,42,47,0,5,42,52,20,100,175
+219,May 25 2016,Friendly in Italy,DR Congo,Romania,1546,1769,1,1,6,-6,1552,1763,72,27,1,0,73,27,20,0,-223
+220,May 25 2016,Friendly in Serbia,Serbia,Cyprus,1716,1423,2,1,2,-2,1718,1421,38,105,1,0,39,105,20,100,393
+221,May 25 2016,Friendly in the United States,United States,Ecuador,1734,1884,1,0,11,-11,1745,1873,31,14,2,0,33,14,20,100,-50
+222,May 26 2016,Friendly in Austria,Andorra,Azerbaijan,952,1408,0,0,9,-9,961,1399,195,109,0,-1,195,108,20,0,-456
+223,May 27 2016,Friendly in Argentina,Argentina,Honduras,2049,1526,1,0,1,-1,2050,1525,2,76,0,0,2,76,20,0,523
+224,May 27 2016,Friendly in Chile,Chile,Jamaica,1968,1579,1,2,-19,19,1949,1598,11,58,-2,3,9,61,20,100,489
+225,May 27 2016,Friendly in Costa Rica,Costa Rica,Venezuela,1787,1616,2,1,3,-3,1790,1613,21,60,0,-4,21,56,20,100,271
+226,May 27 2016,Friendly in Croatia,Croatia,Moldova,1817,1353,1,0,1,-1,1818,1352,18,117,0,0,18,117,20,0,464
+227,May 27 2016,Friendly in Austria,Czechia,Malta,1755,1234,6,0,2,-2,1757,1232,30,154,0,-1,30,153,20,0,521
+228,May 27 2016,Friendly in England,England,Australia,1963,1718,2,1,2,-2,1965,1716,7,41,1,-1,8,40,20,100,345
+229,May 27 2016,Friendly in Ireland,Ireland,Netherlands,1774,1902,1,1,1,-1,1775,1901,24,13,0,0,24,13,20,100,-28
+230,May 27 2016,Friendly in Lesotho,Lesotho,Swaziland,1140,1245,0,2,-15,15,1125,1260,179,143,-3,3,176,146,20,100,-5
+231,May 27 2016,Friendly in Morocco,Morocco,Congo,1575,1489,2,0,8,-8,1583,1481,61,91,2,-1,63,90,20,100,186
+232,May 27 2016,Friendly in France,Nigeria,Mali,1615,1559,1,0,8,-8,1623,1551,51,76,1,-3,52,73,20,0,56
+233,May 27 2016,Friendly in Northern Ireland,Northern Ireland,Belarus,1607,1580,3,0,11,-11,1618,1569,48,73,5,-5,53,68,20,100,127
+234,May 27 2016,Friendly in Austria,Slovakia,Georgia,1740,1475,3,1,5,-5,1745,1470,32,95,1,-2,33,93,20,0,265
+235,May 27 2016,Friendly in Togo,Togo,Zambia,1399,1508,1,0,10,-10,1409,1498,106,92,1,-5,107,87,20,100,-9
+236,May 27 2016,Friendly in Uruguay,Uruguay,Trinidad and Tobago,1964,1582,3,1,2,-2,1966,1580,6,66,1,-2,7,64,20,100,482
+237,May 28 2016,Friendly in the United States,Armenia,Guatemala,1485,1509,7,1,23,-23,1508,1486,73,97,8,-8,81,89,20,0,-24
+238,May 28 2016,Friendly in Spain,Mauritania,Gabon,1278,1474,2,0,23,-23,1301,1451,126,105,6,-7,132,98,20,0,-196
+239,May 28 2016,Friendly in the United States,Mexico,Paraguay,1922,1752,1,0,5,-5,1927,1747,12,35,-1,-2,11,33,20,0,170
+240,May 28 2016,Friendly in Myanmar,Myanmar,Malaysia,1045,1106,0,0,-1,1,1044,1107,186,179,0,0,186,179,20,100,39
+241,May 28 2016,WC q & Oce Cup in Papua New Guinea,New Zealand,Fiji,1521,1271,3,1,14,-14,1535,1257,72,152,3,-5,75,147,50,0,250
+242,May 28 2016,Friendly in the United States,Peru,El Salvador,1773,1442,3,1,4,-4,1777,1438,21,100,2,0,23,100,20,0,331
+243,May 28 2016,Friendly in Rwanda,Rwanda,Senegal,1322,1657,0,2,-6,6,1316,1663,127,44,0,1,127,45,20,100,-235
+244,May 28 2016,WC q & Oce Cup in Papua New Guinea,Solomon Islands,Vanuatu,1166,1196,1,0,27,-27,1193,1169,160,171,4,-4,164,167,50,0,-30
+245,May 28 2016,Friendly in Switzerland,Switzerland,Belgium,1780,1921,1,2,-9,9,1771,1930,27,9,-2,1,25,10,20,100,-41
+246,May 28 2016,Friendly in the United States,United States,Bolivia,1745,1613,4,0,8,-8,1753,1605,29,62,2,-3,31,59,20,100,232
+247,May 29 2016,Friendly in Austria,Albania,Qatar,1612,1549,3,1,12,-12,1624,1537,47,74,5,0,52,74,20,0,63
+248,May 29 2016,Friendly in the United States,Brazil,Panama,2018,1681,2,0,4,-4,2022,1677,3,42,0,0,3,42,20,0,337
+249,May 29 2016,Friendly in Cambodia,Cambodia,East Timor,723,727,2,0,11,-11,734,716,213,219,2,-2,215,217,20,100,96
+250,May 29 2016,Friendly in the United States,Colombia,Haiti,1979,1502,3,1,2,-2,1981,1500,5,85,0,-1,5,84,20,0,477
+251,May 29 2016,Friendly in Germany,Germany,Slovakia,2060,1745,1,3,-27,27,2033,1772,3,16,-1,9,2,25,20,100,415
+252,May 29 2016,Friendly in Malta,Italy,Scotland,1866,1722,1,0,6,-6,1872,1716,15,40,0,-1,15,39,20,0,144
+253,May 29 2016,Friendly in Kenya,Kenya,Tanzania,1326,1345,1,1,-2,2,1324,1347,126,118,0,0,126,118,20,100,81
+254,May 29 2016,Friendly in Laos,Laos,Nepal,811,896,1,1,0,0,811,896,208,201,0,0,208,201,20,100,15
+255,May 29 2016,Baltic Cup in Lithuania,Lithuania,Estonia,1424,1494,2,0,21,-21,1445,1473,96,94,3,-3,99,91,30,100,30
+256,May 29 2016,Friendly in Austria,Macedonia,Azerbaijan,1424,1399,3,1,14,-14,1438,1385,100,113,1,-2,101,111,20,0,25
+257,May 29 2016,WC q & Oce Cup in Papua New Guinea,Papua New Guinea,New Caledonia,1062,1345,1,1,12,-12,1074,1333,182,130,1,-6,183,124,50,100,-183
+258,May 29 2016,Friendly in Portugal,Portugal,Norway,1909,1634,3,0,4,-4,1913,1630,12,50,0,0,12,50,20,100,375
+259,May 29 2016,Friendly in Switzerland,Spain,Bosnia and Herzegovina,1998,1748,3,1,6,-6,2004,1742,4,36,0,-2,4,34,20,0,250
+260,May 29 2016,WC q & Oce Cup in Papua New Guinea,Tahiti,Samoa,1226,707,4,0,4,-4,1230,703,155,218,0,0,155,218,40,0,519
+261,May 29 2016,Friendly in Turkey,Turkey,Montenegro,1820,1561,1,0,2,-2,1822,1559,17,69,0,0,17,69,20,100,359
+262,May 29 2016,Friendly in Italy,Ukraine,Romania,1822,1763,4,3,8,-8,1830,1755,16,35,0,-4,16,31,20,0,59
+263,May 30 2016,Friendly in France,France,Cameroon,1970,1607,3,2,1,-1,1971,1606,6,58,0,0,6,58,20,100,463
+264,May 30 2016,Friendly in The Gambia,Gambia,Zambia,1301,1498,0,0,3,-3,1304,1495,128,87,2,0,130,87,20,100,-97
+265,May 30 2016,Friendly in Sweden,Sweden,Slovenia,1761,1614,0,0,-6,6,1755,1620,32,53,-2,1,30,54,20,100,247
+266,May 31 2016,Friendly in Austria,Austria,Malta,1791,1232,2,1,0,0,1791,1232,20,153,0,0,20,153,20,100,659
+267,May 31 2016,WC q & Oce Cup in Papua New Guinea,Fiji,Solomon Islands,1257,1193,1,0,20,-20,1277,1173,133,166,7,-1,140,165,50,0,64
+268,May 31 2016,Friendly in Ireland,Ireland,Belarus,1775,1569,1,2,-17,17,1758,1586,32,56,-4,6,28,62,20,100,306
+269,May 31 2016,Friendly in Kenya,Kenya,Sudan,1324,1302,1,1,-3,3,1321,1305,126,128,0,2,126,130,20,100,122
+270,May 31 2016,Friendly in Luxembourg,Luxembourg,Nigeria,1244,1623,1,3,-5,5,1239,1628,152,51,-1,1,151,52,20,100,-279
+271,May 31 2016,WC q & Oce Cup in Papua New Guinea,New Zealand,Vanuatu,1535,1169,5,0,11,-11,1546,1158,73,171,1,-2,74,169,50,0,366
+272,May 31 2016,Friendly in Serbia,Serbia,Israel,1718,1575,3,1,6,-6,1724,1569,38,71,0,-3,38,68,20,100,243
+273,May 31 2016,Friendly in Vietnam,Vietnam,Syria,1209,1516,2,0,23,-23,1232,1493,147,93,6,-7,153,86,20,100,-207
+274,May 31 2016,Friendly in Zimbabwe,Zimbabwe,Uganda,1378,1505,2,0,16,-16,1394,1489,106,92,4,-5,110,87,20,100,-27
+275,Jun 1 2016,Friendly in the United States,Armenia,El Salvador,1508,1438,4,0,15,-15,1523,1423,78,107,1,-3,79,104,20,0,70
+276,Jun 1 2016,Friendly in Belgium,Belgium,Finland,1930,1570,1,1,-9,9,1921,1579,12,65,-1,1,11,66,20,100,460
+277,Jun 1 2016,CONCACAF Ch & Car Ch q in Curaçao,Curaçao,Guyana,1126,1252,5,2,38,-38,1164,1214,163,167,6,-9,169,158,40,100,-26
+278,Jun 1 2016,Friendly in Austria,Czechia,Russia,1757,1771,2,1,10,-10,1767,1761,23,29,3,-2,26,27,20,0,-14
+279,Jun 1 2016,Friendly in Estonia,Estonia,Andorra,1473,961,2,0,1,-1,1474,960,91,195,0,0,91,195,20,0,512
+280,Jun 1 2016,CONCACAF Ch & Car Ch q in French Guiana,French Guiana,Bermuda,1301,1232,0,1,-29,29,1272,1261,151,139,-9,7,142,146,40,100,169
+281,Jun 1 2016,CONCACAF Ch & Car Ch q in Grenada,Grenada,Puerto Rico,1149,1053,3,3,-10,10,1139,1063,176,185,-3,0,173,185,40,100,196
+282,Jun 1 2016,Friendly in the United States,Guatemala,Venezuela,1486,1613,1,1,4,-4,1490,1609,86,57,1,0,87,57,20,0,-127
+283,Jun 1 2016,Baltic Cup in Latvia,Latvia,Lithuania,1465,1445,2,1,10,-10,1475,1435,86,103,4,-2,90,101,30,100,120
+284,Jun 1 2016,CONCACAF Ch & Car Ch q in Martinique,Martinique,Guadeloupe,1443,1287,2,0,11,-11,1454,1276,96,144,2,-4,98,140,40,100,256
+285,Jun 1 2016,Friendly in the United States,Mexico,Chile,1927,1949,1,0,11,-11,1938,1938,7,9,2,0,9,9,20,0,-22
+286,Jun 1 2016,WC q & Oce Cup in Papua New Guinea,New Caledonia,Samoa,1333,703,7,0,3,-3,1336,700,122,220,1,-1,123,219,50,0,630
+287,Jun 1 2016,Friendly in Norway,Norway,Iceland,1630,1673,3,2,8,-8,1638,1665,46,43,2,0,48,43,20,100,57
+288,Jun 1 2016,WC q & Oce Cup in Papua New Guinea,Papua New Guinea,Tahiti,1074,1230,2,2,4,-4,1078,1226,181,154,1,1,182,155,20,0,-156
+289,Jun 1 2016,Friendly in Poland,Poland,Netherlands,1785,1901,1,2,-10,10,1775,1911,24,13,-1,0,23,13,20,100,-16
+290,Jun 1 2016,Friendly in Austria,Spain,South Korea,2004,1792,6,1,9,-9,2013,1783,4,23,0,-2,4,21,20,0,212
+291,Jun 1 2016,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Suriname,1273,1211,1,0,11,-11,1284,1200,130,163,6,-2,136,161,40,100,162
+292,Jun 2 2016,Friendly in England,England,Portugal,1965,1913,1,0,6,-6,1971,1907,4,14,2,-1,6,13,20,100,152
+293,Jun 2 2016,Asian Cup qualifier in Laos,Laos,India,811,1065,0,1,-12,12,799,1077,208,184,0,0,208,184,40,100,-154
+294,Jun 2 2016,Friendly in Macedonia,Macedonia,Iran,1438,1735,1,3,-7,7,1431,1742,102,33,-1,1,101,34,20,100,-197
+295,Jun 2 2016,Asian Cup qualifier in Malaysia,Malaysia,East Timor,1107,716,3,0,4,-4,1111,712,175,217,2,0,177,217,40,100,491
+296,Jun 2 2016,Asian Cup qualifier in the Maldives,Maldives,Yemen,965,1172,0,2,-21,21,944,1193,201,162,-4,2,197,164,40,100,-107
+297,Jun 2 2016,African Nations Cup qualifier in the Seychelles,Seychelles,Algeria,987,1657,0,2,-2,2,985,1659,190,47,0,0,190,47,30,100,-570
+298,Jun 2 2016,World Football Cup in Georgia,Somaliland,Chagos Islands,992,808,3,2,10,-10,1002,798,186,209,1,0,187,209,40,0,184
+299,Jun 2 2016,Asian Cup qualifier in Taiwan,Taiwan,Cambodia,789,734,2,2,-8,8,781,742,210,213,0,1,210,214,40,100,155
+300,Jun 2 2016,Asian Cup qualifier in Tajikistan,Tajikistan,Bangladesh,1199,893,5,0,7,-7,1206,886,160,202,1,0,161,202,40,100,406
+301,Jun 3 2016,Friendly in Austria,Azerbaijan,Canada,1385,1511,1,1,3,-3,1388,1508,112,80,0,0,112,80,20,0,-126
+302,Jun 3 2016,Friendly tournament in Japan,Bosnia and Herzegovina,Denmark,1742,1725,2,2,-1,1,1741,1726,34,36,0,0,34,36,30,0,17
+303,Jun 3 2016,Friendly in China,China,Trinidad and Tobago,1573,1580,4,2,11,-11,1584,1569,61,69,3,-2,64,67,20,100,93
+304,Jun 3 2016,African Nations Cup qualifier in Djibouti,Djibouti,Tunisia,755,1555,0,3,-1,1,754,1556,212,72,0,-1,212,71,20,100,-700
+305,Jun 3 2016,Friendly tournament in Myanmar,Hong Kong,Vietnam,1215,1232,2,2,1,-1,1216,1231,157,155,0,-1,157,154,30,0,-17
+306,Jun 3 2016,Friendly tournament in Japan,Japan,Bulgaria,1761,1614,7,2,12,-12,1773,1602,21,62,3,-3,24,59,20,0,147
+307,Jun 3 2016,King's Cup in Thailand,Jordan,United Arab Emirates,1531,1630,3,1,29,-29,1560,1601,62,69,7,-9,69,60,30,0,-99
+308,Jun 3 2016,Friendly in Germany,Kosovo,Faroe Islands,1390,1241,2,0,9,-9,1399,1232,107,154,2,-2,109,152,20,0,149
+309,Jun 3 2016,African Nations Cup qualifier in Tunisia,Libya,Morocco,1474,1583,1,1,6,-6,1480,1577,89,68,1,-2,90,66,40,0,-109
+310,Jun 3 2016,African Nations Cup qualifier in Mauritania,Mauritania,Cameroon,1301,1606,0,1,-9,9,1292,1615,133,52,0,3,133,55,40,100,-205
+311,Jun 3 2016,Friendly tournament in Myanmar,Myanmar,Singapore,1044,1165,0,1,-14,14,1030,1179,186,164,0,2,186,166,30,100,-21
+312,Jun 3 2016,Friendly in Romania,Romania,Georgia,1755,1470,5,1,4,-4,1759,1466,28,95,1,-1,29,94,20,100,385
+313,Jun 3 2016,Friendly in Switzerland,Switzerland,Moldova,1771,1352,2,1,1,-1,1772,1351,25,117,0,0,25,117,20,100,519
+314,Jun 3 2016,King's Cup in Thailand,Thailand,Syria,1410,1493,2,2,-1,1,1409,1494,106,86,0,0,106,86,30,100,17
+315,Jun 3 2016,Friendly in Italy,Ukraine,Albania,1830,1624,3,1,7,-7,1837,1617,16,55,0,-1,16,54,20,0,206
+316,Jun 3 2016,Copa América in the United States,United States,Colombia,1753,1981,0,2,-24,24,1729,2005,38,5,-3,0,35,5,50,100,-128
+317,Jun 4 2016,Friendly in Australia,Australia,Greece,1716,1605,1,0,5,-5,1721,1600,39,65,0,-4,39,61,20,100,211
+318,Jun 4 2016,Friendly in Austria,Austria,Netherlands,1791,1911,0,2,-14,14,1777,1925,25,10,-3,1,22,11,20,100,-20
+319,Jun 4 2016,CONCACAF Ch & Car Ch q in Bermuda,Bermuda,Dominican Republic,1261,1169,0,1,-30,30,1231,1199,158,158,-6,5,152,163,40,100,192
+320,Jun 4 2016,African Nations Cup qualifier in Botswana,Botswana,Uganda,1304,1489,1,2,-15,15,1289,1504,137,76,-3,6,134,82,40,100,-85
+321,Jun 4 2016,Copa América in the United States,Brazil,Ecuador,2022,1873,0,0,-10,10,2012,1883,5,14,-1,0,4,14,50,0,149
+322,Jun 4 2016,African Nations Cup qualifier in Burundi,Burundi,Senegal,1354,1663,0,2,-14,14,1340,1677,126,39,-5,3,121,42,40,100,-209
+323,Jun 4 2016,Copa América in the United States,Costa Rica,Paraguay,1790,1747,0,0,-3,3,1787,1750,18,32,1,0,19,32,50,0,43
+324,Jun 4 2016,Friendly in Croatia,Croatia,San Marino,1818,883,10,0,0,0,1818,883,18,204,0,0,18,204,20,0,935
+325,Jun 4 2016,Baltic Cup in Estonia,Estonia,Latvia,1474,1475,0,0,-4,4,1470,1479,90,89,1,1,91,90,30,100,99
+326,Jun 4 2016,Friendly in France,France,Scotland,1971,1716,3,0,4,-4,1975,1712,6,41,0,-1,6,40,20,100,355
+327,Jun 4 2016,African Nations Cup qualifier in The Gambia,Gambia,South Africa,1304,1585,0,4,-20,20,1284,1605,141,51,-5,6,136,57,40,100,-181
+328,Jun 4 2016,Friendly in Germany,Germany,Hungary,2033,1698,2,0,2,-2,2035,1696,2,41,0,0,2,41,20,100,435
+329,Jun 4 2016,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Dominica,1276,968,2,1,3,-3,1279,965,138,192,1,0,139,192,20,0,308
+330,Jun 4 2016,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Zambia,1263,1495,3,2,27,-27,1290,1468,122,101,11,-8,133,93,40,100,-132
+331,Jun 4 2016,Friendly in Ivory Coast,Ivory Coast,Gabon,1725,1451,2,1,2,-2,1727,1449,35,99,1,0,36,99,20,100,374
+332,Jun 4 2016,African Nations Cup qualifier in Namibia,Namibia,Niger,1333,1278,1,0,12,-12,1345,1266,113,146,6,-4,119,142,40,100,155
+333,Jun 4 2016,WC q & Oce Cup in Papua New Guinea,New Zealand,Solomon Islands,1546,1173,1,0,5,-5,1551,1168,75,171,0,-2,75,169,50,0,373
+334,Jun 4 2016,Copa América in the United States,Peru,Haiti,1777,1500,1,0,8,-8,1785,1492,18,90,2,-4,20,86,50,0,277
+335,Jun 4 2016,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,Antigua and Barbuda,1063,1233,2,1,24,-24,1087,1209,179,167,3,-8,182,159,40,100,-70
+336,Jun 4 2016,African Nations Cup qualifier in Rwanda,Rwanda,Mozambique,1316,1337,2,3,-24,24,1292,1361,131,110,-2,6,129,116,40,100,79
+337,Jun 4 2016,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Cape Verde,1111,1500,1,2,-6,6,1105,1506,181,80,-2,1,179,81,40,100,-289
+338,Jun 4 2016,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Sudan,1341,1305,1,0,13,-13,1354,1292,114,128,3,1,117,129,30,0,36
+339,Jun 4 2016,Friendly in Slovakia,Slovakia,Northern Ireland,1772,1618,0,0,-6,6,1766,1624,29,51,-2,1,27,52,20,100,254
+340,Jun 4 2016,African Nations Cup qualifier in South Sudan,South Sudan,Mali,1135,1551,0,3,-10,10,1125,1561,175,64,0,5,175,69,40,100,-316
+341,Jun 4 2016,CONCACAF Ch & Car Ch q in Suriname,Suriname,St Vincent & Grenadines,1200,1142,2,1,11,-11,1211,1131,154,176,4,-2,158,174,40,100,158
+342,Jun 4 2016,African Nations Cup qualifier in Tanzania,Tanzania,Egypt,1347,1638,0,2,-15,15,1332,1653,132,48,-7,0,125,48,40,100,-191
+343,Jun 4 2016,CONCACAF Ch & Car Ch q in the US Virgin Islands,US Virgin Islands,Guyana,735,1214,0,7,-9,9,726,1223,215,152,0,3,215,155,40,100,-379
+344,Jun 4 2016,WC q & Oce Cup in Papua New Guinea,Vanuatu,Fiji,1158,1277,3,2,33,-33,1191,1244,162,157,4,-9,166,148,50,0,-119
+345,Jun 5 2016,Friendly in Belgium,Belgium,Norway,1921,1638,3,2,2,-2,1923,1636,12,51,0,-1,12,50,20,100,383
+346,Jun 5 2016,African Nations Cup qualifier in Central African Republic,Central African Republic,Angola,1274,1382,3,1,31,-31,1305,1351,116,121,12,-4,128,117,40,100,-8
+347,Jun 5 2016,African Nations Cup qualifier in the Comoros,Comoros,Burkina Faso,969,1459,0,1,-4,4,965,1463,191,92,0,2,191,94,40,100,-390
+348,Jun 5 2016,Friendly in Czechia,Czechia,South Korea,1767,1783,1,2,-12,12,1755,1795,36,17,-5,2,31,19,20,100,84
+349,Jun 5 2016,African Nations Cup qualifier in Kenya,Kenya,Congo,1321,1481,2,1,23,-23,1344,1458,114,104,6,-8,120,96,40,100,-60
+350,Jun 5 2016,African Nations Cup qualifier in Lesotho,Lesotho,Ethiopia,1125,1281,1,2,-17,17,1108,1298,181,120,-3,9,178,129,40,100,-56
+351,Jun 5 2016,African Nations Cup qualifier in Liberia,Liberia,Togo,1335,1409,2,2,-1,1,1334,1410,124,110,0,-2,124,108,20,100,26
+352,Jun 5 2016,African Nations Cup qualifier in Madagascar,Madagascar,DR Congo,1260,1552,1,6,-20,20,1240,1572,151,60,-3,7,148,67,40,100,-192
+353,Jun 5 2016,African Nations Cup qualifier in Mauritius,Mauritius,Ghana,1104,1638,0,2,-5,5,1099,1643,182,49,-1,0,181,49,40,100,-434
+354,Jun 5 2016,Copa América in the United States,Mexico,Uruguay,1938,1966,3,1,41,-41,1979,1925,3,12,3,-2,6,10,50,0,-28
+355,Jun 5 2016,WC q & Oce Cup in Papua New Guinea,New Caledonia,Tahiti,1336,1226,1,1,-8,8,1328,1234,129,146,-3,4,126,150,30,100,210
+356,Jun 5 2016,WC q & Oce Cup in Papua New Guinea,Papua New Guinea,Samoa,1078,700,8,0,7,-7,1085,693,183,221,0,-1,183,220,30,0,378
+357,Jun 5 2016,Friendly in Monaco,Russia,Serbia,1761,1724,1,1,-1,1,1760,1725,28,38,0,0,28,38,20,0,37
+358,Jun 5 2016,Friendly in Slovenia,Slovenia,Turkey,1620,1822,0,1,-7,7,1613,1829,59,17,-3,0,56,17,20,100,-102
+359,Jun 5 2016,African Nations Cup qualifier in Swaziland,Swaziland,Guinea,1260,1554,1,0,30,-30,1290,1524,125,83,10,-5,135,78,40,100,-194
+360,Jun 5 2016,Friendly in Sweden,Sweden,Wales,1755,1664,3,0,9,-9,1764,1655,23,49,4,-2,27,47,20,100,191
+361,Jun 5 2016,King's Cup in Thailand,Syria,United Arab Emirates,1494,1601,1,0,19,-19,1513,1582,75,66,5,-3,80,63,30,0,-107
+362,Jun 5 2016,King's Cup in Thailand,Thailand,Jordan,1409,1560,2,0,26,-26,1435,1534,94,80,6,-5,100,75,30,100,-51
+363,Jun 5 2016,Copa América in the United States,Venezuela,Jamaica,1609,1598,1,0,24,-24,1633,1574,46,70,5,-4,51,66,50,0,11
+364,Jun 5 2016,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Malawi,1394,1314,3,0,18,-18,1412,1296,103,133,4,-3,107,130,40,100,180
+365,Jun 6 2016,Copa América in the United States,Argentina,Chile,2050,1938,2,1,17,-17,2067,1921,1,15,0,-3,1,12,50,0,112
+366,Jun 6 2016,Friendly in Iceland,Iceland,Liechtenstein,1665,1194,4,0,1,-1,1666,1193,44,162,0,1,44,163,20,100,571
+367,Jun 6 2016,Friendly in Italy,Italy,Finland,1872,1579,2,0,3,-3,1875,1576,15,66,0,-1,15,65,20,100,393
+368,Jun 6 2016,Asian Cup qualifier in Malaysia,Malaysia,East Timor,1111,712,3,0,4,-4,1115,708,176,217,0,0,176,217,40,100,499
+369,Jun 6 2016,Friendly tournament in Myanmar,Myanmar,Hong Kong,1030,1216,3,0,33,-33,1063,1183,186,177,0,-10,186,167,30,100,-86
+370,Jun 6 2016,Copa América in the United States,Panama,Bolivia,1677,1605,2,1,20,-20,1697,1585,40,65,1,-4,41,61,50,0,72
+371,Jun 6 2016,Friendly in Poland,Poland,Lithuania,1775,1435,0,0,-9,9,1766,1444,27,100,-2,0,25,100,20,100,440
+372,Jun 6 2016,Friendly tournament in Myanmar,Vietnam,Singapore,1231,1179,3,0,22,-22,1253,1157,141,172,6,-2,147,170,30,0,52
+373,Jun 7 2016,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,Grenada,1209,1139,5,1,20,-20,1229,1119,152,176,3,-2,155,174,40,100,170
+374,Jun 7 2016,Friendly in Australia,Australia,Greece,1721,1600,1,2,-16,16,1705,1616,41,51,-1,4,40,55,20,100,221
+375,Jun 7 2016,Asian Cup qualifier in Bangladesh,Bangladesh,Tajikistan,886,1206,0,1,-9,9,877,1215,206,157,-2,2,204,159,40,100,-220
+376,Jun 7 2016,Asian Cup qualifier in Cambodia,Cambodia,Taiwan,742,781,2,0,25,-25,767,756,206,214,4,-2,210,212,30,0,-39
+377,Jun 7 2016,Friendly in Austria,Canada,Uzbekistan,1508,1661,2,1,14,-14,1522,1647,79,51,1,-3,80,48,20,0,-153
+378,Jun 7 2016,Friendly in China,China,Kazakhstan,1584,1404,0,1,-17,17,1567,1421,76,103,-7,3,69,106,20,100,280
+379,Jun 7 2016,Copa América in the United States,Colombia,Paraguay,2005,1750,2,1,9,-9,2014,1741,1,40,2,-4,3,36,50,0,255
+380,Jun 7 2016,CONCACAF Ch & Car Ch q in Curaçao,Curaçao,US Virgin Islands,1164,726,7,0,4,-4,1168,722,167,217,1,-1,168,216,40,100,538
+381,Jun 7 2016,Friendly tournament in Japan,Denmark,Bulgaria,1726,1602,4,0,18,-18,1744,1584,31,64,3,-3,34,61,30,0,124
+382,Jun 7 2016,CONCACAF Ch & Car Ch q in Dominica,Dominica,Martinique,965,1454,0,4,-7,7,958,1461,197,92,-3,3,194,95,40,100,-389
+383,Jun 7 2016,CONCACAF Ch & Car Ch q in the Dominican Republic,Dominican Republic,French Guiana,1199,1272,2,1,18,-18,1217,1254,154,150,4,-4,158,146,30,0,-73
+384,Jun 7 2016,Asian Cup qualifier in India,India,Laos,1077,799,6,1,8,-8,1085,791,181,210,2,-1,183,209,40,100,378
+385,Jun 7 2016,Friendly in Iran,Iran,Kyrgyzstan,1742,1209,6,0,1,-1,1743,1208,37,164,-2,-3,35,161,20,100,633
+386,Jun 7 2016,Friendly tournament in Japan,Japan,Bosnia and Herzegovina,1773,1741,1,2,-20,20,1753,1761,41,20,-9,7,32,27,30,100,132
+387,Jun 7 2016,Friendly in Spain,Spain,Georgia,2013,1466,0,1,-20,20,1993,1486,7,83,-2,5,5,88,20,100,647
+388,Jun 7 2016,CONCACAF Ch & Car Ch q in St Vincent & Grenadines,St Vincent & Grenadines,Saint Kitts and Nevis,1131,1284,0,1,-17,17,1114,1301,178,119,-2,10,176,129,40,100,-53
+389,Jun 7 2016,Copa América in the United States,United States,Costa Rica,1729,1787,4,0,41,-41,1770,1746,11,46,12,-13,23,33,50,100,42
+390,Jun 7 2016,Asian Cup qualifier in Qatar,Yemen,Maldives,1193,944,2,0,12,-12,1205,932,163,197,0,0,163,197,40,0,249
+391,Jun 8 2016,Copa América in the United States,Brazil,Haiti,2012,1492,7,1,5,-5,2017,1487,2,88,1,-1,3,87,50,0,520
+392,Jun 8 2016,Copa América in the United States,Ecuador,Peru,1883,1785,2,2,-7,7,1876,1792,14,20,0,0,14,20,50,0,98
+393,Jun 8 2016,Friendly in Namibia,Namibia,Malawi,1345,1296,0,0,-4,4,1341,1300,123,129,-2,1,121,130,20,100,149
+394,Jun 8 2016,Oceania Nations Cup in Papua New Guinea,New Zealand,New Caledonia,1551,1328,1,0,11,-11,1562,1317,67,126,3,0,70,126,50,0,223
+395,Jun 8 2016,Oceania Nations Cup in Papua New Guinea,Papua New Guinea,Solomon Islands,1085,1168,2,1,24,-24,1109,1144,173,174,5,-3,178,171,50,100,17
+396,Jun 8 2016,Friendly in Portugal,Portugal,Estonia,1907,1470,7,0,2,-2,1909,1468,13,93,0,-1,13,92,20,100,537
+397,Jun 9 2016,Copa América in the United States,Mexico,Jamaica,1979,1574,2,0,7,-7,1986,1567,6,71,0,-3,6,68,50,0,405
+398,Jun 9 2016,Copa América in the United States,Venezuela,Uruguay,1633,1925,1,0,42,-42,1675,1883,37,17,7,-4,44,13,50,0,-292
+399,Jun 10 2016,Copa América in the United States,Argentina,Panama,2067,1697,5,0,11,-11,2078,1686,1,43,0,-1,1,42,50,0,370
+400,Jun 10 2016,Copa América in the United States,Chile,Bolivia,1921,1585,2,1,6,-6,1927,1579,7,64,2,-2,9,62,50,0,336
+401,Jun 10 2016,European Championship in France,France,Romania,1975,1759,2,1,7,-7,1982,1752,7,35,0,-3,7,32,30,0,216
+402,Jun 11 2016,Copa América in the United States,Costa Rica,Colombia,1746,2014,3,2,41,-41,1787,1973,9,10,12,-3,21,7,50,0,-268
+403,Jun 11 2016,European Championship in France,England,Russia,1971,1760,1,1,-14,14,1957,1774,8,22,0,3,8,25,40,100,311
+404,Jun 11 2016,COSAFA Cup in Namibia,Madagascar,Seychelles,1240,985,1,0,7,-7,1247,978,147,190,1,0,148,190,40,0,255
+405,Jun 11 2016,Oceania Nations Cup in Papua New Guinea,Papua New Guinea,New Zealand,1109,1562,0,0,19,-19,1128,1543,168,76,5,-3,173,73,50,100,-353
+406,Jun 11 2016,COSAFA Cup in Namibia,Swaziland,Zimbabwe,1290,1412,2,2,7,-7,1297,1405,128,110,4,-1,132,109,40,0,-122
+407,Jun 11 2016,European Championship in France,Switzerland,Albania,1772,1617,1,0,15,-15,1787,1602,20,62,1,-4,21,58,50,0,155
+408,Jun 11 2016,Copa América in the United States,United States,Paraguay,1770,1741,1,0,16,-16,1786,1725,23,38,0,-1,23,37,50,100,129
+409,Jun 11 2016,European Championship in France,Wales,Slovakia,1655,1766,2,1,33,-33,1688,1733,37,46,5,-11,42,35,50,0,-111
+410,Jun 12 2016,African Nations Cup qualifier in Benin,Benin,Equatorial Guinea,1397,1342,2,1,12,-12,1409,1330,107,130,2,-5,109,125,40,100,155
+411,Jun 12 2016,European Championship in France,Croatia,Turkey,1818,1829,1,0,26,-26,1844,1803,14,21,2,-2,16,19,50,0,-11
+412,Jun 12 2016,Copa América in the United States,Ecuador,Haiti,1876,1487,4,0,9,-9,1885,1478,12,93,1,-3,13,90,50,0,389
+413,Jun 12 2016,European Championship in France,Germany,Ukraine,2035,1837,2,0,18,-18,2053,1819,2,20,0,-2,2,18,50,0,198
+414,Jun 12 2016,COSAFA Cup in Namibia,Lesotho,Mauritius,1108,1099,3,0,34,-34,1142,1065,165,188,7,-3,172,185,40,0,9
+415,Jun 12 2016,COSAFA Cup in Namibia,Malawi,Angola,1300,1351,3,0,40,-40,1340,1311,110,139,10,-11,120,128,40,0,-51
+416,Jun 12 2016,Copa América in the United States,Peru,Brazil,1792,2017,1,0,39,-39,1831,1978,14,9,3,-3,17,6,50,0,-225
+417,Jun 12 2016,European Championship in France,Poland,Northern Ireland,1766,1624,1,0,15,-15,1781,1609,22,59,2,-3,24,56,50,0,142
+418,Jun 13 2016,European Championship in France,Ireland,Sweden,1758,1764,1,1,0,0,1758,1764,29,27,0,0,29,27,20,0,-6
+419,Jun 13 2016,European Championship in France,Italy,Belgium,1875,1923,2,0,43,-43,1918,1880,7,19,4,-4,11,15,50,0,-48
+420,Jun 13 2016,COSAFA Cup in Namibia,Madagascar,Zimbabwe,1247,1405,0,0,9,-9,1256,1396,142,112,3,-1,145,111,40,0,-158
+421,Jun 13 2016,Copa América in the United States,Mexico,Venezuela,1986,1675,1,1,-18,18,1968,1693,10,39,-3,3,7,42,50,0,311
+422,Jun 13 2016,European Championship in France,Spain,Czechia,1993,1755,1,0,10,-10,2003,1745,3,34,0,-2,3,32,50,0,238
+423,Jun 13 2016,COSAFA Cup in Namibia,Swaziland,Seychelles,1297,978,4,0,10,-10,1307,968,126,190,3,0,129,190,40,0,319
+424,Jun 13 2016,Copa América in the United States,Uruguay,Jamaica,1883,1567,3,0,12,-12,1895,1555,12,76,1,-4,13,72,50,0,316
+425,Jun 14 2016,Copa América in the United States,Argentina,Bolivia,2078,1579,3,0,5,-5,2083,1574,1,66,0,-2,1,64,50,0,499
+426,Jun 14 2016,Copa América in the United States,Chile,Panama,1927,1686,4,2,15,-15,1942,1671,9,48,0,-2,9,46,50,0,241
+427,Jun 14 2016,European Championship in France,Hungary,Austria,1696,1777,2,0,46,-46,1742,1731,27,47,7,-11,34,36,50,0,-81
+428,Jun 14 2016,European Championship in France,Iceland,Portugal,1666,1909,1,1,15,-15,1681,1894,42,14,2,-1,44,13,50,0,-243
+429,Jun 14 2016,COSAFA Cup in Namibia,Lesotho,Angola,1142,1311,2,0,44,-44,1186,1267,162,154,5,-13,167,141,40,0,-169
+430,Jun 14 2016,COSAFA Cup in Namibia,Malawi,Mauritius,1340,1065,1,0,7,-7,1347,1058,116,187,2,-1,118,186,40,0,275
+431,Jun 15 2016,European Championship in France,France,Albania,1982,1602,2,0,4,-4,1986,1598,4,58,0,0,4,58,40,100,480
+432,Jun 15 2016,European Championship in France,Romania,Switzerland,1752,1787,1,1,3,-3,1755,1784,28,25,1,-2,29,23,50,0,-35
+433,Jun 15 2016,European Championship in France,Slovakia,Russia,1733,1774,2,1,28,-28,1761,1746,17,37,9,-6,26,31,50,0,-41
+434,Jun 15 2016,COSAFA Cup in Namibia,Swaziland,Madagascar,1307,1256,1,0,17,-17,1324,1239,124,153,2,-4,126,149,40,0,51
+435,Jun 15 2016,COSAFA Cup in Namibia,Zimbabwe,Seychelles,1396,968,5,0,6,-6,1402,962,109,194,1,-2,110,192,40,0,428
+436,Jun 16 2016,European Championship in France,England,Wales,1957,1688,2,1,9,-9,1966,1679,8,45,0,-1,8,44,50,0,269
+437,Jun 16 2016,European Championship in France,Germany,Poland,2053,1781,0,0,-16,16,2037,1797,2,16,0,4,2,20,40,100,372
+438,Jun 16 2016,COSAFA Cup in Namibia,Lesotho,Malawi,1186,1347,1,0,29,-29,1215,1318,151,134,8,-8,159,126,40,0,-161
+439,Jun 16 2016,COSAFA Cup in Namibia,Mauritius,Angola,1058,1267,2,0,46,-46,1104,1221,176,171,5,-15,181,156,40,0,-209
+440,Jun 16 2016,European Championship in France,Northern Ireland,Ukraine,1609,1819,2,0,58,-58,1667,1761,38,32,9,-7,47,25,50,0,-210
+441,Jun 16 2016,Copa América in the United States,United States,Ecuador,1786,1885,2,1,25,-25,1811,1860,14,16,4,-1,18,15,50,100,1
+442,Jun 17 2016,Copa América in the United States,Colombia,Peru,1973,1831,0,0,-10,10,1963,1841,10,15,-2,1,8,16,50,0,142
+443,Jun 17 2016,European Championship in France,Croatia,Czechia,1844,1745,2,2,-7,7,1837,1752,18,28,-1,2,17,30,50,0,99
+444,Jun 17 2016,European Championship in France,Italy,Sweden,1918,1764,1,0,15,-15,1933,1749,9,38,1,-7,10,31,50,0,154
+445,Jun 17 2016,Friendly in Papua New Guinea,Papua New Guinea,Malaysia,1128,1115,2,0,10,-10,1138,1105,172,181,1,-2,173,179,20,100,113
+446,Jun 17 2016,European Championship in France,Spain,Turkey,2003,1803,3,0,21,-21,2024,1782,3,27,0,-4,3,23,50,0,200
+447,Jun 18 2016,Copa América in the United States,Argentina,Venezuela,2083,1693,4,1,8,-8,2091,1685,1,42,0,0,1,42,50,0,390
+448,Jun 18 2016,European Championship in France,Austria,Portugal,1731,1894,0,0,11,-11,1742,1883,32,15,2,-1,34,14,50,0,-163
+449,Jun 18 2016,European Championship in France,Belgium,Ireland,1880,1758,3,0,29,-29,1909,1729,8,45,3,-9,11,36,50,0,122
+450,Jun 18 2016,Copa América in the United States,Chile,Mexico,1942,1968,7,0,60,-60,2002,1908,-1,18,5,-6,4,12,50,0,-26
+451,Jun 18 2016,European Championship in France,Hungary,Iceland,1742,1681,1,1,-4,4,1738,1685,35,41,0,1,35,42,20,100,161
+452,Jun 18 2016,COSAFA Cup in Namibia,Lesotho,South Africa,1215,1605,1,1,16,-16,1231,1589,147,59,6,-1,153,58,40,0,-390
+453,Jun 18 2016,COSAFA Cup in Namibia,Namibia,Botswana,1341,1289,1,1,-8,8,1333,1297,125,127,-3,5,122,132,40,100,152
+454,Jun 19 2016,European Championship in France,Albania,Romania,1598,1755,1,0,36,-36,1634,1719,49,51,4,-12,53,39,50,0,-157
+455,Jun 19 2016,COSAFA Cup in Namibia,DR Congo,Mozambique,1572,1361,1,0,9,-9,1581,1352,59,117,3,-1,62,116,40,0,211
+456,Jun 19 2016,European Championship in France,France,Switzerland,1986,1784,0,0,-18,18,1968,1802,7,16,-1,3,6,19,50,100,302
+457,Jun 19 2016,CONCACAF Ch & Car Ch q in French Guiana,French Guiana,Bermuda,1254,1231,3,0,23,-23,1277,1208,137,169,4,-8,141,161,40,100,123
+458,Jun 19 2016,COSAFA Cup in Namibia,Swaziland,Zambia,1324,1468,0,0,8,-8,1332,1460,121,98,2,-3,123,95,40,0,-144
+459,Jun 20 2016,European Championship in France,England,Slovakia,1966,1761,0,0,-13,13,1953,1774,9,24,-1,0,8,24,50,0,205
+460,Jun 20 2016,European Championship in France,Wales,Russia,1679,1746,3,0,52,-52,1731,1694,24,54,10,-12,34,42,50,0,-67
+461,Jun 21 2016,European Championship in France,Croatia,Spain,1837,2024,2,1,37,-37,1874,1987,13,5,2,-1,15,4,50,0,-187
+462,Jun 21 2016,European Championship in France,Germany,Northern Ireland,2037,1667,1,0,5,-5,2042,1662,2,47,0,0,2,47,50,0,370
+463,Jun 21 2016,COSAFA Cup in Namibia,Namibia,Mozambique,1333,1352,3,0,27,-27,1360,1325,108,134,7,-9,115,125,40,100,81
+464,Jun 21 2016,European Championship in France,Poland,Ukraine,1797,1761,1,0,22,-22,1819,1739,16,37,2,-6,18,31,50,0,36
+465,Jun 21 2016,European Championship in France,Turkey,Czechia,1782,1752,2,0,34,-34,1816,1718,15,50,4,-11,19,39,50,0,30
+466,Jun 21 2016,Copa América in the United States,United States,Argentina,1811,2091,0,4,-25,25,1786,2116,28,1,-5,0,23,1,50,100,-180
+467,Jun 21 2016,COSAFA Cup in Namibia,Zambia,Lesotho,1460,1231,3,2,8,-8,1468,1223,89,155,3,-1,92,154,40,0,229
+468,Jun 22 2016,European Championship in France,Belgium,Sweden,1909,1749,1,0,14,-14,1923,1735,9,37,1,-5,10,32,50,0,160
+469,Jun 22 2016,COSAFA Cup in Namibia,Botswana,DR Congo,1297,1581,0,0,13,-13,1310,1568,124,72,4,-5,128,67,40,0,-284
+470,Jun 22 2016,Copa América in the United States,Chile,Colombia,2002,1963,2,0,33,-33,2035,1930,3,9,0,-1,3,8,50,0,39
+471,Jun 22 2016,European Championship in France,Hungary,Portugal,1738,1883,3,3,10,-10,1748,1873,24,16,4,-1,28,15,50,0,-145
+472,Jun 22 2016,European Championship in France,Iceland,Austria,1685,1742,2,1,29,-29,1714,1713,35,50,4,-10,39,40,50,0,-57
+473,Jun 22 2016,European Championship in France,Ireland,Italy,1729,1933,1,0,38,-38,1767,1895,16,15,9,-3,25,12,50,0,-204
+474,Jun 22 2016,Friendly in New Caledonia,New Caledonia,Malaysia,1317,1105,1,2,-17,17,1300,1122,135,173,-4,3,131,176,20,100,312
+475,Jun 22 2016,COSAFA Cup in Namibia,South Africa,Swaziland,1589,1332,5,1,14,-14,1603,1318,58,128,0,-3,58,125,40,0,257
+476,Jun 24 2016,COSAFA Cup in Namibia,Namibia,Zambia,1360,1468,1,0,20,-20,1380,1448,113,106,1,-7,114,99,30,0,-108
+477,Jun 25 2016,European Championship in France,Poland,Switzerland,1819,1802,1,1,-1,1,1818,1803,18,20,0,0,18,20,30,0,17
+478,Jun 25 2016,European Championship in France,Portugal,Croatia,1873,1874,1,0,25,-25,1898,1849,9,18,3,-2,12,16,50,0,-1
+479,Jun 25 2016,COSAFA Cup in Namibia,South Africa,Botswana,1603,1310,3,2,6,-6,1609,1304,58,130,0,-1,58,129,40,0,293
+480,Jun 25 2016,COSAFA Cup in Namibia,Swaziland,DR Congo,1318,1568,1,0,32,-32,1350,1536,111,81,7,-7,118,74,40,0,-250
+481,Jun 25 2016,Copa América in the United States,United States,Colombia,1786,1930,0,1,-22,22,1764,1952,27,8,-2,0,25,8,50,100,-44
+482,Jun 25 2016,European Championship in France,Wales,Northern Ireland,1731,1662,1,0,20,-20,1751,1642,23,55,5,-4,28,51,50,0,69
+483,Jun 26 2016,Copa América in the United States,Argentina,Chile,2116,2035,0,0,-6,6,2110,2041,1,3,0,0,1,3,50,0,81
+484,Jun 26 2016,European Championship in France,Belgium,Hungary,1923,1748,4,0,25,-25,1948,1723,8,43,1,-7,9,36,50,0,175
+485,Jun 26 2016,Friendly in Fiji,Fiji,Malaysia,1244,1122,1,1,-6,6,1238,1128,151,174,-2,1,149,175,20,100,222
+486,Jun 26 2016,European Championship in France,France,Ireland,1968,1767,2,1,8,-8,1976,1759,6,26,0,-1,6,25,50,100,301
+487,Jun 26 2016,European Championship in France,Germany,Slovakia,2042,1774,3,0,15,-15,2057,1759,2,27,0,-2,2,25,50,0,268
+488,Jun 27 2016,European Championship in France,Iceland,England,1714,1953,2,1,40,-40,1754,1913,15,15,12,-4,27,11,50,0,-239
+489,Jun 27 2016,European Championship in France,Italy,Spain,1895,1987,2,0,47,-47,1942,1940,3,14,5,-5,8,9,50,0,-92
+490,Jun 30 2016,East Asian Championship qual in Guam,Macao,Mongolia,621,673,2,2,3,-3,624,670,227,224,0,0,227,224,40,0,-52
+491,Jun 30 2016,European Championship in France,Poland,Portugal,1818,1898,1,1,6,-6,1824,1892,18,15,0,-1,18,14,50,0,-80
+492,Jun 30 2016,East Asian Championship qual in Guam,Taiwan,Northern Mariana Islands,756,462,8,1,14,-14,770,448,208,238,2,0,210,238,40,0,294
+493,Jul 1 2016,European Championship in France,Wales,Belgium,1751,1948,3,1,57,-57,1808,1891,11,21,9,-7,20,14,50,0,-197
+494,Jul 2 2016,European Championship in France,Germany,Italy,2057,1942,1,1,-8,8,2049,1950,2,7,0,0,2,7,30,100,215
+495,Jul 2 2016,East Asian Championship qual in Guam,Macao,Northern Mariana Islands,624,448,3,1,16,-16,640,432,223,238,2,0,225,238,40,0,176
+496,Jul 2 2016,East Asian Championship qual in Guam,Taiwan,Mongolia,770,670,2,0,22,-22,792,648,208,224,1,0,209,224,40,0,100
+497,Jul 3 2016,European Championship in France,France,Iceland,1976,1754,5,2,12,-12,1988,1742,3,34,1,-3,4,31,50,100,322
+498,Jul 4 2016,East Asian Championship qual in Guam,Mongolia,Northern Mariana Islands,648,432,8,0,21,-21,669,411,224,238,0,0,224,238,40,0,216
+499,Jul 4 2016,East Asian Championship qual in Guam,Taiwan,Macao,792,640,3,2,12,-12,804,628,207,229,1,-2,208,227,40,0,152
+500,Jul 6 2016,European Championship in France,Portugal,Wales,1892,1808,2,0,29,-29,1921,1779,7,26,3,-3,10,23,50,0,84
+501,Jul 7 2016,European Championship in France,France,Germany,1988,2049,2,0,33,-33,2021,2016,2,6,1,-2,3,4,50,100,39
+502,Jul 10 2016,European Championship in France,France,Portugal,2021,1921,0,1,-38,38,1983,1959,5,2,-1,4,4,6,50,100,200
+503,Jul 24 2016,Friendly in Uzbekistan,Uzbekistan,Iraq,1647,1499,2,1,4,-4,1651,1495,49,85,0,0,49,85,20,100,248
+504,Jul 28 2016,Friendly in Cambodia,Cambodia,Singapore,767,1157,2,1,17,-17,784,1140,211,174,0,-2,211,172,20,100,-290
+505,Aug 8 2016,Friendly in Oman,Oman,Turkmenistan,1469,1286,1,0,3,-3,1472,1283,91,140,0,-1,91,139,20,100,283
+506,Aug 8 2016,Friendly in Qatar,Qatar,Iraq,1537,1495,2,1,6,-6,1543,1489,71,87,1,-1,72,86,20,100,142
+507,Aug 10 2016,Friendly in Panama,Panama,Guatemala,1671,1490,0,0,-7,7,1664,1497,46,85,0,0,46,85,20,100,281
+508,Aug 13 2016,Friendly in Bhutan,Bhutan,India,550,1085,0,3,-3,3,547,1088,234,182,0,1,234,183,20,100,-435
+509,Aug 16 2016,Friendly in Malaysia,North Korea,Iraq,1502,1489,1,0,10,-10,1512,1479,80,90,2,-2,82,88,20,0,13
+510,Aug 18 2016,Friendly in Switzerland,Qatar,Jordan,1543,1534,3,2,10,-10,1553,1524,72,79,0,-2,72,77,20,0,9
+511,Aug 21 2016,Friendly in Malaysia,Iraq,North Korea,1479,1512,1,1,1,-1,1480,1511,86,82,1,0,87,82,20,0,-33
+512,Aug 24 2016,Friendly in Honduras,Honduras,Nicaragua,1525,1262,1,0,2,-2,1527,1260,77,144,-1,0,76,144,20,100,363
+513,Aug 24 2016,Friendly in China,North Korea,United Arab Emirates,1511,1582,2,0,18,-18,1529,1564,68,73,7,-6,75,67,20,0,-71
+514,Aug 24 2016,Friendly in Qatar,Saudi Arabia,Laos,1525,791,4,0,1,-1,1526,790,79,210,-2,0,77,210,20,0,734
+515,Aug 24 2016,Friendly in Uzbekistan,Uzbekistan,Burkina Faso,1651,1463,1,0,3,-3,1654,1460,47,95,1,-1,48,94,20,100,288
+516,Aug 25 2016,Friendly in Qatar,Qatar,Thailand,1553,1435,3,0,8,-8,1561,1427,64,103,4,-1,68,102,20,100,218
+517,Aug 27 2016,Friendly in Tajikistan,Tajikistan,Syria,1215,1513,0,0,5,-5,1220,1508,155,82,2,0,157,82,20,100,-198
+518,Aug 28 2016,Friendly in the Dominican Republic,Dominican Republic,Puerto Rico,1217,1087,5,0,8,-8,1225,1079,149,184,5,0,154,184,20,100,230
+519,Aug 30 2016,Friendly in Egypt,Egypt,Guinea,1653,1524,1,1,-6,6,1647,1530,49,72,0,3,49,75,20,100,229
+520,Aug 30 2016,Friendly in Kyrgyzstan,Kyrgyzstan,Kazakhstan,1208,1421,2,0,20,-20,1228,1401,149,114,6,-4,155,110,20,100,-113
+521,Aug 30 2016,Friendly in Puerto Rico,Puerto Rico,Dominican Republic,1079,1225,0,1,-9,9,1070,1234,186,146,-1,4,185,150,20,100,-46
+522,Aug 30 2016,Friendly in Uganda,Uganda,Kenya,1504,1344,0,0,-6,6,1498,1350,84,117,0,1,84,118,20,100,260
+523,Aug 31 2016,Friendly in Albania,Albania,Morocco,1634,1577,0,0,-4,4,1630,1581,51,61,1,0,52,61,20,100,157
+524,Aug 31 2016,Friendly in Czechia,Czechia,Armenia,1718,1523,3,0,5,-5,1723,1518,35,82,2,-1,37,81,20,100,295
+525,Aug 31 2016,Friendly in Denmark,Denmark,Liechtenstein,1744,1193,5,0,1,-1,1745,1192,29,165,0,0,29,165,20,100,651
+526,Aug 31 2016,Friendly in Estonia,Estonia,Malta,1468,1232,1,1,-7,7,1461,1239,92,142,0,5,92,147,20,100,336
+527,Aug 31 2016,Friendly in Germany,Germany,Finland,2016,1576,2,0,1,-1,2017,1575,3,62,0,0,3,62,20,100,540
+528,Aug 31 2016,Friendly in Ireland,Ireland,Oman,1759,1472,4,0,4,-4,1763,1468,24,91,1,0,25,91,20,100,387
+529,Aug 31 2016,Friendly in Lebanon,Lebanon,Jordan,1365,1524,1,1,2,-2,1367,1522,115,79,0,0,115,79,20,100,-59
+530,Aug 31 2016,Friendly in Nicaragua,Nicaragua,Saint Kitts and Nevis,1260,1301,0,0,-2,2,1258,1303,144,130,0,0,144,130,20,100,59
+531,Aug 31 2016,Friendly in Norway,Norway,Belarus,1636,1586,0,1,-14,14,1622,1600,56,59,-2,0,54,59,20,100,150
+532,Aug 31 2016,Friendly in Turkey,Turkey,Russia,1816,1694,0,0,-6,6,1810,1700,19,43,0,0,19,43,20,100,222
+533,Sep 1 2016,World Cup qualifier in Argentina,Argentina,Uruguay,2110,1895,1,0,6,-6,2116,1889,1,13,0,0,1,13,40,100,315
+534,Sep 1 2016,World Cup qualifier in Australia,Australia,Iraq,1705,1480,2,0,8,-8,1713,1472,38,93,2,-3,40,90,40,100,325
+535,Sep 1 2016,Friendly in Bahrain,Bahrain,Singapore,1425,1140,3,1,3,-3,1428,1137,101,174,1,-1,102,173,20,100,385
+536,Sep 1 2016,Friendly in Belgium,Belgium,Spain,1891,1940,0,2,-17,17,1874,1957,14,7,0,1,14,8,20,100,51
+537,Sep 1 2016,World Cup qualifier in Bolivia,Bolivia,Peru,1574,1841,2,0,43,-43,1617,1798,49,25,7,-4,56,21,40,100,-167
+538,Sep 1 2016,World Cup qualifier in Colombia,Colombia,Venezuela,1952,1685,2,0,6,-6,1958,1679,7,44,0,0,7,44,40,100,367
+539,Sep 1 2016,World Cup qualifier in Ecuador,Ecuador,Brazil,1860,1978,0,3,-33,33,1827,2011,17,1,-1,2,16,3,40,100,-18
+540,Sep 1 2016,Friendly in Hong Kong,Hong Kong,Cambodia,1183,784,4,2,2,-2,1185,782,168,211,0,0,168,211,20,100,499
+541,Sep 1 2016,World Cup qualifier in Iran,Iran,Qatar,1743,1561,2,0,10,-10,1753,1551,28,76,1,-4,29,72,40,100,282
+542,Sep 1 2016,Friendly in Italy,Italy,France,1950,1983,1,3,-18,18,1932,2001,10,6,-1,-1,9,5,20,100,67
+543,Sep 1 2016,World Cup qualifier in Japan,Japan,United Arab Emirates,1753,1564,1,2,-34,34,1719,1598,48,55,-10,6,38,61,40,100,289
+544,Sep 1 2016,Friendly in the Maldives,Maldives,Bangladesh,932,877,5,0,12,-12,944,865,197,208,0,-2,197,206,20,100,155
+545,Sep 1 2016,Friendly in the Netherlands,Netherlands,Greece,1925,1616,1,2,-18,18,1907,1634,14,49,-2,3,12,52,20,100,409
+546,Sep 1 2016,World Cup qualifier in Paraguay,Paraguay,Chile,1725,2041,2,1,31,-31,1756,2010,21,6,7,-2,28,4,40,100,-216
+547,Sep 1 2016,Friendly in Portugal,Portugal,Gibraltar,1959,1111,5,0,0,0,1959,1111,6,179,0,0,6,179,20,0,848
+548,Sep 1 2016,World Cup qualifier in Saudi Arabia,Saudi Arabia,Thailand,1526,1427,1,0,10,-10,1536,1417,70,110,4,-4,74,106,40,100,199
+549,Sep 1 2016,World Cup qualifier in South Korea,South Korea,China,1795,1567,3,2,5,-5,1800,1562,19,68,1,-1,20,67,40,100,328
+550,Sep 1 2016,World Cup qualifier in Uzbekistan,Uzbekistan,Syria,1654,1508,1,0,8,-8,1662,1500,46,84,1,-1,47,83,40,100,246
+551,Sep 2 2016,World Cup qualifier in El Salvador,El Salvador,Mexico,1423,1908,1,3,-6,6,1417,1914,106,9,-1,1,105,10,40,100,-385
+552,Sep 2 2016,World Cup qualifier in Haiti,Haiti,Costa Rica,1478,1787,0,1,-9,9,1469,1796,91,22,-1,0,90,22,40,100,-209
+553,Sep 2 2016,World Cup qualifier in Honduras,Honduras,Canada,1527,1522,2,1,14,-14,1541,1508,68,83,5,-2,73,81,40,100,105
+554,Sep 2 2016,Friendly in Latvia,Latvia,Luxembourg,1479,1239,3,1,4,-4,1483,1235,86,153,1,-3,87,150,20,100,340
+555,Sep 2 2016,World Cup qualifier in Panama,Panama,Jamaica,1664,1555,2,0,14,-14,1678,1541,44,75,1,-2,45,73,40,100,209
+556,Sep 2 2016,African Nations Cup qualifier in South Africa,South Africa,Mauritania,1609,1292,1,1,-17,17,1592,1309,63,123,-2,5,61,128,40,100,417
+557,Sep 2 2016,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines,United States,1114,1764,0,6,-3,3,1111,1767,178,24,0,0,178,24,30,100,-550
+558,Sep 2 2016,Friendly in Sudan,Sudan,Gabon,1292,1449,1,2,-8,8,1284,1457,141,96,-4,1,137,97,20,100,-57
+559,Sep 2 2016,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Guatemala,1569,1497,2,2,-9,9,1560,1506,71,79,-3,3,68,82,40,100,172
+560,Sep 3 2016,African Nations Cup qualifier in Angola,Angola,Madagascar,1221,1239,1,1,-5,5,1216,1244,162,147,-2,0,160,147,40,100,82
+561,Sep 3 2016,African Nations Cup qualifier in Cameroon,Cameroon,Gambia,1615,1284,2,0,5,-5,1620,1279,55,141,1,-2,56,139,40,100,431
+562,Sep 3 2016,African Nations Cup qualifier in Cape Verde,Cape Verde,Libya,1506,1480,0,1,-27,27,1479,1507,94,76,-6,6,88,82,40,100,126
+563,Sep 3 2016,African Nations Cup qualifier in Ethiopia,Ethiopia,Seychelles,1298,962,2,1,3,-3,1301,959,133,194,0,-1,133,193,20,0,336
+564,Sep 3 2016,African Nations Cup qualifier in Ghana,Ghana,Rwanda,1643,1292,1,1,-17,17,1626,1309,58,122,-4,6,54,128,40,100,451
+565,Sep 3 2016,Friendly in India,India,Puerto Rico,1088,1070,4,1,12,-12,1100,1058,181,187,1,-1,182,186,20,100,118
+566,Sep 3 2016,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Sierra Leone,1727,1354,1,1,-18,18,1709,1372,50,114,-8,1,42,115,40,100,473
+567,Sep 3 2016,African Nations Cup qualifier in Mozambique,Mozambique,Mauritius,1325,1104,1,0,5,-5,1330,1099,121,185,2,-2,123,183,40,100,321
+568,Sep 3 2016,African Nations Cup qualifier in Nigeria,Nigeria,Tanzania,1628,1332,1,0,4,-4,1632,1328,50,127,2,-2,52,125,40,100,396
+569,Sep 3 2016,African Nations Cup qualifier in Senegal,Senegal,Namibia,1677,1380,2,0,6,-6,1683,1374,42,114,2,0,44,114,40,100,397
+570,Sep 4 2016,African Nations Cup qualifier in Algeria,Algeria,Lesotho,1659,1223,6,0,4,-4,1663,1219,46,160,1,-2,47,158,40,100,536
+571,Sep 4 2016,Friendly in Bahrain,Bahrain,Jordan,1428,1522,0,0,0,0,1428,1522,102,79,0,0,102,79,20,100,6
+572,Sep 4 2016,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Botswana,1460,1304,2,1,7,-7,1467,1297,90,135,2,-2,92,133,40,100,256
+573,Sep 4 2016,African Nations Cup qualifier in Congo,Congo,Guinea-Bissau,1458,1290,1,0,7,-7,1465,1283,90,140,3,-2,93,138,40,100,268
+574,Sep 4 2016,World Cup qualifier in Czechia,Czechia,Northern Ireland,1723,1642,0,0,-10,10,1713,1652,41,48,-3,1,38,49,40,100,181
+575,Sep 4 2016,World Cup qualifier in Denmark,Denmark,Armenia,1745,1518,1,0,5,-5,1750,1513,28,80,1,0,29,80,40,100,327
+576,Sep 4 2016,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Central African Republic,1536,1305,4,1,9,-9,1545,1296,69,138,3,-4,72,134,40,100,331
+577,Sep 4 2016,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,South Sudan,1330,1125,4,0,11,-11,1341,1114,115,178,4,-1,119,177,40,100,305
+578,Sep 4 2016,African Nations Cup qualifier in Guinea,Guinea,Zimbabwe,1530,1402,1,0,8,-8,1538,1394,75,113,1,-2,76,111,40,100,228
+579,Sep 4 2016,World Cup qualifier in Kazakhstan,Kazakhstan,Poland,1401,1824,2,2,15,-15,1416,1809,104,19,3,-1,107,18,40,100,-323
+580,Sep 4 2016,World Cup qualifier in Lithuania,Lithuania,Slovenia,1444,1613,2,2,4,-4,1448,1609,98,58,1,0,99,58,40,100,-69
+581,Sep 4 2016,African Nations Cup qualifier in Malawi,Malawi,Swaziland,1318,1350,1,0,16,-16,1334,1334,116,124,5,-3,121,121,30,0,-32
+582,Sep 4 2016,African Nations Cup qualifier in Mali,Mali,Benin,1561,1409,5,2,13,-13,1574,1396,63,112,2,-2,65,110,40,100,252
+583,Sep 4 2016,World Cup qualifier in Malta,Malta,Scotland,1239,1712,1,5,-8,8,1231,1720,158,31,-5,5,153,36,40,100,-373
+584,Sep 4 2016,African Nations Cup qualifier in Morocco,Morocco,São Tomé and Príncipe,1581,1105,2,0,2,-2,1583,1103,63,180,0,0,63,180,20,0,476
+585,Sep 4 2016,African Nations Cup qualifier in Niger,Niger,Burundi,1266,1340,3,1,28,-28,1294,1312,128,132,7,-6,135,126,40,100,26
+586,Sep 4 2016,World Cup qualifier in Norway,Norway,Germany,1622,2017,0,3,-11,11,1611,2028,59,2,-2,0,57,2,40,100,-295
+587,Sep 4 2016,World Cup qualifier in Romania,Romania,Montenegro,1719,1559,1,1,-13,13,1706,1572,47,63,-5,3,42,66,40,100,260
+588,Sep 4 2016,World Cup qualifier in San Marino,San Marino,Azerbaijan,883,1388,0,1,-4,4,879,1392,203,112,0,0,203,112,40,100,-405
+589,Sep 4 2016,World Cup qualifier in Slovakia,Slovakia,England,1759,1913,0,1,-17,17,1742,1930,33,9,-3,1,30,10,40,100,-54
+590,Sep 4 2016,African Nations Cup qualifier in Togo,Togo,Djibouti,1410,754,5,0,1,-1,1411,753,109,213,-1,0,108,213,20,0,656
+591,Sep 4 2016,African Nations Cup qualifier in Tunisia,Tunisia,Liberia,1556,1334,4,1,9,-9,1565,1325,66,128,2,-3,68,125,40,100,322
+592,Sep 4 2016,African Nations Cup qualifier in Uganda,Uganda,Comoros,1498,965,1,0,1,-1,1499,964,85,190,0,0,85,190,20,0,533
+593,Sep 4 2016,African Nations Cup qualifier in Zambia,Zambia,Kenya,1448,1350,1,1,-10,10,1438,1360,101,116,-1,1,100,117,40,100,198
+594,Sep 5 2016,World Cup qualifier in Croatia,Croatia,Turkey,1849,1810,1,1,-8,8,1841,1818,15,17,0,0,15,17,40,100,139
+595,Sep 5 2016,World Cup qualifier in Finland,Finland,Kosovo,1575,1399,1,1,-13,13,1562,1412,70,107,-3,1,67,108,40,100,276
+596,Sep 5 2016,World Cup qualifier in Georgia,Georgia,Austria,1486,1713,1,2,-13,13,1473,1726,90,30,-2,4,88,34,40,100,-127
+597,Sep 5 2016,World Cup qualifier in Israel,Israel,Italy,1569,1932,1,3,-11,11,1558,1943,73,9,-3,0,70,9,40,100,-263
+598,Sep 5 2016,Friendly in Lebanon,Lebanon,Afghanistan,1367,1147,2,0,4,-4,1371,1143,116,172,0,-1,116,171,20,100,320
+599,Sep 5 2016,World Cup qualifier in Serbia,Serbia,Ireland,1725,1763,2,2,-4,4,1721,1767,38,23,-2,1,36,24,40,100,62
+600,Sep 5 2016,World Cup qualifier in Spain,Spain,Liechtenstein,1957,1192,8,0,1,-1,1958,1191,6,165,1,0,7,165,20,0,765
+601,Sep 5 2016,World Cup qualifier in Ukraine,Ukraine,Iceland,1739,1742,1,1,-5,5,1734,1747,34,30,-1,0,33,30,40,100,97
+602,Sep 5 2016,World Cup qualifier in Wales,Wales,Moldova,1779,1351,4,0,3,-3,1782,1348,23,118,0,0,23,118,20,0,428
+603,Sep 6 2016,World Cup qualifier in Albania,Albania,Macedonia,1630,1431,2,1,6,-6,1636,1425,49,103,2,-1,51,102,40,100,299
+604,Sep 6 2016,World Cup qualifier in Andorra,Andorra,Latvia,960,1483,0,1,-3,3,957,1486,198,88,-3,-1,195,87,40,100,-423
+605,Sep 6 2016,Asian Cup qualifier in Bangladesh,Bangladesh,Bhutan,865,547,0,0,-17,17,848,564,206,230,0,2,206,232,40,100,418
+606,Sep 6 2016,World Cup qualifier in Belarus,Belarus,France,1600,2001,0,0,14,-14,1614,1987,55,5,2,0,57,5,40,100,-301
+607,Sep 6 2016,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Estonia,1761,1461,5,0,7,-7,1768,1454,24,100,1,-3,25,97,40,100,400
+608,Sep 6 2016,World Cup qualifier in Brazil,Brazil,Colombia,2011,1958,2,1,12,-12,2023,1946,3,7,0,0,3,7,40,100,153
+609,Sep 6 2016,World Cup qualifier in Bulgaria,Bulgaria,Luxembourg,1584,1235,4,3,3,-3,1587,1232,60,155,1,-3,61,152,40,100,449
+610,Sep 6 2016,Friendly in Cameroon,Cameroon,Gabon,1620,1457,2,1,4,-4,1624,1453,55,99,0,-1,55,98,20,100,263
+611,Sep 6 2016,World Cup qualifier in Canada,Canada,El Salvador,1508,1417,3,1,15,-15,1523,1402,75,113,3,-4,78,109,40,100,191
+612,Sep 6 2016,World Cup qualifier in Chile,Chile,Bolivia,2010,1617,0,0,-18,18,1992,1635,4,48,0,4,4,52,40,100,493
+613,Sep 6 2016,World Cup qualifier in China,China,Iran,1562,1753,0,0,5,-5,1567,1748,65,28,1,0,66,28,20,0,-191
+614,Sep 6 2016,World Cup qualifier in Costa Rica,Costa Rica,Panama,1796,1678,3,1,13,-13,1809,1665,18,48,2,-1,20,47,40,100,218
+615,Sep 6 2016,World Cup qualifier in Cyprus,Cyprus,Belgium,1421,1874,0,3,-8,8,1413,1882,106,14,-1,0,105,14,40,100,-353
+616,Sep 6 2016,World Cup qualifier in the Faroe Islands,Faroe Islands,Hungary,1232,1723,0,0,16,-16,1248,1707,142,47,5,-6,147,41,40,100,-391
+617,Sep 6 2016,World Cup qualifier in Portugal,Gibraltar,Greece,1111,1634,1,4,-3,3,1108,1637,178,49,0,1,178,50,20,100,-423
+618,Sep 6 2016,World Cup qualifier in Guatemala,Guatemala,St Vincent & Grenadines,1506,1111,9,3,5,-5,1511,1106,83,180,0,-1,83,179,40,100,495
+619,Sep 6 2016,Friendly in Indonesia,Indonesia,Malaysia,1208,1128,3,0,9,-9,1217,1119,156,175,3,0,159,175,20,100,180
+620,Sep 6 2016,World Cup qualifier in Malaysia,Iraq,Saudi Arabia,1472,1536,1,2,-16,16,1456,1552,101,65,-6,6,95,71,40,0,-64
+621,Sep 6 2016,World Cup qualifier in Jamaica,Jamaica,Haiti,1541,1469,0,2,-44,44,1497,1513,98,72,-12,9,86,81,40,100,172
+622,Sep 6 2016,Friendly in Kyrgyzstan,Kyrgyzstan,Philippines,1228,1264,1,2,-12,12,1216,1276,165,143,-5,0,160,143,20,100,64
+623,Sep 6 2016,Asian Cup qualifier in the Maldives,Maldives,Laos,944,790,4,0,14,-14,958,776,189,212,4,-1,193,211,40,100,254
+624,Sep 6 2016,World Cup qualifier in Mexico,Mexico,Honduras,1914,1541,0,0,-18,18,1896,1559,15,64,-2,5,13,69,40,100,473
+625,Sep 6 2016,Friendly in Palestine,Palestine,Tajikistan,1340,1220,1,1,-6,6,1334,1226,120,153,0,2,120,155,20,100,220
+626,Sep 6 2016,World Cup qualifier in Peru,Peru,Ecuador,1798,1827,2,1,16,-16,1814,1811,15,22,3,-3,18,19,30,0,-29
+627,Sep 6 2016,World Cup qualifier in Qatar,Qatar,Uzbekistan,1551,1662,0,1,-19,19,1532,1681,81,44,-5,2,76,46,40,100,-11
+628,Sep 6 2016,Friendly in Russia,Russia,Ghana,1700,1626,1,0,5,-5,1705,1621,43,58,0,-2,43,56,20,100,174
+629,Sep 6 2016,Friendly tournament in South Africa,South Africa,Egypt,1592,1647,1,0,13,-13,1605,1634,59,56,1,-3,60,53,30,100,45
+630,Sep 6 2016,World Cup qualifier in Sweden,Sweden,Netherlands,1735,1907,1,1,4,-4,1739,1903,32,12,0,0,32,12,40,100,-72
+631,Sep 6 2016,World Cup qualifier in Switzerland,Switzerland,Portugal,1803,1959,2,0,35,-35,1838,1924,13,14,3,-4,16,10,40,100,-56
+632,Sep 6 2016,World Cup qualifier in Malaysia,Syria,South Korea,1500,1800,0,0,14,-14,1514,1786,76,24,4,-2,80,22,40,0,-300
+633,Sep 6 2016,World Cup qualifier in Thailand,Thailand,Japan,1417,1719,0,2,-14,14,1403,1733,111,30,-3,4,108,34,40,100,-202
+634,Sep 6 2016,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Australia,1598,1713,0,1,-19,19,1579,1732,66,31,-3,4,63,35,40,100,-15
+635,Sep 6 2016,World Cup qualifier in Uruguay,Uruguay,Paraguay,1889,1756,4,0,16,-16,1905,1740,9,35,2,-4,11,31,40,100,233
+636,Sep 6 2016,World Cup qualifier in the United States,United States,Trinidad and Tobago,1767,1560,4,0,11,-11,1778,1549,24,75,0,-3,24,72,40,100,307
+637,Sep 6 2016,World Cup qualifier in Venezuela,Venezuela,Argentina,1679,2116,2,2,15,-15,1694,2101,43,1,1,0,44,1,40,100,-337
+638,Sep 29 2016,Friendly in Qatar,Qatar,Serbia,1532,1721,3,0,22,-22,1554,1699,66,49,5,-6,71,43,20,100,-89
+639,Sep 30 2016,Friendly in Botswana,Botswana,Angola,1297,1216,1,1,-5,5,1292,1221,137,154,-2,3,135,157,20,100,181
+640,Oct 4 2016,Friendly in the Dem Rep of the Congo,DR Congo,Kenya,1545,1360,0,1,-17,17,1528,1377,80,111,-3,3,77,114,20,100,285
+641,Oct 4 2016,Friendly in Togo,Togo,Uganda,1411,1499,1,0,10,-10,1421,1489,101,87,3,-1,104,86,20,100,12
+642,Oct 5 2016,CONCACAF Ch & Car Ch q in Curaçao,Curaçao,Antigua and Barbuda,1168,1229,3,0,31,-31,1199,1198,159,176,5,-11,164,165,30,0,-61
+643,Oct 5 2016,Friendly in the Solomon Islands,Solomon Islands,New Caledonia,1144,1300,0,3,-15,15,1129,1315,178,120,-4,6,174,126,20,100,-56
+644,Oct 5 2016,Friendly in Tajikistan,Tajikistan,Palestine,1226,1334,3,3,0,0,1226,1334,153,120,1,0,154,120,20,100,-8
+645,Oct 5 2016,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Dominican Republic,1549,1234,4,0,6,-6,1555,1228,69,156,2,-3,71,153,40,100,415
+646,Oct 6 2016,World Cup qualifier in Austria,Austria,Wales,1726,1782,2,2,-3,3,1723,1785,36,23,0,0,36,23,40,100,44
+647,Oct 6 2016,World Cup qualifier in Brazil,Brazil,Bolivia,2023,1635,5,0,5,-5,2028,1630,1,56,1,-2,2,54,40,100,488
+648,Oct 6 2016,Friendly in Cambodia,Cambodia,Hong Kong,782,1185,0,2,-4,4,778,1189,210,165,0,2,210,167,20,100,-303
+649,Oct 6 2016,Friendly in Morocco,Canada,Mauritania,1523,1309,4,0,8,-8,1531,1301,76,133,1,-2,77,131,20,0,214
+650,Oct 6 2016,World Cup qualifier in China,China,Syria,1567,1514,0,1,-28,28,1539,1542,84,68,-9,6,75,74,40,100,153
+651,Oct 6 2016,World Cup qualifier in Albania,Croatia,Kosovo,1841,1412,6,0,7,-7,1848,1405,17,107,-1,0,16,107,40,0,429
+652,Oct 6 2016,World Cup qualifier in Ecuador,Ecuador,Chile,1811,1992,3,0,43,-43,1854,1949,11,10,4,-3,15,7,40,100,-81
+653,Oct 6 2016,World Cup qualifier in Iceland,Iceland,Finland,1747,1562,3,2,6,-6,1753,1556,27,72,1,-2,28,70,40,100,285
+654,Oct 6 2016,World Cup qualifier in Ireland,Ireland,Georgia,1767,1473,1,0,4,-4,1771,1469,24,89,1,0,25,89,40,100,394
+655,Oct 6 2016,World Cup qualifier in Italy,Italy,Spain,1943,1958,1,1,-5,5,1938,1963,8,4,0,1,8,5,40,100,85
+656,Oct 6 2016,World Cup qualifier in Japan,Japan,Iraq,1733,1456,2,1,4,-4,1737,1452,32,101,1,-3,33,98,40,100,377
+657,Oct 6 2016,Friendly in Kyrgyzstan,Kyrgyzstan,Lebanon,1216,1371,0,0,2,-2,1218,1369,158,117,1,0,159,117,20,100,-55
+658,Oct 6 2016,World Cup qualifier in Liechtenstein,Liechtenstein,Albania,1191,1636,0,2,-7,7,1184,1643,172,49,-3,1,169,50,40,100,-345
+659,Oct 6 2016,World Cup qualifier in Macedonia,Macedonia,Israel,1425,1558,1,2,-18,18,1407,1576,110,58,-4,6,106,64,40,100,-33
+660,Oct 6 2016,World Cup qualifier in Moldova,Moldova,Serbia,1348,1699,0,3,-13,13,1335,1712,120,35,-1,4,119,39,40,100,-251
+661,Oct 6 2016,World Cup qualifier in Paraguay,Paraguay,Colombia,1740,1946,0,1,-14,14,1726,1960,39,5,-4,1,35,6,40,100,-106
+662,Oct 6 2016,World Cup qualifier in Peru,Peru,Argentina,1814,2101,2,2,10,-10,1824,2091,18,1,0,0,18,1,30,0,-287
+663,Oct 6 2016,World Cup qualifier in Saudi Arabia,Saudi Arabia,Australia,1552,1732,2,2,5,-5,1557,1727,65,33,4,1,69,34,20,0,-180
+664,Oct 6 2016,World Cup qualifier in South Korea,South Korea,Qatar,1786,1554,3,2,5,-5,1791,1549,22,72,0,0,22,72,40,100,332
+665,Oct 6 2016,World Cup qualifier in Turkey,Turkey,Ukraine,1818,1734,2,2,-10,10,1808,1744,25,27,-4,3,21,30,40,100,184
+666,Oct 6 2016,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Thailand,1579,1403,3,1,10,-10,1589,1393,59,114,2,-3,61,111,40,100,276
+667,Oct 6 2016,World Cup qualifier in Uruguay,Uruguay,Venezuela,1905,1694,3,0,10,-10,1915,1684,11,44,0,0,11,44,40,100,311
+668,Oct 6 2016,World Cup qualifier in Uzbekistan,Uzbekistan,Iran,1681,1748,0,1,-22,22,1659,1770,50,24,-2,2,48,26,40,100,33
+669,Oct 6 2016,Friendly in Vietnam,Vietnam,North Korea,1253,1529,5,2,26,-26,1279,1503,134,92,6,-8,140,84,20,100,-176
+670,Oct 7 2016,World Cup qualifier in Belgium,Belgium,Bosnia and Herzegovina,1882,1768,4,0,17,-17,1899,1751,12,29,1,-1,13,28,40,100,214
+671,Oct 7 2016,Friendly in Cuba,Cuba,United States,1312,1778,0,2,-3,3,1309,1781,129,24,-1,0,128,24,20,100,-366
+672,Oct 7 2016,World Cup qualifier in Estonia,Estonia,Gibraltar,1454,1108,4,0,5,-5,1459,1103,92,180,2,-1,94,179,20,0,346
+673,Oct 7 2016,World Cup qualifier in France,France,Bulgaria,1987,1587,4,1,4,-4,1991,1583,4,62,0,0,4,62,40,100,500
+674,Oct 7 2016,World Cup qualifier in Ghana,Ghana,Uganda,1621,1489,0,0,-12,12,1609,1501,58,84,-1,1,57,85,40,100,232
+675,Oct 7 2016,World Cup qualifier in Greece,Greece,Cyprus,1637,1413,2,0,8,-8,1645,1405,49,107,1,-1,50,106,40,100,324
+676,Oct 7 2016,World Cup qualifier in Hungary,Hungary,Switzerland,1707,1838,2,3,-18,18,1689,1856,45,13,-2,2,43,15,40,100,-31
+677,Oct 7 2016,World Cup qualifier in Latvia,Latvia,Faroe Islands,1486,1248,0,2,-52,52,1434,1300,115,119,-14,14,101,133,40,100,338
+678,Oct 7 2016,World Cup qualifier in Luxembourg,Luxembourg,Sweden,1232,1739,0,1,-4,4,1228,1743,153,30,-1,1,152,31,40,100,-407
+679,Oct 7 2016,World Cup qualifier in the Netherlands,Netherlands,Belarus,1903,1614,4,1,7,-7,1910,1607,12,61,0,-2,12,59,40,100,389
+680,Oct 7 2016,Friendly in Oman,Oman,Jordan,1468,1522,1,1,-1,1,1467,1523,88,79,1,0,89,79,20,100,46
+681,Oct 7 2016,Friendly in the Philippines,Philippines,Bahrain,1276,1428,1,3,-13,13,1263,1441,146,97,-1,2,145,99,20,100,-52
+682,Oct 7 2016,World Cup qualifier in Portugal,Portugal,Andorra,1924,957,6,0,0,0,1924,957,10,195,0,0,10,195,20,0,967
+683,Oct 7 2016,Friendly in Singapore,Singapore,Malaysia,1137,1119,0,0,-3,3,1134,1122,174,175,-1,0,173,175,20,100,118
+684,Oct 8 2016,CONCACAF Ch & Car Ch q in Antigua and Barbuda,Antigua and Barbuda,Puerto Rico,1198,1058,2,0,12,-12,1210,1046,157,186,4,0,161,186,40,100,240
+685,Oct 8 2016,World Cup qualifier in Armenia,Armenia,Romania,1513,1706,0,5,-30,30,1483,1736,90,25,-5,8,85,33,40,100,-93
+686,Oct 8 2016,World Cup qualifier in Azerbaijan,Azerbaijan,Norway,1392,1611,1,0,27,-27,1419,1584,96,68,8,-6,104,62,40,100,-119
+687,Oct 8 2016,Friendly in Belize,Belize,Honduras,1187,1559,1,2,-3,3,1184,1562,168,66,0,1,168,67,20,100,-272
+688,Oct 8 2016,World Cup qualifier in Burkina Faso,Burkina Faso,South Africa,1467,1605,1,1,2,-2,1469,1603,89,58,0,1,89,59,30,100,-38
+689,Oct 8 2016,CONCACAF Ch & Car Ch q in the Dominican Republic,Dominican Republic,Martinique,1228,1461,1,2,-13,13,1215,1474,168,82,-8,5,160,87,40,100,-133
+690,Oct 8 2016,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Libya,1528,1507,4,0,25,-25,1553,1482,66,89,6,-3,72,86,40,100,121
+691,Oct 8 2016,World Cup qualifier in England,England,Malta,1930,1231,2,0,1,-1,1931,1230,9,151,0,0,9,151,20,0,699
+692,Oct 8 2016,CONCACAF Ch & Car Ch q in French Guiana,French Guiana,Saint Kitts and Nevis,1277,1303,1,0,16,-16,1293,1287,126,146,9,-8,135,138,30,0,-26
+693,Oct 8 2016,World Cup qualifier in Gabon,Gabon,Morocco,1453,1583,0,0,2,-2,1455,1581,96,66,0,-2,96,64,40,100,-30
+694,Oct 8 2016,World Cup qualifier in Germany,Germany,Czechia,2028,1713,3,0,6,-6,2034,1707,2,42,0,-2,2,40,40,100,415
+695,Oct 8 2016,World Cup qualifier in Ivory Coast,Ivory Coast,Mali,1709,1574,3,1,12,-12,1721,1562,34,69,3,-2,37,67,40,100,235
+696,Oct 8 2016,Friendly in the United States,Mexico,New Zealand,1896,1543,2,1,2,-2,1898,1541,14,77,0,-2,14,75,20,0,353
+697,Oct 8 2016,World Cup qualifier in Montenegro,Montenegro,Kazakhstan,1572,1416,5,0,15,-15,1587,1401,56,114,5,-5,61,109,40,100,256
+698,Oct 8 2016,World Cup qualifier in Northern Ireland,Northern Ireland,San Marino,1652,879,4,0,0,0,1652,879,49,203,0,0,49,203,20,0,773
+699,Oct 8 2016,World Cup qualifier in Poland,Poland,Denmark,1809,1750,3,2,11,-11,1820,1739,19,33,0,-2,19,31,40,100,159
+700,Oct 8 2016,World Cup qualifier in Scotland,Scotland,Lithuania,1720,1448,1,1,-16,16,1704,1464,47,88,-5,5,42,93,40,100,372
+701,Oct 8 2016,World Cup qualifier in Senegal,Senegal,Cape Verde,1683,1479,2,0,9,-9,1692,1470,41,89,2,-1,43,88,40,100,304
+702,Oct 8 2016,World Cup qualifier in Slovenia,Slovenia,Slovakia,1609,1742,1,0,22,-22,1631,1720,51,44,3,-6,54,38,40,100,-33
+703,Oct 8 2016,Friendly in the Solomon Islands,Solomon Islands,New Caledonia,1129,1315,0,1,-8,8,1121,1323,176,126,-1,0,175,126,20,100,-86
+704,Oct 8 2016,CONCACAF Ch & Car Ch q in Suriname,Suriname,Guyana,1211,1223,3,2,15,-15,1226,1208,145,169,8,-7,153,162,40,100,88
+705,Oct 8 2016,Asian Cup qualifier in Taiwan,Taiwan,East Timor,804,708,2,1,10,-10,814,698,208,219,0,-1,208,218,40,100,196
+706,Oct 9 2016,World Cup qualifier in Albania,Albania,Spain,1643,1963,0,2,-13,13,1630,1976,59,5,-4,0,55,5,40,100,-220
+707,Oct 9 2016,World Cup qualifier in Algeria,Algeria,Cameroon,1663,1624,1,1,-8,8,1655,1632,49,50,-1,3,48,53,40,100,139
+708,Oct 9 2016,Friendly in Cambodia,Cambodia,Sri Lanka,778,753,4,0,12,-12,790,741,210,215,0,-1,210,214,20,100,125
+709,Oct 9 2016,World Cup qualifier in Congo,Congo,Egypt,1465,1634,1,2,-16,16,1449,1650,104,48,-6,2,98,50,40,100,-69
+710,Oct 9 2016,World Cup qualifier in Finland,Finland,Croatia,1556,1848,0,1,-10,10,1546,1858,76,13,-3,2,73,15,40,100,-192
+711,Oct 9 2016,World Cup qualifier in Iceland,Iceland,Turkey,1753,1808,2,0,26,-26,1779,1782,21,23,3,-1,24,22,30,0,-55
+712,Oct 9 2016,Friendly in Indonesia,Indonesia,Vietnam,1217,1279,2,2,-1,1,1216,1280,159,142,0,0,159,142,20,100,38
+713,Oct 9 2016,World Cup qualifier in Israel,Israel,Liechtenstein,1576,1184,2,1,2,-2,1578,1182,67,170,-1,-1,66,169,20,0,392
+714,Oct 9 2016,World Cup qualifier in Macedonia,Macedonia,Italy,1407,1938,2,3,-3,3,1404,1941,107,8,-1,0,106,8,40,100,-431
+715,Oct 9 2016,World Cup qualifier in Moldova,Moldova,Ireland,1335,1771,1,3,-8,8,1327,1779,127,23,-4,1,123,24,40,100,-336
+716,Oct 9 2016,Friendly in Russia,Russia,Costa Rica,1705,1809,3,4,-10,10,1695,1819,43,20,-1,0,42,20,20,100,-4
+717,Oct 9 2016,World Cup qualifier in Serbia,Serbia,Austria,1712,1723,3,2,15,-15,1727,1708,29,42,5,-3,34,39,30,0,-11
+718,Oct 9 2016,Friendly in Togo,Togo,Mozambique,1421,1330,2,0,7,-7,1428,1323,99,127,2,-2,101,125,20,100,191
+719,Oct 9 2016,World Cup qualifier in Tunisia,Tunisia,Guinea,1565,1538,2,0,19,-19,1584,1519,58,81,4,-2,62,79,40,100,127
+720,Oct 9 2016,World Cup qualifier in Poland,Ukraine,Kosovo,1744,1405,3,0,9,-9,1753,1396,27,112,1,-3,28,109,40,0,339
+721,Oct 9 2016,World Cup qualifier in Wales,Wales,Georgia,1785,1469,1,1,-17,17,1768,1486,31,81,-4,4,27,85,40,100,416
+722,Oct 9 2016,World Cup qualifier in Zambia,Zambia,Nigeria,1438,1632,1,2,-15,15,1423,1647,106,49,-3,2,103,51,40,100,-94
+723,Oct 10 2016,World Cup qualifier in Andorra,Andorra,Switzerland,957,1856,1,2,0,0,957,1856,195,16,0,0,195,16,20,0,-899
+724,Oct 10 2016,World Cup qualifier in Belarus,Belarus,Luxembourg,1607,1228,1,1,-18,18,1589,1246,60,144,-1,4,59,148,40,100,479
+725,Oct 10 2016,World Cup qualifier in Portugal,Belgium,Gibraltar,1899,1103,6,0,1,-1,1900,1102,11,183,1,-2,12,181,30,0,796
+726,Oct 10 2016,Asian Cup qualifier in Bhutan,Bhutan,Bangladesh,564,848,3,1,45,-45,609,803,224,210,4,-2,228,208,40,100,-184
+727,Oct 10 2016,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Cyprus,1751,1405,2,0,4,-4,1755,1401,29,109,0,-2,29,107,20,0,346
+728,Oct 10 2016,World Cup qualifier in Estonia,Estonia,Greece,1459,1645,0,2,-23,23,1436,1668,104,40,-5,6,99,46,40,100,-86
+729,Oct 10 2016,World Cup qualifier in the Faroe Islands,Faroe Islands,Portugal,1300,1924,0,6,-4,4,1296,1928,132,10,0,0,132,10,40,100,-524
+730,Oct 10 2016,World Cup qualifier in Latvia,Latvia,Hungary,1434,1689,0,2,-17,17,1417,1706,108,38,-4,3,104,41,40,100,-155
+731,Oct 10 2016,Friendly in Morocco,Morocco,Jordan,1581,1523,2,1,6,-6,1587,1517,57,80,4,-1,61,79,20,100,158
+732,Oct 10 2016,World Cup qualifier in the Netherlands,Netherlands,France,1910,1991,0,1,-21,21,1889,2012,16,4,-2,0,14,4,40,100,19
+733,Oct 10 2016,Friendly in the Philippines,Philippines,North Korea,1263,1503,1,3,-9,9,1254,1512,149,80,-2,1,147,81,20,100,-140
+734,Oct 10 2016,World Cup qualifier in Sweden,Sweden,Bulgaria,1743,1583,3,0,13,-13,1756,1570,26,68,2,-2,28,66,40,100,260
+735,Oct 11 2016,World Cup qualifier in Argentina,Argentina,Paraguay,2091,1726,0,1,-37,37,2054,1763,1,20,0,8,1,28,40,100,465
+736,Oct 11 2016,World Cup qualifier in Australia,Australia,Japan,1727,1737,1,1,-5,5,1722,1742,38,34,-2,-1,36,33,40,100,90
+737,Oct 11 2016,World Cup qualifier in Bolivia,Bolivia,Ecuador,1630,1854,2,2,7,-7,1637,1847,53,17,1,0,54,17,40,100,-124
+738,Oct 11 2016,World Cup qualifier in Chile,Chile,Peru,1949,1824,2,1,9,-9,1958,1815,5,22,1,-2,6,20,40,100,225
+739,Oct 11 2016,World Cup qualifier in Colombia,Colombia,Uruguay,1960,1915,2,2,-8,8,1952,1923,8,9,-1,1,7,10,40,100,145
+740,Oct 11 2016,World Cup qualifier in Czechia,Czechia,Azerbaijan,1707,1419,0,0,-16,16,1691,1435,46,97,-3,3,43,100,40,100,388
+741,Oct 11 2016,World Cup qualifier in Denmark,Denmark,Montenegro,1739,1587,0,1,-32,32,1707,1619,47,53,-8,4,39,57,40,100,252
+742,Oct 11 2016,World Cup qualifier in Germany,Germany,Northern Ireland,2034,1652,2,0,4,-4,2038,1648,4,52,-1,-1,3,51,30,0,382
+743,Oct 11 2016,CONCACAF Ch & Car Ch q in Guyana,Guyana,Jamaica,1208,1497,2,4,-15,15,1193,1512,170,78,-4,3,166,81,40,100,-189
+744,Oct 11 2016,Friendly in Hong Kong,Hong Kong,Singapore,1189,1134,2,0,9,-9,1198,1125,163,173,2,0,165,173,20,100,155
+745,Oct 11 2016,World Cup qualifier in Iran,Iran,South Korea,1770,1791,1,0,16,-16,1786,1775,16,29,5,-4,21,25,30,0,-21
+746,Oct 11 2016,World Cup qualifier in Iran,Iraq,Thailand,1452,1393,4,0,31,-31,1483,1362,78,122,9,-5,87,117,40,0,59
+747,Oct 11 2016,World Cup qualifier in Kazakhstan,Kazakhstan,Romania,1401,1736,0,0,12,-12,1413,1724,103,37,2,-2,105,35,40,100,-235
+748,Oct 11 2016,Friendly in Kyrgyzstan,Kyrgyzstan,Turkmenistan,1218,1283,1,0,9,-9,1227,1274,146,148,6,-4,152,144,20,100,35
+749,Oct 11 2016,Asian Cup qualifier in Laos,Laos,Maldives,776,958,1,1,5,-5,781,953,211,197,0,-2,211,195,20,0,-182
+750,Oct 11 2016,Friendly in Lebanon,Lebanon,Equatorial Guinea,1369,1341,1,1,-4,4,1365,1345,115,118,1,0,116,118,20,100,128
+751,Oct 11 2016,World Cup qualifier in Lithuania,Lithuania,Malta,1464,1230,2,0,8,-8,1472,1222,88,160,2,-4,90,156,40,100,334
+752,Oct 11 2016,Friendly in Malaysia,Malaysia,Afghanistan,1122,1143,1,1,-2,2,1120,1145,176,170,-1,0,175,170,20,100,79
+753,Oct 11 2016,CONCACAF Ch & Car Ch q in Martinique,Martinique,Trinidad and Tobago,1474,1555,2,0,28,-28,1502,1527,80,80,4,-5,84,75,30,0,-81
+754,Oct 11 2016,Friendly in the United States,Mexico,Panama,1898,1665,1,0,4,-4,1902,1661,11,49,1,-1,12,48,20,0,233
+755,Oct 11 2016,Friendly in Morocco,Morocco,Canada,1587,1531,4,0,11,-11,1598,1520,59,77,1,0,60,77,20,100,156
+756,Oct 11 2016,World Cup qualifier in Norway,Norway,San Marino,1584,879,4,1,1,-1,1585,878,61,203,1,0,62,203,20,0,705
+757,Oct 11 2016,Friendly in Oman,Oman,Bahrain,1467,1441,2,2,-3,3,1464,1444,95,98,-2,0,93,98,20,100,126
+758,Oct 11 2016,World Cup qualifier in Poland,Poland,Armenia,1820,1483,2,1,3,-3,1823,1480,17,92,1,-3,18,89,20,0,337
+759,Oct 11 2016,CONCACAF Ch & Car Ch q in Puerto Rico,Puerto Rico,Curaçao,1046,1199,2,4,-25,25,1021,1224,186,145,0,10,186,155,40,100,-53
+760,Oct 11 2016,World Cup qualifier in Qatar,Qatar,Syria,1549,1542,1,0,14,-14,1563,1528,62,74,5,0,67,74,40,100,107
+761,Oct 11 2016,World Cup qualifier in Saudi Arabia,Saudi Arabia,United Arab Emirates,1557,1589,3,0,28,-28,1585,1561,55,81,7,-11,62,70,40,100,68
+762,Oct 11 2016,World Cup qualifier in Slovakia,Slovakia,Scotland,1720,1704,3,0,24,-24,1744,1680,26,46,6,-2,32,44,40,100,116
+763,Oct 11 2016,World Cup qualifier in Slovenia,Slovenia,England,1631,1931,0,0,10,-10,1641,1921,52,13,1,-2,53,11,30,0,-300
+764,Oct 11 2016,Friendly in South Africa,South Africa,Ghana,1603,1609,1,1,-3,3,1600,1612,60,59,-1,-1,59,58,20,100,94
+765,Oct 11 2016,Asian Cup qualifier in Taiwan,Taiwan,East Timor,814,698,2,1,9,-9,823,689,207,222,0,-2,207,220,40,100,216
+766,Oct 11 2016,Friendly in the United States,United States,New Zealand,1781,1541,1,1,-8,8,1773,1549,29,69,-3,3,26,72,20,100,340
+767,Oct 11 2016,World Cup qualifier in Uzbekistan,Uzbekistan,China,1659,1539,2,0,13,-13,1672,1526,42,76,3,0,45,76,40,100,220
+768,Oct 11 2016,World Cup qualifier in Venezuela,Venezuela,Brazil,1684,2028,0,2,-12,12,1672,2040,45,1,0,1,45,2,40,100,-244
+769,Oct 15 2016,Southeast Asian Champ qual in Cambodia,Brunei,East Timor,602,689,2,1,25,-25,627,664,226,228,2,-4,228,224,40,0,-87
+770,Oct 15 2016,Southeast Asian Champ qual in Cambodia,Cambodia,Laos,790,781,2,1,14,-14,804,767,206,211,2,0,208,211,40,100,109
+771,Oct 18 2016,Southeast Asian Champ qual in Cambodia,Cambodia,Brunei,804,627,3,0,12,-12,816,615,208,228,0,0,208,228,40,100,277
+772,Oct 18 2016,Southeast Asian Champ qual in Cambodia,Laos,East Timor,767,664,2,1,14,-14,781,650,211,224,0,0,211,224,40,0,103
+773,Oct 21 2016,Southeast Asian Champ qual in Cambodia,Cambodia,East Timor,816,650,3,2,7,-7,823,643,206,224,1,0,207,224,40,100,266
+774,Oct 21 2016,Southeast Asian Champ qual in Cambodia,Laos,Brunei,781,615,4,3,11,-11,792,604,211,232,0,-2,211,230,40,0,166
+775,Nov 2 2016,Asian Solidarity Cup in Malaysia,Brunei,East Timor,604,643,4,0,42,-42,646,601,218,236,6,-6,224,230,40,0,-39
+776,Nov 2 2016,Friendly in Honduras,Honduras,Belize,1562,1184,5,0,2,-2,1564,1182,66,168,1,0,67,168,20,100,478
+777,Nov 3 2016,Asian Solidarity Cup in Malaysia,Laos,Sri Lanka,792,741,2,1,17,-17,809,724,207,216,2,-1,209,215,40,0,51
+778,Nov 3 2016,Asian Solidarity Cup in Malaysia,Macao,Mongolia,628,669,2,1,22,-22,650,647,219,225,4,-1,223,224,40,0,-41
+779,Nov 4 2016,Friendly in Myanmar,Myanmar,Indonesia,1063,1216,0,0,2,-2,1065,1214,185,162,0,-1,185,161,20,100,-53
+780,Nov 5 2016,Asian Solidarity Cup in Malaysia,East Timor,Nepal,601,896,0,0,14,-14,615,882,226,203,2,-1,228,202,40,0,-295
+781,Nov 5 2016,Friendly in Zimbabwe,Zimbabwe,Zambia,1394,1423,1,0,8,-8,1402,1415,103,105,4,-1,107,104,20,100,71
+782,Nov 6 2016,East Asian Championship qual in Hong Kong,Hong Kong,Guam,1198,871,3,2,3,-3,1201,868,165,204,0,0,165,204,20,0,327
+783,Nov 6 2016,Friendly in Jordan,Jordan,Iraq,1517,1483,0,0,-4,4,1513,1487,79,85,0,1,79,86,20,100,134
+784,Nov 6 2016,Asian Solidarity Cup in Malaysia,Macao,Laos,650,809,4,1,50,-50,700,759,211,215,6,-3,217,212,40,0,-159
+785,Nov 6 2016,Asian Solidarity Cup in Malaysia,Mongolia,Sri Lanka,647,724,2,0,37,-37,684,687,222,225,1,-5,223,220,40,0,-77
+786,Nov 6 2016,East Asian Championship qual in Hong Kong,North Korea,Taiwan,1512,823,2,0,1,-1,1513,822,77,209,2,-1,79,208,20,0,689
+787,Nov 7 2016,World Cup qualifier in Tahiti,Tahiti,Solomon Islands,1234,1121,1,0,9,-9,1243,1112,149,180,1,-3,150,177,40,100,213
+788,Nov 8 2016,Asian Solidarity Cup in Malaysia,Nepal,Brunei,882,646,3,0,14,-14,896,632,200,227,1,-1,201,226,40,0,236
+789,Nov 8 2016,Friendly in Uganda,Uganda,Zambia,1501,1415,0,1,-15,15,1486,1430,87,98,-1,3,86,101,20,100,186
+790,Nov 8 2016,Friendly in Vietnam,Vietnam,Indonesia,1280,1214,3,2,6,-6,1286,1208,137,163,2,-1,139,162,20,100,166
+791,Nov 9 2016,Friendly in Greece,Greece,Belarus,1668,1589,0,1,-15,15,1653,1604,51,57,-2,2,49,59,20,100,179
+792,Nov 9 2016,CONCACAF Ch & Car Ch q in Haiti,Haiti,French Guiana,1513,1293,2,5,-60,60,1453,1353,113,101,-17,17,96,118,40,100,320
+793,Nov 9 2016,East Asian Championship qual in Hong Kong,Hong Kong,Taiwan,1201,822,4,2,4,-4,1205,818,163,208,1,0,164,208,40,100,479
+794,Nov 9 2016,Asian Solidarity Cup in Malaysia,Laos,Mongolia,759,684,3,0,28,-28,787,656,210,225,1,-1,211,224,40,0,75
+795,Nov 9 2016,Asian Solidarity Cup in Malaysia,Macao,Sri Lanka,700,687,1,1,-1,1,699,688,217,220,0,0,217,220,30,0,13
+796,Nov 9 2016,Friendly in the Netherlands,Netherlands,Belgium,1889,1900,1,1,-3,3,1886,1903,14,11,0,1,14,12,20,100,89
+797,Nov 9 2016,East Asian Championship qual in Hong Kong,North Korea,Guam,1513,868,2,0,1,-1,1514,867,79,204,0,0,79,204,20,0,645
+798,Nov 9 2016,Friendly in the Philippines,Philippines,Kyrgyzstan,1254,1227,1,0,6,-6,1260,1221,141,160,3,-4,144,156,20,100,127
+799,Nov 9 2016,Friendly in Malaysia,Syria,Singapore,1528,1125,2,0,3,-3,1531,1122,74,173,0,0,74,173,20,0,403
+800,Nov 9 2016,Friendly in Tajikistan,Tajikistan,Turkmenistan,1226,1274,3,0,15,-15,1241,1259,149,146,2,-1,151,145,20,100,52
+801,Nov 9 2016,Friendly in the United Arab Emirates,United Arab Emirates,Bahrain,1561,1444,2,0,7,-7,1568,1437,64,98,3,0,67,98,20,100,217
+802,Nov 10 2016,World Cup qualifier in Brazil,Brazil,Argentina,2040,2054,3,0,27,-27,2067,2027,0,5,1,-2,1,3,30,0,-14
+803,Nov 10 2016,World Cup qualifier in Colombia,Colombia,Chile,1952,1958,0,0,-5,5,1947,1963,7,6,0,0,7,6,40,100,94
+804,Nov 10 2016,Friendly in Malaysia,Iran,Papua New Guinea,1786,1138,8,1,1,-1,1787,1137,21,171,0,0,21,171,20,0,648
+805,Nov 10 2016,Friendly in Lebanon,Lebanon,Palestine,1365,1334,1,1,-4,4,1361,1338,118,120,-1,0,117,120,20,100,131
+806,Nov 10 2016,World Cup qualifier in Paraguay,Paraguay,Peru,1763,1815,1,4,-40,40,1723,1855,42,14,-7,3,35,17,40,100,48
+807,Nov 10 2016,Friendly in Qatar,Qatar,Russia,1563,1695,2,1,11,-11,1574,1684,63,47,3,-3,66,44,20,100,-32
+808,Nov 10 2016,World Cup qualifier in Uruguay,Uruguay,Ecuador,1923,1847,2,1,11,-11,1934,1836,8,19,1,-1,9,18,40,100,176
+809,Nov 10 2016,Friendly in Uzbekistan,Uzbekistan,Jordan,1672,1513,1,0,4,-4,1676,1509,47,84,-1,-2,46,82,20,100,259
+810,Nov 10 2016,World Cup qualifier in Venezuela,Venezuela,Bolivia,1672,1637,5,0,25,-25,1697,1612,37,60,4,-3,41,57,40,100,135
+811,Nov 11 2016,World Cup qualifier in Armenia,Armenia,Montenegro,1480,1619,3,2,22,-22,1502,1597,78,68,5,-6,83,62,40,100,-39
+812,Nov 11 2016,Friendly in Tunisia,Comoros,Togo,964,1428,2,2,9,-9,973,1419,190,104,0,-1,190,103,20,0,-464
+813,Nov 11 2016,World Cup qualifier in Czechia,Czechia,Norway,1691,1585,2,1,9,-9,1700,1576,37,68,3,-3,40,65,40,100,206
+814,Nov 11 2016,World Cup qualifier in Denmark,Denmark,Kazakhstan,1707,1413,4,1,7,-7,1714,1406,35,105,2,0,37,105,40,100,394
+815,Nov 11 2016,World Cup qualifier in England,England,Scotland,1921,1680,3,0,9,-9,1930,1671,9,49,1,-2,10,47,40,100,341
+816,Nov 11 2016,World Cup qualifier in France,France,Sweden,2012,1756,2,1,5,-5,2017,1751,4,34,0,-3,4,31,40,100,356
+817,Nov 11 2016,World Cup qualifier in Honduras,Honduras,Panama,1564,1661,0,1,-20,20,1544,1681,77,43,-4,2,73,45,40,100,3
+818,Nov 11 2016,Friendly in Japan,Japan,Oman,1742,1464,4,0,4,-4,1746,1460,32,92,0,0,32,92,20,100,378
+819,Nov 11 2016,World Cup qualifier in Malta,Malta,Slovenia,1222,1641,0,1,-5,5,1217,1646,163,53,-4,0,159,53,40,100,-319
+820,Nov 11 2016,World Cup qualifier in Northern Ireland,Northern Ireland,Azerbaijan,1648,1435,4,0,11,-11,1659,1424,45,102,3,-1,48,101,40,100,313
+821,Nov 11 2016,World Cup qualifier in Romania,Romania,Poland,1724,1823,0,3,-35,35,1689,1858,52,11,-9,4,43,15,40,100,1
+822,Nov 11 2016,World Cup qualifier in San Marino,San Marino,Germany,878,2038,0,8,0,0,878,2038,203,2,0,0,203,2,20,0,-1160
+823,Nov 11 2016,World Cup qualifier in Slovakia,Slovakia,Lithuania,1744,1472,4,0,8,-8,1752,1464,29,93,1,-2,30,91,40,100,372
+824,Nov 11 2016,Friendly in South Korea,South Korea,Canada,1775,1520,2,0,3,-3,1778,1517,25,77,0,0,25,77,20,100,355
+825,Nov 11 2016,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Costa Rica,1527,1819,0,2,-15,15,1512,1834,83,20,-4,0,79,20,40,100,-192
+826,Nov 11 2016,World Cup qualifier in Algeria,Tunisia,Libya,1584,1482,1,0,14,-14,1598,1468,56,93,4,-3,60,90,40,0,102
+827,Nov 11 2016,World Cup qualifier in the United States,United States,Mexico,1773,1902,1,2,-18,18,1755,1920,28,11,-1,1,27,12,40,100,-29
+828,Nov 12 2016,World Cup qualifier in Albania,Albania,Israel,1630,1578,0,3,-49,49,1581,1627,73,44,-9,10,64,54,40,100,152
+829,Nov 12 2016,World Cup qualifier in Austria,Austria,Ireland,1708,1779,0,1,-22,22,1686,1801,46,19,-4,2,42,21,40,100,29
+830,Nov 12 2016,Asian Solidarity Cup in Malaysia,Brunei,Macao,632,699,1,1,4,-4,636,695,224,217,1,0,225,217,40,0,-67
+831,Nov 12 2016,World Cup qualifier in Cameroon,Cameroon,Zambia,1632,1430,1,1,-14,14,1618,1444,58,92,-2,4,56,96,40,100,302
+832,Nov 12 2016,World Cup qualifier in Cape Verde,Cape Verde,Burkina Faso,1470,1469,0,2,-38,38,1432,1507,112,77,-12,6,100,83,40,100,101
+833,Nov 12 2016,World Cup qualifier in Croatia,Croatia,Iceland,1858,1779,2,0,16,-16,1874,1763,15,27,0,-2,15,25,40,100,179
+834,Nov 12 2016,World Cup qualifier in Georgia,Georgia,Moldova,1486,1327,1,1,-13,13,1473,1340,90,116,-2,4,88,120,40,100,259
+835,Nov 12 2016,East Asian Championship qual in Hong Kong,Hong Kong,North Korea,1205,1514,0,1,-9,9,1196,1523,166,74,-1,2,165,76,40,100,-209
+836,Nov 12 2016,Friendly in Kenya,Kenya,Mozambique,1377,1323,1,0,6,-6,1383,1317,111,126,1,0,112,126,20,100,154
+837,Nov 12 2016,Asian Solidarity Cup in Malaysia,Laos,Nepal,787,896,2,2,6,-6,793,890,211,201,0,0,211,201,40,0,-109
+838,Nov 12 2016,World Cup qualifier in Liechtenstein,Liechtenstein,Italy,1182,1941,0,4,-2,2,1180,1943,170,8,-1,0,169,8,40,100,-659
+839,Nov 12 2016,World Cup qualifier in Mali,Mali,Gabon,1562,1455,0,0,-11,11,1551,1466,73,86,-2,4,71,90,40,100,207
+840,Nov 12 2016,World Cup qualifier in Morocco,Morocco,Ivory Coast,1598,1721,0,0,1,-1,1599,1720,60,36,0,0,60,36,20,100,-23
+841,Nov 12 2016,World Cup qualifier in New Zealand,New Zealand,New Caledonia,1549,1323,2,0,8,-8,1557,1315,67,128,2,-1,69,127,40,100,326
+842,Nov 12 2016,World Cup qualifier in Nigeria,Nigeria,Algeria,1647,1655,3,1,22,-22,1669,1633,44,57,4,-4,48,53,40,100,92
+843,Nov 12 2016,World Cup qualifier in South Africa,South Africa,Senegal,1600,1692,2,1,20,-20,1620,1672,51,50,4,-4,55,46,40,100,8
+844,Nov 12 2016,World Cup qualifier in Spain,Spain,Macedonia,1976,1404,4,0,2,-2,1978,1402,5,106,0,0,5,106,30,0,572
+845,Nov 12 2016,East Asian Championship qual in Hong Kong,Taiwan,Guam,818,867,2,0,34,-34,852,833,202,210,3,-3,205,207,40,0,-49
+846,Nov 12 2016,World Cup qualifier in Turkey,Turkey,Kosovo,1782,1396,2,0,3,-3,1785,1393,24,112,-1,-1,23,111,20,0,386
+847,Nov 12 2016,World Cup qualifier in Uganda,Uganda,Congo,1486,1449,1,0,12,-12,1498,1437,86,97,0,0,86,97,40,100,137
+848,Nov 12 2016,World Cup qualifier in Ukraine,Ukraine,Finland,1753,1546,1,0,6,-6,1759,1540,25,74,2,-1,27,73,40,100,307
+849,Nov 12 2016,World Cup qualifier in Wales,Wales,Serbia,1768,1727,1,1,-8,8,1760,1735,26,33,0,0,26,33,40,100,141
+850,Nov 13 2016,World Cup qualifier in Belgium,Belgium,Estonia,1903,1436,8,1,3,-3,1906,1433,13,99,0,0,13,99,20,0,467
+851,Nov 13 2016,World Cup qualifier in Bulgaria,Bulgaria,Belarus,1570,1604,1,0,16,-16,1586,1588,59,65,4,-3,63,62,30,0,-34
+852,Nov 13 2016,World Cup qualifier in Cyprus,Cyprus,Gibraltar,1401,1102,3,1,5,-5,1406,1097,103,185,3,-2,106,183,20,0,299
+853,Nov 13 2016,World Cup qualifier in Egypt,Egypt,Ghana,1650,1612,2,0,19,-19,1669,1593,45,65,3,-4,48,61,40,100,138
+854,Nov 13 2016,World Cup qualifier in Greece,Greece,Bosnia and Herzegovina,1653,1755,1,1,0,0,1653,1755,52,28,-1,0,51,28,20,100,-2
+855,Nov 13 2016,World Cup qualifier in Guinea,Guinea,DR Congo,1519,1553,1,2,-24,24,1495,1577,95,62,-9,4,86,66,40,100,66
+856,Nov 13 2016,World Cup qualifier in Hungary,Hungary,Andorra,1706,957,4,0,1,-1,1707,956,38,194,0,0,38,194,30,0,749
+857,Nov 13 2016,CONCACAF Ch & Car Ch q in Jamaica,Jamaica,Suriname,1512,1226,1,0,4,-4,1516,1222,77,153,1,0,78,153,40,100,386
+858,Nov 13 2016,World Cup qualifier in Luxembourg,Luxembourg,Netherlands,1246,1886,1,3,-3,3,1243,1889,152,14,-2,0,150,14,40,100,-540
+859,Nov 13 2016,World Cup qualifier in Portugal,Portugal,Latvia,1928,1417,4,1,2,-2,1930,1415,9,104,1,0,10,104,20,0,511
+860,Nov 13 2016,Friendly in Singapore,Singapore,Cambodia,1122,823,1,0,2,-2,1124,821,175,208,-1,0,174,208,20,100,399
+861,Nov 13 2016,World Cup qualifier in the Solomon Islands,Solomon Islands,Tahiti,1112,1243,1,0,22,-22,1134,1221,169,158,4,-4,173,154,40,100,-31
+862,Nov 13 2016,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Haiti,1287,1453,0,2,-24,24,1263,1477,148,81,-5,7,143,88,40,100,-66
+863,Nov 13 2016,World Cup qualifier in Switzerland,Switzerland,Faroe Islands,1856,1296,2,0,1,-1,1857,1295,17,135,0,-1,17,134,20,0,560
+864,Nov 13 2016,Friendly in Tajikistan,Tajikistan,Afghanistan,1241,1145,1,0,5,-5,1246,1140,145,170,3,0,148,170,20,100,196
+865,Nov 13 2016,Friendly in Zimbabwe,Zimbabwe,Tanzania,1402,1328,3,0,9,-9,1411,1319,104,126,1,-1,105,125,20,100,174
+866,Nov 14 2016,Asian Solidarity Cup in Malaysia,Laos,Brunei,793,636,3,2,12,-12,805,624,207,229,2,-2,209,227,40,0,157
+867,Nov 14 2016,Friendly in Malaysia,Malaysia,Papua New Guinea,1120,1137,2,1,8,-8,1128,1129,173,175,1,-2,174,173,20,100,83
+868,Nov 14 2016,Friendly in Myanmar,Myanmar,Oman,1065,1460,0,3,-5,5,1060,1465,185,91,0,1,185,92,20,100,-295
+869,Nov 14 2016,Friendly in Poland,Poland,Slovenia,1858,1646,1,1,-7,7,1851,1653,20,50,-2,1,18,51,20,100,312
+870,Nov 15 2016,World Cup qualifier in Argentina,Argentina,Colombia,2027,1947,3,0,18,-18,2045,1929,1,11,1,-2,2,9,40,100,180
+871,Nov 15 2016,Friendly in Austria,Austria,Slovakia,1686,1752,0,0,-1,1,1685,1753,42,30,0,0,42,30,20,100,34
+872,Nov 15 2016,Friendly in Bahrain,Bahrain,Kyrgyzstan,1437,1221,0,0,-7,7,1430,1228,103,150,-3,2,100,152,20,100,316
+873,Nov 15 2016,World Cup qualifier in Bolivia,Bolivia,Paraguay,1612,1723,1,0,21,-21,1633,1702,49,40,4,-3,53,37,40,100,-11
+874,Nov 15 2016,World Cup qualifier in Chile,Chile,Uruguay,1963,1934,3,1,19,-19,1982,1915,4,13,1,-2,5,11,40,100,129
+875,Nov 15 2016,World Cup qualifier in China,China,Qatar,1526,1574,0,0,-3,3,1523,1577,75,66,0,1,75,67,40,100,52
+876,Nov 15 2016,Friendly in Tunisia,Comoros,Gabon,973,1466,1,1,9,-9,982,1457,190,97,0,-3,190,94,20,0,-493
+877,Nov 15 2016,World Cup qualifier in Costa Rica,Costa Rica,United States,1834,1755,4,0,20,-20,1854,1735,14,36,3,-4,17,32,40,100,179
+878,Nov 15 2016,Friendly in Czechia,Czechia,Denmark,1700,1714,1,1,-2,2,1698,1716,37,33,1,2,38,35,20,100,86
+879,Nov 15 2016,World Cup qualifier in Ecuador,Ecuador,Venezuela,1836,1697,3,0,14,-14,1850,1683,19,46,0,-3,19,43,40,100,239
+880,Nov 15 2016,Friendly in England,England,Spain,1930,1978,2,2,-1,1,1929,1979,8,7,1,-1,9,6,20,100,52
+881,Nov 15 2016,Friendly in France,France,Ivory Coast,2017,1720,0,0,-8,8,2009,1728,4,30,0,3,4,33,20,100,397
+882,Nov 15 2016,World Cup qualifier in Honduras,Honduras,Trinidad and Tobago,1544,1512,3,1,19,-19,1563,1493,68,93,2,-7,70,86,40,100,132
+883,Nov 15 2016,Friendly in Hungary,Hungary,Sweden,1707,1751,0,2,-17,17,1690,1768,42,21,-2,5,40,26,20,100,56
+884,Nov 15 2016,Friendly in Italy,Italy,Germany,1943,2038,0,0,0,0,1943,2038,6,4,1,-1,7,3,20,100,5
+885,Nov 15 2016,World Cup qualifier in Japan,Japan,Saudi Arabia,1746,1585,2,1,7,-7,1753,1578,28,68,2,-2,30,66,40,100,261
+886,Nov 15 2016,Friendly in Jordan,Jordan,Lebanon,1509,1361,0,0,-6,6,1503,1367,81,117,0,0,81,117,20,100,248
+887,Nov 15 2016,Friendly in Kenya,Kenya,Liberia,1383,1325,1,0,6,-6,1389,1319,112,128,0,-2,112,126,20,100,158
+888,Nov 15 2016,Friendly in Malta,Malta,Iceland,1217,1763,0,2,-2,2,1215,1765,159,29,0,-2,159,27,20,100,-446
+889,Nov 15 2016,Friendly in Morocco,Morocco,Togo,1599,1419,2,1,3,-3,1602,1416,58,103,0,0,58,103,20,100,280
+890,Nov 15 2016,Friendly in Mozambique,Mozambique,South Africa,1317,1620,1,1,5,-5,1322,1615,124,59,1,-2,125,57,20,100,-203
+891,Nov 15 2016,Asian Solidarity Cup in Malaysia,Nepal,Macao,890,695,1,0,10,-10,900,685,201,227,0,-5,201,222,40,0,195
+892,Nov 15 2016,World Cup qualifier in New Caledonia,New Caledonia,New Zealand,1315,1557,0,0,8,-8,1323,1549,121,74,3,-2,124,72,40,100,-142
+893,Nov 15 2016,Friendly in Northern Ireland,Northern Ireland,Croatia,1659,1874,0,3,-12,12,1647,1886,54,15,-2,0,52,15,20,100,-115
+894,Nov 15 2016,World Cup qualifier in Panama,Panama,Mexico,1681,1920,0,0,8,-8,1689,1912,38,12,3,0,41,12,40,100,-139
+895,Nov 15 2016,World Cup qualifier in Peru,Peru,Brazil,1855,2067,0,2,-21,21,1834,2088,23,1,-3,0,20,1,40,100,-112
+896,Nov 15 2016,Friendly in Russia,Russia,Romania,1684,1689,1,0,7,-7,1691,1682,35,47,4,-3,39,44,20,100,95
+897,Nov 15 2016,World Cup qualifier in South Korea,South Korea,Uzbekistan,1778,1676,2,1,10,-10,1788,1666,20,53,2,-4,22,49,40,100,202
+898,Nov 15 2016,World Cup qualifier in Malaysia,Syria,Iran,1531,1787,0,0,13,-13,1544,1774,72,26,1,-2,73,24,40,0,-256
+899,Nov 15 2016,World Cup qualifier in Thailand,Thailand,Australia,1362,1722,2,2,13,-13,1375,1709,112,37,2,-1,114,36,40,100,-260
+900,Nov 15 2016,Friendly in Tunisia,Tunisia,Mauritania,1598,1301,0,0,-8,8,1590,1309,63,127,-2,2,61,129,20,100,397
+901,Nov 15 2016,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Iraq,1568,1487,2,0,16,-16,1584,1471,59,91,5,-2,64,89,40,100,181
+902,Nov 15 2016,Friendly in Ukraine,Ukraine,Serbia,1759,1735,2,0,10,-10,1769,1725,23,35,2,-1,25,34,20,100,124
+903,Nov 19 2016,Southeast Asian Champ in the Philippines,Philippines,Singapore,1260,1124,0,0,-12,12,1248,1136,150,167,-3,4,147,171,40,100,236
+904,Nov 19 2016,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Estonia,1263,1433,1,1,2,-2,1265,1431,143,100,0,-1,143,99,20,100,-70
+905,Nov 19 2016,Southeast Asian Champ in the Philippines,Thailand,Indonesia,1375,1208,4,2,17,-17,1392,1191,110,170,2,-4,112,166,40,0,167
+906,Nov 20 2016,Southeast Asian Champ in Myanmar,Malaysia,Cambodia,1128,821,3,2,6,-6,1134,815,171,208,2,0,173,208,40,0,307
+907,Nov 20 2016,Southeast Asian Champ in Myanmar,Myanmar,Vietnam,1060,1286,1,2,-13,13,1047,1299,185,128,0,5,185,133,40,100,-126
+908,Nov 22 2016,Friendly in Antigua and Barbuda,Antigua and Barbuda,Estonia,1210,1431,0,1,-7,7,1203,1438,165,95,-2,2,163,97,20,100,-121
+909,Nov 22 2016,Southeast Asian Champ in the Philippines,Philippines,Indonesia,1248,1191,2,2,-8,8,1240,1199,153,162,-3,2,150,164,40,100,157
+910,Nov 22 2016,Southeast Asian Champ in the Philippines,Thailand,Singapore,1392,1136,1,0,7,-7,1399,1129,108,177,2,-3,110,174,40,0,256
+911,Nov 23 2016,Southeast Asian Champ in Myanmar,Myanmar,Cambodia,1047,815,3,1,8,-8,1055,807,185,208,0,0,185,208,40,100,332
+912,Nov 23 2016,Southeast Asian Champ in Myanmar,Vietnam,Malaysia,1299,1134,1,0,11,-11,1310,1123,125,178,4,-3,129,175,40,0,165
+913,Nov 25 2016,Southeast Asian Champ in the Philippines,Indonesia,Singapore,1199,1129,2,1,16,-16,1215,1113,154,181,5,-4,159,177,40,0,70
+914,Nov 25 2016,Southeast Asian Champ in the Philippines,Philippines,Thailand,1240,1399,0,1,-17,17,1223,1416,156,96,-3,7,153,103,40,100,-59
+915,Nov 26 2016,Southeast Asian Champ in Myanmar,Myanmar,Malaysia,1055,1123,1,0,18,-18,1073,1105,185,182,0,-4,185,178,30,0,-68
+916,Nov 26 2016,Southeast Asian Champ in Myanmar,Vietnam,Cambodia,1310,807,2,1,2,-2,1312,805,127,208,1,0,128,208,30,0,503
+917,Dec 3 2016,Southeast Asian Champ in Indonesia,Indonesia,Vietnam,1215,1312,2,1,20,-20,1235,1292,143,144,8,-8,151,136,40,100,3
+918,Dec 4 2016,Southeast Asian Champ in Myanmar,Myanmar,Thailand,1073,1416,0,2,-12,12,1061,1428,185,99,0,2,185,101,40,100,-243
+919,Dec 7 2016,Southeast Asian Champ in Vietnam,Vietnam,Indonesia,1292,1235,2,2,-8,8,1284,1243,140,147,-2,2,138,149,40,100,157
+920,Dec 8 2016,Southeast Asian Champ in Thailand,Thailand,Myanmar,1428,1061,4,0,5,-5,1433,1056,97,185,2,0,99,185,40,100,467
+921,Dec 14 2016,Southeast Asian Champ in Indonesia,Indonesia,Thailand,1243,1433,2,1,25,-25,1268,1408,137,113,6,-7,143,106,40,100,-90
+922,Dec 17 2016,Southeast Asian Champ in Thailand,Thailand,Indonesia,1408,1268,2,0,12,-12,1420,1256,100,149,3,-3,103,146,40,100,240
+923,Dec 26 2016,Friendly in Ivory Coast,Ivory Coast,Zimbabwe,1728,1411,0,0,-8,8,1720,1419,35,102,-1,2,34,104,20,100,417
+924,Dec 27 2016,Friendly in Nicaragua,Nicaragua,Trinidad and Tobago,1258,1493,2,1,14,-14,1272,1479,141,86,2,0,143,86,20,100,-135
+925,Dec 30 2016,Friendly in Nicaragua,Nicaragua,Trinidad and Tobago,1272,1479,1,3,-11,11,1261,1490,145,86,-1,0,144,86,20,100,-107

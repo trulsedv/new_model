@@ -1,0 +1,808 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 2 2005,Southeast Asian Champ in Singapore,Singapore,Myanmar,1222,1143,4,2,16,-16,1238,1127,141,170,5,-1,146,169,40,100,179
+1,Jan 3 2005,Southeast Asian Champ in Malaysia,Malaysia,Indonesia,1228,1323,1,4,-36,36,1192,1359,162,105,-6,10,156,115,40,100,5
+2,Jan 8 2005,Friendly in Egypt,Egypt,Uganda,1648,1337,3,0,3,-3,1651,1334,48,124,0,0,48,124,20,100,411
+3,Jan 8 2005,Southeast Asian Champ in Indonesia,Indonesia,Singapore,1359,1238,1,3,-47,47,1312,1285,143,124,-14,11,129,135,40,100,221
+4,Jan 8 2005,CONCACAF Ch & Car Cup q in Jamaica,Jamaica,French Guiana,1626,1207,5,0,4,-4,1630,1203,51,154,0,-1,51,153,40,100,519
+5,Jan 9 2005,CONCACAF Ch & Car Cup q in Haiti,Haiti,Cuba,1489,1589,0,1,-20,20,1469,1609,91,57,-1,3,90,60,40,100,0
+6,Jan 9 2005,CONCACAF Ch & Car Cup q in Trinidad and Tobago,Trinidad and Tobago,St Vincent & Grenadines,1510,1342,3,1,11,-11,1521,1331,78,126,1,-2,79,124,40,100,268
+7,Jan 12 2005,Friendly in Antigua and Barbuda,Antigua and Barbuda,Trinidad and Tobago,1099,1521,2,1,17,-17,1116,1504,169,85,2,-3,171,82,20,100,-322
+8,Jan 12 2005,Friendly in Costa Rica,Costa Rica,Haiti,1690,1469,3,3,-7,7,1683,1476,42,90,-2,0,40,90,20,100,321
+9,Jan 15 2005,Friendly in the United States,Colombia,South Korea,1800,1712,2,1,8,-8,1808,1704,21,34,1,0,22,34,20,0,88
+10,Jan 15 2005,CONCACAF Ch & Car Cup q in French Guiana,French Guiana,Jamaica,1203,1630,0,0,15,-15,1218,1615,149,63,2,-6,151,57,40,100,-327
+11,Jan 15 2005,Southeast Asian Champ in Singapore,Malaysia,Myanmar,1192,1127,2,1,16,-16,1208,1111,150,173,3,-2,153,171,40,0,65
+12,Jan 16 2005,CONCACAF Ch & Car Cup q in Cuba,Cuba,Haiti,1609,1476,1,1,-12,12,1597,1488,66,86,-3,2,63,88,40,100,233
+13,Jan 16 2005,Southeast Asian Champ in Singapore,Singapore,Indonesia,1285,1312,2,1,16,-16,1301,1296,127,139,4,-5,131,134,30,0,-27
+14,Jan 16 2005,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Trinidad and Tobago,1331,1504,1,0,24,-24,1355,1480,110,98,7,-8,117,90,40,100,-73
+15,Jan 17 2005,Friendly in the United States,Colombia,Guatemala,1808,1616,1,1,-5,5,1803,1621,22,54,0,1,22,55,20,0,192
+16,Jan 19 2005,Friendly in the United States,Paraguay,South Korea,1773,1704,1,1,-2,2,1771,1706,29,34,-1,0,28,34,20,0,69
+17,Jan 21 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Azerbaijan,1480,1391,1,0,5,-5,1485,1386,88,106,1,0,89,106,20,100,189
+18,Jan 22 2005,Friendly in Kuwait,Kuwait,Norway,1503,1796,1,1,5,-5,1508,1791,77,27,3,-1,80,26,20,100,-193
+19,Jan 22 2005,Friendly in the United States,South Korea,Sweden,1706,1873,1,1,4,-4,1710,1869,34,13,0,0,34,13,20,0,-167
+20,Jan 23 2005,Friendly in Barbados,Barbados,Grenada,1319,1235,3,0,9,-9,1328,1226,124,149,1,0,125,149,20,100,184
+21,Jan 23 2005,Friendly in the United States,Paraguay,Guatemala,1771,1621,2,1,6,-6,1777,1615,26,57,1,-1,27,56,20,0,150
+22,Jan 23 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Azerbaijan,1485,1386,2,0,7,-7,1492,1379,85,110,2,-2,87,108,20,100,199
+23,Jan 25 2005,Friendly in Bahrain,Bahrain,Norway,1589,1791,0,1,-7,7,1582,1798,68,22,-2,2,66,24,20,100,-102
+24,Jan 25 2005,Friendly in Saudi Arabia,Saudi Arabia,Tajikistan,1570,1365,3,0,5,-5,1575,1360,68,112,0,0,68,112,20,100,305
+25,Jan 26 2005,Friendly in Ecuador,Ecuador,Panama,1666,1516,2,0,6,-6,1672,1510,43,81,0,-1,43,80,20,100,250
+26,Jan 26 2005,Friendly in Kuwait,Kuwait,Syria,1508,1450,3,2,6,-6,1514,1444,78,94,1,0,79,94,20,100,158
+27,Jan 26 2005,Friendly in the United States,Mexico,Sweden,1886,1869,0,0,0,0,1886,1869,10,13,0,0,10,13,20,0,17
+28,Jan 28 2005,Friendly in Jordan,Jordan,Norway,1578,1798,0,0,3,-3,1581,1795,67,28,0,-2,67,26,20,100,-120
+29,Jan 29 2005,Friendly in Ecuador,Ecuador,Panama,1672,1510,2,0,5,-5,1677,1505,41,84,1,-2,42,82,20,100,262
+30,Jan 29 2005,Friendly in Japan,Japan,Kazakhstan,1846,1350,4,0,1,-1,1847,1349,16,118,0,0,16,118,20,100,596
+31,Jan 29 2005,Friendly in Saudi Arabia,Saudi Arabia,Turkmenistan,1575,1357,1,0,3,-3,1578,1354,68,118,0,-1,68,117,20,100,318
+32,Jan 30 2005,Friendly in Barbados,Barbados,St Vincent & Grenadines,1328,1355,3,1,12,-12,1340,1343,121,128,2,-6,123,122,20,100,73
+33,Feb 1 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Haiti,1492,1488,1,0,7,-7,1499,1481,83,91,2,-1,85,90,20,100,104
+34,Feb 2 2005,Friendly in Qatar,Bahrain,Lebanon,1582,1344,2,1,4,-4,1586,1340,64,123,1,-1,65,122,20,0,238
+35,Feb 2 2005,Friendly in Turkey,Hungary,Saudi Arabia,1607,1578,0,0,-1,1,1606,1579,61,68,0,0,61,68,20,0,29
+36,Feb 2 2005,Friendly in Iran,Iran,Bosnia and Herzegovina,1797,1622,2,1,3,-3,1800,1619,24,55,0,-1,24,54,20,100,275
+37,Feb 2 2005,Friendly in Japan,Japan,Syria,1847,1444,3,0,2,-2,1849,1442,16,96,0,-1,16,95,20,100,503
+38,Feb 2 2005,Friendly in China,Kuwait,North Korea,1514,1462,0,0,-1,1,1513,1463,79,91,0,0,79,91,20,0,52
+39,Feb 3 2005,CEMAC Cup in Gabon,Gabon,Central African Republic,1415,1238,4,0,13,-13,1428,1225,96,151,2,-2,98,149,40,100,277
+40,Feb 3 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Haiti,1499,1481,2,1,7,-7,1506,1474,79,90,3,0,82,90,20,100,118
+41,Feb 4 2005,Friendly in South Korea,South Korea,Egypt,1710,1651,0,1,-14,14,1696,1665,36,42,-1,3,35,45,20,100,159
+42,Feb 6 2005,Friendly in Barbados,Barbados,Antigua and Barbuda,1340,1116,3,2,3,-3,1343,1113,120,170,1,0,121,170,20,100,324
+43,Feb 6 2005,CEMAC Cup in Gabon,Congo,Central African Republic,1402,1225,1,0,11,-11,1413,1214,100,155,1,-3,101,152,40,0,177
+44,Feb 6 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Haiti,1506,1474,0,1,-14,14,1492,1488,92,88,-5,1,87,89,20,100,132
+45,Feb 8 2005,CEMAC Cup in Gabon,Chad,Equatorial Guinea,1298,1080,0,0,-11,11,1287,1091,137,174,-2,1,135,175,30,100,318
+46,Feb 8 2005,Friendly tournament in Cyprus,Cyprus,Austria,1440,1647,1,1,4,-4,1444,1643,94,51,1,-1,95,50,30,100,-107
+47,Feb 8 2005,Friendly in France,DR Congo,Ivory Coast,1444,1662,2,2,6,-6,1450,1656,94,47,0,0,94,47,20,0,-218
+48,Feb 8 2005,Friendly tournament in Cyprus,Finland,Latvia,1685,1492,2,1,7,-7,1692,1485,33,91,3,-2,36,89,30,0,193
+49,Feb 8 2005,CEMAC Cup in Gabon,Gabon,Congo,1428,1413,1,0,14,-14,1442,1399,94,105,2,-2,96,103,30,0,15
+50,Feb 9 2005,World Cup qualifier in Albania,Albania,Ukraine,1540,1739,0,2,-22,22,1518,1761,84,27,-6,2,78,29,40,100,-99
+51,Feb 9 2005,Friendly in Algeria,Algeria,Burkina Faso,1426,1393,3,0,11,-11,1437,1382,95,105,2,0,97,105,20,100,133
+52,Feb 9 2005,Friendly tournament in Cyprus,Austria,Latvia,1643,1485,1,1,-6,6,1637,1491,52,83,-1,3,51,86,20,100,258
+53,Feb 9 2005,Friendly in Azerbaijan,Azerbaijan,Moldova,1379,1401,0,0,-2,2,1377,1403,110,102,-1,0,109,102,20,100,78
+54,Feb 9 2005,World Cup qualifier in Bahrain,Bahrain,Iran,1586,1800,0,0,6,-6,1592,1794,63,26,1,-1,64,25,40,100,-114
+55,Feb 9 2005,Friendly in Bulgaria,Bulgaria,Serbia and Montenegro,1731,1772,0,0,-2,2,1729,1774,32,28,0,0,32,28,20,100,59
+56,Feb 9 2005,Friendly in France,Cameroon,Senegal,1703,1692,1,0,10,-10,1713,1682,32,44,1,-4,33,40,20,0,11
+57,Feb 9 2005,Friendly in Chile,Chile,Ecuador,1654,1677,3,0,14,-14,1668,1663,42,50,3,-4,45,46,20,100,77
+58,Feb 9 2005,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1683,1886,1,2,-14,14,1669,1900,48,8,-4,1,44,9,40,100,-103
+59,Feb 9 2005,Friendly tournament in Cyprus,Cyprus,Finland,1444,1692,1,2,-9,9,1435,1701,101,36,-3,0,98,36,30,100,-148
+60,Feb 9 2005,Friendly in Egypt,Egypt,Belgium,1665,1726,4,0,17,-17,1682,1709,35,35,5,-1,40,34,20,100,39
+61,Feb 9 2005,Friendly in England,England,Netherlands,1977,1941,0,0,-4,4,1973,1945,6,7,-1,0,5,7,20,100,136
+62,Feb 9 2005,Friendly in France,France,Sweden,1987,1869,1,1,-6,6,1981,1875,3,13,0,0,3,13,20,100,218
+63,Feb 9 2005,Friendly in Georgia,Georgia,Lithuania,1527,1458,1,0,5,-5,1532,1453,71,92,1,0,72,92,20,100,169
+64,Feb 9 2005,Friendly in Germany,Germany,Argentina,1883,2028,2,2,1,-1,1884,2027,13,1,-1,0,12,1,20,100,-45
+65,Feb 9 2005,World Cup qualifier in Greece,Greece,Denmark,1882,1864,2,1,13,-13,1895,1851,8,16,2,-1,10,15,40,100,118
+66,Feb 9 2005,Friendly in France,Guinea,Mali,1527,1525,2,2,0,0,1527,1525,73,75,0,1,73,76,20,0,2
+67,Feb 9 2005,Friendly tournament in Hong Kong,Hong Kong,Brazil,1207,1973,1,7,-1,1,1206,1974,154,3,0,1,154,4,20,0,-766
+68,Feb 9 2005,Friendly in Ireland,Ireland,Portugal,1862,1902,1,0,8,-8,1870,1894,13,13,1,-2,14,11,20,100,60
+69,Feb 9 2005,Friendly in Israel,Israel,Croatia,1686,1838,3,3,1,-1,1687,1837,37,19,1,-1,38,18,20,100,-52
+70,Feb 9 2005,Friendly in Italy,Italy,Russia,1907,1757,2,0,6,-6,1913,1751,8,33,0,-2,8,31,20,100,250
+71,Feb 9 2005,World Cup qualifier in Japan,Japan,North Korea,1849,1463,2,1,2,-2,1851,1461,14,91,1,0,15,91,20,0,386
+72,Feb 9 2005,World Cup qualifier in Macedonia,Macedonia,Andorra,1501,1093,0,0,-18,18,1483,1111,96,168,-6,3,90,171,40,100,508
+73,Feb 9 2005,Friendly in Malta,Malta,Norway,1246,1795,0,3,-2,2,1244,1797,145,20,-1,3,144,23,20,100,-449
+74,Feb 9 2005,World Cup & African Cup qual in Morocco,Morocco,Kenya,1674,1431,5,1,9,-9,1683,1422,35,102,4,-2,39,100,40,100,343
+75,Feb 9 2005,Friendly in Northern Ireland,Northern Ireland,Canada,1507,1564,0,1,-11,11,1496,1575,88,69,-4,0,84,69,20,100,43
+76,Feb 9 2005,World Cup qualifier in Panama,Panama,Guatemala,1505,1615,0,0,1,-1,1506,1614,78,60,2,-2,80,58,40,100,-10
+77,Feb 9 2005,Friendly in Poland,Poland,Belarus,1801,1614,1,3,-25,25,1776,1639,31,42,-4,8,27,50,20,100,287
+78,Feb 9 2005,Friendly in Cyprus,Romania,Slovakia,1836,1666,2,2,-5,5,1831,1671,20,42,-1,1,19,43,20,0,170
+79,Feb 9 2005,Friendly in Slovenia,Slovenia,Czechia,1664,1988,0,3,-8,8,1656,1996,48,2,-1,0,47,2,20,100,-224
+80,Feb 9 2005,Friendly in South Africa,South Africa,Australia,1585,1810,1,1,3,-3,1588,1807,64,21,1,0,65,21,20,100,-125
+81,Feb 9 2005,World Cup qualifier in South Korea,South Korea,Kuwait,1696,1513,2,0,10,-10,1706,1503,35,85,0,-3,35,82,40,100,283
+82,Feb 9 2005,World Cup qualifier in Spain,Spain,San Marino,1966,946,5,0,0,0,1966,946,6,193,0,0,6,193,20,0,1020
+83,Feb 9 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,United States,1492,1830,1,2,-8,8,1484,1838,89,15,-1,2,88,17,40,100,-238
+84,Feb 9 2005,Friendly in the United Arab Emirates,United Arab Emirates,Switzerland,1398,1691,1,2,-5,5,1393,1696,104,36,0,1,104,37,20,100,-193
+85,Feb 9 2005,World Cup qualifier in Uzbekistan,Uzbekistan,Saudi Arabia,1608,1579,1,1,-7,7,1601,1586,62,66,-1,1,61,67,40,100,129
+86,Feb 9 2005,Friendly in Venezuela,Venezuela,Estonia,1622,1382,3,0,4,-4,1626,1378,53,108,0,-1,53,107,20,100,340
+87,Feb 9 2005,Friendly in Wales,Wales,Hungary,1624,1606,2,0,10,-10,1634,1596,53,65,-1,-2,52,63,20,100,118
+88,Feb 10 2005,CEMAC Cup in Gabon,Gabon,Chad,1442,1287,2,3,-33,33,1409,1320,105,117,-5,9,100,126,40,100,255
+89,Feb 12 2005,CEMAC Cup in Gabon,Gabon,Congo,1409,1399,2,1,14,-14,1423,1385,98,105,1,-1,99,104,40,100,110
+90,Feb 13 2005,Friendly in Barbados,Barbados,Guyana,1343,1083,3,3,-8,8,1335,1091,125,174,-2,1,123,175,20,100,360
+91,Feb 13 2005,Friendly in the United States,Guatemala,Haiti,1614,1488,2,1,7,-7,1621,1481,52,93,3,-3,55,90,20,0,126
+92,Feb 16 2005,Friendly in Costa Rica,Costa Rica,Ecuador,1669,1663,1,2,-13,13,1656,1676,48,40,-2,3,46,43,20,100,106
+93,Feb 19 2005,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Belize,1621,1125,2,0,2,-2,1623,1123,53,169,1,0,54,169,20,0,496
+94,Feb 19 2005,N Am Ch q & UNCAF Cup in Guatemala,Honduras,Nicaragua,1645,1004,5,1,2,-2,1647,1002,49,189,0,0,49,189,40,0,641
+95,Feb 19 2005,N Am Ch q & UNCAF Cup in Guatemala,Panama,El Salvador,1506,1407,1,0,14,-14,1520,1393,76,103,2,-1,78,102,40,0,99
+96,Feb 20 2005,CONCACAF Ch q & Car Cup in Barbados,Barbados,Cuba,1335,1597,0,3,-20,20,1315,1617,133,56,-5,3,128,59,40,100,-162
+97,Feb 20 2005,CONCACAF Ch q & Car Cup in Barbados,Jamaica,Trinidad and Tobago,1615,1484,2,1,13,-13,1628,1471,48,93,5,-3,53,90,40,0,131
+98,Feb 21 2005,N Am Ch q & UNCAF Cup in Guatemala,Costa Rica,El Salvador,1656,1393,2,1,7,-7,1663,1386,46,104,0,-1,46,103,40,0,263
+99,Feb 21 2005,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Nicaragua,1623,1002,4,0,1,-1,1624,1001,55,189,0,0,55,189,20,0,621
+100,Feb 21 2005,N Am Ch q & UNCAF Cup in Guatemala,Honduras,Belize,1647,1123,4,0,4,-4,1651,1119,49,169,0,0,49,169,40,0,524
+101,Feb 22 2005,CONCACAF Ch q & Car Cup in Barbados,Barbados,Jamaica,1315,1628,0,1,-9,9,1306,1637,134,49,-3,2,131,51,40,100,-213
+102,Feb 22 2005,CONCACAF Ch q & Car Cup in Barbados,Cuba,Trinidad and Tobago,1617,1471,2,1,12,-12,1629,1459,49,92,5,-1,54,91,40,0,146
+103,Feb 23 2005,Friendly in Congo,Congo,Angola,1385,1541,0,2,-13,13,1372,1554,114,69,-5,1,109,70,20,100,-56
+104,Feb 23 2005,N Am Ch q & UNCAF Cup in Guatemala,Costa Rica,Panama,1663,1520,1,0,12,-12,1675,1508,42,80,2,-1,44,79,40,0,143
+105,Feb 23 2005,N Am Ch q & UNCAF Cup in Guatemala,Guatemala,Honduras,1624,1651,1,1,-4,4,1620,1655,58,49,-1,0,57,49,40,100,73
+106,Feb 23 2005,Friendly in Mexico,Mexico,Colombia,1900,1803,1,1,-5,5,1895,1808,9,20,0,1,9,21,20,100,197
+107,Feb 23 2005,N Am Ch q & UNCAF Cup in Guatemala,Nicaragua,Belize,1001,1119,1,0,27,-27,1028,1092,181,179,4,-5,185,174,40,0,-118
+108,Feb 24 2005,CONCACAF Ch q & Car Cup in Barbados,Barbados,Trinidad and Tobago,1306,1459,2,3,-17,17,1289,1476,139,89,-4,1,135,90,40,100,-53
+109,Feb 24 2005,CONCACAF Ch q & Car Cup in Barbados,Jamaica,Cuba,1637,1629,1,0,20,-20,1657,1609,43,66,4,-6,47,60,40,0,8
+110,Feb 25 2005,UNCAF Nations Cup in Guatemala,Guatemala,Costa Rica,1620,1675,0,4,-42,42,1578,1717,80,22,-12,11,68,33,40,100,45
+111,Feb 25 2005,UNCAF Nations Cup in Guatemala,Honduras,Panama,1655,1508,1,0,12,-12,1667,1496,44,87,3,-4,47,83,40,0,147
+112,Feb 26 2005,Friendly in Botswana,Botswana,Zambia,1301,1493,0,0,3,-3,1304,1490,131,87,0,-1,131,86,20,100,-92
+113,Feb 26 2005,COSAFA Cup in Mauritius,Mauritius,Madagascar,1335,1244,2,0,15,-15,1350,1229,111,150,6,-3,117,147,40,100,191
+114,Feb 26 2005,COSAFA Cup in Mauritius,South Africa,Seychelles,1588,1051,3,0,3,-3,1591,1048,64,182,0,-1,64,181,40,0,537
+115,Feb 27 2005,UNCAF Nations Cup in Guatemala,Costa Rica,Honduras,1717,1667,1,1,-3,3,1714,1670,33,45,0,1,33,46,40,0,50
+116,Feb 27 2005,UNCAF Nations Cup in Guatemala,Guatemala,Panama,1578,1496,3,0,18,-18,1596,1478,58,95,5,-6,63,89,40,100,182
+117,Feb 27 2005,Friendly in Malawi,Malawi,Zimbabwe,1292,1497,2,1,13,-13,1305,1484,128,88,3,-3,131,85,20,100,-105
+118,Feb 27 2005,COSAFA Cup in Mauritius,Mauritius,South Africa,1350,1591,0,1,-12,12,1338,1603,129,58,-6,3,123,61,40,100,-141
+119,Mar 5 2005,East Asian Championship qual in Taiwan,Hong Kong,Mongolia,1206,754,6,0,6,-6,1212,748,152,210,1,0,153,210,40,0,452
+120,Mar 5 2005,East Asian Championship qual in Taiwan,Taiwan,Guam,1016,562,9,0,4,-4,1020,558,187,226,0,0,187,226,40,100,554
+121,Mar 7 2005,East Asian Championship qual in Taiwan,Hong Kong,Guam,1212,558,15,0,3,-3,1215,555,151,226,1,0,152,226,40,0,654
+122,Mar 7 2005,East Asian Championship qual in Taiwan,North Korea,Mongolia,1461,748,6,0,1,-1,1462,747,91,210,0,0,91,210,20,0,713
+123,Mar 9 2005,Friendly in the United States,Argentina,Mexico,2027,1895,1,1,-4,4,2023,1899,1,9,0,0,1,9,20,0,132
+124,Mar 9 2005,East Asian Championship qual in Taiwan,Mongolia,Guam,747,555,4,1,17,-17,764,538,208,228,1,-1,209,227,40,0,192
+125,Mar 9 2005,East Asian Championship qual in Taiwan,Taiwan,North Korea,1020,1462,0,2,-7,7,1013,1469,187,91,0,0,187,91,40,100,-342
+126,Mar 9 2005,Friendly in the United States,United States,Colombia,1838,1808,3,0,11,-11,1849,1797,17,23,0,-1,17,22,20,100,130
+127,Mar 11 2005,East Asian Championship qual in Taiwan,North Korea,Guam,1469,538,21,0,1,-1,1470,537,91,227,0,0,91,227,30,0,931
+128,Mar 11 2005,East Asian Championship qual in Taiwan,Taiwan,Hong Kong,1013,1215,0,5,-29,29,984,1244,193,136,-3,8,190,144,40,100,-102
+129,Mar 12 2005,Friendly in Kenya,Kenya,Rwanda,1422,1348,1,1,-5,5,1417,1353,100,115,0,2,100,117,20,100,174
+130,Mar 12 2005,Friendly in Kuwait,Kuwait,Finland,1503,1701,0,1,-7,7,1496,1708,81,35,0,1,81,36,20,100,-98
+131,Mar 12 2005,Friendly in Sudan,Sudan,Ethiopia,1370,1346,3,1,10,-10,1380,1336,102,126,4,-3,106,123,20,100,124
+132,Mar 13 2005,East Asian Championship qual in Taiwan,North Korea,Hong Kong,1470,1244,2,0,13,-13,1483,1231,83,150,4,-3,87,147,40,0,226
+133,Mar 13 2005,East Asian Championship qual in Taiwan,Taiwan,Mongolia,984,764,0,0,-15,15,969,779,194,207,-2,1,192,208,40,100,320
+134,Mar 14 2005,Friendly in Saudi Arabia,Saudi Arabia,Egypt,1586,1682,0,1,-10,10,1576,1692,69,37,-1,2,68,39,20,100,4
+135,Mar 16 2005,Friendly in Zimbabwe,Zimbabwe,Botswana,1484,1304,1,1,-7,7,1477,1311,95,126,-5,3,90,129,20,100,280
+136,Mar 18 2005,Friendly in the United Arab Emirates,Kuwait,Armenia,1496,1424,3,1,12,-12,1508,1412,77,102,2,-2,79,100,20,0,72
+137,Mar 18 2005,Friendly in Saudi Arabia,Saudi Arabia,Finland,1576,1708,1,4,-16,16,1560,1724,70,30,-1,3,69,33,20,100,-32
+138,Mar 19 2005,Friendly in Gabon,Gabon,Congo,1423,1372,0,0,-4,4,1419,1376,98,110,0,0,98,110,20,100,151
+139,Mar 19 2005,Friendly in Lesotho,Lesotho,Namibia,1170,1156,1,2,-13,13,1157,1169,165,162,-1,1,164,163,20,100,114
+140,Mar 19 2005,Friendly in the United States,United States,Honduras,1849,1670,1,0,3,-3,1852,1667,13,48,2,-1,15,47,20,100,279
+141,Mar 20 2005,Friendly in the United Arab Emirates,South Korea,Burkina Faso,1706,1382,1,0,3,-3,1709,1379,35,108,1,-2,36,106,20,0,324
+142,Mar 23 2005,Friendly in Kenya,Kenya,Ghana,1417,1484,2,2,-1,1,1416,1485,99,85,0,0,99,85,20,100,33
+143,Mar 25 2005,World Cup qualifier in Iran,Iran,Japan,1794,1851,2,1,18,-18,1812,1833,17,20,4,-2,21,18,40,100,43
+144,Mar 25 2005,World Cup qualifier in Kuwait,Kuwait,Uzbekistan,1508,1601,2,1,20,-20,1528,1581,67,72,6,-5,73,67,40,100,7
+145,Mar 25 2005,World Cup qualifier in North Korea,North Korea,Bahrain,1483,1592,1,2,-19,19,1464,1611,96,51,-5,7,91,58,40,100,-9
+146,Mar 25 2005,World Cup qualifier in Saudi Arabia,Saudi Arabia,South Korea,1560,1709,2,0,34,-34,1594,1675,61,52,4,-8,65,44,40,100,-49
+147,Mar 26 2005,World Cup qualifier in Armenia,Armenia,Andorra,1412,1111,2,1,4,-4,1416,1107,98,172,1,-1,99,171,40,100,401
+148,Mar 26 2005,Friendly in Australia,Australia,Iraq,1807,1504,2,1,2,-2,1809,1502,20,83,1,-1,21,82,20,100,403
+149,Mar 26 2005,World Cup qualifier in Belgium,Belgium,Bosnia and Herzegovina,1709,1619,4,1,18,-18,1727,1601,28,66,4,-5,32,61,40,100,190
+150,Mar 26 2005,World Cup qualifier in Bolivia,Bolivia,Argentina,1588,2023,1,2,-5,5,1583,2028,66,1,0,0,66,1,40,100,-335
+151,Mar 26 2005,World Cup qualifier in Bulgaria,Bulgaria,Sweden,1729,1875,0,3,-30,30,1699,1905,42,7,-5,3,37,10,40,100,-46
+152,Mar 26 2005,World Cup & African Cup qual in Burkina Faso,Burkina Faso,Cape Verde,1379,1360,1,2,-27,27,1352,1387,128,94,-11,9,117,103,40,100,119
+153,Mar 26 2005,World Cup qualifier in Chile,Chile,Uruguay,1668,1820,1,1,3,-3,1671,1817,48,18,-1,1,47,19,40,100,-52
+154,Mar 26 2005,World Cup qualifier in Costa Rica,Costa Rica,Panama,1714,1478,2,1,5,-5,1719,1473,34,90,0,-1,34,89,40,100,336
+155,Mar 26 2005,World Cup qualifier in Croatia,Croatia,Iceland,1837,1526,4,0,6,-6,1843,1520,17,79,0,-2,17,77,40,100,411
+156,Mar 26 2005,Friendly in Cyprus,Cyprus,Jordan,1435,1581,2,1,11,-11,1446,1570,93,71,2,-2,95,69,20,100,-46
+157,Mar 26 2005,World Cup qualifier in Czechia,Czechia,Finland,1996,1724,4,3,4,-4,2000,1720,2,33,0,0,2,33,40,100,372
+158,Mar 26 2005,World Cup qualifier in Denmark,Denmark,Kazakhstan,1851,1349,3,0,2,-2,1853,1347,14,120,1,-1,15,119,20,0,502
+159,Mar 26 2005,World Cup qualifier in England,England,Northern Ireland,1973,1496,4,0,3,-3,1976,1493,1,84,2,-1,3,83,30,0,477
+160,Mar 26 2005,World Cup qualifier in Estonia,Estonia,Slovakia,1378,1671,1,2,-10,10,1368,1681,111,41,-2,2,109,43,40,100,-193
+161,Mar 26 2005,World Cup qualifier in France,France,Switzerland,1981,1696,0,0,-16,16,1965,1712,11,35,-4,1,7,36,40,100,385
+162,Mar 26 2005,World Cup qualifier in Georgia,Georgia,Greece,1532,1895,1,3,-11,11,1521,1906,80,8,-4,1,76,9,40,100,-263
+163,Mar 26 2005,World Cup qualifier in Guatemala,Guatemala,Trinidad and Tobago,1596,1476,5,1,16,-16,1612,1460,49,92,7,-1,56,91,40,100,220
+164,Mar 26 2005,World Cup qualifier in Israel,Israel,Ireland,1687,1870,1,1,5,-5,1692,1865,37,14,1,0,38,14,20,0,-183
+165,Mar 26 2005,World Cup qualifier in Italy,Italy,Scotland,1913,1605,2,0,5,-5,1918,1600,8,63,0,-1,8,62,40,100,408
+166,Mar 26 2005,World Cup & African Cup qual in Kenya,Kenya,Botswana,1416,1311,1,0,9,-9,1425,1302,97,133,1,-2,98,131,40,100,205
+167,Mar 26 2005,World Cup qualifier in Liechtenstein,Liechtenstein,Russia,1106,1751,1,2,-2,2,1104,1753,172,31,0,0,172,31,40,100,-545
+168,Mar 26 2005,World Cup & African Cup qual in Morocco,Morocco,Guinea,1683,1527,1,0,7,-7,1690,1520,40,80,0,-3,40,77,40,100,256
+169,Mar 26 2005,World Cup & African Cup qual in Nigeria,Nigeria,Gabon,1756,1419,2,0,4,-4,1760,1415,30,102,0,-2,30,100,20,0,337
+170,Mar 26 2005,World Cup qualifier in Poland,Poland,Azerbaijan,1776,1377,8,0,5,-5,1781,1372,25,107,1,1,26,108,40,100,499
+171,Mar 26 2005,Friendly in Portugal,Portugal,Canada,1894,1575,4,1,3,-3,1897,1572,13,67,-1,1,12,68,20,100,419
+172,Mar 26 2005,World Cup qualifier in Romania,Romania,Netherlands,1831,1945,0,2,-29,29,1802,1974,25,1,-3,3,22,4,40,100,-14
+173,Mar 26 2005,World Cup & African Cup qual in Senegal,Senegal,Liberia,1682,1382,6,1,7,-7,1689,1375,41,110,0,-3,41,107,40,100,400
+174,Mar 26 2005,Friendly in Slovenia,Slovenia,Germany,1656,1884,0,1,-6,6,1650,1890,53,14,-2,-1,51,13,20,100,-128
+175,Mar 26 2005,World Cup & African Cup qual in South Africa,South Africa,Uganda,1603,1334,2,1,4,-4,1607,1330,58,124,2,0,60,124,20,0,269
+176,Mar 26 2005,Friendly in Spain,Spain,China,1966,1611,3,0,2,-2,1968,1609,6,58,0,0,6,58,20,100,455
+177,Mar 26 2005,World Cup & African Cup qual in Tunisia,Tunisia,Malawi,1623,1305,7,0,7,-7,1630,1298,51,134,2,-1,53,133,40,100,418
+178,Mar 26 2005,World Cup qualifier in Turkey,Turkey,Albania,1796,1518,2,0,6,-6,1802,1512,19,79,3,0,22,79,40,100,378
+179,Mar 26 2005,World Cup qualifier in Venezuela,Venezuela,Colombia,1626,1797,0,0,4,-4,1630,1793,52,27,1,-2,53,25,40,100,-71
+180,Mar 26 2005,World Cup qualifier in Wales,Wales,Austria,1634,1637,0,2,-38,38,1596,1675,73,38,-10,7,63,45,40,100,97
+181,Mar 26 2005,World Cup & African Cup qual in Zambia,Zambia,Congo,1490,1376,2,0,14,-14,1504,1362,78,112,3,-1,81,111,40,100,214
+182,Mar 27 2005,World Cup & African Cup qual in Algeria,Algeria,Rwanda,1437,1353,1,0,10,-10,1447,1343,91,122,3,-3,94,119,40,100,184
+183,Mar 27 2005,World Cup qualifier in Brazil,Brazil,Peru,1974,1682,1,0,4,-4,1978,1678,2,46,1,-2,3,44,40,100,392
+184,Mar 27 2005,World Cup & African Cup qual in Cameroon,Cameroon,Sudan,1713,1380,2,1,3,-3,1716,1377,35,107,0,-1,35,106,20,0,333
+185,Mar 27 2005,World Cup & African Cup qual in the Dem Rep of the Congo,DR Congo,Ghana,1450,1485,1,1,-4,4,1446,1489,96,87,-1,-1,95,86,40,100,65
+186,Mar 27 2005,World Cup qualifier in Ecuador,Ecuador,Paraguay,1676,1777,5,2,35,-35,1711,1742,30,35,7,-4,37,31,40,100,-1
+187,Mar 27 2005,World Cup & African Cup qual in Egypt,Egypt,Libya,1692,1543,4,1,13,-13,1705,1530,38,71,0,0,38,71,40,100,249
+188,Mar 27 2005,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Benin,1656,1282,3,0,4,-4,1660,1278,48,138,1,-1,49,137,20,0,374
+189,Mar 27 2005,World Cup & African Cup qual in Mali,Mali,Togo,1525,1507,1,2,-27,27,1498,1534,92,60,-9,10,83,70,40,100,118
+190,Mar 27 2005,World Cup qualifier in Mexico,Mexico,United States,1899,1852,2,1,12,-12,1911,1840,7,18,2,-1,9,17,40,100,147
+191,Mar 27 2005,World Cup & African Cup qual in Zimbabwe,Zimbabwe,Angola,1477,1554,2,0,28,-28,1505,1526,72,76,8,-3,80,73,40,100,23
+192,Mar 29 2005,Friendly in Australia,Australia,Indonesia,1809,1296,3,0,1,-1,1810,1295,21,134,0,0,21,134,20,100,613
+193,Mar 29 2005,World Cup qualifier in Bolivia,Bolivia,Venezuela,1583,1630,3,1,25,-25,1608,1605,50,69,8,-8,58,61,40,100,53
+194,Mar 29 2005,Friendly in Ireland,Ireland,China,1865,1609,1,0,2,-2,1867,1607,14,60,0,-1,14,59,20,100,356
+195,Mar 30 2005,World Cup qualifier in Andorra,Andorra,Czechia,1107,2000,0,4,-1,1,1106,2001,171,2,0,0,171,2,30,100,-793
+196,Mar 30 2005,World Cup qualifier in Argentina,Argentina,Colombia,2028,1793,1,0,5,-5,2033,1788,1,23,0,1,1,24,40,100,335
+197,Mar 30 2005,World Cup qualifier in Austria,Austria,Wales,1675,1596,1,0,11,-11,1686,1585,43,68,1,-2,44,66,40,100,179
+198,Mar 30 2005,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Lithuania,1601,1453,1,1,-12,12,1589,1465,68,90,-3,1,65,91,40,100,248
+199,Mar 30 2005,World Cup qualifier in Croatia,Croatia,Malta,1843,1244,3,0,1,-1,1844,1243,16,144,0,0,16,144,20,0,599
+200,Mar 30 2005,World Cup qualifier in England,England,Azerbaijan,1976,1372,2,0,1,-1,1977,1371,2,110,1,-1,3,109,20,0,604
+201,Mar 30 2005,World Cup qualifier in Estonia,Estonia,Russia,1368,1753,1,1,14,-14,1382,1739,101,32,4,-1,105,31,40,100,-285
+202,Mar 30 2005,World Cup qualifier in Georgia,Georgia,Turkey,1521,1802,2,5,-18,18,1503,1820,86,18,-5,2,81,20,40,100,-181
+203,Mar 30 2005,World Cup qualifier in Greece,Greece,Albania,1906,1512,2,0,3,-3,1909,1509,6,77,2,1,8,78,20,0,394
+204,Mar 30 2005,World Cup qualifier in Hungary,Hungary,Bulgaria,1596,1699,1,1,0,0,1596,1699,62,41,1,-1,63,40,20,100,-3
+205,Mar 30 2005,World Cup qualifier in Israel,Israel,France,1692,1965,1,1,9,-9,1701,1956,38,7,1,0,39,7,40,100,-173
+206,Mar 30 2005,Friendly in Italy,Italy,Iceland,1918,1520,0,0,-9,9,1909,1529,8,67,0,5,8,72,20,100,498
+207,Mar 30 2005,World Cup qualifier in Japan,Japan,Bahrain,1833,1611,1,0,5,-5,1838,1606,16,62,1,-3,17,59,40,100,322
+208,Mar 30 2005,World Cup qualifier in Kuwait,Kuwait,Saudi Arabia,1528,1594,0,0,-2,2,1526,1596,74,60,-1,3,73,63,40,100,34
+209,Mar 30 2005,World Cup qualifier in Latvia,Latvia,Luxembourg,1491,1012,4,0,3,-3,1494,1009,83,189,1,-1,84,188,30,0,479
+210,Mar 30 2005,World Cup qualifier in Macedonia,Macedonia,Romania,1483,1802,1,2,-9,9,1474,1811,91,22,-2,0,89,22,40,100,-219
+211,Mar 30 2005,World Cup qualifier in Moldova,Moldova,Norway,1403,1797,0,0,14,-14,1417,1783,97,28,2,-2,99,26,40,100,-294
+212,Mar 30 2005,World Cup qualifier in the Netherlands,Netherlands,Armenia,1974,1416,2,0,1,-1,1975,1415,3,101,1,-1,4,100,20,0,558
+213,Mar 30 2005,World Cup qualifier in North Korea,North Korea,Iran,1464,1812,0,2,-12,12,1452,1824,94,18,-2,1,92,19,40,100,-248
+214,Mar 30 2005,World Cup qualifier in Panama,Panama,Mexico,1473,1911,1,1,15,-15,1488,1896,85,13,2,-2,87,11,40,100,-338
+215,Mar 30 2005,World Cup qualifier in Paraguay,Paraguay,Chile,1742,1671,2,1,11,-11,1753,1660,29,49,1,-1,30,48,40,100,171
+216,Mar 30 2005,World Cup qualifier in Peru,Peru,Ecuador,1678,1711,2,2,-4,4,1674,1715,48,35,-2,1,46,36,40,100,67
+217,Mar 30 2005,World Cup qualifier in Poland,Poland,Northern Ireland,1781,1493,1,0,4,-4,1785,1489,24,86,1,-1,25,85,40,100,388
+218,Mar 30 2005,World Cup qualifier in San Marino,San Marino,Belgium,946,1727,1,2,-1,1,945,1728,193,32,0,0,193,32,30,100,-681
+219,Mar 30 2005,World Cup qualifier in Serbia and Montenegro,Serbia and Montenegro,Spain,1774,1968,0,0,5,-5,1779,1963,29,6,-1,0,28,6,20,0,-194
+220,Mar 30 2005,World Cup qualifier in Slovakia,Slovakia,Portugal,1681,1897,1,1,6,-6,1687,1891,43,12,0,0,43,12,20,0,-216
+221,Mar 30 2005,World Cup qualifier in Slovenia,Slovenia,Belarus,1650,1639,1,1,-6,6,1644,1645,53,50,-1,1,52,51,40,100,111
+222,Mar 30 2005,World Cup qualifier in South Korea,South Korea,Uzbekistan,1675,1581,2,1,10,-10,1685,1571,45,69,0,-1,45,68,40,100,194
+223,Mar 30 2005,World Cup qualifier in Switzerland,Switzerland,Cyprus,1712,1446,1,0,4,-4,1716,1442,32,97,2,-1,34,96,20,0,266
+224,Mar 30 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Costa Rica,1460,1719,0,0,9,-9,1469,1710,89,40,1,-3,90,37,30,0,-259
+225,Mar 30 2005,World Cup qualifier in Ukraine,Ukraine,Denmark,1761,1853,1,0,20,-20,1781,1833,26,21,1,-3,27,18,40,100,8
+226,Mar 30 2005,World Cup qualifier in Uruguay,Uruguay,Brazil,1817,1978,1,1,3,-3,1820,1975,21,5,-1,-1,20,4,30,100,-61
+227,Mar 30 2005,World Cup qualifier in the United States,United States,Guatemala,1840,1612,2,0,8,-8,1848,1604,13,67,2,-6,15,61,40,100,328
+228,Apr 9 2005,Islamic Games in Saudi Arabia,Algeria,Palestine,1447,1264,3,0,18,-18,1465,1246,88,144,3,-2,91,142,40,0,183
+229,Apr 9 2005,Islamic Games in Saudi Arabia,Mali,Syria,1498,1442,0,0,-3,3,1495,1445,83,96,0,0,83,96,40,0,56
+230,Apr 9 2005,Islamic Games in Saudi Arabia,Morocco,Pakistan,1690,851,2,0,0,0,1690,851,41,202,0,0,41,202,20,0,839
+231,Apr 9 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Yemen,1596,1198,4,0,4,-4,1600,1194,61,157,1,-1,62,156,40,100,498
+232,Apr 10 2005,Islamic Games in Saudi Arabia,Iran,Tajikistan,1824,1360,9,0,6,-6,1830,1354,19,116,0,-2,19,114,40,0,464
+233,Apr 10 2005,Islamic Games in Saudi Arabia,Oman,Sudan,1619,1377,4,1,14,-14,1633,1363,52,113,1,-3,53,110,40,0,242
+234,Apr 11 2005,Islamic Games in Saudi Arabia,Algeria,Yemen,1465,1194,1,0,7,-7,1472,1187,89,162,1,-3,90,159,40,0,271
+235,Apr 11 2005,Islamic Games in Saudi Arabia,Malaysia,Morocco,1208,1690,0,0,18,-18,1226,1672,144,51,5,-5,149,46,40,0,-482
+236,Apr 11 2005,Islamic Games in Saudi Arabia,Mali,Chad,1495,1320,4,1,19,-19,1514,1301,73,137,5,-6,78,131,40,0,175
+237,Apr 11 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Palestine,1600,1246,3,0,5,-5,1605,1241,58,148,2,-3,60,145,40,100,454
+238,Apr 12 2005,Islamic Games in Saudi Arabia,Iran,Sudan,1830,1363,4,0,5,-5,1835,1358,17,114,1,-2,18,112,40,0,467
+239,Apr 12 2005,Islamic Games in Saudi Arabia,Oman,Tajikistan,1633,1354,3,0,12,-12,1645,1342,49,126,2,-6,51,120,40,0,279
+240,Apr 13 2005,Islamic Games in Saudi Arabia,Malaysia,Pakistan,1226,851,2,0,6,-6,1232,845,143,202,3,0,146,202,40,0,375
+241,Apr 13 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Algeria,1605,1472,5,0,17,-17,1622,1455,50,96,5,-3,55,93,40,100,233
+242,Apr 13 2005,Islamic Games in Saudi Arabia,Syria,Chad,1445,1301,2,0,18,-18,1463,1283,88,139,4,-4,92,135,40,0,144
+243,Apr 13 2005,Islamic Games in Saudi Arabia,Yemen,Palestine,1187,1241,3,1,35,-35,1222,1206,143,165,8,-10,151,155,40,0,-54
+244,Apr 14 2005,Islamic Games in Saudi Arabia,Iran,Oman,1835,1645,0,0,-10,10,1825,1655,20,51,-1,0,19,51,30,100,290
+245,Apr 14 2005,Islamic Games in Saudi Arabia,Sudan,Tajikistan,1358,1342,4,0,36,-36,1394,1306,92,138,10,-9,102,129,40,0,16
+246,Apr 15 2005,Islamic Games in Saudi Arabia,Morocco,Mali,1672,1514,1,0,11,-11,1683,1503,44,84,1,-3,45,81,40,0,158
+247,Apr 15 2005,Islamic Games in Saudi Arabia,Syria,Malaysia,1463,1232,3,1,13,-13,1476,1219,86,156,3,-5,89,151,40,0,231
+248,Apr 16 2005,Islamic Games in Saudi Arabia,Iran,Algeria,1825,1455,2,0,6,-6,1831,1449,19,97,0,-2,19,95,40,0,370
+249,Apr 16 2005,COSAFA Cup in Namibia,Namibia,Botswana,1169,1302,1,1,2,-2,1171,1300,163,132,0,-1,163,131,40,100,-33
+250,Apr 16 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Oman,1622,1655,2,1,16,-16,1638,1639,53,55,1,-2,54,53,30,0,-33
+251,Apr 16 2005,COSAFA Cup in Namibia,Zimbabwe,Mozambique,1505,1279,3,0,15,-15,1520,1264,75,142,2,-3,77,139,40,0,226
+252,Apr 17 2005,COSAFA Cup in Namibia,Zimbabwe,Botswana,1520,1300,2,0,13,-13,1533,1287,65,137,6,-3,71,134,40,0,220
+253,Apr 18 2005,Islamic Games in Saudi Arabia,Iran,Morocco,1831,1683,1,1,-8,8,1823,1691,19,37,0,4,19,41,40,0,148
+254,Apr 18 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Syria,1638,1476,4,0,14,-14,1652,1462,48,95,3,-3,51,92,40,100,262
+255,Apr 19 2005,Islamic Games in Saudi Arabia,Iran,Syria,1823,1462,0,0,-16,16,1807,1478,27,86,-4,3,23,89,40,0,361
+256,Apr 20 2005,Friendly in Estonia,Estonia,Norway,1382,1783,1,2,-3,3,1379,1786,106,24,0,1,106,25,20,100,-301
+257,Apr 20 2005,Friendly in the United States,Jamaica,Guatemala,1657,1604,1,0,8,-8,1665,1596,48,64,1,-1,49,63,20,0,53
+258,Apr 20 2005,Islamic Games in Saudi Arabia,Saudi Arabia,Morocco,1652,1691,1,0,17,-17,1669,1674,43,49,4,-4,47,45,30,0,-39
+259,Apr 27 2005,Friendly in Brazil,Brazil,Guatemala,1975,1596,3,0,2,-2,1977,1594,2,65,1,-1,3,64,20,100,479
+260,Apr 27 2005,Friendly in the United States,Mexico,Poland,1896,1785,1,1,-3,3,1893,1788,11,22,0,2,11,24,20,0,111
+261,May 4 2005,Friendly in the United States,Ecuador,Paraguay,1715,1753,1,0,11,-11,1726,1742,30,30,3,0,33,30,20,0,-38
+262,May 21 2005,Baltic Cup in Lithuania,Lithuania,Latvia,1465,1494,2,0,18,-18,1483,1476,82,96,5,-6,87,90,30,100,71
+263,May 22 2005,Friendly tournament in Japan,Japan,Peru,1838,1674,0,1,-25,25,1813,1699,23,35,-3,5,20,40,30,100,264
+264,May 23 2005,Friendly in Sudan,Sudan,Chad,1394,1283,4,1,8,-8,1402,1275,102,139,0,-2,102,137,20,100,211
+265,May 24 2005,Friendly in Norway,Norway,Costa Rica,1786,1710,1,0,5,-5,1791,1705,22,37,2,0,24,37,20,100,176
+266,May 24 2005,Friendly tournament in Japan,Peru,United Arab Emirates,1699,1393,0,0,-11,11,1688,1404,44,101,-2,1,42,102,30,0,306
+267,May 25 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Bermuda,1469,1178,4,0,4,-4,1473,1174,92,162,0,0,92,162,20,100,391
+268,May 25 2005,Friendly in Venezuela,Venezuela,Panama,1605,1488,1,1,-6,6,1599,1494,63,82,-1,2,62,84,20,100,217
+269,May 26 2005,Friendly in Sudan,Sudan,Chad,1402,1275,1,1,-6,6,1396,1281,103,133,0,2,103,135,20,100,227
+270,May 27 2005,Friendly tournament in Gibraltar,Gibraltar,Monaco,1078,903,4,0,10,-10,1088,893,176,198,1,-1,177,197,20,0,175
+271,May 27 2005,Friendly tournament in Japan,Japan,United Arab Emirates,1813,1404,0,1,-28,28,1785,1432,32,94,-6,4,26,98,30,100,509
+272,May 27 2005,Friendly in Kuwait,Kuwait,Egypt,1526,1705,0,1,-8,8,1518,1713,80,37,-3,0,77,37,20,100,-79
+273,May 27 2005,Friendly in Libya,Libya,Malawi,1530,1298,1,1,-7,7,1523,1305,78,129,-3,1,75,130,20,100,332
+274,May 27 2005,Friendly in Saudi Arabia,Saudi Arabia,Bahrain,1669,1606,1,1,-4,4,1665,1610,49,52,-1,4,48,56,20,100,163
+275,May 27 2005,Friendly in Trinidad and Tobago,Trinidad and Tobago,Bermuda,1473,1174,1,0,2,-2,1475,1172,90,162,1,0,91,162,20,100,399
+276,May 27 2005,Friendly in Tunisia,Tunisia,Angola,1630,1526,4,1,8,-8,1638,1518,55,80,0,-3,55,77,20,100,204
+277,May 28 2005,Friendly in the United States,United States,England,1848,1977,1,2,-9,9,1839,1986,17,3,-1,0,16,3,20,100,-29
+278,May 29 2005,Friendly in Hong Kong,Hong Kong,Macao,1231,831,8,1,2,-2,1233,829,146,204,0,0,146,204,20,100,500
+279,May 29 2005,Friendly in Iran,Iran,Azerbaijan,1807,1371,2,1,1,-1,1808,1370,22,109,0,0,22,109,20,100,536
+280,May 29 2005,Friendly in Poland,Poland,Albania,1788,1509,1,0,2,-2,1790,1507,24,79,0,0,24,79,20,100,379
+281,May 29 2005,Friendly in Togo,Togo,Burkina Faso,1534,1352,1,0,3,-3,1537,1349,70,115,0,0,70,115,20,100,282
+282,May 31 2005,Friendly in the United States,England,Colombia,1986,1788,3,2,5,-5,1991,1783,3,27,0,-1,3,26,20,0,198
+283,May 31 2005,Friendly in France,France,Hungary,1956,1596,2,1,1,-1,1957,1595,7,63,0,0,7,63,20,100,460
+284,Jun 1 2005,Friendly in Lesotho,Lesotho,Swaziland,1157,1190,3,4,-12,12,1145,1202,168,154,-2,2,166,156,20,100,67
+285,Jun 1 2005,Friendly in South Africa,Zambia,Gabon,1504,1415,1,0,7,-7,1511,1408,78,103,1,-1,79,102,20,0,89
+286,Jun 2 2005,Friendly in Finland,Finland,Denmark,1720,1833,0,1,-10,10,1710,1843,40,15,-3,1,37,16,20,100,-13
+287,Jun 3 2005,World Cup qualifier in Bahrain,Bahrain,Japan,1610,1785,0,1,-16,16,1594,1801,70,21,-7,2,63,23,40,100,-75
+288,Jun 3 2005,World Cup qualifier in Iran,Iran,North Korea,1808,1452,1,0,3,-3,1811,1449,18,95,2,-1,20,94,30,0,356
+289,Jun 3 2005,World Cup & African Cup qual in Libya,Libya,Ivory Coast,1523,1660,0,0,2,-2,1525,1658,73,52,1,-1,74,51,30,100,-37
+290,Jun 3 2005,World Cup qualifier in Saudi Arabia,Saudi Arabia,Kuwait,1665,1518,3,0,14,-14,1679,1504,44,83,2,-3,46,80,40,100,247
+291,Jun 3 2005,World Cup qualifier in Uzbekistan,Uzbekistan,South Korea,1571,1685,1,1,1,-1,1572,1684,66,45,1,0,67,45,30,100,-14
+292,Jun 4 2005,World Cup qualifier in Albania,Albania,Georgia,1507,1503,3,2,14,-14,1521,1489,71,89,4,-4,75,85,40,100,104
+293,Jun 4 2005,World Cup qualifier in Armenia,Armenia,Macedonia,1415,1474,1,2,-22,22,1393,1496,105,76,-2,8,103,84,40,100,41
+294,Jun 4 2005,World Cup qualifier in Azerbaijan,Azerbaijan,Poland,1370,1790,0,3,-10,10,1360,1800,113,23,-2,1,111,24,40,100,-320
+295,Jun 4 2005,World Cup qualifier in Belarus,Belarus,Slovenia,1645,1644,1,1,-6,6,1639,1650,56,51,-2,1,54,52,40,100,101
+296,Jun 4 2005,World Cup & African Cup qual in Benin,Benin,Cameroon,1278,1716,1,4,-9,9,1269,1725,138,34,-1,0,137,34,40,100,-338
+297,Jun 4 2005,World Cup & African Cup qual in Botswana,Botswana,Tunisia,1287,1638,1,3,-11,11,1276,1649,136,51,-1,2,135,53,40,100,-251
+298,Jun 4 2005,World Cup qualifier in Bulgaria,Bulgaria,Croatia,1699,1844,1,3,-26,26,1673,1870,54,13,-7,1,47,14,40,100,-45
+299,Jun 4 2005,World Cup & African Cup qual in Cape Verde,Cape Verde,South Africa,1387,1607,1,2,-13,13,1374,1620,112,54,-4,2,108,56,40,100,-120
+300,Jun 4 2005,World Cup qualifier in Chile,Chile,Bolivia,1660,1608,3,1,18,-18,1678,1590,38,71,6,-7,44,64,40,100,152
+301,Jun 4 2005,World Cup qualifier in Colombia,Colombia,Peru,1783,1688,5,0,20,-20,1803,1668,18,54,4,-6,22,48,40,100,195
+302,Jun 4 2005,World Cup qualifier in Czechia,Czechia,Andorra,2001,1106,8,1,0,0,2001,1106,0,171,1,0,1,171,20,0,895
+303,Jun 4 2005,World Cup qualifier in Ecuador,Ecuador,Argentina,1726,2033,2,0,46,-46,1772,1987,23,5,5,-2,28,3,40,100,-207
+304,Jun 4 2005,World Cup qualifier in Estonia,Estonia,Liechtenstein,1379,1104,2,0,6,-6,1385,1098,104,174,1,-1,105,173,40,100,375
+305,Jun 4 2005,World Cup qualifier in the Faroe Islands,Faroe Islands,Switzerland,1255,1716,1,3,-7,7,1248,1723,140,36,0,-1,140,35,40,100,-361
+306,Jun 4 2005,World Cup qualifier in Guatemala,Guatemala,Mexico,1594,1893,0,2,-14,14,1580,1907,69,9,-3,1,66,10,40,100,-199
+307,Jun 4 2005,Friendly in the United States,Honduras,Jamaica,1667,1665,0,0,0,0,1667,1665,50,51,-1,-1,49,50,20,0,2
+308,Jun 4 2005,World Cup qualifier in Iceland,Iceland,Hungary,1529,1595,2,3,-22,22,1507,1617,86,52,-7,5,79,57,40,100,34
+309,Jun 4 2005,World Cup qualifier in Ireland,Ireland,Israel,1867,1701,2,2,-13,13,1854,1714,16,33,-1,3,15,36,40,100,266
+310,Jun 4 2005,World Cup & African Cup qual in Morocco,Morocco,Malawi,1674,1305,4,1,4,-4,1678,1301,41,132,3,-1,44,131,20,0,369
+311,Jun 4 2005,World Cup qualifier in the Netherlands,Netherlands,Romania,1975,1811,2,0,11,-11,1986,1800,3,28,1,-4,4,24,40,100,264
+312,Jun 4 2005,World Cup qualifier in Norway,Norway,Italy,1791,1909,0,0,1,-1,1792,1908,28,10,-2,-1,26,9,20,100,-18
+313,Jun 4 2005,Friendly in Northern Ireland,Northern Ireland,Germany,1489,1890,1,4,-5,5,1484,1895,89,13,-2,0,87,13,20,100,-301
+314,Jun 4 2005,World Cup qualifier in Portugal,Portugal,Slovakia,1891,1687,2,0,9,-9,1900,1678,12,45,0,-1,12,44,40,100,304
+315,Jun 4 2005,World Cup qualifier in Russia,Russia,Latvia,1739,1476,2,0,7,-7,1746,1469,31,94,0,-2,31,92,40,100,363
+316,Jun 4 2005,World Cup qualifier in San Marino,San Marino,Bosnia and Herzegovina,945,1589,1,3,-3,3,942,1592,193,61,0,2,193,63,40,100,-544
+317,Jun 4 2005,World Cup qualifier in Scotland,Scotland,Moldova,1600,1417,2,0,10,-10,1610,1407,56,102,2,-1,58,101,40,100,283
+318,Jun 4 2005,World Cup qualifier in Serbia and Montenegro,Serbia and Montenegro,Belgium,1779,1728,0,0,-8,8,1771,1736,30,34,-1,-1,29,33,40,100,151
+319,Jun 4 2005,Friendly in Singapore,Singapore,Malaysia,1301,1219,2,0,8,-8,1309,1211,125,157,3,-3,128,154,20,100,182
+320,Jun 4 2005,World Cup qualifier in Spain,Spain,Lithuania,1963,1483,1,0,1,-1,1964,1482,6,89,0,-1,6,88,20,0,480
+321,Jun 4 2005,World Cup qualifier in Sweden,Sweden,Malta,1905,1243,6,0,1,-1,1906,1242,12,145,-1,-1,11,144,20,0,662
+322,Jun 4 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Panama,1475,1494,2,0,23,-23,1498,1471,75,98,8,-7,83,91,40,100,81
+323,Jun 4 2005,World Cup qualifier in Turkey,Turkey,Greece,1820,1909,0,0,-1,1,1819,1910,18,8,0,0,18,8,40,100,11
+324,Jun 4 2005,World Cup qualifier in Ukraine,Ukraine,Kazakhstan,1781,1347,2,0,3,-3,1784,1344,27,117,0,0,27,117,30,0,434
+325,Jun 4 2005,World Cup qualifier in the United States,United States,Costa Rica,1839,1705,3,0,14,-14,1853,1691,15,40,1,-1,16,39,40,100,234
+326,Jun 4 2005,World Cup qualifier in Venezuela,Venezuela,Uruguay,1599,1820,1,1,7,-7,1606,1813,61,20,0,-1,61,19,40,100,-121
+327,Jun 5 2005,World Cup & African Cup qual in Angola,Angola,Algeria,1518,1449,2,1,11,-11,1529,1438,69,100,4,-3,73,97,40,100,169
+328,Jun 5 2005,World Cup qualifier in Brazil,Brazil,Paraguay,1977,1742,4,1,9,-9,1986,1733,3,34,1,-1,4,33,40,100,335
+329,Jun 5 2005,World Cup & African Cup qual in Congo,Congo,Senegal,1362,1689,0,0,11,-11,1373,1678,106,46,2,-3,108,43,30,0,-327
+330,Jun 5 2005,World Cup & African Cup qual in the Dem Rep of the Congo,DR Congo,Uganda,1446,1330,4,0,17,-17,1463,1313,90,127,3,-2,93,125,40,100,216
+331,Jun 5 2005,World Cup & African Cup qual in Egypt,Egypt,Sudan,1713,1396,6,1,7,-7,1720,1389,35,104,1,-1,36,103,40,100,417
+332,Jun 5 2005,World Cup & African Cup qual in Ghana,Ghana,Burkina Faso,1489,1349,2,1,8,-8,1497,1341,81,123,2,-4,83,119,40,100,240
+333,Jun 5 2005,World Cup & African Cup qual in Guinea,Guinea,Kenya,1520,1425,1,0,10,-10,1530,1415,68,99,4,0,72,99,40,100,195
+334,Jun 5 2005,World Cup & African Cup qual in Mali,Mali,Liberia,1503,1375,4,1,15,-15,1518,1360,75,113,3,-3,78,110,40,100,228
+335,Jun 5 2005,World Cup & African Cup qual in Rwanda,Rwanda,Nigeria,1343,1760,1,1,14,-14,1357,1746,110,30,4,0,114,30,40,100,-317
+336,Jun 5 2005,World Cup & African Cup qual in Togo,Togo,Zambia,1537,1511,4,1,23,-23,1560,1488,70,94,0,-8,70,86,40,100,126
+337,Jun 5 2005,World Cup & African Cup qual in Zimbabwe,Zimbabwe,Gabon,1533,1408,1,0,9,-9,1542,1399,71,102,0,-1,71,101,40,100,225
+338,Jun 7 2005,World Cup qualifier in Peru,Peru,Uruguay,1668,1813,0,0,3,-3,1671,1810,48,21,0,-1,48,20,40,100,-45
+339,Jun 8 2005,World Cup qualifier in Argentina,Argentina,Brazil,1987,1986,3,1,22,-22,2009,1964,-1,6,2,-1,1,5,30,0,1
+340,Jun 8 2005,World Cup qualifier in Belarus,Belarus,Scotland,1639,1610,0,0,-7,7,1632,1617,56,56,-1,1,55,57,40,100,129
+341,Jun 8 2005,World Cup qualifier in Chile,Chile,Venezuela,1678,1606,2,1,11,-11,1689,1595,41,63,1,-1,42,62,40,100,172
+342,Jun 8 2005,World Cup qualifier in Colombia,Colombia,Ecuador,1803,1772,3,0,22,-22,1825,1750,16,32,3,-2,19,30,40,100,131
+343,Jun 8 2005,World Cup qualifier in Costa Rica,Costa Rica,Guatemala,1691,1580,3,2,9,-9,1700,1571,39,68,0,-1,39,67,40,100,211
+344,Jun 8 2005,World Cup qualifier in Czechia,Czechia,Macedonia,2001,1496,6,1,2,-2,2003,1494,5,82,-2,1,3,83,20,0,505
+345,Jun 8 2005,World Cup qualifier in Denmark,Denmark,Albania,1843,1521,3,1,5,-5,1848,1516,17,79,0,-1,17,78,40,100,422
+346,Jun 8 2005,World Cup qualifier in Estonia,Estonia,Portugal,1385,1900,0,1,-3,3,1382,1903,105,8,0,2,105,10,30,100,-415
+347,Jun 8 2005,World Cup qualifier in the Faroe Islands,Faroe Islands,Ireland,1248,1854,0,2,-3,3,1245,1857,144,17,-2,-1,142,16,40,100,-506
+348,Jun 8 2005,World Cup qualifier in Finland,Finland,Netherlands,1710,1986,0,4,-20,20,1690,2006,44,0,-3,2,41,2,40,100,-176
+349,Jun 8 2005,Friendly in Germany,Germany,Russia,1895,1746,2,2,-6,6,1889,1752,11,28,1,1,12,29,20,100,249
+350,Jun 8 2005,World Cup qualifier in Greece,Greece,Ukraine,1910,1784,0,1,-31,31,1879,1815,18,15,-5,6,13,21,40,100,226
+351,Jun 8 2005,World Cup qualifier in Iceland,Iceland,Malta,1507,1242,4,1,8,-8,1515,1234,81,146,-1,-1,80,145,40,100,365
+352,Jun 8 2005,World Cup qualifier in Iran,Iran,Bahrain,1811,1594,1,0,6,-6,1817,1588,21,64,-1,-1,20,63,40,100,317
+353,Jun 8 2005,Friendly in Canada,Italy,Serbia and Montenegro,1908,1771,1,1,-4,4,1904,1775,9,27,0,1,9,28,20,0,137
+354,Jun 8 2005,World Cup qualifier in Thailand,Japan,North Korea,1801,1449,2,0,7,-7,1808,1442,25,95,-1,0,24,95,40,0,352
+355,Jun 8 2005,Friendly in Jordan,Jordan,Iraq,1570,1502,0,1,-14,14,1556,1516,69,75,0,3,69,78,20,100,168
+356,Jun 8 2005,World Cup qualifier in Kazakhstan,Kazakhstan,Turkey,1344,1819,0,6,-9,9,1335,1828,127,18,-5,0,122,18,40,100,-375
+357,Jun 8 2005,World Cup qualifier in Kuwait,Kuwait,South Korea,1504,1684,0,4,-29,29,1475,1713,100,35,-10,3,90,38,40,100,-80
+358,Jun 8 2005,World Cup qualifier in Latvia,Latvia,Liechtenstein,1469,1098,1,0,2,-2,1471,1096,90,173,1,0,91,173,20,0,371
+359,Jun 8 2005,World Cup qualifier in Luxembourg,Luxembourg,Slovakia,1009,1678,0,4,-3,3,1006,1681,188,45,0,-1,188,44,40,100,-569
+360,Jun 8 2005,Friendly in Malaysia,Malaysia,Singapore,1211,1309,1,2,-10,10,1201,1319,158,120,-2,4,156,124,20,100,2
+361,Jun 8 2005,World Cup qualifier in Mexico,Mexico,Trinidad and Tobago,1907,1498,2,0,3,-3,1910,1495,6,82,2,0,8,82,20,0,409
+362,Jun 8 2005,World Cup qualifier in Panama,Panama,United States,1471,1853,0,3,-12,12,1459,1865,95,14,-2,1,93,15,40,100,-282
+363,Jun 8 2005,World Cup qualifier in Paraguay,Paraguay,Bolivia,1733,1590,4,1,14,-14,1747,1576,29,66,2,-1,31,65,40,100,243
+364,Jun 8 2005,World Cup qualifier in Romania,Romania,Armenia,1800,1393,3,0,4,-4,1804,1389,28,102,-2,0,26,102,40,100,507
+365,Jun 8 2005,World Cup qualifier in Saudi Arabia,Saudi Arabia,Uzbekistan,1679,1572,3,0,16,-16,1695,1556,38,71,2,-2,40,69,40,100,207
+366,Jun 8 2005,World Cup qualifier in Spain,Spain,Bosnia and Herzegovina,1964,1592,1,1,-18,18,1946,1610,8,55,-1,4,7,59,40,100,472
+367,Jun 8 2005,Friendly in Sweden,Sweden,Norway,1906,1792,2,3,-15,15,1891,1807,11,24,0,1,11,25,20,100,214
+368,Jun 9 2005,Friendly in England,Australia,New Zealand,1810,1525,1,0,3,-3,1813,1522,22,77,0,-1,22,76,20,0,285
+369,Jun 11 2005,Friendly in the United States,Ecuador,Italy,1750,1904,1,1,4,-4,1754,1900,28,11,1,-1,29,10,20,0,-154
+370,Jun 11 2005,COSAFA Cup in Zambia,Malawi,Lesotho,1301,1145,2,1,12,-12,1313,1133,121,168,5,-1,126,167,40,0,156
+371,Jun 11 2005,World Cup & African Cup qual in Tunisia,Tunisia,Guinea,1649,1530,2,0,13,-13,1662,1517,49,82,2,-5,51,77,40,100,219
+372,Jun 11 2005,COSAFA Cup in Zambia,Zambia,Swaziland,1488,1202,3,0,7,-7,1495,1195,79,159,3,-2,82,157,40,100,386
+373,Jun 12 2005,Friendly in France,Mali,Algeria,1518,1438,3,0,14,-14,1532,1424,68,99,4,-1,72,98,20,0,80
+374,Jun 12 2005,Friendly in Pakistan,Pakistan,India,845,1181,1,1,6,-6,851,1175,202,161,0,0,202,161,20,100,-236
+375,Jun 12 2005,Friendly tournament in Sierra Leone,Sierra Leone,Gambia,1320,1349,1,0,12,-12,1332,1337,123,124,0,-4,123,120,30,100,71
+376,Jun 12 2005,COSAFA Cup in Zambia,Zambia,Malawi,1495,1313,2,1,7,-7,1502,1306,80,134,1,-4,81,130,40,100,282
+377,Jun 15 2005,Confederations Cup in Germany,Argentina,Tunisia,2009,1662,2,1,6,-6,2015,1656,1,53,0,-1,1,52,50,0,347
+378,Jun 15 2005,Confederations Cup in Germany,Germany,Australia,1889,1813,4,3,13,-13,1902,1800,8,30,2,-4,10,26,50,100,176
+379,Jun 16 2005,Confederations Cup in Germany,Brazil,Greece,1964,1879,3,0,33,-33,1997,1846,3,21,1,-4,4,17,50,0,85
+380,Jun 16 2005,Confederations Cup in Germany,Mexico,Japan,1910,1808,2,1,18,-18,1928,1790,8,31,0,-4,8,27,50,0,102
+381,Jun 16 2005,Friendly in Pakistan,Pakistan,India,851,1175,0,1,-4,4,847,1179,202,161,0,0,202,161,20,100,-224
+382,Jun 18 2005,Confederations Cup in Germany,Argentina,Australia,2015,1800,4,2,17,-17,2032,1783,1,29,0,-2,1,27,50,0,215
+383,Jun 18 2005,World Cup & African Cup qual in Burkina Faso,Burkina Faso,DR Congo,1341,1463,2,0,32,-32,1373,1431,97,102,10,-5,107,97,40,100,-22
+384,Jun 18 2005,World Cup & African Cup qual in Gabon,Gabon,Rwanda,1399,1357,3,0,21,-21,1420,1336,99,126,1,-6,100,120,40,100,142
+385,Jun 18 2005,Confederations Cup in Germany,Germany,Tunisia,1902,1656,3,0,11,-11,1913,1645,8,54,1,-1,9,53,50,100,346
+386,Jun 18 2005,World Cup & African Cup qual in Kenya,Kenya,Morocco,1415,1678,0,0,9,-9,1424,1669,97,49,1,-2,98,47,40,100,-163
+387,Jun 18 2005,World Cup & African Cup qual in Malawi,Malawi,Botswana,1306,1276,1,3,-41,41,1265,1317,146,117,-8,9,138,126,40,100,130
+388,Jun 18 2005,World Cup & African Cup qual in Nigeria,Nigeria,Angola,1746,1529,1,1,-14,14,1732,1543,34,71,-1,1,33,72,40,100,317
+389,Jun 18 2005,Friendly in Pakistan,Pakistan,India,847,1179,3,0,28,-28,875,1151,198,167,2,-3,200,164,20,100,-232
+390,Jun 18 2005,World Cup & African Cup qual in Senegal,Senegal,Togo,1678,1560,2,2,-11,11,1667,1571,51,66,-3,1,48,67,40,100,218
+391,Jun 18 2005,World Cup & African Cup qual in South Africa,South Africa,Ghana,1620,1497,0,2,-47,47,1573,1544,74,60,-9,11,65,71,40,100,223
+392,Jun 18 2005,World Cup & African Cup qual in Uganda,Uganda,Cape Verde,1313,1374,1,0,18,-18,1331,1356,122,121,2,-7,124,114,30,0,-61
+393,Jun 18 2005,World Cup & African Cup qual in Zambia,Zambia,Mali,1502,1532,2,1,16,-16,1518,1516,73,86,4,-7,77,79,30,0,-30
+394,Jun 19 2005,World Cup & African Cup qual in Algeria,Algeria,Zimbabwe,1424,1542,2,2,1,-1,1425,1541,98,73,0,0,98,73,20,100,-18
+395,Jun 19 2005,World Cup & African Cup qual in Cameroon,Cameroon,Libya,1725,1525,1,0,6,-6,1731,1519,34,77,0,-1,34,76,40,100,300
+396,Jun 19 2005,Friendly in China,China,Costa Rica,1607,1700,2,2,0,0,1607,1700,60,37,0,1,60,38,20,100,7
+397,Jun 19 2005,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Egypt,1658,1720,2,0,27,-27,1685,1693,37,44,7,-4,44,40,40,100,38
+398,Jun 19 2005,Confederations Cup in Germany,Japan,Greece,1790,1846,1,0,29,-29,1819,1817,12,23,7,-3,19,20,50,0,-56
+399,Jun 19 2005,World Cup & African Cup qual in Liberia,Liberia,Congo,1360,1373,0,2,-37,37,1323,1410,138,95,-14,6,124,101,40,100,87
+400,Jun 19 2005,Confederations Cup in Germany,Mexico,Brazil,1928,1997,1,0,30,-30,1958,1967,4,6,2,-1,6,5,50,0,-69
+401,Jun 21 2005,Confederations Cup in Germany,Germany,Argentina,1913,2032,2,2,1,-1,1914,2031,9,1,0,0,9,1,20,100,-19
+402,Jun 21 2005,Confederations Cup in Germany,Tunisia,Australia,1645,1783,2,0,52,-52,1697,1731,25,39,14,-6,39,33,50,0,-138
+403,Jun 22 2005,Confederations Cup in Germany,Brazil,Japan,1967,1819,2,2,-10,10,1957,1829,5,15,0,2,5,17,50,0,148
+404,Jun 22 2005,Friendly in China,China,Costa Rica,1607,1700,2,0,15,-15,1622,1685,52,50,4,-6,56,44,20,100,7
+405,Jun 22 2005,Confederations Cup in Germany,Greece,Mexico,1817,1958,0,0,10,-10,1827,1948,18,8,1,-1,19,7,50,0,-141
+406,Jun 25 2005,Confederations Cup in Germany,Germany,Brazil,1914,1957,2,3,-29,29,1885,1986,15,5,-3,0,12,5,50,100,57
+407,Jun 26 2005,Confederations Cup in Germany,Argentina,Mexico,2031,1948,1,1,-6,6,2025,1954,1,7,0,0,1,7,50,0,83
+408,Jun 26 2005,Friendly in Mozambique,Mozambique,Lesotho,1264,1133,1,0,4,-4,1268,1129,135,169,2,-1,137,168,20,100,231
+409,Jun 29 2005,Confederations Cup in Germany,Brazil,Argentina,1986,2025,4,1,49,-49,2035,1976,-3,9,4,-4,1,5,50,0,-39
+410,Jun 29 2005,Confederations Cup in Germany,Germany,Mexico,1885,1954,4,3,23,-23,1908,1931,6,9,3,-1,9,8,50,100,31
+411,Jul 1 2005,Friendly in Botswana,Botswana,DR Congo,1317,1431,0,0,0,0,1317,1431,126,97,0,0,126,97,20,100,-14
+412,Jul 2 2005,Friendly in Canada,Canada,Honduras,1572,1667,1,2,-10,10,1562,1677,70,44,-2,3,68,47,20,100,5
+413,Jul 6 2005,CONCACAF Championship in the United States,Honduras,Trinidad and Tobago,1677,1495,1,1,-12,12,1665,1507,55,83,-4,0,51,83,50,0,182
+414,Jul 6 2005,CONCACAF Championship in the United States,Panama,Colombia,1459,1825,1,0,45,-45,1504,1780,76,32,8,-6,84,26,50,0,-366
+415,Jul 7 2005,CONCACAF Championship in the United States,Costa Rica,Canada,1685,1562,1,0,17,-17,1702,1545,32,72,6,-2,38,70,50,0,123
+416,Jul 7 2005,CONCACAF Championship in the United States,United States,Cuba,1865,1609,4,1,10,-10,1875,1599,12,60,1,0,13,60,30,0,256
+417,Jul 8 2005,CONCACAF Championship in the United States,Jamaica,Guatemala,1665,1571,4,3,18,-18,1683,1553,41,72,5,-3,46,69,50,0,94
+418,Jul 8 2005,CONCACAF Championship in the United States,South Africa,Mexico,1573,1931,2,1,44,-44,1617,1887,49,16,8,-4,57,12,50,0,-358
+419,Jul 9 2005,CONCACAF Championship in the United States,Costa Rica,Cuba,1702,1599,3,1,27,-27,1729,1572,32,69,3,-4,35,65,50,0,103
+420,Jul 9 2005,CONCACAF Championship in the United States,United States,Canada,1875,1545,2,0,6,-6,1881,1539,13,76,0,-3,13,73,30,0,330
+421,Jul 10 2005,CONCACAF Championship in the United States,Honduras,Colombia,1665,1780,2,1,33,-33,1698,1747,26,32,13,-3,39,29,50,0,-115
+422,Jul 10 2005,CONCACAF Championship in the United States,Jamaica,South Africa,1683,1617,3,3,-5,5,1678,1622,50,55,-2,1,48,56,50,0,66
+423,Jul 10 2005,CONCACAF Championship in the United States,Mexico,Guatemala,1887,1553,4,0,12,-12,1899,1541,10,73,1,-2,11,71,50,0,334
+424,Jul 10 2005,CONCACAF Championship in the United States,Panama,Trinidad and Tobago,1504,1507,2,2,0,0,1504,1507,84,83,0,0,84,83,20,0,-3
+425,Jul 12 2005,CONCACAF Championship in the United States,Canada,Cuba,1539,1572,2,1,27,-27,1566,1545,59,73,7,-4,66,69,50,0,-33
+426,Jul 12 2005,CONCACAF Championship in the United States,Colombia,Trinidad and Tobago,1747,1507,2,0,15,-15,1762,1492,25,85,2,-1,27,84,50,0,240
+427,Jul 12 2005,CONCACAF Championship in the United States,Honduras,Panama,1698,1504,1,0,12,-12,1710,1492,39,84,0,0,39,84,50,0,194
+428,Jul 12 2005,CONCACAF Championship in the United States,United States,Costa Rica,1881,1729,0,0,-16,16,1865,1745,15,27,-1,4,14,31,50,100,252
+429,Jul 13 2005,CONCACAF Championship in the United States,Guatemala,South Africa,1541,1622,1,1,6,-6,1547,1616,66,62,3,-3,69,59,50,0,-81
+430,Jul 13 2005,CONCACAF Championship in the United States,Mexico,Jamaica,1899,1678,1,0,11,-11,1910,1667,5,54,3,-3,8,51,50,0,221
+431,Jul 16 2005,CONCACAF Championship in the United States,Honduras,Costa Rica,1710,1745,3,2,28,-28,1738,1717,23,43,8,-6,31,37,50,0,-35
+432,Jul 16 2005,CONCACAF Championship in the United States,United States,Jamaica,1865,1667,3,1,11,-11,1876,1656,12,53,1,-1,13,52,30,0,198
+433,Jul 17 2005,CONCACAF Championship in the United States,Colombia,Mexico,1762,1910,2,1,35,-35,1797,1875,25,18,1,-5,26,13,50,0,-148
+434,Jul 17 2005,CONCACAF Championship in the United States,Panama,South Africa,1492,1616,1,1,9,-9,1501,1607,82,61,1,-1,83,60,50,0,-124
+435,Jul 21 2005,CONCACAF Championship in the United States,Panama,Colombia,1501,1797,3,2,42,-42,1543,1755,61,28,11,-1,72,27,50,0,-296
+436,Jul 21 2005,CONCACAF Championship in the United States,United States,Honduras,1876,1738,2,1,10,-10,1886,1728,12,39,0,-4,12,35,50,100,238
+437,Jul 24 2005,CONCACAF Championship in the United States,United States,Panama,1886,1543,0,0,-21,21,1865,1564,16,62,-2,5,14,67,50,100,443
+438,Jul 29 2005,Friendly tournament in Switzerland,Egypt,Qatar,1693,1526,5,0,17,-17,1710,1509,38,91,2,-8,40,83,30,0,167
+439,Jul 29 2005,Friendly tournament in Switzerland,Kuwait,United Arab Emirates,1475,1432,1,1,-2,2,1473,1434,91,96,0,0,91,96,30,0,43
+440,Jul 31 2005,Friendly tournament in Switzerland,Egypt,United Arab Emirates,1710,1434,0,0,-10,10,1700,1444,40,94,0,1,40,95,30,0,276
+441,Jul 31 2005,East Asian Championship in South Korea,North Korea,Japan,1442,1829,1,0,36,-36,1478,1793,86,33,4,-8,90,25,40,0,-387
+442,Jul 31 2005,Friendly tournament in Switzerland,Qatar,Kuwait,1509,1473,1,0,13,-13,1522,1460,67,95,8,-2,75,93,30,0,36
+443,Jul 31 2005,East Asian Championship in South Korea,South Korea,China,1713,1622,1,1,-10,10,1703,1632,39,54,0,1,39,55,40,100,191
+444,Aug 3 2005,Friendly in Bahrain,Bahrain,Turkmenistan,1588,1354,5,0,5,-5,1593,1349,62,114,0,0,62,114,20,100,334
+445,Aug 3 2005,East Asian Championship in South Korea,China,Japan,1632,1793,2,2,9,-9,1641,1784,53,25,1,0,54,25,40,0,-161
+446,Aug 4 2005,East Asian Championship in South Korea,South Korea,North Korea,1703,1478,0,0,-15,15,1688,1493,49,80,-5,5,44,85,40,100,325
+447,Aug 7 2005,Friendly in Bahrain,Bahrain,Iraq,1593,1516,2,2,-5,5,1588,1521,62,74,0,3,62,77,20,100,177
+448,Aug 7 2005,East Asian Championship in South Korea,China,North Korea,1641,1493,2,0,18,-18,1659,1475,50,97,2,-6,52,91,40,0,148
+449,Aug 7 2005,East Asian Championship in South Korea,South Korea,Japan,1688,1784,0,1,-20,20,1668,1804,56,21,-6,2,50,23,40,100,4
+450,Aug 9 2005,Friendly in South Africa,Angola,Botswana,1543,1317,0,0,-6,6,1537,1323,75,122,-1,2,74,124,20,0,226
+451,Aug 10 2005,Friendly in South Africa,Angola,Botswana,1537,1323,0,0,-5,5,1532,1328,74,124,0,0,74,124,20,0,214
+452,Aug 12 2005,Friendly in Fiji,Fiji,India,1313,1151,1,0,4,-4,1317,1147,126,166,1,-1,127,165,20,100,262
+453,Aug 13 2005,Friendly in Cyprus,Cyprus,Iraq,1442,1521,2,1,9,-9,1451,1512,92,89,2,-6,94,83,20,100,21
+454,Aug 13 2005,COSAFA Cup in South Africa,South Africa,Zambia,1607,1518,2,2,-10,10,1597,1528,60,69,0,5,60,74,40,100,189
+455,Aug 13 2005,COSAFA Cup in South Africa,Zimbabwe,Angola,1541,1532,2,1,19,-19,1560,1513,63,90,5,-8,68,82,40,0,9
+456,Aug 14 2005,Friendly in Fiji,Fiji,India,1317,1147,2,1,3,-3,1320,1144,125,167,1,-1,126,166,20,100,270
+457,Aug 14 2005,Friendly in South Korea,South Korea,North Korea,1668,1475,3,0,5,-5,1673,1470,44,93,3,-1,47,92,20,100,293
+458,Aug 14 2005,COSAFA Cup in South Africa,Zimbabwe,Zambia,1560,1528,1,0,18,-18,1578,1510,60,92,4,-9,64,83,40,0,32
+459,Aug 15 2005,Friendly tournament in Ukraine,Poland,Serbia and Montenegro,1800,1775,3,2,14,-14,1814,1761,15,26,5,0,20,26,30,0,25
+460,Aug 15 2005,Friendly tournament in Ukraine,Ukraine,Israel,1815,1714,0,0,-8,8,1807,1722,24,36,-2,1,22,37,30,100,201
+461,Aug 16 2005,Friendly in France,DR Congo,Guinea,1431,1517,3,1,19,-19,1450,1498,95,89,1,-6,96,83,20,0,-86
+462,Aug 17 2005,Friendly in Albania,Albania,Azerbaijan,1516,1360,2,1,4,-4,1520,1356,77,114,0,-2,77,112,20,100,256
+463,Aug 17 2005,Friendly in Portugal,Angola,Cape Verde,1513,1356,2,1,6,-6,1519,1350,76,113,2,0,78,113,20,0,157
+464,Aug 17 2005,Friendly in Austria,Austria,Scotland,1686,1617,2,2,-5,5,1681,1622,46,55,-1,1,45,56,20,100,169
+465,Aug 17 2005,World Cup qualifier in Bahrain,Bahrain,North Korea,1588,1470,2,3,-31,31,1557,1501,76,76,-7,8,69,84,40,100,218
+466,Aug 17 2005,Friendly in Belgium,Belgium,Greece,1736,1827,2,0,15,-15,1751,1812,27,22,2,-2,29,20,20,100,9
+467,Aug 17 2005,Friendly in Bulgaria,Bulgaria,Turkey,1673,1828,3,1,17,-17,1690,1811,39,25,4,-4,43,21,20,100,-55
+468,Aug 17 2005,Friendly in Croatia,Croatia,Brazil,1870,2035,1,1,2,-2,1872,2033,13,1,0,0,13,1,20,100,-65
+469,Aug 17 2005,Friendly in Denmark,Denmark,England,1848,1991,4,1,20,-20,1868,1971,12,6,2,-1,14,5,20,100,-43
+470,Aug 17 2005,Friendly in Ecuador,Ecuador,Venezuela,1754,1595,3,1,6,-6,1760,1589,24,59,2,1,26,60,20,100,259
+471,Aug 17 2005,Friendly in Estonia,Estonia,Bosnia and Herzegovina,1382,1610,1,0,14,-14,1396,1596,102,59,2,0,104,59,20,100,-128
+472,Aug 17 2005,World Cup qualifier in the Faroe Islands,Faroe Islands,Cyprus,1245,1451,0,3,-25,25,1220,1476,158,90,-8,2,150,92,40,100,-106
+473,Aug 17 2005,Friendly in France,France,Ivory Coast,1957,1685,3,0,4,-4,1961,1681,6,45,0,0,6,45,20,100,372
+474,Aug 17 2005,Friendly in England,Ghana,Senegal,1544,1667,0,0,3,-3,1547,1664,71,45,1,3,72,48,20,0,-123
+475,Aug 17 2005,World Cup qualifier in Guatemala,Guatemala,Panama,1547,1564,2,1,15,-15,1562,1549,65,74,3,-3,68,71,40,100,83
+476,Aug 17 2005,Friendly in Hungary,Hungary,Argentina,1617,1976,1,2,-4,4,1613,1980,59,3,-1,1,58,4,20,100,-259
+477,Aug 17 2005,Friendly in Iceland,Iceland,South Africa,1515,1597,4,1,17,-17,1532,1580,69,66,5,-3,74,63,20,100,18
+478,Aug 17 2005,Friendly in Ireland,Ireland,Italy,1857,1900,1,2,-12,12,1845,1912,17,8,-1,1,16,9,20,100,57
+479,Aug 17 2005,World Cup qualifier in Japan,Japan,Iran,1804,1817,2,1,15,-15,1819,1802,12,29,6,-5,18,24,40,100,87
+480,Aug 17 2005,Friendly in Jordan,Jordan,Armenia,1556,1389,0,0,-6,6,1550,1395,71,107,-1,-2,70,105,20,100,267
+481,Aug 17 2005,World Cup qualifier in Kazakhstan,Kazakhstan,Georgia,1335,1489,1,2,-17,17,1318,1506,133,80,-6,3,127,83,40,100,-54
+482,Aug 17 2005,World Cup qualifier in Latvia,Latvia,Russia,1471,1752,1,1,10,-10,1481,1742,85,35,3,-3,88,32,30,0,-281
+483,Aug 17 2005,Friendly in Libya,Libya,Nigeria,1519,1732,0,1,-7,7,1512,1739,84,34,-4,-1,80,33,20,100,-113
+484,Aug 17 2005,World Cup qualifier in Liechtenstein,Liechtenstein,Slovakia,1096,1681,0,0,18,-18,1114,1663,165,52,4,-3,169,49,40,100,-485
+485,Aug 17 2005,Friendly in Lithuania,Lithuania,Belarus,1482,1632,1,0,11,-11,1493,1621,84,58,2,-1,86,57,20,100,-50
+486,Aug 17 2005,World Cup qualifier in Macedonia,Macedonia,Finland,1494,1690,0,3,-26,26,1468,1716,102,34,-9,4,93,38,40,100,-96
+487,Aug 17 2005,Friendly in Malta,Malta,Northern Ireland,1234,1484,1,1,4,-4,1238,1480,141,93,2,-3,143,90,20,100,-150
+488,Aug 17 2005,World Cup qualifier in Mexico,Mexico,Costa Rica,1875,1717,2,0,11,-11,1886,1706,12,42,0,-2,12,40,40,100,258
+489,Aug 17 2005,Friendly in the Netherlands,Netherlands,Germany,2006,1908,2,2,-5,5,2001,1913,2,8,0,0,2,8,20,100,198
+490,Aug 17 2005,Friendly in Norway,Norway,Switzerland,1807,1723,0,2,-22,22,1785,1745,28,26,-3,5,25,31,20,100,184
+491,Aug 17 2005,Friendly in Paraguay,Paraguay,El Salvador,1747,1386,3,0,2,-2,1749,1384,30,107,0,-1,30,106,20,100,461
+492,Aug 17 2005,Friendly in Peru,Peru,Chile,1671,1689,3,1,12,-12,1683,1677,39,51,5,-4,44,47,20,100,82
+493,Aug 17 2005,Friendly tournament in Ukraine,Poland,Israel,1814,1722,3,2,11,-11,1825,1711,14,41,3,-2,17,39,30,0,92
+494,Aug 17 2005,Friendly in Portugal,Portugal,Egypt,1903,1700,2,0,4,-4,1907,1696,11,45,-1,-3,10,42,20,100,303
+495,Aug 17 2005,World Cup qualifier in Romania,Romania,Andorra,1804,1106,2,0,1,-1,1805,1105,20,173,2,-1,22,172,20,0,698
+496,Aug 17 2005,World Cup qualifier in South Korea,South Korea,Saudi Arabia,1673,1695,0,1,-24,24,1649,1719,61,33,-7,4,54,37,40,100,78
+497,Aug 17 2005,Friendly in Spain,Spain,Uruguay,1946,1810,2,0,6,-6,1952,1804,7,25,0,-2,7,23,20,100,236
+498,Aug 17 2005,World Cup & African Cup qual in Sudan,Sudan,Benin,1389,1269,1,0,9,-9,1398,1260,103,142,0,-3,103,139,40,100,220
+499,Aug 17 2005,Friendly in Sweden,Sweden,Czechia,1891,2003,2,1,10,-10,1901,1993,11,3,0,0,11,3,20,100,-12
+500,Aug 17 2005,Friendly in France,Togo,Morocco,1571,1669,1,0,13,-13,1584,1656,56,52,5,-1,61,51,20,0,-98
+501,Aug 17 2005,World Cup & African Cup qual in Tunisia,Tunisia,Kenya,1697,1424,1,0,4,-4,1701,1420,42,99,-1,0,41,99,40,100,373
+502,Aug 17 2005,Friendly tournament in Ukraine,Ukraine,Serbia and Montenegro,1807,1761,2,1,9,-9,1816,1752,16,30,3,-2,19,28,20,0,46
+503,Aug 17 2005,World Cup qualifier in the United States,United States,Trinidad and Tobago,1865,1492,1,0,2,-2,1867,1490,16,89,-1,-2,15,87,20,0,373
+504,Aug 17 2005,World Cup qualifier in Uzbekistan,Uzbekistan,Kuwait,1556,1460,3,2,10,-10,1566,1450,63,97,3,-2,66,95,40,100,196
+505,Aug 17 2005,Friendly in Wales,Wales,Slovenia,1585,1650,0,0,-1,1,1584,1651,59,52,2,1,61,53,20,100,35
+506,Aug 24 2005,Friendly in Iran,Iran,Libya,1802,1512,4,0,4,-4,1806,1508,20,84,2,-2,22,82,20,100,390
+507,Aug 28 2005,Friendly in Zimbabwe,Zimbabwe,Mozambique,1578,1268,0,0,-8,8,1570,1276,66,134,-1,1,65,135,20,100,410
+508,Sep 2 2005,World Cup & African Cup qual in Libya,Libya,Sudan,1508,1398,0,0,-11,11,1497,1409,88,101,-3,1,85,102,40,100,210
+509,Sep 3 2005,World Cup qualifier in Albania,Albania,Kazakhstan,1520,1318,2,1,6,-6,1526,1312,71,129,3,-1,74,128,40,100,302
+510,Sep 3 2005,World Cup qualifier in Andorra,Andorra,Finland,1105,1716,0,0,18,-18,1123,1698,166,44,3,-3,169,41,40,100,-511
+511,Sep 3 2005,World Cup qualifier in Armenia,Armenia,Netherlands,1395,2001,0,1,-2,2,1393,2003,107,2,-1,0,106,2,30,100,-506
+512,Sep 3 2005,World Cup qualifier in Australia,Australia,Solomon Islands,1731,1366,7,0,6,-6,1737,1360,32,109,1,0,33,109,40,100,465
+513,Sep 3 2005,World Cup qualifier in Bolivia,Bolivia,Ecuador,1576,1760,1,2,-15,15,1561,1775,68,28,-2,-1,66,27,40,100,-84
+514,Sep 3 2005,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Belgium,1596,1751,1,0,23,-23,1619,1728,57,43,1,-7,58,36,40,100,-55
+515,Sep 3 2005,World Cup & African Cup qual in Burkina Faso,Burkina Faso,South Africa,1373,1580,3,1,39,-39,1412,1541,96,81,6,-9,102,72,40,100,-107
+516,Sep 3 2005,World Cup qualifier in Estonia,Estonia,Latvia,1396,1481,2,1,19,-19,1415,1462,98,98,3,-5,101,93,30,0,-85
+517,Sep 3 2005,World Cup qualifier in France,France,Faroe Islands,1961,1220,3,0,1,-1,1962,1219,2,150,2,0,4,150,30,0,741
+518,Sep 3 2005,World Cup qualifier in Georgia,Georgia,Ukraine,1506,1816,1,1,11,-11,1517,1805,78,27,2,-4,80,23,30,0,-310
+519,Sep 3 2005,World Cup qualifier in Hungary,Hungary,Malta,1613,1238,4,0,5,-5,1618,1233,60,145,-1,-1,59,144,40,100,475
+520,Sep 3 2005,World Cup qualifier in Iceland,Iceland,Croatia,1532,1872,1,3,-12,12,1520,1884,82,13,-4,0,78,13,40,100,-240
+521,Sep 3 2005,World Cup & African Cup qual in Kenya,Kenya,Tunisia,1420,1701,0,2,-16,16,1404,1717,109,39,-5,1,104,40,40,100,-181
+522,Sep 3 2005,World Cup & African Cup qual in Mali,Mali,Congo,1516,1410,2,0,14,-14,1530,1396,67,109,6,-4,73,105,40,100,206
+523,Sep 3 2005,World Cup qualifier in Moldova,Moldova,Belarus,1407,1621,2,0,40,-40,1447,1581,91,65,6,-4,97,61,40,100,-114
+524,Sep 3 2005,World Cup & African Cup qual in Morocco,Morocco,Botswana,1656,1328,1,0,3,-3,1659,1325,47,123,2,0,49,123,20,0,328
+525,Sep 3 2005,World Cup qualifier in Northern Ireland,Northern Ireland,Azerbaijan,1480,1356,2,0,13,-13,1493,1343,82,116,4,-2,86,114,40,100,224
+526,Sep 3 2005,World Cup qualifier in Panama,Panama,Costa Rica,1549,1706,1,3,-25,25,1524,1731,79,28,-4,6,75,34,40,100,-57
+527,Sep 3 2005,World Cup qualifier in Paraguay,Paraguay,Argentina,1749,1980,1,0,27,-27,1776,1953,22,8,4,-2,26,6,40,100,-131
+528,Sep 3 2005,World Cup qualifier in Poland,Poland,Austria,1825,1681,3,2,8,-8,1833,1673,19,51,-1,-3,18,48,40,100,244
+529,Sep 3 2005,World Cup qualifier in Portugal,Portugal,Luxembourg,1907,1006,6,0,0,0,1907,1006,8,188,1,0,9,188,20,0,901
+530,Sep 3 2005,World Cup qualifier in Romania,Romania,Czechia,1805,1993,2,0,37,-37,1842,1956,11,7,6,-2,17,5,40,100,-88
+531,Sep 3 2005,World Cup qualifier in Russia,Russia,Liechtenstein,1742,1114,2,0,1,-1,1743,1113,28,171,2,-1,30,170,20,0,628
+532,Sep 3 2005,World Cup qualifier in Scotland,Scotland,Italy,1622,1912,1,1,10,-10,1632,1902,56,11,0,-1,56,10,30,0,-290
+533,Sep 3 2005,World Cup qualifier in Serbia and Montenegro,Serbia and Montenegro,Lithuania,1752,1493,2,0,7,-7,1759,1486,28,90,0,-2,28,88,40,100,359
+534,Sep 3 2005,Friendly in Slovakia,Slovakia,Germany,1663,1913,2,0,21,-21,1684,1892,37,14,6,-3,43,11,20,100,-150
+535,Sep 3 2005,World Cup qualifier in Slovenia,Slovenia,Norway,1651,1785,2,3,-18,18,1633,1803,57,25,-2,0,55,25,40,100,-34
+536,Sep 3 2005,Friendly in Spain,Spain,Canada,1952,1566,2,1,1,-1,1953,1565,5,64,1,1,6,65,20,100,486
+537,Sep 3 2005,World Cup qualifier in Sweden,Sweden,Bulgaria,1901,1690,3,0,10,-10,1911,1680,5,49,3,-3,8,46,40,100,311
+538,Sep 3 2005,World Cup qualifier in Switzerland,Switzerland,Israel,1745,1711,1,1,-7,7,1738,1718,33,39,-1,0,32,39,40,100,134
+539,Sep 3 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Guatemala,1490,1562,3,2,18,-18,1508,1544,77,72,5,-2,82,70,30,0,-72
+540,Sep 3 2005,World Cup qualifier in Turkey,Turkey,Denmark,1811,1868,2,2,-2,2,1809,1870,21,14,0,0,21,14,30,100,43
+541,Sep 3 2005,World Cup qualifier in the United States,United States,Mexico,1867,1886,2,0,23,-23,1890,1863,9,18,3,-3,12,15,40,100,81
+542,Sep 3 2005,World Cup qualifier in Uzbekistan,Uzbekistan,Bahrain,1566,1557,1,0,14,-14,1580,1543,58,73,4,-2,62,71,40,100,109
+543,Sep 3 2005,World Cup qualifier in Venezuela,Venezuela,Peru,1589,1683,4,1,34,-34,1623,1649,54,60,3,-8,57,52,40,100,6
+544,Sep 3 2005,World Cup qualifier in Wales,Wales,England,1584,1971,0,1,-6,6,1578,1977,65,1,-2,2,63,3,40,100,-287
+545,Sep 3 2005,World Cup & African Cup qual in Zambia,Zambia,Senegal,1510,1664,0,1,-17,17,1493,1681,91,40,-5,4,86,44,40,100,-54
+546,Sep 4 2005,World Cup & African Cup qual in Algeria,Algeria,Nigeria,1425,1739,2,5,-16,16,1409,1755,103,27,-2,2,101,29,40,100,-214
+547,Sep 4 2005,World Cup & African Cup qual in Angola,Angola,Gabon,1519,1420,3,0,17,-17,1536,1403,67,108,6,-4,73,104,40,100,199
+548,Sep 4 2005,World Cup qualifier in Brazil,Brazil,Chile,2033,1677,5,0,5,-5,2038,1672,1,47,0,0,1,47,20,0,356
+549,Sep 4 2005,World Cup & African Cup qual in the Dem Rep of the Congo,DR Congo,Cape Verde,1450,1350,2,1,10,-10,1460,1340,93,118,1,-3,94,115,40,100,200
+550,Sep 4 2005,World Cup & African Cup qual in Egypt,Egypt,Benin,1696,1260,4,1,3,-3,1699,1257,40,137,1,1,41,138,20,0,436
+551,Sep 4 2005,World Cup & African Cup qual in Ghana,Ghana,Uganda,1547,1331,2,0,8,-8,1555,1323,66,124,1,-1,67,123,40,100,316
+552,Sep 4 2005,World Cup & African Cup qual in Guinea,Guinea,Malawi,1498,1265,3,1,8,-8,1506,1257,82,138,1,0,83,138,40,100,333
+553,Sep 4 2005,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Cameroon,1681,1731,2,3,-23,23,1658,1754,56,26,-6,4,50,30,40,100,50
+554,Sep 4 2005,World Cup & African Cup qual in Togo,Togo,Liberia,1584,1323,3,0,8,-8,1592,1315,60,130,0,-3,60,127,40,100,361
+555,Sep 4 2005,World Cup qualifier in Uruguay,Uruguay,Colombia,1804,1755,3,2,12,-12,1816,1743,16,33,4,-2,20,31,40,100,149
+556,Sep 4 2005,World Cup & African Cup qual in Zimbabwe,Zimbabwe,Rwanda,1570,1336,3,1,8,-8,1578,1328,62,123,1,-2,63,121,40,100,334
+557,Sep 6 2005,World Cup qualifier in the Solomon Islands,Solomon Islands,Australia,1360,1737,1,2,-7,7,1353,1744,113,28,-2,3,111,31,40,100,-277
+558,Sep 7 2005,World Cup qualifier in Azerbaijan,Azerbaijan,Austria,1343,1673,0,0,12,-12,1355,1661,109,50,2,-2,111,48,40,100,-230
+559,Sep 7 2005,World Cup qualifier in Belarus,Belarus,Italy,1581,1902,1,4,-15,15,1566,1917,67,8,-3,1,64,9,40,100,-221
+560,Sep 7 2005,World Cup qualifier in Belgium,Belgium,San Marino,1728,942,8,0,1,-1,1729,941,36,193,0,0,36,193,20,0,786
+561,Sep 7 2005,World Cup qualifier in Bulgaria,Bulgaria,Iceland,1680,1520,3,2,7,-7,1687,1513,41,81,2,-1,43,80,40,100,260
+562,Sep 7 2005,World Cup qualifier in Costa Rica,Costa Rica,Trinidad and Tobago,1731,1508,2,0,8,-8,1739,1500,35,88,0,-3,35,85,40,100,323
+563,Sep 7 2005,World Cup qualifier in Cyprus,Cyprus,Switzerland,1476,1738,1,3,-17,17,1459,1755,95,24,-2,5,93,29,40,100,-162
+564,Sep 7 2005,World Cup qualifier in Czechia,Czechia,Armenia,1956,1393,4,1,2,-2,1958,1391,3,106,1,0,4,106,30,0,563
+565,Sep 7 2005,World Cup qualifier in Denmark,Denmark,Georgia,1870,1517,6,1,5,-5,1875,1512,12,82,1,-1,13,81,20,0,353
+566,Sep 7 2005,World Cup qualifier in the Faroe Islands,Faroe Islands,Israel,1219,1718,0,2,-5,5,1214,1723,154,35,-2,2,152,37,40,100,-399
+567,Sep 7 2005,World Cup qualifier in Finland,Finland,Macedonia,1698,1468,5,1,10,-10,1708,1458,40,96,1,-2,41,94,40,100,330
+568,Sep 7 2005,Friendly in Germany,Germany,South Africa,1892,1541,4,2,2,-2,1894,1539,11,72,0,0,11,72,20,100,451
+569,Sep 7 2005,World Cup qualifier in Guatemala,Guatemala,United States,1544,1890,0,0,12,-12,1556,1878,64,12,3,0,67,12,40,100,-246
+570,Sep 7 2005,World Cup qualifier in Hungary,Hungary,Sweden,1618,1911,0,1,-10,10,1608,1921,59,8,0,0,59,8,40,100,-193
+571,Sep 7 2005,World Cup qualifier in Ireland,Ireland,France,1845,1962,0,1,-19,19,1826,1981,22,2,-3,1,19,3,40,100,-17
+572,Sep 7 2005,Friendly in Japan,Japan,Honduras,1819,1728,5,4,5,-5,1824,1723,21,38,-1,-1,20,37,20,100,191
+573,Sep 7 2005,World Cup qualifier in Kazakhstan,Kazakhstan,Greece,1312,1812,1,2,-4,4,1308,1816,130,21,-1,0,129,21,40,100,-400
+574,Sep 7 2005,World Cup qualifier in Latvia,Latvia,Slovakia,1462,1684,1,1,7,-7,1469,1677,87,47,3,-2,90,45,40,100,-122
+575,Sep 7 2005,World Cup qualifier in Liechtenstein,Liechtenstein,Luxembourg,1113,1006,3,0,16,-16,1129,990,166,190,2,-1,168,189,40,100,207
+576,Sep 7 2005,World Cup qualifier in Lithuania,Lithuania,Bosnia and Herzegovina,1486,1619,0,1,-18,18,1468,1637,94,56,-3,1,91,57,40,100,-33
+577,Sep 7 2005,World Cup qualifier in Malta,Malta,Croatia,1233,1884,1,1,18,-18,1251,1866,136,17,4,-2,140,15,40,100,-551
+578,Sep 7 2005,World Cup qualifier in Mexico,Mexico,Panama,1863,1524,5,0,6,-6,1869,1518,13,82,1,-3,14,79,40,100,439
+579,Sep 7 2005,World Cup qualifier in Moldova,Moldova,Slovenia,1447,1633,1,2,-15,15,1432,1648,99,55,-1,0,98,55,40,100,-86
+580,Sep 7 2005,World Cup qualifier in the Netherlands,Netherlands,Andorra,2003,1123,4,0,0,0,2003,1123,2,171,0,-1,2,170,20,0,880
+581,Sep 7 2005,World Cup qualifier in Norway,Norway,Scotland,1803,1632,1,2,-33,33,1770,1665,31,38,-3,9,28,47,40,100,271
+582,Sep 7 2005,World Cup qualifier in Northern Ireland,Northern Ireland,England,1493,1977,1,0,36,-36,1529,1941,64,9,11,-3,75,6,40,100,-384
+583,Sep 7 2005,World Cup qualifier in Poland,Poland,Wales,1833,1578,1,0,5,-5,1838,1573,16,63,1,0,17,63,40,100,355
+584,Sep 7 2005,World Cup qualifier in Russia,Russia,Portugal,1743,1907,0,0,4,-4,1747,1903,32,11,0,-1,32,10,20,0,-164
+585,Sep 7 2005,World Cup qualifier in Spain,Spain,Serbia and Montenegro,1953,1759,1,1,-14,14,1939,1773,8,26,-1,1,7,27,40,100,294
+586,Sep 7 2005,World Cup qualifier in Ukraine,Ukraine,Turkey,1805,1809,0,1,-25,25,1780,1834,24,14,0,4,24,18,40,100,96
+587,Sep 23 2005,Friendly in the United Arab Emirates,United Arab Emirates,Benin,1444,1257,0,0,-7,7,1437,1264,97,138,0,0,97,138,20,100,287
+588,Sep 24 2005,Friendly tournament in Mozambique,Malawi,Zimbabwe,1257,1578,2,0,39,-39,1296,1539,125,80,7,-9,132,71,30,0,-321
+589,Sep 25 2005,Friendly tournament in Mozambique,Mozambique,Zimbabwe,1276,1539,3,2,22,-22,1298,1517,128,87,4,-8,132,79,30,100,-163
+590,Sep 25 2005,Friendly in Zambia,Zambia,DR Congo,1493,1460,2,2,-4,4,1489,1464,87,92,0,0,87,92,20,100,133
+591,Sep 27 2005,Friendly in the Dem Rep of the Congo,DR Congo,Zambia,1464,1489,0,0,-2,2,1462,1491,92,87,0,0,92,87,20,100,75
+592,Sep 30 2005,Friendly in Guyana,Guyana,Dominica,1091,1033,3,0,10,-10,1101,1023,173,188,1,-2,174,186,20,100,158
+593,Oct 1 2005,Friendly in the United States,Jamaica,Guatemala,1656,1556,2,1,7,-7,1663,1549,44,70,4,-2,48,68,20,0,100
+594,Oct 1 2005,World Cup & African Cup qual in Liberia,Liberia,Zambia,1315,1491,0,5,-31,31,1284,1522,143,65,-8,11,135,76,40,100,-76
+595,Oct 2 2005,Friendly in Guyana,Guyana,Dominica,1101,1023,3,0,9,-9,1110,1014,172,186,1,0,173,186,20,100,178
+596,Oct 7 2005,Friendly in Poland,Poland,Iceland,1838,1513,3,2,2,-2,1840,1511,17,85,0,-2,17,83,20,100,425
+597,Oct 8 2005,World Cup qualifier in Belgium,Belgium,Spain,1729,1939,0,2,-21,21,1708,1960,42,1,-3,3,39,4,40,100,-110
+598,Oct 8 2005,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,San Marino,1637,941,3,0,1,-1,1638,940,55,193,1,0,56,193,20,0,696
+599,Oct 8 2005,World Cup & African Cup qual in Botswana,Botswana,Guinea,1325,1506,1,2,-15,15,1310,1521,136,72,-7,6,129,78,40,100,-81
+600,Oct 8 2005,World Cup qualifier in Bulgaria,Bulgaria,Hungary,1687,1608,2,0,16,-16,1703,1592,41,65,1,-3,42,62,40,100,179
+601,Oct 8 2005,World Cup & African Cup qual in Cameroon,Cameroon,Egypt,1754,1699,1,1,-8,8,1746,1707,35,40,-2,1,33,41,40,100,155
+602,Oct 8 2005,World Cup & African Cup qual in Cape Verde,Cape Verde,Ghana,1340,1555,0,4,-26,26,1314,1581,137,60,-11,3,126,63,40,100,-115
+603,Oct 8 2005,World Cup qualifier in Colombia,Colombia,Chile,1743,1672,1,1,-9,9,1734,1681,36,44,-1,1,35,45,40,100,171
+604,Oct 8 2005,World Cup & African Cup qual in Congo,Congo,Togo,1396,1592,2,3,-15,15,1381,1607,107,56,-1,2,106,58,40,100,-96
+605,Oct 8 2005,World Cup qualifier in Costa Rica,Costa Rica,United States,1739,1878,3,0,39,-39,1778,1839,17,24,9,-6,26,18,40,100,-39
+606,Oct 8 2005,World Cup qualifier in Croatia,Croatia,Sweden,1866,1921,1,0,17,-17,1883,1904,11,10,2,-1,13,9,30,0,-55
+607,Oct 8 2005,World Cup qualifier in Cyprus,Cyprus,Ireland,1459,1826,0,1,-7,7,1452,1833,95,19,-1,0,94,19,40,100,-267
+608,Oct 8 2005,World Cup qualifier in Czechia,Czechia,Netherlands,1958,2003,0,2,-35,35,1923,2038,10,0,-3,1,7,1,40,100,55
+609,Oct 8 2005,World Cup qualifier in Denmark,Denmark,Greece,1875,1816,1,0,11,-11,1886,1805,9,25,2,-2,11,23,40,100,159
+610,Oct 8 2005,World Cup qualifier in Ecuador,Ecuador,Uruguay,1775,1816,0,0,-3,3,1772,1819,30,19,-2,1,28,20,30,100,59
+611,Oct 8 2005,World Cup qualifier in England,England,Austria,1941,1661,1,0,4,-4,1945,1657,6,53,0,-2,6,51,40,100,380
+612,Oct 8 2005,World Cup qualifier in Finland,Finland,Romania,1708,1842,0,1,-18,18,1690,1860,47,14,-3,1,44,15,40,100,-34
+613,Oct 8 2005,World Cup & African Cup qual in Gabon,Gabon,Algeria,1403,1409,0,0,-5,5,1398,1414,100,97,2,2,102,99,40,100,94
+614,Oct 8 2005,World Cup qualifier in Georgia,Georgia,Kazakhstan,1512,1308,0,0,-14,14,1498,1322,89,114,-4,7,85,121,40,100,304
+615,Oct 8 2005,World Cup qualifier in Israel,Israel,Faroe Islands,1723,1214,2,1,1,-1,1724,1213,35,154,1,-1,36,153,20,0,509
+616,Oct 8 2005,World Cup qualifier in Italy,Italy,Slovenia,1917,1648,1,0,4,-4,1921,1644,7,53,1,1,8,54,20,0,269
+617,Oct 8 2005,Friendly in Latvia,Latvia,Japan,1469,1824,2,2,6,-6,1475,1818,90,22,0,-1,90,21,20,100,-255
+618,Oct 8 2005,World Cup qualifier in Lithuania,Lithuania,Serbia and Montenegro,1468,1773,0,2,-14,14,1454,1787,95,23,-2,2,93,25,40,100,-205
+619,Oct 8 2005,World Cup & African Cup qual in Malawi,Malawi,Kenya,1296,1404,3,0,36,-36,1332,1368,106,113,13,-5,119,108,40,100,-8
+620,Oct 8 2005,World Cup qualifier in Mexico,Mexico,Guatemala,1869,1549,5,2,6,-6,1875,1543,14,74,0,-3,14,71,40,100,420
+621,Oct 8 2005,World Cup & African Cup qual in Nigeria,Nigeria,Zimbabwe,1755,1517,5,1,9,-9,1764,1508,31,84,-1,-2,30,82,40,100,338
+622,Oct 8 2005,World Cup qualifier in Norway,Norway,Moldova,1770,1432,1,0,3,-3,1773,1429,26,98,1,0,27,98,20,0,338
+623,Oct 8 2005,World Cup qualifier in Northern Ireland,Northern Ireland,Wales,1529,1573,2,3,-23,23,1506,1596,92,58,-9,2,83,60,40,100,56
+624,Oct 8 2005,World Cup qualifier in Panama,Panama,Trinidad and Tobago,1518,1500,0,1,-27,27,1491,1527,95,62,-8,12,87,74,40,100,118
+625,Oct 8 2005,World Cup qualifier in Portugal,Portugal,Liechtenstein,1903,1129,2,1,0,0,1903,1129,10,168,0,0,10,168,20,0,774
+626,Oct 8 2005,World Cup qualifier in Russia,Russia,Luxembourg,1747,990,5,1,1,-1,1748,989,32,189,0,0,32,189,30,0,757
+627,Oct 8 2005,World Cup & African Cup qual in Rwanda,Rwanda,Angola,1328,1536,0,1,-14,14,1314,1550,131,64,-5,4,126,68,40,100,-108
+628,Oct 8 2005,World Cup qualifier in Scotland,Scotland,Belarus,1665,1566,0,1,-30,30,1635,1596,67,57,-10,3,57,60,40,100,199
+629,Oct 8 2005,World Cup & African Cup qual in Senegal,Senegal,Mali,1681,1530,3,0,13,-13,1694,1517,42,85,1,-6,43,79,40,100,251
+630,Oct 8 2005,World Cup qualifier in Slovakia,Slovakia,Estonia,1677,1415,1,0,4,-4,1681,1411,45,103,0,-2,45,101,20,0,262
+631,Oct 8 2005,World Cup & African Cup qual in South Africa,South Africa,DR Congo,1539,1462,2,2,-9,9,1530,1471,75,90,-2,1,73,91,40,100,177
+632,Oct 8 2005,World Cup & African Cup qual in Sudan,Sudan,Ivory Coast,1409,1658,1,3,-18,18,1391,1676,105,42,-2,5,103,47,40,100,-149
+633,Oct 8 2005,World Cup qualifier in Switzerland,Switzerland,France,1755,1981,1,1,7,-7,1762,1974,33,3,-2,0,31,3,40,100,-126
+634,Oct 8 2005,World Cup & African Cup qual in Tunisia,Tunisia,Morocco,1717,1659,2,2,-9,9,1708,1668,38,46,1,2,39,48,40,100,158
+635,Oct 8 2005,Friendly in Turkey,Turkey,Germany,1834,1894,2,1,9,-9,1843,1885,14,13,2,-1,16,12,20,100,40
+636,Oct 8 2005,World Cup & African Cup qual in Uganda,Uganda,Burkina Faso,1323,1412,2,2,-1,1,1322,1413,119,100,2,0,121,100,40,100,11
+637,Oct 8 2005,World Cup qualifier in Ukraine,Ukraine,Albania,1780,1526,2,2,-15,15,1765,1541,34,69,-5,3,29,72,40,100,354
+638,Oct 8 2005,World Cup qualifier in Uzbekistan,Uzbekistan,Bahrain,1580,1543,1,1,-8,8,1572,1551,67,64,-3,3,64,67,40,100,137
+639,Oct 8 2005,World Cup qualifier in Venezuela,Venezuela,Paraguay,1623,1776,0,1,-17,17,1606,1793,60,23,-1,1,59,24,40,100,-53
+640,Oct 9 2005,World Cup qualifier in Argentina,Argentina,Peru,1953,1649,2,0,5,-5,1958,1644,5,54,0,-1,5,53,40,100,404
+641,Oct 9 2005,Friendly in England,Australia,Jamaica,1744,1663,5,0,15,-15,1759,1648,30,55,2,-3,32,52,20,0,81
+642,Oct 9 2005,World Cup & African Cup qual in Benin,Benin,Libya,1264,1497,1,0,27,-27,1291,1470,129,96,5,-5,134,91,40,100,-133
+643,Oct 9 2005,World Cup qualifier in Bolivia,Bolivia,Brazil,1561,2038,1,1,16,-16,1577,2022,62,3,2,-1,64,2,40,100,-377
+644,Oct 11 2005,Friendly in Cambodia,Cambodia,Singapore,828,1319,0,2,-3,3,825,1322,207,118,-1,3,206,121,20,100,-391
+645,Oct 11 2005,Friendly in Qatar,Qatar,Iraq,1522,1512,0,0,-3,3,1519,1515,81,80,-3,0,78,80,20,100,110
+646,Oct 11 2005,Friendly in the United Arab Emirates,United Arab Emirates,Oman,1437,1639,2,2,3,-3,1440,1636,97,57,0,-1,97,56,20,100,-102
+647,Oct 12 2005,World Cup qualifier in Albania,Albania,Turkey,1541,1843,0,1,-10,10,1531,1853,74,14,-1,1,73,15,40,100,-202
+648,Oct 12 2005,World Cup qualifier in Andorra,Andorra,Armenia,1123,1391,0,3,-19,19,1104,1410,176,101,-3,1,173,102,40,100,-168
+649,Oct 12 2005,World Cup qualifier in Austria,Austria,Northern Ireland,1657,1506,2,0,11,-11,1668,1495,46,85,2,-1,48,84,40,100,251
+650,Oct 12 2005,World Cup qualifier in Bahrain,Bahrain,Uzbekistan,1551,1572,0,0,-4,4,1547,1576,75,65,-4,0,71,65,40,100,79
+651,Oct 12 2005,World Cup qualifier in Belarus,Belarus,Norway,1596,1773,0,1,-16,16,1580,1789,68,21,-4,3,64,24,40,100,-77
+652,Oct 12 2005,World Cup qualifier in Brazil,Brazil,Venezuela,2022,1606,3,0,3,-3,2025,1603,0,57,1,1,1,58,20,0,416
+653,Oct 12 2005,World Cup qualifier in Chile,Chile,Ecuador,1681,1772,0,0,-1,1,1680,1773,45,26,0,1,45,27,40,100,9
+654,Oct 12 2005,World Cup qualifier in England,England,Poland,1945,1840,2,1,9,-9,1954,1831,4,21,1,-2,5,19,40,100,205
+655,Oct 12 2005,World Cup qualifier in Finland,Finland,Czechia,1690,1923,0,3,-22,22,1668,1945,52,5,-4,1,48,6,40,100,-133
+656,Oct 12 2005,World Cup qualifier in France,France,Cyprus,1974,1452,4,0,2,-2,1976,1450,3,96,0,-1,3,95,20,0,522
+657,Oct 12 2005,Friendly in Germany,Germany,China,1885,1659,1,0,3,-3,1888,1656,12,57,0,-4,12,53,20,100,326
+658,Oct 12 2005,World Cup qualifier in Greece,Greece,Georgia,1805,1498,1,0,4,-4,1809,1494,19,85,2,0,21,85,30,0,307
+659,Oct 12 2005,World Cup qualifier in Guatemala,Guatemala,Costa Rica,1543,1778,3,1,41,-41,1584,1737,53,44,9,-9,62,35,40,100,-135
+660,Oct 12 2005,World Cup qualifier in Hungary,Hungary,Croatia,1592,1883,0,0,10,-10,1602,1873,58,13,2,0,60,13,30,0,-291
+661,Oct 12 2005,World Cup qualifier in Ireland,Ireland,Switzerland,1833,1762,0,0,-9,9,1824,1771,21,25,-1,3,20,28,40,100,171
+662,Oct 12 2005,World Cup qualifier in Italy,Italy,Moldova,1921,1429,2,1,1,-1,1922,1428,8,98,0,0,8,98,20,0,492
+663,Oct 12 2005,World Cup qualifier in Kazakhstan,Kazakhstan,Denmark,1322,1886,1,2,-3,3,1319,1889,127,11,-3,0,124,11,40,100,-464
+664,Oct 12 2005,World Cup qualifier in Lithuania,Lithuania,Belgium,1454,1708,1,1,8,-8,1462,1700,93,43,0,-2,93,41,40,100,-154
+665,Oct 12 2005,World Cup qualifier in Luxembourg,Luxembourg,Estonia,989,1411,0,2,-8,8,981,1419,193,97,-2,2,191,99,40,100,-322
+666,Oct 12 2005,World Cup qualifier in Malta,Malta,Bulgaria,1251,1703,1,1,15,-15,1266,1688,140,44,0,-1,140,43,40,100,-352
+667,Oct 12 2005,World Cup qualifier in the Netherlands,Netherlands,Macedonia,2038,1458,0,0,-19,19,2019,1477,3,86,-1,3,2,89,40,0,580
+668,Oct 12 2005,World Cup qualifier in Paraguay,Paraguay,Colombia,1793,1734,0,1,-29,29,1764,1763,34,27,-5,4,29,31,40,100,159
+669,Oct 12 2005,World Cup qualifier in Peru,Peru,Bolivia,1644,1577,4,1,19,-19,1663,1558,51,72,1,-4,52,68,40,100,167
+670,Oct 12 2005,World Cup qualifier in Portugal,Portugal,Latvia,1903,1475,3,0,3,-3,1906,1472,10,91,0,-1,10,90,20,0,428
+671,Oct 12 2005,World Cup qualifier in San Marino,San Marino,Spain,940,1960,0,6,0,0,940,1960,193,4,0,0,193,4,20,0,-1020
+672,Oct 12 2005,World Cup qualifier in Serbia and Montenegro,Serbia and Montenegro,Bosnia and Herzegovina,1787,1638,1,0,8,-8,1795,1630,21,57,2,-1,23,56,40,100,249
+673,Oct 12 2005,World Cup qualifier in Slovakia,Slovakia,Russia,1681,1748,0,0,-2,2,1679,1750,47,33,-1,0,46,33,40,100,33
+674,Oct 12 2005,World Cup qualifier in Slovenia,Slovenia,Scotland,1644,1635,0,3,-46,46,1598,1681,69,31,-8,13,61,44,40,100,109
+675,Oct 12 2005,Friendly in South Korea,South Korea,Iran,1649,1806,2,0,17,-17,1666,1789,51,26,0,-2,51,24,20,100,-57
+676,Oct 12 2005,World Cup qualifier in Sweden,Sweden,Iceland,1904,1511,3,1,3,-3,1907,1508,9,81,0,0,9,81,20,0,393
+677,Oct 12 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Mexico,1527,1875,2,1,32,-32,1559,1843,60,18,7,-2,67,16,40,100,-248
+678,Oct 12 2005,Friendly in Ukraine,Ukraine,Japan,1765,1818,1,0,9,-9,1774,1809,23,21,3,0,26,21,20,100,47
+679,Oct 12 2005,World Cup qualifier in Uruguay,Uruguay,Argentina,1819,1958,1,0,22,-22,1841,1936,16,9,2,-2,18,7,40,100,-39
+680,Oct 12 2005,World Cup qualifier in the United States,United States,Panama,1839,1491,2,0,4,-4,1843,1487,14,86,2,0,16,86,20,0,348
+681,Oct 12 2005,World Cup qualifier in Wales,Wales,Azerbaijan,1596,1355,2,0,7,-7,1603,1348,56,115,2,-2,58,113,40,100,341
+682,Oct 23 2005,Friendly in Madagascar,Madagascar,Mauritius,1229,1338,2,0,15,-15,1244,1323,140,124,3,-4,143,120,20,100,-9
+683,Oct 25 2005,Friendly in Oman,Oman,Syria,1636,1478,0,0,-6,6,1630,1484,55,86,0,1,55,87,20,100,258
+684,Oct 26 2005,Friendly in Mexico,Mexico,Uruguay,1843,1841,3,1,11,-11,1854,1830,14,20,1,-1,15,19,20,100,102
+685,Oct 27 2005,Friendly in Bahrain,Bahrain,Panama,1547,1487,5,0,11,-11,1558,1476,65,92,3,-3,68,89,20,100,160
+686,Oct 30 2005,Friendly in Puerto Rico,Puerto Rico,Guadeloupe,884,1358,1,3,-3,3,881,1361,198,108,0,1,198,109,20,100,-374
+687,Nov 2 2005,Friendly tournament in Northern Cyprus,Northern Cyprus,Kosovo,1451,1378,1,0,8,-8,1459,1370,94,107,0,0,94,107,20,0,73
+688,Nov 6 2005,Friendly in Zanzibar,Zanzibar,Tanzania,1149,1132,0,1,-13,13,1136,1145,170,161,-3,3,167,164,20,100,117
+689,Nov 9 2005,Friendly in Martinique,France,Costa Rica,1976,1737,3,2,4,-4,1980,1733,3,35,0,0,3,35,20,0,239
+690,Nov 9 2005,Friendly tournament in Tajikistan,Tajikistan,Afghanistan,1306,817,4,0,2,-2,1308,815,129,207,1,0,130,207,20,0,489
+691,Nov 9 2005,Friendly in Tanzania,Tanzania,Zanzibar,1145,1136,1,0,7,-7,1152,1129,164,167,0,0,164,167,20,100,109
+692,Nov 11 2005,Friendly in France,DR Congo,Tunisia,1471,1708,2,2,6,-6,1477,1702,85,41,3,-1,88,40,20,0,-237
+693,Nov 11 2005,Friendly tournament in Iran,Paraguay,Togo,1764,1607,4,2,13,-13,1777,1594,23,65,3,-4,26,61,30,0,157
+694,Nov 12 2005,Friendly in Belarus,Belarus,Latvia,1580,1472,3,1,7,-7,1587,1465,60,93,2,-1,62,92,20,100,208
+695,Nov 12 2005,Friendly in Bulgaria,Bulgaria,Georgia,1688,1494,6,2,6,-6,1694,1488,43,85,0,0,43,85,20,100,294
+696,Nov 12 2005,Friendly in Switzerland,England,Argentina,1954,1936,3,2,9,-9,1963,1927,5,9,0,-1,5,8,20,0,18
+697,Nov 12 2005,Friendly in Finland,Finland,Estonia,1668,1419,2,2,-8,8,1660,1427,56,99,-4,0,52,99,20,100,349
+698,Nov 12 2005,Friendly in France,France,Germany,1980,1888,0,0,-5,5,1975,1893,3,10,0,1,3,11,20,100,192
+699,Nov 12 2005,Friendly in France,Ivory Coast,Romania,1676,1860,2,1,15,-15,1691,1845,41,16,3,-1,44,15,20,0,-184
+700,Nov 12 2005,Friendly in Liechtenstein,Liechtenstein,Macedonia,1129,1477,1,2,-4,4,1125,1481,171,86,-2,1,169,87,20,100,-248
+701,Nov 12 2005,Friendly in the Netherlands,Netherlands,Italy,2019,1922,1,3,-23,23,1996,1945,2,6,0,1,2,7,20,100,197
+702,Nov 12 2005,World Cup qualifier in Norway,Norway,Czechia,1789,1945,0,1,-17,17,1772,1962,34,6,-5,0,29,6,40,100,-56
+703,Nov 12 2005,Friendly in Portugal,Portugal,Croatia,1906,1873,2,0,10,-10,1916,1863,8,13,1,0,9,13,20,100,133
+704,Nov 12 2005,Friendly in Scotland,Scotland,United States,1681,1843,1,1,2,-2,1683,1841,46,15,-1,1,45,16,20,100,-62
+705,Nov 12 2005,Friendly tournament in South Africa,South Africa,Senegal,1530,1694,2,3,-12,12,1518,1706,82,38,-4,2,78,40,30,100,-64
+706,Nov 12 2005,Friendly in South Korea,South Korea,Sweden,1666,1907,2,2,4,-4,1670,1903,45,11,3,-1,48,10,20,100,-141
+707,Nov 12 2005,World Cup qualifier in Spain,Spain,Slovakia,1960,1679,5,1,8,-8,1968,1671,4,48,0,-1,4,47,40,100,381
+708,Nov 12 2005,World Cup qualifier in Switzerland,Switzerland,Turkey,1771,1853,2,0,28,-28,1799,1825,17,22,6,-3,23,19,30,0,-82
+709,Nov 12 2005,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Bahrain,1559,1558,1,1,-6,6,1553,1564,71,66,-2,1,69,67,40,100,101
+710,Nov 12 2005,Friendly in the United Arab Emirates,United Arab Emirates,Brazil,1440,2025,0,8,-3,3,1437,2028,97,1,0,0,97,1,20,100,-485
+711,Nov 12 2005,World Cup qualifier in Uruguay,Uruguay,Australia,1830,1759,1,0,11,-11,1841,1748,13,34,3,-1,16,33,40,100,171
+712,Nov 13 2005,Friendly in China,China,Serbia and Montenegro,1656,1795,0,2,-13,13,1643,1808,55,22,-1,1,54,23,20,100,-39
+713,Nov 13 2005,Friendly tournament in Iran,Iran,Togo,1789,1594,2,0,7,-7,1796,1587,25,61,0,0,25,61,20,0,195
+714,Nov 13 2005,Friendly in Spain,Poland,Ecuador,1831,1773,3,0,15,-15,1846,1758,12,34,3,-3,15,31,20,0,58
+715,Nov 14 2005,Friendly in Saudi Arabia,Saudi Arabia,Ghana,1719,1581,1,3,-24,24,1695,1605,46,50,-4,7,42,57,20,100,238
+716,Nov 15 2005,Friendly in France,Cameroon,Morocco,1746,1668,0,0,-2,2,1744,1670,34,47,0,1,34,48,20,0,78
+717,Nov 15 2005,Friendly in Northern Ireland,Northern Ireland,Portugal,1495,1916,1,1,7,-7,1502,1909,82,9,1,0,83,9,20,100,-321
+718,Nov 16 2005,World Cup qualifier in Australia,Australia,Uruguay,1748,1841,1,0,20,-20,1768,1821,23,23,5,-3,28,20,40,100,7
+719,Nov 16 2005,World Cup qualifier in Bahrain,Bahrain,Trinidad and Tobago,1564,1553,0,1,-26,26,1538,1579,77,61,-5,4,72,65,40,100,111
+720,Nov 16 2005,Friendly in the United States,Bulgaria,Mexico,1694,1854,3,0,25,-25,1719,1829,33,22,5,-4,38,18,20,0,-160
+721,Nov 16 2005,Friendly in Cyprus,Cyprus,Wales,1450,1603,1,0,12,-12,1462,1591,89,64,3,-3,92,61,20,100,-53
+722,Nov 16 2005,World Cup qualifier in Czechia,Czechia,Norway,1962,1772,1,0,6,-6,1968,1766,2,30,2,-1,4,29,40,100,290
+723,Nov 16 2005,Friendly in Egypt,Egypt,Tunisia,1707,1702,1,2,-13,13,1694,1715,50,38,-6,1,44,39,20,100,105
+724,Nov 16 2005,Friendly in Georgia,Georgia,Jordan,1488,1550,3,2,9,-9,1497,1541,85,72,0,-1,85,71,20,100,38
+725,Nov 16 2005,Friendly in Greece,Greece,Hungary,1809,1602,2,1,3,-3,1812,1599,21,58,0,1,21,59,20,100,307
+726,Nov 16 2005,Friendly in Switzerland,Italy,Ivory Coast,1945,1691,1,1,-6,6,1939,1697,7,40,0,2,7,42,20,0,254
+727,Nov 16 2005,Friendly in Japan,Japan,Angola,1809,1550,1,0,2,-2,1811,1548,23,68,-1,1,22,69,20,100,359
+728,Nov 16 2005,Friendly in France,Libya,DR Congo,1470,1477,2,1,10,-10,1480,1467,85,91,3,-1,88,90,20,0,-7
+729,Nov 16 2005,Friendly in Luxembourg,Luxembourg,Canada,981,1565,0,1,-1,1,980,1566,191,68,0,-1,191,67,20,0,-584
+730,Nov 16 2005,Friendly in Poland,Poland,Estonia,1846,1427,3,1,1,-1,1847,1426,15,99,0,0,15,99,20,100,519
+731,Nov 16 2005,Friendly in Qatar,Qatar,Argentina,1519,1927,0,3,-5,5,1514,1932,83,8,-3,0,80,8,20,100,-308
+732,Nov 16 2005,Friendly in Romania,Romania,Nigeria,1845,1764,3,0,9,-9,1854,1755,12,35,2,-3,14,32,20,100,181
+733,Nov 16 2005,World Cup qualifier in Slovakia,Slovakia,Spain,1671,1968,1,1,10,-10,1681,1958,47,8,0,-2,47,6,30,0,-297
+734,Nov 16 2005,Friendly in South Korea,South Korea,Serbia and Montenegro,1670,1808,2,0,17,-17,1687,1791,42,25,3,-1,45,24,20,100,-38
+735,Nov 16 2005,Friendly in Syria,Syria,United Arab Emirates,1484,1437,0,3,-24,24,1460,1461,104,91,-9,3,95,94,20,100,147
+736,Nov 16 2005,World Cup qualifier in Turkey,Turkey,Switzerland,1825,1799,4,2,20,-20,1845,1779,13,26,3,-1,16,25,40,100,126
+737,Nov 18 2005,Amilcar Cabral Cup in Guinea,Guinea,Guinea-Bissau,1521,1224,2,2,-16,16,1505,1240,88,142,-6,3,82,145,40,100,397
+738,Nov 20 2005,Amilcar Cabral Cup in Guinea,Guinea-Bissau,Sierra Leone,1240,1332,1,1,5,-5,1245,1327,141,120,2,-1,143,119,40,0,-92
+739,Nov 22 2005,Amilcar Cabral Cup in Guinea,Guinea,Sierra Leone,1505,1327,1,0,7,-7,1512,1320,78,125,2,-3,80,122,40,100,278
+740,Nov 24 2005,Friendly in Sudan,Sudan,Ethiopia,1391,1336,1,5,-27,27,1364,1363,112,101,-4,8,108,109,20,100,155
+741,Nov 26 2005,Friendly in Kuwait,Kuwait,Iraq,1450,1515,0,0,-1,1,1449,1516,97,78,0,0,97,78,20,100,35
+742,Nov 26 2005,CECAFA Cup in Rwanda,Rwanda,Zanzibar,1314,1129,0,1,-34,34,1280,1163,148,159,-11,4,137,163,40,100,285
+743,Nov 27 2005,CECAFA Cup in Rwanda,Ethiopia,Uganda,1363,1322,0,0,-2,2,1361,1324,109,118,0,1,109,119,30,0,41
+744,Nov 27 2005,CECAFA Cup in Rwanda,Somalia,Djibouti,1035,872,2,1,11,-11,1046,861,183,201,0,0,183,201,40,0,163
+745,Nov 28 2005,CECAFA Cup in Rwanda,Tanzania,Burundi,1152,1311,2,1,29,-29,1181,1282,159,143,3,-8,162,135,40,0,-159
+746,Nov 28 2005,CECAFA Cup in Rwanda,Zanzibar,Eritrea,1163,1145,3,0,33,-33,1196,1112,151,174,6,-4,157,170,40,0,18
+747,Nov 29 2005,CECAFA Cup in Rwanda,Sudan,Somalia,1364,1046,4,1,10,-10,1374,1036,104,183,2,0,106,183,40,0,318
+748,Nov 30 2005,CECAFA Cup in Rwanda,Rwanda,Eritrea,1280,1112,3,2,7,-7,1287,1105,131,174,3,-2,134,172,40,100,268
+749,Nov 30 2005,CECAFA Cup in Rwanda,Uganda,Djibouti,1324,861,6,1,5,-5,1329,856,119,201,0,0,119,201,40,0,463
+750,Nov 30 2005,CECAFA Cup in Rwanda,Zanzibar,Burundi,1196,1282,2,1,25,-25,1221,1257,143,145,7,-5,150,140,40,0,-86
+751,Dec 1 2005,CECAFA Cup in Rwanda,Ethiopia,Sudan,1361,1374,3,1,31,-31,1392,1343,99,122,5,-8,104,114,40,0,-13
+752,Dec 1 2005,West Asian Games in Qatar,Iraq,Palestine,1516,1206,4,0,11,-11,1527,1195,70,159,4,-2,74,157,40,0,310
+753,Dec 1 2005,CECAFA Cup in Rwanda,Uganda,Somalia,1329,1036,7,0,14,-14,1343,1022,109,187,5,-2,114,185,40,0,293
+754,Dec 2 2005,CECAFA Cup in Rwanda,Burundi,Eritrea,1257,1105,0,0,-8,8,1249,1113,140,166,0,3,140,169,40,0,152
+755,Dec 2 2005,CECAFA Cup in Rwanda,Tanzania,Zanzibar,1181,1221,1,1,2,-2,1183,1219,162,150,0,0,162,150,30,0,-40
+756,Dec 2 2005,Friendly in the United Arab Emirates,United Arab Emirates,Libya,1461,1480,1,1,-2,2,1459,1482,96,84,-1,2,95,86,20,100,81
+757,Dec 3 2005,CECAFA Cup in Rwanda,Ethiopia,Djibouti,1392,856,6,0,4,-4,1396,852,104,203,0,-1,104,202,40,0,536
+758,Dec 3 2005,West Asian Games in Qatar,Saudi Arabia,Palestine,1695,1195,2,0,3,-3,1698,1192,41,159,1,-1,42,158,40,0,500
+759,Dec 3 2005,West Asian Games in Qatar,Syria,Oman,1460,1630,3,1,44,-44,1504,1586,72,71,11,-8,83,63,40,0,-170
+760,Dec 3 2005,CECAFA Cup in Rwanda,Uganda,Sudan,1343,1343,3,0,35,-35,1378,1308,100,140,7,-13,107,127,40,0,0
+761,Dec 4 2005,West Asian Games in Qatar,Bahrain,Syria,1538,1504,2,2,-2,2,1536,1506,72,83,0,0,72,83,40,0,34
+762,Dec 4 2005,CECAFA Cup in Rwanda,Rwanda,Burundi,1287,1249,2,0,19,-19,1306,1230,126,154,4,-7,130,147,40,100,138
+763,Dec 4 2005,CECAFA Cup in Rwanda,Tanzania,Eritrea,1183,1113,1,0,16,-16,1199,1097,150,179,6,-5,156,174,40,0,70
+764,Dec 5 2005,CECAFA Cup in Rwanda,Ethiopia,Somalia,1396,1022,3,1,6,-6,1402,1016,102,185,1,0,103,185,40,0,374
+765,Dec 5 2005,West Asian Games in Qatar,Iraq,Saudi Arabia,1527,1698,5,1,55,-55,1582,1643,56,64,9,-11,65,53,40,0,-171
+766,Dec 5 2005,CECAFA Cup in Rwanda,Sudan,Djibouti,1308,852,4,0,5,-5,1313,847,125,202,1,0,126,202,40,0,456
+767,Dec 6 2005,West Asian Games in Qatar,Bahrain,Oman,1536,1586,2,2,3,-3,1539,1583,73,65,0,-1,73,64,40,0,-50
+768,Dec 6 2005,CECAFA Cup in Rwanda,Rwanda,Tanzania,1306,1199,3,1,14,-14,1320,1185,112,168,9,-6,121,162,40,100,207
+769,Dec 7 2005,South Asian Championship in Pakistan,Maldives,Afghanistan,993,815,9,1,25,-25,1018,790,182,207,3,0,185,207,40,0,178
+770,Dec 7 2005,South Asian Championship in Pakistan,Pakistan,Sri Lanka,875,983,1,0,20,-20,895,963,194,195,3,-3,197,192,30,0,-108
+771,Dec 8 2005,South Asian Championship in Pakistan,Bangladesh,Bhutan,1012,587,3,0,6,-6,1018,581,182,223,3,0,185,223,40,0,425
+772,Dec 8 2005,CECAFA Cup in Rwanda,Ethiopia,Zanzibar,1402,1219,4,0,19,-19,1421,1200,97,160,3,-5,100,155,40,0,183
+773,Dec 8 2005,South Asian Championship in Pakistan,India,Nepal,1144,853,2,1,6,-6,1150,847,166,201,0,0,166,201,40,0,291
+774,Dec 8 2005,West Asian Games in Qatar,Iraq,Saudi Arabia,1582,1643,2,0,35,-35,1617,1608,45,59,10,-3,55,56,40,0,-61
+775,Dec 8 2005,CECAFA Cup in Rwanda,Rwanda,Uganda,1320,1378,1,0,18,-18,1338,1360,113,113,4,-3,117,110,40,100,42
+776,Dec 9 2005,South Asian Championship in Pakistan,Maldives,Sri Lanka,1018,963,2,0,25,-25,1043,938,181,194,2,-1,183,193,40,0,55
+777,Dec 9 2005,South Asian Championship in Pakistan,Pakistan,Afghanistan,895,790,1,0,9,-9,904,781,195,207,1,0,196,207,40,100,205
+778,Dec 10 2005,South Asian Championship in Pakistan,Bangladesh,Nepal,1018,847,2,0,16,-16,1034,831,182,205,2,-2,184,203,40,0,171
+779,Dec 10 2005,South Asian Championship in Pakistan,India,Bhutan,1150,581,3,0,3,-3,1153,578,164,225,1,-1,165,224,40,0,569
+780,Dec 10 2005,West Asian Games in Qatar,Iraq,Syria,1617,1506,2,2,-6,6,1611,1512,55,77,0,3,55,80,40,0,111
+781,Dec 10 2005,CECAFA Cup in Rwanda,Rwanda,Ethiopia,1338,1421,0,1,-21,21,1317,1442,131,96,-7,2,124,98,40,100,17
+782,Dec 10 2005,CECAFA Cup in Rwanda,Uganda,Zanzibar,1360,1200,0,0,-9,9,1351,1209,114,153,-2,1,112,154,40,0,160
+783,Dec 11 2005,South Asian Championship in Pakistan,Afghanistan,Sri Lanka,781,938,2,1,28,-28,809,910,207,197,0,-2,207,195,40,0,-157
+784,Dec 11 2005,Friendly in the Dem Rep of the Congo,DR Congo,Zambia,1467,1522,1,1,-1,1,1466,1523,91,75,0,0,91,75,20,100,45
+785,Dec 11 2005,South Asian Championship in Pakistan,Pakistan,Maldives,904,1043,0,0,2,-2,906,1041,196,183,0,0,196,183,30,100,-39
+786,Dec 12 2005,South Asian Championship in Pakistan,Bangladesh,India,1034,1153,1,1,7,-7,1041,1146,182,167,1,-1,183,166,40,0,-119
+787,Dec 12 2005,South Asian Championship in Pakistan,Nepal,Bhutan,831,578,3,1,11,-11,842,567,201,224,1,0,202,224,40,0,253
+788,Dec 14 2005,South Asian Championship in Pakistan,India,Maldives,1146,1041,1,0,14,-14,1160,1027,164,187,1,-2,165,185,40,0,105
+789,Dec 14 2005,Friendly in the United States,Mexico,Hungary,1829,1599,2,0,6,-6,1835,1593,18,61,0,-1,18,60,20,0,230
+790,Dec 14 2005,South Asian Championship in Pakistan,Pakistan,Bangladesh,906,1041,0,1,-18,18,888,1059,200,177,-2,3,198,180,40,100,-35
+791,Dec 14 2005,Friendly in Zambia,Zambia,DR Congo,1523,1466,4,1,10,-10,1533,1456,73,101,1,-5,74,96,20,100,157
+792,Dec 16 2005,Friendly in Mauritius,Mauritius,Réunion,1323,1276,1,1,-4,4,1319,1280,125,137,-3,0,122,137,20,100,147
+793,Dec 17 2005,South Asian Championship in Pakistan,India,Bangladesh,1160,1059,2,0,22,-22,1182,1037,161,186,2,-3,163,183,40,0,101
+794,Dec 18 2005,Friendly in the United States,Hungary,Antigua and Barbuda,1593,1113,3,0,2,-2,1595,1111,60,169,0,0,60,169,20,0,480
+795,Dec 18 2005,Friendly in Réunion,Réunion,Mauritius,1280,1319,1,2,-12,12,1268,1331,137,116,0,3,137,119,20,100,61
+796,Dec 22 2005,Asian Cup qualifier in Bangladesh,Bangladesh,Pakistan,1037,888,0,0,-12,12,1025,900,189,196,-3,1,186,197,40,100,249
+797,Dec 24 2005,King's Cup in Thailand,Thailand,Latvia,1317,1465,1,1,2,-2,1319,1463,122,91,1,0,123,91,30,100,-48
+798,Dec 26 2005,King's Cup in Thailand,Latvia,North Korea,1463,1501,1,1,2,-2,1465,1499,91,85,0,0,91,85,30,0,-38
+799,Dec 26 2005,Asian Cup qualifier in Pakistan,Pakistan,Bangladesh,900,1025,0,1,-19,19,881,1044,199,180,-1,3,198,183,40,100,-25
+800,Dec 27 2005,Friendly tournament in Egypt,Egypt,Uganda,1694,1351,2,0,3,-3,1697,1348,41,114,1,-1,42,113,30,100,443
+801,Dec 27 2005,Friendly tournament in Egypt,Senegal,Ecuador,1706,1758,2,1,17,-17,1723,1741,34,37,3,-3,37,34,30,0,-52
+802,Dec 28 2005,King's Cup in Thailand,Thailand,North Korea,1319,1499,0,2,-17,17,1302,1516,137,73,-7,6,130,79,30,100,-80
+803,Dec 29 2005,Friendly tournament in Egypt,Egypt,Senegal,1697,1723,4,2,18,-18,1715,1705,34,45,4,-4,38,41,30,100,74
+804,Dec 29 2005,Friendly tournament in Egypt,Uganda,Ecuador,1348,1741,2,1,27,-27,1375,1714,101,46,6,-6,107,40,30,0,-393
+805,Dec 30 2005,King's Cup in Thailand,Latvia,North Korea,1465,1516,2,1,17,-17,1482,1499,83,91,4,-6,87,85,30,0,-51
+806,Dec 31 2005,Friendly in Zimbabwe,Zimbabwe,Zambia,1508,1533,1,1,-2,2,1506,1535,84,74,-1,0,83,74,20,100,75

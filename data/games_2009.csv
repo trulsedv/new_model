@@ -1,0 +1,907 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 1 2009,CECAFA Cup in Uganda,Uganda,Rwanda,1404,1419,4,0,29,-29,1433,1390,90,126,10,-11,100,115,30,0,-15
+1,Jan 1 2009,CECAFA Cup in Uganda,Zanzibar,Somalia,1278,924,2,0,7,-7,1285,917,134,197,1,-2,135,195,40,0,354
+2,Jan 2 2009,CECAFA Cup in Uganda,Burundi,Djibouti,1248,787,4,0,5,-5,1253,782,139,209,2,0,141,209,40,0,461
+3,Jan 2 2009,CECAFA Cup in Uganda,Kenya,Zambia,1398,1525,0,0,7,-7,1405,1518,108,87,2,-4,110,83,40,0,-127
+4,Jan 3 2009,CECAFA Cup in Uganda,Somalia,Tanzania,917,1366,1,0,37,-37,954,1329,187,127,4,-4,191,123,40,0,-449
+5,Jan 3 2009,CECAFA Cup in Uganda,Uganda,Zanzibar,1433,1285,0,0,-12,12,1421,1297,108,129,-4,3,104,132,40,100,248
+6,Jan 4 2009,Gulf Cup in Oman,Bahrain,Iraq,1520,1597,3,1,37,-37,1557,1560,55,73,13,-7,68,66,40,0,-77
+7,Jan 4 2009,CECAFA Cup in Uganda,Burundi,Zambia,1253,1518,1,1,13,-13,1266,1505,137,91,2,-4,139,87,40,0,-265
+8,Jan 4 2009,CECAFA Cup in Uganda,Djibouti,Sudan,782,1414,1,1,19,-19,801,1395,207,119,1,-6,208,113,40,0,-632
+9,Jan 4 2009,Gulf Cup in Oman,Oman,Kuwait,1568,1428,0,0,-12,12,1556,1440,74,96,-5,2,69,98,40,100,240
+10,Jan 5 2009,Gulf Cup in Oman,Qatar,Saudi Arabia,1507,1650,0,0,8,-8,1515,1642,81,50,2,0,83,50,40,0,-143
+11,Jan 5 2009,CECAFA Cup in Uganda,Rwanda,Somalia,1390,954,3,0,5,-5,1395,949,111,191,2,0,113,191,40,0,436
+12,Jan 5 2009,CECAFA Cup in Uganda,Tanzania,Zanzibar,1329,1297,2,1,18,-18,1347,1279,119,140,2,-4,121,136,40,0,32
+13,Jan 5 2009,Gulf Cup in Oman,United Arab Emirates,Yemen,1422,1230,3,1,15,-15,1437,1215,97,157,3,-3,100,154,40,0,192
+14,Jan 6 2009,CECAFA Cup in Uganda,Burundi,Sudan,1266,1395,1,0,27,-27,1293,1368,127,121,6,-4,133,117,40,0,-129
+15,Jan 6 2009,CECAFA Cup in Uganda,Kenya,Djibouti,1405,801,5,1,2,-2,1407,799,109,208,0,0,109,208,30,0,604
+16,Jan 7 2009,Gulf Cup in Oman,Kuwait,Bahrain,1440,1557,1,0,26,-26,1466,1531,86,86,6,-9,92,77,40,0,-117
+17,Jan 7 2009,Gulf Cup in Oman,Oman,Iraq,1556,1560,4,0,27,-27,1583,1533,49,86,10,-10,59,76,40,100,96
+18,Jan 7 2009,CECAFA Cup in Uganda,Tanzania,Rwanda,1347,1395,2,0,34,-34,1381,1361,109,127,6,-7,115,120,40,0,-48
+19,Jan 7 2009,CECAFA Cup in Uganda,Uganda,Somalia,1421,949,4,0,3,-3,1424,946,102,191,1,0,103,191,30,0,472
+20,Jan 8 2009,CECAFA Cup in Uganda,Kenya,Burundi,1407,1293,1,0,14,-14,1421,1279,101,139,4,-3,105,136,40,0,114
+21,Jan 8 2009,Gulf Cup in Oman,Qatar,United Arab Emirates,1515,1437,0,0,-4,4,1511,1441,87,96,-2,2,85,98,40,0,78
+22,Jan 8 2009,Gulf Cup in Oman,Saudi Arabia,Yemen,1642,1215,6,0,7,-7,1649,1208,50,154,0,0,50,154,40,0,427
+23,Jan 8 2009,CECAFA Cup in Uganda,Sudan,Zambia,1368,1505,2,0,41,-41,1409,1464,101,97,8,-5,109,92,40,0,-137
+24,Jan 9 2009,Friendly in Iran,Iran,China,1771,1531,3,1,4,-4,1775,1527,20,79,4,-1,24,78,20,100,340
+25,Jan 9 2009,CECAFA Cup in Uganda,Rwanda,Zanzibar,1361,1279,3,0,27,-27,1388,1252,112,148,4,-6,116,142,40,0,82
+26,Jan 9 2009,CECAFA Cup in Uganda,Uganda,Tanzania,1424,1381,2,1,12,-12,1436,1369,101,120,1,-2,102,118,40,100,143
+27,Jan 10 2009,Gulf Cup in Oman,Iraq,Kuwait,1533,1466,1,1,-4,4,1529,1470,76,91,0,0,76,91,20,100,167
+28,Jan 10 2009,Gulf Cup in Oman,Oman,Bahrain,1583,1531,2,0,18,-18,1601,1513,59,89,0,-6,59,83,40,100,152
+29,Jan 11 2009,CECAFA Cup in Uganda,Kenya,Tanzania,1421,1369,2,1,17,-17,1438,1352,95,122,5,-2,100,120,40,0,52
+30,Jan 11 2009,Gulf Cup in Oman,Qatar,Yemen,1511,1208,2,1,6,-6,1517,1202,79,156,3,-1,82,155,40,0,303
+31,Jan 11 2009,Gulf Cup in Oman,Saudi Arabia,United Arab Emirates,1649,1441,3,0,16,-16,1665,1425,44,110,3,-6,47,104,40,0,208
+32,Jan 11 2009,CECAFA Cup in Uganda,Uganda,Burundi,1436,1279,5,0,15,-15,1451,1264,88,140,7,-2,95,138,40,100,257
+33,Jan 13 2009,CECAFA Cup in Uganda,Tanzania,Burundi,1352,1264,3,2,15,-15,1367,1249,116,148,2,-5,118,143,40,0,88
+34,Jan 13 2009,CECAFA Cup in Uganda,Uganda,Kenya,1451,1438,1,0,14,-14,1465,1424,89,108,3,-4,92,104,30,0,13
+35,Jan 14 2009,Friendly in Hong Kong,Hong Kong,India,1208,1253,2,1,8,-8,1216,1245,154,152,0,-6,154,146,20,100,55
+36,Jan 14 2009,Asian Cup qualifier in Iran,Iran,Singapore,1775,1365,6,0,4,-4,1779,1361,22,120,1,0,23,120,20,0,410
+37,Jan 14 2009,Asian Cup qualifier in Jordan,Jordan,Thailand,1519,1426,0,0,-10,10,1509,1436,87,102,-3,0,84,102,40,100,193
+38,Jan 14 2009,Gulf Cup in Oman,Oman,Qatar,1601,1517,1,0,10,-10,1611,1507,55,88,2,-3,57,85,40,100,184
+39,Jan 14 2009,Gulf Cup in Oman,Saudi Arabia,Kuwait,1665,1470,1,0,10,-10,1675,1460,45,95,1,-2,46,93,40,0,195
+40,Jan 14 2009,Asian Cup qualifier in Syria,Syria,China,1541,1527,3,2,14,-14,1555,1513,64,85,4,-4,68,81,30,0,14
+41,Jan 14 2009,Asian Cup qualifier in Vietnam,Vietnam,Lebanon,1334,1282,3,1,18,-18,1352,1264,119,139,2,-2,121,137,40,100,152
+42,Jan 17 2009,Friendly in the United States,Guatemala,Haiti,1513,1417,1,0,7,-7,1520,1410,79,110,1,-2,80,108,20,0,96
+43,Jan 17 2009,Gulf Cup in Oman,Oman,Saudi Arabia,1611,1675,0,0,-2,2,1609,1677,59,46,-1,0,58,46,30,100,36
+44,Jan 18 2009,Friendly in the United States,Honduras,Chile,1726,1799,2,0,18,-18,1744,1781,35,24,1,-2,36,22,20,0,-73
+45,Jan 18 2009,Friendly in Kuwait,Syria,Turkmenistan,1555,1311,5,1,7,-7,1562,1304,66,132,1,-2,67,130,20,0,244
+46,Jan 19 2009,Asian Cup qualifier in Oman,Oman,Indonesia,1609,1238,0,0,-18,18,1591,1256,60,128,-1,11,59,139,40,100,471
+47,Jan 20 2009,Asian Cup qualifier in Japan,Japan,Yemen,1775,1202,2,1,1,-1,1776,1201,25,155,0,0,25,155,20,0,573
+48,Jan 20 2009,Friendly in Kuwait,Kuwait,Turkmenistan,1460,1304,2,0,6,-6,1466,1298,89,132,2,-1,91,131,20,100,256
+49,Jan 21 2009,Asian Cup qualifier in China,China,Vietnam,1513,1352,6,1,15,-15,1528,1337,72,125,5,-2,77,123,40,100,261
+50,Jan 21 2009,Asian Cup qualifier in Hong Kong,Hong Kong,Bahrain,1216,1513,1,3,-15,15,1201,1528,154,72,0,5,154,77,40,100,-197
+51,Jan 21 2009,Asian Cup qualifier in Malaysia,Malaysia,United Arab Emirates,1161,1425,0,5,-22,22,1139,1447,173,93,-4,5,169,98,40,100,-164
+52,Jan 21 2009,King's Cup in Thailand,Thailand,Lebanon,1436,1264,2,1,5,-5,1441,1259,98,139,2,-1,100,138,20,0,172
+53,Jan 22 2009,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Nicaragua,1487,1019,1,1,-17,17,1470,1036,90,185,0,0,90,185,40,0,468
+54,Jan 22 2009,N Am Ch q & UNCAF Cup in Honduras,Honduras,Belize,1744,1095,2,1,1,-1,1745,1094,34,179,1,-1,35,178,30,0,649
+55,Jan 23 2009,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Panama,1700,1545,3,0,20,-20,1720,1525,37,87,3,-8,40,79,40,0,155
+56,Jan 23 2009,Friendly in Egypt,Egypt,Kenya,1763,1424,1,0,1,-1,1764,1423,29,106,0,-1,29,105,20,100,439
+57,Jan 23 2009,Friendly in Kuwait,Kuwait,Syria,1466,1562,2,3,-10,10,1456,1572,97,59,-3,4,94,63,20,100,4
+58,Jan 23 2009,King's Cup in Thailand,Lebanon,North Korea,1259,1524,1,0,25,-25,1284,1499,132,95,3,-7,135,88,30,0,-265
+59,Jan 24 2009,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Belize,1470,1094,4,1,7,-7,1477,1087,90,178,0,0,90,178,40,0,376
+60,Jan 24 2009,N Am Ch q & UNCAF Cup in Honduras,Honduras,Nicaragua,1745,1036,4,1,1,-1,1746,1035,35,185,0,0,35,185,20,0,709
+61,Jan 24 2009,Friendly in the United States,United States,Sweden,1807,1759,3,2,6,-6,1813,1753,19,32,0,-1,19,31,20,100,148
+62,Jan 25 2009,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Guatemala,1720,1520,3,1,14,-14,1734,1506,36,89,2,-4,38,85,40,0,200
+63,Jan 26 2009,N Am Ch q & UNCAF Cup in Honduras,Belize,Nicaragua,1087,1035,1,1,-3,3,1084,1038,178,185,0,0,178,185,40,0,52
+64,Jan 26 2009,N Am Ch q & UNCAF Cup in Honduras,Honduras,El Salvador,1746,1477,2,0,6,-6,1752,1471,29,90,3,0,32,90,40,100,369
+65,Jan 27 2009,N Am Ch q & UNCAF Cup in Honduras,Panama,Guatemala,1525,1506,1,0,19,-19,1544,1487,63,93,8,-4,71,89,40,0,19
+66,Jan 27 2009,Friendly in South Africa,South Africa,Zambia,1535,1464,1,0,5,-5,1540,1459,74,92,-1,0,73,92,20,100,171
+67,Jan 28 2009,Asian Cup qualifier in Bahrain,Bahrain,Japan,1528,1776,1,0,28,-28,1556,1748,63,39,7,-7,70,32,40,100,-148
+68,Jan 28 2009,Asian Cup qualifier in Indonesia,Indonesia,Australia,1256,1756,0,0,16,-16,1272,1740,133,42,3,-6,136,36,40,100,-400
+69,Jan 28 2009,Asian Cup qualifier in Kuwait,Kuwait,Oman,1456,1591,0,1,-18,18,1438,1609,106,57,-6,1,100,58,40,100,-35
+70,Jan 28 2009,Asian Cup qualifier in Lebanon,Lebanon,Syria,1284,1572,0,2,-15,15,1269,1587,139,57,-2,3,137,60,40,100,-188
+71,Jan 28 2009,Asian Cup qualifier in Singapore,Singapore,Jordan,1361,1509,2,1,23,-23,1384,1486,114,96,3,-7,117,89,40,100,-48
+72,Jan 28 2009,Friendly in the United States,Sweden,Mexico,1753,1835,1,0,12,-12,1765,1823,25,20,3,-3,28,17,20,0,-82
+73,Jan 28 2009,Asian Cup qualifier in Thailand,Thailand,Iran,1441,1779,0,0,12,-12,1453,1767,90,31,5,-4,95,27,40,100,-238
+74,Jan 28 2009,Asian Cup qualifier in the United Arab Emirates,United Arab Emirates,Uzbekistan,1447,1552,0,1,-20,20,1427,1572,108,59,-5,5,103,64,40,100,-5
+75,Jan 28 2009,Asian Cup qualifier in Yemen,Yemen,Hong Kong,1201,1201,1,0,14,-14,1215,1187,154,162,0,-4,154,158,40,100,100
+76,Jan 29 2009,N Am Ch q & UNCAF Cup in Honduras,Nicaragua,Guatemala,1038,1487,2,0,56,-56,1094,1431,171,116,7,-14,178,102,40,0,-449
+77,Jan 30 2009,UNCAF Nations Cup in Honduras,Costa Rica,El Salvador,1734,1471,1,0,7,-7,1741,1464,32,91,3,-1,35,90,40,0,263
+78,Jan 30 2009,UNCAF Nations Cup in Honduras,Honduras,Panama,1752,1544,0,1,-34,34,1718,1578,50,54,-10,9,40,63,40,100,308
+79,Feb 1 2009,Friendly in the United Arab Emirates,Azerbaijan,Uzbekistan,1367,1572,1,1,5,-5,1372,1567,117,67,1,-1,118,66,20,0,-205
+80,Feb 1 2009,UNCAF Nations Cup in Honduras,Costa Rica,Panama,1741,1578,0,0,-9,9,1732,1587,39,59,-2,2,37,61,40,0,163
+81,Feb 1 2009,UNCAF Nations Cup in Honduras,Honduras,El Salvador,1718,1464,1,0,5,-5,1723,1459,36,90,2,0,38,90,40,100,354
+82,Feb 1 2009,Friendly in the United Arab Emirates,South Korea,Syria,1722,1587,1,1,-4,4,1718,1591,42,60,-2,0,40,60,20,0,135
+83,Feb 4 2009,Friendly in the United Arab Emirates,Bahrain,South Korea,1556,1718,2,2,4,-4,1560,1714,69,40,1,0,70,40,20,0,-162
+84,Feb 4 2009,Friendly in Japan,Japan,Finland,1748,1672,5,1,10,-10,1758,1662,29,47,1,0,30,47,20,100,176
+85,Feb 5 2009,Friendly in Japan,Saudi Arabia,Thailand,1677,1453,2,1,4,-4,1681,1449,46,96,0,-1,46,95,20,0,224
+86,Feb 6 2009,Friendly in the United States,El Salvador,Peru,1459,1611,1,0,14,-14,1473,1597,88,61,1,-2,89,59,20,0,-152
+87,Feb 7 2009,Friendly in Portugal,Lithuania,Poland,1631,1751,1,1,3,-3,1634,1748,51,31,1,0,52,31,20,0,-120
+88,Feb 8 2009,Friendly in Barbados,Barbados,Grenada,1296,1305,5,0,15,-15,1311,1290,124,135,4,-3,128,132,20,100,91
+89,Feb 10 2009,Friendly in England,Brazil,Italy,2017,2005,2,0,14,-14,2031,1991,1,4,1,0,2,4,20,0,12
+90,Feb 10 2009,Friendly tournament in Cyprus,Cyprus,Serbia,1535,1774,0,2,-14,14,1521,1788,85,18,-5,3,80,21,30,100,-139
+91,Feb 10 2009,Friendly tournament in Cyprus,Ukraine,Slovakia,1779,1630,3,2,9,-9,1788,1621,19,54,2,0,21,54,30,0,149
+92,Feb 11 2009,Friendly in Algeria,Algeria,Benin,1442,1409,2,1,6,-6,1448,1403,97,113,0,-2,97,111,20,100,133
+93,Feb 11 2009,Friendly in Cyprus,Armenia,Latvia,1412,1525,0,0,3,-3,1415,1522,105,83,1,-2,106,81,20,0,-113
+94,Feb 11 2009,Friendly in Austria,Austria,Sweden,1566,1765,0,2,-11,11,1555,1776,73,22,-3,3,70,25,20,100,-99
+95,Feb 11 2009,Friendly in Belgium,Belgium,Slovenia,1633,1581,2,0,9,-9,1642,1572,49,67,2,-2,51,65,20,100,152
+96,Feb 11 2009,Friendly in France,Burkina Faso,Togo,1424,1441,1,1,0,0,1424,1441,104,98,0,0,104,98,20,0,-17
+97,Feb 11 2009,Friendly in France,Cameroon,Guinea,1747,1582,3,1,8,-8,1755,1574,27,66,3,-2,30,64,20,0,165
+98,Feb 11 2009,Friendly in Colombia,Colombia,Haiti,1748,1410,2,0,2,-2,1750,1408,37,108,-3,0,34,108,20,100,438
+99,Feb 11 2009,World Cup qualifier in Costa Rica,Costa Rica,Honduras,1732,1723,2,0,21,-21,1753,1702,27,48,5,-5,32,43,40,100,109
+100,Feb 11 2009,Friendly tournament in Cyprus,Cyprus,Slovakia,1521,1621,3,2,15,-15,1536,1606,70,60,5,-3,75,57,30,100,0
+101,Feb 11 2009,Friendly in Egypt,Egypt,Ghana,1764,1693,2,2,-5,5,1759,1698,27,44,1,0,28,44,20,100,171
+102,Feb 11 2009,World Cup qualifier in El Salvador,El Salvador,Trinidad and Tobago,1473,1566,2,2,0,0,1473,1566,89,67,0,0,89,67,20,100,7
+103,Feb 11 2009,Friendly in Equatorial Guinea,Equatorial Guinea,Liberia,1221,1247,1,0,8,-8,1229,1239,151,153,1,-4,152,149,20,100,74
+104,Feb 11 2009,Friendly in France,France,Argentina,1892,1973,0,2,-16,16,1876,1989,12,4,-2,1,10,5,20,100,19
+105,Feb 11 2009,Friendly in Germany,Germany,Norway,1966,1707,0,1,-18,18,1948,1725,7,34,0,4,7,38,20,100,359
+106,Feb 11 2009,Friendly in Greece,Greece,Denmark,1773,1829,1,1,-1,1,1772,1830,28,14,-1,1,27,15,20,100,44
+107,Feb 11 2009,Friendly in Spain,Iceland,Liechtenstein,1450,1185,2,0,5,-5,1455,1180,92,161,1,-1,93,160,20,0,265
+108,Feb 11 2009,World Cup qualifier in Iran,Iran,South Korea,1767,1714,1,1,-8,8,1759,1722,29,38,-1,1,28,39,40,100,153
+109,Feb 11 2009,World Cup qualifier in Ireland,Ireland,Georgia,1774,1514,2,1,4,-4,1778,1510,23,83,1,-1,24,82,20,0,260
+110,Feb 11 2009,Friendly in Israel,Israel,Hungary,1745,1621,1,0,4,-4,1749,1617,36,56,-1,-1,35,55,20,100,224
+111,Feb 11 2009,Friendly in England,Jamaica,Nigeria,1637,1740,0,0,3,-3,1640,1737,53,39,-1,-2,52,37,20,0,-103
+112,Feb 11 2009,World Cup qualifier in Japan,Japan,Australia,1758,1740,0,0,-7,7,1751,1747,36,37,-3,-1,33,36,40,100,118
+113,Feb 11 2009,Friendly in Turkey,Kazakhstan,Estonia,1352,1417,2,0,18,-18,1370,1399,119,120,1,-7,120,113,20,0,-65
+114,Feb 11 2009,Friendly in Kuwait,Kuwait,Azerbaijan,1438,1372,1,1,-4,4,1434,1376,103,118,-2,0,101,118,20,100,166
+115,Feb 11 2009,Friendly in Libya,Libya,Uruguay,1498,1831,2,3,-4,4,1494,1835,85,12,1,1,86,13,20,100,-233
+116,Feb 11 2009,Friendly in Portugal,Lithuania,Andorra,1634,1048,3,1,1,-1,1635,1047,54,183,-1,0,53,183,20,0,586
+117,Feb 11 2009,Friendly in Turkey,Macedonia,Moldova,1559,1437,1,1,-3,3,1556,1440,67,97,2,2,69,99,20,0,122
+118,Feb 11 2009,Friendly in France,Mali,Angola,1534,1502,4,0,17,-17,1551,1485,67,91,4,-3,71,88,20,0,32
+119,Feb 11 2009,World Cup qualifier in Malta,Malta,Albania,1222,1505,0,0,10,-10,1232,1495,150,86,1,-1,151,85,30,0,-283
+120,Feb 11 2009,Friendly in Morocco,Morocco,Czechia,1660,1849,0,0,3,-3,1663,1846,44,12,2,0,46,12,20,100,-89
+121,Feb 11 2009,Friendly in Mozambique,Mozambique,Malawi,1396,1338,2,0,9,-9,1405,1329,107,124,3,-1,110,123,20,100,158
+122,Feb 11 2009,World Cup qualifier in North Korea,North Korea,Saudi Arabia,1499,1681,1,0,25,-25,1524,1656,74,52,6,-3,80,49,40,100,-82
+123,Feb 11 2009,Friendly in Peru,Peru,Paraguay,1597,1854,0,1,-6,6,1591,1860,59,11,0,0,59,11,20,100,-157
+124,Feb 11 2009,Friendly in Portugal,Poland,Wales,1748,1653,1,0,7,-7,1755,1646,29,50,1,0,30,50,20,0,95
+125,Feb 11 2009,Friendly in Portugal,Portugal,Finland,1821,1662,1,0,4,-4,1825,1658,14,49,2,-1,16,48,20,100,259
+126,Feb 11 2009,Friendly in Romania,Romania,Croatia,1837,1881,1,2,-12,12,1825,1893,19,6,-3,2,16,8,20,100,56
+127,Feb 11 2009,World Cup qualifier in San Marino,San Marino,Northern Ireland,920,1548,0,3,-3,3,917,1551,196,70,-1,1,195,71,40,100,-528
+128,Feb 11 2009,Friendly in South Africa,South Africa,Chile,1540,1781,0,2,-9,9,1531,1790,78,18,-2,3,76,21,20,100,-141
+129,Feb 11 2009,Friendly in Spain,Spain,England,2101,1987,2,0,7,-7,2108,1980,1,7,0,-1,1,6,20,100,214
+130,Feb 11 2009,Friendly in Switzerland,Switzerland,Bulgaria,1792,1786,1,1,-3,3,1789,1789,24,21,-2,1,22,22,20,100,106
+131,Feb 11 2009,Friendly in Tanzania,Tanzania,Zimbabwe,1367,1404,0,0,-2,2,1365,1406,122,107,-1,2,121,109,20,100,63
+132,Feb 11 2009,Friendly in Tunisia,Tunisia,Netherlands,1619,2028,1,1,7,-7,1626,2021,52,3,2,0,54,3,20,100,-309
+133,Feb 11 2009,Friendly in Turkey,Turkey,Ivory Coast,1830,1709,1,1,-6,6,1824,1715,21,41,-3,0,18,41,20,100,221
+134,Feb 11 2009,Friendly tournament in Cyprus,Ukraine,Serbia,1788,1788,1,0,15,-15,1803,1773,17,31,2,-5,19,26,30,0,0
+135,Feb 11 2009,World Cup qualifier in the United States,United States,Mexico,1813,1823,2,0,22,-22,1835,1801,7,23,6,-3,13,20,40,100,90
+136,Feb 11 2009,World Cup qualifier in Uzbekistan,Uzbekistan,Bahrain,1567,1560,0,1,-26,26,1541,1586,82,54,-8,8,74,62,40,100,107
+137,Feb 11 2009,Friendly in Venezuela,Venezuela,Guatemala,1659,1431,2,1,3,-3,1662,1428,45,102,2,0,47,102,20,100,328
+138,Feb 14 2009,Friendly in Ivory Coast,Ivory Coast,Equatorial Guinea,1715,1229,2,0,1,-1,1716,1228,41,154,0,-1,41,153,20,100,586
+139,Mar 5 2009,Asian Cup qualifier in Australia,Australia,Kuwait,1747,1434,0,1,-37,37,1710,1471,46,79,-5,11,41,90,40,100,413
+140,Mar 7 2009,Friendly in Sudan,Sudan,Uganda,1409,1465,0,2,-17,17,1392,1482,121,87,-7,2,114,89,20,100,44
+141,Mar 11 2009,East Asian Championship qual in Guam,Guam,Mongolia,569,798,1,0,27,-27,596,771,220,209,2,0,222,209,40,100,-129
+142,Mar 11 2009,East Asian Championship qual in Guam,Macao,Northern Mariana Islands,722,543,6,1,21,-21,743,522,211,228,0,0,211,228,40,0,179
+143,Mar 11 2009,Friendly in the United States,Mexico,Bolivia,1801,1605,5,1,9,-9,1810,1596,18,58,1,0,19,58,20,0,196
+144,Mar 11 2009,Friendly tournament in Nepal,Nepal,Pakistan,904,850,1,0,9,-9,913,841,196,203,1,0,197,203,30,100,154
+145,Mar 13 2009,East Asian Championship qual in Guam,Guam,Northern Mariana Islands,596,522,2,1,11,-11,607,511,222,230,0,-1,222,229,40,100,174
+146,Mar 13 2009,East Asian Championship qual in Guam,Mongolia,Macao,771,743,2,1,18,-18,789,725,209,211,0,0,209,211,40,0,28
+147,Mar 14 2009,Friendly in Iran,Iran,Kenya,1759,1423,1,0,2,-2,1761,1421,28,105,0,0,28,105,20,100,436
+148,Mar 14 2009,Friendly tournament in Nepal,Nepal,Sri Lanka,913,916,0,0,-4,4,909,920,197,192,0,2,197,194,30,100,97
+149,Mar 15 2009,East Asian Championship qual in Guam,Guam,Macao,607,725,2,2,1,-1,608,724,222,211,0,0,222,211,20,100,-18
+150,Mar 15 2009,East Asian Championship qual in Guam,Mongolia,Northern Mariana Islands,789,511,4,1,12,-12,801,499,207,229,1,0,208,229,40,0,278
+151,Mar 17 2009,Friendly in Qatar,Qatar,Kuwait,1507,1471,1,0,6,-6,1513,1465,81,91,1,0,82,91,20,100,136
+152,Mar 18 2009,Friendly in Trinidad and Tobago,Trinidad and Tobago,Panama,1566,1587,1,0,8,-8,1574,1579,61,63,3,-1,64,62,20,100,79
+153,Mar 21 2009,Friendly in Namibia,Namibia,Botswana,1303,1290,0,0,-3,3,1300,1293,130,132,0,0,130,132,20,100,113
+154,Mar 21 2009,Friendly in Syria,Syria,Qatar,1591,1513,1,2,-15,15,1576,1528,65,74,-3,4,62,78,20,100,178
+155,Mar 21 2009,Friendly in Uganda,Uganda,Malawi,1482,1329,2,1,4,-4,1486,1325,85,125,2,-1,87,124,20,100,253
+156,Mar 22 2009,Friendly in Iceland,Iceland,Faroe Islands,1455,1169,1,2,-18,18,1437,1187,108,153,-7,5,101,158,20,100,386
+157,Mar 22 2009,Friendly in Saudi Arabia,Saudi Arabia,Iraq,1656,1529,0,0,-6,6,1650,1535,49,75,0,1,49,76,20,100,227
+158,Mar 23 2009,Friendly in Bahrain,Bahrain,Zimbabwe,1586,1406,5,2,6,-6,1592,1400,58,114,1,-3,59,111,20,100,280
+159,Mar 23 2009,Friendly in Kuwait,Kuwait,Iran,1465,1761,0,1,-5,5,1460,1766,91,28,0,0,91,28,20,100,-196
+160,Mar 25 2009,Friendly in Portugal,Cape Verde,Angola,1323,1485,1,0,14,-14,1337,1471,119,91,3,-1,122,90,20,0,-162
+161,Mar 26 2009,Asian Cup & Asian Chlg Cup q in Nepal,Nepal,Palestine,909,1190,0,0,10,-10,919,1180,193,163,2,-3,195,160,30,0,-281
+162,Mar 28 2009,World Cup qualifier in Albania,Albania,Hungary,1495,1617,0,1,-19,19,1476,1636,93,47,-4,4,89,51,40,100,-22
+163,Mar 28 2009,World Cup qualifier in Argentina,Argentina,Venezuela,1989,1662,4,0,6,-6,1995,1656,5,49,0,-1,5,48,40,100,427
+164,Mar 28 2009,World Cup qualifier in Armenia,Armenia,Estonia,1415,1399,2,2,-6,6,1409,1405,104,104,1,4,105,108,40,100,116
+165,Mar 28 2009,World Cup qualifier in Belgium,Belgium,Bosnia and Herzegovina,1642,1575,2,4,-43,43,1599,1618,65,45,-7,9,58,54,40,100,167
+166,Mar 28 2009,World Cup & African Cup qual in Burkina Faso,Burkina Faso,Guinea,1424,1574,4,2,34,-34,1458,1540,86,86,9,-11,95,75,40,100,-50
+167,Mar 28 2009,Friendly in Cape Verde,Cape Verde,Equatorial Guinea,1337,1228,5,0,9,-9,1346,1219,122,153,0,0,122,153,20,100,209
+168,Mar 28 2009,World Cup qualifier in Colombia,Colombia,Bolivia,1750,1596,2,0,11,-11,1761,1585,22,62,6,-2,28,60,40,100,254
+169,Mar 28 2009,World Cup qualifier in Cyprus,Cyprus,Georgia,1536,1510,2,1,13,-13,1549,1497,71,85,2,-1,73,84,40,100,126
+170,Mar 28 2009,World Cup qualifier in El Salvador,El Salvador,United States,1473,1835,2,2,13,-13,1486,1822,83,19,3,-3,86,16,40,100,-262
+171,Mar 28 2009,Friendly in England,England,Slovakia,1980,1606,4,0,2,-2,1982,1604,6,57,0,0,6,57,20,100,474
+172,Mar 28 2009,World Cup qualifier in Germany,Germany,Liechtenstein,1948,1180,4,0,1,-1,1949,1179,7,162,0,-1,7,161,30,0,768
+173,Mar 28 2009,World Cup qualifier in Iran,Iran,Saudi Arabia,1766,1650,1,2,-31,31,1735,1681,40,43,-6,3,34,46,40,100,216
+174,Mar 28 2009,World Cup qualifier in Ireland,Ireland,Bulgaria,1778,1789,1,1,-5,5,1773,1794,30,24,-3,-1,27,23,40,100,89
+175,Mar 28 2009,World Cup qualifier in Israel,Israel,Greece,1749,1772,1,1,-4,4,1745,1776,27,25,4,1,31,26,40,100,77
+176,Mar 28 2009,World Cup qualifier in Japan,Japan,Bahrain,1751,1592,1,0,7,-7,1758,1585,27,61,3,-1,30,60,40,100,259
+177,Mar 28 2009,World Cup & African Cup qual in Kenya,Kenya,Tunisia,1421,1626,1,2,-14,14,1407,1640,109,44,-2,5,107,49,40,100,-105
+178,Mar 28 2009,World Cup qualifier in Lithuania,Lithuania,France,1635,1876,0,1,-12,12,1623,1888,53,8,0,1,53,9,40,100,-141
+179,Mar 28 2009,World Cup qualifier in Luxembourg,Luxembourg,Latvia,1095,1522,0,4,-10,10,1085,1532,179,76,-1,3,178,79,40,100,-327
+180,Mar 28 2009,World Cup qualifier in Malta,Malta,Denmark,1232,1830,0,3,-4,4,1228,1834,153,13,-1,1,152,14,40,100,-498
+181,Mar 28 2009,World Cup qualifier in Mexico,Mexico,Costa Rica,1810,1753,2,0,17,-17,1827,1736,11,34,4,-1,15,33,40,100,157
+182,Mar 28 2009,World Cup qualifier in Moldova,Moldova,Switzerland,1440,1789,0,2,-12,12,1428,1801,105,18,-3,2,102,20,40,100,-249
+183,Mar 28 2009,World Cup qualifier in Montenegro,Montenegro,Italy,1685,1991,0,2,-14,14,1671,2005,49,4,-2,0,47,4,40,100,-206
+184,Mar 28 2009,World Cup & African Cup qual in Morocco,Morocco,Gabon,1663,1507,1,2,-33,33,1630,1540,58,66,-6,9,52,75,40,100,256
+185,Mar 28 2009,Asian Cup & Asian Chlg Cup q in Nepal,Nepal,Kyrgyzstan,919,1161,1,1,8,-8,927,1153,193,165,1,0,194,165,40,100,-142
+186,Mar 28 2009,World Cup qualifier in the Netherlands,Netherlands,Scotland,2021,1722,3,0,6,-6,2027,1716,3,38,0,0,3,38,40,100,399
+187,Mar 28 2009,World Cup qualifier in North Korea,North Korea,United Arab Emirates,1524,1427,2,0,15,-15,1539,1412,73,105,4,-1,77,104,40,100,197
+188,Mar 28 2009,World Cup qualifier in Northern Ireland,Northern Ireland,Poland,1551,1755,3,2,26,-26,1577,1729,57,40,7,-5,64,35,40,100,-104
+189,Mar 28 2009,Friendly in Oman,Oman,Senegal,1609,1544,2,0,8,-8,1617,1536,54,83,1,-5,55,78,20,100,165
+190,Mar 28 2009,World Cup qualifier in Portugal,Portugal,Sweden,1825,1776,0,0,-8,8,1817,1784,20,25,-2,0,18,25,40,100,149
+191,Mar 28 2009,World Cup qualifier in Romania,Romania,Serbia,1825,1773,2,3,-28,28,1797,1801,28,14,-6,6,22,20,40,100,152
+192,Mar 28 2009,World Cup qualifier in Russia,Russia,Azerbaijan,1882,1376,2,0,2,-2,1884,1374,11,118,-1,0,10,118,20,0,506
+193,Mar 28 2009,World Cup & African Cup qual in Rwanda,Rwanda,Algeria,1388,1448,0,0,-2,2,1386,1450,116,99,0,-1,116,98,30,100,40
+194,Mar 28 2009,World Cup qualifier in Slovenia,Slovenia,Czechia,1572,1846,0,0,9,-9,1581,1837,58,12,4,0,62,12,40,100,-174
+195,Mar 28 2009,Friendly tournament in South Africa,South Africa,Norway,1531,1725,2,1,19,-19,1550,1706,67,45,5,-4,72,41,30,100,-94
+196,Mar 28 2009,Friendly in South Korea,South Korea,Iraq,1722,1535,2,1,3,-3,1725,1532,34,82,2,-3,36,79,20,100,287
+197,Mar 28 2009,World Cup qualifier in Spain,Spain,Turkey,2108,1824,1,0,4,-4,2112,1820,1,16,0,1,1,17,40,100,384
+198,Mar 28 2009,Friendly in Sri Lanka,Sri Lanka,Maldives,920,1099,1,1,2,-2,922,1097,196,176,-1,0,195,176,20,100,-79
+199,Mar 28 2009,World Cup & African Cup qual in Sudan,Sudan,Mali,1392,1551,1,1,3,-3,1395,1548,112,77,1,-3,113,74,30,100,-59
+200,Mar 28 2009,Friendly in Thailand,Thailand,New Zealand,1449,1526,3,1,14,-14,1463,1512,89,84,3,-2,92,82,20,100,23
+201,Mar 28 2009,World Cup & African Cup qual in Ghana,Togo,Cameroon,1441,1755,1,0,34,-34,1475,1721,82,44,8,-7,90,37,40,0,-314
+202,Mar 28 2009,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Honduras,1574,1702,1,1,2,-2,1576,1700,66,43,-1,0,65,43,40,100,-28
+203,Mar 28 2009,World Cup qualifier in Uruguay,Uruguay,Paraguay,1835,1860,2,0,24,-24,1859,1836,9,15,2,-2,11,13,30,0,-25
+204,Mar 28 2009,World Cup qualifier in Uzbekistan,Uzbekistan,Qatar,1541,1528,4,0,26,-26,1567,1502,62,88,6,-5,68,83,40,100,113
+205,Mar 28 2009,World Cup qualifier in Wales,Wales,Finland,1646,1658,0,2,-37,37,1609,1695,62,42,-6,3,56,45,40,100,88
+206,Mar 29 2009,World Cup qualifier in Ecuador,Ecuador,Brazil,1703,2031,1,1,12,-12,1715,2019,38,4,2,-1,40,3,40,100,-228
+207,Mar 29 2009,World Cup & African Cup qual in Egypt,Egypt,Zambia,1759,1459,1,1,-16,16,1743,1475,33,86,-2,4,31,90,40,100,400
+208,Mar 29 2009,World Cup & African Cup qual in Ghana,Ghana,Benin,1698,1403,1,0,4,-4,1702,1399,42,114,1,-2,43,112,40,100,395
+209,Mar 29 2009,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Malawi,1716,1325,5,0,4,-4,1720,1321,38,127,0,-1,38,126,20,0,391
+210,Mar 29 2009,World Cup & African Cup qual in Mozambique,Mozambique,Nigeria,1405,1737,0,0,12,-12,1417,1725,100,38,4,-3,104,35,40,100,-232
+211,Mar 29 2009,World Cup qualifier in Peru,Peru,Chile,1591,1790,1,3,-22,22,1569,1812,73,14,-7,5,66,19,40,100,-99
+212,Mar 30 2009,Asian Cup & Asian Chlg Cup q in Nepal,Kyrgyzstan,Palestine,1153,1180,1,1,2,-2,1155,1178,165,162,0,-1,165,161,40,0,-27
+213,Mar 31 2009,Friendly in Portugal,Morocco,Angola,1630,1471,2,0,9,-9,1639,1462,50,94,1,-1,51,93,20,0,159
+214,Mar 31 2009,Friendly in Panama,Panama,Haiti,1579,1408,4,0,7,-7,1586,1401,56,113,3,-3,59,110,20,100,271
+215,Mar 31 2009,Friendly in Switzerland,Portugal,South Africa,1817,1550,2,0,5,-5,1822,1545,14,76,2,-2,16,74,20,0,267
+216,Mar 31 2009,World Cup qualifier in Venezuela,Venezuela,Colombia,1656,1761,2,0,30,-30,1686,1731,44,38,2,-5,46,33,40,100,-5
+217,Apr 1 2009,World Cup qualifier in Andorra,Andorra,Croatia,1047,1893,0,2,-1,1,1046,1894,183,8,0,0,183,8,30,100,-746
+218,Apr 1 2009,World Cup qualifier in Australia,Australia,Uzbekistan,1710,1567,2,0,12,-12,1722,1555,35,72,3,-2,38,70,40,100,243
+219,Apr 1 2009,World Cup qualifier in Austria,Austria,Romania,1555,1797,2,1,28,-28,1583,1769,57,31,7,-4,64,27,40,100,-142
+220,Apr 1 2009,World Cup qualifier in Bahrain,Bahrain,Qatar,1585,1502,1,0,10,-10,1595,1492,60,87,0,-2,60,85,40,100,183
+221,Apr 1 2009,World Cup qualifier in Bolivia,Bolivia,Argentina,1585,1995,6,1,69,-69,1654,1926,38,9,11,-2,49,7,40,100,-310
+222,Apr 1 2009,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Belgium,1618,1599,2,1,13,-13,1631,1586,56,66,-1,-4,55,62,40,100,119
+223,Apr 1 2009,World Cup qualifier in Brazil,Brazil,Peru,2019,1569,3,0,3,-3,2022,1566,3,68,0,-1,3,67,40,100,550
+224,Apr 1 2009,World Cup qualifier in Bulgaria,Bulgaria,Cyprus,1794,1549,2,0,7,-7,1801,1542,18,78,3,-3,21,75,40,100,345
+225,Apr 1 2009,World Cup qualifier in Chile,Chile,Uruguay,1812,1859,0,0,-3,3,1809,1862,17,11,1,0,18,11,40,100,53
+226,Apr 1 2009,World Cup qualifier in Costa Rica,Costa Rica,El Salvador,1736,1486,1,0,5,-5,1741,1481,29,90,1,-2,30,88,40,100,350
+227,Apr 1 2009,World Cup qualifier in Czechia,Czechia,Slovakia,1837,1604,1,2,-35,35,1802,1639,28,49,-8,4,20,53,40,100,333
+228,Apr 1 2009,World Cup qualifier in Denmark,Denmark,Albania,1834,1476,3,0,5,-5,1839,1471,10,93,2,-2,12,91,40,100,458
+229,Apr 1 2009,World Cup qualifier in Ecuador,Ecuador,Paraguay,1715,1836,1,1,1,-1,1716,1835,44,13,-2,0,42,13,20,100,-21
+230,Apr 1 2009,World Cup qualifier in England,England,Ukraine,1982,1803,2,1,7,-7,1989,1796,4,24,1,-2,5,22,40,100,279
+231,Apr 1 2009,World Cup qualifier in Estonia,Estonia,Armenia,1405,1409,1,0,15,-15,1420,1394,100,120,4,-7,104,113,30,0,-4
+232,Apr 1 2009,World Cup qualifier in France,France,Lithuania,1888,1623,1,0,4,-4,1892,1619,9,59,0,-3,9,56,20,0,265
+233,Apr 1 2009,World Cup qualifier in Georgia,Georgia,Montenegro,1497,1671,0,0,4,-4,1501,1667,82,48,1,0,83,48,40,100,-74
+234,Apr 1 2009,World Cup qualifier in Greece,Greece,Israel,1776,1745,2,1,13,-13,1789,1732,22,33,2,-2,24,31,40,100,131
+235,Apr 1 2009,World Cup qualifier in Honduras,Honduras,Mexico,1700,1827,3,1,32,-32,1732,1795,18,31,13,-8,31,23,40,100,-27
+236,Apr 1 2009,World Cup qualifier in Hungary,Hungary,Malta,1636,1228,3,0,4,-4,1640,1224,48,152,2,0,50,152,40,100,508
+237,Apr 1 2009,Friendly in Iran,Iran,Senegal,1735,1536,1,1,-7,7,1728,1543,40,70,-4,4,36,74,20,100,299
+238,Apr 1 2009,World Cup qualifier in Italy,Italy,Ireland,2005,1773,1,1,-15,15,1990,1788,4,23,0,2,4,25,40,100,332
+239,Apr 1 2009,World Cup qualifier in Kazakhstan,Kazakhstan,Belarus,1370,1569,1,5,-27,27,1343,1596,124,52,-2,7,122,59,40,100,-99
+240,Apr 1 2009,World Cup qualifier in Latvia,Latvia,Luxembourg,1532,1085,2,0,2,-2,1534,1083,77,180,1,-1,78,179,20,0,447
+241,Apr 1 2009,Friendly in Lebanon,Lebanon,Namibia,1269,1300,1,1,-2,2,1267,1302,137,130,0,0,137,130,20,100,69
+242,Apr 1 2009,Friendly in Lesotho,Lesotho,Botswana,1128,1293,0,0,2,-2,1130,1291,170,132,1,0,171,132,20,100,-65
+243,Apr 1 2009,World Cup qualifier in Liechtenstein,Liechtenstein,Russia,1179,1884,0,1,-1,1,1178,1885,160,10,0,0,160,10,20,100,-605
+244,Apr 1 2009,World Cup qualifier in the Netherlands,Netherlands,Macedonia,2027,1556,4,0,3,-3,2030,1553,2,72,0,-1,2,71,40,100,571
+245,Apr 1 2009,Friendly in Norway,Norway,Finland,1706,1695,3,2,7,-7,1713,1688,44,45,-1,0,43,45,20,100,111
+246,Apr 1 2009,World Cup qualifier in Northern Ireland,Northern Ireland,Slovenia,1577,1581,1,0,15,-15,1592,1566,59,72,2,-5,61,67,30,0,-4
+247,Apr 1 2009,World Cup qualifier in Poland,Poland,San Marino,1729,917,10,0,1,-1,1730,916,36,197,-1,0,35,197,30,0,812
+248,Apr 1 2009,World Cup qualifier in Saudi Arabia,Saudi Arabia,United Arab Emirates,1681,1412,3,2,4,-4,1685,1408,47,107,0,-1,47,106,20,0,269
+249,Apr 1 2009,World Cup qualifier in Scotland,Scotland,Iceland,1716,1437,2,1,4,-4,1720,1433,41,101,-1,0,40,101,40,100,379
+250,Apr 1 2009,Friendly in Serbia,Serbia,Sweden,1801,1784,2,0,10,-10,1811,1774,11,27,5,-1,16,26,20,100,117
+251,Apr 1 2009,World Cup qualifier in South Korea,South Korea,North Korea,1725,1539,1,0,6,-6,1731,1533,31,81,2,-2,33,79,40,100,286
+252,Apr 1 2009,World Cup qualifier in Switzerland,Switzerland,Moldova,1801,1428,2,0,4,-4,1805,1424,17,104,2,-1,19,103,40,100,473
+253,Apr 1 2009,World Cup qualifier in Turkey,Turkey,Spain,1820,2112,1,2,-10,10,1810,2122,16,1,1,0,17,1,40,100,-192
+254,Apr 1 2009,World Cup qualifier in the United States,United States,Trinidad and Tobago,1822,1576,3,0,8,-8,1830,1568,12,68,2,-2,14,66,40,100,346
+255,Apr 1 2009,World Cup qualifier in Wales,Wales,Germany,1609,1949,0,2,-12,12,1597,1961,60,5,-2,1,58,6,40,100,-240
+256,Apr 4 2009,Friendly in Angola,Angola,Namibia,1462,1302,0,0,-6,6,1456,1308,99,130,-3,0,96,130,20,100,260
+257,Apr 4 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Pakistan,Taiwan,841,955,1,1,6,-6,847,949,203,190,0,0,203,190,40,0,-114
+258,Apr 4 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Sri Lanka,Brunei,922,697,5,1,10,-10,932,687,191,218,2,0,193,218,40,100,325
+259,Apr 6 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Pakistan,Brunei,847,687,6,0,24,-24,871,663,199,220,2,-1,201,219,40,0,160
+260,Apr 6 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Sri Lanka,Taiwan,932,949,2,1,15,-15,947,934,187,196,3,-3,190,193,40,100,83
+261,Apr 7 2009,Asian Cup & Asian Chlg Cup q in Macao,Macao,Mongolia,724,801,2,0,28,-28,752,773,211,210,0,-1,211,209,40,100,23
+262,Apr 8 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Sri Lanka,Pakistan,947,871,2,2,-9,9,938,880,194,201,-2,0,192,201,40,100,176
+263,Apr 8 2009,Asian Cup & Asian Chlg Cup q in Sri Lanka,Taiwan,Brunei,934,663,5,0,14,-14,948,649,187,221,3,-1,190,220,40,0,271
+264,Apr 14 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Maldives,Turkmenistan,1097,1298,1,3,-22,22,1075,1320,184,123,-4,4,180,127,40,100,-101
+265,Apr 14 2009,Asian Cup & Asian Chlg Cup q in Mongolia,Mongolia,Macao,773,752,3,1,20,-20,793,732,209,211,0,0,209,211,40,100,121
+266,Apr 14 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Philippines,Bhutan,814,652,1,0,11,-11,825,641,206,221,0,-1,206,220,40,0,162
+267,Apr 16 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Maldives,Philippines,1075,825,3,2,5,-5,1080,820,178,206,1,0,179,206,40,100,350
+268,Apr 16 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Turkmenistan,Bhutan,1320,641,7,0,2,-2,1322,639,125,220,1,0,126,220,40,0,679
+269,Apr 18 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Maldives,Bhutan,1080,639,5,0,3,-3,1083,636,177,220,1,0,178,220,20,0,441
+270,Apr 18 2009,Asian Cup & Asian Chlg Cup q in the Maldives,Turkmenistan,Philippines,1322,820,5,0,4,-4,1326,816,124,206,1,0,125,206,40,0,502
+271,Apr 22 2009,Friendly in French Guiana,French Guiana,Suriname,1193,1245,0,0,-1,1,1192,1246,155,144,0,1,155,145,20,100,48
+272,Apr 25 2009,Friendly in Mali,Mali,Equatorial Guinea,1548,1219,3,0,3,-3,1551,1216,72,153,0,0,72,153,20,100,429
+273,Apr 26 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Bangladesh,Cambodia,919,769,1,0,8,-8,927,761,194,210,1,0,195,210,40,100,250
+274,Apr 26 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Myanmar,Macao,1167,732,4,0,6,-6,1173,726,162,211,1,0,163,211,40,0,435
+275,Apr 28 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Bangladesh,Myanmar,927,1173,1,2,-12,12,915,1185,199,155,-2,4,197,159,40,100,-146
+276,Apr 28 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Cambodia,Macao,761,726,2,1,18,-18,779,708,210,215,0,-2,210,213,40,0,35
+277,Apr 30 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Bangladesh,Macao,915,708,3,0,10,-10,925,698,195,221,1,-4,196,217,40,100,307
+278,Apr 30 2009,Asian Cup & Asian Chlg Cup q in Bangladesh,Myanmar,Cambodia,1185,779,1,0,4,-4,1189,775,155,210,2,0,157,210,40,0,406
+279,May 9 2009,Friendly in Tanzania,Tanzania,DR Congo,1365,1438,0,2,-16,16,1349,1454,120,94,0,3,120,97,20,100,27
+280,May 13 2009,Friendly in Jordan,Jordan,Zimbabwe,1486,1400,2,0,8,-8,1494,1392,82,118,2,-4,84,114,20,100,186
+281,May 13 2009,Friendly in Venezuela,Venezuela,Costa Rica,1686,1741,1,1,-1,1,1685,1742,46,30,0,0,46,30,20,100,45
+282,May 20 2009,Friendly in Argentina,Argentina,Panama,1926,1586,3,1,2,-2,1928,1584,7,64,0,-1,7,63,20,100,440
+283,May 23 2009,Friendly in the United States,Haiti,Jamaica,1401,1640,2,2,6,-6,1407,1634,105,58,2,-4,107,54,20,0,-239
+284,May 26 2009,Friendly in Qatar,Qatar,Saudi Arabia,1492,1685,2,1,13,-13,1505,1672,80,48,3,-1,83,47,20,100,-93
+285,May 27 2009,Friendly in the United States,El Salvador,Ecuador,1481,1716,3,1,24,-24,1505,1692,78,46,5,-2,83,44,20,0,-235
+286,May 27 2009,Friendly tournament in Japan,Japan,Chile,1758,1809,4,0,24,-24,1782,1785,24,32,2,-7,26,25,30,100,49
+287,May 27 2009,Friendly in Jordan,Jordan,Congo,1494,1402,1,1,-5,5,1489,1407,89,105,-2,2,87,107,20,100,192
+288,May 28 2009,Friendly in Tunisia,Tunisia,Sudan,1640,1395,4,0,5,-5,1645,1390,50,117,0,-3,50,114,20,100,345
+289,May 29 2009,Friendly tournament in Japan,Belgium,Chile,1586,1785,1,1,8,-8,1594,1777,60,27,1,-1,61,26,30,0,-199
+290,May 29 2009,Friendly in China,China,Germany,1528,1961,1,1,7,-7,1535,1954,75,6,3,0,78,6,20,100,-333
+291,May 29 2009,Friendly in England,Ireland,Nigeria,1788,1725,1,1,-2,2,1786,1727,24,37,0,0,24,37,20,0,63
+292,May 29 2009,Friendly in Wales,Wales,Estonia,1597,1420,1,0,3,-3,1600,1417,58,104,0,0,58,104,20,100,277
+293,May 30 2009,Friendly in Cyprus,Cyprus,Canada,1542,1566,0,1,-12,12,1530,1578,87,63,-6,2,81,65,20,100,76
+294,May 30 2009,Friendly in the United States,El Salvador,Jamaica,1505,1634,0,0,4,-4,1509,1630,83,56,0,-1,83,55,20,0,-129
+295,May 30 2009,Friendly in Malawi,Malawi,Rwanda,1321,1386,2,0,13,-13,1334,1373,121,120,3,-2,124,118,20,100,35
+296,May 30 2009,Friendly in Oman,Oman,Egypt,1617,1743,0,1,-9,9,1608,1752,57,29,0,0,57,29,20,100,-26
+297,May 30 2009,Friendly in South Africa,South Africa,Mauritius,1545,1060,2,0,1,-1,1546,1059,73,181,0,0,73,181,20,100,585
+298,May 31 2009,Friendly in Bahrain,Bahrain,Congo,1595,1407,3,1,5,-5,1600,1402,56,111,2,-2,58,109,20,100,288
+299,May 31 2009,Friendly in Ghana,Ghana,Uganda,1702,1486,2,1,3,-3,1705,1483,43,88,0,0,43,88,20,100,316
+300,May 31 2009,Friendly tournament in Japan,Japan,Belgium,1782,1594,4,0,9,-9,1791,1585,21,63,2,-1,23,62,20,0,188
+301,May 31 2009,Friendly in Kuwait,Kuwait,Vietnam,1460,1337,0,1,-16,16,1444,1353,107,117,-7,3,100,120,20,100,223
+302,May 31 2009,Friendly in Qatar,Qatar,Iraq,1505,1532,1,0,8,-8,1513,1524,80,82,2,-1,82,81,20,100,73
+303,Jun 1 2009,Friendly in China,China,Iran,1535,1728,1,0,13,-13,1548,1715,69,46,4,-5,73,41,20,100,-93
+304,Jun 1 2009,Friendly in Uzbekistan,Uzbekistan,Bosnia and Herzegovina,1555,1631,0,0,-1,1,1554,1632,70,54,0,0,70,54,20,100,24
+305,Jun 2 2009,Friendly in France,France,Nigeria,1892,1727,0,1,-16,16,1876,1743,11,24,-1,6,10,30,20,100,265
+306,Jun 2 2009,Friendly in the United Arab Emirates,Oman,South Korea,1608,1731,0,0,3,-3,1611,1728,57,39,0,-3,57,36,20,0,-123
+307,Jun 2 2009,Friendly in Turkey,Turkey,Azerbaijan,1810,1374,2,0,1,-1,1811,1373,15,117,1,0,16,117,20,100,536
+308,Jun 2 2009,Friendly in the United Arab Emirates,United Arab Emirates,Germany,1408,1954,2,7,-3,3,1405,1957,110,6,-2,0,108,6,20,100,-446
+309,Jun 3 2009,Friendly tournament in Suriname,Antigua and Barbuda,Guyana,1239,1248,2,1,15,-15,1254,1233,133,156,8,-6,141,150,30,0,-9
+310,Jun 3 2009,Friendly in Bahrain,Bahrain,Jordan,1600,1489,4,0,9,-9,1609,1480,58,89,0,-1,58,88,20,100,211
+311,Jun 3 2009,World Cup qualifier in Costa Rica,Costa Rica,United States,1742,1830,3,1,29,-29,1771,1801,25,24,3,-5,28,19,40,100,12
+312,Jun 3 2009,Friendly in Tanzania,Tanzania,New Zealand,1349,1512,2,1,12,-12,1361,1500,119,87,1,-2,120,85,20,100,-63
+313,Jun 4 2009,Friendly in China,China,Saudi Arabia,1548,1672,1,4,-16,16,1532,1688,85,43,-6,2,79,45,20,100,-24
+314,Jun 5 2009,Friendly in Czechia,Czechia,Malta,1802,1224,1,0,0,0,1802,1224,18,152,0,0,18,152,20,100,678
+315,Jun 5 2009,Friendly in France,France,Turkey,1876,1811,1,0,6,-6,1882,1805,10,17,0,-1,10,16,20,100,165
+316,Jun 5 2009,Friendly tournament in Suriname,French Guiana,Antigua and Barbuda,1192,1254,2,1,18,-18,1210,1236,155,157,0,-8,155,149,30,0,-62
+317,Jun 5 2009,Friendly in Syria,Syria,Sierra Leone,1576,1251,6,0,3,-3,1579,1248,64,143,1,0,65,143,20,100,425
+318,Jun 6 2009,World Cup qualifier in Albania,Albania,Portugal,1471,1822,1,2,-8,8,1463,1830,91,12,0,1,91,13,40,100,-251
+319,Jun 6 2009,World Cup qualifier in Argentina,Argentina,Colombia,1928,1731,1,0,6,-6,1934,1725,7,34,0,0,7,34,40,100,297
+320,Jun 6 2009,World Cup qualifier in Azerbaijan,Azerbaijan,Wales,1373,1600,0,1,-13,13,1360,1613,123,53,-3,3,120,56,40,100,-127
+321,Jun 6 2009,World Cup qualifier in Belarus,Belarus,Andorra,1596,1046,5,1,2,-2,1598,1044,60,185,0,-1,60,184,20,0,550
+322,Jun 6 2009,World Cup qualifier in Bolivia,Bolivia,Venezuela,1654,1685,0,1,-24,24,1630,1709,59,39,-5,4,54,43,40,100,69
+323,Jun 6 2009,Friendly in Botswana,Botswana,New Zealand,1291,1500,0,0,3,-3,1294,1497,132,83,0,1,132,84,20,100,-109
+324,Jun 6 2009,World Cup qualifier in Bulgaria,Bulgaria,Ireland,1801,1786,1,1,-6,6,1795,1792,25,21,-3,2,22,23,40,100,115
+325,Jun 6 2009,World Cup qualifier in Croatia,Croatia,Ukraine,1894,1796,2,2,-10,10,1884,1806,10,13,-1,4,9,17,40,100,198
+326,Jun 6 2009,World Cup qualifier in Cyprus,Cyprus,Montenegro,1530,1667,2,2,2,-2,1532,1665,80,48,0,0,80,48,30,100,-37
+327,Jun 6 2009,World Cup qualifier in El Salvador,El Salvador,Mexico,1509,1795,2,1,30,-30,1539,1765,71,34,6,-6,77,28,40,100,-186
+328,Jun 6 2009,Friendly in Estonia,Estonia,Equatorial Guinea,1417,1216,3,0,5,-5,1422,1211,104,155,0,-1,104,154,20,100,301
+329,Jun 6 2009,World Cup qualifier in Finland,Finland,Liechtenstein,1688,1178,2,1,1,-1,1689,1177,47,163,-1,-1,46,162,20,0,510
+330,Jun 6 2009,World Cup & African Cup qual in Gabon,Gabon,Togo,1540,1475,3,0,20,-20,1560,1455,63,101,6,-6,69,95,40,100,165
+331,Jun 6 2009,Friendly in Georgia,Georgia,Moldova,1501,1424,1,2,-15,15,1486,1439,88,97,-2,3,86,100,20,100,177
+332,Jun 6 2009,World Cup qualifier in Iceland,Iceland,Netherlands,1433,2030,1,2,-2,2,1431,2032,103,4,-1,-1,102,3,30,100,-497
+333,Jun 6 2009,Friendly in Italy,Italy,Northern Ireland,1990,1592,3,0,2,-2,1992,1590,4,61,0,0,4,61,20,100,498
+334,Jun 6 2009,World Cup qualifier in Kazakhstan,Kazakhstan,England,1343,1989,0,4,-3,3,1340,1992,123,3,0,1,123,4,40,100,-546
+335,Jun 6 2009,World Cup qualifier in Lithuania,Lithuania,Romania,1619,1769,0,1,-17,17,1602,1786,62,23,-3,3,59,26,40,100,-50
+336,Jun 6 2009,World Cup qualifier in Macedonia,Macedonia,Norway,1553,1713,0,0,3,-3,1556,1710,71,40,0,1,71,41,30,100,-60
+337,Jun 6 2009,World Cup & African Cup qual in Malawi,Malawi,Burkina Faso,1334,1458,0,1,-19,19,1315,1477,132,87,-4,3,128,90,40,100,-24
+338,Jun 6 2009,Friendly in Namibia,Namibia,DR Congo,1308,1454,4,0,21,-21,1329,1433,117,106,7,-5,124,101,20,100,-46
+339,Jun 6 2009,World Cup qualifier in North Korea,North Korea,Iran,1533,1715,0,0,5,-5,1538,1710,78,41,0,0,78,41,20,0,-182
+340,Jun 6 2009,World Cup qualifier in Paraguay,Paraguay,Chile,1835,1777,0,2,-43,43,1792,1820,33,2,-10,12,23,14,40,100,158
+341,Jun 6 2009,World Cup qualifier in Qatar,Qatar,Australia,1513,1722,0,0,6,-6,1519,1716,84,43,-1,-3,83,40,40,100,-109
+342,Jun 6 2009,World Cup qualifier in Serbia,Serbia,Austria,1811,1583,1,0,5,-5,1816,1578,15,66,0,-1,15,65,40,100,328
+343,Jun 6 2009,World Cup qualifier in Slovakia,Slovakia,San Marino,1639,916,7,0,1,-1,1640,915,48,197,2,0,50,197,20,0,723
+344,Jun 6 2009,Friendly in South Africa,South Africa,Poland,1546,1730,1,0,12,-12,1558,1718,67,43,3,-4,70,39,20,100,-84
+345,Jun 6 2009,World Cup qualifier in Sweden,Sweden,Denmark,1774,1839,0,1,-22,22,1752,1861,31,10,-2,1,29,11,40,100,35
+346,Jun 6 2009,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Costa Rica,1568,1771,2,3,-14,14,1554,1785,77,26,-5,1,72,27,40,100,-103
+347,Jun 6 2009,World Cup & African Cup qual in Tunisia,Tunisia,Mozambique,1645,1417,2,0,8,-8,1653,1409,48,106,1,-1,49,105,40,100,328
+348,Jun 6 2009,World Cup qualifier in the United Arab Emirates,United Arab Emirates,South Korea,1405,1728,0,2,-13,13,1392,1741,116,28,-4,4,112,32,40,100,-223
+349,Jun 6 2009,World Cup qualifier in Uruguay,Uruguay,Brazil,1862,2022,0,4,-31,31,1831,2053,13,1,-1,1,12,2,40,100,-60
+350,Jun 6 2009,World Cup qualifier in the United States,United States,Honduras,1801,1732,2,1,11,-11,1812,1721,13,38,3,-3,16,35,40,100,169
+351,Jun 6 2009,World Cup qualifier in Uzbekistan,Uzbekistan,Japan,1554,1791,0,1,-12,12,1542,1803,80,17,-5,3,75,20,40,100,-137
+352,Jun 6 2009,World Cup & African Cup qual in Zambia,Zambia,Rwanda,1475,1373,1,0,10,-10,1485,1363,85,119,2,-1,87,118,40,100,202
+353,Jun 7 2009,World Cup & African Cup qual in Algeria,Algeria,Egypt,1450,1752,3,1,46,-46,1496,1706,73,61,12,-16,85,45,40,100,-202
+354,Jun 7 2009,World Cup & African Cup qual in Benin,Benin,Sudan,1399,1390,1,0,14,-14,1413,1376,101,118,4,-2,105,116,40,100,109
+355,Jun 7 2009,World Cup & African Cup qual in Cameroon,Cameroon,Morocco,1721,1639,0,0,-10,10,1711,1649,45,48,-5,2,40,50,40,100,182
+356,Jun 7 2009,Friendly tournament in Suriname,French Guiana,Guyana,1210,1233,3,2,16,-16,1226,1217,147,156,4,-3,151,153,30,0,-23
+357,Jun 7 2009,World Cup & African Cup qual in Guinea,Guinea,Ivory Coast,1540,1720,1,2,-15,15,1525,1735,86,27,-5,5,81,32,40,100,-80
+358,Jun 7 2009,Friendly in Jamaica,Jamaica,Panama,1630,1584,3,2,6,-6,1636,1578,52,65,1,-1,53,64,20,100,146
+359,Jun 7 2009,World Cup & African Cup qual in Mali,Mali,Ghana,1551,1705,0,2,-25,25,1526,1730,87,24,-7,10,80,34,40,100,-54
+360,Jun 7 2009,World Cup & African Cup qual in Nigeria,Nigeria,Kenya,1743,1407,3,0,5,-5,1748,1402,29,110,1,-2,30,108,40,100,436
+361,Jun 7 2009,World Cup qualifier in Peru,Peru,Ecuador,1566,1692,1,2,-19,19,1547,1711,77,35,-5,5,72,40,40,100,-26
+362,Jun 9 2009,Friendly in Azerbaijan,Azerbaijan,Spain,1360,2122,0,6,-1,1,1359,2123,120,1,0,0,120,1,20,0,-762
+363,Jun 9 2009,Friendly in France,Bosnia and Herzegovina,Oman,1632,1611,2,1,9,-9,1641,1602,48,59,3,-1,51,58,20,0,21
+364,Jun 9 2009,Friendly in South Africa,Iraq,Poland,1524,1718,1,1,5,-5,1529,1713,78,40,2,-1,80,39,20,0,-194
+365,Jun 10 2009,Friendly in Albania,Albania,Georgia,1463,1486,1,1,-2,2,1461,1488,94,87,-1,0,93,87,20,100,77
+366,Jun 10 2009,World Cup qualifier in Australia,Australia,Bahrain,1716,1609,2,0,14,-14,1730,1595,34,61,2,-2,36,59,40,100,207
+367,Jun 10 2009,Friendly in Belarus,Belarus,Moldova,1598,1439,2,2,-6,6,1592,1445,60,98,0,1,60,99,20,100,259
+368,Jun 10 2009,World Cup qualifier in Brazil,Brazil,Paraguay,2053,1792,2,1,4,-4,2057,1788,2,25,0,-1,2,24,20,0,261
+369,Jun 10 2009,World Cup qualifier in Chile,Chile,Bolivia,1820,1630,4,0,12,-12,1832,1618,10,55,2,0,12,55,40,100,290
+370,Jun 10 2009,World Cup qualifier in Colombia,Colombia,Peru,1725,1547,1,0,7,-7,1732,1540,33,76,1,-2,34,74,40,100,278
+371,Jun 10 2009,World Cup qualifier in Ecuador,Ecuador,Argentina,1711,1934,2,0,40,-40,1751,1894,20,9,10,-1,30,8,40,100,-123
+372,Jun 10 2009,World Cup qualifier in England,England,Andorra,1992,1044,6,0,0,0,1992,1044,6,184,-1,0,5,184,20,0,948
+373,Jun 10 2009,Friendly in Estonia,Estonia,Portugal,1422,1830,0,0,7,-7,1429,1823,100,15,2,-1,102,14,20,100,-308
+374,Jun 10 2009,World Cup qualifier in the Faroe Islands,Faroe Islands,Serbia,1187,1816,0,2,-3,3,1184,1819,160,15,-1,0,159,15,40,100,-529
+375,Jun 10 2009,World Cup qualifier in Finland,Finland,Russia,1689,1885,0,3,-26,26,1663,1911,50,6,-2,1,48,7,40,100,-96
+376,Jun 10 2009,World Cup qualifier in Honduras,Honduras,El Salvador,1721,1539,1,0,7,-7,1728,1532,40,81,-2,-3,38,78,40,100,282
+377,Jun 10 2009,World Cup qualifier in Iran,Iran,United Arab Emirates,1710,1392,1,0,3,-3,1713,1389,38,114,2,-1,40,113,20,0,318
+378,Jun 10 2009,Friendly in South Africa,Italy,New Zealand,1992,1497,4,3,1,-1,1993,1496,4,84,0,0,4,84,20,0,495
+379,Jun 10 2009,World Cup qualifier in Japan,Japan,Qatar,1803,1519,1,1,-16,16,1787,1535,30,69,-5,7,25,76,40,100,384
+380,Jun 10 2009,World Cup qualifier in Macedonia,Macedonia,Iceland,1556,1431,2,0,13,-13,1569,1418,64,106,3,-2,67,104,40,100,225
+381,Jun 10 2009,World Cup qualifier in Mexico,Mexico,Trinidad and Tobago,1765,1554,2,1,6,-6,1771,1548,28,71,0,0,28,71,40,100,311
+382,Jun 10 2009,World Cup qualifier in the Netherlands,Netherlands,Norway,2032,1710,2,0,5,-5,2037,1705,3,48,0,-3,3,45,40,100,422
+383,Jun 10 2009,World Cup qualifier in South Korea,South Korea,Saudi Arabia,1741,1688,0,0,-8,8,1733,1696,35,45,-2,1,33,46,40,100,153
+384,Jun 10 2009,World Cup qualifier in Sweden,Sweden,Malta,1752,1224,4,0,2,-2,1754,1222,29,152,0,0,29,152,20,0,528
+385,Jun 10 2009,World Cup qualifier in Ukraine,Ukraine,Kazakhstan,1806,1340,2,1,1,-1,1807,1339,17,123,0,0,17,123,20,0,466
+386,Jun 10 2009,World Cup qualifier in Venezuela,Venezuela,Uruguay,1709,1831,2,2,1,-1,1710,1830,42,14,1,-1,43,13,20,100,-22
+387,Jun 11 2009,Friendly in Tonga,Tonga,Cook Islands,705,711,1,1,-3,3,702,714,215,212,-1,0,214,212,20,100,94
+388,Jun 13 2009,Friendly in Ivory Coast,Ivory Coast,Cameroon,1735,1711,2,1,7,-7,1742,1704,32,48,0,-3,32,45,20,100,124
+389,Jun 13 2009,Friendly in Tonga,Tonga,Cook Islands,702,714,1,2,-12,12,690,726,220,210,-3,1,217,211,20,100,88
+390,Jun 14 2009,Friendly in Portugal,Angola,Guinea,1456,1525,0,0,2,-2,1458,1523,93,83,1,0,94,83,20,0,-69
+391,Jun 14 2009,Friendly in Madagascar,Madagascar,Mayotte,1267,1131,2,0,6,-6,1273,1125,133,176,2,-3,135,173,20,100,236
+392,Jun 14 2009,Confederations Cup in South Africa,South Africa,Iraq,1558,1529,0,0,-9,9,1549,1538,70,69,0,6,70,75,50,100,129
+393,Jun 14 2009,Confederations Cup in South Africa,Spain,New Zealand,2123,1496,5,0,3,-3,2126,1493,1,88,0,-2,1,86,50,0,627
+394,Jun 15 2009,Confederations Cup in South Africa,Brazil,Egypt,2057,1706,4,3,6,-6,2063,1700,2,47,0,-2,2,45,50,0,351
+395,Jun 15 2009,Confederations Cup in South Africa,Italy,United States,1993,1812,3,1,20,-20,2013,1792,4,26,0,-5,4,21,50,0,181
+396,Jun 17 2009,World Cup qualifier in Australia,Australia,Japan,1730,1787,2,1,18,-18,1748,1769,26,31,5,-3,31,28,40,100,43
+397,Jun 17 2009,World Cup qualifier in Bahrain,Bahrain,Uzbekistan,1595,1542,1,0,12,-12,1607,1530,55,89,2,-8,57,81,40,100,153
+398,Jun 17 2009,World Cup qualifier in Saudi Arabia,Saudi Arabia,North Korea,1696,1538,0,0,-13,13,1683,1551,46,67,0,4,46,71,40,100,258
+399,Jun 17 2009,Confederations Cup in South Africa,South Africa,New Zealand,1549,1493,2,0,22,-22,1571,1471,64,96,3,-5,67,91,50,100,156
+400,Jun 17 2009,World Cup qualifier in South Korea,South Korea,Iran,1733,1713,1,1,-7,7,1726,1720,43,38,-5,1,38,39,40,100,120
+401,Jun 17 2009,Confederations Cup in South Africa,Spain,Iraq,2126,1538,1,0,2,-2,2128,1536,1,75,0,0,1,75,50,0,588
+402,Jun 18 2009,Confederations Cup in South Africa,Brazil,United States,2063,1792,3,0,15,-15,2078,1777,2,31,0,-5,2,26,50,0,271
+403,Jun 18 2009,Confederations Cup in South Africa,Egypt,Italy,1700,2013,1,0,43,-43,1743,1970,21,6,12,-1,33,5,50,0,-313
+404,Jun 19 2009,Friendly in Haiti,Haiti,Panama,1407,1578,1,1,2,-2,1409,1576,105,68,1,-2,106,66,20,100,-71
+405,Jun 19 2009,Friendly in Swaziland,Swaziland,Lesotho,1170,1130,1,1,-4,4,1166,1134,164,170,0,0,164,170,20,100,140
+406,Jun 20 2009,World Cup & African Cup qual in Burkina Faso,Burkina Faso,Ivory Coast,1477,1742,2,3,-11,11,1466,1753,92,26,-1,4,91,30,40,100,-165
+407,Jun 20 2009,Confederations Cup in South Africa,Iraq,New Zealand,1536,1471,0,0,-5,5,1531,1476,87,87,-6,2,81,89,50,0,65
+408,Jun 20 2009,World Cup & African Cup qual in Kenya,Kenya,Mozambique,1402,1409,2,1,15,-15,1417,1394,102,112,3,-3,105,109,30,0,-7
+409,Jun 20 2009,World Cup & African Cup qual in Morocco,Morocco,Togo,1649,1455,0,0,-14,14,1635,1469,58,84,-4,6,54,90,40,100,294
+410,Jun 20 2009,Confederations Cup in South Africa,South Africa,Spain,1571,2128,0,2,-5,5,1566,2133,69,1,-1,0,68,1,50,100,-457
+411,Jun 20 2009,World Cup & African Cup qual in Sudan,Sudan,Ghana,1376,1730,0,2,-11,11,1365,1741,118,33,-1,2,117,35,40,100,-254
+412,Jun 20 2009,World Cup & African Cup qual in Tunisia,Tunisia,Nigeria,1653,1748,0,0,0,0,1653,1748,49,33,0,-1,49,32,20,100,5
+413,Jun 20 2009,World Cup & African Cup qual in Zambia,Zambia,Algeria,1485,1496,0,2,-38,38,1447,1534,109,68,-11,8,98,76,40,100,89
+414,Jun 21 2009,Confederations Cup in South Africa,Brazil,Italy,2078,1970,3,0,31,-31,2109,1939,2,7,0,-1,2,6,50,0,108
+415,Jun 21 2009,World Cup & African Cup qual in Guinea,Guinea,Malawi,1523,1315,2,1,6,-6,1529,1309,84,134,0,-3,84,131,40,100,308
+416,Jun 21 2009,World Cup & African Cup qual in Mali,Mali,Benin,1526,1413,3,1,14,-14,1540,1399,65,110,9,-2,74,108,40,100,213
+417,Jun 21 2009,Friendly in Swaziland,Swaziland,Lesotho,1166,1134,1,1,-4,4,1162,1138,164,170,0,0,164,170,20,100,132
+418,Jun 21 2009,Confederations Cup in South Africa,United States,Egypt,1777,1743,3,0,39,-39,1816,1704,6,54,10,-10,16,44,50,0,34
+419,Jun 23 2009,Friendly in Haiti,Haiti,Martinique,1409,1371,0,0,-4,4,1405,1375,106,116,0,0,106,116,20,100,138
+420,Jun 24 2009,Friendly in the United States,Mexico,Venezuela,1771,1710,4,0,15,-15,1786,1695,23,48,2,-3,25,45,20,0,61
+421,Jun 24 2009,Confederations Cup in South Africa,United States,Spain,1816,2133,2,0,65,-65,1881,2068,6,3,5,-1,11,2,50,0,-317
+422,Jun 25 2009,Confederations Cup in South Africa,South Africa,Brazil,1566,2109,0,1,-4,4,1562,2113,70,1,-1,0,69,1,50,100,-443
+423,Jun 27 2009,Friendly in Costa Rica,Costa Rica,Venezuela,1785,1695,1,0,5,-5,1790,1690,19,45,4,0,23,45,20,100,190
+424,Jun 27 2009,Friendly in Canada,Syria,Haiti,1579,1405,2,1,5,-5,1584,1400,63,108,0,-1,63,107,20,0,174
+425,Jun 28 2009,Confederations Cup in South Africa,Brazil,United States,2113,1881,3,2,10,-10,2123,1871,1,11,0,0,1,11,50,0,232
+426,Jun 28 2009,Friendly in the Cayman Islands,Cayman Islands,Jamaica,978,1636,1,4,-1,1,977,1637,187,53,0,0,187,53,20,0,-658
+427,Jun 28 2009,Friendly in Grenada,Grenada,Antigua and Barbuda,1290,1236,2,2,-4,4,1286,1240,133,147,0,1,133,148,20,100,154
+428,Jun 28 2009,Friendly in the United States,Guatemala,Mexico,1428,1786,0,0,8,-8,1436,1778,99,28,2,-1,101,27,20,0,-358
+429,Jun 28 2009,Friendly in the United States,Honduras,Panama,1728,1576,2,0,9,-9,1737,1567,33,68,2,-1,35,67,20,0,152
+430,Jun 28 2009,Confederations Cup in South Africa,South Africa,Spain,1562,2068,2,3,-4,4,1558,2072,71,2,-1,0,70,2,40,100,-406
+431,Jun 30 2009,Friendly in the United States,Canada,Guatemala,1578,1436,3,0,11,-11,1589,1425,60,105,2,-2,62,103,20,0,142
+432,Jul 3 2009,CONCACAF Championship in the United States,Canada,Jamaica,1589,1637,1,0,28,-28,1617,1609,48,61,7,-4,55,57,50,0,-48
+433,Jul 3 2009,CONCACAF Championship in the United States,El Salvador,Costa Rica,1532,1790,2,1,41,-41,1573,1749,53,39,13,-8,66,31,50,0,-258
+434,Jul 4 2009,CONCACAF Championship in the United States,Honduras,Haiti,1737,1400,1,0,6,-6,1743,1394,33,109,1,-1,34,108,50,0,337
+435,Jul 4 2009,CONCACAF Championship in the United States,United States,Grenada,1871,1286,4,0,2,-2,1873,1284,11,135,0,-1,11,134,30,0,585
+436,Jul 5 2009,Friendly in Botswana,Botswana,Iran,1294,1720,1,1,7,-7,1301,1713,132,41,0,-1,132,40,20,100,-326
+437,Jul 5 2009,World Cup & African Cup qual in Egypt,Egypt,Rwanda,1704,1363,3,0,5,-5,1709,1358,41,122,1,-2,42,120,40,100,441
+438,Jul 5 2009,CONCACAF Championship in the United States,Guadeloupe,Panama,1457,1567,2,1,33,-33,1490,1534,77,86,9,-9,86,77,50,0,-110
+439,Jul 5 2009,CONCACAF Championship in the United States,Mexico,Nicaragua,1778,1094,2,0,1,-1,1779,1093,26,176,0,0,26,176,20,0,684
+440,Jul 6 2009,Friendly in Malawi,Malawi,Swaziland,1309,1162,3,1,6,-6,1315,1156,125,164,3,0,128,164,20,100,247
+441,Jul 7 2009,CONCACAF Championship in the United States,Canada,El Salvador,1617,1573,1,0,22,-22,1639,1551,51,74,2,-4,53,70,50,0,44
+442,Jul 7 2009,CONCACAF Championship in the United States,Costa Rica,Jamaica,1749,1609,1,0,15,-15,1764,1594,25,63,3,-3,28,60,50,0,140
+443,Jul 8 2009,CONCACAF Championship in the United States,Haiti,Grenada,1394,1284,2,0,26,-26,1420,1258,100,144,4,-5,104,139,50,0,110
+444,Jul 8 2009,CONCACAF Championship in the United States,United States,Honduras,1873,1743,2,0,16,-16,1889,1727,7,40,2,-3,9,37,50,100,230
+445,Jul 9 2009,CONCACAF Championship in the United States,Guadeloupe,Nicaragua,1490,1093,2,0,7,-7,1497,1086,84,176,1,0,85,176,50,0,397
+446,Jul 9 2009,CONCACAF Championship in the United States,Mexico,Panama,1779,1534,1,1,-15,15,1764,1549,28,67,-1,5,27,72,40,100,345
+447,Jul 10 2009,CONCACAF Championship in the United States,Canada,Costa Rica,1639,1764,2,2,9,-9,1648,1755,47,29,3,-1,50,28,50,0,-125
+448,Jul 10 2009,Friendly in Iraq,Iraq,Palestine,1531,1178,3,0,2,-2,1533,1176,76,163,3,-1,79,162,20,100,453
+449,Jul 10 2009,CONCACAF Championship in the United States,Jamaica,El Salvador,1594,1551,1,0,22,-22,1616,1529,52,96,4,-13,56,83,50,0,43
+450,Jul 11 2009,CONCACAF Championship in the United States,Honduras,Grenada,1727,1258,4,0,6,-6,1733,1252,33,141,2,-1,35,140,50,0,469
+451,Jul 11 2009,CONCACAF Championship in the United States,United States,Haiti,1889,1420,2,2,-23,23,1866,1443,13,98,-2,3,11,101,50,100,569
+452,Jul 12 2009,Friendly in Mayotte,Mayotte,Madagascar,1125,1273,2,2,1,-1,1126,1272,171,136,1,-1,172,135,20,100,-48
+453,Jul 12 2009,CONCACAF Championship in the United States,Mexico,Guadeloupe,1764,1497,2,0,13,-13,1777,1484,25,89,1,-2,26,87,50,0,267
+454,Jul 12 2009,CONCACAF Championship in the United States,Panama,Nicaragua,1549,1086,4,0,6,-6,1555,1080,69,182,1,-3,70,179,50,0,463
+455,Jul 12 2009,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Trinidad and Tobago,1115,1548,2,3,-3,3,1112,1551,174,70,0,1,174,71,20,100,-333
+456,Jul 13 2009,Friendly in Iraq,Iraq,Palestine,1533,1176,4,0,3,-3,1536,1173,73,164,3,-1,76,163,20,100,457
+457,Jul 18 2009,Friendly in China,China,Palestine,1532,1173,3,1,2,-2,1534,1171,76,163,2,0,78,163,20,100,459
+458,Jul 18 2009,CONCACAF Championship in the United States,Honduras,Canada,1733,1648,1,0,19,-19,1752,1629,27,58,4,-4,31,54,50,0,85
+459,Jul 18 2009,Friendly in Thailand,Thailand,Pakistan,1463,880,4,0,1,-1,1464,879,93,201,0,0,93,201,20,0,583
+460,Jul 18 2009,CONCACAF Championship in the United States,United States,Panama,1866,1555,2,1,4,-4,1870,1551,11,70,0,0,11,70,30,0,311
+461,Jul 19 2009,CONCACAF Championship in the United States,Costa Rica,Guadeloupe,1755,1484,5,1,16,-16,1771,1468,26,95,1,-4,27,91,50,0,271
+462,Jul 19 2009,CONCACAF Championship in the United States,Mexico,Haiti,1777,1443,4,0,12,-12,1789,1431,20,103,3,-1,23,102,50,0,334
+463,Jul 23 2009,CONCACAF Championship in the United States,Costa Rica,Mexico,1771,1789,1,1,1,-1,1772,1788,27,25,0,-1,27,24,20,0,-18
+464,Jul 23 2009,CONCACAF Championship in the United States,United States,Honduras,1870,1752,2,0,17,-17,1887,1735,7,39,2,-4,9,35,50,100,218
+465,Jul 25 2009,Friendly in China,China,Kyrgyzstan,1534,1155,3,0,2,-2,1536,1153,74,165,2,0,76,165,20,100,479
+466,Jul 26 2009,CONCACAF Championship in the United States,United States,Mexico,1887,1788,0,5,-76,76,1811,1864,25,-2,-8,13,17,11,50,100,199
+467,Aug 7 2009,Friendly in the United States,Colombia,El Salvador,1732,1529,2,1,5,-5,1737,1524,34,85,1,-1,35,84,20,0,203
+468,Aug 11 2009,Friendly in France,Benin,Gabon,1399,1560,1,1,4,-4,1403,1556,106,70,1,-1,107,69,20,0,-161
+469,Aug 12 2009,Friendly in Albania,Albania,Cyprus,1461,1532,6,1,18,-18,1479,1514,82,85,6,-2,88,83,20,100,29
+470,Aug 12 2009,Friendly in Algeria,Algeria,Uruguay,1534,1830,1,0,15,-15,1549,1815,69,20,5,-3,74,17,20,100,-196
+471,Aug 12 2009,Friendly in Portugal,Angola,Togo,1458,1469,2,0,15,-15,1473,1454,85,100,5,-5,90,95,20,0,-11
+472,Aug 12 2009,Friendly in Armenia,Armenia,Moldova,1394,1445,1,4,-20,20,1374,1465,123,87,-7,6,116,93,20,100,49
+473,Aug 12 2009,Friendly in Austria,Austria,Cameroon,1578,1704,0,2,-14,14,1564,1718,69,40,-2,2,67,42,20,100,-26
+474,Aug 12 2009,World Cup qualifier in Azerbaijan,Azerbaijan,Germany,1359,1957,0,2,-3,3,1356,1960,119,5,0,0,119,5,40,100,-498
+475,Aug 12 2009,World Cup qualifier in Belarus,Belarus,Croatia,1592,1884,1,3,-15,15,1577,1899,67,7,-3,1,64,8,40,100,-192
+476,Aug 12 2009,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Iran,1641,1713,2,3,-11,11,1630,1724,54,42,-2,-1,52,41,20,100,28
+477,Aug 12 2009,Friendly in Bulgaria,Bulgaria,Latvia,1795,1534,1,0,2,-2,1797,1532,20,83,1,-2,21,81,20,100,361
+478,Aug 12 2009,Friendly in Czechia,Czechia,Belgium,1802,1585,3,1,4,-4,1806,1581,15,63,3,0,18,63,20,100,317
+479,Aug 12 2009,Friendly in Denmark,Denmark,Chile,1861,1832,1,2,-14,14,1847,1846,12,13,0,0,12,13,20,100,129
+480,Aug 12 2009,Friendly in the United States,Ecuador,Jamaica,1751,1616,0,0,-4,4,1747,1620,35,54,-2,1,33,55,20,0,135
+481,Aug 12 2009,Friendly in Egypt,Egypt,Guinea,1709,1529,3,3,-7,7,1702,1536,44,71,-1,6,43,77,20,100,280
+482,Aug 12 2009,Friendly in Estonia,Estonia,Brazil,1429,2123,0,1,-1,1,1428,2124,101,1,1,0,102,1,20,100,-594
+483,Aug 12 2009,World Cup qualifier in the Faroe Islands,Faroe Islands,France,1184,1882,0,1,-1,1,1183,1883,159,10,0,0,159,10,20,100,-598
+484,Aug 12 2009,Friendly in England,Ghana,Zambia,1741,1447,4,1,5,-5,1746,1442,34,102,0,-2,34,100,20,0,294
+485,Aug 12 2009,World Cup qualifier in Honduras,Honduras,Costa Rica,1735,1772,4,0,31,-31,1766,1741,22,43,7,-8,29,35,30,0,-37
+486,Aug 12 2009,Friendly in Hungary,Hungary,Romania,1640,1786,0,1,-9,9,1631,1795,51,18,0,4,51,22,20,100,-46
+487,Aug 12 2009,Friendly in Iceland,Iceland,Slovakia,1418,1640,1,1,3,-3,1421,1637,105,49,0,1,105,50,20,100,-122
+488,Aug 12 2009,Friendly in Ireland,Ireland,Australia,1792,1748,0,3,-24,24,1768,1772,33,20,-5,6,28,26,20,100,144
+489,Aug 12 2009,Friendly in Liechtenstein,Liechtenstein,Portugal,1177,1823,0,3,-1,1,1176,1824,161,17,0,-1,161,16,20,0,-646
+490,Aug 12 2009,Friendly in Luxembourg,Luxembourg,Lithuania,1083,1602,0,1,-2,2,1081,1604,179,61,-1,-1,178,60,20,100,-419
+491,Aug 12 2009,Friendly in Macedonia,Macedonia,Spain,1569,2072,2,3,-2,2,1567,2074,64,2,1,0,65,2,20,100,-403
+492,Aug 12 2009,Friendly in Malaysia,Malaysia,Kenya,1139,1417,0,0,5,-5,1144,1412,171,106,-1,0,170,106,20,100,-178
+493,Aug 12 2009,Friendly in France,Mali,Burkina Faso,1540,1466,3,0,14,-14,1554,1452,66,102,4,-5,70,97,20,0,74
+494,Aug 12 2009,Friendly in Malta,Malta,Georgia,1222,1488,2,0,22,-22,1244,1466,142,98,5,-6,147,92,20,100,-166
+495,Aug 12 2009,World Cup qualifier in Mexico,Mexico,United States,1864,1811,2,1,12,-12,1876,1799,11,23,0,-3,11,20,40,100,153
+496,Aug 12 2009,Friendly in Montenegro,Montenegro,Wales,1665,1613,2,1,6,-6,1671,1607,47,59,0,-1,47,58,20,100,152
+497,Aug 12 2009,Friendly in Morocco,Morocco,Congo,1635,1402,1,1,-7,7,1628,1409,55,106,-1,1,54,107,20,100,333
+498,Aug 12 2009,Friendly in Mozambique,Mozambique,Swaziland,1394,1156,1,0,3,-3,1397,1153,109,164,0,0,109,164,20,100,338
+499,Aug 12 2009,Friendly in the Netherlands,Netherlands,England,2037,1992,2,2,-4,4,2033,1996,3,4,0,0,3,4,20,100,145
+500,Aug 12 2009,World Cup qualifier in Norway,Norway,Scotland,1705,1720,4,0,29,-29,1734,1691,31,51,6,-6,37,45,30,0,-15
+501,Aug 12 2009,Friendly in Northern Ireland,Northern Ireland,Israel,1590,1732,1,1,1,-1,1591,1731,60,39,1,-1,61,38,20,100,-42
+502,Aug 12 2009,Friendly in Oman,Oman,Saudi Arabia,1602,1683,2,1,9,-9,1611,1674,55,46,2,0,57,46,20,100,19
+503,Aug 12 2009,Friendly in Poland,Poland,Greece,1713,1789,2,0,14,-14,1727,1775,38,26,1,-1,39,25,20,100,24
+504,Aug 12 2009,Friendly in Russia,Russia,Argentina,1911,1894,2,3,-13,13,1898,1907,11,6,-2,1,9,7,20,100,117
+505,Aug 12 2009,Friendly in Rwanda,Rwanda,Tanzania,1358,1361,1,2,-13,13,1345,1374,124,114,-2,2,122,116,20,100,97
+506,Aug 12 2009,Friendly in France,Senegal,DR Congo,1543,1433,2,1,7,-7,1550,1426,73,105,0,-2,73,103,20,0,110
+507,Aug 12 2009,Friendly in Singapore,Singapore,China,1384,1536,1,1,1,-1,1385,1535,111,82,2,-3,113,79,20,100,-52
+508,Aug 12 2009,World Cup qualifier in Slovenia,Slovenia,San Marino,1566,915,5,0,1,-1,1567,914,63,197,2,0,65,197,20,0,651
+509,Aug 12 2009,Friendly in South Africa,South Africa,Serbia,1558,1819,1,3,-9,9,1549,1828,80,12,-6,2,74,14,20,100,-161
+510,Aug 12 2009,Friendly in South Korea,South Korea,Paraguay,1726,1788,1,0,9,-9,1735,1779,34,23,2,1,36,24,20,100,38
+511,Aug 12 2009,Friendly in Sweden,Sweden,Finland,1754,1663,1,0,5,-5,1759,1658,31,48,-1,0,30,48,20,100,191
+512,Aug 12 2009,Friendly in Switzerland,Switzerland,Italy,1805,1939,0,0,1,-1,1806,1938,17,6,1,0,18,6,20,100,-34
+513,Aug 12 2009,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,El Salvador,1551,1524,1,0,13,-13,1564,1511,64,84,3,0,67,84,40,100,127
+514,Aug 12 2009,Friendly in Tunisia,Tunisia,Ivory Coast,1653,1753,0,0,0,0,1653,1753,49,32,0,-1,49,31,20,100,0
+515,Aug 12 2009,Friendly in Ukraine,Ukraine,Turkey,1807,1805,0,3,-22,22,1785,1827,28,11,-5,4,23,15,20,100,102
+516,Aug 12 2009,Friendly in the United States,Venezuela,Colombia,1690,1737,2,1,11,-11,1701,1726,43,45,1,-5,44,40,20,0,-47
+517,Aug 12 2009,Friendly in Zimbabwe,Zimbabwe,Lesotho,1392,1138,1,1,-8,8,1384,1146,116,168,-2,1,114,169,20,100,354
+518,Aug 15 2009,Friendly in Malaysia,Malaysia,China,1144,1535,0,0,7,-7,1151,1528,164,85,3,-3,167,82,20,100,-291
+519,Aug 16 2009,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Jamaica,1112,1620,0,1,-2,2,1110,1622,174,55,0,0,174,55,20,100,-408
+520,Aug 19 2009,Nehru Gold Cup in India,India,Lebanon,1245,1267,0,1,-24,24,1221,1291,158,129,-6,4,152,133,40,100,78
+521,Aug 20 2009,Nehru Gold Cup in India,Syria,Kyrgyzstan,1584,1153,2,0,5,-5,1589,1148,62,172,0,-4,62,168,40,0,431
+522,Aug 22 2009,Nehru Gold Cup in India,Sri Lanka,Lebanon,938,1291,4,3,35,-35,973,1256,186,143,3,-5,189,138,40,0,-353
+523,Aug 23 2009,Nehru Gold Cup in India,India,Kyrgyzstan,1221,1148,2,1,11,-11,1232,1137,148,172,2,-2,150,170,40,100,173
+524,Aug 23 2009,East Asian Championship qual in Taiwan,North Korea,Guam,1551,608,9,2,0,0,1551,608,71,222,0,0,71,222,20,0,943
+525,Aug 23 2009,East Asian Championship qual in Taiwan,Taiwan,Hong Kong,948,1187,0,4,-23,23,925,1210,199,154,-4,2,195,156,40,100,-139
+526,Aug 24 2009,Nehru Gold Cup in India,Syria,Sri Lanka,1589,973,4,0,2,-2,1591,971,60,189,1,0,61,189,30,0,616
+527,Aug 25 2009,East Asian Championship qual in Taiwan,Hong Kong,North Korea,1210,1551,0,0,15,-15,1225,1536,150,81,3,-5,153,76,40,0,-341
+528,Aug 25 2009,Nehru Gold Cup in India,Kyrgyzstan,Lebanon,1137,1256,1,1,7,-7,1144,1249,170,144,0,-3,170,141,40,0,-119
+529,Aug 25 2009,East Asian Championship qual in Taiwan,Taiwan,Guam,925,608,4,2,5,-5,930,603,191,222,2,0,193,222,40,100,417
+530,Aug 26 2009,Friendly tournament in Bahrain,Bahrain,Kenya,1607,1412,2,1,5,-5,1612,1407,56,108,1,-1,57,107,20,0,195
+531,Aug 26 2009,Nehru Gold Cup in India,India,Sri Lanka,1232,971,3,1,7,-7,1239,964,148,191,1,-1,149,190,40,100,361
+532,Aug 27 2009,East Asian Championship qual in Taiwan,Hong Kong,Guam,1225,603,12,0,3,-3,1228,600,151,222,1,0,152,222,40,0,622
+533,Aug 27 2009,Nehru Gold Cup in India,Syria,Lebanon,1591,1249,1,0,5,-5,1596,1244,61,149,0,-4,61,145,40,0,342
+534,Aug 27 2009,East Asian Championship qual in Taiwan,Taiwan,North Korea,930,1536,1,2,-2,2,928,1538,193,76,0,0,193,76,30,100,-506
+535,Aug 28 2009,Nehru Gold Cup in India,Kyrgyzstan,Sri Lanka,1144,964,4,1,18,-18,1162,946,158,190,6,0,164,190,40,0,180
+536,Aug 29 2009,Nehru Gold Cup in India,India,Syria,1239,1596,0,1,-7,7,1232,1603,151,61,-1,0,150,61,40,100,-257
+537,Aug 30 2009,Friendly in Saudi Arabia,Saudi Arabia,Malaysia,1674,1151,2,1,1,-1,1675,1150,46,167,0,0,46,167,20,0,523
+538,Aug 31 2009,Friendly tournament in Bahrain,Bahrain,Iran,1612,1724,4,2,23,-23,1635,1701,45,45,6,-2,51,43,30,100,-12
+539,Aug 31 2009,Nehru Gold Cup in India,India,Syria,1232,1603,1,1,13,-13,1245,1590,140,63,5,-1,145,62,40,100,-271
+540,Sep 4 2009,Friendly in Malta,Malta,Cape Verde,1244,1346,0,2,-15,15,1229,1361,154,117,-4,2,150,119,20,100,-2
+541,Sep 5 2009,Friendly in Portugal,Angola,Senegal,1473,1550,1,1,2,-2,1475,1548,88,76,1,-2,89,74,20,0,-77
+542,Sep 5 2009,World Cup qualifier in Argentina,Argentina,Brazil,1907,2124,1,3,-20,20,1887,2144,13,1,-3,0,10,1,40,100,-117
+543,Sep 5 2009,World Cup qualifier in Armenia,Armenia,Bosnia and Herzegovina,1374,1630,0,2,-17,17,1357,1647,122,47,-3,3,119,50,40,100,-156
+544,Sep 5 2009,World Cup qualifier in Austria,Austria,Faroe Islands,1564,1183,3,1,4,-4,1568,1179,65,161,1,-1,66,160,40,100,481
+545,Sep 5 2009,World Cup qualifier in Azerbaijan,Azerbaijan,Finland,1356,1658,1,2,-10,10,1346,1668,122,46,-1,1,121,47,40,100,-202
+546,Sep 5 2009,World Cup qualifier in Bahrain,Bahrain,Saudi Arabia,1635,1675,0,0,-3,3,1632,1678,53,46,-1,0,52,46,30,100,60
+547,Sep 5 2009,World Cup qualifier in Bulgaria,Bulgaria,Montenegro,1797,1671,4,1,15,-15,1812,1656,15,49,3,-1,18,48,40,100,226
+548,Sep 5 2009,World Cup qualifier in Chile,Chile,Venezuela,1846,1701,2,2,-12,12,1834,1713,13,37,0,3,13,40,40,100,245
+549,Sep 5 2009,World Cup qualifier in Colombia,Colombia,Ecuador,1726,1747,2,0,23,-23,1749,1724,24,41,8,-4,32,37,40,100,79
+550,Sep 5 2009,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1741,1876,0,3,-31,31,1710,1907,47,3,-6,4,41,7,40,100,-35
+551,Sep 5 2009,World Cup qualifier in Croatia,Croatia,Belarus,1899,1577,1,0,3,-3,1902,1574,8,64,0,0,8,64,20,0,322
+552,Sep 5 2009,World Cup qualifier in Cyprus,Cyprus,Ireland,1514,1768,1,2,-12,12,1502,1780,85,22,-1,3,84,25,40,100,-154
+553,Sep 5 2009,World Cup qualifier in Denmark,Denmark,Portugal,1847,1824,1,1,-7,7,1840,1831,12,12,0,2,12,14,40,100,123
+554,Sep 5 2009,Friendly in England,England,Slovenia,1996,1567,2,1,1,-1,1997,1566,4,69,0,-2,4,67,20,100,529
+555,Sep 5 2009,World Cup qualifier in France,France,Romania,1883,1795,1,1,-10,10,1873,1805,12,16,-1,3,11,19,40,100,188
+556,Sep 5 2009,World Cup & African Cup qual in Gabon,Gabon,Cameroon,1556,1718,0,2,-25,25,1531,1743,91,31,-11,5,80,36,40,100,-62
+557,Sep 5 2009,World Cup qualifier in Georgia,Georgia,Italy,1466,1938,0,2,-6,6,1460,1944,94,6,-1,0,93,6,40,100,-372
+558,Sep 5 2009,Friendly in Germany,Germany,South Africa,1960,1549,2,0,2,-2,1962,1547,5,77,0,-2,5,75,20,100,511
+559,Sep 5 2009,World Cup qualifier in Honduras,Honduras,Trinidad and Tobago,1766,1564,4,1,10,-10,1776,1554,25,71,2,-2,27,69,40,100,302
+560,Sep 5 2009,World Cup qualifier in Hungary,Hungary,Sweden,1631,1759,1,2,-18,18,1613,1777,60,22,-4,4,56,26,40,100,-28
+561,Sep 5 2009,World Cup qualifier in Iceland,Iceland,Norway,1421,1734,1,1,11,-11,1432,1723,97,39,4,-1,101,38,30,0,-313
+562,Sep 5 2009,World Cup qualifier in Israel,Israel,Latvia,1731,1532,0,1,-34,34,1697,1566,52,54,-7,13,45,67,40,100,299
+563,Sep 5 2009,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Burkina Faso,1753,1452,5,0,7,-7,1760,1445,27,99,2,-1,29,98,40,100,401
+564,Sep 5 2009,Friendly in Jordan,Jordan,Malaysia,1480,1150,0,0,-8,8,1472,1158,93,165,-3,1,90,166,20,100,430
+565,Sep 5 2009,World Cup & African Cup qual in Malawi,Malawi,Guinea,1315,1536,2,1,27,-27,1342,1509,116,87,6,-5,122,82,40,100,-121
+566,Sep 5 2009,World Cup qualifier in Moldova,Moldova,Luxembourg,1465,1081,0,0,-18,18,1447,1099,101,174,-4,2,97,176,40,100,484
+567,Sep 5 2009,Friendly in Namibia,Namibia,Swaziland,1329,1153,1,1,-7,7,1322,1160,132,165,-4,0,128,165,20,100,276
+568,Sep 5 2009,Friendly in the Netherlands,Netherlands,Japan,2033,1769,3,0,4,-4,2037,1765,3,29,0,-1,3,28,20,100,364
+569,Sep 5 2009,World Cup qualifier in Paraguay,Paraguay,Bolivia,1779,1618,1,0,7,-7,1786,1611,20,57,2,0,22,57,40,100,261
+570,Sep 5 2009,World Cup qualifier in Peru,Peru,Uruguay,1540,1815,1,0,29,-29,1569,1786,55,27,10,-5,65,22,40,100,-175
+571,Sep 5 2009,World Cup qualifier in Poland,Poland,Northern Ireland,1727,1591,1,1,-12,12,1715,1603,39,61,0,0,39,61,40,100,236
+572,Sep 5 2009,World Cup qualifier in Russia,Russia,Liechtenstein,1898,1176,3,0,1,-1,1899,1175,9,161,0,0,9,161,20,0,722
+573,Sep 5 2009,World Cup & African Cup qual in Rwanda,Rwanda,Egypt,1345,1702,0,1,-7,7,1338,1709,126,42,-2,0,124,42,40,100,-257
+574,Sep 5 2009,World Cup qualifier in Scotland,Scotland,Macedonia,1691,1567,2,0,13,-13,1704,1554,41,73,2,-4,43,69,40,100,224
+575,Sep 5 2009,World Cup qualifier in Slovakia,Slovakia,Czechia,1637,1806,2,2,4,-4,1641,1802,52,24,-1,-3,51,21,40,100,-69
+576,Sep 5 2009,Friendly in South Korea,South Korea,Australia,1735,1772,3,1,12,-12,1747,1760,32,32,2,-3,34,29,20,100,63
+577,Sep 5 2009,World Cup qualifier in Spain,Spain,Belgium,2074,1581,5,0,3,-3,2077,1578,2,63,0,0,2,63,30,0,493
+578,Sep 5 2009,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Saint Kitts and Nevis,1263,1110,0,3,-28,28,1235,1138,161,168,-12,3,149,171,20,100,253
+579,Sep 5 2009,World Cup qualifier in Switzerland,Switzerland,Greece,1806,1775,2,0,19,-19,1825,1756,16,37,1,-6,17,31,40,100,131
+580,Sep 5 2009,World Cup qualifier in Turkey,Turkey,Estonia,1827,1428,4,2,3,-3,1830,1425,15,106,0,-2,15,104,20,0,399
+581,Sep 5 2009,World Cup qualifier in Ukraine,Ukraine,Andorra,1785,1044,5,0,1,-1,1786,1043,21,186,1,-1,22,185,20,0,741
+582,Sep 5 2009,World Cup qualifier in the United States,United States,El Salvador,1799,1511,2,1,4,-4,1803,1507,20,82,0,1,20,83,40,100,388
+583,Sep 5 2009,Friendly in Uzbekistan,Uzbekistan,Iran,1530,1701,0,0,2,-2,1532,1699,77,45,2,-1,79,44,20,100,-71
+584,Sep 6 2009,World Cup & African Cup qual in Algeria,Algeria,Zambia,1549,1442,1,0,9,-9,1558,1433,65,100,4,0,69,100,40,100,207
+585,Sep 6 2009,World Cup & African Cup qual in Benin,Benin,Mali,1403,1554,1,1,3,-3,1406,1551,108,75,0,-3,108,72,40,100,-51
+586,Sep 6 2009,World Cup & African Cup qual in Ghana,Ghana,Sudan,1746,1365,2,0,4,-4,1750,1361,29,117,3,0,32,117,40,100,481
+587,Sep 6 2009,World Cup & African Cup qual in Mozambique,Mozambique,Kenya,1397,1407,1,0,15,-15,1412,1392,103,113,3,-3,106,110,30,0,-10
+588,Sep 6 2009,World Cup & African Cup qual in Nigeria,Nigeria,Tunisia,1748,1653,2,2,-10,10,1738,1663,39,47,-3,1,36,48,40,100,195
+589,Sep 6 2009,World Cup & African Cup qual in Togo,Togo,Morocco,1454,1628,1,1,4,-4,1458,1624,94,54,0,0,94,54,40,100,-74
+590,Sep 8 2009,Friendly in Ireland,Ireland,South Africa,1780,1547,1,0,3,-3,1783,1544,25,75,0,0,25,75,20,100,333
+591,Sep 9 2009,World Cup qualifier in Albania,Albania,Denmark,1479,1840,1,1,13,-13,1492,1827,87,16,0,-2,87,14,40,100,-261
+592,Sep 9 2009,World Cup qualifier in Andorra,Andorra,Kazakhstan,1043,1339,1,3,-15,15,1028,1354,185,117,0,3,185,120,40,100,-196
+593,Sep 9 2009,Friendly in Portugal,Angola,Cape Verde,1475,1361,1,1,-3,3,1472,1364,89,119,0,-1,89,118,20,0,114
+594,Sep 9 2009,World Cup qualifier in Armenia,Armenia,Belgium,1357,1578,2,1,27,-27,1384,1551,109,75,5,-6,114,69,40,100,-121
+595,Sep 9 2009,World Cup qualifier in Belarus,Belarus,Ukraine,1574,1786,0,0,6,-6,1580,1780,62,28,1,-3,63,25,40,100,-112
+596,Sep 9 2009,World Cup qualifier in Bolivia,Bolivia,Ecuador,1611,1724,1,3,-29,29,1582,1753,67,25,-5,6,62,31,40,100,-13
+597,Sep 9 2009,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Turkey,1647,1830,1,1,5,-5,1652,1825,48,15,1,0,49,15,20,0,-183
+598,Sep 9 2009,World Cup qualifier in Brazil,Brazil,Chile,2144,1834,4,2,5,-5,2149,1829,1,13,0,0,1,13,40,100,410
+599,Sep 9 2009,World Cup & African Cup qual in Cameroon,Cameroon,Gabon,1743,1531,2,1,6,-6,1749,1525,29,84,3,-2,32,82,40,100,312
+600,Sep 9 2009,Friendly in China,China,Senegal,1528,1548,0,0,-2,2,1526,1550,81,70,0,2,81,72,20,100,80
+601,Sep 9 2009,World Cup qualifier in Czechia,Czechia,San Marino,1802,914,7,0,0,0,1802,914,21,197,0,0,21,197,20,0,888
+602,Sep 9 2009,World Cup qualifier in El Salvador,El Salvador,Costa Rica,1507,1710,1,0,26,-26,1533,1684,75,47,4,-3,79,44,40,100,-103
+603,Sep 9 2009,World Cup qualifier in England,England,Croatia,1997,1902,5,1,18,-18,2015,1884,4,10,0,-1,4,9,40,100,195
+604,Sep 9 2009,World Cup qualifier in the Faroe Islands,Faroe Islands,Lithuania,1179,1604,2,1,35,-35,1214,1569,152,70,4,-5,156,65,40,100,-325
+605,Sep 9 2009,World Cup qualifier in Germany,Germany,Azerbaijan,1962,1346,4,0,1,-1,1963,1345,5,123,0,-1,5,122,20,0,616
+606,Sep 9 2009,World Cup qualifier in Hungary,Hungary,Portugal,1613,1831,0,1,-13,13,1600,1844,60,10,-2,2,58,12,40,100,-118
+607,Sep 9 2009,Friendly in Iceland,Iceland,Georgia,1432,1460,3,1,12,-12,1444,1448,97,101,2,-4,99,97,20,100,72
+608,Sep 9 2009,World Cup qualifier in Israel,Israel,Luxembourg,1697,1099,7,0,2,-2,1699,1097,37,176,4,0,41,176,30,0,598
+609,Sep 9 2009,World Cup qualifier in Italy,Italy,Bulgaria,1944,1812,2,0,12,-12,1956,1800,6,26,0,-4,6,22,40,100,232
+610,Sep 9 2009,Friendly in the Netherlands,Japan,Ghana,1765,1750,4,3,10,-10,1775,1740,26,38,1,-3,27,35,20,0,15
+611,Sep 9 2009,Friendly in Jordan,Jordan,New Zealand,1472,1476,1,3,-19,19,1453,1495,100,82,-5,3,95,85,20,100,96
+612,Sep 9 2009,World Cup qualifier in Latvia,Latvia,Switzerland,1566,1825,2,2,9,-9,1575,1816,61,17,3,0,64,17,30,0,-259
+613,Sep 9 2009,World Cup qualifier in Liechtenstein,Liechtenstein,Finland,1175,1668,1,1,16,-16,1191,1652,155,51,3,-2,158,49,40,100,-393
+614,Sep 9 2009,World Cup qualifier in Malta,Malta,Sweden,1229,1777,0,1,-3,3,1226,1780,154,24,-2,1,152,25,40,100,-448
+615,Sep 9 2009,World Cup qualifier in Mexico,Mexico,Honduras,1907,1776,1,0,8,-8,1915,1768,7,29,0,-1,7,28,40,100,231
+616,Sep 9 2009,World Cup qualifier in Moldova,Moldova,Greece,1447,1756,1,1,11,-11,1458,1745,87,37,5,-3,92,34,30,0,-309
+617,Sep 9 2009,World Cup qualifier in Montenegro,Montenegro,Cyprus,1656,1502,1,1,-12,12,1644,1514,53,82,-2,1,51,83,40,100,254
+618,Sep 9 2009,World Cup qualifier in Norway,Norway,Macedonia,1723,1554,2,1,7,-7,1730,1547,36,76,1,-3,37,73,40,100,269
+619,Sep 9 2009,World Cup qualifier in Northern Ireland,Northern Ireland,Slovakia,1603,1641,0,2,-35,35,1568,1676,71,39,-5,6,66,45,40,100,62
+620,Sep 9 2009,World Cup qualifier in Paraguay,Paraguay,Argentina,1786,1887,1,0,20,-20,1806,1867,16,12,3,-1,19,11,40,100,-1
+621,Sep 9 2009,Friendly in Qatar,Qatar,Oman,1535,1611,1,1,-1,1,1534,1612,78,55,0,1,78,56,20,100,24
+622,Sep 9 2009,World Cup qualifier in Romania,Romania,Austria,1805,1568,1,1,-15,15,1790,1583,27,56,-4,5,23,61,40,100,337
+623,Sep 9 2009,World Cup qualifier in Saudi Arabia,Saudi Arabia,Bahrain,1678,1632,2,2,-8,8,1670,1640,48,52,-1,0,47,52,40,100,146
+624,Sep 9 2009,World Cup qualifier in Scotland,Scotland,Netherlands,1704,2037,0,1,-8,8,1696,2045,43,3,0,0,43,3,40,100,-233
+625,Sep 9 2009,World Cup qualifier in Serbia,Serbia,France,1828,1873,1,1,-3,3,1825,1876,14,9,1,1,15,10,40,100,55
+626,Sep 9 2009,World Cup qualifier in Slovenia,Slovenia,Poland,1566,1715,3,0,40,-40,1606,1675,47,53,10,-7,57,46,40,100,-49
+627,Sep 9 2009,World Cup qualifier in Spain,Spain,Estonia,2077,1425,3,0,1,-1,2078,1424,2,106,0,-1,2,105,20,0,652
+628,Sep 9 2009,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,United States,1554,1803,0,1,-12,12,1542,1815,80,16,-5,2,75,18,40,100,-149
+629,Sep 9 2009,World Cup qualifier in Uruguay,Uruguay,Colombia,1786,1749,3,1,19,-19,1805,1730,18,41,2,-4,20,37,40,100,137
+630,Sep 9 2009,World Cup qualifier in Venezuela,Venezuela,Peru,1713,1569,3,1,12,-12,1725,1557,38,71,1,-3,39,68,40,100,244
+631,Sep 9 2009,World Cup qualifier in Wales,Wales,Russia,1607,1899,1,3,-15,15,1592,1914,59,7,0,1,59,8,40,100,-192
+632,Sep 11 2009,Friendly in Malaysia,Malaysia,Lesotho,1158,1146,5,0,14,-14,1172,1132,160,172,3,-1,163,171,20,100,112
+633,Sep 19 2009,Friendly in South Africa,South Africa,Madagascar,1544,1272,1,0,2,-2,1546,1270,74,137,0,-1,74,136,20,100,372
+634,Sep 20 2009,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,St Vincent & Grenadines,1138,1235,1,1,0,0,1138,1235,170,149,0,0,170,149,20,100,3
+635,Sep 30 2009,Friendly in Argentina,Argentina,Ghana,1867,1740,2,0,6,-6,1873,1734,11,39,0,-2,11,37,20,100,227
+636,Sep 30 2009,Friendly in China,China,Botswana,1526,1301,4,1,5,-5,1531,1296,81,132,0,0,81,132,20,100,325
+637,Sep 30 2009,Friendly in the United States,Colombia,Mexico,1730,1915,2,1,15,-15,1745,1900,31,9,3,-1,34,8,20,0,-185
+638,Oct 2 2009,Friendly in Egypt,Egypt,Mauritius,1709,1059,4,0,0,0,1709,1059,40,181,0,0,40,181,20,100,750
+639,Oct 5 2009,Friendly in Egypt,Kuwait,Libya,1444,1494,1,1,1,-1,1445,1493,97,86,1,0,98,86,20,0,-50
+640,Oct 8 2009,Friendly in Croatia,Croatia,Qatar,1884,1534,3,2,1,-1,1885,1533,9,78,0,0,9,78,20,100,450
+641,Oct 8 2009,Asian Cup qualifier in Japan,Japan,Hong Kong,1775,1228,6,0,2,-2,1777,1226,27,151,0,0,27,151,20,0,547
+642,Oct 10 2009,Friendly in Portugal,Angola,Malta,1472,1226,2,1,4,-4,1476,1222,89,155,0,-2,89,153,20,0,246
+643,Oct 10 2009,World Cup qualifier in Argentina,Argentina,Peru,1873,1557,2,1,3,-3,1876,1554,11,74,0,-3,11,71,20,0,316
+644,Oct 10 2009,World Cup qualifier in Armenia,Armenia,Spain,1384,2078,1,2,-1,1,1383,2079,114,2,0,0,114,2,20,100,-594
+645,Oct 10 2009,Friendly in Australia,Australia,Netherlands,1760,2045,0,0,5,-5,1765,2040,23,3,3,0,26,3,20,100,-185
+646,Oct 10 2009,World Cup qualifier in Austria,Austria,Lithuania,1583,1569,2,1,14,-14,1597,1555,53,73,4,-4,57,69,30,0,14
+647,Oct 10 2009,World Cup qualifier in Bahrain,Bahrain,New Zealand,1640,1495,0,0,-12,12,1628,1507,56,85,-2,0,54,85,40,100,245
+648,Oct 10 2009,World Cup qualifier in Belarus,Belarus,Kazakhstan,1580,1354,4,0,10,-10,1590,1344,59,126,2,-3,61,123,40,100,326
+649,Oct 10 2009,World Cup qualifier in Belgium,Belgium,Turkey,1551,1825,2,0,44,-44,1595,1781,47,33,11,-9,58,24,40,100,-174
+650,Oct 10 2009,World Cup & African Cup qual in Cameroon,Cameroon,Togo,1749,1458,3,0,7,-7,1756,1451,26,96,3,-2,29,94,40,100,391
+651,Oct 10 2009,World Cup qualifier in Colombia,Colombia,Chile,1745,1829,2,4,-31,31,1714,1860,44,11,-5,1,39,12,40,100,16
+652,Oct 10 2009,World Cup qualifier in Costa Rica,Costa Rica,Trinidad and Tobago,1684,1542,4,0,15,-15,1699,1527,40,91,2,-8,42,83,40,100,242
+653,Oct 10 2009,World Cup qualifier in Cyprus,Cyprus,Bulgaria,1514,1800,4,1,52,-52,1566,1748,49,38,17,-8,66,30,40,100,-186
+654,Oct 10 2009,World Cup qualifier in Czechia,Czechia,Poland,1802,1675,2,0,13,-13,1815,1662,19,52,1,-3,20,49,40,100,227
+655,Oct 10 2009,World Cup qualifier in Denmark,Denmark,Sweden,1827,1780,1,0,12,-12,1839,1768,16,25,-1,0,15,25,40,100,147
+656,Oct 10 2009,World Cup qualifier in Ecuador,Ecuador,Uruguay,1753,1805,1,2,-23,23,1730,1828,43,14,-6,3,37,17,40,100,48
+657,Oct 10 2009,World Cup qualifier in Estonia,Estonia,Bosnia and Herzegovina,1424,1652,0,2,-19,19,1405,1671,111,41,-3,4,108,45,40,100,-128
+658,Oct 10 2009,World Cup qualifier in Finland,Finland,Wales,1652,1592,2,1,11,-11,1663,1581,45,69,2,-5,47,64,40,100,160
+659,Oct 10 2009,World Cup qualifier in France,France,Faroe Islands,1876,1214,5,0,1,-1,1877,1213,10,156,0,0,10,156,20,0,662
+660,Oct 10 2009,World Cup & African Cup qual in Gabon,Gabon,Morocco,1525,1624,3,1,30,-30,1555,1594,56,64,13,-5,69,59,40,100,1
+661,Oct 10 2009,World Cup qualifier in Greece,Greece,Latvia,1745,1575,5,2,12,-12,1757,1563,22,70,6,-3,28,67,40,100,270
+662,Oct 10 2009,World Cup qualifier in Honduras,Honduras,United States,1768,1815,2,3,-23,23,1745,1838,38,14,-5,2,33,16,40,100,53
+663,Oct 10 2009,World Cup qualifier in Ireland,Ireland,Italy,1783,1956,2,2,4,-4,1787,1952,20,6,2,0,22,6,40,100,-73
+664,Oct 10 2009,World Cup qualifier in Israel,Israel,Moldova,1699,1458,3,1,7,-7,1706,1451,39,96,1,-2,40,94,40,100,341
+665,Oct 10 2009,Friendly in Japan,Japan,Scotland,1777,1696,2,0,8,-8,1785,1688,19,45,4,-1,23,44,20,100,181
+666,Oct 10 2009,Friendly in Egypt,Kuwait,Jordan,1445,1453,2,1,10,-10,1455,1443,86,103,6,-4,92,99,20,0,-8
+667,Oct 10 2009,World Cup qualifier in Liechtenstein,Liechtenstein,Azerbaijan,1191,1345,0,2,-25,25,1166,1370,170,114,-6,4,164,118,40,100,-54
+668,Oct 10 2009,World Cup qualifier in Luxembourg,Luxembourg,Switzerland,1097,1816,0,3,-2,2,1095,1818,176,21,0,-2,176,19,40,100,-619
+669,Oct 10 2009,World Cup & African Cup qual in Malawi,Malawi,Ivory Coast,1342,1760,1,1,14,-14,1356,1746,119,35,2,-3,121,32,40,100,-318
+670,Oct 10 2009,World Cup qualifier in Mexico,Mexico,El Salvador,1900,1533,4,1,4,-4,1904,1529,6,86,1,-4,7,82,20,0,367
+671,Oct 10 2009,World Cup qualifier in Montenegro,Montenegro,Georgia,1644,1448,2,1,6,-6,1650,1442,49,103,1,-3,50,100,40,100,296
+672,Oct 10 2009,Friendly in Norway,Norway,South Africa,1730,1546,1,0,3,-3,1733,1543,34,78,2,-2,36,76,20,100,284
+673,Oct 10 2009,World Cup qualifier in Portugal,Portugal,Hungary,1844,1600,3,0,8,-8,1852,1592,14,62,-1,-2,13,60,40,100,344
+674,Oct 10 2009,World Cup qualifier in Russia,Russia,Germany,1914,1963,0,1,-23,23,1891,1986,9,5,-1,0,8,5,40,100,51
+675,Oct 10 2009,World Cup qualifier in Serbia,Serbia,Romania,1825,1790,5,0,25,-25,1850,1765,13,29,1,-3,14,26,40,100,135
+676,Oct 10 2009,World Cup qualifier in Slovakia,Slovakia,Slovenia,1676,1606,0,2,-44,44,1632,1650,59,43,-7,7,52,50,40,100,170
+677,Oct 10 2009,Friendly in the United Arab Emirates,United Arab Emirates,Palestine,1389,1171,1,1,-7,7,1382,1178,119,158,-4,3,115,161,20,100,318
+678,Oct 10 2009,World Cup qualifier in Ukraine,Ukraine,England,1780,2015,1,0,27,-27,1807,1988,17,4,4,0,21,4,40,100,-135
+679,Oct 10 2009,World Cup qualifier in Venezuela,Venezuela,Paraguay,1725,1806,1,2,-21,21,1704,1827,43,17,-2,1,41,18,40,100,19
+680,Oct 10 2009,World Cup & African Cup qual in Zambia,Zambia,Egypt,1433,1709,0,1,-11,11,1422,1720,107,36,-3,2,104,38,40,100,-176
+681,Oct 11 2009,World Cup & African Cup qual in Algeria,Algeria,Rwanda,1558,1338,3,1,8,-8,1566,1330,64,124,2,0,66,124,40,100,320
+682,Oct 11 2009,World Cup & African Cup qual in Benin,Benin,Ghana,1406,1734,1,0,32,-32,1438,1702,95,47,6,-6,101,41,40,100,-228
+683,Oct 11 2009,World Cup qualifier in Bolivia,Bolivia,Brazil,1582,2149,2,1,37,-37,1619,2112,49,1,7,0,56,1,40,100,-467
+684,Oct 11 2009,World Cup & African Cup qual in Ghana,Burkina Faso,Guinea,1445,1509,2,1,24,-24,1469,1485,83,90,7,-3,90,87,40,0,-64
+685,Oct 11 2009,Friendly in Macedonia,Macedonia,Qatar,1547,1533,2,1,7,-7,1554,1526,69,87,3,-4,72,83,20,100,114
+686,Oct 11 2009,World Cup & African Cup qual in Mali,Mali,Sudan,1551,1361,1,0,6,-6,1557,1355,66,122,3,-1,69,121,40,100,290
+687,Oct 11 2009,World Cup & African Cup qual in Nigeria,Nigeria,Mozambique,1738,1412,1,0,3,-3,1741,1409,34,107,0,-1,34,106,20,0,326
+688,Oct 11 2009,World Cup & African Cup qual in Tunisia,Tunisia,Kenya,1663,1392,1,0,4,-4,1667,1388,47,112,0,-1,47,111,40,100,371
+689,Oct 13 2009,Friendly in France,Congo,North Korea,1409,1538,0,0,4,-4,1413,1534,106,77,0,0,106,77,20,0,-129
+690,Oct 13 2009,Friendly in Iceland,Iceland,South Africa,1444,1543,1,0,10,-10,1454,1533,90,80,4,-2,94,78,20,100,1
+691,Oct 14 2009,World Cup qualifier in Andorra,Andorra,Ukraine,1028,1807,0,6,-2,2,1026,1809,185,11,0,5,185,16,40,100,-679
+692,Oct 14 2009,Friendly in Portugal,Angola,Cameroon,1476,1756,0,0,7,-7,1483,1749,87,37,1,-4,88,33,20,0,-280
+693,Oct 14 2009,Asian Cup qualifier in Australia,Australia,Oman,1765,1612,1,0,8,-8,1773,1604,26,57,0,0,26,57,40,100,253
+694,Oct 14 2009,World Cup qualifier in Azerbaijan,Azerbaijan,Russia,1370,1891,1,1,17,-17,1387,1874,108,14,5,-3,113,11,40,100,-421
+695,Oct 14 2009,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Spain,1671,2079,2,5,-10,10,1661,2089,51,2,-3,0,48,2,40,100,-308
+696,Oct 14 2009,World Cup qualifier in Brazil,Brazil,Venezuela,2112,1704,0,0,-18,18,2094,1722,1,34,0,3,1,37,40,100,508
+697,Oct 14 2009,World Cup qualifier in Bulgaria,Bulgaria,Georgia,1748,1442,6,2,7,-7,1755,1435,32,102,-1,-1,31,101,40,100,406
+698,Oct 14 2009,World Cup qualifier in Chile,Chile,Ecuador,1860,1730,1,0,8,-8,1868,1722,12,38,0,-1,12,37,40,100,230
+699,Oct 14 2009,World Cup qualifier in Czechia,Czechia,Northern Ireland,1815,1568,0,0,-15,15,1800,1583,20,65,0,0,20,65,40,100,347
+700,Oct 14 2009,World Cup qualifier in Denmark,Denmark,Hungary,1839,1592,0,1,-35,35,1804,1627,23,49,-4,6,19,55,40,100,347
+701,Oct 14 2009,Friendly in France,DR Congo,Qatar,1426,1526,2,2,3,-3,1429,1523,105,81,-1,1,104,82,20,0,-100
+702,Oct 14 2009,World Cup qualifier in El Salvador,El Salvador,Honduras,1529,1745,0,1,-14,14,1515,1759,85,25,-2,4,83,29,40,100,-116
+703,Oct 14 2009,World Cup qualifier in England,England,Belarus,1988,1590,3,0,4,-4,1992,1586,4,64,0,-1,4,63,40,100,498
+704,Oct 14 2009,World Cup qualifier in Estonia,Estonia,Belgium,1405,1595,2,0,38,-38,1443,1557,88,81,10,-11,98,70,40,100,-90
+705,Oct 14 2009,World Cup qualifier in France,France,Austria,1877,1597,3,1,6,-6,1883,1591,10,62,0,-2,10,60,40,100,380
+706,Oct 14 2009,World Cup qualifier in Germany,Germany,Finland,1986,1663,1,1,-17,17,1969,1680,5,44,0,2,5,46,40,100,423
+707,Oct 14 2009,World Cup qualifier in Greece,Greece,Luxembourg,1757,1095,2,1,0,0,1757,1095,32,176,-2,0,30,176,20,0,662
+708,Oct 14 2009,World Cup qualifier in Ireland,Ireland,Montenegro,1787,1650,0,0,-12,12,1775,1662,26,44,-2,3,24,47,40,100,237
+709,Oct 14 2009,World Cup qualifier in Italy,Italy,Cyprus,1952,1566,3,2,2,-2,1954,1564,6,72,0,-3,6,69,20,0,386
+710,Oct 14 2009,Friendly in Japan,Japan,Togo,1785,1451,5,0,3,-3,1788,1448,19,98,2,-1,21,97,20,100,434
+711,Oct 14 2009,World Cup qualifier in Kazakhstan,Kazakhstan,Croatia,1344,1885,1,2,-3,3,1341,1888,123,9,0,0,123,9,40,100,-441
+712,Oct 14 2009,World Cup qualifier in Latvia,Latvia,Moldova,1563,1451,3,2,9,-9,1572,1442,64,102,2,-3,66,99,40,100,212
+713,Oct 14 2009,World Cup qualifier in Liechtenstein,Liechtenstein,Wales,1166,1581,0,2,-8,8,1158,1589,168,60,-2,2,166,62,40,100,-315
+714,Oct 14 2009,World Cup qualifier in Lithuania,Lithuania,Serbia,1555,1850,2,1,30,-30,1585,1820,58,16,6,-1,64,15,40,100,-195
+715,Oct 14 2009,World Cup qualifier in Paraguay,Paraguay,Colombia,1827,1714,0,2,-46,46,1781,1760,28,18,-5,10,23,28,40,100,213
+716,Oct 14 2009,World Cup qualifier in Peru,Peru,Bolivia,1554,1619,1,0,18,-18,1572,1601,60,60,6,-2,66,58,30,0,-65
+717,Oct 14 2009,World Cup qualifier in Poland,Poland,Slovakia,1662,1632,0,1,-27,27,1635,1659,55,46,-3,3,52,49,40,100,130
+718,Oct 14 2009,World Cup qualifier in Portugal,Portugal,Malta,1852,1222,4,0,1,-1,1853,1221,13,153,0,0,13,153,20,0,630
+719,Oct 14 2009,World Cup qualifier in Romania,Romania,Faroe Islands,1765,1213,3,1,1,-1,1766,1212,28,156,-1,0,27,156,20,0,552
+720,Oct 14 2009,World Cup qualifier in San Marino,San Marino,Slovenia,914,1650,0,3,-2,2,912,1652,197,52,0,-1,197,51,40,100,-636
+721,Oct 14 2009,Friendly in South Korea,South Korea,Senegal,1747,1550,2,0,5,-5,1752,1545,33,75,-1,0,32,75,20,100,297
+722,Oct 14 2009,World Cup qualifier in Sweden,Sweden,Albania,1768,1492,4,1,7,-7,1775,1485,23,86,1,0,24,86,40,100,376
+723,Oct 14 2009,World Cup qualifier in Switzerland,Switzerland,Israel,1818,1706,0,0,-11,11,1807,1717,15,41,2,-1,17,40,40,100,212
+724,Oct 14 2009,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Mexico,1527,1904,2,2,13,-13,1540,1891,70,9,6,-1,76,8,40,100,-277
+725,Oct 14 2009,Friendly in Tunisia,Tunisia,Saudi Arabia,1667,1670,0,1,-13,13,1654,1683,53,44,-3,1,50,45,20,100,97
+726,Oct 14 2009,World Cup qualifier in Turkey,Turkey,Armenia,1781,1383,2,0,3,-3,1784,1380,20,118,2,-2,22,116,20,0,398
+727,Oct 14 2009,Friendly in the United Arab Emirates,United Arab Emirates,Jordan,1382,1443,3,1,13,-13,1395,1430,103,107,6,-4,109,103,20,100,39
+728,Oct 14 2009,World Cup qualifier in Uruguay,Uruguay,Argentina,1828,1876,0,1,-23,23,1805,1899,19,3,-1,4,18,7,40,100,52
+729,Oct 14 2009,World Cup qualifier in the United States,United States,Costa Rica,1838,1699,2,2,-12,12,1826,1711,12,40,2,1,14,41,40,100,239
+730,Oct 17 2009,COSAFA Cup in Zimbabwe,Zimbabwe,Mauritius,1384,1059,3,0,6,-6,1390,1053,107,181,4,0,111,181,40,100,425
+731,Oct 18 2009,COSAFA Cup in Zimbabwe,Botswana,Comoros,1296,830,0,0,-17,17,1279,847,134,204,-1,0,133,204,40,0,466
+732,Oct 18 2009,COSAFA Cup in Zimbabwe,Swaziland,Seychelles,1160,1080,2,1,15,-15,1175,1065,159,181,3,-1,162,180,40,0,80
+733,Oct 19 2009,COSAFA Cup in Zimbabwe,Zimbabwe,Lesotho,1390,1132,2,2,-15,15,1375,1147,121,167,-5,2,116,169,40,100,358
+734,Oct 20 2009,COSAFA Cup in Zimbabwe,Botswana,Swaziland,1279,1175,1,0,14,-14,1293,1161,131,168,1,-3,132,165,40,0,104
+735,Oct 20 2009,COSAFA Cup in Zimbabwe,Comoros,Seychelles,847,1065,2,1,31,-31,878,1034,200,188,2,-4,202,184,40,0,-218
+736,Oct 20 2009,Friendly in Namibia,Namibia,South Africa,1322,1533,2,1,13,-13,1335,1520,120,85,4,-3,124,82,20,100,-111
+737,Oct 20 2009,Friendly tournament in Vietnam,Vietnam,Turkmenistan,1353,1326,1,0,10,-10,1363,1316,118,130,2,-2,120,128,30,100,127
+738,Oct 21 2009,COSAFA Cup in Zimbabwe,Lesotho,Mauritius,1147,1053,1,0,15,-15,1162,1038,159,186,5,-3,164,183,40,0,94
+739,Oct 22 2009,COSAFA Cup in Zimbabwe,Botswana,Seychelles,1293,1034,2,0,11,-11,1304,1023,130,186,1,-1,131,185,40,0,259
+740,Oct 22 2009,Friendly tournament in Vietnam,Singapore,Turkmenistan,1385,1316,4,2,18,-18,1403,1298,104,136,5,-4,109,132,30,0,69
+741,Oct 22 2009,COSAFA Cup in Zimbabwe,Swaziland,Comoros,1161,878,3,0,11,-11,1172,867,160,206,3,-2,163,204,40,0,283
+742,Oct 24 2009,Friendly tournament in Vietnam,Vietnam,Singapore,1363,1403,2,2,-3,3,1360,1406,120,109,0,0,120,109,30,100,60
+743,Oct 25 2009,COSAFA Cup in Zimbabwe,Mozambique,Malawi,1409,1356,1,0,17,-17,1426,1339,104,125,2,-2,106,123,40,0,53
+744,Oct 25 2009,COSAFA Cup in Zimbabwe,Zambia,Namibia,1422,1335,1,0,15,-15,1437,1320,96,130,5,-3,101,127,40,0,87
+745,Oct 26 2009,Friendly in Kuwait,Kuwait,Syria,1455,1590,1,0,11,-11,1466,1579,89,69,2,-4,91,65,20,100,-35
+746,Oct 26 2009,COSAFA Cup in Zimbabwe,South Africa,Angola,1520,1483,2,0,27,-27,1547,1456,68,98,7,-5,75,93,40,0,37
+747,Oct 26 2009,COSAFA Cup in Zimbabwe,Zimbabwe,Botswana,1375,1304,1,0,11,-11,1386,1293,114,133,1,-1,115,132,40,100,171
+748,Oct 28 2009,Friendly tournament in Suriname,French Guiana,Netherlands Antilles,1226,1147,4,1,20,-20,1246,1127,133,174,9,-2,142,172,30,0,79
+749,Oct 28 2009,Friendly tournament in Suriname,Suriname,Guyana,1246,1217,0,1,-20,20,1226,1237,162,144,-10,5,152,149,30,100,129
+750,Oct 28 2009,COSAFA Cup in Zimbabwe,Zimbabwe,South Africa,1386,1547,1,1,3,-3,1389,1544,109,77,3,-1,112,76,30,100,-61
+751,Oct 29 2009,COSAFA Cup in Zimbabwe,Zambia,Mozambique,1437,1426,2,0,29,-29,1466,1397,81,112,10,-3,91,109,40,0,11
+752,Oct 30 2009,Friendly tournament in Suriname,Guyana,Netherlands Antilles,1237,1127,1,0,10,-10,1247,1117,137,176,6,-2,143,174,30,0,110
+753,Oct 30 2009,Friendly tournament in Suriname,Suriname,French Guiana,1226,1246,4,0,22,-22,1248,1224,130,164,11,-11,141,153,30,100,80
+754,Oct 31 2009,COSAFA Cup in Zimbabwe,Mozambique,South Africa,1397,1544,1,0,28,-28,1425,1516,103,88,3,-6,106,82,40,0,-147
+755,Nov 1 2009,Friendly tournament in Suriname,Guyana,French Guiana,1247,1224,1,0,14,-14,1261,1210,131,161,6,-4,137,157,30,0,23
+756,Nov 1 2009,Friendly tournament in Suriname,Suriname,Netherlands Antilles,1248,1117,1,1,-9,9,1239,1126,155,170,-7,2,148,172,30,100,231
+757,Nov 1 2009,COSAFA Cup in Zimbabwe,Zimbabwe,Zambia,1389,1466,3,1,28,-28,1417,1438,104,109,4,-9,108,100,40,100,23
+758,Nov 3 2009,Friendly in Egypt,Kuwait,Kenya,1466,1388,5,0,16,-16,1482,1372,87,122,2,-4,89,118,20,0,78
+759,Nov 4 2009,Friendly in Chile,Chile,Paraguay,1868,1781,2,1,5,-5,1873,1776,12,23,0,0,12,23,20,100,187
+760,Nov 4 2009,Friendly in Singapore,Singapore,Indonesia,1406,1272,3,1,6,-6,1412,1266,110,137,0,-1,110,136,20,100,234
+761,Nov 5 2009,Friendly in Egypt,Egypt,Tanzania,1720,1374,5,1,3,-3,1723,1371,35,119,2,-1,37,118,20,100,446
+762,Nov 6 2009,Friendly in Bahrain,Bahrain,Togo,1628,1448,5,1,6,-6,1634,1442,52,99,1,-1,53,98,20,100,280
+763,Nov 8 2009,Friendly in Kuwait,Kuwait,China,1482,1531,2,2,-1,1,1481,1532,89,78,0,1,89,79,20,100,51
+764,Nov 8 2009,Friendly in Thailand,Thailand,Syria,1464,1579,1,1,0,0,1464,1579,92,65,0,0,92,65,20,100,-15
+765,Nov 8 2009,Friendly in Yemen,Yemen,Tanzania,1215,1371,1,1,2,-2,1217,1369,154,118,0,0,154,118,20,100,-56
+766,Nov 10 2009,Friendly in Iran,Iran,Iceland,1699,1454,1,0,2,-2,1701,1452,43,96,0,-1,43,95,20,100,345
+767,Nov 11 2009,Friendly in Yemen,Yemen,Tanzania,1217,1369,2,1,11,-11,1228,1358,150,122,2,-2,152,120,20,100,-52
+768,Nov 13 2009,Friendly in France,Qatar,Paraguay,1523,1776,2,0,24,-24,1547,1752,69,39,6,-8,75,31,20,0,-253
+769,Nov 13 2009,Friendly in Saudi Arabia,Saudi Arabia,Belarus,1683,1586,2,1,5,-5,1688,1581,43,66,1,-2,44,64,20,100,197
+770,Nov 14 2009,Friendly in Angola,Angola,Congo,1456,1413,1,1,-4,4,1452,1417,99,107,-3,1,96,108,20,100,143
+771,Nov 14 2009,Friendly in Belgium,Belgium,Hungary,1557,1627,3,0,16,-16,1573,1611,60,57,5,-1,65,56,20,100,30
+772,Nov 14 2009,Friendly in Qatar,Brazil,England,2094,1992,1,0,7,-7,2101,1985,1,4,0,0,1,4,20,0,102
+773,Nov 14 2009,World Cup & African Cup qual in Burkina Faso,Burkina Faso,Malawi,1469,1339,1,0,8,-8,1477,1331,90,123,0,0,90,123,40,100,230
+774,Nov 14 2009,World Cup qualifier in Costa Rica,Costa Rica,Uruguay,1711,1805,0,1,-20,20,1691,1825,45,12,-2,3,43,15,40,100,6
+775,Nov 14 2009,Friendly in Croatia,Croatia,Liechtenstein,1888,1158,5,0,0,0,1888,1158,11,167,-1,0,10,167,20,100,830
+776,Nov 14 2009,Friendly in Denmark,Denmark,South Korea,1804,1752,0,0,-4,4,1800,1756,17,27,1,2,18,29,20,100,152
+777,Nov 14 2009,World Cup & African Cup qual in Egypt,Egypt,Algeria,1723,1566,2,0,11,-11,1734,1555,37,76,0,-4,37,72,40,100,257
+778,Nov 14 2009,Friendly in Estonia,Estonia,Albania,1443,1485,0,0,-2,2,1441,1487,105,88,-4,-1,101,87,20,100,58
+779,Nov 14 2009,World Cup qualifier in Greece,Greece,Ukraine,1757,1809,0,0,-3,3,1754,1812,35,18,-3,-1,32,17,40,100,48
+780,Nov 14 2009,Friendly in Honduras,Honduras,Latvia,1759,1572,2,1,3,-3,1762,1569,26,70,1,-2,27,68,20,100,287
+781,Nov 14 2009,Asian Cup qualifier in Iran,Iran,Jordan,1701,1430,1,0,4,-4,1705,1426,39,108,2,-2,41,106,40,100,371
+782,Nov 14 2009,World Cup qualifier in Ireland,Ireland,France,1775,1883,0,1,-20,20,1755,1903,37,4,-7,3,30,7,40,100,-8
+783,Nov 14 2009,Friendly in Italy,Italy,Netherlands,1954,2040,0,0,0,0,1954,2040,6,3,0,0,6,3,20,100,14
+784,Nov 14 2009,World Cup & African Cup qual in Ivory Coast,Ivory Coast,Guinea,1746,1485,3,0,8,-8,1754,1477,30,94,2,-4,32,90,40,100,361
+785,Nov 14 2009,World Cup & African Cup qual in Kenya,Kenya,Nigeria,1372,1741,2,3,-7,7,1365,1748,117,35,0,0,117,35,40,100,-269
+786,Nov 14 2009,Asian Cup qualifier in Kuwait,Kuwait,Indonesia,1481,1266,2,1,6,-6,1487,1260,85,138,2,-1,87,137,40,100,315
+787,Nov 14 2009,Asian Cup qualifier in Lebanon,Lebanon,China,1244,1532,0,2,-15,15,1229,1547,155,68,-5,6,150,74,40,100,-188
+788,Nov 14 2009,Friendly in Luxembourg,Luxembourg,Iceland,1095,1452,1,1,6,-6,1101,1446,176,103,0,-4,176,99,20,100,-257
+789,Nov 14 2009,Friendly in Macedonia,Macedonia,Canada,1554,1629,3,0,16,-16,1570,1613,61,54,6,0,67,54,20,100,25
+790,Nov 14 2009,World Cup & African Cup qual in Morocco,Morocco,Cameroon,1594,1749,0,2,-25,25,1569,1774,77,19,-9,7,68,26,40,100,-55
+791,Nov 14 2009,World Cup & African Cup qual in Mozambique,Mozambique,Tunisia,1425,1654,1,0,27,-27,1452,1627,86,52,10,-1,96,51,40,100,-129
+792,Nov 14 2009,World Cup qualifier in New Zealand,New Zealand,Bahrain,1507,1634,1,0,22,-22,1529,1612,80,57,2,-2,82,55,40,100,-27
+793,Nov 14 2009,Friendly in Northern Ireland,Northern Ireland,Serbia,1583,1820,0,1,-6,6,1577,1826,65,13,-1,1,64,14,20,100,-137
+794,Nov 14 2009,Asian Cup qualifier in Oman,Oman,Australia,1604,1773,1,2,-16,16,1588,1789,65,17,-4,4,61,21,40,100,-69
+795,Nov 14 2009,Friendly in Poland,Poland,Romania,1635,1766,0,1,-9,9,1626,1775,52,22,0,2,52,24,20,100,-31
+796,Nov 14 2009,World Cup qualifier in Portugal,Portugal,Bosnia and Herzegovina,1853,1661,1,0,6,-6,1859,1655,13,50,0,-1,13,49,40,100,292
+797,Nov 14 2009,World Cup qualifier in Russia,Russia,Slovenia,1874,1652,2,1,5,-5,1879,1647,11,49,0,1,11,50,40,100,322
+798,Nov 14 2009,World Cup & African Cup qual in Rwanda,Rwanda,Zambia,1330,1438,0,0,0,0,1330,1438,124,104,0,-2,124,102,20,100,-8
+799,Nov 14 2009,Friendly in Saudi Arabia,Saudi Arabia,Belarus,1688,1581,1,1,-5,5,1683,1586,44,60,0,2,44,62,20,100,207
+800,Nov 14 2009,Asian Cup qualifier in Singapore,Singapore,Thailand,1412,1464,1,3,-34,34,1378,1498,120,78,-5,7,115,85,40,100,48
+801,Nov 14 2009,Friendly in Slovakia,Slovakia,United States,1659,1826,1,0,12,-12,1671,1814,43,18,3,-2,46,16,20,100,-67
+802,Nov 14 2009,Friendly in South Africa,South Africa,Japan,1516,1788,0,0,5,-5,1521,1783,84,25,-1,-2,83,23,20,100,-172
+803,Nov 14 2009,Friendly in Spain,Spain,Argentina,2089,1899,2,1,3,-3,2092,1896,2,9,0,-1,2,8,20,100,290
+804,Nov 14 2009,World Cup & African Cup qual in Sudan,Sudan,Benin,1355,1438,1,2,-21,21,1334,1459,123,88,-1,6,122,94,40,100,17
+805,Nov 14 2009,Friendly in Switzerland,Switzerland,Norway,1807,1733,0,1,-15,15,1792,1748,23,34,-3,1,20,35,20,100,174
+806,Nov 14 2009,World Cup & African Cup qual in Togo,Togo,Gabon,1442,1555,1,0,21,-21,1463,1534,88,88,5,-8,93,80,40,100,-13
+807,Nov 14 2009,Asian Cup qualifier in Uzbekistan,Uzbekistan,Malaysia,1532,1172,3,1,4,-4,1536,1168,76,165,2,-1,78,164,40,100,460
+808,Nov 14 2009,Asian Cup qualifier in Vietnam,Vietnam,Syria,1360,1579,0,1,-13,13,1347,1592,121,53,-1,6,120,59,40,100,-119
+809,Nov 14 2009,Friendly in Wales,Wales,Scotland,1589,1688,3,0,17,-17,1606,1671,53,48,4,-2,57,46,20,100,1
+810,Nov 15 2009,World Cup & African Cup qual in Ghana,Ghana,Mali,1702,1557,2,2,-12,12,1690,1569,44,65,-1,3,43,68,40,100,245
+811,Nov 15 2009,Friendly tournament in the United Arab Emirates,Iraq,Azerbaijan,1536,1387,1,0,9,-9,1545,1378,74,115,2,-1,76,114,30,0,149
+812,Nov 15 2009,Friendly tournament in the United Arab Emirates,United Arab Emirates,Czechia,1395,1800,0,0,11,-11,1406,1789,110,22,0,-2,110,20,30,100,-305
+813,Nov 17 2009,Friendly in France,Belgium,Qatar,1573,1547,2,0,14,-14,1587,1533,57,88,4,-7,61,81,20,0,26
+814,Nov 17 2009,Friendly in Oman,Oman,Brazil,1588,2101,0,2,-3,3,1585,2104,65,1,-2,0,63,1,20,100,-413
+815,Nov 17 2009,Friendly in Slovakia,Slovakia,Chile,1671,1873,1,2,-7,7,1664,1880,48,10,-1,1,47,11,20,100,-102
+816,Nov 17 2009,Friendly in South Africa,South Africa,Jamaica,1521,1622,0,0,0,0,1521,1622,83,53,0,0,83,53,20,100,-1
+817,Nov 18 2009,World Cup qualifier in Sudan,Algeria,Egypt,1555,1734,1,0,29,-29,1584,1705,56,43,8,-3,64,40,40,0,-179
+818,Nov 18 2009,Friendly in Angola,Angola,Ghana,1452,1690,0,0,4,-4,1456,1686,94,43,1,0,95,43,20,100,-138
+819,Nov 18 2009,Friendly in Austria,Austria,Spain,1591,2092,1,5,-3,3,1588,2095,58,2,1,0,59,2,20,100,-401
+820,Nov 18 2009,Friendly tournament in the United Arab Emirates,Azerbaijan,Czechia,1378,1789,2,0,41,-41,1419,1748,102,44,6,-12,108,32,30,0,-411
+821,Nov 18 2009,Asian Cup qualifier in Bahrain,Bahrain,Yemen,1612,1228,4,0,4,-4,1616,1224,53,152,1,0,54,152,20,0,384
+822,Nov 18 2009,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Portugal,1655,1859,0,1,-14,14,1641,1873,51,11,-1,1,50,12,40,100,-104
+823,Nov 18 2009,Friendly in Denmark,Denmark,United States,1800,1814,3,1,11,-11,1811,1803,14,18,2,-1,16,17,20,100,86
+824,Nov 18 2009,World Cup qualifier in France,France,Ireland,1903,1755,1,1,-12,12,1891,1767,9,24,-1,3,8,27,40,100,248
+825,Nov 18 2009,Friendly in Germany,Germany,Ivory Coast,1969,1754,2,2,-7,7,1962,1761,5,24,0,4,5,28,20,100,315
+826,Nov 18 2009,Asian Cup qualifier in Hong Kong,Hong Kong,Japan,1226,1783,0,4,-5,5,1221,1788,153,17,0,3,153,20,40,100,-457
+827,Nov 18 2009,Asian Cup qualifier in Indonesia,Indonesia,Kuwait,1260,1487,1,1,7,-7,1267,1480,135,89,1,-1,136,88,40,100,-127
+828,Nov 18 2009,Friendly in Iran,Iran,Macedonia,1705,1570,1,1,-6,6,1699,1576,43,69,-1,-1,42,68,20,100,235
+829,Nov 18 2009,Friendly in Italy,Italy,Sweden,1954,1775,1,0,3,-3,1957,1772,6,28,0,-2,6,26,20,100,279
+830,Nov 18 2009,Asian Cup qualifier in Malaysia,Malaysia,Uzbekistan,1168,1536,1,3,-11,11,1157,1547,170,72,-3,3,167,75,40,100,-268
+831,Nov 18 2009,Friendly in Malta,Malta,Bulgaria,1221,1755,1,4,-3,3,1218,1758,154,32,0,-1,154,31,20,100,-434
+832,Nov 18 2009,Friendly in Montenegro,Montenegro,Belarus,1662,1586,1,0,5,-5,1667,1581,48,68,0,-3,48,65,20,100,176
+833,Nov 18 2009,Friendly in the Netherlands,Netherlands,Paraguay,2040,1752,0,0,-8,8,2032,1760,3,24,0,5,3,29,20,100,388
+834,Nov 18 2009,Friendly in the United States,Peru,Honduras,1572,1762,2,1,15,-15,1587,1747,54,45,6,-9,60,36,20,0,-190
+835,Nov 18 2009,Friendly in Poland,Poland,Canada,1626,1613,1,0,7,-7,1633,1606,50,58,1,-2,51,56,20,100,113
+836,Nov 18 2009,Friendly in England,Serbia,South Korea,1826,1756,1,0,8,-8,1834,1748,14,35,0,-3,14,32,20,0,70
+837,Nov 18 2009,World Cup qualifier in Slovenia,Slovenia,Russia,1647,1879,1,0,27,-27,1674,1852,42,14,4,-1,46,13,40,100,-132
+838,Nov 18 2009,Asian Cup qualifier in Syria,Syria,Vietnam,1592,1347,0,0,-15,15,1577,1362,73,118,-7,1,66,119,40,100,345
+839,Nov 18 2009,Asian Cup qualifier in Thailand,Thailand,Singapore,1498,1378,0,1,-31,31,1467,1409,99,108,-7,3,92,111,40,100,220
+840,Nov 18 2009,Friendly tournament in the United Arab Emirates,United Arab Emirates,Iraq,1406,1545,0,1,-13,13,1393,1558,114,71,-2,2,112,73,30,100,-39
+841,Nov 18 2009,World Cup qualifier in Ukraine,Ukraine,Greece,1812,1754,0,1,-29,29,1783,1783,27,12,-5,10,22,22,40,100,158
+842,Nov 18 2009,World Cup qualifier in Uruguay,Uruguay,Costa Rica,1825,1691,1,1,-12,12,1813,1703,15,40,0,1,15,41,40,100,234
+843,Nov 21 2009,Friendly in Zambia,Zambia,North Korea,1438,1534,4,1,17,-17,1455,1517,90,87,6,-4,96,83,20,100,4
+844,Nov 22 2009,Asian Cup qualifier in China,China,Lebanon,1547,1229,1,0,3,-3,1550,1226,75,152,0,-1,75,151,20,0,318
+845,Nov 22 2009,Asian Cup qualifier in Jordan,Jordan,Iran,1426,1699,1,0,29,-29,1455,1670,86,52,10,-5,96,47,40,100,-173
+846,Nov 26 2009,Friendly in Malaysia,Malaysia,Maldives,1157,1083,0,1,-15,15,1142,1098,171,176,-2,1,169,177,20,100,174
+847,Nov 28 2009,CECAFA Cup in Kenya,Kenya,Zambia,1365,1455,0,2,-31,31,1334,1486,125,78,-4,9,121,87,40,100,10
+848,Nov 29 2009,Friendly in India,Nepal,Bhutan,927,636,2,1,3,-3,930,633,191,220,2,0,193,220,20,0,291
+849,Nov 29 2009,CECAFA Cup in Kenya,Rwanda,Somalia,1330,946,1,0,4,-4,1334,942,118,192,3,-1,121,191,40,0,384
+850,Nov 29 2009,CECAFA Cup in Kenya,Uganda,Tanzania,1483,1358,2,0,20,-20,1503,1338,82,121,3,-1,85,120,40,0,125
+851,Nov 29 2009,CECAFA Cup in Kenya,Zanzibar,Burundi,1252,1249,4,0,37,-37,1289,1212,127,167,6,-13,133,154,40,0,3
+852,Nov 30 2009,CECAFA Cup in Kenya,Ethiopia,Djibouti,1328,799,5,0,4,-4,1332,795,123,208,1,0,124,208,40,0,529
+853,Dec 1 2009,CECAFA Cup in Kenya,Eritrea,Zimbabwe,1191,1417,0,0,11,-11,1202,1406,158,113,0,-2,158,111,40,0,-226
+854,Dec 1 2009,CECAFA Cup in Kenya,Tanzania,Zanzibar,1338,1289,1,0,17,-17,1355,1272,118,137,1,-2,119,135,40,0,49
+855,Dec 2 2009,CECAFA Cup in Kenya,Kenya,Djibouti,1334,795,2,0,1,-1,1335,794,121,208,0,0,121,208,20,0,539
+856,Dec 2 2009,CECAFA Cup in Kenya,Uganda,Burundi,1503,1212,2,0,9,-9,1512,1203,85,160,0,-3,85,157,40,0,291
+857,Dec 2 2009,CECAFA Cup in Kenya,Zambia,Ethiopia,1486,1332,1,0,12,-12,1498,1320,84,128,2,-2,86,126,40,0,154
+858,Dec 3 2009,CECAFA Cup in Kenya,Rwanda,Eritrea,1334,1202,2,1,13,-13,1347,1189,118,158,2,0,120,158,40,0,132
+859,Dec 3 2009,CECAFA Cup in Kenya,Zimbabwe,Somalia,1406,942,2,0,4,-4,1410,938,109,191,1,0,110,191,40,0,464
+860,Dec 4 2009,South Asian Championship in Bangladesh,Bangladesh,Bhutan,925,633,4,1,7,-7,932,626,190,222,3,-1,193,221,40,100,392
+861,Dec 4 2009,South Asian Championship in Bangladesh,Sri Lanka,Pakistan,946,879,1,0,16,-16,962,863,190,207,0,-3,190,204,40,0,67
+862,Dec 4 2009,CECAFA Cup in Kenya,Tanzania,Burundi,1355,1203,1,0,12,-12,1367,1191,115,157,2,0,117,157,40,0,152
+863,Dec 4 2009,CECAFA Cup in Kenya,Zambia,Djibouti,1498,794,6,0,1,-1,1499,793,86,208,0,0,86,208,20,0,704
+864,Dec 5 2009,Friendly in Dominica,Dominica,British Virgin Islands,983,897,4,0,10,-10,993,887,186,201,0,-1,186,200,20,100,186
+865,Dec 5 2009,CECAFA Cup in Kenya,Eritrea,Somalia,1189,938,3,1,11,-11,1200,927,156,201,1,-5,157,196,40,0,251
+866,Dec 5 2009,South Asian Championship in Bangladesh,India,Afghanistan,1245,809,1,0,3,-3,1248,806,139,207,2,0,141,207,40,0,436
+867,Dec 5 2009,CECAFA Cup in Kenya,Kenya,Ethiopia,1335,1320,2,0,20,-20,1355,1300,120,134,1,-4,121,130,40,100,115
+868,Dec 5 2009,South Asian Championship in Bangladesh,Maldives,Nepal,1098,930,1,1,-9,9,1089,939,177,188,0,3,177,191,40,0,168
+869,Dec 5 2009,CECAFA Cup in Kenya,Rwanda,Zimbabwe,1347,1410,1,0,24,-24,1371,1386,114,118,3,-4,117,114,40,0,-63
+870,Dec 5 2009,CECAFA Cup in Kenya,Uganda,Zanzibar,1512,1272,0,0,-12,12,1500,1284,85,133,0,1,85,134,40,0,240
+871,Dec 6 2009,South Asian Championship in Bangladesh,Bangladesh,Pakistan,932,863,0,0,-9,9,923,872,199,198,-3,3,196,201,40,100,169
+872,Dec 6 2009,South Asian Championship in Bangladesh,Sri Lanka,Bhutan,962,626,6,0,11,-11,973,615,188,221,1,0,189,221,40,0,336
+873,Dec 7 2009,South Asian Championship in Bangladesh,India,Nepal,1248,939,1,0,6,-6,1254,933,139,193,1,-1,140,192,40,0,309
+874,Dec 7 2009,CECAFA Cup in Kenya,Kenya,Uganda,1355,1500,0,1,-17,17,1338,1517,123,81,-1,2,122,83,40,100,-45
+875,Dec 7 2009,South Asian Championship in Bangladesh,Maldives,Afghanistan,1089,806,3,1,10,-10,1099,796,177,207,0,0,177,207,40,0,283
+876,Dec 7 2009,CECAFA Cup in Kenya,Zambia,Zanzibar,1499,1284,0,0,-11,11,1488,1295,88,130,-1,2,87,132,30,100,315
+877,Dec 8 2009,South Asian Championship in Bangladesh,Bangladesh,Sri Lanka,923,973,2,1,17,-17,940,956,186,191,5,-1,191,190,30,0,-50
+878,Dec 8 2009,South Asian Championship in Bangladesh,Pakistan,Bhutan,872,615,7,0,17,-17,889,598,199,223,1,-1,200,222,40,0,257
+879,Dec 8 2009,CECAFA Cup in Kenya,Rwanda,Zimbabwe,1371,1386,4,1,37,-37,1408,1349,105,126,6,-6,111,120,40,0,-15
+880,Dec 8 2009,CECAFA Cup in Kenya,Tanzania,Eritrea,1367,1200,4,0,21,-21,1388,1179,112,163,3,-3,115,160,40,0,167
+881,Dec 9 2009,South Asian Championship in Bangladesh,Maldives,India,1099,1254,2,0,43,-43,1142,1211,161,168,8,-14,169,154,40,0,-155
+882,Dec 9 2009,South Asian Championship in Bangladesh,Nepal,Afghanistan,933,796,3,0,22,-22,955,774,189,213,2,-3,191,210,40,0,137
+883,Dec 9 2009,CECAFA Cup in Kenya,Uganda,Zanzibar,1517,1295,2,1,9,-9,1526,1286,81,134,1,-1,82,133,40,0,222
+884,Dec 10 2009,CECAFA Cup in Kenya,Rwanda,Tanzania,1408,1388,2,1,19,-19,1427,1369,103,119,4,-2,107,117,40,0,20
+885,Dec 11 2009,South Asian Championship in Bangladesh,Bangladesh,India,940,1211,0,1,-11,11,929,1222,194,148,-1,3,193,151,40,100,-171
+886,Dec 11 2009,South Asian Championship in Bangladesh,Maldives,Sri Lanka,1142,956,5,1,19,-19,1161,937,163,192,3,-1,166,191,40,0,186
+887,Dec 13 2009,South Asian Championship in Bangladesh,India,Maldives,1222,1161,0,0,-3,3,1219,1164,153,162,-1,2,152,164,30,0,61
+888,Dec 13 2009,CECAFA Cup in Kenya,Uganda,Rwanda,1526,1427,2,0,22,-22,1548,1405,70,115,6,-4,76,111,40,0,99
+889,Dec 13 2009,CECAFA Cup in Kenya,Zanzibar,Tanzania,1286,1369,1,0,25,-25,1311,1344,123,123,5,-3,128,120,40,0,-83
+890,Dec 16 2009,Friendly in Kuwait,Kuwait,United Arab Emirates,1480,1393,0,0,-5,5,1475,1398,93,112,-2,0,91,112,20,100,187
+891,Dec 19 2009,Friendly in Mozambique,Mozambique,Malawi,1452,1331,0,1,-16,16,1436,1347,107,116,-4,4,103,120,20,100,221
+892,Dec 20 2009,Friendly in Réunion,Réunion,Mauritius,1314,1038,2,0,3,-3,1317,1035,127,183,0,0,127,183,20,100,376
+893,Dec 27 2009,Friendly tournament in Qatar,North Korea,Mali,1517,1569,1,0,17,-17,1534,1552,76,77,4,-4,80,73,30,0,-52
+894,Dec 28 2009,Friendly tournament in Qatar,Qatar,Iran,1533,1670,3,2,17,-17,1550,1653,68,51,7,-2,75,49,30,100,-37
+895,Dec 28 2009,Friendly in Singapore,Singapore,Oman,1409,1585,0,0,2,-2,1411,1583,110,66,0,-2,110,64,20,100,-76
+896,Dec 28 2009,Friendly in South Africa,Zambia,Mozambique,1488,1436,1,0,9,-9,1497,1427,85,109,1,-3,86,106,20,0,52
+897,Dec 29 2009,Friendly in Egypt,Egypt,Malawi,1705,1347,1,1,-9,9,1696,1356,42,118,-1,1,41,119,20,100,458
+898,Dec 29 2009,Friendly in Thailand,Thailand,Zimbabwe,1467,1349,3,0,8,-8,1475,1341,89,123,2,-2,91,121,20,100,218
+899,Dec 30 2009,Friendly in China,China,Jordan,1550,1455,2,2,-5,5,1545,1460,81,93,-3,2,78,95,20,100,195
+900,Dec 30 2009,Friendly in Portugal,Estonia,Angola,1441,1456,1,0,10,-10,1451,1446,94,104,4,-4,98,100,20,0,-15
+901,Dec 30 2009,Friendly in Malaysia,Malaysia,Syria,1142,1577,4,1,31,-31,1173,1546,156,88,7,-11,163,77,20,100,-335
+902,Dec 30 2009,Friendly tournament in Qatar,Mali,Iran,1552,1653,2,1,19,-19,1571,1634,63,51,5,-1,68,50,30,0,-101
+903,Dec 30 2009,Friendly tournament in Qatar,Qatar,North Korea,1550,1534,0,1,-20,20,1530,1554,89,65,-7,8,82,73,30,100,116
+904,Dec 30 2009,Friendly in Yemen,Yemen,Tajikistan,1224,1273,2,1,9,-9,1233,1264,146,139,2,-2,148,137,20,100,51
+905,Dec 31 2009,Friendly in Singapore,Singapore,Oman,1411,1583,1,4,-14,14,1397,1597,114,54,-2,5,112,59,20,100,-72

@@ -1,0 +1,795 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,1993,Friendly in Syria,Syria,Jordan,1419,1347,1,1,-5,5,1414,1352,106,107,-4,3,102,110,20,100,172
+1,1993,Friendly in Syria,Syria,Jordan,1414,1352,2,3,-14,14,1400,1366,106,107,-4,3,102,110,20,100,162
+2,Jan 1 1993,Black Stars Tournament in Gabon,Ghana,Mali,1635,1461,1,1,-7,7,1628,1468,46,86,0,1,46,87,20,100,274
+3,Jan 2 1993,Black Stars Tournament in Gabon,Gabon,Burkina Faso,1481,1424,1,1,-6,6,1475,1430,87,95,-2,1,85,96,30,100,157
+4,Jan 2 1993,Friendly in Kuwait,Kuwait,Lebanon,1478,1221,2,0,3,-3,1481,1218,81,151,2,-1,83,150,20,100,357
+5,Jan 3 1993,Black Stars Tournament in Gabon,Burkina Faso,Mali,1430,1468,1,0,17,-17,1447,1451,88,93,4,-3,92,90,30,0,-38
+6,Jan 3 1993,Black Stars Tournament in Gabon,Gabon,Ghana,1475,1628,2,3,-13,13,1462,1641,89,44,-2,1,87,45,30,100,-53
+7,Jan 8 1993,Friendly in Uganda,Uganda,Tanzania,1507,1315,3,1,5,-5,1512,1310,73,127,1,-2,74,125,20,100,292
+8,Jan 9 1993,African Nations Cup qualifier in Guinea,Sierra Leone,Togo,1511,1345,0,0,-9,9,1502,1354,83,111,-4,2,79,113,40,0,166
+9,Jan 10 1993,World Cup qualifier in Angola,Angola,Zimbabwe,1405,1520,1,1,1,-1,1406,1519,99,72,0,0,99,72,30,100,-15
+10,Jan 10 1993,Friendly in Botswana,Botswana,South Africa,1055,1655,0,2,-2,2,1053,1657,179,38,0,1,179,39,20,100,-500
+11,Jan 10 1993,African Nations Cup qualifier in Senegal,Senegal,Algeria,1517,1623,1,2,-20,20,1497,1643,89,40,-8,4,81,44,40,100,-6
+12,Jan 10 1993,Friendly in Tunisia,Tunisia,Bulgaria,1546,1803,3,0,25,-25,1571,1778,56,27,4,-3,60,24,20,100,-157
+13,Jan 10 1993,Friendly in Uganda,Uganda,Tanzania,1512,1310,2,0,4,-4,1516,1306,72,127,1,-1,73,126,20,100,302
+14,Jan 10 1993,World Cup qualifier in Zaire,Zaire,Cameroon,1555,1661,1,2,-20,20,1535,1681,72,33,-5,2,67,35,40,100,-6
+15,Jan 16 1993,World Cup qualifier in South Africa,South Africa,Nigeria,1657,1682,0,0,-4,4,1653,1686,41,34,-1,0,40,34,40,100,75
+16,Jan 16 1993,World Cup qualifier in Tanzania,Tanzania,Zambia,1306,1619,1,3,-14,14,1292,1633,134,45,-4,3,130,48,40,100,-213
+17,Jan 17 1993,World Cup qualifier in Benin,Benin,Tunisia,1167,1571,0,5,-12,12,1155,1583,164,56,-2,2,162,58,40,100,-304
+18,Jan 17 1993,World Cup qualifier in Botswana,Botswana,Ivory Coast,1053,1644,0,0,18,-18,1071,1626,173,53,3,-5,176,48,40,100,-491
+19,Jan 17 1993,World Cup qualifier in Burundi,Burundi,Algeria,1349,1643,0,0,10,-10,1359,1633,112,48,1,-2,113,46,30,0,-294
+20,Jan 17 1993,World Cup qualifier in Ethiopia,Ethiopia,Morocco,1386,1595,0,1,-14,14,1372,1609,110,51,-1,2,109,53,40,100,-109
+21,Jan 17 1993,World Cup qualifier in Mozambique,Mozambique,Gabon,1321,1462,1,1,2,-2,1323,1460,119,87,0,0,119,87,30,100,-41
+22,Jan 17 1993,World Cup qualifier in Namibia,Namibia,Madagascar,1142,1507,0,1,-7,7,1135,1514,163,74,0,0,163,74,40,100,-265
+23,Jan 17 1993,World Cup qualifier in Swaziland,Swaziland,Cameroon,1220,1681,0,0,16,-16,1236,1665,133,37,8,-1,141,36,40,100,-361
+24,Jan 17 1993,World Cup qualifier in Togo,Togo,Zimbabwe,1354,1519,1,2,-16,16,1338,1535,117,62,-2,5,115,67,40,100,-65
+25,Jan 18 1993,World Cup qualifier in Angola,Angola,Egypt,1406,1625,0,0,7,-7,1413,1618,99,53,0,-2,99,51,40,100,-119
+26,Jan 20 1993,Friendly in Guinea-Bissau,Guinea-Bissau,Guinea,1293,1436,2,1,11,-11,1304,1425,123,99,3,-2,126,97,20,100,-43
+27,Jan 20 1993,Nehru Gold Cup in India,India,Finland,1111,1575,0,0,16,-16,1127,1559,164,65,2,-3,166,62,40,100,-364
+28,Jan 20 1993,Friendly in Italy,Italy,Mexico,1979,1786,2,0,5,-5,1984,1781,4,23,0,0,4,23,20,100,293
+29,Jan 22 1993,Nehru Gold Cup in India,Cameroon,Finland,1665,1559,0,0,-6,6,1659,1565,40,60,-2,1,38,61,40,0,106
+30,Jan 23 1993,Friendly in Ghana,Ghana,Niger,1641,1347,4,0,4,-4,1645,1343,42,114,1,0,43,114,20,100,394
+31,Jan 23 1993,Friendly in Venezuela,Venezuela,Peru,1316,1541,0,0,3,-3,1319,1538,120,65,1,0,121,65,20,100,-125
+32,Jan 24 1993,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Algeria,1304,1633,1,4,-15,15,1289,1648,134,38,-4,4,130,42,40,100,-229
+33,Jan 24 1993,Nehru Gold Cup in India,India,Cameroon,1127,1659,1,1,17,-17,1144,1642,160,50,3,-6,163,44,40,100,-432
+34,Jan 24 1993,World Cup qualifier in Malta,Malta,Portugal,1389,1795,0,1,-6,6,1383,1801,108,21,-1,0,107,21,40,100,-306
+35,Jan 24 1993,African Nations Cup qualifier in Togo,Togo,Senegal,1338,1497,1,1,3,-3,1341,1494,115,81,0,0,115,81,30,100,-59
+36,Jan 26 1993,Nehru Gold Cup in India,India,Finland,1144,1565,0,2,-8,8,1136,1573,163,59,0,1,163,60,40,100,-321
+37,Jan 27 1993,Friendly in Ecuador,Ecuador,Belarus,1642,1402,1,1,-8,8,1634,1410,48,100,-2,0,46,100,20,100,340
+38,Jan 27 1993,Friendly in Peru,Peru,Honduras,1538,1701,1,1,2,-2,1540,1699,65,32,0,0,65,32,20,100,-63
+39,Jan 27 1993,Friendly in Spain,Spain,Mexico,1831,1781,1,1,-4,4,1827,1785,16,23,0,0,16,23,20,100,150
+40,Jan 28 1993,Nehru Gold Cup in India,Cameroon,Finland,1642,1573,2,0,24,-24,1666,1549,28,64,8,-2,36,62,40,0,69
+41,Jan 29 1993,Friendly in Bolivia,Bolivia,Honduras,1549,1699,3,1,17,-17,1566,1682,60,36,1,-2,61,34,20,100,-50
+42,Jan 30 1993,Nehru Gold Cup in India,India,Cameroon,1136,1666,2,2,17,-17,1153,1649,163,48,0,-6,163,42,40,100,-430
+43,Jan 30 1993,Friendly in Peru,Peru,Belarus,1540,1410,1,1,-6,6,1534,1416,71,96,-3,2,68,98,20,100,230
+44,Jan 30 1993,World Cup qualifier in Senegal,Senegal,Mozambique,1494,1323,6,1,14,-14,1508,1309,69,131,6,-6,75,125,40,100,271
+45,Jan 30 1993,Friendly in the United States,United States,Denmark,1689,1911,2,2,3,-3,1692,1908,32,8,0,0,32,8,20,100,-122
+46,Jan 30 1993,World Cup qualifier in Zambia,Zambia,Namibia,1633,1135,4,0,2,-2,1635,1133,45,164,1,0,46,164,20,0,498
+47,Jan 31 1993,World Cup qualifier in Congo,Congo,South Africa,1439,1653,0,1,-14,14,1425,1667,99,33,-3,3,96,36,40,100,-114
+48,Jan 31 1993,Friendly in Ecuador,Ecuador,Romania,1634,1826,3,0,22,-22,1656,1804,33,22,7,-2,40,20,20,100,-92
+49,Jan 31 1993,World Cup qualifier in Egypt,Egypt,Togo,1618,1341,3,0,7,-7,1625,1334,47,115,2,0,49,115,40,100,377
+50,Jan 31 1993,World Cup qualifier in Ghana,Ghana,Burundi,1645,1359,1,0,4,-4,1649,1355,42,113,1,0,43,113,40,100,386
+51,Jan 31 1993,World Cup qualifier in Ivory Coast,Ivory Coast,Niger,1626,1343,1,0,4,-4,1630,1339,48,114,0,0,48,114,40,100,383
+52,Jan 31 1993,World Cup qualifier in Morocco,Morocco,Benin,1609,1155,5,0,3,-3,1612,1152,51,164,1,-1,52,163,20,0,454
+53,Jan 31 1993,Nehru Gold Cup in India,North Korea,Finland,1470,1549,3,2,24,-24,1494,1525,79,79,3,-8,82,71,40,0,-79
+54,Jan 31 1993,World Cup qualifier in Tunisia,Tunisia,Ethiopia,1583,1372,3,0,10,-10,1593,1362,54,111,2,-1,56,110,40,100,311
+55,Jan 31 1993,World Cup qualifier in Zimbabwe,Zimbabwe,Angola,1535,1413,2,1,9,-9,1544,1404,60,100,3,0,63,100,40,100,222
+56,Feb 1 1993,Friendly in Cyprus,Cyprus,Poland,1334,1811,0,0,8,-8,1342,1803,113,21,1,-1,114,20,20,100,-377
+57,Feb 3 1993,Friendly in Israel,Israel,Poland,1570,1803,0,0,4,-4,1574,1799,60,22,0,-1,60,21,20,100,-133
+58,Feb 3 1993,Friendly in Peru,Peru,Romania,1534,1804,0,2,-8,8,1526,1812,71,19,-2,0,69,19,20,100,-170
+59,Feb 5 1993,Merdeka Tournament in Malaysia,Malaysia,Singapore,1231,1237,2,1,11,-11,1242,1226,134,157,5,-9,139,148,30,100,94
+60,Feb 6 1993,Merdeka Tournament in Malaysia,Ghana,Indonesia,1649,1260,2,0,4,-4,1653,1256,39,134,2,0,41,134,30,0,389
+61,Feb 6 1993,Friendly in the United States,United States,Romania,1692,1812,1,1,1,-1,1693,1811,32,19,0,0,32,19,20,100,-20
+62,Feb 7 1993,Merdeka Tournament in Malaysia,Malaysia,Thailand,1242,1362,1,1,1,-1,1243,1361,139,114,0,-2,139,112,20,100,-20
+63,Feb 8 1993,Merdeka Tournament in Malaysia,South Korea,Indonesia,1660,1256,3,0,5,-5,1665,1251,36,138,1,-2,37,136,30,0,404
+64,Feb 9 1993,Merdeka Tournament in Malaysia,Singapore,Thailand,1226,1361,1,1,6,-6,1232,1355,138,112,5,0,143,112,30,0,-135
+65,Feb 10 1993,Friendly in Mexico,Mexico,Romania,1785,1811,2,0,12,-12,1797,1799,19,19,2,0,21,19,20,100,74
+66,Feb 10 1993,Friendly in Portugal,Portugal,Norway,1801,1757,1,1,-4,4,1797,1761,22,28,-1,0,21,28,20,100,144
+67,Feb 10 1993,Merdeka Tournament in Malaysia,South Korea,Ghana,1665,1653,3,1,22,-22,1687,1631,29,53,4,-6,33,47,30,0,12
+68,Feb 10 1993,King's Cup in Thailand,Thailand,China,1355,1479,1,0,16,-16,1371,1463,106,87,3,-1,109,86,30,100,-24
+69,Feb 13 1993,World Cup qualifier in Cyprus,Cyprus,Belgium,1342,1874,0,3,-5,5,1337,1879,116,13,-1,0,115,13,40,100,-432
+70,Feb 13 1993,Friendly in the United States,United States,Russia,1693,1884,0,1,-7,7,1686,1891,34,10,-1,1,33,11,20,100,-91
+71,Feb 14 1993,Friendly in Albania,Albania,Kosovo,1430,1400,3,1,10,-10,1440,1390,93,105,0,0,93,105,20,100,130
+72,Feb 14 1993,Merdeka Tournament in Malaysia,Malaysia,South Korea,1243,1687,3,1,40,-40,1283,1647,127,56,6,-12,133,44,30,100,-344
+73,Feb 16 1993,N Am Ch & UNCAF Cup q in Costa Rica,Costa Rica,Nicaragua,1604,963,6,0,1,-1,1605,962,53,189,1,0,54,189,20,0,641
+74,Feb 16 1993,King's Cup in Thailand,Thailand,China,1371,1463,0,4,-29,29,1342,1492,118,80,-4,3,114,83,30,100,8
+75,Feb 17 1993,World Cup qualifier in Albania,Albania,Northern Ireland,1440,1650,1,2,-14,14,1426,1664,97,33,-2,4,95,37,40,100,-110
+76,Feb 17 1993,World Cup qualifier in England,England,San Marino,1945,996,6,0,0,0,1945,996,6,185,0,0,6,185,20,0,949
+77,Feb 17 1993,World Cup qualifier in Greece,Greece,Luxembourg,1675,1164,2,0,2,-2,1677,1162,35,161,0,0,35,161,20,0,511
+78,Feb 17 1993,Friendly in Ireland,Ireland,Wales,1888,1764,2,1,4,-4,1892,1760,12,29,0,-1,12,28,20,100,224
+79,Feb 17 1993,World Cup qualifier in Israel,Israel,France,1574,1897,0,4,-16,16,1558,1913,64,6,-2,2,62,8,40,100,-223
+80,Feb 17 1993,Friendly in the United States,Russia,El Salvador,1891,1537,2,1,2,-2,1893,1535,11,65,0,0,11,65,20,0,354
+81,Feb 17 1993,World Cup qualifier in Scotland,Scotland,Malta,1790,1383,3,0,4,-4,1794,1379,23,108,0,0,23,108,40,100,507
+82,Feb 18 1993,Friendly tournament in Argentina,Argentina,Brazil,2029,1998,1,1,-5,5,2024,2003,1,2,0,0,1,2,30,100,131
+83,Feb 18 1993,Friendly in the United Arab Emirates,United Arab Emirates,Bulgaria,1507,1778,1,0,15,-15,1522,1763,70,28,3,-2,73,26,20,100,-171
+84,Feb 19 1993,N Am Ch & UNCAF Cup q in Costa Rica,Costa Rica,Nicaragua,1605,962,2,0,1,-1,1606,961,54,189,0,0,54,189,20,0,643
+85,Feb 20 1993,Baltic Tournament in Finland,Finland,Estonia,1525,1209,0,0,-12,12,1513,1221,77,150,-3,1,74,151,30,100,416
+86,Feb 20 1993,Baltic Tournament in Finland,Lithuania,Latvia,1287,1390,2,1,19,-19,1306,1371,122,113,5,-4,127,109,30,0,-103
+87,Feb 20 1993,Friendly in the United Arab Emirates,United Arab Emirates,Bulgaria,1522,1763,1,3,-9,9,1513,1772,75,24,-1,1,74,25,20,100,-141
+88,Feb 21 1993,Baltic Tournament in Finland,Finland,Lithuania,1513,1306,3,0,8,-8,1521,1298,70,133,2,-3,72,130,20,0,207
+89,Feb 21 1993,Baltic Tournament in Finland,Latvia,Estonia,1371,1221,2,0,13,-13,1384,1208,105,153,2,-1,107,152,30,0,150
+90,Feb 21 1993,Friendly in the United States,United States,Russia,1686,1893,0,0,3,-3,1689,1890,32,13,0,-1,32,12,20,100,-107
+91,Feb 24 1993,Artemio Franchi Trophy in Argentina,Argentina,Denmark,2024,1908,1,1,-14,14,2010,1922,1,7,0,1,1,8,50,100,216
+92,Feb 24 1993,Friendly in Kuwait,Kuwait,China,1481,1492,1,0,7,-7,1488,1485,81,85,2,-1,83,84,20,100,89
+93,Feb 24 1993,World Cup qualifier in the Netherlands,Netherlands,Turkey,1966,1575,3,1,3,-3,1969,1572,5,59,0,0,5,59,20,0,391
+94,Feb 24 1993,World Cup qualifier in Portugal,Portugal,Italy,1797,1984,1,3,-23,23,1774,2007,25,0,-2,2,23,2,40,100,-87
+95,Feb 24 1993,World Cup qualifier in Spain,Spain,Lithuania,1827,1298,5,0,2,-2,1829,1296,16,130,0,0,16,130,20,0,529
+96,Feb 24 1993,Friendly in Venezuela,Venezuela,Colombia,1319,1774,0,0,8,-8,1327,1766,119,28,1,-2,120,26,20,100,-355
+97,Feb 26 1993,World Cup qualifier in Algeria,Algeria,Ghana,1648,1631,2,1,14,-14,1662,1617,35,55,4,-4,39,51,30,0,17
+98,Feb 27 1993,World Cup qualifier in Kenya,Kenya,Guinea,1388,1425,2,0,25,-25,1413,1400,92,108,7,-6,99,102,30,0,-37
+99,Feb 27 1993,World Cup qualifier in Nigeria,Nigeria,Congo,1686,1425,2,0,7,-7,1693,1418,31,96,1,0,32,96,40,100,361
+100,Feb 27 1993,World Cup qualifier in Senegal,Senegal,Gabon,1508,1460,1,0,12,-12,1520,1448,70,95,3,-4,73,91,40,100,148
+101,Feb 28 1993,World Cup qualifier in Benin,Benin,Ethiopia,1152,1362,1,0,26,-26,1178,1336,154,121,5,-5,159,116,40,100,-110
+102,Feb 28 1993,World Cup qualifier in Egypt,Egypt,Zimbabwe,1625,1544,2,1,10,-10,1635,1534,46,69,1,-3,47,66,40,100,181
+103,Feb 28 1993,World Cup qualifier in Morocco,Morocco,Tunisia,1612,1593,0,0,-7,7,1605,1600,56,56,-2,0,54,56,40,100,119
+104,Feb 28 1993,World Cup qualifier in Niger,Niger,Botswana,1339,1071,2,1,4,-4,1343,1067,111,179,2,-1,113,178,20,0,268
+105,Feb 28 1993,World Cup qualifier in Togo,Togo,Angola,1334,1404,0,1,-22,22,1312,1426,129,90,-6,5,123,95,40,100,30
+106,Feb 28 1993,World Cup qualifier in Zambia,Zambia,Madagascar,1635,1514,3,1,13,-13,1648,1501,42,85,2,-5,44,80,40,100,221
+107,Mar 1 1993,World Cup qualifier in Cameroon,Cameroon,Zaire,1649,1535,0,0,-11,11,1638,1546,49,62,-3,1,46,63,40,100,214
+108,Mar 1 1993,CONCACAF Ch & Car Cup q in Martinique,French Guiana,Guadeloupe,1264,1362,2,1,25,-25,1289,1337,129,117,3,-3,132,114,40,0,-98
+109,Mar 2 1993,Friendly in Jordan,Jordan,Syria,1366,1400,1,1,-2,2,1364,1402,110,100,0,1,110,101,20,100,66
+110,Mar 3 1993,CONCACAF Ch & Car Cup q in Martinique,Martinique,Guadeloupe,1435,1337,4,1,17,-17,1452,1320,84,126,5,-6,89,120,40,100,198
+111,Mar 3 1993,Copa Paz del Chaco in Paraguay,Paraguay,Bolivia,1714,1566,1,0,6,-6,1720,1560,30,62,0,-1,30,61,20,0,148
+112,Mar 3 1993,Friendly in the United States,United States,Canada,1689,1523,2,2,-6,6,1683,1529,33,65,0,3,33,68,20,100,266
+113,Mar 5 1993,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,El Salvador,1606,1535,1,0,16,-16,1622,1519,45,81,4,-8,49,73,40,0,71
+114,Mar 5 1993,N Am Ch q & UNCAF Cup in Honduras,Honduras,Panama,1682,1310,2,0,4,-4,1686,1306,32,127,1,-1,33,126,40,100,472
+115,Mar 5 1993,CONCACAF Ch & Car Cup q in Martinique,Martinique,French Guiana,1452,1289,2,1,7,-7,1459,1282,85,136,2,-2,87,134,40,100,263
+116,Mar 7 1993,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Panama,1519,1306,1,1,-11,11,1508,1317,77,118,-2,4,75,122,30,100,313
+117,Mar 7 1993,N Am Ch q & UNCAF Cup in Honduras,Honduras,Costa Rica,1686,1622,2,0,17,-17,1703,1605,31,57,1,-4,32,53,40,100,164
+118,Mar 7 1993,Friendly tournament in Japan,Japan,Hungary,1529,1713,0,1,-11,11,1518,1724,77,29,-5,1,72,30,30,100,-84
+119,Mar 9 1993,Friendly in Canada,Canada,South Korea,1529,1647,0,2,-14,14,1515,1661,79,36,-6,4,73,40,20,100,-18
+120,Mar 9 1993,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Panama,1605,1317,2,0,10,-10,1615,1307,51,130,1,-4,52,126,40,0,288
+121,Mar 9 1993,N Am Ch q & UNCAF Cup in Honduras,Honduras,El Salvador,1703,1508,3,0,11,-11,1714,1497,32,87,0,-6,32,81,40,100,295
+122,Mar 10 1993,Friendly in Austria,Austria,Greece,1641,1677,2,1,8,-8,1649,1669,43,35,1,0,44,35,20,100,64
+123,Mar 10 1993,Friendly tournament in Japan,Hungary,United States,1724,1683,0,0,-2,2,1722,1685,30,34,0,0,30,34,30,0,41
+124,Mar 10 1993,World Cup qualifier in San Marino,San Marino,Turkey,996,1572,0,0,18,-18,1014,1554,181,65,2,-3,183,62,40,100,-476
+125,Mar 11 1993,Friendly in Canada,Canada,South Korea,1515,1661,2,0,17,-17,1532,1644,59,50,7,-5,66,45,20,100,-46
+126,Mar 11 1993,CONCACAF Ch & Car Cup q in Guyana,Guyana,Cayman Islands,1189,1005,3,2,7,-7,1196,998,153,186,1,-1,154,185,40,100,284
+127,Mar 11 1993,CONCACAF Ch & Car Cup q in Guyana,Puerto Rico,Barbados,929,1314,1,0,36,-36,965,1278,186,146,3,-12,189,134,40,0,-385
+128,Mar 12 1993,CONCACAF Ch & Car Cup q in Guyana,Barbados,Cayman Islands,1278,998,6,1,13,-13,1291,985,128,189,3,-2,131,187,40,0,280
+129,Mar 12 1993,Friendly in El Salvador,El Salvador,Bolivia,1497,1560,2,2,-1,1,1496,1561,79,60,1,0,80,60,20,100,37
+130,Mar 12 1993,CONCACAF Ch & Car Cup q in Guyana,Guyana,Puerto Rico,1196,965,0,2,-52,52,1144,1017,174,177,-10,6,164,183,40,100,331
+131,Mar 12 1993,Friendly in Qatar,Qatar,Jordan,1504,1364,1,2,-16,16,1488,1380,88,106,-6,2,82,108,20,100,240
+132,Mar 14 1993,CONCACAF Ch & Car Cup q in Guyana,Guyana,Barbados,1144,1291,0,3,-30,30,1114,1321,170,107,-3,12,167,119,40,100,-47
+133,Mar 14 1993,Friendly in Honduras,Honduras,Bolivia,1714,1561,0,0,-6,6,1708,1567,32,58,0,1,32,59,20,100,253
+134,Mar 14 1993,Friendly tournament in Japan,Japan,United States,1518,1685,3,1,27,-27,1545,1658,56,44,8,-5,64,39,30,100,-67
+135,Mar 14 1993,CONCACAF Ch & Car Cup q in Guyana,Puerto Rico,Cayman Islands,1017,985,4,0,34,-34,1051,951,179,195,2,-4,181,191,40,0,32
+136,Mar 16 1993,Friendly in Honduras,Honduras,Bolivia,1708,1567,0,0,-6,6,1702,1573,32,59,0,0,32,59,20,100,241
+137,Mar 16 1993,Friendly in Kuwait,Kuwait,Syria,1488,1402,2,1,5,-5,1493,1397,82,105,0,-2,82,103,20,100,186
+138,Mar 17 1993,Friendly in Brazil,Brazil,Poland,2003,1799,2,2,-7,7,1996,1806,3,19,0,0,3,19,20,100,304
+139,Mar 17 1993,Friendly in Tunisia,Tunisia,Switzerland,1600,1817,0,1,-7,7,1593,1824,56,18,0,0,56,18,20,100,-117
+140,Mar 23 1993,Friendly in El Salvador,El Salvador,United States,1496,1658,2,2,2,-2,1498,1656,80,41,0,-1,80,40,20,100,-62
+141,Mar 24 1993,Friendly in Costa Rica,Costa Rica,Canada,1615,1532,0,1,-15,15,1600,1547,58,59,-3,4,55,63,20,100,183
+142,Mar 24 1993,World Cup qualifier in Cyprus,Cyprus,Czechoslovakia,1337,1827,1,1,16,-16,1353,1811,110,19,2,-1,112,18,40,100,-390
+143,Mar 24 1993,Friendly in Israel,Israel,Russia,1558,1890,2,2,6,-6,1564,1884,59,12,1,0,60,12,20,100,-232
+144,Mar 24 1993,World Cup qualifier in Italy,Italy,Malta,2007,1379,6,1,1,-1,2008,1378,2,109,0,0,2,109,20,0,628
+145,Mar 24 1993,World Cup qualifier in the Netherlands,Netherlands,San Marino,1969,1014,6,0,0,0,1969,1014,5,184,0,0,5,184,20,0,955
+146,Mar 24 1993,Friendly in Scotland,Scotland,Germany,1794,1992,0,1,-7,7,1787,1999,22,2,0,1,22,3,20,100,-98
+147,Mar 25 1993,Friendly in Honduras,Honduras,United States,1702,1656,4,1,11,-11,1713,1645,32,48,0,-4,32,44,20,100,146
+148,Mar 26 1993,Friendly in Lebanon,Lebanon,Jordan,1218,1380,1,0,12,-12,1230,1368,141,112,5,-2,146,110,20,100,-62
+149,Mar 27 1993,World Cup qualifier in Austria,Austria,France,1649,1913,0,1,-11,11,1638,1924,46,7,-2,1,44,8,40,100,-164
+150,Mar 27 1993,Friendly in Malaysia,China,United Arab Emirates,1485,1513,0,0,1,-1,1486,1512,84,74,0,0,84,74,20,0,-28
+151,Mar 27 1993,Friendly in Malawi,Malawi,Zambia,1437,1648,1,0,13,-13,1450,1635,90,49,2,-3,92,46,20,100,-111
+152,Mar 30 1993,Friendly in Qatar,Qatar,Norway,1488,1761,1,6,-11,11,1477,1772,85,21,-1,3,84,24,20,100,-173
+153,Mar 30 1993,Friendly in Slovakia,Slovakia,Lithuania,1663,1296,2,2,-9,9,1654,1305,43,124,-3,3,40,127,20,100,467
+154,Mar 30 1993,Friendly in Malaysia,United Arab Emirates,China,1512,1486,2,1,9,-9,1521,1477,68,84,3,0,71,84,20,0,26
+155,Mar 31 1993,Friendly in Chile,Chile,Bolivia,1768,1573,2,1,3,-3,1771,1570,30,59,-2,0,28,59,20,100,295
+156,Mar 31 1993,Friendly in Colombia,Colombia,Costa Rica,1766,1600,4,1,6,-6,1772,1594,23,55,2,0,25,55,20,100,266
+157,Mar 31 1993,World Cup qualifier in Denmark,Denmark,Spain,1922,1829,1,0,10,-10,1932,1819,5,16,2,0,7,16,40,100,193
+158,Mar 31 1993,World Cup qualifier in Hungary,Hungary,Greece,1722,1669,0,1,-28,28,1694,1697,36,30,-3,2,33,32,40,100,153
+159,Mar 31 1993,World Cup qualifier in Ireland,Ireland,Northern Ireland,1892,1664,3,0,9,-9,1901,1655,11,42,0,-3,11,39,40,100,328
+160,Mar 31 1993,Friendly in Poland,Poland,Lithuania,1806,1305,1,1,-9,9,1797,1314,21,119,-1,4,20,123,20,0,501
+161,Mar 31 1993,World Cup qualifier in Switzerland,Switzerland,Portugal,1824,1774,1,1,-8,8,1816,1782,17,25,0,-1,17,24,40,100,150
+162,Mar 31 1993,World Cup qualifier in Turkey,Turkey,England,1554,1945,0,2,-9,9,1545,1954,66,6,-2,0,64,6,40,100,-291
+163,Mar 31 1993,World Cup qualifier in Wales,Wales,Belgium,1760,1879,2,0,32,-32,1792,1847,16,17,6,-2,22,15,40,100,-19
+164,Apr 2 1993,Friendly in Malaysia,Malaysia,United Arab Emirates,1283,1521,0,1,-6,6,1277,1527,135,67,-1,2,134,69,20,100,-138
+165,Apr 2 1993,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,British Virgin Islands,1182,904,5,1,8,-8,1190,896,154,196,1,-1,155,195,40,100,378
+166,Apr 2 1993,CONCACAF Ch & Car Cup q in Anguilla,Sint Maarten,Antigua and Barbuda,928,1232,1,0,34,-34,962,1198,185,162,4,-9,189,153,40,0,-304
+167,Apr 3 1993,Friendly in Niger,Niger,Benin,1343,1178,2,2,-6,6,1337,1184,115,156,-1,1,114,157,20,100,265
+168,Apr 4 1993,CONCACAF Ch & Car Cup q in Anguilla,Anguilla,Antigua and Barbuda,572,1198,0,4,-3,3,569,1201,215,151,0,1,215,152,30,100,-526
+169,Apr 4 1993,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Dominican Republic,British Virgin Islands,985,896,3,1,22,-22,1007,874,183,201,2,-3,185,198,40,0,89
+170,Apr 4 1993,World Cup qualifier in El Salvador,El Salvador,Mexico,1498,1797,2,1,30,-30,1528,1767,58,36,11,-8,69,28,40,100,-199
+171,Apr 4 1993,World Cup qualifier in Honduras,Honduras,Canada,1713,1547,2,2,-13,13,1700,1560,31,62,0,0,31,62,40,100,266
+172,Apr 4 1993,Friendly in Kuwait,Kuwait,Egypt,1493,1635,1,3,-13,13,1480,1648,84,38,-1,4,83,42,20,100,-42
+173,Apr 6 1993,CONCACAF Ch & Car Cup q in Anguilla,Anguilla,Sint Maarten,569,962,0,1,-6,6,563,968,217,189,-1,0,216,189,40,100,-293
+174,Apr 6 1993,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Dominican Republic,1190,1007,2,2,-13,13,1177,1020,161,183,-3,1,158,184,40,100,283
+175,Apr 7 1993,Friendly in Slovenia,Slovenia,Estonia,1584,1208,2,0,2,-2,1586,1206,57,151,0,0,57,151,20,100,476
+176,Apr 8 1993,World Cup qualifier in Japan,Japan,Thailand,1545,1342,1,0,6,-6,1551,1336,62,115,1,-1,63,114,40,100,303
+177,Apr 8 1993,World Cup qualifier in Japan,United Arab Emirates,Sri Lanka,1527,839,4,0,1,-1,1528,838,68,202,1,0,69,202,20,0,688
+178,Apr 9 1993,African Nations Cup qualifier in Algeria,Algeria,Sierra Leone,1662,1502,0,0,-13,13,1649,1515,48,75,-6,1,42,76,40,100,260
+179,Apr 9 1993,World Cup qualifier in Qatar,North Korea,Vietnam,1494,1157,3,0,9,-9,1503,1148,75,164,3,-1,78,163,40,0,337
+180,Apr 9 1993,Friendly in Oman,Oman,Malaysia,1056,1277,1,0,13,-13,1069,1264,176,136,2,-1,178,135,20,100,-121
+181,Apr 9 1993,World Cup qualifier in Qatar,Qatar,Indonesia,1477,1251,3,1,8,-8,1485,1243,80,142,2,-2,82,140,40,100,326
+182,Apr 9 1993,Friendly in Saudi Arabia,Saudi Arabia,United States,1621,1645,0,2,-18,18,1603,1663,59,29,-5,7,54,36,20,100,76
+183,Apr 10 1993,African Nations Cup qualifier in Egypt,Egypt,Mali,1648,1451,2,1,6,-6,1654,1445,35,98,4,-4,39,94,40,100,297
+184,Apr 10 1993,African Nations Cup qualifier in Ghana,Ghana,Liberia,1617,1392,1,0,5,-5,1622,1387,48,107,1,-1,49,106,40,100,325
+185,Apr 10 1993,African Nations Cup qualifier in South Africa,South Africa,Mauritius,1667,1235,0,0,-18,18,1649,1253,49,129,-7,7,42,136,40,100,532
+186,Apr 10 1993,African Nations Cup qualifier in Sudan,Sudan,Uganda,1321,1516,1,1,5,-5,1326,1511,119,77,0,-1,119,76,20,0,-195
+187,Apr 10 1993,African Nations Cup qualifier in Zambia,Zambia,Zimbabwe,1635,1534,0,0,-10,10,1625,1544,49,65,-1,1,48,66,40,100,201
+188,Apr 11 1993,World Cup qualifier in Canada,Canada,El Salvador,1560,1528,2,0,19,-19,1579,1509,54,85,4,-8,58,77,40,100,132
+189,Apr 11 1993,African Nations Cup qualifier in Ethiopia,Ethiopia,Nigeria,1336,1693,1,0,33,-33,1369,1660,106,36,4,-1,110,35,40,100,-257
+190,Apr 11 1993,African Nations Cup qualifier in Gabon,Gabon,Benin,1448,1184,2,0,7,-7,1455,1177,90,158,1,-1,91,157,40,100,364
+191,Apr 11 1993,African Nations Cup qualifier in Guinea,Guinea,Congo,1400,1418,1,0,15,-15,1415,1403,94,105,4,-4,98,101,40,100,82
+192,Apr 11 1993,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Senegal,1289,1520,0,3,-22,22,1267,1542,136,58,-2,8,134,66,40,100,-131
+193,Apr 11 1993,World Cup qualifier in Japan,Japan,Bangladesh,1551,1074,8,0,3,-3,1554,1071,63,176,0,0,63,176,20,0,477
+194,Apr 11 1993,African Nations Cup qualifier in Lesotho,Lesotho,Zaire,1188,1546,1,1,13,-13,1201,1533,149,72,3,-4,152,68,40,100,-258
+195,Apr 11 1993,World Cup qualifier in Mexico,Mexico,Honduras,1767,1700,3,0,19,-19,1786,1681,18,35,5,-2,23,33,40,100,167
+196,Apr 11 1993,African Nations Cup qualifier in Morocco,Morocco,Malawi,1605,1450,0,1,-33,33,1572,1483,66,77,-7,7,59,84,40,100,255
+197,Apr 11 1993,African Nations Cup qualifier in Mozambique,Mozambique,Kenya,1309,1413,0,0,0,0,1309,1413,126,100,0,0,126,100,20,100,-4
+198,Apr 11 1993,African Nations Cup qualifier in Niger,Niger,Cameroon,1337,1638,0,0,10,-10,1347,1628,115,49,-1,-2,114,47,30,0,-301
+199,Apr 11 1993,World Cup qualifier in Qatar,North Korea,Singapore,1503,1232,2,1,7,-7,1510,1225,74,154,2,-5,76,149,40,0,271
+200,Apr 11 1993,World Cup qualifier in Qatar,Qatar,Vietnam,1485,1148,4,0,6,-6,1491,1142,82,163,0,0,82,163,40,100,437
+201,Apr 11 1993,World Cup qualifier in Japan,Thailand,Sri Lanka,1336,838,1,0,2,-2,1338,836,116,204,-1,-1,115,203,30,0,498
+202,Apr 13 1993,World Cup qualifier in Japan,Bangladesh,Sri Lanka,1071,836,1,0,8,-8,1079,828,176,203,0,0,176,203,40,0,235
+203,Apr 13 1993,World Cup qualifier in Qatar,North Korea,Indonesia,1510,1243,4,0,13,-13,1523,1230,70,147,3,-3,73,144,40,0,267
+204,Apr 13 1993,Friendly in Poland,Poland,Finland,1797,1521,2,1,2,-2,1799,1519,18,75,1,-1,19,74,20,100,376
+205,Apr 13 1993,World Cup qualifier in Qatar,Singapore,Vietnam,1225,1142,3,2,15,-15,1240,1127,133,169,8,-3,141,166,40,0,83
+206,Apr 13 1993,World Cup qualifier in Japan,United Arab Emirates,Thailand,1528,1338,1,0,10,-10,1538,1328,66,117,2,-1,68,116,40,0,190
+207,Apr 14 1993,World Cup qualifier in Austria,Austria,Bulgaria,1638,1772,3,1,33,-33,1671,1739,23,33,11,-4,34,29,40,100,-34
+208,Apr 14 1993,World Cup qualifier in Denmark,Denmark,Latvia,1932,1384,2,0,1,-1,1933,1383,7,107,0,0,7,107,20,0,548
+209,Apr 14 1993,Friendly in Germany,Germany,Ghana,1999,1622,6,1,2,-2,2001,1620,3,51,0,-1,3,50,20,100,477
+210,Apr 14 1993,World Cup qualifier in Italy,Italy,Estonia,2008,1206,2,0,0,0,2008,1206,2,151,0,0,2,151,20,0,802
+211,Apr 14 1993,World Cup qualifier in Lithuania,Lithuania,Albania,1314,1426,3,1,31,-31,1345,1395,107,111,8,-8,115,103,40,100,-12
+212,Apr 14 1993,World Cup qualifier in Luxembourg,Luxembourg,Russia,1162,1884,0,4,-2,2,1160,1886,161,12,0,0,161,12,30,100,-622
+213,Apr 14 1993,World Cup qualifier in Romania,Romania,Cyprus,1799,1353,2,1,2,-2,1801,1351,19,113,0,0,19,113,30,0,446
+214,Apr 15 1993,World Cup qualifier in France,Egypt,Zimbabwe,1654,1544,0,0,-6,6,1648,1550,48,63,-4,1,44,64,40,0,110
+215,Apr 15 1993,Friendly in Hungary,Hungary,Sweden,1694,1902,0,2,-10,10,1684,1912,32,10,0,0,32,10,20,100,-108
+216,Apr 15 1993,World Cup qualifier in Japan,Japan,Sri Lanka,1554,828,5,0,1,-1,1555,827,63,203,0,0,63,203,20,0,726
+217,Apr 15 1993,World Cup qualifier in Japan,United Arab Emirates,Bangladesh,1538,1079,1,0,3,-3,1541,1076,68,176,0,0,68,176,40,0,459
+218,Apr 16 1993,World Cup qualifier in Algeria,Algeria,Ivory Coast,1649,1630,1,1,-7,7,1642,1637,48,46,-3,0,45,46,40,100,119
+219,Apr 16 1993,Friendly in Singapore,Australia,Kuwait,1747,1480,1,0,4,-4,1751,1476,28,87,0,-1,28,86,20,0,267
+220,Apr 16 1993,World Cup qualifier in Qatar,Qatar,Singapore,1491,1240,4,1,8,-8,1499,1232,82,145,0,-2,82,143,40,100,351
+221,Apr 16 1993,World Cup qualifier in Qatar,Vietnam,Indonesia,1127,1230,1,0,26,-26,1153,1204,158,158,4,-7,162,151,40,0,-103
+222,Apr 17 1993,World Cup qualifier in Malta,Malta,Switzerland,1378,1816,0,2,-8,8,1370,1824,110,15,-1,1,109,16,40,100,-338
+223,Apr 17 1993,Friendly in the United States,United States,Iceland,1663,1564,1,1,-5,5,1658,1569,37,61,-1,0,36,61,20,100,199
+224,Apr 18 1993,World Cup qualifier in Cameroon,Cameroon,Guinea,1628,1415,3,1,8,-8,1636,1407,47,101,0,-2,47,99,40,100,313
+225,Apr 18 1993,World Cup qualifier in Canada,Canada,Honduras,1579,1681,3,1,30,-30,1609,1651,48,49,5,-8,53,41,40,100,-2
+226,Apr 18 1993,World Cup qualifier in Japan,Japan,United Arab Emirates,1555,1541,2,0,20,-20,1575,1521,57,78,3,-5,60,73,40,100,114
+227,Apr 18 1993,World Cup qualifier in Mexico,Mexico,El Salvador,1786,1509,3,1,6,-6,1792,1503,19,79,2,-1,21,78,40,100,377
+228,Apr 18 1993,World Cup qualifier in Morocco,Morocco,Senegal,1572,1542,1,0,13,-13,1585,1529,57,74,1,-4,58,70,40,100,130
+229,Apr 18 1993,World Cup qualifier in Qatar,Qatar,North Korea,1499,1523,1,2,-24,24,1475,1547,90,57,-4,8,86,65,40,100,76
+230,Apr 18 1993,Friendly in Singapore,Saudi Arabia,New Zealand,1603,1542,3,1,12,-12,1615,1530,49,72,2,-3,51,69,20,0,61
+231,Apr 18 1993,World Cup qualifier in Qatar,Singapore,Indonesia,1232,1204,2,0,28,-28,1260,1176,129,165,7,-7,136,158,40,0,28
+232,Apr 18 1993,World Cup qualifier in Japan,Thailand,Bangladesh,1328,1076,4,1,13,-13,1341,1063,115,182,1,-3,116,179,40,0,252
+233,Apr 19 1993,Friendly in Singapore,Kuwait,Australia,1476,1751,3,1,25,-25,1501,1726,75,30,5,-1,80,29,20,0,-275
+234,Apr 22 1993,Friendly in Singapore,Singapore,Saudi Arabia,1260,1615,0,3,-7,7,1253,1622,136,47,0,2,136,49,20,100,-255
+235,Apr 23 1993,African Nations Cup qualifier in Algeria,Algeria,Togo,1642,1312,4,0,6,-6,1648,1306,41,130,2,-3,43,127,40,100,430
+236,Apr 23 1993,Friendly in Singapore,Hong Kong,Kuwait,1250,1501,2,2,6,-6,1256,1495,132,84,4,-2,136,82,20,0,-251
+237,Apr 24 1993,African Nations Cup qualifier in Ethiopia,Ethiopia,Uganda,1369,1511,2,2,2,-2,1371,1509,108,76,1,0,109,76,30,100,-42
+238,Apr 24 1993,African Nations Cup qualifier in Kenya,Kenya,Lesotho,1413,1201,3,0,10,-10,1423,1191,94,157,2,-3,96,154,40,100,312
+239,Apr 24 1993,World Cup qualifier in Singapore,North Korea,Vietnam,1547,1153,1,0,4,-4,1551,1149,65,164,0,-1,65,163,40,0,394
+240,Apr 24 1993,World Cup qualifier in Singapore,Qatar,Indonesia,1475,1176,4,1,11,-11,1486,1165,80,162,3,-2,83,160,40,0,299
+241,Apr 24 1993,Friendly in Singapore,Saudi Arabia,New Zealand,1622,1530,1,0,7,-7,1629,1523,47,75,1,-3,48,72,20,0,92
+242,Apr 24 1993,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Guinea-Bissau,1515,1267,2,0,7,-7,1522,1260,71,136,2,-1,73,135,40,100,348
+243,Apr 24 1993,African Nations Cup qualifier in South Africa,South Africa,Zimbabwe,1649,1550,1,1,-10,10,1639,1560,48,64,-3,0,45,64,40,100,199
+244,Apr 25 1993,African Nations Cup qualifier in Cameroon,Cameroon,Gabon,1636,1455,0,0,-13,13,1623,1468,51,83,-2,4,49,87,40,100,281
+245,Apr 25 1993,African Nations Cup qualifier in Congo,Congo,Burundi,1403,1355,0,0,-8,8,1395,1363,104,114,-2,-1,102,113,40,100,148
+246,Apr 25 1993,World Cup qualifier in Cyprus,Cyprus,Faroe Islands,1351,1227,3,1,13,-13,1364,1214,111,151,1,-2,112,149,40,100,224
+247,Apr 25 1993,African Nations Cup qualifier in Egypt,Egypt,Malawi,1648,1483,2,0,11,-11,1659,1472,30,87,6,-1,36,86,40,100,265
+248,Apr 25 1993,CONCACAF Ch & Car Cup q in Grenada,Grenada,Dominica,1328,1168,1,1,-13,13,1315,1181,130,151,-6,4,124,155,40,100,260
+249,Apr 25 1993,World Cup qualifier in Honduras,Honduras,El Salvador,1651,1503,2,0,12,-12,1663,1491,29,86,6,-4,35,82,40,100,248
+250,Apr 25 1993,Friendly in Singapore,Kuwait,Hong Kong,1495,1256,1,0,4,-4,1499,1252,80,142,1,-3,81,139,20,0,239
+251,Apr 25 1993,African Nations Cup qualifier in Mauritius,Mauritius,Zambia,1253,1625,0,3,-12,12,1241,1637,145,43,-4,3,141,46,40,100,-272
+252,Apr 25 1993,World Cup qualifier in Mexico,Mexico,Canada,1792,1609,4,0,12,-12,1804,1597,17,55,2,-1,19,54,40,100,283
+253,Apr 25 1993,African Nations Cup qualifier in Morocco,Morocco,Mali,1585,1445,1,0,8,-8,1593,1437,54,94,2,0,56,94,40,100,240
+254,Apr 25 1993,African Nations Cup qualifier in Mozambique,Mozambique,Zaire,1309,1533,0,0,7,-7,1316,1526,121,71,2,-2,123,69,40,100,-124
+255,Apr 25 1993,African Nations Cup qualifier in Niger,Niger,Benin,1347,1177,4,1,12,-12,1359,1165,114,162,0,-3,114,159,40,100,270
+256,Apr 25 1993,African Nations Cup qualifier in Nigeria,Nigeria,Sudan,1660,1326,4,0,6,-6,1666,1320,34,120,0,0,34,120,40,100,434
+257,Apr 25 1993,Friendly in South Korea,South Korea,Iraq,1644,1652,1,1,-3,3,1641,1655,44,40,0,0,44,40,20,100,92
+258,Apr 25 1993,CONCACAF Ch & Car Cup q in Grenada,Saint Lucia,St Vincent & Grenadines,1252,1276,1,0,21,-21,1273,1255,126,139,7,-3,133,136,40,0,-24
+259,Apr 26 1993,World Cup qualifier in Singapore,Qatar,Vietnam,1486,1149,4,0,9,-9,1495,1140,81,163,1,0,82,163,40,0,337
+260,Apr 26 1993,World Cup qualifier in Singapore,Singapore,North Korea,1253,1551,1,3,-15,15,1238,1566,145,61,-4,2,141,63,40,100,-198
+261,Apr 27 1993,CONCACAF Ch & Car Cup q in Grenada,Grenada,St Vincent & Grenadines,1315,1255,1,1,-9,9,1306,1264,128,132,-2,2,126,134,40,100,160
+262,Apr 27 1993,CONCACAF Ch & Car Cup q in Grenada,Saint Lucia,Dominica,1273,1181,4,2,22,-22,1295,1159,129,167,2,-6,131,161,40,0,92
+263,Apr 27 1993,Friendly in Ukraine,Ukraine,Israel,1584,1564,1,1,-3,3,1581,1567,59,62,0,1,59,63,20,100,120
+264,Apr 28 1993,World Cup qualifier in Bulgaria,Bulgaria,Finland,1739,1519,2,0,8,-8,1747,1511,28,75,0,0,28,75,40,100,320
+265,Apr 28 1993,World Cup qualifier in Czechoslovakia,Czechoslovakia,Wales,1811,1792,1,1,-7,7,1804,1799,20,22,-1,0,19,22,40,100,119
+266,Apr 28 1993,World Cup qualifier in England,England,Netherlands,1954,1969,2,2,-5,5,1949,1974,6,5,0,0,6,5,40,100,85
+267,Apr 28 1993,World Cup qualifier in France,France,Sweden,1924,1912,2,1,14,-14,1938,1898,5,10,2,0,7,10,30,0,12
+268,Apr 28 1993,World Cup qualifier in Ireland,Ireland,Denmark,1901,1933,1,1,-4,4,1897,1937,11,9,0,-1,11,8,40,100,68
+269,Apr 28 1993,World Cup qualifier in the United Arab Emirates,Japan,Thailand,1575,1341,1,0,8,-8,1583,1333,58,118,1,-1,59,117,40,0,234
+270,Apr 28 1993,World Cup qualifier in Singapore,North Korea,Indonesia,1566,1165,2,1,4,-4,1570,1161,58,160,3,-1,61,159,40,0,401
+271,Apr 28 1993,World Cup qualifier in Norway,Norway,Turkey,1772,1545,3,1,8,-8,1780,1537,23,66,1,0,24,66,40,100,327
+272,Apr 28 1993,World Cup qualifier in Poland,Poland,San Marino,1799,1014,1,0,0,0,1799,1014,23,185,-1,0,22,185,20,0,785
+273,Apr 28 1993,World Cup qualifier in Portugal,Portugal,Scotland,1782,1787,5,0,29,-29,1811,1758,12,31,6,-4,18,27,40,100,95
+274,Apr 28 1993,World Cup qualifier in Russia,Russia,Hungary,1886,1684,3,0,10,-10,1896,1674,12,32,0,0,12,32,40,100,302
+275,Apr 28 1993,World Cup qualifier in Singapore,Singapore,Vietnam,1238,1140,1,0,10,-10,1248,1130,137,169,2,-3,139,166,40,100,198
+276,Apr 28 1993,Friendly in South Korea,South Korea,Iraq,1641,1655,2,2,-2,2,1639,1657,44,36,0,2,44,38,20,100,86
+277,Apr 28 1993,World Cup qualifier in Spain,Spain,Northern Ireland,1819,1655,3,1,11,-11,1830,1644,15,46,1,-3,16,43,40,100,264
+278,Apr 28 1993,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Sri Lanka,1521,827,3,0,1,-1,1522,826,72,203,1,0,73,203,20,0,694
+279,Apr 29 1993,CONCACAF Ch & Car Cup q in Grenada,Grenada,Saint Lucia,1306,1295,0,1,-26,26,1280,1321,142,107,-8,12,134,119,40,100,111
+280,Apr 29 1993,CONCACAF Ch & Car Cup q in Grenada,St Vincent & Grenadines,Dominica,1264,1159,2,0,21,-21,1285,1138,130,163,2,-1,132,162,40,0,105
+281,Apr 30 1993,World Cup qualifier in Singapore,Indonesia,Vietnam,1161,1130,2,1,18,-18,1179,1112,153,172,3,-3,156,169,40,0,31
+282,Apr 30 1993,World Cup qualifier in the United Arab Emirates,Japan,Bangladesh,1583,1063,4,1,3,-3,1586,1060,57,179,1,0,58,179,30,0,520
+283,Apr 30 1993,World Cup qualifier in Singapore,Singapore,Qatar,1248,1495,1,0,28,-28,1276,1467,131,94,4,-6,135,88,40,100,-147
+284,Apr 30 1993,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Thailand,1522,1333,2,1,6,-6,1528,1327,65,117,4,0,69,117,40,100,289
+285,May 1 1993,World Cup qualifier in Malaysia,Malaysia,Kuwait,1264,1499,1,1,7,-7,1271,1492,136,81,0,0,136,81,40,100,-135
+286,May 1 1993,World Cup qualifier in Malaysia,Saudi Arabia,Macao,1629,1071,6,0,3,-3,1632,1068,48,178,0,-1,48,177,40,0,558
+287,May 1 1993,World Cup qualifier in Switzerland,Switzerland,Italy,1824,2008,1,0,25,-25,1849,1983,11,6,3,-2,14,4,40,100,-84
+288,May 2 1993,World Cup qualifier in El Salvador,El Salvador,Canada,1491,1597,1,2,-20,20,1471,1617,90,50,-4,2,86,52,40,100,-6
+289,May 2 1993,World Cup qualifier in Guinea,Guinea,Zimbabwe,1407,1560,3,0,40,-40,1447,1520,87,83,6,-9,93,74,40,100,-53
+290,May 2 1993,World Cup qualifier in Honduras,Honduras,Mexico,1663,1804,1,4,-31,31,1632,1835,59,15,-12,2,47,17,40,100,-41
+291,May 2 1993,World Cup qualifier in Ivory Coast,Ivory Coast,Nigeria,1637,1666,2,1,16,-16,1653,1650,34,48,6,-7,40,41,30,0,-29
+292,May 2 1993,World Cup qualifier in Singapore,North Korea,Qatar,1570,1467,2,2,-6,6,1564,1473,67,80,-3,4,64,84,40,0,103
+293,May 2 1993,World Cup qualifier in Singapore,Singapore,Indonesia,1276,1179,2,1,10,-10,1286,1169,129,160,3,-2,132,158,40,100,197
+294,May 3 1993,World Cup qualifier in Malaysia,Kuwait,Macao,1492,1068,10,1,8,-8,1500,1060,79,179,1,-1,80,178,40,0,424
+295,May 3 1993,World Cup qualifier in Malaysia,Malaysia,Saudi Arabia,1271,1632,1,1,13,-13,1284,1619,132,55,2,-4,134,51,40,100,-261
+296,May 3 1993,World Cup qualifier in the United Arab Emirates,Thailand,Sri Lanka,1327,826,3,0,4,-4,1331,822,117,203,0,0,117,203,40,0,501
+297,May 3 1993,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Bangladesh,1528,1060,7,0,3,-3,1531,1057,66,179,1,0,67,179,20,0,468
+298,May 5 1993,World Cup qualifier in the United Arab Emirates,Japan,Sri Lanka,1586,822,6,0,1,-1,1587,821,58,203,0,0,58,203,20,0,764
+299,May 5 1993,World Cup qualifier in Malaysia,Kuwait,Saudi Arabia,1500,1619,0,0,7,-7,1507,1612,74,53,3,-1,77,52,40,0,-119
+300,May 5 1993,World Cup qualifier in Malaysia,Malaysia,Macao,1284,1060,9,0,13,-13,1297,1047,128,184,3,-3,131,181,40,100,324
+301,May 5 1993,World Cup qualifier in the United Arab Emirates,Thailand,Bangladesh,1331,1057,4,1,12,-12,1343,1045,115,185,1,-3,116,182,40,0,274
+302,May 7 1993,World Cup qualifier in the United Arab Emirates,Bangladesh,Sri Lanka,1045,821,3,0,15,-15,1060,806,174,203,4,0,178,203,40,0,224
+303,May 7 1993,World Cup qualifier in Lebanon,Hong Kong,Bahrain,1252,1393,2,1,28,-28,1280,1365,133,118,3,-7,136,111,40,0,-141
+304,May 7 1993,World Cup qualifier in Lebanon,Lebanon,India,1230,1153,2,2,-9,9,1221,1162,152,159,-4,1,148,160,40,100,177
+305,May 7 1993,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Japan,1531,1587,1,1,-3,3,1528,1590,69,58,-1,0,68,58,40,100,44
+306,May 8 1993,Friendly in the United States,United States,Colombia,1658,1772,1,2,-10,10,1648,1782,47,23,-6,1,41,24,20,100,-14
+307,May 9 1993,World Cup qualifier in Lebanon,Bahrain,South Korea,1365,1639,0,0,13,-13,1378,1626,103,48,4,-2,107,46,40,0,-274
+308,May 9 1993,World Cup qualifier in Canada,Canada,Mexico,1617,1835,1,2,-13,13,1604,1848,57,15,-3,1,54,16,40,100,-118
+309,May 9 1993,World Cup qualifier in El Salvador,El Salvador,Honduras,1471,1632,2,1,23,-23,1494,1609,78,57,4,-5,82,52,40,100,-61
+310,May 9 1993,World Cup qualifier in Lebanon,Lebanon,Hong Kong,1221,1280,2,2,-2,2,1219,1282,148,134,0,1,148,135,30,100,41
+311,May 11 1993,World Cup qualifier in Lebanon,Hong Kong,India,1282,1162,2,1,13,-13,1295,1149,129,162,3,-1,132,161,40,0,120
+312,May 11 1993,World Cup qualifier in Lebanon,Lebanon,South Korea,1219,1626,0,1,-6,6,1213,1632,150,46,-1,0,149,46,40,100,-307
+313,May 12 1993,World Cup qualifier in Bulgaria,Bulgaria,Israel,1747,1567,2,2,-13,13,1734,1580,28,59,0,2,28,61,40,100,280
+314,May 12 1993,World Cup qualifier in Estonia,Estonia,Malta,1206,1370,0,1,-16,16,1190,1386,158,102,-4,4,154,106,40,100,-64
+315,May 13 1993,World Cup qualifier in Finland,Finland,Austria,1511,1671,3,1,35,-35,1546,1636,55,57,10,-12,65,45,40,100,-60
+316,May 13 1993,World Cup qualifier in Lebanon,Lebanon,Bahrain,1213,1378,0,0,4,-4,1217,1374,147,110,1,-1,148,109,20,0,-165
+317,May 13 1993,World Cup qualifier in Lebanon,South Korea,India,1632,1149,3,0,4,-4,1636,1145,44,161,1,0,45,161,40,0,483
+318,May 14 1993,World Cup qualifier in Saudi Arabia,Kuwait,Malaysia,1507,1297,2,0,14,-14,1521,1283,73,139,2,-4,75,135,40,0,210
+319,May 14 1993,World Cup qualifier in Saudi Arabia,Saudi Arabia,Macao,1612,1047,8,0,2,-2,1614,1045,50,182,0,0,50,182,20,0,565
+320,May 15 1993,World Cup qualifier in Lebanon,Bahrain,India,1374,1145,2,1,8,-8,1382,1137,105,163,2,-1,107,162,40,0,229
+321,May 15 1993,World Cup qualifier in Latvia,Latvia,Albania,1383,1395,0,0,-5,5,1378,1400,109,100,-1,1,108,101,40,100,88
+322,May 15 1993,Friendly tournament in the Philippines,Philippines,Brunei,838,896,1,0,13,-13,851,883,200,197,1,-1,201,196,30,100,42
+323,May 15 1993,World Cup qualifier in Lebanon,South Korea,Hong Kong,1636,1295,3,0,9,-9,1645,1286,39,133,3,-1,42,132,40,0,341
+324,May 16 1993,World Cup qualifier in Saudi Arabia,Kuwait,Macao,1521,1045,8,0,6,-6,1527,1039,65,182,5,0,70,182,40,0,476
+325,May 16 1993,World Cup qualifier in Saudi Arabia,Saudi Arabia,Malaysia,1614,1283,3,0,5,-5,1619,1278,50,139,0,-2,50,137,20,0,331
+326,May 17 1993,Friendly tournament in the Philippines,Philippines,Brunei,851,883,0,1,-18,18,833,901,203,194,-1,1,202,195,30,100,68
+327,May 18 1993,Friendly in Lithuania,Lithuania,Ukraine,1345,1581,1,2,-6,6,1339,1587,117,58,-1,1,116,59,20,100,-136
+328,May 18 1993,World Cup qualifier in Saudi Arabia,Malaysia,Macao,1278,1039,5,0,16,-16,1294,1023,125,184,6,-1,131,183,40,0,239
+329,May 18 1993,World Cup qualifier in Saudi Arabia,Saudi Arabia,Kuwait,1619,1527,2,0,15,-15,1634,1512,44,82,3,-6,47,76,40,100,192
+330,May 19 1993,World Cup qualifier in Estonia,Estonia,Scotland,1190,1758,0,3,-4,4,1186,1762,154,27,0,0,154,27,40,100,-468
+331,May 19 1993,World Cup qualifier in San Marino,San Marino,Poland,1014,1799,0,3,-1,1,1013,1800,185,22,0,0,185,22,20,100,-685
+332,May 19 1993,World Cup qualifier in Sweden,Sweden,Austria,1898,1636,1,0,4,-4,1902,1632,10,48,0,-1,10,47,20,0,262
+333,May 20 1993,World Cup qualifier in Luxembourg,Luxembourg,Iceland,1160,1569,1,1,14,-14,1174,1555,156,65,2,-1,158,64,40,100,-309
+334,May 20 1993,Black Stars Tournament in France,Réunion,Guadeloupe,1174,1320,3,0,37,-37,1211,1283,143,149,7,-14,150,135,30,0,-146
+335,May 20 1993,Friendly in Zambia,Zambia,Malawi,1637,1472,1,1,-6,6,1631,1478,49,82,-2,2,47,84,20,100,265
+336,May 21 1993,Friendly in Colombia,Colombia,Venezuela,1782,1327,1,1,-9,9,1773,1336,26,116,-1,1,25,117,20,0,455
+337,May 21 1993,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Saint Kitts and Nevis,1402,1177,4,1,9,-9,1411,1168,100,161,0,-2,100,159,40,100,325
+338,May 21 1993,CONCACAF Ch q & Car Cup in Jamaica,Martinique,Saint Lucia,1459,1321,2,0,19,-19,1478,1302,79,133,5,-7,84,126,40,0,138
+339,May 21 1993,CONCACAF Ch q & Car Cup in Jamaica,Puerto Rico,Sint Maarten,1051,968,3,0,27,-27,1078,941,172,195,4,-3,176,192,40,0,83
+340,May 21 1993,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,St Vincent & Grenadines,1532,1285,4,1,14,-14,1546,1271,63,140,2,-3,65,137,40,0,247
+341,May 22 1993,World Cup qualifier in Belgium,Belgium,Faroe Islands,1847,1214,3,0,1,-1,1848,1213,15,149,1,0,16,149,20,0,633
+342,May 22 1993,World Cup qualifier in Jordan,China,Pakistan,1477,1000,5,0,5,-5,1482,995,84,186,1,0,85,186,40,0,477
+343,May 22 1993,Black Stars Tournament in France,Guadeloupe,Burkina Faso,1283,1447,2,0,32,-32,1315,1415,112,103,11,-5,123,98,30,0,-164
+344,May 22 1993,World Cup qualifier in Jordan,Jordan,Yemen,1368,1181,1,1,-14,14,1354,1195,117,150,-3,3,114,153,40,100,287
+345,May 22 1993,Friendly in New Zealand,New Zealand,Fiji,1523,1459,2,0,8,-8,1531,1451,63,92,5,-1,68,91,20,100,164
+346,May 22 1993,Friendly in Zambia,Zambia,Malawi,1631,1478,0,1,-16,16,1615,1494,53,80,-3,2,50,82,20,100,253
+347,May 23 1993,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Sint Maarten,1411,941,2,0,2,-2,1413,939,100,194,0,-1,100,193,20,0,470
+348,May 23 1993,CONCACAF Ch q & Car Cup in Jamaica,Martinique,St Vincent & Grenadines,1478,1271,3,0,16,-16,1494,1255,78,139,4,-1,82,138,40,0,207
+349,May 23 1993,World Cup qualifier in Russia,Russia,Greece,1896,1697,1,1,-14,14,1882,1711,12,31,0,0,12,31,40,100,299
+350,May 23 1993,CONCACAF Ch q & Car Cup in Jamaica,Saint Kitts and Nevis,Puerto Rico,1168,1078,1,0,15,-15,1183,1063,155,180,2,-2,157,178,40,0,90
+351,May 23 1993,CONCACAF Ch q & Car Cup in Jamaica,Saint Lucia,Trinidad and Tobago,1302,1546,1,1,12,-12,1314,1534,121,69,3,-2,124,67,40,0,-244
+352,May 23 1993,Friendly in the United States,United States,Bolivia,1648,1570,0,0,-5,5,1643,1575,46,62,-3,0,43,62,20,100,178
+353,May 24 1993,World Cup qualifier in Jordan,Jordan,Iraq,1354,1657,1,1,11,-11,1365,1646,108,46,3,-6,111,40,30,0,-303
+354,May 24 1993,Friendly in New Zealand,New Zealand,Fiji,1531,1451,5,0,10,-10,1541,1441,64,95,2,-2,66,93,20,100,180
+355,May 24 1993,World Cup qualifier in Jordan,Yemen,Pakistan,1195,995,5,1,18,-18,1213,977,145,190,4,-2,149,188,40,0,200
+356,May 24 1993,Friendly in Zambia,Zambia,Malawi,1615,1494,4,2,7,-7,1622,1487,46,86,2,-2,48,84,20,100,221
+357,May 25 1993,Friendly in Azerbaijan,Azerbaijan,Georgia,1526,1605,1,0,9,-9,1535,1596,65,55,3,-1,68,54,20,100,21
+358,May 25 1993,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Puerto Rico,1413,1063,1,0,3,-3,1416,1060,94,178,3,0,97,178,40,100,450
+359,May 25 1993,World Cup qualifier in Lithuania,Lithuania,Northern Ireland,1339,1644,0,1,-9,9,1330,1653,120,32,-2,5,118,37,40,100,-205
+360,May 25 1993,CONCACAF Ch q & Car Cup in Jamaica,Martinique,Trinidad and Tobago,1494,1534,3,2,22,-22,1516,1512,68,84,7,-8,75,76,40,0,-40
+361,May 25 1993,CONCACAF Ch q & Car Cup in Jamaica,Saint Kitts and Nevis,Sint Maarten,1183,939,2,2,-12,12,1171,951,159,189,-1,2,158,191,40,0,244
+362,May 25 1993,CONCACAF Ch q & Car Cup in Jamaica,St Vincent & Grenadines,Saint Lucia,1255,1314,4,1,41,-41,1296,1273,122,150,8,-13,130,137,40,0,-59
+363,May 26 1993,World Cup qualifier in Albania,Albania,Ireland,1400,1897,1,2,-4,4,1396,1901,103,11,-1,0,102,11,40,100,-397
+364,May 26 1993,Friendly in Ethiopia,Ethiopia,Sudan,1371,1320,1,1,-4,4,1367,1324,110,118,0,1,110,119,20,100,151
+365,May 26 1993,World Cup qualifier in Jordan,Iraq,Yemen,1646,1213,6,1,6,-6,1652,1207,37,153,2,-2,39,151,40,0,433
+366,May 26 1993,World Cup qualifier in Jordan,Jordan,China,1365,1482,0,3,-33,33,1332,1515,123,66,-6,10,117,76,40,100,-17
+367,May 26 1993,Friendly in the United States,United States,Peru,1643,1526,0,0,-6,6,1637,1532,45,67,-1,2,44,69,20,100,217
+368,May 27 1993,Copa Paz del Chaco in Bolivia,Bolivia,Paraguay,1575,1720,2,1,17,-17,1592,1703,54,32,4,-1,58,31,30,100,-45
+369,May 28 1993,World Cup qualifier in Jordan,Iraq,Pakistan,1652,977,8,0,2,-2,1654,975,33,188,3,0,36,188,40,0,675
+370,May 28 1993,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Trinidad and Tobago,1416,1512,3,0,35,-35,1451,1477,85,95,6,-9,91,86,40,100,4
+371,May 28 1993,CONCACAF Ch q & Car Cup in Jamaica,Martinique,Saint Kitts and Nevis,1516,1171,1,1,-15,15,1501,1186,83,154,-4,2,79,156,40,0,345
+372,May 28 1993,World Cup qualifier in Jordan,Yemen,China,1207,1515,1,0,34,-34,1241,1481,131,94,10,-9,141,85,40,0,-308
+373,May 29 1993,Friendly in Ireland,Ireland,Hungary,1901,1674,2,4,-26,26,1875,1700,13,32,-1,0,12,32,20,100,327
+374,May 29 1993,World Cup qualifier in Poland,Poland,England,1800,1949,1,1,3,-3,1803,1946,20,6,1,0,21,6,40,100,-49
+375,May 30 1993,Friendly in Chile,Chile,Colombia,1771,1773,1,1,-3,3,1768,1776,26,25,0,0,26,25,20,100,98
+376,May 30 1993,Friendly in Ecuador,Ecuador,Peru,1656,1532,1,0,4,-4,1660,1528,33,69,1,0,34,69,20,100,224
+377,May 30 1993,World Cup qualifier in Jordan,Iraq,China,1654,1481,1,0,11,-11,1665,1470,30,89,3,-2,33,87,40,0,173
+378,May 30 1993,Caribbean Cup in Jamaica,Jamaica,Martinique,1451,1501,0,0,-3,3,1448,1504,93,77,-1,1,92,78,40,100,50
+379,May 30 1993,World Cup qualifier in Jordan,Jordan,Pakistan,1332,975,3,1,4,-4,1336,971,113,188,2,0,115,188,40,100,457
+380,May 30 1993,World Cup qualifier in New Zealand,New Zealand,Australia,1541,1726,0,1,-15,15,1526,1741,76,27,-5,1,71,28,40,100,-85
+381,May 30 1993,Caribbean Cup in Jamaica,Trinidad and Tobago,Saint Kitts and Nevis,1477,1186,3,2,6,-6,1483,1180,84,158,1,-1,85,157,40,0,291
+382,Jun 2 1993,World Cup qualifier in Czechoslovakia,Czechoslovakia,Romania,1804,1801,5,2,25,-25,1829,1776,18,26,1,-2,19,24,40,100,103
+383,Jun 2 1993,World Cup qualifier in Denmark,Denmark,Albania,1937,1396,4,0,2,-2,1939,1394,4,104,2,-1,6,103,20,0,541
+384,Jun 2 1993,World Cup qualifier in Iceland,Iceland,Russia,1555,1882,1,1,11,-11,1566,1871,62,13,1,-1,63,12,30,0,-327
+385,Jun 2 1993,World Cup qualifier in Latvia,Latvia,Northern Ireland,1378,1653,1,2,-11,11,1367,1664,110,30,-1,4,109,34,40,100,-175
+386,Jun 2 1993,World Cup qualifier in Lithuania,Lithuania,Spain,1330,1830,0,2,-5,5,1325,1835,118,18,0,0,118,18,40,100,-400
+387,Jun 2 1993,World Cup qualifier in Norway,Norway,England,1780,1946,2,0,36,-36,1816,1910,16,12,4,-3,20,9,40,100,-66
+388,Jun 2 1993,World Cup qualifier in Scotland,Scotland,Estonia,1762,1186,3,1,1,-1,1763,1185,27,156,0,0,27,156,20,0,576
+389,Jun 2 1993,World Cup qualifier in Sweden,Sweden,Israel,1902,1580,5,0,6,-6,1908,1574,10,62,0,0,10,62,40,100,422
+390,Jun 2 1993,Friendly in Turkmenistan,Turkmenistan,Tajikistan,1507,1415,6,0,11,-11,1518,1404,73,101,2,-1,75,100,20,100,192
+391,Jun 5 1993,World Cup qualifier in South Korea,Bahrain,Lebanon,1382,1217,0,0,-9,9,1373,1226,109,147,-1,1,108,148,40,0,165
+392,Jun 5 1993,World Cup qualifier in South Korea,South Korea,Hong Kong,1645,1286,4,1,5,-5,1650,1281,38,137,2,-2,40,135,40,100,459
+393,Jun 6 1993,World Cup qualifier in Australia,Australia,New Zealand,1741,1526,3,0,10,-10,1751,1516,28,79,0,-4,28,75,40,100,315
+394,Jun 6 1993,Friendly tournament in Iran,Azerbaijan,Tajikistan,1535,1404,2,0,14,-14,1549,1390,63,106,2,-3,65,103,30,0,131
+395,Jun 6 1993,Friendly in Colombia,Colombia,Chile,1776,1768,1,0,7,-7,1783,1761,24,28,0,-1,24,27,20,100,108
+396,Jun 6 1993,World Cup qualifier in the Faroe Islands,Faroe Islands,Wales,1213,1799,0,3,-4,4,1209,1803,152,21,-1,1,151,22,40,100,-486
+397,Jun 6 1993,Friendly tournament in Iran,Iran,Pakistan,1621,971,5,0,1,-1,1622,970,47,188,1,0,48,188,20,0,650
+398,Jun 6 1993,Friendly in Peru,Peru,Bolivia,1528,1592,1,0,9,-9,1537,1583,65,64,2,-3,67,61,20,100,36
+399,Jun 6 1993,US Cup in the United States,United States,Brazil,1637,1996,0,2,-8,8,1629,2004,48,1,-2,1,46,2,30,100,-259
+400,Jun 7 1993,Friendly tournament in Iran,Azerbaijan,Kyrgyzstan,1549,1195,3,2,3,-3,1552,1192,65,154,0,0,65,154,30,0,354
+401,Jun 7 1993,World Cup qualifier in South Korea,Bahrain,India,1373,1137,3,0,14,-14,1387,1123,102,168,3,-3,105,165,40,0,236
+402,Jun 7 1993,Southeast Asian Games in Singapore,Laos,Brunei,941,901,3,2,18,-18,959,883,187,197,3,-1,190,196,40,0,40
+403,Jun 7 1993,World Cup qualifier in South Korea,South Korea,Lebanon,1650,1226,2,0,3,-3,1653,1223,38,148,1,0,39,148,40,100,524
+404,Jun 7 1993,Southeast Asian Games in Singapore,Thailand,Myanmar,1343,1113,2,0,13,-13,1356,1100,114,175,0,-4,114,171,40,0,230
+405,Jun 7 1993,Friendly tournament in Iran,Turkmenistan,Pakistan,1518,970,4,0,2,-2,1520,968,72,188,1,0,73,188,20,0,548
+406,Jun 8 1993,Friendly tournament in Iran,Iran,Turkmenistan,1622,1520,2,1,7,-7,1629,1513,44,77,2,-2,46,75,20,0,102
+407,Jun 8 1993,Friendly tournament in Iran,Kyrgyzstan,Tajikistan,1192,1390,1,1,8,-8,1200,1382,154,111,0,-4,154,107,30,0,-198
+408,Jun 9 1993,Friendly in Ecuador,Ecuador,Chile,1660,1761,1,2,-10,10,1650,1771,47,25,-6,1,41,26,20,100,-1
+409,Jun 9 1993,Southeast Asian Games in Singapore,Indonesia,Vietnam,1169,1112,1,0,17,-17,1186,1095,153,178,3,-5,156,173,40,0,57
+410,Jun 9 1993,World Cup qualifier in Latvia,Latvia,Ireland,1367,1875,0,2,-5,5,1362,1880,115,9,-3,1,112,10,40,100,-408
+411,Jun 9 1993,World Cup qualifier in South Korea,Lebanon,Hong Kong,1223,1281,2,1,23,-23,1246,1258,132,141,8,-3,140,138,40,0,-58
+412,Jun 9 1993,Southeast Asian Games in Singapore,Malaysia,Brunei,1294,883,3,1,5,-5,1299,878,127,196,2,0,129,196,40,0,411
+413,Jun 9 1993,Southeast Asian Games in Singapore,Myanmar,Laos,1100,959,7,1,26,-26,1126,933,159,196,6,-3,165,193,40,0,141
+414,Jun 9 1993,World Cup qualifier in the Netherlands,Netherlands,Norway,1974,1816,0,0,-13,13,1961,1829,5,18,0,1,5,19,40,100,258
+415,Jun 9 1993,Southeast Asian Games in Singapore,Singapore,Philippines,1286,833,7,0,4,-4,1290,829,133,202,0,0,133,202,40,100,553
+416,Jun 9 1993,World Cup qualifier in South Korea,South Korea,India,1653,1123,7,0,2,-2,1655,1121,37,167,1,-1,38,166,20,0,530
+417,Jun 9 1993,US Cup in the United States,United States,England,1629,1910,2,0,33,-33,1662,1877,24,13,11,-2,35,11,30,100,-181
+418,Jun 10 1993,US Cup in the United States,Brazil,Germany,2004,2001,3,3,0,0,2004,2001,2,3,0,0,2,3,20,0,3
+419,Jun 10 1993,Friendly in Mexico,Mexico,Paraguay,1848,1703,3,1,6,-6,1854,1697,12,33,2,-1,14,32,20,100,245
+420,Jun 11 1993,World Cup qualifier in South Korea,Bahrain,Hong Kong,1387,1258,3,0,23,-23,1410,1235,96,152,4,-7,100,145,40,0,129
+421,Jun 11 1993,World Cup qualifier in South Korea,Lebanon,India,1246,1121,2,1,13,-13,1259,1108,136,170,2,-2,138,168,40,0,125
+422,Jun 11 1993,Southeast Asian Games in Singapore,Malaysia,Laos,1299,933,9,0,11,-11,1310,922,121,193,4,0,125,193,40,0,366
+423,Jun 11 1993,Friendly in Martinique,Martinique,Trinidad and Tobago,1504,1483,1,1,-3,3,1501,1486,80,83,-1,1,79,84,20,100,121
+424,Jun 11 1993,Friendly in Peru,Peru,Venezuela,1537,1336,3,1,5,-5,1542,1331,67,119,0,-2,67,117,20,100,301
+425,Jun 11 1993,Southeast Asian Games in Singapore,Singapore,Indonesia,1290,1186,1,1,-11,11,1279,1197,137,154,-2,1,135,155,40,100,204
+426,Jun 11 1993,Southeast Asian Games in Singapore,Thailand,Brunei,1356,878,5,2,4,-4,1360,874,112,198,1,-1,113,197,40,0,478
+427,Jun 11 1993,Southeast Asian Games in Singapore,Vietnam,Philippines,1095,829,1,0,7,-7,1102,822,169,202,2,0,171,202,40,0,266
+428,Jun 12 1993,World Cup qualifier in China,China,Pakistan,1470,968,3,0,2,-2,1472,966,87,188,0,0,87,188,20,0,502
+429,Jun 12 1993,World Cup qualifier in China,Jordan,Yemen,1336,1241,1,1,-5,5,1331,1246,117,139,-1,1,116,140,20,100,195
+430,Jun 13 1993,Friendly in Bolivia,Bolivia,Chile,1583,1771,1,3,-11,11,1572,1782,63,24,-1,1,62,25,20,100,-88
+431,Jun 13 1993,US Cup in the United States,Brazil,England,2004,1877,1,1,-5,5,1999,1882,4,9,-1,1,3,10,30,0,127
+432,Jun 13 1993,World Cup qualifier in South Korea,India,Hong Kong,1108,1235,3,1,41,-41,1149,1194,156,165,6,-10,162,155,40,0,-127
+433,Jun 13 1993,Friendly tournament in Iran,Iran,Tajikistan,1629,1382,1,0,4,-4,1633,1378,45,107,1,0,46,107,20,0,247
+434,Jun 13 1993,Southeast Asian Games in Singapore,Myanmar,Malaysia,1126,1310,2,1,30,-30,1156,1280,157,141,4,-8,161,133,40,0,-184
+435,Jun 13 1993,World Cup qualifier in South Korea,South Korea,Bahrain,1655,1410,3,0,8,-8,1663,1402,32,100,3,0,35,100,40,100,345
+436,Jun 13 1993,Southeast Asian Games in Singapore,Thailand,Laos,1360,922,4,1,5,-5,1365,917,107,193,3,0,110,193,40,0,438
+437,Jun 13 1993,US Cup in the United States,United States,Germany,1662,2001,3,4,-6,6,1656,2007,41,1,-3,1,38,2,30,100,-239
+438,Jun 14 1993,Friendly tournament in Iran,Iran,Turkmenistan,1633,1513,2,1,7,-7,1640,1506,42,79,2,-2,44,77,20,0,120
+439,Jun 14 1993,World Cup qualifier in China,Iraq,Jordan,1665,1331,4,0,10,-10,1675,1321,33,122,0,-3,33,119,40,0,334
+440,Jun 14 1993,World Cup qualifier in China,Yemen,Pakistan,1246,966,3,0,12,-12,1258,954,138,190,1,-1,139,189,40,0,280
+441,Jun 15 1993,Copa América in Ecuador,Ecuador,Venezuela,1650,1331,6,1,8,-8,1658,1323,33,120,4,-2,37,118,30,0,319
+442,Jun 15 1993,Southeast Asian Games in Singapore,Indonesia,Philippines,1197,822,3,1,6,-6,1203,816,148,202,3,0,151,202,40,0,375
+443,Jun 15 1993,Southeast Asian Games in Singapore,Myanmar,Brunei,1156,874,6,0,14,-14,1170,860,159,203,1,-3,160,200,40,0,282
+444,Jun 15 1993,Southeast Asian Games in Singapore,Singapore,Vietnam,1279,1102,2,0,10,-10,1289,1092,129,177,3,-3,132,174,40,100,277
+445,Jun 15 1993,Southeast Asian Games in Singapore,Thailand,Malaysia,1365,1280,2,0,23,-23,1388,1257,100,145,5,-6,105,139,40,0,85
+446,Jun 16 1993,World Cup qualifier in China,China,Jordan,1472,1321,4,1,13,-13,1485,1308,83,129,2,-5,85,124,40,100,251
+447,Jun 16 1993,Copa América in Ecuador,Colombia,Mexico,1783,1854,2,1,30,-30,1813,1824,18,26,3,-6,21,20,50,0,-71
+448,Jun 16 1993,World Cup qualifier in the Faroe Islands,Faroe Islands,Czechoslovakia,1209,1829,0,3,-3,3,1206,1832,150,17,0,1,150,18,30,100,-520
+449,Jun 16 1993,World Cup qualifier in Finland,Finland,Israel,1546,1574,0,0,-4,4,1542,1578,66,63,0,-1,66,62,40,100,72
+450,Jun 16 1993,World Cup qualifier in Iceland,Iceland,Hungary,1566,1700,2,0,33,-33,1599,1667,45,35,9,-2,54,33,40,100,-34
+451,Jun 16 1993,World Cup qualifier in China,Iraq,Yemen,1675,1258,3,0,6,-6,1681,1252,31,142,1,-2,32,140,40,0,417
+452,Jun 16 1993,World Cup qualifier in Lithuania,Lithuania,Ireland,1325,1880,0,1,-3,3,1322,1883,120,9,-2,1,118,10,40,100,-455
+453,Jun 16 1993,Copa América in Ecuador,Uruguay,United States,1849,1656,1,0,12,-12,1861,1644,13,47,1,-4,14,43,50,0,193
+454,Jun 17 1993,Copa América in Ecuador,Argentina,Bolivia,2010,1572,1,0,4,-4,2014,1568,1,63,0,0,1,63,50,0,438
+455,Jun 17 1993,Southeast Asian Games in Singapore,Singapore,Myanmar,1289,1170,3,3,-11,11,1278,1181,136,156,-2,2,134,158,40,100,219
+456,Jun 17 1993,Southeast Asian Games in Singapore,Thailand,Indonesia,1388,1203,1,0,10,-10,1398,1193,97,159,4,-4,101,155,40,0,185
+457,Jun 18 1993,Copa América in Ecuador,Brazil,Peru,1999,1542,0,0,-22,22,1977,1564,5,62,-1,2,4,64,50,0,457
+458,Jun 18 1993,World Cup qualifier in China,China,Yemen,1485,1252,1,0,5,-5,1490,1247,81,140,2,0,83,140,40,100,333
+459,Jun 18 1993,World Cup qualifier in China,Iraq,Pakistan,1681,954,4,0,1,-1,1682,953,32,189,0,0,32,189,20,0,727
+460,Jun 18 1993,Copa América in Ecuador,Paraguay,Chile,1697,1782,1,0,31,-31,1728,1751,29,29,1,-2,30,27,50,0,-85
+461,Jun 19 1993,Copa América in Ecuador,Ecuador,United States,1658,1644,2,0,26,-26,1684,1618,29,57,4,-7,33,50,50,100,114
+462,Jun 19 1993,US Cup in the United States,Germany,England,2007,1882,2,1,10,-10,2017,1872,0,11,1,0,1,11,30,0,125
+463,Jun 19 1993,World Cup qualifier in Portugal,Portugal,Malta,1811,1386,4,0,3,-3,1814,1383,20,107,1,0,21,107,20,0,425
+464,Jun 19 1993,Southeast Asian Games in Singapore,Singapore,Indonesia,1278,1193,3,1,15,-15,1293,1178,128,163,3,-4,131,159,40,100,185
+465,Jun 19 1993,Presidents Cup in South Korea,South Korea,Egypt,1663,1659,1,2,-26,26,1637,1685,53,28,-9,4,44,32,40,100,104
+466,Jun 19 1993,Copa América in Ecuador,Uruguay,Venezuela,1861,1323,2,2,-23,23,1838,1346,18,113,-2,2,16,115,50,0,538
+467,Jun 20 1993,Copa América in Ecuador,Argentina,Mexico,2014,1824,1,1,-12,12,2002,1836,2,14,0,3,2,17,50,0,190
+468,Jun 20 1993,Copa América in Ecuador,Bolivia,Colombia,1568,1813,1,1,15,-15,1583,1798,61,26,1,-2,62,24,50,0,-245
+469,Jun 20 1993,World Cup qualifier in China,China,Iraq,1490,1682,2,1,25,-25,1515,1657,67,38,8,-2,75,36,40,100,-92
+470,Jun 20 1993,World Cup qualifier in China,Jordan,Pakistan,1308,953,5,0,9,-9,1317,944,118,195,3,-3,121,192,40,0,355
+471,Jun 20 1993,Friendly in Mali,Mali,Senegal,1437,1529,0,2,-15,15,1422,1544,99,65,-2,2,97,67,20,100,8
+472,Jun 20 1993,Southeast Asian Games in Singapore,Thailand,Myanmar,1398,1181,4,3,9,-9,1407,1172,99,163,1,-3,100,160,40,0,217
+473,Jun 21 1993,Copa América in Ecuador,Chile,Brazil,1751,1977,3,2,39,-39,1790,1938,23,8,2,-2,25,6,50,0,-226
+474,Jun 21 1993,Copa América in Ecuador,Paraguay,Peru,1728,1564,1,1,-11,11,1717,1575,30,64,0,0,30,64,50,0,164
+475,Jun 22 1993,Friendly in France,Algeria,Guinea,1648,1447,1,1,-5,5,1643,1452,41,89,0,2,41,91,20,0,201
+476,Jun 22 1993,Copa América in Ecuador,Ecuador,Uruguay,1684,1838,2,1,29,-29,1713,1809,29,26,2,-5,31,21,50,100,-54
+477,Jun 22 1993,Copa América in Ecuador,United States,Venezuela,1618,1346,3,3,-16,16,1602,1362,56,111,-3,2,53,113,40,100,372
+478,Jun 23 1993,Copa América in Ecuador,Argentina,Colombia,2002,1798,1,1,-13,13,1989,1811,2,18,0,3,2,21,50,0,204
+479,Jun 23 1993,Copa América in Ecuador,Bolivia,Mexico,1583,1836,0,0,16,-16,1599,1820,46,22,8,-3,54,19,50,0,-253
+480,Jun 23 1993,Friendly in Costa Rica,Costa Rica,Panama,1594,1307,3,1,3,-3,1597,1304,56,127,0,-1,56,126,20,100,387
+481,Jun 23 1993,World Cup qualifier in Iran,Iran,Oman,1640,1069,0,0,-19,19,1621,1088,54,172,-6,2,48,174,40,0,571
+482,Jun 23 1993,World Cup qualifier in Iran,Syria,Taiwan,1397,1095,2,0,9,-9,1406,1086,100,177,1,-2,101,175,40,0,302
+483,Jun 24 1993,Copa América in Ecuador,Brazil,Paraguay,1938,1717,3,0,19,-19,1957,1698,4,34,1,-2,5,32,50,0,221
+484,Jun 24 1993,Copa América in Ecuador,Peru,Chile,1575,1790,1,0,39,-39,1614,1751,36,29,14,-2,50,27,50,0,-215
+485,Jun 25 1993,Friendly in Croatia,Croatia,Ukraine,1871,1587,3,1,3,-3,1874,1584,10,64,1,-1,11,63,20,100,384
+486,Jun 25 1993,World Cup qualifier in Iran,Iran,Taiwan,1621,1086,6,0,2,-2,1623,1084,44,177,2,-1,46,176,20,0,535
+487,Jun 25 1993,World Cup qualifier in Iran,Oman,Syria,1088,1406,0,0,14,-14,1102,1392,168,107,3,-3,171,104,40,0,-318
+488,Jun 26 1993,Copa América in Ecuador,Colombia,Uruguay,1811,1809,1,1,0,0,1811,1809,21,22,0,0,21,22,20,0,2
+489,Jun 26 1993,Copa América in Ecuador,Ecuador,Paraguay,1713,1698,3,0,30,-30,1743,1668,28,34,1,-1,29,33,50,100,115
+490,Jun 27 1993,Copa América in Ecuador,Argentina,Brazil,1989,1957,1,1,-2,2,1987,1959,2,5,0,0,2,5,40,0,32
+491,Jun 27 1993,World Cup qualifier in Iran,Iran,Syria,1623,1392,1,1,-15,15,1608,1407,56,96,-5,4,51,100,40,100,331
+492,Jun 27 1993,Copa América in Ecuador,Mexico,Peru,1820,1614,4,2,18,-18,1838,1596,13,64,3,-7,16,57,50,0,206
+493,Jun 27 1993,World Cup qualifier in Iran,Oman,Taiwan,1102,1084,2,1,19,-19,1121,1065,163,178,4,-1,167,177,40,0,18
+494,Jun 28 1993,Presidents Cup in South Korea,South Korea,Egypt,1637,1685,0,1,-23,23,1614,1708,53,32,-5,0,48,32,40,100,52
+495,Jun 29 1993,Friendly in Costa Rica,Costa Rica,Mexico,1597,1838,0,2,-9,9,1588,1847,66,16,-5,0,61,16,20,100,-141
+496,Jun 30 1993,Copa América in Ecuador,Ecuador,Mexico,1743,1847,0,2,-37,37,1706,1884,35,4,-3,6,32,10,50,100,-4
+497,Jul 1 1993,Copa América in Ecuador,Argentina,Colombia,1987,1811,0,0,-12,12,1975,1823,4,19,-1,1,3,20,50,0,176
+498,Jul 2 1993,Baltic Cup in Estonia,Estonia,Latvia,1185,1362,0,2,-18,18,1167,1380,164,103,-4,5,160,108,30,100,-77
+499,Jul 2 1993,World Cup qualifier in Syria,Iran,Oman,1608,1121,1,0,2,-2,1610,1119,49,167,1,0,50,167,30,0,487
+500,Jul 2 1993,World Cup qualifier in Syria,Syria,Taiwan,1407,1065,8,1,7,-7,1414,1058,100,181,0,-2,100,179,40,100,442
+501,Jul 3 1993,Copa América in Ecuador,Ecuador,Colombia,1706,1823,0,1,-24,24,1682,1847,32,14,0,3,32,17,50,100,-17
+502,Jul 3 1993,Baltic Cup in Estonia,Latvia,Lithuania,1380,1322,0,0,-2,2,1378,1324,108,116,0,1,108,117,20,0,58
+503,Jul 3 1993,World Cup qualifier in Nigeria,Nigeria,Algeria,1650,1643,4,1,25,-25,1675,1618,26,53,7,-6,33,47,40,100,107
+504,Jul 4 1993,Copa América in Ecuador,Argentina,Mexico,1975,1884,2,1,19,-19,1994,1865,1,18,1,-4,2,14,50,0,91
+505,Jul 4 1993,Baltic Cup in Estonia,Estonia,Lithuania,1167,1324,2,1,17,-17,1184,1307,152,131,4,-7,156,124,30,100,-57
+506,Jul 4 1993,Friendly in Gabon,Gabon,Mali,1468,1422,0,2,-21,21,1447,1443,98,91,-5,3,93,94,20,100,146
+507,Jul 4 1993,World Cup qualifier in Syria,Iran,Taiwan,1610,1058,6,0,3,-3,1613,1055,46,181,2,-1,48,180,30,0,552
+508,Jul 4 1993,Friendly in Jamaica,Jamaica,Costa Rica,1448,1588,1,1,1,-1,1449,1587,91,59,1,1,92,60,20,100,-40
+509,Jul 4 1993,World Cup qualifier in Syria,Syria,Oman,1414,1119,2,1,4,-4,1418,1115,96,167,2,0,98,167,40,100,395
+510,Jul 4 1993,World Cup qualifier in Zambia,Zambia,Morocco,1622,1593,2,1,13,-13,1635,1580,39,68,3,-5,42,63,40,100,129
+511,Jul 4 1993,World Cup qualifier in Zimbabwe,Zimbabwe,Cameroon,1520,1623,1,0,20,-20,1540,1603,65,60,4,-8,69,52,40,100,-3
+512,Jul 6 1993,Island Games in England,Greenland,Gibraltar,952,1100,5,0,56,-56,1008,1044,187,182,0,0,187,182,40,0,-148
+513,Jul 6 1993,Friendly in Malawi,Malawi,Swaziland,1487,1236,3,1,4,-4,1491,1232,84,144,0,0,84,144,20,100,351
+514,Jul 7 1993,Friendly in Ivory Coast,Ivory Coast,Niger,1653,1359,3,2,2,-2,1655,1357,38,115,1,0,39,115,20,100,394
+515,Jul 7 1993,World Cup qualifier in Syria,Oman,Taiwan,1115,1055,7,1,35,-35,1150,1020,157,188,5,-4,162,184,40,0,60
+516,Jul 7 1993,World Cup qualifier in Syria,Syria,Iran,1418,1613,1,1,5,-5,1423,1608,96,52,1,-2,97,50,20,0,-195
+517,Jul 8 1993,Friendly in Malawi,Malawi,Swaziland,1491,1232,1,1,-8,8,1483,1240,88,142,-2,1,86,143,20,100,359
+518,Jul 9 1993,African Nations Cup qualifier in Sudan,Sudan,Ethiopia,1324,1367,1,0,17,-17,1341,1350,115,119,1,-4,116,115,30,0,-43
+519,Jul 10 1993,CONCACAF Championship in the United States,Honduras,Panama,1609,1304,5,1,14,-14,1623,1290,41,138,4,-6,45,132,50,0,305
+520,Jul 10 1993,Friendly in Malawi,Malawi,Swaziland,1483,1240,0,1,-18,18,1465,1258,90,133,-2,5,88,138,20,100,343
+521,Jul 10 1993,CONCACAF Championship in the United States,United States,Jamaica,1602,1449,1,0,9,-9,1611,1440,47,98,3,-3,50,95,30,0,153
+522,Jul 11 1993,African Nations Cup qualifier in Benin,Benin,Cameroon,1165,1603,0,3,-9,9,1156,1612,161,45,0,4,161,49,40,100,-338
+523,Jul 11 1993,African Nations Cup qualifier in Burundi,Burundi,Guinea,1363,1452,2,2,-1,1,1362,1453,112,94,0,-2,112,92,40,100,11
+524,Jul 11 1993,CONCACAF Championship in Mexico,Canada,Costa Rica,1604,1587,1,1,-1,1,1603,1588,54,62,-1,-1,53,61,30,0,17
+525,Jul 11 1993,African Nations Cup qualifier in Egypt,Egypt,Morocco,1708,1580,1,1,-12,12,1696,1592,31,55,0,4,31,59,40,100,228
+526,Jul 11 1993,African Nations Cup qualifier in Gabon,Gabon,Niger,1447,1357,3,0,18,-18,1465,1339,84,118,4,-2,88,116,40,100,190
+527,Jul 11 1993,African Nations Cup qualifier in Lesotho,Lesotho,Mozambique,1191,1316,1,1,1,-1,1192,1315,155,121,0,0,155,121,20,100,-25
+528,Jul 11 1993,African Nations Cup qualifier in Mali,Mali,Malawi,1443,1465,2,1,16,-16,1459,1449,85,100,4,-6,89,94,30,0,-22
+529,Jul 11 1993,CONCACAF Championship in Mexico,Mexico,Martinique,1865,1501,9,0,8,-8,1873,1493,10,86,2,-3,12,83,30,0,364
+530,Jul 11 1993,African Nations Cup qualifier in Senegal,Senegal,Sierra Leone,1544,1522,1,1,-7,7,1537,1529,71,69,-2,2,69,71,40,100,122
+531,Jul 11 1993,African Nations Cup qualifier in Zaire,Zaire,Kenya,1526,1423,0,1,-31,31,1495,1454,90,85,-9,6,81,91,40,100,203
+532,Jul 11 1993,African Nations Cup qualifier in Zambia,Zambia,South Africa,1635,1639,3,0,26,-26,1661,1613,32,55,5,-7,37,48,40,100,96
+533,Jul 11 1993,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Mauritius,1540,1241,2,0,5,-5,1545,1236,65,145,2,-1,67,144,20,0,299
+534,Jul 13 1993,Friendly in Peru,Peru,Uruguay,1596,1809,1,2,-7,7,1589,1816,64,20,-4,1,60,21,20,100,-113
+535,Jul 14 1993,Friendly in Brazil,Brazil,Paraguay,1959,1668,2,0,3,-3,1962,1665,3,36,1,-1,4,35,20,100,391
+536,Jul 14 1993,CONCACAF Championship in the United States,Jamaica,Honduras,1440,1623,3,1,56,-56,1496,1567,66,84,15,-20,81,64,50,0,-183
+537,Jul 14 1993,CONCACAF Championship in the United States,United States,Panama,1611,1290,2,1,4,-4,1615,1286,41,132,5,0,46,132,30,0,321
+538,Jul 15 1993,CONCACAF Championship in Mexico,Canada,Martinique,1603,1493,2,2,-8,8,1595,1501,60,74,-4,5,56,79,30,100,210
+539,Jul 15 1993,CONCACAF Championship in Mexico,Mexico,Costa Rica,1873,1588,1,1,-20,20,1853,1608,16,42,-2,9,14,51,50,100,385
+540,Jul 16 1993,South Asian Championship in Pakistan,India,Sri Lanka,1149,806,2,0,7,-7,1156,799,159,204,2,0,161,204,40,0,343
+541,Jul 16 1993,South Asian Championship in Pakistan,Pakistan,Nepal,944,841,1,1,-11,11,933,852,193,202,0,0,193,202,40,100,203
+542,Jul 17 1993,CONCACAF Championship in the United States,Jamaica,Panama,1496,1286,1,1,-14,14,1482,1300,90,122,-4,5,86,127,40,100,310
+543,Jul 17 1993,World Cup qualifier in Senegal,Senegal,Morocco,1537,1592,1,3,-34,34,1503,1626,85,32,-8,13,77,45,40,100,45
+544,Jul 17 1993,African Nations Cup qualifier in Uganda,Uganda,Nigeria,1509,1675,0,0,4,-4,1513,1671,72,33,2,0,74,33,20,0,-166
+545,Jul 17 1993,Friendly in Uruguay,Uruguay,Peru,1816,1589,3,0,5,-5,1821,1584,21,62,0,-1,21,61,20,100,327
+546,Jul 17 1993,CONCACAF Championship in the United States,United States,Honduras,1615,1567,1,0,15,-15,1630,1552,42,66,2,-1,44,65,50,100,148
+547,Jul 18 1993,CONCACAF Championship in Mexico,Costa Rica,Martinique,1608,1501,3,1,26,-26,1634,1475,32,93,10,-7,42,86,50,0,107
+548,Jul 18 1993,World Cup qualifier in Ecuador,Ecuador,Brazil,1682,1962,0,0,10,-10,1692,1952,32,6,0,-1,32,5,30,0,-280
+549,Jul 18 1993,World Cup qualifier in Guinea,Guinea,Cameroon,1453,1612,0,1,-17,17,1436,1629,99,42,-3,4,96,46,40,100,-59
+550,Jul 18 1993,World Cup qualifier in Ivory Coast,Ivory Coast,Algeria,1655,1618,1,0,12,-12,1667,1606,28,61,6,-7,34,54,40,100,137
+551,Jul 18 1993,CONCACAF Championship in Mexico,Mexico,Canada,1853,1595,8,0,13,-13,1866,1582,14,67,0,-5,14,62,30,0,258
+552,Jul 18 1993,South Asian Championship in Pakistan,Pakistan,Sri Lanka,933,799,0,4,-60,60,873,859,203,200,-5,2,198,202,40,100,234
+553,Jul 18 1993,World Cup qualifier in Venezuela,Venezuela,Bolivia,1362,1599,1,7,-27,27,1335,1626,120,40,-4,7,116,47,40,100,-137
+554,Jul 19 1993,South Asian Championship in Pakistan,Nepal,Sri Lanka,852,859,0,0,0,0,852,859,203,202,0,0,203,202,20,0,-7
+555,Jul 21 1993,South Asian Championship in Pakistan,India,Nepal,1156,852,1,0,6,-6,1162,846,161,203,0,0,161,203,40,0,304
+556,Jul 21 1993,CONCACAF Championship in the United States,United States,Costa Rica,1630,1634,1,0,18,-18,1648,1616,39,56,3,-7,42,49,50,100,96
+557,Jul 22 1993,CONCACAF Championship in Mexico,Mexico,Jamaica,1866,1482,6,1,6,-6,1872,1476,10,85,2,0,12,85,30,0,384
+558,Jul 23 1993,South Asian Championship in Pakistan,Pakistan,India,873,1162,1,1,10,-10,883,1152,194,163,2,-1,196,162,30,0,-289
+559,Jul 24 1993,African Nations Cup qualifier in Nigeria,Nigeria,Ethiopia,1671,1350,6,0,7,-7,1678,1343,33,113,0,0,33,113,40,100,421
+560,Jul 24 1993,African Nations Cup qualifier in Uganda,Uganda,Sudan,1513,1341,1,0,7,-7,1520,1334,70,118,2,-2,72,116,40,100,272
+561,Jul 25 1993,African Nations Cup qualifier in Algeria,Algeria,Senegal,1606,1503,4,0,18,-18,1624,1485,44,93,5,-8,49,85,40,100,203
+562,Jul 25 1993,African Nations Cup qualifier in Benin,Benin,Gabon,1156,1465,1,2,-9,9,1147,1474,165,87,-2,1,163,88,40,100,-209
+563,Jul 25 1993,World Cup qualifier in Bolivia,Bolivia,Brazil,1626,1952,2,0,47,-47,1673,1905,20,13,13,-4,33,9,40,100,-226
+564,Jul 25 1993,African Nations Cup qualifier in Cameroon,Cameroon,Niger,1629,1339,2,0,6,-6,1635,1333,45,118,0,-2,45,116,40,100,390
+565,Jul 25 1993,CONCACAF Championship in Mexico,Costa Rica,Jamaica,1616,1476,1,1,-10,10,1606,1486,59,81,-5,2,54,83,50,0,140
+566,Jul 25 1993,African Nations Cup qualifier in Kenya,Kenya,Mozambique,1454,1315,4,1,14,-14,1468,1301,88,131,2,-5,90,126,40,100,239
+567,Jul 25 1993,African Nations Cup qualifier in Liberia,Liberia,Ghana,1387,1620,0,2,-19,19,1368,1639,114,40,-4,4,110,44,40,100,-133
+568,Jul 25 1993,African Nations Cup qualifier in Malawi,Malawi,Morocco,1449,1626,0,2,-23,23,1426,1649,98,40,-2,3,96,43,40,100,-77
+569,Jul 25 1993,African Nations Cup qualifier in Mali,Mali,Egypt,1459,1696,2,1,28,-28,1487,1668,74,37,8,-3,82,34,40,100,-137
+570,Jul 25 1993,African Nations Cup qualifier in Mauritius,Mauritius,South Africa,1236,1613,1,3,-10,10,1226,1623,150,49,-3,1,147,50,40,100,-277
+571,Jul 25 1993,CONCACAF Championship in Mexico,Mexico,United States,1872,1648,4,0,13,-13,1885,1635,8,48,2,-3,10,45,50,100,324
+572,Jul 25 1993,World Cup qualifier in Venezuela,Venezuela,Uruguay,1335,1821,0,1,-4,4,1331,1825,119,21,-2,0,117,21,40,100,-386
+573,Jul 25 1993,African Nations Cup qualifier in Zaire,Zaire,Lesotho,1495,1192,7,0,8,-8,1503,1184,73,155,4,0,77,155,40,100,403
+574,Jul 25 1993,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Zambia,1545,1661,1,1,1,-1,1546,1660,67,40,0,-1,67,39,30,100,-16
+575,Jul 28 1993,Friendly in France,France,Russia,1938,1871,3,1,8,-8,1946,1863,4,14,1,0,5,14,20,100,167
+576,Jul 29 1993,Friendly in Malawi,Malawi,Swaziland,1426,1258,3,0,6,-6,1432,1252,96,142,0,-2,96,140,20,100,268
+577,Jul 31 1993,World Cup qualifier in Canada,Canada,Australia,1582,1751,2,1,24,-24,1606,1727,46,31,8,-2,54,29,40,100,-69
+578,Aug 1 1993,World Cup qualifier in Colombia,Colombia,Paraguay,1847,1665,0,0,-13,13,1834,1678,19,27,-1,5,18,32,40,100,282
+579,Aug 1 1993,World Cup qualifier in Peru,Peru,Argentina,1584,1994,0,1,-6,6,1578,2000,63,2,-1,0,62,2,40,100,-310
+580,Aug 1 1993,World Cup qualifier in Uruguay,Uruguay,Ecuador,1825,1692,0,0,-12,12,1813,1704,23,31,-1,0,22,31,40,100,233
+581,Aug 1 1993,World Cup qualifier in Venezuela,Venezuela,Brazil,1331,1905,1,5,-5,5,1326,1910,117,7,0,1,117,8,40,100,-474
+582,Aug 7 1993,World Cup qualifier in Ivory Coast,Senegal,Zambia,1485,1660,0,0,9,-9,1494,1651,77,45,4,-3,81,42,40,0,-175
+583,Aug 8 1993,World Cup qualifier in Bolivia,Bolivia,Uruguay,1673,1813,3,1,33,-33,1706,1780,30,26,2,-2,32,24,40,100,-40
+584,Aug 8 1993,Friendly in Brazil,Brazil,Mexico,1910,1885,1,1,-3,3,1907,1888,10,10,-1,0,9,10,20,100,125
+585,Aug 8 1993,World Cup qualifier in Ecuador,Ecuador,Venezuela,1704,1326,5,0,5,-5,1709,1321,31,117,0,0,31,117,40,100,478
+586,Aug 8 1993,Friendly in Guinea,Guinea,Sierra Leone,1436,1529,1,0,10,-10,1446,1519,93,74,1,-2,94,72,20,100,7
+587,Aug 8 1993,World Cup qualifier in Paraguay,Paraguay,Argentina,1678,2000,1,3,-13,13,1665,2013,42,2,-5,0,37,2,40,100,-222
+588,Aug 8 1993,World Cup qualifier in Peru,Peru,Colombia,1578,1834,0,1,-12,12,1566,1846,64,16,-1,1,63,17,40,100,-156
+589,Aug 8 1993,Friendly in Zimbabwe,Zimbabwe,Swaziland,1546,1252,2,0,3,-3,1549,1249,67,140,0,0,67,140,20,100,394
+590,Aug 9 1993,Friendly in Guinea,Guinea,Sierra Leone,1446,1519,4,0,17,-17,1463,1502,90,82,2,-5,92,77,20,100,27
+591,Aug 11 1993,Friendly in the Faroe Islands,Faroe Islands,Norway,1206,1829,0,7,-2,2,1204,1831,150,20,0,0,150,20,20,100,-523
+592,Aug 11 1993,Friendly in Sweden,Sweden,Switzerland,1908,1849,1,2,-14,14,1894,1863,10,13,-1,1,9,14,20,100,159
+593,Aug 15 1993,World Cup qualifier in Australia,Australia,Canada,1727,1606,2,1,9,-9,1736,1597,27,58,1,-2,28,56,40,100,221
+594,Aug 15 1993,World Cup qualifier in Bolivia,Bolivia,Ecuador,1706,1709,1,0,15,-15,1721,1694,28,33,2,-1,30,32,30,0,-3
+595,Aug 15 1993,World Cup qualifier in Colombia,Colombia,Argentina,1846,2013,2,1,24,-24,1870,1989,11,2,3,0,14,2,40,100,-67
+596,Aug 15 1993,African Nations Cup qualifier in Congo,Congo,Guinea,1395,1463,0,0,-2,2,1393,1465,105,92,-1,0,104,92,40,100,32
+597,Aug 15 1993,World Cup qualifier in Paraguay,Paraguay,Peru,1665,1566,2,1,10,-10,1675,1556,31,65,3,-1,34,64,40,100,199
+598,Aug 15 1993,World Cup qualifier in Uruguay,Uruguay,Brazil,1780,1907,1,1,2,-2,1782,1905,24,8,0,0,24,8,40,100,-27
+599,Aug 20 1993,Indian Ocean Games in the Seychelles,Madagascar,Comoros,1501,878,5,0,2,-2,1503,876,73,197,3,0,76,197,30,0,623
+600,Aug 22 1993,World Cup qualifier in Argentina,Argentina,Peru,1989,1556,2,1,2,-2,1991,1554,2,64,0,0,2,64,20,0,433
+601,Aug 22 1993,World Cup qualifier in Bolivia,Bolivia,Venezuela,1721,1321,7,0,5,-5,1726,1316,30,123,0,-3,30,120,40,100,500
+602,Aug 22 1993,World Cup qualifier in Brazil,Brazil,Ecuador,1905,1694,2,0,9,-9,1914,1685,8,32,0,0,8,32,40,100,311
+603,Aug 22 1993,Indian Ocean Games in the Seychelles,Mauritius,Comoros,1226,876,3,0,6,-6,1232,870,141,199,3,-1,144,198,30,0,350
+604,Aug 22 1993,World Cup qualifier in Paraguay,Paraguay,Colombia,1675,1870,1,1,5,-5,1680,1865,32,14,1,0,33,14,20,0,-195
+605,Aug 22 1993,Indian Ocean Games in the Seychelles,Seychelles,Réunion,981,1211,0,2,-14,14,967,1225,189,147,0,1,189,148,30,100,-130
+606,Aug 22 1993,World Cup qualifier in Sweden,Sweden,France,1894,1946,1,1,-3,3,1891,1949,9,5,0,0,9,5,40,100,48
+607,Aug 24 1993,Indian Ocean Games in the Seychelles,Madagascar,Mauritius,1503,1232,2,1,5,-5,1508,1227,74,150,1,-3,75,147,30,0,271
+608,Aug 24 1993,Indian Ocean Games in the Seychelles,Seychelles,Réunion,967,1225,0,2,-13,13,954,1238,191,138,-1,5,190,143,30,100,-158
+609,Aug 25 1993,World Cup qualifier in Austria,Austria,Finland,1632,1542,3,0,18,-18,1650,1524,38,72,5,-2,43,70,40,100,190
+610,Aug 25 1993,World Cup qualifier in Denmark,Denmark,Lithuania,1939,1307,4,0,1,-1,1940,1306,6,123,0,0,6,123,20,0,632
+611,Aug 26 1993,Indian Ocean Games in the Seychelles,Réunion,Mauritius,1238,1227,1,0,15,-15,1253,1212,135,151,4,-2,139,149,30,0,11
+612,Aug 26 1993,Indian Ocean Games in the Seychelles,Seychelles,Madagascar,954,1508,1,2,-2,2,952,1510,190,75,0,0,190,75,30,100,-454
+613,Aug 28 1993,Indian Ocean Games in the Seychelles,Seychelles,Mauritius,952,1212,2,6,-16,16,936,1228,194,145,-2,2,192,147,30,100,-160
+614,Aug 29 1993,World Cup qualifier in Argentina,Argentina,Paraguay,1991,1680,0,0,-17,17,1974,1697,4,31,-1,1,3,32,40,100,411
+615,Aug 29 1993,World Cup qualifier in Brazil,Brazil,Bolivia,1914,1726,6,0,14,-14,1928,1712,8,30,0,0,8,30,40,100,288
+616,Aug 29 1993,World Cup qualifier in Colombia,Colombia,Peru,1865,1554,4,0,6,-6,1871,1548,14,70,0,-3,14,67,40,100,411
+617,Aug 29 1993,Indian Ocean Games in the Seychelles,Madagascar,Réunion,1510,1253,1,0,6,-6,1516,1247,69,143,3,-2,72,141,30,0,257
+618,Aug 29 1993,World Cup qualifier in Uruguay,Uruguay,Venezuela,1782,1316,4,0,3,-3,1785,1313,24,122,0,-1,24,121,40,100,566
+619,Aug 31 1993,Friendly in Iceland,Iceland,United States,1599,1635,0,1,-12,12,1587,1647,63,44,-4,1,59,45,20,100,64
+620,Sep 5 1993,World Cup qualifier in Argentina,Argentina,Colombia,1974,1871,0,5,-61,61,1913,1932,15,-2,-6,8,9,6,40,100,203
+621,Sep 5 1993,World Cup qualifier in Brazil,Brazil,Venezuela,1928,1313,4,0,1,-1,1929,1312,8,121,0,0,8,121,20,0,615
+622,Sep 5 1993,World Cup qualifier in Ecuador,Ecuador,Uruguay,1685,1785,0,1,-20,20,1665,1805,41,20,-4,2,37,22,40,100,0
+623,Sep 5 1993,World Cup qualifier in Estonia,Estonia,Portugal,1184,1814,0,2,-3,3,1181,1817,157,21,-1,0,156,21,40,100,-530
+624,Sep 5 1993,World Cup qualifier in Peru,Peru,Paraguay,1548,1697,2,2,3,-3,1551,1694,65,32,1,0,66,32,40,100,-49
+625,Sep 6 1993,Friendly tournament in Swaziland,Swaziland,Zimbabwe,1249,1549,0,1,-7,7,1242,1556,146,61,-3,3,143,64,30,100,-200
+626,Sep 8 1993,World Cup qualifier in Albania,Albania,Denmark,1394,1940,0,1,-3,3,1391,1943,105,5,-1,0,104,5,40,100,-446
+627,Sep 8 1993,World Cup qualifier in Bulgaria,Bulgaria,Sweden,1734,1891,1,1,3,-3,1737,1888,27,12,1,-1,28,11,40,100,-57
+628,Sep 8 1993,World Cup qualifier in England,England,Poland,1872,1803,3,0,19,-19,1891,1784,6,25,4,-1,10,24,40,100,169
+629,Sep 8 1993,World Cup qualifier in the Faroe Islands,Faroe Islands,Romania,1204,1776,0,4,-5,5,1199,1781,156,25,-3,0,153,25,40,100,-472
+630,Sep 8 1993,World Cup qualifier in Finland,Finland,France,1524,1949,0,2,-8,8,1516,1957,72,4,-1,0,71,4,40,100,-325
+631,Sep 8 1993,World Cup qualifier in Hungary,Hungary,Russia,1667,1863,1,3,-22,22,1645,1885,53,11,-9,2,44,13,40,100,-96
+632,Sep 8 1993,World Cup qualifier in Iceland,Iceland,Luxembourg,1587,1174,1,0,2,-2,1589,1172,59,159,0,0,59,159,20,0,413
+633,Sep 8 1993,World Cup qualifier in Ireland,Ireland,Lithuania,1883,1306,2,0,1,-1,1884,1305,16,125,-2,-1,14,124,20,0,577
+634,Sep 8 1993,Friendly in Norway,Norway,United States,1831,1647,1,0,3,-3,1834,1644,20,45,0,0,20,45,20,100,284
+635,Sep 8 1993,World Cup qualifier in Northern Ireland,Northern Ireland,Latvia,1664,1378,2,0,6,-6,1670,1372,30,111,4,-2,34,109,40,100,386
+636,Sep 8 1993,World Cup qualifier in Scotland,Scotland,Switzerland,1763,1863,1,1,0,0,1763,1863,26,17,0,-1,26,16,20,100,0
+637,Sep 8 1993,Friendly in Spain,Spain,Chile,1835,1751,2,0,8,-8,1843,1743,18,27,0,0,18,27,20,100,184
+638,Sep 8 1993,World Cup qualifier in Wales,Wales,Czechoslovakia,1803,1832,2,2,-4,4,1799,1836,23,19,0,0,23,19,40,100,71
+639,Sep 12 1993,Friendly in Iran,Iran,Bosnia and Herzegovina,1608,1600,1,3,-20,20,1588,1620,60,51,0,0,60,51,20,100,108
+640,Sep 12 1993,World Cup qualifier in Uruguay,Uruguay,Bolivia,1805,1712,2,1,10,-10,1815,1702,22,32,0,-1,22,31,40,100,193
+641,Sep 12 1993,World Cup qualifier in Venezuela,Venezuela,Ecuador,1312,1665,2,1,32,-32,1344,1633,107,59,7,-11,114,48,40,100,-253
+642,Sep 15 1993,Friendly in Morocco,Morocco,Mali,1649,1487,3,0,6,-6,1655,1481,36,90,3,-3,39,87,20,100,262
+643,Sep 17 1993,Friendly in Saudi Arabia,Saudi Arabia,Thailand,1634,1407,4,0,5,-5,1639,1402,43,102,2,0,45,102,20,100,327
+644,Sep 19 1993,World Cup qualifier in Brazil,Brazil,Uruguay,1929,1815,2,0,14,-14,1943,1801,2,22,3,0,5,22,40,100,214
+645,Sep 19 1993,World Cup qualifier in Ecuador,Ecuador,Bolivia,1633,1702,1,1,-2,2,1631,1704,48,31,0,0,48,31,40,100,31
+646,Sep 19 1993,Friendly in Zimbabwe,Zimbabwe,Senegal,1556,1494,2,0,8,-8,1564,1486,63,84,1,-1,64,83,20,100,162
+647,Sep 20 1993,Friendly in Saudi Arabia,Saudi Arabia,Thailand,1639,1402,3,0,4,-4,1643,1398,45,104,0,-1,45,103,20,100,337
+648,Sep 22 1993,World Cup qualifier in Albania,Albania,Spain,1391,1843,1,5,-9,9,1382,1852,109,16,-2,1,107,17,40,100,-352
+649,Sep 22 1993,World Cup qualifier in Estonia,Estonia,Italy,1181,1983,0,3,-1,1,1180,1984,157,2,0,0,157,2,20,100,-702
+650,Sep 22 1993,Friendly in the United States,Mexico,Cameroon,1888,1635,1,0,4,-4,1892,1631,9,47,1,0,10,47,20,0,253
+651,Sep 22 1993,Friendly in Morocco,Morocco,Algeria,1655,1624,0,0,-4,4,1651,1628,41,49,-1,0,40,49,20,100,131
+652,Sep 22 1993,World Cup qualifier in Italy,Netherlands,San Marino,1961,1013,7,0,0,0,1961,1013,3,187,0,0,3,187,20,0,948
+653,Sep 22 1993,World Cup qualifier in Norway,Norway,Poland,1834,1784,1,0,12,-12,1846,1772,18,26,1,-1,19,25,40,100,150
+654,Sep 22 1993,Friendly in Romania,Romania,Israel,1781,1578,1,0,3,-3,1784,1575,23,63,1,0,24,63,20,100,303
+655,Sep 22 1993,Friendly in Tunisia,Tunisia,Germany,1593,2017,1,1,7,-7,1600,2010,53,1,2,0,55,1,20,100,-324
+656,Sep 23 1993,Friendly in Saudi Arabia,Saudi Arabia,Costa Rica,1643,1606,1,2,-14,14,1629,1620,51,48,-3,3,48,51,20,100,137
+657,Sep 24 1993,Friendly in South Korea,South Korea,Australia,1614,1736,1,1,1,-1,1615,1735,53,29,0,0,53,29,20,100,-22
+658,Sep 25 1993,World Cup qualifier in Nigeria,Nigeria,Ivory Coast,1678,1667,4,1,24,-24,1702,1643,31,52,1,-8,32,44,40,100,111
+659,Sep 26 1993,Friendly in South Korea,South Korea,Australia,1615,1735,1,0,11,-11,1626,1724,47,29,3,0,50,29,20,100,-20
+660,Sep 26 1993,World Cup qualifier in Zambia,Zambia,Senegal,1651,1486,4,0,13,-13,1664,1473,33,95,3,-6,36,89,40,100,265
+661,Sep 26 1993,World Cup qualifier in Zimbabwe,Zimbabwe,Guinea,1564,1465,1,0,10,-10,1574,1455,64,95,0,-1,64,94,40,100,199
+662,Sep 27 1993,Friendly in Saudi Arabia,Saudi Arabia,Costa Rica,1629,1620,3,2,7,-7,1636,1613,44,54,2,-1,46,53,20,100,109
+663,Oct 1 1993,Friendly in France,Morocco,Gabon,1651,1474,1,0,5,-5,1656,1469,38,92,1,-2,39,90,20,0,177
+664,Oct 4 1993,Afro-Asian Cup in Japan,Japan,Ivory Coast,1590,1643,1,0,22,-22,1612,1621,50,58,4,-7,54,51,50,100,47
+665,Oct 5 1993,Friendly in Cyprus,Cyprus,Israel,1364,1575,2,2,3,-3,1367,1572,112,65,0,-1,112,64,20,100,-111
+666,Oct 6 1993,Friendly in Belgium,Belgium,Gabon,1848,1469,2,1,1,-1,1849,1468,18,90,0,0,18,90,20,100,479
+667,Oct 6 1993,Friendly in the United States,Mexico,South Africa,1892,1623,4,0,7,-7,1899,1616,10,54,0,-2,10,52,20,0,269
+668,Oct 6 1993,Friendly in Saudi Arabia,Saudi Arabia,Russia,1636,1885,4,2,21,-21,1657,1864,29,17,8,-2,37,15,20,100,-149
+669,Oct 8 1993,World Cup qualifier in Algeria,Algeria,Nigeria,1628,1702,1,1,-1,1,1627,1703,48,32,0,0,48,32,20,100,26
+670,Oct 10 1993,World Cup qualifier in Cameroon,Cameroon,Zimbabwe,1631,1574,3,1,17,-17,1648,1557,40,67,3,-2,43,65,40,100,157
+671,Oct 10 1993,World Cup qualifier in Morocco,Morocco,Zambia,1656,1664,1,0,15,-15,1671,1649,28,48,6,-6,34,42,30,0,-8
+672,Oct 12 1993,World Cup qualifier in Luxembourg,Luxembourg,Greece,1172,1711,1,3,-4,4,1168,1715,162,30,-1,0,161,30,40,100,-439
+673,Oct 13 1993,World Cup qualifier in Bulgaria,Bulgaria,Austria,1737,1650,4,1,18,-18,1755,1632,22,51,3,-5,25,46,40,100,187
+674,Oct 13 1993,World Cup qualifier in Denmark,Denmark,Northern Ireland,1943,1670,1,0,4,-4,1947,1666,3,37,1,-1,4,36,40,100,373
+675,Oct 13 1993,World Cup qualifier in France,France,Israel,1957,1572,2,3,-38,38,1919,1610,12,51,-4,6,8,57,40,100,485
+676,Oct 13 1993,Friendly in Germany,Germany,Uruguay,2010,1801,5,0,6,-6,2016,1795,1,26,0,-2,1,24,20,100,309
+677,Oct 13 1993,World Cup qualifier in Ireland,Ireland,Spain,1884,1852,1,3,-41,41,1843,1893,23,5,-5,6,18,11,40,100,132
+678,Oct 13 1993,World Cup qualifier in Italy,Italy,Scotland,1984,1763,3,1,8,-8,1992,1755,2,24,0,1,2,25,40,100,321
+679,Oct 13 1993,World Cup qualifier in the Netherlands,Netherlands,England,1961,1891,2,0,16,-16,1977,1875,3,17,0,-3,3,14,40,100,170
+680,Oct 13 1993,World Cup qualifier in Poland,Poland,Norway,1772,1846,0,3,-38,38,1734,1884,31,7,-3,6,28,13,40,100,26
+681,Oct 13 1993,World Cup qualifier in Portugal,Portugal,Switzerland,1817,1863,1,0,17,-17,1834,1846,19,18,1,-1,20,17,30,0,-46
+682,Oct 13 1993,World Cup qualifier in Romania,Romania,Belgium,1784,1849,2,1,18,-18,1802,1831,20,24,2,-3,22,21,30,0,-65
+683,Oct 13 1993,Friendly in Slovenia,Slovenia,Macedonia,1586,1600,1,4,-22,22,1564,1622,64,50,0,0,64,50,20,100,86
+684,Oct 13 1993,World Cup qualifier in Sweden,Sweden,Finland,1888,1516,3,2,2,-2,1890,1514,12,80,0,-4,12,76,20,0,372
+685,Oct 13 1993,Friendly in the United States,United States,Mexico,1644,1899,1,1,4,-4,1648,1895,39,10,3,0,42,10,20,100,-155
+686,Oct 13 1993,World Cup qualifier in Wales,Wales,Cyprus,1799,1367,2,0,3,-3,1802,1364,21,114,1,-1,22,113,30,0,432
+687,Oct 15 1993,World Cup qualifier in Qatar,Japan,Saudi Arabia,1612,1657,0,0,3,-3,1615,1654,53,39,1,-1,54,38,40,0,-45
+688,Oct 15 1993,World Cup qualifier in Qatar,North Korea,Iraq,1564,1657,3,2,25,-25,1589,1632,58,53,3,-8,61,45,40,0,-93
+689,Oct 16 1993,World Cup qualifier in Qatar,South Korea,Iran,1626,1588,3,0,31,-31,1657,1557,25,67,12,-2,37,65,40,0,38
+690,Oct 16 1993,Friendly in the United States,United States,Ukraine,1648,1584,1,2,-14,14,1634,1598,49,54,-4,5,45,59,20,100,164
+691,Oct 17 1993,Friendly in Tunisia,Tunisia,Iceland,1600,1589,3,1,10,-10,1610,1579,56,64,1,-1,57,63,20,100,111
+692,Oct 18 1993,World Cup qualifier in Qatar,Iran,Japan,1557,1615,2,1,23,-23,1580,1592,59,68,3,-7,62,61,40,0,-58
+693,Oct 18 1993,World Cup qualifier in Qatar,Saudi Arabia,North Korea,1654,1589,2,1,16,-16,1670,1573,31,66,4,-2,35,64,40,0,65
+694,Oct 19 1993,World Cup qualifier in Qatar,Iraq,South Korea,1632,1657,2,2,1,-1,1633,1656,46,40,0,-1,46,39,20,0,-25
+695,Oct 20 1993,Friendly in the United States,Mexico,Ukraine,1895,1598,2,1,3,-3,1898,1595,10,62,0,-2,10,60,20,0,297
+696,Oct 21 1993,World Cup qualifier in Qatar,Japan,North Korea,1592,1573,3,0,33,-33,1625,1540,39,74,11,-5,50,69,40,0,19
+697,Oct 22 1993,World Cup qualifier in Qatar,Iraq,Iran,1633,1580,2,1,17,-17,1650,1563,36,66,5,-2,41,64,40,0,53
+698,Oct 22 1993,World Cup qualifier in Qatar,Saudi Arabia,South Korea,1670,1656,1,1,-1,1,1669,1657,35,37,0,1,35,38,30,0,14
+699,Oct 23 1993,Friendly in the United States,United States,Ukraine,1634,1595,0,1,-14,14,1620,1609,58,57,-6,2,52,59,20,100,139
+700,Oct 24 1993,African Nations Cup qualifier in Gabon,Burundi,Guinea,1362,1455,0,0,5,-5,1367,1450,112,97,1,-1,113,96,40,0,-93
+701,Oct 24 1993,World Cup qualifier in Qatar,Iraq,Saudi Arabia,1650,1669,1,1,1,-1,1651,1668,41,35,0,0,41,35,20,0,-19
+702,Oct 25 1993,World Cup qualifier in Qatar,Iran,North Korea,1563,1540,2,1,19,-19,1582,1521,60,73,2,-2,62,71,40,0,23
+703,Oct 25 1993,World Cup qualifier in Qatar,Japan,South Korea,1625,1657,1,0,22,-22,1647,1635,37,54,6,-8,43,46,40,0,-32
+704,Oct 26 1993,Friendly in Liechtenstein,Liechtenstein,Estonia,1132,1180,0,2,-17,17,1115,1197,170,154,-1,2,169,156,20,100,52
+705,Oct 26 1993,Friendly in the United Arab Emirates,United Arab Emirates,Jordan,1528,1317,2,1,3,-3,1531,1314,70,124,0,-1,70,123,20,100,311
+706,Oct 27 1993,World Cup qualifier in Czechoslovakia,Czechoslovakia,Cyprus,1836,1364,3,0,3,-3,1839,1361,19,114,0,0,19,114,30,0,472
+707,Oct 27 1993,World Cup qualifier in Hungary,Hungary,Luxembourg,1645,1168,1,0,1,-1,1646,1167,44,162,0,0,44,162,20,0,477
+708,Oct 27 1993,World Cup qualifier in Israel,Israel,Austria,1610,1632,1,1,-4,4,1606,1636,61,45,-2,1,59,46,40,100,78
+709,Oct 27 1993,World Cup qualifier in Turkey,Turkey,Poland,1537,1734,2,1,25,-25,1562,1709,61,32,4,-2,65,30,40,100,-97
+710,Oct 28 1993,World Cup qualifier in Qatar,Iraq,Japan,1651,1647,2,2,0,0,1651,1647,42,45,-1,-1,41,44,20,0,4
+711,Oct 28 1993,World Cup qualifier in Qatar,Saudi Arabia,Iran,1668,1582,4,3,15,-15,1683,1567,33,64,1,-1,34,63,40,0,86
+712,Oct 28 1993,World Cup qualifier in Qatar,South Korea,North Korea,1635,1521,3,0,24,-24,1659,1497,29,93,9,-11,38,82,40,0,114
+713,Oct 28 1993,Friendly in the United Arab Emirates,United Arab Emirates,Jordan,1531,1314,0,2,-26,26,1505,1340,84,111,-7,6,77,117,20,100,317
+714,Oct 31 1993,World Cup qualifier in Australia,Australia,Argentina,1724,1913,1,1,5,-5,1729,1908,28,9,0,0,28,9,20,0,-189
+715,Nov 3 1993,Friendly in the United States,Mexico,China,1898,1515,3,0,3,-3,1901,1512,10,75,0,-1,10,74,20,0,383
+716,Nov 5 1993,Friendly tournament in Tunisia,Egypt,Malta,1668,1383,3,0,9,-9,1677,1374,34,113,1,-3,35,110,30,0,285
+717,Nov 5 1993,Friendly tournament in Tunisia,Tunisia,Gabon,1610,1468,4,0,11,-11,1621,1457,45,97,6,-3,51,94,20,0,142
+718,Nov 7 1993,Friendly tournament in Tunisia,Malta,Gabon,1374,1457,2,1,19,-19,1393,1438,100,100,5,-3,105,97,30,0,-83
+719,Nov 7 1993,Friendly tournament in Tunisia,Tunisia,Egypt,1621,1677,2,0,20,-20,1641,1657,41,41,5,-3,46,38,30,100,44
+720,Nov 7 1993,Friendly in the United States,United States,Jamaica,1620,1486,1,0,4,-4,1624,1482,49,88,2,-2,51,86,20,100,234
+721,Nov 10 1993,World Cup qualifier in Austria,Austria,Sweden,1636,1890,1,1,8,-8,1644,1882,44,12,2,0,46,12,40,100,-154
+722,Nov 10 1993,World Cup qualifier in Israel,Israel,Finland,1606,1514,1,3,-45,45,1561,1559,71,59,-6,7,65,66,40,100,192
+723,Nov 10 1993,World Cup qualifier in Portugal,Portugal,Estonia,1834,1197,3,0,1,-1,1835,1196,20,156,0,0,20,156,20,0,637
+724,Nov 10 1993,World Cup qualifier in Turkey,Turkey,Norway,1562,1884,2,1,31,-31,1593,1853,57,19,4,-3,61,16,40,100,-222
+725,Nov 14 1993,Friendly in Antigua and Barbuda,Antigua and Barbuda,Saint Kitts and Nevis,1201,1180,3,0,12,-12,1213,1168,152,163,0,-2,152,161,20,100,121
+726,Nov 14 1993,Friendly in the United States,United States,Cayman Islands,1624,951,8,1,1,-1,1625,950,51,194,0,-1,51,193,20,0,673
+727,Nov 16 1993,Friendly in Slovakia,Slovakia,Slovenia,1654,1564,2,0,8,-8,1662,1556,34,70,3,-3,37,67,20,100,190
+728,Nov 17 1993,World Cup qualifier in Argentina,Argentina,Australia,1908,1729,1,0,7,-7,1915,1722,7,30,1,-1,8,29,40,100,279
+729,Nov 17 1993,World Cup qualifier in Belgium,Belgium,Czechoslovakia,1831,1839,0,0,-5,5,1826,1844,23,15,-1,2,22,17,40,100,92
+730,Nov 17 1993,World Cup qualifier in Italy,England,San Marino,1875,1013,7,1,1,-1,1876,1012,13,188,0,0,13,188,40,0,862
+731,Nov 17 1993,World Cup qualifier in France,France,Bulgaria,1919,1755,1,2,-33,33,1886,1788,14,23,-3,1,11,24,40,100,264
+732,Nov 17 1993,Friendly in Germany,Germany,Brazil,2016,1943,2,1,5,-5,2021,1938,1,3,0,1,1,4,20,100,173
+733,Nov 17 1993,World Cup qualifier in Greece,Greece,Russia,1715,1864,1,0,23,-23,1738,1841,27,21,1,-3,28,18,40,100,-49
+734,Nov 17 1993,World Cup qualifier in Italy,Italy,Portugal,1992,1835,1,0,7,-7,1999,1828,2,20,0,0,2,20,40,100,257
+735,Nov 17 1993,World Cup qualifier in Malta,Malta,Scotland,1393,1755,0,2,-11,11,1382,1766,109,27,-2,-1,107,26,40,100,-262
+736,Nov 17 1993,World Cup qualifier in Northern Ireland,Northern Ireland,Ireland,1666,1843,1,1,4,-4,1670,1839,36,20,0,-1,36,19,40,100,-77
+737,Nov 17 1993,World Cup qualifier in Poland,Poland,Netherlands,1709,1977,1,3,-17,17,1692,1994,36,3,-3,0,33,3,40,100,-168
+738,Nov 17 1993,World Cup qualifier in Spain,Spain,Denmark,1893,1947,1,0,17,-17,1910,1930,7,10,2,-3,9,7,30,0,-54
+739,Nov 17 1993,World Cup qualifier in Switzerland,Switzerland,Estonia,1846,1196,4,0,1,-1,1847,1195,15,156,1,0,16,156,20,0,650
+740,Nov 17 1993,World Cup qualifier in Wales,Wales,Romania,1802,1802,1,2,-26,26,1776,1828,28,18,-3,2,25,20,40,100,100
+741,Nov 22 1993,Friendly in The Gambia,Gambia,Mauritania,1253,1057,2,4,-25,25,1228,1082,155,175,-7,3,148,178,20,100,296
+742,Nov 26 1993,Friendly in Sierra Leone,Gambia,Ghana,1228,1639,3,0,32,-32,1260,1607,128,68,10,-10,138,58,20,0,-411
+743,Nov 26 1993,Amilcar Cabral Cup in Sierra Leone,Sierra Leone,Guinea,1502,1450,1,1,-8,8,1494,1458,85,93,-3,1,82,94,40,100,152
+744,Nov 27 1993,Amilcar Cabral Cup in Sierra Leone,Guinea-Bissau,Mauritania,1260,1082,1,0,11,-11,1271,1071,138,178,0,0,138,178,40,0,178
+745,Nov 27 1993,Amilcar Cabral Cup in Sierra Leone,Mali,Senegal,1481,1473,1,0,20,-20,1501,1453,73,99,7,-5,80,94,40,0,8
+746,Nov 28 1993,Amilcar Cabral Cup in Sierra Leone,Gambia,Guinea,1260,1458,2,1,30,-30,1290,1428,131,103,4,-5,135,98,40,0,-198
+747,Nov 28 1993,Friendly in Sierra Leone,Sierra Leone,Ghana,1494,1607,2,3,-10,10,1484,1617,87,50,-2,4,85,54,20,100,-13
+748,Nov 29 1993,Amilcar Cabral Cup in Sierra Leone,Mali,Guinea-Bissau,1501,1271,3,0,15,-15,1516,1256,64,143,8,-2,72,141,40,0,230
+749,Nov 29 1993,Amilcar Cabral Cup in Sierra Leone,Senegal,Mauritania,1453,1071,4,0,7,-7,1460,1064,91,180,1,-1,92,179,40,0,382
+750,Nov 30 1993,Friendly in Sierra Leone,Ghana,Guinea,1617,1428,1,0,5,-5,1622,1423,48,100,3,-1,51,99,20,0,189
+751,Nov 30 1993,Amilcar Cabral Cup in Sierra Leone,Sierra Leone,Gambia,1484,1290,1,1,-14,14,1470,1304,95,119,-5,8,90,127,40,100,294
+752,Nov 30 1993,Friendly in Tahiti,Tahiti,Fiji,1459,1441,3,0,12,-12,1471,1429,85,99,4,-2,89,97,20,100,118
+753,Dec 1 1993,Amilcar Cabral Cup in Sierra Leone,Guinea-Bissau,Senegal,1256,1460,0,0,11,-11,1267,1449,137,95,2,-1,139,94,40,0,-204
+754,Dec 1 1993,Friendly tournament in Kenya,Kenya,Uganda,1468,1520,2,1,13,-13,1481,1507,83,79,4,-4,87,75,30,100,48
+755,Dec 1 1993,Amilcar Cabral Cup in Sierra Leone,Mali,Mauritania,1516,1064,0,0,-17,17,1499,1081,90,177,-9,1,81,178,40,0,452
+756,Dec 3 1993,Amilcar Cabral Cup in Sierra Leone,Senegal,Gambia,1449,1304,2,0,18,-18,1467,1286,92,143,1,-8,93,135,40,0,145
+757,Dec 3 1993,Amilcar Cabral Cup in Sierra Leone,Sierra Leone,Mali,1470,1499,2,0,24,-24,1494,1475,73,95,9,-7,82,88,30,0,-29
+758,Dec 5 1993,Amilcar Cabral Cup in Sierra Leone,Gambia,Mali,1286,1475,2,0,45,-45,1331,1430,107,104,14,-8,121,96,40,0,-189
+759,Dec 5 1993,Amilcar Cabral Cup in Sierra Leone,Sierra Leone,Senegal,1494,1467,2,0,19,-19,1513,1448,64,93,9,0,73,93,40,100,127
+760,Dec 6 1993,Friendly tournament in Kenya,Tanzania,Uganda,1292,1507,1,0,23,-23,1315,1484,113,92,11,-8,124,84,30,0,-215
+761,Dec 7 1993,South Pacific Mini Games in Vanuatu,Fiji,Solomon Islands,1429,1223,1,0,9,-9,1438,1214,91,151,3,0,94,151,40,0,206
+762,Dec 7 1993,South Pacific Mini Games in Vanuatu,Tahiti,Guam,1471,693,11,0,1,-1,1472,692,90,210,0,0,90,210,20,0,778
+763,Dec 7 1993,South Pacific Mini Games in Vanuatu,Vanuatu,Tonga,993,678,3,0,6,-6,999,672,190,213,0,0,190,213,40,100,415
+764,Dec 8 1993,South Pacific Mini Games in Vanuatu,New Caledonia,Papua New Guinea,1300,1098,1,1,-10,10,1290,1108,139,170,-4,2,135,172,40,0,202
+765,Dec 9 1993,South Pacific Mini Games in Vanuatu,Tahiti,Fiji,1472,1438,1,0,18,-18,1490,1420,76,106,7,-6,83,100,40,0,34
+766,Dec 10 1993,Friendly in Bangladesh,Bangladesh,Myanmar,1060,1172,3,1,16,-16,1076,1156,178,164,1,-2,179,162,20,100,-12
+767,Dec 10 1993,Friendly tournament in Kenya,Kenya,Tanzania,1481,1315,2,1,5,-5,1486,1310,80,128,4,-2,84,126,30,100,266
+768,Dec 10 1993,South Pacific Mini Games in Vanuatu,Papua New Guinea,Tonga,1108,672,5,0,6,-6,1114,666,168,213,2,0,170,213,40,0,436
+769,Dec 10 1993,South Pacific Mini Games in Vanuatu,Vanuatu,New Caledonia,999,1290,1,1,10,-10,1009,1280,188,137,1,-1,189,136,30,0,-291
+770,Dec 11 1993,South Asian Games in Bangladesh,Bangladesh,Maldives,1076,773,0,0,-16,16,1060,789,181,207,-1,0,180,207,40,100,403
+771,Dec 11 1993,South Pacific Mini Games in Vanuatu,Solomon Islands,Guam,1214,692,12,1,5,-5,1219,687,151,210,0,0,151,210,40,0,522
+772,Dec 11 1993,South Asian Games in Bangladesh,Sri Lanka,Pakistan,859,883,2,1,21,-21,880,862,192,206,6,-4,198,202,40,0,-24
+773,Dec 13 1993,South Pacific Mini Games in Vanuatu,Fiji,Guam,1420,687,12,0,2,-2,1422,685,100,210,0,0,100,210,40,0,733
+774,Dec 13 1993,South Asian Games in Bangladesh,India,Sri Lanka,1152,880,2,0,10,-10,1162,870,161,200,1,-1,162,199,40,0,272
+775,Dec 13 1993,South Asian Games in Bangladesh,Maldives,Nepal,789,846,0,0,3,-3,792,843,207,205,0,0,207,205,40,0,-57
+776,Dec 13 1993,South Pacific Mini Games in Vanuatu,New Caledonia,Tonga,1280,666,11,0,3,-3,1283,663,134,213,1,0,135,213,40,0,614
+777,Dec 13 1993,South Pacific Mini Games in Vanuatu,Tahiti,Solomon Islands,1490,1219,3,0,12,-12,1502,1207,75,153,4,-1,79,152,40,0,271
+778,Dec 13 1993,South Pacific Mini Games in Vanuatu,Vanuatu,Papua New Guinea,1009,1114,1,0,20,-20,1029,1094,179,180,5,-5,184,175,40,100,-5
+779,Dec 14 1993,South Pacific Mini Games in Vanuatu,Tahiti,New Caledonia,1502,1283,2,1,9,-9,1511,1274,73,139,3,-2,76,137,40,0,219
+780,Dec 14 1993,South Pacific Mini Games in Vanuatu,Vanuatu,Fiji,1029,1422,0,2,-9,9,1020,1431,188,92,-2,4,186,96,40,100,-293
+781,Dec 15 1993,Friendly in the United States,Argentina,Germany,1915,2021,2,1,13,-13,1928,2008,8,1,0,0,8,1,20,0,-106
+782,Dec 15 1993,South Asian Games in Bangladesh,Bangladesh,Nepal,1060,843,0,1,-34,34,1026,877,186,191,-3,7,183,198,40,100,317
+783,Dec 15 1993,South Asian Games in Bangladesh,India,Pakistan,1162,862,2,2,-14,14,1148,876,166,196,-2,3,164,199,40,0,300
+784,Dec 16 1993,Friendly in Mexico,Mexico,Brazil,1901,1938,0,1,-12,12,1889,1950,10,4,0,0,10,4,20,100,63
+785,Dec 16 1993,South Pacific Mini Games in Vanuatu,Tahiti,Fiji,1511,1431,3,0,27,-27,1538,1404,66,108,5,-6,71,102,40,0,80
+786,Dec 16 1993,South Pacific Mini Games in Vanuatu,Vanuatu,New Caledonia,1020,1274,1,2,-12,12,1008,1286,192,133,-3,2,189,135,40,100,-154
+787,Dec 18 1993,South Asian Games in Bangladesh,India,Nepal,1148,877,2,2,-13,13,1135,890,168,200,-2,-1,166,199,40,0,271
+788,Dec 18 1993,South Asian Games in Bangladesh,Sri Lanka,Maldives,870,792,3,1,23,-23,893,769,195,207,3,0,198,207,40,0,78
+789,Dec 18 1993,Friendly in the United States,United States,Germany,1625,2008,0,3,-6,6,1619,2014,58,1,-4,0,54,1,20,100,-283
+790,Dec 19 1993,Friendly in Mali,Mali,Ivory Coast,1430,1621,0,1,-7,7,1423,1628,98,46,-1,3,97,49,20,100,-91
+791,Dec 22 1993,Friendly in Mexico,Mexico,Germany,1889,2014,0,0,1,-1,1890,2013,10,1,0,0,10,1,20,100,-25
+792,Dec 29 1993,Friendly in Ghana,Ghana,Egypt,1622,1657,0,0,-2,2,1620,1659,53,37,-1,1,52,38,20,100,65
+793,Dec 31 1993,Friendly in Ghana,Ghana,Tunisia,1620,1641,1,1,-2,2,1618,1643,56,47,-2,0,54,47,20,100,79

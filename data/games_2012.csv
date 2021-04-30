@@ -1,0 +1,1034 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 6 2012,Friendly in Equatorial Guinea,Equatorial Guinea,South Africa,1224,1600,0,0,7,-7,1231,1593,148,61,0,-1,148,60,20,100,-276
+1,Jan 7 2012,Friendly in Botswana,Botswana,Zimbabwe,1419,1366,0,0,-4,4,1415,1370,104,118,0,0,104,118,20,100,153
+2,Jan 9 2012,Friendly in Gabon,Gabon,Burkina Faso,1556,1518,0,0,-4,4,1552,1522,73,80,0,1,73,81,20,100,138
+3,Jan 9 2012,Friendly in the United Arab Emirates,Tunisia,Sudan,1580,1434,3,0,11,-11,1591,1423,58,104,3,-1,61,103,20,0,146
+4,Jan 11 2012,Friendly in Nigeria,Nigeria,Angola,1665,1487,0,0,-7,7,1658,1494,48,90,-1,1,47,91,20,100,278
+5,Jan 11 2012,Friendly in South Africa,South Africa,Zambia,1593,1523,1,1,-5,5,1588,1528,64,78,-2,1,62,79,20,100,170
+6,Jan 12 2012,Friendly in Senegal,Senegal,Sudan,1621,1423,1,0,3,-3,1624,1420,55,103,0,0,55,103,20,100,298
+7,Jan 13 2012,Friendly in the United Arab Emirates,Ivory Coast,Tunisia,1764,1591,2,0,8,-8,1772,1583,21,68,4,-4,25,64,20,0,173
+8,Jan 14 2012,Friendly in Angola,Angola,Sierra Leone,1494,1343,3,1,6,-6,1500,1337,89,127,1,-3,90,124,20,100,251
+9,Jan 14 2012,Friendly in South Africa,Namibia,Zambia,1303,1528,0,0,6,-6,1309,1522,130,81,1,-1,131,80,20,0,-225
+10,Jan 15 2012,Friendly in Oman,Oman,DR Congo,1548,1425,2,2,-6,6,1542,1431,76,102,-1,0,75,102,20,100,223
+11,Jan 15 2012,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Lesotho,1048,1180,1,0,22,-22,1070,1158,177,170,2,-5,179,165,40,100,-32
+12,Jan 15 2012,Friendly in South Africa,South Africa,Ghana,1588,1774,1,1,2,-2,1590,1772,59,24,1,0,60,24,20,100,-86
+13,Jan 16 2012,Friendly in Gabon,Gabon,Sudan,1552,1420,0,0,-6,6,1546,1426,73,103,0,0,73,103,20,100,232
+14,Jan 16 2012,Friendly in the United Arab Emirates,Ivory Coast,Libya,1772,1501,1,0,3,-3,1775,1498,24,94,0,-3,24,91,20,0,271
+15,Jan 17 2012,Friendly in Kuwait,Kuwait,Uzbekistan,1530,1621,1,0,10,-10,1540,1611,74,56,2,0,76,56,20,100,9
+16,Jan 18 2012,Friendly in Qatar,Sweden,Bahrain,1861,1572,2,0,5,-5,1866,1567,11,68,1,0,12,68,20,0,289
+17,Jan 18 2012,King's Cup in Thailand,Thailand,Norway,1388,1755,0,1,-5,5,1383,1760,113,30,-1,0,112,30,30,100,-267
+18,Jan 21 2012,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Libya,1231,1498,1,0,36,-36,1267,1462,132,103,8,-6,140,97,50,100,-167
+19,Jan 21 2012,Friendly in the United States,United States,Venezuela,1715,1714,1,0,7,-7,1722,1707,32,37,2,0,34,37,20,100,101
+20,Jan 21 2012,African Nations Cup in Equatorial Guinea,Zambia,Senegal,1522,1624,2,1,32,-32,1554,1592,66,63,7,-4,73,59,50,0,-102
+21,Jan 22 2012,African Nations Cup in Equatorial Guinea,Angola,Burkina Faso,1500,1522,2,1,27,-27,1527,1495,71,99,9,-9,80,90,50,0,-22
+22,Jan 22 2012,African Nations Cup in Equatorial Guinea,Ivory Coast,Sudan,1775,1426,1,0,6,-6,1781,1420,22,103,1,0,23,103,50,0,349
+23,Jan 22 2012,Friendly in Lebanon,Lebanon,Iraq,1320,1587,1,0,14,-14,1334,1573,121,70,4,-4,125,66,20,100,-167
+24,Jan 22 2012,African Nations Cup qualifier in Lesotho,Lesotho,São Tomé and Príncipe,1158,1070,0,0,-10,10,1148,1080,169,177,-2,1,167,178,40,100,188
+25,Jan 22 2012,Friendly in Trinidad and Tobago,Trinidad and Tobago,Finland,1485,1603,2,3,-9,9,1476,1612,96,53,-2,2,94,55,20,100,-18
+26,Jan 23 2012,African Nations Cup in Gabon,Gabon,Niger,1546,1331,2,0,11,-11,1557,1320,68,131,3,-2,71,129,50,100,315
+27,Jan 23 2012,African Nations Cup in Gabon,Tunisia,Morocco,1583,1566,2,1,24,-24,1607,1542,53,80,5,-5,58,75,50,0,17
+28,Jan 24 2012,African Nations Cup in Gabon,Ghana,Botswana,1772,1415,1,0,6,-6,1778,1409,23,106,1,-1,24,105,50,0,357
+29,Jan 24 2012,African Nations Cup in Gabon,Mali,Guinea,1499,1511,1,0,26,-26,1525,1485,73,98,8,-7,81,91,50,0,-12
+30,Jan 25 2012,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Senegal,1267,1592,2,1,39,-39,1306,1553,126,84,7,-12,133,72,50,100,-225
+31,Jan 25 2012,African Nations Cup in Equatorial Guinea,Libya,Zambia,1462,1554,2,2,6,-6,1468,1548,93,73,2,0,95,73,50,0,-92
+32,Jan 25 2012,Friendly in the United States,Mexico,Venezuela,1865,1707,3,1,9,-9,1874,1698,11,43,1,-3,12,40,20,0,158
+33,Jan 25 2012,Friendly in Panama,Panama,United States,1668,1722,0,1,-11,11,1657,1733,50,34,-3,0,47,34,20,100,46
+34,Jan 26 2012,African Nations Cup in Equatorial Guinea,Angola,Sudan,1527,1420,2,2,-7,7,1520,1427,84,103,-2,0,82,103,50,0,107
+35,Jan 26 2012,African Nations Cup in Equatorial Guinea,Ivory Coast,Burkina Faso,1781,1495,2,0,12,-12,1793,1483,19,93,2,-2,21,91,50,0,286
+36,Jan 27 2012,African Nations Cup in Gabon,Gabon,Morocco,1557,1542,3,2,17,-17,1574,1525,60,83,5,-4,65,79,50,100,115
+37,Jan 27 2012,Friendly in Turkey,Romania,Turkmenistan,1707,1343,4,0,4,-4,1711,1339,37,125,0,-2,37,123,20,0,364
+38,Jan 27 2012,African Nations Cup in Gabon,Tunisia,Niger,1607,1320,2,1,8,-8,1615,1312,52,129,3,0,55,129,50,0,287
+39,Jan 28 2012,African Nations Cup in Gabon,Ghana,Mali,1778,1525,2,0,14,-14,1792,1511,20,91,2,-6,22,85,50,0,253
+40,Jan 28 2012,African Nations Cup in Gabon,Guinea,Botswana,1485,1409,6,1,39,-39,1524,1370,70,129,10,-12,80,117,50,0,76
+41,Jan 29 2012,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Zambia,1306,1548,0,1,-15,15,1291,1563,137,69,-2,2,135,71,50,100,-142
+42,Jan 29 2012,African Nations Cup in Equatorial Guinea,Libya,Senegal,1468,1553,2,1,31,-31,1499,1522,85,90,5,-9,90,81,50,0,-85
+43,Jan 29 2012,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1387,1611,1,0,13,-13,1400,1598,106,59,2,-1,108,58,20,100,-124
+44,Jan 30 2012,African Nations Cup in Equatorial Guinea,Ivory Coast,Angola,1793,1520,2,0,13,-13,1806,1507,15,88,3,-3,18,85,50,0,273
+45,Jan 30 2012,African Nations Cup in Equatorial Guinea,Sudan,Burkina Faso,1427,1483,2,1,29,-29,1456,1454,95,108,4,-8,99,100,50,0,-56
+46,Jan 31 2012,African Nations Cup in Gabon,Gabon,Tunisia,1574,1615,1,0,21,-21,1595,1594,51,63,7,-4,58,59,50,100,59
+47,Jan 31 2012,African Nations Cup in Gabon,Morocco,Niger,1525,1312,1,0,11,-11,1536,1301,74,135,2,-3,76,132,50,0,213
+48,Feb 1 2012,African Nations Cup in Gabon,Ghana,Guinea,1792,1524,1,1,-16,16,1776,1540,28,71,-3,4,25,75,40,100,368
+49,Feb 1 2012,African Nations Cup in Gabon,Mali,Botswana,1511,1370,2,1,15,-15,1526,1355,76,121,4,-2,80,119,50,0,141
+50,Feb 4 2012,African Nations Cup in Equatorial Guinea,Equatorial Guinea,Ivory Coast,1291,1806,0,3,-7,7,1284,1813,139,18,-2,0,137,18,50,100,-415
+51,Feb 4 2012,African Nations Cup in Equatorial Guinea,Zambia,Sudan,1563,1456,3,0,31,-31,1594,1425,47,107,12,-4,59,103,50,0,107
+52,Feb 5 2012,African Nations Cup in Gabon,Gabon,Mali,1595,1526,1,1,-11,11,1584,1537,68,74,-5,3,63,77,50,100,169
+53,Feb 5 2012,African Nations Cup in Gabon,Ghana,Tunisia,1776,1594,2,1,13,-13,1789,1581,19,69,3,-5,22,64,50,0,182
+54,Feb 8 2012,African Nations Cup in Gabon,Ivory Coast,Mali,1813,1537,1,0,8,-8,1821,1529,14,83,2,-3,16,80,50,0,276
+55,Feb 8 2012,African Nations Cup in Equatorial Guinea,Zambia,Ghana,1594,1789,1,0,38,-38,1632,1751,50,40,4,-9,54,31,50,0,-195
+56,Feb 11 2012,African Nations Cup in Equatorial Guinea,Mali,Ghana,1529,1751,2,0,59,-59,1588,1692,44,51,18,-10,62,41,50,0,-222
+57,Feb 12 2012,African Nations Cup in Gabon,Ivory Coast,Zambia,1821,1632,0,0,-12,12,1809,1644,20,50,-2,2,18,52,50,0,189
+58,Feb 15 2012,Friendly in Liberia,Liberia,Nigeria,1255,1658,0,2,-4,4,1251,1662,142,46,0,0,142,46,20,100,-303
+59,Feb 15 2012,Friendly in Paraguay,Paraguay,Chile,1783,1886,2,0,15,-15,1798,1871,19,14,2,-2,21,12,20,100,-3
+60,Feb 17 2012,Friendly in China,Kuwait,North Korea,1540,1503,1,1,-1,1,1539,1504,78,86,-1,0,77,86,20,0,37
+61,Feb 19 2012,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Guyana,1141,1372,1,0,14,-14,1155,1358,160,118,5,-1,165,117,20,100,-131
+62,Feb 22 2012,Friendly in China,China,Kuwait,1610,1539,2,0,8,-8,1618,1531,55,81,1,-2,56,79,20,100,171
+63,Feb 22 2012,Friendly in Grenada,Grenada,Guyana,1174,1358,1,2,-8,8,1166,1366,162,117,0,0,162,117,20,100,-84
+64,Feb 22 2012,Friendly in Jamaica,Jamaica,Cuba,1640,1395,1,0,2,-2,1642,1393,53,110,0,0,53,110,20,100,345
+65,Feb 22 2012,Friendly in Namibia,Namibia,Mozambique,1309,1350,3,0,15,-15,1324,1335,126,128,2,-4,128,124,20,100,59
+66,Feb 22 2012,Friendly in Paraguay,Paraguay,Guatemala,1798,1512,2,1,2,-2,1800,1510,21,84,0,0,21,84,20,100,386
+67,Feb 23 2012,Friendly in the United Arab Emirates,Iran,Jordan,1744,1565,2,2,-5,5,1739,1570,32,68,0,2,32,70,20,0,179
+68,Feb 23 2012,Friendly in Oman,Oman,India,1542,1207,5,1,3,-3,1545,1204,73,155,1,-1,74,154,20,100,435
+69,Feb 23 2012,Friendly in Tanzania,Tanzania,DR Congo,1261,1431,0,0,2,-2,1263,1429,141,102,0,0,141,102,20,100,-70
+70,Feb 24 2012,Friendly in the United Arab Emirates,Azerbaijan,Singapore,1406,1274,2,2,-4,4,1402,1278,110,138,-2,0,108,138,20,0,132
+71,Feb 24 2012,Friendly in Jamaica,Jamaica,Cuba,1642,1393,3,0,4,-4,1646,1389,51,110,1,0,52,110,20,100,349
+72,Feb 24 2012,Friendly in Japan,Japan,Iceland,1802,1441,3,1,2,-2,1804,1439,18,101,1,0,19,101,20,100,461
+73,Feb 24 2012,Friendly in Nicaragua,Nicaragua,Puerto Rico,1118,1076,1,0,6,-6,1124,1070,174,179,0,0,174,179,20,100,142
+74,Feb 24 2012,Friendly in Thailand,Thailand,Maldives,1383,1110,3,0,4,-4,1387,1106,111,175,0,0,111,175,20,100,373
+75,Feb 24 2012,Friendly in the United Arab Emirates,United Arab Emirates,Palestine,1400,1179,3,0,5,-5,1405,1174,104,162,2,-1,106,161,20,100,321
+76,Feb 25 2012,Friendly in South Korea,South Korea,Uzbekistan,1769,1598,4,2,5,-5,1774,1593,25,60,0,-1,25,59,20,100,271
+77,Feb 26 2012,Friendly in Nicaragua,Nicaragua,Puerto Rico,1124,1070,4,1,10,-10,1134,1060,168,181,3,-1,171,180,20,100,154
+78,Feb 27 2012,Friendly in the United Arab Emirates,Azerbaijan,India,1402,1204,3,0,8,-8,1410,1196,102,160,3,-3,105,157,20,0,198
+79,Feb 28 2012,Friendly in Switzerland,Brazil,Bosnia and Herzegovina,2065,1694,2,1,2,-2,2067,1692,4,40,0,0,4,40,20,0,371
+80,Feb 28 2012,Friendly in Cyprus,Serbia,Armenia,1721,1531,2,0,8,-8,1729,1523,34,83,0,-2,34,81,20,0,190
+81,Feb 29 2012,Friendly in Antigua and Barbuda,Antigua and Barbuda,Trinidad and Tobago,1311,1476,0,4,-15,15,1296,1491,138,90,-4,2,134,92,20,100,-65
+82,Feb 29 2012,Friendly in Cyprus,Armenia,Canada,1523,1594,3,1,18,-18,1541,1576,75,78,3,-10,78,68,20,0,-71
+83,Feb 29 2012,World Cup qualifier in Australia,Australia,Saudi Arabia,1818,1557,4,2,7,-7,1825,1550,16,75,0,-1,16,74,40,100,361
+84,Feb 29 2012,Friendly in Austria,Austria,Finland,1578,1612,3,1,12,-12,1590,1600,53,59,7,-1,60,58,20,100,66
+85,Feb 29 2012,World Cup qualifier in Bahrain,Bahrain,Indonesia,1567,1269,10,0,10,-10,1577,1259,63,146,4,-3,67,143,40,100,398
+86,Feb 29 2012,Friendly in Turkey,Belarus,Moldova,1590,1408,0,0,-5,5,1585,1413,68,108,-4,-1,64,107,20,0,182
+87,Feb 29 2012,Friendly in Bolivia,Bolivia,Cuba,1535,1389,1,0,4,-4,1539,1385,80,110,-1,0,79,110,20,100,246
+88,Feb 29 2012,African Nations Cup qualifier in Burundi,Burundi,Zimbabwe,1249,1370,2,1,21,-21,1270,1349,134,122,5,-3,139,119,40,100,-21
+89,Feb 29 2012,African Nations Cup qualifier in Chad,Chad,Malawi,1220,1404,3,2,25,-25,1245,1379,142,116,4,-4,146,112,40,100,-84
+90,Feb 29 2012,Friendly in the United States,Chile,Ghana,1871,1692,1,1,-5,5,1866,1697,12,38,0,1,12,39,20,0,179
+91,Feb 29 2012,World Cup qualifier in China,China,Jordan,1618,1570,3,1,18,-18,1636,1552,52,76,2,-3,54,73,40,100,148
+92,Feb 29 2012,Friendly in the United States,Colombia,Mexico,1768,1874,2,0,19,-19,1787,1855,18,17,4,-3,22,14,20,0,-106
+93,Feb 29 2012,African Nations Cup qualifier in Congo,Congo,Uganda,1357,1545,3,1,37,-37,1394,1508,98,96,10,-11,108,85,40,100,-88
+94,Feb 29 2012,Friendly in Croatia,Croatia,Sweden,1891,1866,1,3,-20,20,1871,1886,11,5,-1,4,10,9,20,100,125
+95,Feb 29 2012,Friendly in Cyprus,Cyprus,Serbia,1465,1729,0,0,4,-4,1469,1725,95,32,0,1,95,33,20,100,-164
+96,Feb 29 2012,Friendly in Denmark,Denmark,Russia,1831,1817,0,2,-20,20,1811,1837,19,13,-2,2,17,15,20,100,114
+97,Feb 29 2012,Friendly in Ecuador,Ecuador,Honduras,1778,1653,2,0,6,-6,1784,1647,22,54,1,-3,23,51,20,100,225
+98,Feb 29 2012,Friendly in Qatar,Egypt,Niger,1720,1301,1,0,2,-2,1722,1299,35,132,0,0,35,132,20,0,419
+99,Feb 29 2012,Friendly in England,England,Netherlands,1955,2068,2,3,-10,10,1945,2078,6,1,0,1,6,2,20,100,-13
+100,Feb 29 2012,Friendly in the United States,Estonia,El Salvador,1524,1587,2,0,18,-18,1542,1569,74,77,3,-7,77,70,20,0,-63
+101,Feb 29 2012,African Nations Cup qualifier in Ethiopia,Ethiopia,Benin,1290,1381,0,0,-1,1,1289,1382,135,110,0,1,135,111,40,100,9
+102,Feb 29 2012,African Nations Cup qualifier in The Gambia,Gambia,Algeria,1377,1482,1,2,-20,20,1357,1502,117,83,-1,5,116,88,40,100,-5
+103,Feb 29 2012,Friendly in Georgia,Georgia,Albania,1494,1483,2,1,7,-7,1501,1476,87,96,2,-2,89,94,20,100,111
+104,Feb 29 2012,Friendly in Germany,Germany,France,2082,1839,1,2,-18,18,2064,1857,6,12,-2,1,4,13,20,100,343
+105,Feb 29 2012,Friendly in Greece,Greece,Belgium,1784,1683,1,1,-5,5,1779,1688,27,42,-2,0,25,42,20,100,201
+106,Feb 29 2012,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Cameroon,1233,1653,0,1,-5,5,1228,1658,148,42,0,3,148,45,40,100,-320
+107,Feb 29 2012,Friendly in Guyana,Guyana,Guatemala,1366,1510,0,2,-13,13,1353,1523,119,80,-1,2,118,82,20,100,-44
+108,Feb 29 2012,Friendly in Hong Kong,Hong Kong,Taiwan,1197,904,5,1,4,-4,1201,900,154,198,1,0,155,198,20,100,393
+109,Feb 29 2012,Friendly in Hungary,Hungary,Bulgaria,1676,1629,1,1,-4,4,1672,1633,45,57,-1,-1,44,56,20,100,147
+110,Feb 29 2012,World Cup qualifier in Iran,Iran,Qatar,1739,1501,2,2,-15,15,1724,1516,36,77,-2,6,34,83,40,100,338
+111,Feb 29 2012,World Cup qualifier in Qatar,Iraq,Singapore,1573,1278,7,1,13,-13,1586,1265,56,144,6,-3,62,141,40,0,295
+112,Feb 29 2012,Friendly in Ireland,Ireland,Czechia,1803,1795,1,1,-3,3,1800,1798,20,20,0,1,20,21,20,100,108
+113,Feb 29 2012,Friendly in Israel,Israel,Ukraine,1668,1767,2,3,-10,10,1658,1777,46,24,-1,2,45,26,20,100,1
+114,Feb 29 2012,Friendly in Italy,Italy,United States,1886,1733,0,1,-16,16,1870,1749,12,29,-1,2,11,31,20,100,253
+115,Feb 29 2012,Friendly in Ivory Coast,Ivory Coast,Guinea,1809,1540,0,0,-8,8,1801,1548,20,74,-1,1,19,75,20,100,369
+116,Feb 29 2012,World Cup qualifier in Japan,Japan,Uzbekistan,1804,1593,0,1,-34,34,1770,1627,35,55,-8,2,27,57,40,100,311
+117,Feb 29 2012,Friendly in Turkey,Kazakhstan,Latvia,1341,1520,0,0,5,-5,1346,1515,119,85,1,-1,120,84,20,0,-179
+118,Feb 29 2012,African Nations Cup qualifier in Kenya,Kenya,Togo,1321,1381,2,1,18,-18,1339,1363,115,118,7,-3,122,115,30,0,-60
+119,Feb 29 2012,African Nations Cup qualifier in Liberia,Liberia,Namibia,1251,1324,1,0,18,-18,1269,1306,138,132,2,-2,140,130,30,0,-73
+120,Feb 29 2012,Friendly in Luxembourg,Luxembourg,Macedonia,1150,1502,2,1,16,-16,1166,1486,157,98,5,-5,162,93,20,100,-252
+121,Feb 29 2012,African Nations Cup qualifier in Madagascar,Madagascar,Cape Verde,1199,1397,0,4,-27,27,1172,1424,167,99,-6,5,161,104,40,100,-98
+122,Feb 29 2012,Friendly in Malta,Malta,Liechtenstein,1212,1235,2,1,8,-8,1220,1227,151,151,0,-2,151,149,20,100,77
+123,Feb 29 2012,Friendly in Montenegro,Montenegro,Iceland,1640,1439,2,1,3,-3,1643,1436,52,103,1,-1,53,102,20,100,301
+124,Feb 29 2012,Friendly in Morocco,Morocco,Burkina Faso,1536,1454,2,0,8,-8,1544,1446,75,101,1,-1,76,100,20,100,182
+125,Feb 29 2012,Friendly in New Zealand,New Zealand,Jamaica,1567,1646,2,3,-11,11,1556,1657,71,42,0,5,71,47,20,100,21
+126,Feb 29 2012,Friendly in Northern Ireland,Northern Ireland,Norway,1458,1760,0,3,-8,8,1450,1768,100,27,-1,1,99,28,20,100,-202
+127,Feb 29 2012,World Cup qualifier in Oman,Oman,Thailand,1545,1387,2,0,11,-11,1556,1376,68,117,3,-3,71,114,40,100,258
+128,Feb 29 2012,Friendly in the United Arab Emirates,Palestine,Azerbaijan,1174,1410,2,0,24,-24,1198,1386,151,113,5,-4,156,109,20,0,-236
+129,Feb 29 2012,Friendly in Paraguay,Paraguay,Panama,1800,1657,1,0,4,-4,1804,1653,15,51,3,-2,18,49,20,100,243
+130,Feb 29 2012,Friendly in the Philippines,Philippines,Malaysia,1028,1207,1,1,2,-2,1030,1205,182,153,0,0,182,153,20,100,-79
+131,Feb 29 2012,Friendly in Poland,Poland,Portugal,1707,1900,0,0,3,-3,1710,1897,37,8,0,0,37,8,20,100,-93
+132,Feb 29 2012,Friendly in Romania,Romania,Uruguay,1711,1993,1,1,5,-5,1716,1988,36,5,0,0,36,5,20,100,-182
+133,Feb 29 2012,African Nations Cup qualifier in Rwanda,Rwanda,Nigeria,1460,1662,0,0,6,-6,1466,1656,95,50,1,-2,96,48,40,100,-102
+134,Feb 29 2012,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Sierra Leone,1080,1337,2,1,28,-28,1108,1309,172,133,3,-5,175,128,40,100,-157
+135,Feb 29 2012,African Nations Cup qualifier in the Seychelles,Seychelles,DR Congo,1026,1429,0,4,-11,11,1015,1440,187,100,-2,1,185,101,40,100,-303
+136,Feb 29 2012,Friendly in Slovenia,Slovenia,Scotland,1653,1704,1,1,-1,1,1652,1705,52,38,-2,0,50,38,20,100,49
+137,Feb 29 2012,Friendly in South Africa,South Africa,Senegal,1590,1522,0,0,-4,4,1586,1526,64,78,-2,2,62,80,20,100,168
+138,Feb 29 2012,World Cup qualifier in South Korea,South Korea,Kuwait,1774,1531,2,0,7,-7,1781,1524,23,83,1,-2,24,81,40,100,343
+139,Feb 29 2012,Friendly in Spain,Spain,Venezuela,2117,1698,5,0,2,-2,2119,1696,1,41,0,-1,1,40,20,100,519
+140,Feb 29 2012,Friendly in Switzerland,Switzerland,Argentina,1768,1915,1,3,-13,13,1755,1928,32,7,-3,0,29,7,20,100,-47
+141,Feb 29 2012,World Cup qualifier in Tajikistan,Tajikistan,North Korea,1239,1504,1,1,9,-9,1248,1495,145,96,0,-5,145,91,40,100,-165
+142,Feb 29 2012,African Nations Cup qualifier in Tanzania,Tanzania,Mozambique,1263,1335,1,1,-2,2,1261,1337,143,124,-1,0,142,124,40,100,28
+143,Feb 29 2012,Friendly in Tunisia,Tunisia,Peru,1581,1753,1,1,2,-2,1583,1751,67,30,-1,0,66,30,20,100,-72
+144,Feb 29 2012,Friendly in Turkey,Turkey,Slovakia,1745,1580,1,2,-16,16,1729,1596,33,52,-1,7,32,59,20,100,265
+145,Feb 29 2012,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Lebanon,1405,1334,4,2,16,-16,1421,1318,103,129,2,-2,105,127,40,100,171
+146,Feb 29 2012,Friendly in Wales,Wales,Costa Rica,1648,1664,0,1,-12,12,1636,1676,57,41,-3,2,54,43,20,100,84
+147,Mar 2 2012,Friendly in Qatar,DR Congo,Egypt,1440,1722,0,0,7,-7,1447,1715,99,37,1,-1,100,36,20,0,-282
+148,Mar 3 2012,Friendly in Martinique,Martinique,Guadeloupe,1342,1464,1,2,-9,9,1333,1473,127,93,-3,2,124,95,20,100,-22
+149,Mar 3 2012,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1194,1296,1,0,10,-10,1204,1286,150,136,4,-1,154,135,20,100,-2
+150,Mar 8 2012,Asian Cup q & Asian Chlg Cup in Nepal,Nepal,Palestine,963,1198,0,2,-19,19,944,1217,192,147,-1,5,191,152,40,100,-135
+151,Mar 8 2012,Asian Cup q & Asian Chlg Cup in Nepal,Turkmenistan,Maldives,1339,1106,3,1,12,-12,1351,1094,117,178,2,-1,119,177,40,0,233
+152,Mar 9 2012,Asian Cup q & Asian Chlg Cup in Nepal,North Korea,Philippines,1495,1030,2,0,4,-4,1499,1026,89,182,1,0,90,182,40,0,465
+153,Mar 9 2012,Asian Cup q & Asian Chlg Cup in Nepal,Tajikistan,India,1248,1196,2,0,26,-26,1274,1170,131,164,7,-3,138,161,40,0,52
+154,Mar 10 2012,Asian Cup q & Asian Chlg Cup in Nepal,Nepal,Maldives,944,1094,0,1,-17,17,927,1111,199,173,-4,2,195,175,40,100,-50
+155,Mar 10 2012,Asian Cup q & Asian Chlg Cup in Nepal,Palestine,Turkmenistan,1217,1351,0,0,7,-7,1224,1344,148,123,2,-2,150,121,40,0,-134
+156,Mar 11 2012,Asian Cup q & Asian Chlg Cup in Nepal,North Korea,Tajikistan,1499,1274,2,0,13,-13,1512,1261,80,146,5,-4,85,142,40,0,225
+157,Mar 11 2012,Asian Cup q & Asian Chlg Cup in Nepal,Philippines,India,1026,1170,2,0,42,-42,1068,1128,176,183,3,-11,179,172,40,0,-144
+158,Mar 12 2012,Asian Cup q & Asian Chlg Cup in Nepal,Nepal,Turkmenistan,927,1344,0,3,-10,10,917,1354,195,115,0,3,195,118,40,100,-317
+159,Mar 12 2012,Asian Cup q & Asian Chlg Cup in Nepal,Palestine,Maldives,1224,1111,2,0,21,-21,1245,1090,142,179,4,-2,146,177,40,0,113
+160,Mar 13 2012,Asian Cup q & Asian Chlg Cup in Nepal,North Korea,India,1512,1128,4,0,7,-7,1519,1121,81,176,2,-2,83,174,40,0,384
+161,Mar 13 2012,Asian Cup q & Asian Chlg Cup in Nepal,Philippines,Tajikistan,1068,1261,2,1,30,-30,1098,1231,175,154,2,-6,177,148,40,0,-193
+162,Mar 16 2012,Asian Cup q & Asian Chlg Cup in Nepal,North Korea,Palestine,1519,1245,2,0,10,-10,1529,1235,77,149,3,-2,80,147,40,0,274
+163,Mar 16 2012,Asian Cup q & Asian Chlg Cup in Nepal,Turkmenistan,Philippines,1354,1098,2,1,7,-7,1361,1091,114,177,2,0,116,177,40,0,256
+164,Mar 19 2012,Asian Cup q & Asian Chlg Cup in Nepal,North Korea,Turkmenistan,1529,1361,2,1,11,-11,1540,1350,78,122,1,-3,79,119,40,0,168
+165,Mar 19 2012,Asian Cup q & Asian Chlg Cup in Nepal,Philippines,Palestine,1091,1235,4,3,28,-28,1119,1207,173,159,2,-6,175,153,40,0,-144
+166,Mar 21 2012,Pacific Cup in Chile,Chile,Peru,1866,1751,3,1,10,-10,1876,1741,8,32,2,-1,10,31,20,0,115
+167,Mar 21 2012,Friendly in French Guiana,French Guiana,Guyana,1189,1353,1,0,12,-12,1201,1341,156,124,1,-3,157,121,20,100,-64
+168,Mar 21 2012,Friendly in Jamaica,Jamaica,Costa Rica,1657,1676,0,0,-2,2,1655,1678,49,43,-1,0,48,43,20,100,81
+169,Mar 22 2012,Friendly in French Guiana,French Guiana,Guyana,1201,1341,0,2,-13,13,1188,1354,159,115,-1,3,158,118,20,100,-40
+170,Mar 29 2012,Friendly in Sudan,Egypt,Uganda,1715,1508,2,1,5,-5,1720,1503,34,88,1,-1,35,87,20,0,207
+171,Mar 30 2012,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Antigua and Barbuda,1155,1286,1,0,11,-11,1166,1275,157,139,4,-2,161,137,20,100,-31
+172,Mar 31 2012,Friendly in Sudan,Egypt,Chad,1720,1245,4,0,2,-2,1722,1243,35,145,0,0,35,145,20,0,475
+173,Apr 1 2012,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Antigua and Barbuda,1166,1275,1,2,-10,10,1156,1285,169,133,-4,2,165,135,20,100,-9
+174,Apr 7 2012,Friendly in Guadeloupe,Guadeloupe,Martinique,1473,1333,0,1,-16,16,1457,1349,99,116,-2,4,97,120,20,100,240
+175,Apr 11 2012,Friendly in Costa Rica,Costa Rica,Honduras,1678,1647,1,1,-4,4,1674,1651,43,51,0,0,43,51,20,100,131
+176,Apr 11 2012,Pacific Cup in Peru,Peru,Chile,1741,1876,0,3,-24,24,1717,1900,39,6,-4,2,35,8,30,100,-35
+177,Apr 12 2012,Friendly in the United Arab Emirates,Egypt,Nigeria,1722,1656,3,2,8,-8,1730,1648,28,55,3,-4,31,51,20,0,66
+178,Apr 15 2012,Friendly in the United Arab Emirates,Egypt,Mauritania,1730,1147,3,0,1,-1,1731,1146,31,168,0,0,31,168,20,0,583
+179,Apr 17 2012,Friendly in the United Arab Emirates,Egypt,Iraq,1731,1586,0,0,-4,4,1727,1590,33,58,-1,2,32,60,20,0,145
+180,Apr 18 2012,Friendly in Iran,Iran,Mauritania,1724,1146,2,0,1,-1,1725,1145,32,168,1,0,33,168,20,0,578
+181,Apr 25 2012,Friendly in Guatemala,Guatemala,Paraguay,1523,1804,0,1,-5,5,1518,1809,83,18,0,0,83,18,20,100,-181
+182,Apr 28 2012,Friendly in Malaysia,Malaysia,Sri Lanka,1205,860,6,0,3,-3,1208,857,152,204,1,0,153,204,20,100,445
+183,May 2 2012,Friendly in Iran,Iran,Mozambique,1725,1337,3,0,2,-2,1727,1335,31,124,1,0,32,124,20,100,488
+184,May 2 2012,Friendly in Martinique,Martinique,Guyana,1349,1354,2,2,-3,3,1346,1357,122,114,-1,2,121,116,20,100,95
+185,May 4 2012,Friendly in Guadeloupe,Guadeloupe,Guyana,1457,1357,1,2,-15,15,1442,1372,105,114,-4,1,101,115,20,100,200
+186,May 7 2012,Friendly in Egypt,Egypt,Libya,1727,1499,4,0,5,-5,1732,1494,30,91,1,0,31,91,20,100,328
+187,May 11 2012,Friendly in Lebanon,Lebanon,Egypt,1318,1732,1,4,-5,5,1313,1737,127,31,0,0,127,31,20,100,-314
+188,May 15 2012,Friendly tournament in Palestine,Kurdistan,Mauritania,1400,1145,3,1,8,-8,1408,1137,108,170,0,0,108,170,30,0,255
+189,May 16 2012,Friendly in Angola,Angola,Zambia,1507,1644,0,0,1,-1,1508,1643,86,52,0,0,86,52,20,100,-37
+190,May 17 2012,Friendly tournament in Palestine,Indonesia,Mauritania,1259,1137,2,0,15,-15,1274,1122,134,178,5,-4,139,174,30,0,122
+191,May 18 2012,Friendly in Jamaica,Jamaica,Guyana,1655,1372,1,0,2,-2,1657,1370,47,116,0,0,47,116,20,100,383
+192,May 18 2012,Friendly in Lebanon,Lebanon,Jordan,1313,1552,1,2,-6,6,1307,1558,132,69,-2,2,130,71,20,100,-139
+193,May 19 2012,Friendly tournament in Palestine,Indonesia,Kurdistan,1274,1408,1,1,6,-6,1280,1402,139,108,0,0,139,108,30,0,-134
+194,May 20 2012,Friendly in Sudan,Egypt,Cameroon,1737,1658,2,1,8,-8,1745,1650,31,55,0,-5,31,50,20,0,79
+195,May 20 2012,Friendly in Panama,Panama,Guyana,1653,1370,2,0,3,-3,1656,1367,46,116,1,0,47,116,20,100,383
+196,May 22 2012,Friendly in Spain,Albania,Qatar,1476,1516,2,1,11,-11,1487,1505,92,88,1,-2,93,86,20,0,-40
+197,May 22 2012,Friendly in Sudan,Egypt,Togo,1745,1363,3,0,3,-3,1748,1360,31,117,0,0,31,117,20,0,382
+198,May 22 2012,Friendly tournament in Palestine,Palestine,Indonesia,1207,1280,2,1,14,-14,1221,1266,149,145,3,-3,152,142,30,100,27
+199,May 22 2012,Friendly in Austria,Poland,Latvia,1710,1515,1,0,5,-5,1715,1510,37,83,0,1,37,84,20,0,195
+200,May 23 2012,Friendly in Botswana,Botswana,Lesotho,1355,1148,3,0,5,-5,1360,1143,115,168,2,0,117,168,20,100,307
+201,May 23 2012,Friendly in the United States,El Salvador,New Zealand,1569,1556,2,2,0,0,1569,1556,70,72,0,0,70,72,20,0,13
+202,May 23 2012,Friendly in Turkey,Iraq,Sierra Leone,1590,1309,1,0,3,-3,1593,1306,60,132,0,-2,60,130,20,0,281
+203,May 23 2012,Friendly in Japan,Japan,Azerbaijan,1770,1386,2,0,2,-2,1772,1384,27,112,0,-1,27,111,20,100,484
+204,May 23 2012,Friendly in Tunisia,Libya,Rwanda,1494,1466,2,0,14,-14,1508,1452,79,98,6,-1,85,97,20,0,28
+205,May 23 2012,Friendly in Peru,Peru,Nigeria,1717,1648,1,0,5,-5,1722,1643,35,51,0,0,35,51,20,100,169
+206,May 23 2012,Friendly in Venezuela,Venezuela,Moldova,1696,1413,4,0,4,-4,1700,1409,38,107,1,0,39,107,20,100,383
+207,May 24 2012,Friendly in Austria,Turkey,Georgia,1729,1501,3,1,6,-6,1735,1495,32,91,0,0,32,91,20,0,228
+208,May 25 2012,Friendly in Belgium,Belgium,Montenegro,1688,1643,2,2,-4,4,1684,1647,42,51,0,0,42,51,20,100,145
+209,May 25 2012,Friendly in Costa Rica,Costa Rica,Guatemala,1674,1518,3,2,4,-4,1678,1514,43,83,0,0,43,83,20,100,256
+210,May 25 2012,Friendly in Croatia,Croatia,Estonia,1871,1542,3,1,2,-2,1873,1540,11,77,0,0,11,77,20,100,429
+211,May 25 2012,Friendly in Morocco,Morocco,Senegal,1544,1526,0,1,-13,13,1531,1539,86,77,-5,2,81,79,20,100,118
+212,May 25 2012,Friendly in Russia,Russia,Uruguay,1837,1988,1,1,1,-1,1838,1987,15,5,0,0,15,5,20,100,-51
+213,May 26 2012,Friendly in Algeria,Algeria,Niger,1502,1299,3,0,5,-5,1507,1294,84,135,3,-1,87,134,20,100,303
+214,May 26 2012,Friendly in Germany,Brazil,Denmark,2067,1811,3,1,6,-6,2073,1805,1,19,1,-1,2,18,20,0,256
+215,May 26 2012,Friendly in Burkina Faso,Burkina Faso,Benin,1446,1382,2,2,-4,4,1442,1386,100,108,0,2,100,110,20,100,164
+216,May 26 2012,Friendly in France,Cameroon,Guinea,1650,1548,2,1,7,-7,1657,1541,40,75,5,0,45,75,20,0,102
+217,May 26 2012,Friendly in Austria,Czechia,Israel,1798,1658,2,1,6,-6,1804,1652,19,53,1,-4,20,49,20,0,140
+218,May 26 2012,Friendly in the United States,El Salvador,Moldova,1569,1409,2,0,9,-9,1578,1400,64,109,3,-1,67,108,20,0,160
+219,May 26 2012,Friendly in Austria,Finland,Turkey,1600,1735,3,2,14,-14,1614,1721,58,40,0,-4,58,36,20,0,-135
+220,May 26 2012,Friendly in Austria,Greece,Slovenia,1779,1652,1,1,-4,4,1775,1656,29,46,-2,1,27,47,20,0,127
+221,May 26 2012,Friendly in Ireland,Ireland,Bosnia and Herzegovina,1800,1692,1,0,5,-5,1805,1687,16,41,2,0,18,41,20,100,208
+222,May 26 2012,Friendly in Jordan,Jordan,Sierra Leone,1558,1306,4,0,4,-4,1562,1302,73,132,-1,-1,72,131,20,100,352
+223,May 26 2012,Friendly in Germany,Mozambique,Namibia,1335,1306,0,0,-1,1,1334,1307,125,128,0,1,125,129,20,0,29
+224,May 26 2012,Friendly in the Netherlands,Netherlands,Bulgaria,2078,1633,1,2,-19,19,2059,1652,4,42,-1,7,3,49,20,0,445
+225,May 26 2012,Friendly in the United States,New Zealand,Honduras,1556,1651,1,0,13,-13,1569,1638,70,59,1,-5,71,54,20,0,-95
+226,May 26 2012,Friendly in Norway,Norway,England,1768,1945,0,1,-8,8,1760,1953,30,6,-1,0,29,6,20,100,-77
+227,May 26 2012,Friendly in Austria,Poland,Slovakia,1715,1596,1,0,7,-7,1722,1589,29,63,4,-2,33,61,20,0,119
+228,May 26 2012,Friendly in Portugal,Portugal,Macedonia,1897,1486,0,0,-9,9,1888,1495,9,88,0,3,9,91,20,100,511
+229,May 26 2012,Friendly in Switzerland,Spain,Serbia,2119,1725,2,0,3,-3,2122,1722,1,32,0,1,1,33,20,0,394
+230,May 26 2012,Friendly in Switzerland,Switzerland,Germany,1755,2064,5,3,23,-23,1778,2041,21,4,4,0,25,4,20,100,-209
+231,May 26 2012,Friendly in Tanzania,Tanzania,Malawi,1261,1379,0,0,1,-1,1262,1378,144,115,0,-1,144,114,20,100,-18
+232,May 26 2012,Friendly in the United States,United States,Scotland,1749,1705,5,1,11,-11,1760,1694,28,42,1,-2,29,40,20,100,144
+233,May 27 2012,Friendly in Turkey,Albania,Iran,1487,1727,1,0,16,-16,1503,1711,84,42,5,-5,89,37,20,0,-240
+234,May 27 2012,Friendly in France,France,Iceland,1857,1436,3,2,1,-1,1858,1435,15,102,-1,0,14,102,20,100,521
+235,May 27 2012,Friendly in France,Ivory Coast,Mali,1801,1588,2,1,5,-5,1806,1583,15,70,3,-4,18,66,20,0,213
+236,May 27 2012,Friendly in Jamaica,Jamaica,Panama,1657,1656,0,1,-13,13,1644,1669,57,43,-6,2,51,45,20,100,101
+237,May 27 2012,Friendly in Tunisia,Libya,Chad,1508,1243,1,0,4,-4,1512,1239,83,146,1,0,84,146,20,0,265
+238,May 27 2012,Friendly in the United States,Mexico,Wales,1855,1636,2,0,7,-7,1862,1629,12,57,1,-1,13,56,20,0,219
+239,May 27 2012,Friendly in Oman,Oman,Lebanon,1556,1307,1,1,-8,8,1548,1315,75,127,-1,1,74,128,20,100,349
+240,May 27 2012,Friendly in Tunisia,Tunisia,Rwanda,1583,1452,5,1,8,-8,1591,1444,54,101,6,-2,60,99,20,100,231
+241,May 28 2012,Friendly in Turkey,Botswana,Iraq,1360,1593,1,1,6,-6,1366,1587,115,65,1,-3,116,62,20,0,-233
+242,May 28 2012,Friendly in Colombia,Colombia,Guyana,1787,1367,7,1,2,-2,1789,1365,22,118,0,-1,22,117,20,100,520
+243,May 28 2012,Friendly in Qatar,Qatar,Palestine,1505,1221,0,0,-8,8,1497,1229,94,146,-3,3,91,149,20,100,384
+244,May 28 2012,Friendly in Austria,Ukraine,Estonia,1777,1540,4,0,8,-8,1785,1532,20,83,3,-3,23,80,20,0,237
+245,May 28 2012,Friendly in Zanzibar,Zanzibar,Malawi,1328,1378,1,1,-1,1,1327,1379,127,112,0,1,127,113,20,100,50
+246,May 29 2012,Friendly in Portugal,Angola,Macedonia,1508,1495,0,0,0,0,1508,1495,88,92,-1,0,87,92,20,0,13
+247,May 29 2012,Friendly in Switzerland,Lithuania,Russia,1503,1838,0,0,7,-7,1510,1831,82,15,3,0,85,15,20,0,-335
+248,May 29 2012,Friendly in Austria,Turkey,Bulgaria,1721,1652,2,0,12,-12,1733,1640,29,58,3,-5,32,53,20,0,69
+249,May 30 2012,Friendly in Germany,Andorra,Azerbaijan,998,1384,0,0,8,-8,1006,1376,188,116,0,-2,188,114,20,0,-386
+250,May 30 2012,Friendly in Tunisia,Chad,Rwanda,1239,1444,1,1,5,-5,1244,1439,146,103,0,-2,146,101,20,0,-205
+251,May 30 2012,Friendly in the Netherlands,Netherlands,Slovakia,2059,1589,2,0,1,-1,2060,1588,3,61,0,0,3,61,20,100,570
+252,May 30 2012,Friendly in Switzerland,Spain,South Korea,2122,1781,4,1,4,-4,2126,1777,1,25,0,0,1,25,20,0,341
+253,May 30 2012,Friendly in Sweden,Sweden,Iceland,1886,1435,3,2,1,-1,1887,1434,10,102,0,0,10,102,20,0,451
+254,May 30 2012,Friendly in Switzerland,Switzerland,Romania,1778,1716,0,1,-14,14,1764,1730,30,30,-2,3,28,33,20,100,162
+255,May 30 2012,Friendly in the United States,United States,Brazil,1760,2073,1,4,-8,8,1752,2081,31,2,-1,0,30,2,20,100,-213
+256,May 31 2012,Friendly in France,France,Serbia,1858,1722,2,0,6,-6,1864,1716,14,38,0,-2,14,36,20,100,236
+257,May 31 2012,Friendly in Germany,Germany,Israel,2041,1652,2,0,2,-2,2043,1650,4,48,0,0,4,48,20,100,489
+258,May 31 2012,Friendly in Austria,Greece,Armenia,1775,1541,1,0,4,-4,1779,1537,24,83,1,-4,25,79,20,0,234
+259,May 31 2012,Friendly in the United States,Mexico,Bosnia and Herzegovina,1862,1687,2,1,5,-5,1867,1682,13,43,0,-1,13,42,20,0,175
+260,Jun 1 2012,Friendly in Austria,Austria,Ukraine,1590,1785,3,2,13,-13,1603,1772,58,29,1,-3,59,26,20,100,-95
+261,Jun 1 2012,Friendly in Czechia,Czechia,Hungary,1804,1672,1,2,-16,16,1788,1688,23,38,-1,3,22,41,20,100,232
+262,Jun 1 2012,World Cup qualifier in Egypt,Egypt,Mozambique,1748,1334,2,0,3,-3,1751,1331,31,129,0,-2,31,127,20,0,414
+263,Jun 1 2012,Baltic Cup in Estonia,Estonia,Finland,1532,1614,1,2,-16,16,1516,1630,88,54,-4,2,84,56,30,100,18
+264,Jun 1 2012,World Cup qualifier in Ghana,Ghana,Lesotho,1697,1143,7,0,2,-2,1699,1141,39,170,0,-1,39,169,20,0,554
+265,Jun 1 2012,Friendly in Guatemala,Guatemala,Costa Rica,1514,1678,1,0,12,-12,1526,1666,81,47,1,-2,82,45,20,100,-64
+266,Jun 1 2012,Friendly in Hong Kong,Hong Kong,Singapore,1201,1265,1,0,9,-9,1210,1256,150,145,4,-1,154,144,20,100,36
+267,Jun 1 2012,Friendly in Kazakhstan,Kazakhstan,Kyrgyzstan,1346,1128,5,2,5,-5,1351,1123,118,174,2,-1,120,173,20,100,318
+268,Jun 1 2012,Baltic Cup in Estonia,Latvia,Lithuania,1510,1510,5,0,30,-30,1540,1480,67,103,9,-9,76,94,30,0,0
+269,Jun 1 2012,Friendly in Malaysia,Malaysia,Philippines,1208,1119,0,0,-5,5,1203,1124,159,168,-2,4,157,172,20,100,189
+270,Jun 1 2012,WC q & Oce Cup in the Solomon Islands,New Caledonia,Vanuatu,1301,1250,5,2,37,-37,1338,1213,118,161,7,-8,125,153,50,0,51
+271,Jun 1 2012,Friendly in Panama,Panama,Jamaica,1669,1644,2,1,7,-7,1676,1637,43,58,1,-4,44,54,20,100,125
+272,Jun 1 2012,Friendly in Puerto Rico,Puerto Rico,Nicaragua,1060,1134,3,1,14,-14,1074,1120,180,182,1,-6,181,176,20,100,26
+273,Jun 1 2012,Friendly in Switzerland,Russia,Italy,1831,1870,3,0,19,-19,1850,1851,15,16,0,-2,15,14,20,0,-39
+274,Jun 1 2012,WC q & Oce Cup in the Solomon Islands,Tahiti,Samoa,1175,696,10,1,7,-7,1182,689,160,218,0,-1,160,217,50,0,479
+275,Jun 2 2012,World Cup qualifier in Algeria,Algeria,Rwanda,1507,1439,4,0,21,-21,1528,1418,73,107,7,-3,80,104,40,100,168
+276,Jun 2 2012,World Cup qualifier in Argentina,Argentina,Ecuador,1928,1784,4,0,15,-15,1943,1769,7,31,0,-4,7,27,40,100,244
+277,Jun 2 2012,World Cup qualifier in Bolivia,Bolivia,Chile,1539,1900,0,2,-11,11,1528,1911,82,8,-2,0,80,8,40,100,-261
+278,Jun 2 2012,World Cup qualifier in Burkina Faso,Burkina Faso,Congo,1442,1394,0,0,-8,8,1434,1402,103,105,-2,2,101,107,40,100,148
+279,Jun 2 2012,World Cup qualifier in Cameroon,Cameroon,DR Congo,1657,1447,1,0,6,-6,1663,1441,46,102,0,-2,46,100,40,100,310
+280,Jun 2 2012,World Cup qualifier in Central African Republic,Central African Republic,Botswana,1236,1366,2,0,33,-33,1269,1333,136,134,5,-9,141,125,40,100,-30
+281,Jun 2 2012,Friendly in Denmark,Denmark,Australia,1805,1825,2,0,12,-12,1817,1813,13,18,3,-1,16,17,20,100,80
+282,Jun 2 2012,Friendly in England,England,Belgium,1953,1684,1,0,2,-2,1955,1682,6,42,0,0,6,42,20,100,369
+283,Jun 2 2012,World Cup qualifier in The Gambia,Gambia,Morocco,1357,1531,1,1,4,-4,1361,1527,115,83,2,-1,117,82,40,100,-74
+284,Jun 2 2012,Friendly in the United States,Honduras,El Salvador,1638,1578,3,0,15,-15,1653,1563,43,75,5,-4,48,71,20,0,60
+285,Jun 2 2012,World Cup qualifier in Ivory Coast,Ivory Coast,Tanzania,1806,1262,2,0,1,-1,1807,1261,20,145,-1,-1,19,144,20,0,544
+286,Jun 2 2012,World Cup qualifier in Kenya,Kenya,Malawi,1339,1379,0,0,-3,3,1336,1382,124,112,0,0,124,112,30,100,60
+287,Jun 2 2012,Friendly in Luxembourg,Luxembourg,Malta,1166,1220,0,2,-17,17,1149,1237,172,142,-5,5,167,147,20,100,46
+288,Jun 2 2012,Friendly in the Netherlands,Netherlands,Northern Ireland,2060,1450,6,0,1,-1,2061,1449,3,99,0,-1,3,98,20,0,610
+289,Jun 2 2012,WC q & Oce Cup in the Solomon Islands,New Zealand,Fiji,1569,1297,1,0,9,-9,1578,1288,63,139,4,-3,67,136,50,0,272
+290,Jun 2 2012,Friendly in Norway,Norway,Croatia,1760,1873,1,1,0,0,1760,1873,29,9,0,1,29,10,20,100,-13
+291,Jun 2 2012,Friendly in Poland,Poland,Andorra,1722,1006,4,0,0,0,1722,1006,34,188,0,0,34,188,20,100,816
+292,Jun 2 2012,Friendly in Portugal,Portugal,Turkey,1888,1733,1,3,-24,24,1864,1757,15,28,-3,2,12,30,20,100,255
+293,Jun 2 2012,World Cup qualifier in Senegal,Senegal,Liberia,1539,1269,3,1,6,-6,1545,1263,72,145,3,-2,75,143,40,100,370
+294,Jun 2 2012,World Cup qualifier in Sierra Leone,Sierra Leone,Cape Verde,1302,1424,2,1,21,-21,1323,1403,126,108,3,-2,129,106,40,100,-22
+295,Jun 2 2012,WC q & Oce Cup in the Solomon Islands,Solomon Islands,Papua New Guinea,1285,1058,1,0,7,-7,1292,1051,132,183,2,0,134,183,50,100,327
+296,Jun 2 2012,World Cup qualifier in Sudan,Sudan,Zambia,1425,1643,2,0,40,-40,1465,1603,89,66,7,-8,96,58,40,100,-118
+297,Jun 2 2012,World Cup qualifier in Tunisia,Tunisia,Equatorial Guinea,1591,1284,3,1,5,-5,1596,1279,60,138,0,0,60,138,40,100,407
+298,Jun 2 2012,World Cup qualifier in Uruguay,Uruguay,Venezuela,1987,1700,1,1,-16,16,1971,1716,5,34,0,2,5,36,40,100,387
+299,Jun 3 2012,World Cup qualifier in Angola,Angola,Uganda,1508,1503,1,1,-6,6,1502,1509,93,86,-3,1,90,87,40,100,105
+300,Jun 3 2012,World Cup qualifier in Benin,Benin,Mali,1386,1583,1,0,25,-25,1411,1558,102,76,4,-5,106,71,40,100,-97
+301,Jun 3 2012,Friendly in Canada,Canada,United States,1576,1752,0,0,2,-2,1578,1750,59,33,5,-1,64,32,20,100,-76
+302,Jun 3 2012,Baltic Cup in Estonia,Estonia,Lithuania,1516,1480,1,0,9,-9,1525,1471,83,94,1,0,84,94,20,0,36
+303,Jun 3 2012,Baltic Cup in Estonia,Finland,Latvia,1630,1540,1,1,-4,4,1626,1544,57,75,-1,1,56,76,30,0,90
+304,Jun 3 2012,World Cup qualifier in Japan,Japan,Oman,1772,1548,3,0,9,-9,1781,1539,21,82,2,-4,23,78,40,100,324
+305,Jun 3 2012,World Cup qualifier in Jordan,Jordan,Iraq,1562,1587,1,1,-4,4,1558,1591,70,60,1,1,71,61,40,100,75
+306,Jun 3 2012,World Cup qualifier in Lebanon,Lebanon,Qatar,1315,1497,0,1,-15,15,1300,1512,138,82,-4,4,134,86,40,100,-82
+307,Jun 3 2012,Friendly in the United States,Mexico,Brazil,1867,2081,2,0,23,-23,1890,2058,7,4,2,-1,9,3,20,0,-214
+308,Jun 3 2012,World Cup qualifier in Niger,Niger,Gabon,1294,1584,0,0,10,-10,1304,1574,129,69,2,-2,131,67,30,0,-290
+309,Jun 3 2012,World Cup qualifier in Nigeria,Nigeria,Namibia,1643,1307,1,0,3,-3,1646,1304,51,130,0,1,51,131,20,0,336
+310,Jun 3 2012,World Cup qualifier in Peru,Peru,Colombia,1722,1789,0,1,-22,22,1700,1811,42,15,-4,3,38,18,40,100,33
+311,Jun 3 2012,Friendly in Puerto Rico,Puerto Rico,Nicaragua,1074,1120,1,1,-2,2,1072,1122,181,172,0,2,181,174,20,100,54
+312,Jun 3 2012,World Cup qualifier in South Africa,South Africa,Ethiopia,1586,1289,1,1,-16,16,1570,1305,75,125,-6,5,69,130,40,100,397
+313,Jun 3 2012,Friendly in Spain,Spain,China,2126,1636,1,0,1,-1,2127,1635,1,54,0,0,1,54,20,0,490
+314,Jun 3 2012,WC q & Oce Cup in the Solomon Islands,Tahiti,New Caledonia,1182,1338,4,3,36,-36,1218,1302,146,143,7,-10,153,133,50,0,-156
+315,Jun 3 2012,World Cup qualifier in Togo,Togo,Libya,1360,1512,1,1,3,-3,1363,1509,116,88,1,-1,117,87,40,100,-52
+316,Jun 3 2012,World Cup qualifier in Uzbekistan,Uzbekistan,Iran,1627,1711,0,1,-21,21,1606,1732,57,28,0,5,57,33,40,100,16
+317,Jun 3 2012,WC q & Oce Cup in the Solomon Islands,Vanuatu,Samoa,1213,689,5,0,5,-5,1218,684,153,221,0,-2,153,219,50,0,524
+318,Jun 3 2012,World Cup qualifier in Zimbabwe,Zimbabwe,Guinea,1349,1541,0,1,-15,15,1334,1556,125,70,-2,3,123,73,40,100,-92
+319,Jun 4 2012,Friendly in Hungary,Hungary,Ireland,1688,1805,0,0,0,0,1688,1805,41,21,0,0,41,21,20,100,-17
+320,Jun 4 2012,VIVA World Cup in Kurdistan,Kurdistan,Western Sahara,1402,1000,6,0,4,-4,1406,996,107,189,0,0,107,189,20,0,402
+321,Jun 4 2012,WC q & Oce Cup in the Solomon Islands,New Zealand,Papua New Guinea,1578,1051,2,1,2,-2,1580,1049,64,183,0,0,64,183,40,0,527
+322,Jun 4 2012,WC q & Oce Cup in the Solomon Islands,Solomon Islands,Fiji,1292,1288,0,0,-7,7,1285,1295,137,134,-1,1,136,135,50,100,104
+323,Jun 5 2012,Friendly in Armenia,Armenia,Kazakhstan,1537,1351,3,0,6,-6,1543,1345,75,123,2,-2,77,121,20,100,286
+324,Jun 5 2012,Friendly in Austria,Austria,Romania,1603,1730,0,0,1,-1,1604,1729,58,34,0,0,58,34,20,100,-27
+325,Jun 5 2012,Friendly in France,France,Estonia,1864,1525,4,0,3,-3,1867,1522,12,86,0,-1,12,85,20,100,439
+326,Jun 5 2012,WC q & Oce Cup in the Solomon Islands,New Caledonia,Samoa,1302,684,9,0,3,-3,1305,681,127,220,3,0,130,220,40,0,618
+327,Jun 5 2012,Friendly in the Philippines,Philippines,Indonesia,1124,1266,2,2,1,-1,1125,1265,172,142,0,0,172,142,20,100,-42
+328,Jun 5 2012,Friendly in Sweden,Sweden,Serbia,1887,1716,2,1,3,-3,1890,1713,8,38,1,-1,9,37,20,100,271
+329,Jun 5 2012,WC q & Oce Cup in the Solomon Islands,Tahiti,Vanuatu,1218,1218,4,1,44,-44,1262,1174,135,167,9,-7,144,160,50,0,0
+330,Jun 5 2012,Friendly in Germany,Turkey,Ukraine,1757,1772,2,0,16,-16,1773,1756,22,34,4,-4,26,30,20,0,-15
+331,Jun 6 2012,WC q & Oce Cup in the Solomon Islands,Fiji,Papua New Guinea,1295,1049,1,1,-15,15,1280,1064,139,183,-2,0,137,183,40,100,346
+332,Jun 6 2012,WC q & Oce Cup in the Solomon Islands,Solomon Islands,New Zealand,1285,1580,1,1,13,-13,1298,1567,134,74,1,-5,135,69,50,100,-195
+333,Jun 7 2012,Friendly in Belarus,Belarus,Lithuania,1585,1471,1,1,-5,5,1580,1476,63,94,0,0,63,94,20,100,214
+334,Jun 8 2012,Friendly in Egypt,Bahrain,Kuwait,1577,1524,1,1,-2,2,1575,1526,65,80,0,2,65,82,20,0,53
+335,Jun 8 2012,Friendly in China,China,Vietnam,1635,1274,3,0,2,-2,1637,1272,52,139,1,0,53,139,20,100,461
+336,Jun 8 2012,World Cup qualifier in Costa Rica,Costa Rica,El Salvador,1666,1563,2,2,-11,11,1655,1574,49,62,-2,4,47,66,40,100,203
+337,Jun 8 2012,World Cup qualifier in Cuba,Cuba,Canada,1385,1578,0,1,-15,15,1370,1593,119,58,-4,3,115,61,40,100,-93
+338,Jun 8 2012,World Cup qualifier in Honduras,Honduras,Panama,1653,1676,0,2,-37,37,1616,1713,64,30,-8,7,56,37,40,100,77
+339,Jun 8 2012,World Cup qualifier in Jamaica,Jamaica,Guatemala,1637,1526,2,1,9,-9,1646,1517,47,85,3,-1,50,84,40,100,211
+340,Jun 8 2012,World Cup qualifier in Japan,Japan,Jordan,1781,1558,6,0,11,-11,1792,1547,23,77,0,-3,23,74,40,100,323
+341,Jun 8 2012,World Cup qualifier in Lebanon,Lebanon,Uzbekistan,1300,1606,1,1,11,-11,1311,1595,124,63,5,-3,129,60,30,0,-306
+342,Jun 8 2012,World Cup qualifier in Mexico,Mexico,Guyana,1890,1365,3,1,2,-2,1892,1363,9,118,0,-1,9,117,30,0,525
+343,Jun 8 2012,Oceania Nations Cup in the Solomon Islands,New Caledonia,New Zealand,1305,1567,2,0,61,-61,1366,1506,102,105,14,-18,116,87,50,0,-262
+344,Jun 8 2012,VIVA World Cup in Kurdistan,Northern Cyprus,Zanzibar,1454,1327,2,0,19,-19,1473,1308,93,133,2,-3,95,130,40,0,127
+345,Jun 8 2012,World Cup qualifier in Oman,Oman,Australia,1539,1813,0,0,9,-9,1548,1804,67,25,6,-4,73,21,40,100,-174
+346,Jun 8 2012,European Championship in Poland,Poland,Greece,1722,1779,1,1,-3,3,1719,1782,35,24,0,0,35,24,50,100,43
+347,Jun 8 2012,World Cup qualifier in Qatar,Qatar,South Korea,1512,1777,1,4,-20,20,1492,1797,98,19,-6,3,92,22,40,100,-165
+348,Jun 8 2012,European Championship in Poland,Russia,Czechia,1850,1788,4,1,36,-36,1886,1752,7,38,4,-8,11,30,50,0,62
+349,Jun 8 2012,Friendly in Singapore,Singapore,Malaysia,1256,1203,2,2,-4,4,1252,1207,146,155,0,1,146,156,20,100,153
+350,Jun 8 2012,Oceania Nations Cup in the Solomon Islands,Solomon Islands,Tahiti,1298,1262,0,1,-34,34,1264,1296,151,126,-8,9,143,135,50,100,136
+351,Jun 8 2012,World Cup qualifier in the United States,United States,Antigua and Barbuda,1750,1285,3,1,2,-2,1752,1283,28,136,2,0,30,136,20,0,465
+352,Jun 9 2012,Friendly in the United States,Argentina,Brazil,1943,2058,4,3,13,-13,1956,2045,5,3,1,0,6,3,20,0,-115
+353,Jun 9 2012,World Cup qualifier in Bolivia,Bolivia,Paraguay,1528,1809,3,1,44,-44,1572,1765,59,34,10,-8,69,26,40,100,-181
+354,Jun 9 2012,World Cup qualifier in Botswana,Botswana,South Africa,1333,1570,1,1,8,-8,1341,1562,121,71,2,-1,123,70,40,100,-137
+355,Jun 9 2012,World Cup qualifier in Cape Verde,Cape Verde,Tunisia,1403,1596,1,2,-15,15,1388,1611,114,57,-3,1,111,58,40,100,-93
+356,Jun 9 2012,World Cup qualifier in Congo,Congo,Niger,1402,1304,1,0,10,-10,1412,1294,105,137,2,-2,107,135,40,100,198
+357,Jun 9 2012,European Championship in Ukraine,Denmark,Netherlands,1817,2061,1,0,40,-40,1857,2021,12,6,2,-2,14,4,50,0,-244
+358,Jun 9 2012,World Cup qualifier in Equatorial Guinea,Equatorial Guinea,Sierra Leone,1279,1323,2,2,-3,3,1276,1326,138,126,0,1,138,127,40,100,56
+359,Jun 9 2012,Friendly in French Guiana,French Guiana,Suriname,1188,1202,2,1,8,-8,1196,1194,157,160,1,-1,158,159,20,100,86
+360,Jun 9 2012,World Cup qualifier in Gabon,Gabon,Burkina Faso,1574,1434,1,0,8,-8,1582,1426,62,103,2,-1,64,102,40,100,240
+361,Jun 9 2012,European Championship in Ukraine,Germany,Portugal,2043,1864,1,0,13,-13,2056,1851,0,16,2,-1,2,15,50,0,179
+362,Jun 9 2012,VIVA World Cup in Kurdistan,Kurdistan,Northern Cyprus,1406,1473,2,1,18,-18,1424,1455,99,99,4,-2,103,97,30,0,-67
+363,Jun 9 2012,World Cup qualifier in Malawi,Malawi,Nigeria,1382,1646,1,1,9,-9,1391,1637,109,54,1,-2,110,52,40,100,-164
+364,Jun 9 2012,World Cup qualifier in Morocco,Morocco,Ivory Coast,1527,1807,2,2,10,-10,1537,1797,79,21,1,-1,80,20,30,0,-280
+365,Jun 9 2012,World Cup qualifier in Namibia,Namibia,Kenya,1304,1336,1,0,16,-16,1320,1320,123,133,5,-5,128,128,30,0,-32
+366,Jun 9 2012,World Cup qualifier in Uganda,Uganda,Senegal,1509,1545,1,1,-4,4,1505,1549,89,73,-2,1,87,74,40,100,64
+367,Jun 9 2012,World Cup qualifier in Venezuela,Venezuela,Chile,1716,1911,0,2,-22,22,1694,1933,42,8,-3,0,39,8,40,100,-95
+368,Jun 9 2012,World Cup qualifier in Zambia,Zambia,Ghana,1603,1699,1,0,20,-20,1623,1679,54,48,2,-4,56,44,40,100,4
+369,Jun 10 2012,European Championship in Poland,Croatia,Ireland,1873,1805,3,1,30,-30,1903,1775,6,30,3,-6,9,24,50,0,68
+370,Jun 10 2012,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Togo,1441,1363,2,0,16,-16,1457,1347,92,119,4,-1,96,118,40,100,178
+371,Jun 10 2012,World Cup qualifier in Ecuador,Ecuador,Colombia,1769,1811,1,0,17,-17,1786,1794,19,23,3,-3,22,20,30,0,-42
+372,Jun 10 2012,World Cup qualifier in Ethiopia,Ethiopia,Central African Republic,1305,1269,2,0,19,-19,1324,1250,125,149,4,-4,129,145,40,100,136
+373,Jun 10 2012,World Cup qualifier in Guinea,Guinea,Egypt,1556,1751,2,3,-15,15,1541,1766,84,20,-6,6,78,26,40,100,-95
+374,Jun 10 2012,Friendly in Hong Kong,Hong Kong,Vietnam,1210,1272,1,2,-11,11,1199,1283,160,133,-3,3,157,136,20,100,38
+375,Jun 10 2012,European Championship in Poland,Italy,Spain,1851,2127,1,1,17,-17,1868,2110,11,1,2,0,13,1,50,0,-276
+376,Jun 10 2012,World Cup qualifier in Lesotho,Lesotho,Sudan,1141,1465,0,0,11,-11,1152,1454,163,100,3,-2,166,98,30,0,-324
+377,Jun 10 2012,World Cup qualifier in Liberia,Liberia,Angola,1263,1502,0,0,8,-8,1271,1494,138,93,3,-2,141,91,40,100,-139
+378,Jun 10 2012,World Cup qualifier in Tunisia,Libya,Cameroon,1509,1663,2,1,28,-28,1537,1635,75,61,5,-8,80,53,40,0,-154
+379,Jun 10 2012,World Cup qualifier in Burkina Faso,Mali,Algeria,1558,1528,2,1,18,-18,1576,1510,61,91,5,-5,66,86,40,0,30
+380,Jun 10 2012,World Cup qualifier in Mozambique,Mozambique,Zimbabwe,1331,1334,0,0,-5,5,1326,1339,126,122,0,1,126,123,40,100,97
+381,Jun 10 2012,World Cup qualifier in Rwanda,Rwanda,Benin,1418,1411,1,1,-6,6,1412,1417,109,102,-2,3,107,105,40,100,107
+382,Jun 10 2012,Oceania Nations Cup in the Solomon Islands,Solomon Islands,New Zealand,1264,1506,3,4,-15,15,1249,1521,149,82,-3,2,146,84,50,100,-142
+383,Jun 10 2012,Oceania Nations Cup in the Solomon Islands,Tahiti,New Caledonia,1296,1366,1,0,30,-30,1326,1336,118,132,8,-8,126,124,50,0,-70
+384,Jun 10 2012,World Cup qualifier in Tanzania,Tanzania,Gambia,1261,1361,2,1,20,-20,1281,1341,131,123,7,-2,138,121,40,100,0
+385,Jun 10 2012,World Cup qualifier in Uruguay,Uruguay,Peru,1971,1700,4,2,6,-6,1977,1694,5,38,0,0,5,38,40,100,371
+386,Jun 11 2012,European Championship in Ukraine,England,France,1955,1867,1,1,-6,6,1949,1873,7,10,0,2,7,12,50,0,88
+387,Jun 11 2012,European Championship in Ukraine,Ukraine,Sweden,1756,1890,2,1,27,-27,1783,1863,16,17,7,-3,23,14,40,0,-134
+388,Jun 12 2012,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,Jamaica,1283,1646,0,0,13,-13,1296,1633,134,57,1,-4,135,53,40,100,-263
+389,Jun 12 2012,World Cup qualifier in Australia,Australia,Japan,1804,1792,1,1,-6,6,1798,1798,19,15,-1,3,18,18,40,100,112
+390,Jun 12 2012,World Cup qualifier in Canada,Canada,Honduras,1593,1616,0,0,-4,4,1589,1620,61,57,0,0,61,57,40,100,77
+391,Jun 12 2012,European Championship in Poland,Czechia,Greece,1752,1782,2,1,27,-27,1779,1755,17,38,7,-7,24,31,50,0,-30
+392,Jun 12 2012,World Cup qualifier in El Salvador,El Salvador,Mexico,1574,1892,1,2,-9,9,1565,1901,70,10,-1,0,69,10,40,100,-218
+393,Jun 12 2012,World Cup qualifier in Guatemala,Guatemala,United States,1517,1752,1,1,7,-7,1524,1745,81,33,2,-1,83,32,40,100,-135
+394,Jun 12 2012,World Cup qualifier in Guyana,Guyana,Costa Rica,1363,1655,0,4,-19,19,1344,1674,124,44,-4,1,120,45,40,100,-192
+395,Jun 12 2012,World Cup qualifier in Iran,Iran,Qatar,1732,1492,0,0,-15,15,1717,1507,37,82,-2,5,35,87,40,100,340
+396,Jun 12 2012,World Cup qualifier in Qatar,Iraq,Oman,1591,1548,1,1,-2,2,1589,1550,60,70,1,2,61,72,30,0,43
+397,Jun 12 2012,Friendly in Egypt,Kuwait,Bahrain,1526,1575,1,0,11,-11,1537,1564,78,73,2,-3,80,70,20,0,-49
+398,Jun 12 2012,Friendly in Malaysia,Malaysia,Singapore,1207,1252,2,0,13,-13,1220,1239,153,150,1,-3,154,147,20,100,55
+399,Jun 12 2012,World Cup qualifier in Panama,Panama,Cuba,1713,1370,1,0,3,-3,1716,1367,36,115,0,0,36,115,40,100,443
+400,Jun 12 2012,Friendly in the Philippines,Philippines,Guam,1125,614,3,0,1,-1,1126,613,170,225,1,0,171,225,20,100,611
+401,Jun 12 2012,European Championship in Poland,Poland,Russia,1719,1886,1,1,5,-5,1724,1881,33,11,1,0,34,11,50,100,-67
+402,Jun 12 2012,World Cup qualifier in South Korea,South Korea,Lebanon,1797,1311,3,0,2,-2,1799,1309,16,132,1,0,17,132,20,0,486
+403,Jun 13 2012,European Championship in Ukraine,Germany,Netherlands,2056,2021,2,1,22,-22,2078,1999,2,4,0,0,2,4,50,0,35
+404,Jun 13 2012,European Championship in Ukraine,Portugal,Denmark,1851,1857,3,2,25,-25,1876,1832,8,17,4,-1,12,16,50,0,-6
+405,Jun 14 2012,European Championship in Poland,Croatia,Italy,1903,1868,1,1,-3,3,1900,1871,11,14,-1,0,10,14,50,0,35
+406,Jun 14 2012,European Championship in Poland,Spain,Ireland,2110,1775,4,0,12,-12,2122,1763,1,33,0,-4,1,29,50,0,335
+407,Jun 15 2012,African Nations Cup qualifier in Algeria,Algeria,Gambia,1510,1341,4,1,12,-12,1522,1329,82,129,2,-4,84,125,40,100,269
+408,Jun 15 2012,African Nations Cup qualifier in Egypt,Egypt,Central African Republic,1766,1250,2,3,-39,39,1727,1289,40,130,-7,7,33,137,40,100,616
+409,Jun 15 2012,European Championship in Ukraine,England,Sweden,1949,1863,3,2,19,-19,1968,1844,5,15,1,0,6,15,50,0,86
+410,Jun 15 2012,Friendly in South Africa,South Africa,Gabon,1562,1582,3,0,14,-14,1576,1568,59,74,6,-5,65,69,20,100,80
+411,Jun 15 2012,European Championship in Ukraine,Ukraine,France,1783,1873,0,2,-39,39,1744,1912,39,5,-8,4,31,9,50,100,10
+412,Jun 16 2012,African Nations Cup qualifier in Cameroon,Cameroon,Guinea-Bissau,1635,1228,1,0,2,-2,1637,1226,50,153,1,-1,51,152,20,0,407
+413,Jun 16 2012,African Nations Cup qualifier in Cape Verde,Cape Verde,Madagascar,1388,1172,3,1,8,-8,1396,1164,109,163,1,-1,110,162,40,100,316
+414,Jun 16 2012,European Championship in Poland,Greece,Russia,1755,1881,1,0,34,-34,1789,1847,17,16,6,-2,23,14,50,0,-126
+415,Jun 16 2012,African Nations Cup qualifier in Malawi,Malawi,Chad,1391,1244,2,0,12,-12,1403,1232,106,150,2,-2,108,148,40,100,247
+416,Jun 16 2012,African Nations Cup qualifier in Namibia,Namibia,Liberia,1320,1271,0,0,-8,8,1312,1279,132,140,-1,1,131,141,40,100,149
+417,Jun 16 2012,African Nations Cup qualifier in Nigeria,Nigeria,Rwanda,1637,1412,2,0,8,-8,1645,1404,48,107,1,0,49,107,40,100,325
+418,Jun 16 2012,European Championship in Poland,Poland,Czechia,1724,1779,0,1,-28,28,1696,1807,40,11,-3,6,37,17,50,100,45
+419,Jun 16 2012,African Nations Cup qualifier in Sierra Leone,Sierra Leone,São Tomé and Príncipe,1326,1108,4,2,8,-8,1334,1100,122,179,2,-1,124,178,40,100,318
+420,Jun 16 2012,African Nations Cup qualifier in Uganda,Uganda,Congo,1505,1412,4,0,19,-19,1524,1393,78,115,5,-4,83,111,40,100,193
+421,Jun 17 2012,African Nations Cup qualifier in Benin,Benin,Ethiopia,1417,1324,1,1,-10,10,1407,1334,107,119,-1,5,106,124,40,100,193
+422,Jun 17 2012,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Seychelles,1457,1015,3,0,3,-3,1460,1012,96,186,0,0,96,186,20,0,442
+423,Jun 17 2012,European Championship in Ukraine,Germany,Denmark,2078,1832,2,1,10,-10,2088,1822,2,16,0,0,2,16,50,0,246
+424,Jun 17 2012,African Nations Cup qualifier in Mozambique,Mozambique,Tanzania,1326,1281,1,1,-8,8,1318,1289,131,135,-2,2,129,137,40,100,145
+425,Jun 17 2012,European Championship in Ukraine,Portugal,Netherlands,1876,1999,2,1,33,-33,1909,1966,8,8,2,-2,10,6,50,0,-123
+426,Jun 17 2012,African Nations Cup qualifier in Togo,Togo,Kenya,1347,1320,1,0,13,-13,1360,1307,115,138,1,-4,116,134,40,100,127
+427,Jun 17 2012,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Burundi,1339,1270,1,0,11,-11,1350,1259,112,145,5,-1,117,144,40,100,169
+428,Jun 18 2012,European Championship in Poland,Italy,Ireland,1871,1763,2,0,26,-26,1897,1737,11,34,1,-3,12,31,50,0,108
+429,Jun 18 2012,European Championship in Poland,Spain,Croatia,2122,1900,1,0,11,-11,2133,1889,1,14,0,-1,1,13,50,0,222
+430,Jun 18 2012,Friendly in Yemen,Yemen,Palestine,1308,1229,1,2,-15,15,1293,1244,140,142,-4,4,136,146,20,100,179
+431,Jun 19 2012,European Championship in Ukraine,Sweden,France,1844,1912,2,0,45,-45,1889,1867,9,19,3,-5,12,14,50,0,-68
+432,Jun 19 2012,European Championship in Ukraine,Ukraine,England,1744,1968,0,1,-16,16,1728,1984,34,3,-2,1,32,4,50,100,-124
+433,Jun 21 2012,European Championship in Poland,Portugal,Czechia,1909,1807,1,0,18,-18,1927,1789,9,27,0,-5,9,22,50,0,102
+434,Jun 22 2012,European Championship in Poland,Germany,Greece,2088,1789,4,2,11,-11,2099,1778,2,26,0,-2,2,24,50,0,299
+435,Jun 22 2012,Arab Nations Cup in Saudi Arabia,Saudi Arabia,Kuwait,1550,1537,4,0,26,-26,1576,1511,58,94,7,-7,65,87,40,100,113
+436,Jun 23 2012,Arab Nations Cup in Saudi Arabia,Libya,Yemen,1537,1293,3,1,12,-12,1549,1281,68,142,6,-3,74,139,40,0,244
+437,Jun 23 2012,Arab Nations Cup in Saudi Arabia,Morocco,Bahrain,1537,1564,4,0,40,-40,1577,1524,50,90,15,-9,65,81,40,0,-27
+438,Jun 23 2012,European Championship in Ukraine,Spain,France,2133,1867,2,0,13,-13,2146,1854,1,14,0,0,1,14,50,0,266
+439,Jun 23 2012,Friendly in Vietnam,Vietnam,Mozambique,1283,1318,1,0,8,-8,1291,1310,133,131,3,-1,136,130,20,100,65
+440,Jun 24 2012,European Championship in Ukraine,England,Italy,1984,1897,0,0,-6,6,1978,1903,4,9,0,1,4,10,50,0,87
+441,Jun 24 2012,Arab Nations Cup in Saudi Arabia,Iraq,Lebanon,1589,1309,1,0,7,-7,1596,1302,59,135,1,-2,60,133,40,0,280
+442,Jun 25 2012,Arab Nations Cup in Saudi Arabia,Kuwait,Palestine,1511,1244,2,0,11,-11,1522,1233,81,150,3,-2,84,148,40,0,267
+443,Jun 26 2012,Arab Nations Cup in Saudi Arabia,Libya,Morocco,1549,1577,0,0,2,-2,1551,1575,72,71,1,-3,73,68,40,0,-28
+444,Jun 26 2012,Arab Nations Cup in Saudi Arabia,Yemen,Bahrain,1281,1524,2,0,48,-48,1329,1476,115,105,12,-12,127,93,40,0,-243
+445,Jun 27 2012,European Championship in Ukraine,Portugal,Spain,1927,2146,0,0,14,-14,1941,2132,7,1,1,0,8,1,50,0,-219
+446,Jun 27 2012,Arab Nations Cup in Saudi Arabia,Sudan,Lebanon,1454,1302,2,0,18,-18,1472,1284,92,144,3,-5,95,139,40,0,152
+447,Jun 28 2012,European Championship in Poland,Italy,Germany,1903,2099,2,1,38,-38,1941,2061,6,2,2,0,8,2,50,0,-196
+448,Jun 28 2012,Arab Nations Cup in Saudi Arabia,Saudi Arabia,Palestine,1576,1233,2,2,-17,17,1559,1250,79,142,-7,3,72,145,40,100,443
+449,Jun 29 2012,Arab Nations Cup in Saudi Arabia,Libya,Bahrain,1551,1476,2,1,16,-16,1567,1460,69,99,2,-3,71,96,40,0,75
+450,Jun 29 2012,Arab Nations Cup in Saudi Arabia,Morocco,Yemen,1575,1329,4,0,15,-15,1590,1314,57,131,5,-2,62,129,40,0,246
+451,Jun 30 2012,African Nations Cup qualifier in Central African Republic,Central African Republic,Egypt,1289,1727,1,1,15,-15,1304,1712,131,39,3,-3,134,36,40,100,-338
+452,Jun 30 2012,Arab Nations Cup in Saudi Arabia,Iraq,Sudan,1596,1472,1,1,-7,7,1589,1479,64,92,-2,1,62,93,40,0,124
+453,Jul 1 2012,European Championship in Ukraine,Spain,Italy,2132,1941,4,0,23,-23,2155,1918,1,12,0,-2,1,10,50,0,191
+454,Jul 3 2012,Arab Nations Cup in Saudi Arabia,Morocco,Iraq,1590,1589,2,1,20,-20,1610,1569,57,78,2,-8,59,70,40,0,1
+455,Jul 3 2012,Arab Nations Cup in Saudi Arabia,Saudi Arabia,Libya,1559,1567,0,2,-38,38,1521,1605,97,49,-12,11,85,60,40,100,92
+456,Jul 5 2012,Arab Nations Cup in Saudi Arabia,Saudi Arabia,Iraq,1521,1569,0,1,-23,23,1498,1592,91,56,-3,7,88,63,40,100,52
+457,Jul 6 2012,Friendly in Malawi,Malawi,Zambia,1403,1623,1,0,13,-13,1416,1610,102,60,3,-2,105,58,20,100,-120
+458,Jul 6 2012,Arab Nations Cup in Saudi Arabia,Morocco,Libya,1610,1605,1,1,0,0,1610,1605,57,60,1,0,58,60,20,0,5
+459,Jul 7 2012,Friendly in the British Virgin Islands,British Virgin Islands,Anguilla,764,563,1,0,3,-3,767,560,210,228,1,0,211,228,20,100,301
+460,Jul 10 2012,Friendly in South Sudan,South Sudan,Uganda,1100,1524,2,2,7,-7,1107,1517,177,85,0,0,177,85,20,100,-324
+461,Jul 12 2012,Friendly in Kenya,Kenya,Botswana,1307,1341,3,1,12,-12,1319,1329,125,130,4,-4,129,126,20,100,66
+462,Jul 13 2012,Friendly tournament in Aruba,Aruba,Curaçao,945,1068,3,2,16,-16,961,1052,193,185,0,-1,193,184,30,100,-23
+463,Jul 13 2012,Friendly tournament in Aruba,Suriname,Bonaire,1194,1090,8,0,25,-25,1219,1065,151,184,4,-2,155,182,30,0,104
+464,Jul 15 2012,Friendly tournament in Aruba,Aruba,Suriname,961,1219,1,0,21,-21,982,1198,189,161,2,-3,191,158,30,100,-158
+465,Jul 15 2012,Friendly tournament in Aruba,Curaçao,Bonaire,1052,1065,9,2,35,-35,1087,1030,178,186,3,-2,181,184,30,0,-13
+466,Jul 16 2012,Friendly tournament in Botswana,Botswana,Zimbabwe,1329,1350,1,0,12,-12,1341,1338,116,127,5,-5,121,122,30,100,79
+467,Jul 17 2012,Friendly tournament in Botswana,Zimbabwe,Lesotho,1338,1152,5,3,11,-11,1349,1141,114,172,4,-3,118,169,30,0,186
+468,Jul 18 2012,Friendly tournament in Botswana,Botswana,Lesotho,1341,1141,0,0,-10,10,1331,1151,130,165,-4,2,126,167,30,100,300
+469,Jul 18 2012,East Asian Championship qual in Guam,Guam,Northern Mariana Islands,613,499,3,1,14,-14,627,485,226,236,0,-1,226,235,40,100,214
+470,Jul 20 2012,East Asian Championship qual in Guam,Macao,Northern Mariana Islands,659,485,5,1,20,-20,679,465,221,235,1,0,222,235,40,0,174
+471,Jul 22 2012,East Asian Championship qual in Guam,Guam,Macao,627,679,3,0,30,-30,657,649,220,226,3,-2,223,224,30,0,-52
+472,Aug 8 2012,Friendly in Zambia,Zambia,Zimbabwe,1610,1349,2,1,2,-2,1612,1347,56,118,1,0,57,118,20,100,361
+473,Aug 11 2012,Friendly in the United States,El Salvador,Guatemala,1565,1524,1,0,9,-9,1574,1515,66,90,3,-5,69,85,20,0,41
+474,Aug 13 2012,Friendly in Jordan,Jordan,Uzbekistan,1547,1595,0,1,-11,11,1536,1606,83,58,-4,2,79,60,20,100,52
+475,Aug 14 2012,Friendly in France,Burkina Faso,Togo,1426,1360,3,0,14,-14,1440,1346,100,120,1,-2,101,118,20,0,66
+476,Aug 14 2012,Friendly in Liechtenstein,Liechtenstein,Andorra,1227,1006,1,0,3,-3,1230,1003,151,189,0,0,151,189,20,100,321
+477,Aug 14 2012,Friendly in San Marino,San Marino,Malta,894,1237,2,3,-4,4,890,1241,205,146,0,1,205,147,20,100,-243
+478,Aug 15 2012,Friendly in Albania,Albania,Moldova,1503,1400,0,0,-5,5,1498,1405,93,107,-3,1,90,108,20,100,203
+479,Aug 15 2012,Friendly in Angola,Angola,Mozambique,1494,1310,2,0,5,-5,1499,1305,85,134,3,-1,88,133,20,100,284
+480,Aug 15 2012,Friendly in Armenia,Armenia,Belarus,1543,1580,1,2,-12,12,1531,1592,84,62,-4,2,80,64,20,100,63
+481,Aug 15 2012,Friendly in Austria,Austria,Turkey,1604,1773,2,0,18,-18,1622,1755,48,31,7,-3,55,28,20,100,-69
+482,Aug 15 2012,Friendly in Azerbaijan,Azerbaijan,Bahrain,1376,1460,3,0,17,-17,1393,1443,109,102,2,-3,111,99,20,100,16
+483,Aug 15 2012,Friendly in Belgium,Belgium,Netherlands,1682,1966,4,2,22,-22,1704,1944,36,10,3,-2,39,8,20,100,-184
+484,Aug 15 2012,Friendly in Bolivia,Bolivia,Guyana,1572,1344,2,0,4,-4,1576,1340,63,121,4,0,67,121,20,100,328
+485,Aug 15 2012,Friendly in Botswana,Botswana,Tanzania,1331,1289,3,3,-4,4,1327,1293,128,136,-1,1,127,137,20,100,142
+486,Aug 15 2012,Friendly in Bulgaria,Bulgaria,Cyprus,1640,1469,1,0,3,-3,1643,1466,50,95,0,0,50,95,20,100,271
+487,Aug 15 2012,Friendly in the United States,Canada,Trinidad and Tobago,1589,1491,2,0,11,-11,1600,1480,60,92,2,0,62,92,20,0,98
+488,Aug 15 2012,Friendly in China,China,Ghana,1637,1679,1,1,-2,2,1635,1681,55,44,-2,0,53,44,20,100,58
+489,Aug 15 2012,Friendly in Costa Rica,Costa Rica,Peru,1674,1694,0,1,-12,12,1662,1706,47,38,-1,0,46,38,20,100,80
+490,Aug 15 2012,Friendly in Croatia,Croatia,Switzerland,1889,1764,2,4,-24,24,1865,1788,14,21,-1,3,13,24,20,100,225
+491,Aug 15 2012,Friendly in Denmark,Denmark,Slovakia,1822,1588,1,3,-26,26,1796,1614,22,49,-3,8,19,57,20,100,334
+492,Aug 15 2012,Friendly in the United States,Ecuador,Chile,1786,1933,3,0,24,-24,1810,1909,9,11,7,-1,16,10,20,0,-147
+493,Aug 15 2012,Friendly in Switzerland,England,Italy,1978,1918,2,1,8,-8,1986,1910,4,8,0,1,4,9,20,0,60
+494,Aug 15 2012,Friendly in Equatorial Guinea,Equatorial Guinea,Liberia,1276,1279,1,0,7,-7,1283,1272,138,143,2,-1,140,142,20,100,97
+495,Aug 15 2012,Friendly in Estonia,Estonia,Poland,1522,1696,1,0,12,-12,1534,1684,78,47,1,-5,79,42,20,100,-74
+496,Aug 15 2012,Friendly in France,France,Uruguay,1854,1977,0,0,1,-1,1855,1976,14,7,0,-1,14,6,20,100,-23
+497,Aug 15 2012,Friendly in Germany,Germany,Argentina,2061,1956,1,3,-23,23,2038,1979,4,3,-1,2,3,5,20,100,205
+498,Aug 15 2012,Friendly in the United States,Guatemala,Paraguay,1515,1765,3,3,6,-6,1521,1759,81,28,2,-1,83,27,20,0,-250
+499,Aug 15 2012,Friendly in Hungary,Hungary,Israel,1688,1650,1,1,-4,4,1684,1654,43,47,-1,0,42,47,20,100,138
+500,Aug 15 2012,Friendly in Iceland,Iceland,Faroe Islands,1434,1223,2,0,4,-4,1438,1219,102,155,0,-1,102,154,20,100,311
+501,Aug 15 2012,Friendly in Hungary,Iran,Tunisia,1717,1611,2,2,-3,3,1714,1614,33,56,0,1,33,57,20,0,106
+502,Aug 15 2012,Friendly in the United States,Jamaica,El Salvador,1633,1574,2,0,12,-12,1645,1562,45,75,4,-3,49,72,20,0,59
+503,Aug 15 2012,Friendly in Japan,Japan,Venezuela,1798,1694,1,1,-5,5,1793,1699,24,42,-3,-2,21,40,20,100,204
+504,Aug 15 2012,Friendly in Jordan,Jordan,Uzbekistan,1536,1606,2,0,14,-14,1550,1592,71,68,4,-4,75,64,20,100,30
+505,Aug 15 2012,Friendly in Libya,Libya,Ethiopia,1605,1334,2,1,2,-2,1607,1332,61,125,0,-1,61,124,20,100,371
+506,Aug 15 2012,Friendly in Luxembourg,Luxembourg,Georgia,1149,1495,1,2,-4,4,1145,1499,168,87,0,1,168,88,20,100,-246
+507,Aug 15 2012,Friendly in Macedonia,Macedonia,Lithuania,1495,1476,1,0,7,-7,1502,1469,85,94,2,0,87,94,20,100,119
+508,Aug 15 2012,Friendly in Mexico,Mexico,United States,1901,1745,0,1,-16,16,1885,1761,11,23,0,3,11,26,20,100,256
+509,Aug 15 2012,Friendly in Montenegro,Montenegro,Latvia,1647,1544,2,0,7,-7,1654,1537,46,81,1,-3,47,78,20,100,203
+510,Aug 15 2012,Friendly in Morocco,Morocco,Guinea,1610,1541,1,2,-15,15,1595,1556,67,69,-4,4,63,73,20,100,169
+511,Aug 15 2012,Friendly in Niger,Niger,Nigeria,1294,1645,0,0,6,-6,1300,1639,134,53,1,-2,135,51,20,100,-251
+512,Aug 15 2012,Friendly in Norway,Norway,Greece,1760,1778,2,3,-12,12,1748,1790,30,20,-1,2,29,22,20,100,82
+513,Aug 15 2012,Friendly in Northern Ireland,Northern Ireland,Finland,1449,1626,3,3,2,-2,1451,1624,97,53,1,1,98,54,20,100,-77
+514,Aug 15 2012,Friendly in Oman,Oman,Egypt,1550,1712,1,1,2,-2,1552,1710,75,36,-1,0,74,36,20,100,-62
+515,Aug 15 2012,Friendly in Portugal,Portugal,Panama,1941,1716,2,0,4,-4,1945,1712,6,34,1,0,7,34,20,100,325
+516,Aug 15 2012,Friendly in Puerto Rico,Puerto Rico,Spain,1072,2155,1,2,0,0,1072,2155,182,1,0,0,182,1,20,0,-1083
+517,Aug 15 2012,Friendly in Russia,Russia,Ivory Coast,1847,1797,1,1,-4,4,1843,1801,15,16,0,2,15,18,20,100,150
+518,Aug 15 2012,Friendly in Scotland,Scotland,Australia,1694,1798,3,1,15,-15,1709,1783,36,32,1,-7,37,25,20,100,-4
+519,Aug 15 2012,Friendly in Serbia,Serbia,Ireland,1713,1737,0,0,-2,2,1711,1739,35,30,0,0,35,30,20,100,76
+520,Aug 15 2012,Friendly in Singapore,Singapore,Hong Kong,1239,1199,2,0,9,-9,1248,1190,146,161,1,-2,147,159,20,100,140
+521,Aug 15 2012,Friendly in Slovenia,Slovenia,Romania,1656,1729,4,3,9,-9,1665,1720,44,33,1,-1,45,32,20,100,27
+522,Aug 15 2012,Friendly in South Korea,South Korea,Zambia,1799,1612,2,1,3,-3,1802,1609,17,63,0,-3,17,60,20,100,287
+523,Aug 15 2012,Friendly in Sweden,Sweden,Brazil,1889,2045,0,3,-15,15,1874,2060,12,1,0,1,12,2,20,100,-56
+524,Aug 15 2012,Friendly in Ukraine,Ukraine,Czechia,1728,1789,0,0,-1,1,1727,1790,30,22,1,0,31,22,20,100,39
+525,Aug 15 2012,Friendly in Wales,Wales,Bosnia and Herzegovina,1629,1682,0,2,-17,17,1612,1699,64,38,-5,2,59,40,20,100,47
+526,Aug 22 2012,Nehru Gold Cup in India,India,Syria,1121,1573,2,1,35,-35,1156,1538,154,84,11,-7,165,77,40,100,-352
+527,Aug 23 2012,Nehru Gold Cup in India,Maldives,Nepal,1090,917,2,1,11,-11,1101,906,178,202,1,-2,179,200,40,0,173
+528,Aug 25 2012,Nehru Gold Cup in India,India,Maldives,1156,1101,3,0,20,-20,1176,1081,155,183,5,-2,160,181,40,100,155
+529,Aug 26 2012,Friendly in Botswana,Botswana,Uganda,1327,1517,0,0,3,-3,1330,1514,125,85,1,0,126,85,20,100,-90
+530,Aug 26 2012,Friendly in Tunisia,Libya,Sudan,1607,1479,3,0,11,-11,1618,1468,53,95,4,-1,57,94,20,0,128
+531,Aug 27 2012,Nehru Gold Cup in India,Maldives,Syria,1081,1538,2,1,37,-37,1118,1501,173,97,4,-10,177,87,40,0,-457
+532,Aug 28 2012,Nehru Gold Cup in India,India,Nepal,1176,906,0,0,-16,16,1160,922,170,196,-5,2,165,198,40,100,370
+533,Aug 30 2012,Nehru Gold Cup in India,Syria,Nepal,1501,922,2,0,2,-2,1503,920,85,198,1,0,86,198,30,0,579
+534,Sep 1 2012,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Barbados,1156,1152,2,0,11,-11,1167,1141,156,173,5,-3,161,170,20,100,104
+535,Sep 2 2012,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Barbados,1167,1141,1,1,-3,3,1164,1144,163,168,-1,1,162,169,20,100,126
+536,Sep 4 2012,Friendly in Liberia,Liberia,Malawi,1272,1416,1,0,11,-11,1283,1405,138,109,2,-2,140,107,20,100,-44
+537,Sep 5 2012,Friendly in Cambodia,Cambodia,Philippines,778,1126,0,0,6,-6,784,1120,211,180,0,-4,211,176,20,100,-248
+538,Sep 5 2012,Friendly in Jordan,Jordan,Iran,1550,1714,0,0,2,-2,1552,1712,72,33,1,0,73,33,20,100,-64
+539,Sep 5 2012,CONCACAF Ch & Car Ch q in Martinique,Martinique,British Virgin Islands,1346,767,16,0,3,-3,1349,764,116,214,1,-1,117,213,30,0,579
+540,Sep 5 2012,CONCACAF Ch & Car Ch q in Martinique,Suriname,Montserrat,1198,512,7,1,2,-2,1200,510,157,233,0,0,157,233,40,0,686
+541,Sep 6 2012,Friendly in Japan,Japan,United Arab Emirates,1793,1421,1,0,1,-1,1794,1420,19,104,1,0,20,104,20,100,472
+542,Sep 6 2012,Friendly in Lebanon,Lebanon,Australia,1284,1783,0,3,-3,3,1281,1786,143,25,-2,0,141,25,20,100,-399
+543,Sep 6 2012,Friendly in Sweden,Sweden,China,1874,1635,1,0,2,-2,1876,1633,12,53,0,0,12,53,20,100,339
+544,Sep 6 2012,Friendly in Germany,Tajikistan,Qatar,1231,1507,2,1,17,-17,1248,1490,144,97,3,-6,147,91,20,0,-276
+545,Sep 7 2012,World Cup qualifier in Albania,Albania,Cyprus,1498,1466,3,1,19,-19,1517,1447,77,103,6,-4,83,99,40,100,132
+546,Sep 7 2012,World Cup qualifier in Andorra,Andorra,Hungary,1003,1684,0,5,-3,3,1000,1687,189,42,0,0,189,42,40,100,-581
+547,Sep 7 2012,World Cup qualifier in Argentina,Argentina,Paraguay,1979,1759,3,1,8,-8,1987,1751,5,25,0,1,5,26,40,100,320
+548,Sep 7 2012,World Cup qualifier in Azerbaijan,Azerbaijan,Israel,1393,1654,1,1,9,-9,1402,1645,107,49,2,-1,109,48,40,100,-161
+549,Sep 7 2012,Friendly in Brazil,Brazil,South Africa,2060,1576,1,0,1,-1,2061,1575,2,67,0,0,2,67,20,0,484
+550,Sep 7 2012,World Cup qualifier in Bulgaria,Bulgaria,Italy,1643,1910,2,2,9,-9,1652,1901,42,13,4,-2,46,11,40,100,-167
+551,Sep 7 2012,World Cup qualifier in Canada,Canada,Panama,1600,1712,1,0,21,-21,1621,1691,50,47,6,-7,56,40,40,100,-12
+552,Sep 7 2012,World Cup qualifier in Colombia,Colombia,Uruguay,1794,1976,4,0,46,-46,1840,1930,12,10,4,-2,16,8,40,100,-82
+553,Sep 7 2012,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1662,1885,0,2,-20,20,1642,1905,52,9,-3,1,49,10,40,100,-123
+554,Sep 7 2012,World Cup qualifier in Croatia,Croatia,Macedonia,1865,1502,1,0,3,-3,1868,1499,13,90,0,-2,13,88,30,0,363
+555,Sep 7 2012,World Cup qualifier in Cuba,Cuba,Honduras,1367,1620,0,3,-21,21,1346,1641,123,44,-4,6,119,50,40,100,-153
+556,Sep 7 2012,World Cup qualifier in Ecuador,Ecuador,Bolivia,1810,1576,1,0,5,-5,1815,1571,20,71,-2,-2,18,69,40,100,334
+557,Sep 7 2012,World Cup qualifier in El Salvador,El Salvador,Guyana,1562,1340,2,2,-15,15,1547,1355,79,109,-4,6,75,115,40,100,322
+558,Sep 7 2012,World Cup qualifier in Estonia,Estonia,Romania,1534,1720,0,2,-23,23,1511,1743,94,26,-8,3,86,29,40,100,-86
+559,Sep 7 2012,World Cup qualifier in Finland,Finland,France,1624,1855,0,1,-13,13,1611,1868,64,12,-5,1,59,13,40,100,-131
+560,Sep 7 2012,World Cup qualifier in Georgia,Georgia,Belarus,1499,1592,1,0,20,-20,1519,1572,77,72,5,-4,82,68,40,100,7
+561,Sep 7 2012,World Cup qualifier in Germany,Germany,Faroe Islands,2038,1219,3,0,0,0,2038,1219,3,154,0,0,3,154,20,0,819
+562,Sep 7 2012,World Cup qualifier in Guatemala,Guatemala,Antigua and Barbuda,1521,1296,3,1,8,-8,1529,1288,76,140,3,-2,79,138,40,100,325
+563,Sep 7 2012,CONCACAF Ch & Car Ch q in Haiti,Haiti,Saint Martin,1415,898,7,0,3,-3,1418,895,105,202,0,0,105,202,30,0,517
+564,Sep 7 2012,World Cup qualifier in Iceland,Iceland,Norway,1438,1748,2,0,46,-46,1484,1702,82,49,10,-10,92,39,40,100,-210
+565,Sep 7 2012,World Cup qualifier in Jamaica,Jamaica,United States,1645,1761,2,1,21,-21,1666,1740,41,34,4,-4,45,30,40,100,-16
+566,Sep 7 2012,World Cup qualifier in Kazakhstan,Kazakhstan,Ireland,1345,1739,1,2,-6,6,1339,1745,122,24,-1,3,121,27,40,100,-294
+567,Sep 7 2012,World Cup qualifier in Latvia,Latvia,Greece,1537,1790,1,2,-12,12,1525,1802,83,16,-3,3,80,19,40,100,-153
+568,Sep 7 2012,World Cup qualifier in Liechtenstein,Liechtenstein,Bosnia and Herzegovina,1230,1699,1,8,-10,10,1220,1709,153,34,-1,3,152,37,40,100,-369
+569,Sep 7 2012,World Cup qualifier in Lithuania,Lithuania,Slovakia,1469,1614,1,1,3,-3,1472,1611,95,60,-1,-1,94,59,40,100,-45
+570,Sep 7 2012,World Cup qualifier in Luxembourg,Luxembourg,Portugal,1145,1945,1,2,-1,1,1144,1946,168,7,0,0,168,7,30,100,-700
+571,Sep 7 2012,World Cup qualifier in Malta,Malta,Armenia,1241,1531,0,1,-10,10,1231,1541,149,75,0,2,149,77,40,100,-190
+572,Sep 7 2012,CONCACAF Ch & Car Ch q in Martinique,Martinique,Montserrat,1349,510,5,0,0,0,1349,510,117,233,0,0,117,233,20,0,839
+573,Sep 7 2012,World Cup qualifier in Moldova,Moldova,England,1405,1986,0,5,-5,5,1400,1991,113,4,-3,0,110,4,40,100,-481
+574,Sep 7 2012,World Cup qualifier in Montenegro,Montenegro,Poland,1654,1684,2,2,-4,4,1650,1688,47,40,0,1,47,41,40,100,70
+575,Sep 7 2012,World Cup qualifier in the Netherlands,Netherlands,Turkey,1944,1755,2,0,10,-10,1954,1745,4,26,2,1,6,27,40,100,289
+576,Sep 7 2012,World Cup qualifier in New Caledonia,New Caledonia,New Zealand,1336,1521,0,2,-23,23,1313,1544,136,70,-7,6,129,76,40,100,-85
+577,Sep 7 2012,World Cup qualifier in Peru,Peru,Venezuela,1706,1699,2,1,14,-14,1720,1685,28,46,5,-3,33,43,40,100,107
+578,Sep 7 2012,CONCACAF Ch & Car Ch q in Haiti,Puerto Rico,Bermuda,1072,1209,2,1,28,-28,1100,1181,178,163,2,-4,180,159,40,0,-137
+579,Sep 7 2012,World Cup qualifier in Russia,Russia,Northern Ireland,1843,1451,2,0,3,-3,1846,1448,15,98,0,0,15,98,20,0,392
+580,Sep 7 2012,Friendly in Singapore,Singapore,Philippines,1248,1120,0,2,-24,24,1224,1144,155,160,-4,8,151,168,20,100,228
+581,Sep 7 2012,World Cup qualifier in Slovenia,Slovenia,Switzerland,1665,1788,0,2,-28,28,1637,1816,59,10,-7,7,52,17,40,100,-23
+582,Sep 7 2012,World Cup qualifier in the Solomon Islands,Solomon Islands,Tahiti,1249,1326,2,0,28,-28,1277,1298,140,142,3,-7,143,135,40,100,23
+583,Sep 7 2012,Friendly in Spain,Spain,Saudi Arabia,2155,1498,5,0,1,-1,2156,1497,1,91,0,-1,1,90,20,0,657
+584,Sep 7 2012,CONCACAF Ch & Car Ch q in Martinique,Suriname,British Virgin Islands,1200,764,4,0,6,-6,1206,758,153,213,2,0,155,213,40,0,436
+585,Sep 7 2012,Friendly in Uzbekistan,Uzbekistan,Kuwait,1592,1522,3,0,10,-10,1602,1512,60,90,2,-5,62,85,20,100,170
+586,Sep 7 2012,World Cup qualifier in Wales,Wales,Belgium,1612,1704,0,2,-31,31,1581,1735,70,23,-5,8,65,31,40,100,8
+587,Sep 8 2012,African Nations Cup qualifier in Cape Verde,Cape Verde,Cameroon,1396,1637,2,0,42,-42,1438,1595,93,72,9,-10,102,62,40,100,-141
+588,Sep 8 2012,African Nations Cup qualifier in Central African Republic,Central African Republic,Burkina Faso,1304,1440,1,0,22,-22,1326,1418,117,108,8,-3,125,105,40,100,-36
+589,Sep 8 2012,World Cup qualifier in Denmark,Denmark,Czechia,1796,1790,0,0,-6,6,1790,1796,26,20,-2,2,24,22,40,100,106
+590,Sep 8 2012,African Nations Cup qualifier in Gabon,Gabon,Togo,1568,1346,1,1,-15,15,1553,1361,72,111,-1,4,71,115,40,100,322
+591,Sep 8 2012,African Nations Cup qualifier in Ghana,Ghana,Malawi,1681,1405,2,0,6,-6,1687,1399,40,115,2,-4,42,111,40,100,376
+592,Sep 8 2012,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Senegal,1801,1549,4,2,7,-7,1808,1542,17,78,2,-2,19,76,40,100,352
+593,Sep 8 2012,African Nations Cup qualifier in Liberia,Liberia,Nigeria,1283,1639,2,2,13,-13,1296,1626,133,55,3,-2,136,53,40,100,-256
+594,Sep 8 2012,African Nations Cup qualifier in Mali,Mali,Botswana,1576,1330,3,0,8,-8,1584,1322,64,127,1,-1,65,126,40,100,346
+595,Sep 8 2012,World Cup qualifier in Scotland,Scotland,Serbia,1709,1711,0,0,-5,5,1704,1716,39,33,-1,1,38,34,40,100,98
+596,Sep 8 2012,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Tunisia,1334,1614,2,2,10,-10,1344,1604,120,62,1,-2,121,60,30,0,-280
+597,Sep 8 2012,Friendly in Saint Barthélemy,Saint Barthélemy,Guadeloupe,696,1442,1,8,-1,1,695,1443,218,99,0,1,218,100,20,0,-746
+598,Sep 8 2012,African Nations Cup qualifier in Sudan,Sudan,Ethiopia,1468,1332,5,3,12,-12,1480,1320,91,131,2,-4,93,127,40,100,236
+599,Sep 8 2012,African Nations Cup qualifier in Zambia,Zambia,Uganda,1609,1514,1,0,10,-10,1619,1504,51,88,5,-2,56,86,40,100,195
+600,Sep 9 2012,African Nations Cup qualifier in Morocco,Algeria,Libya,1522,1618,1,0,25,-25,1547,1593,67,67,7,-5,74,62,40,0,-96
+601,Sep 9 2012,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Equatorial Guinea,1460,1283,4,0,13,-13,1473,1270,92,146,2,-3,94,143,40,100,277
+602,Sep 9 2012,African Nations Cup qualifier in Guinea,Guinea,Niger,1556,1300,1,0,5,-5,1561,1295,68,138,1,-2,69,136,40,100,356
+603,Sep 9 2012,CONCACAF Ch & Car Ch q in Haiti,Haiti,Bermuda,1418,1181,3,1,8,-8,1426,1173,101,161,2,-1,103,160,40,100,337
+604,Sep 9 2012,CONCACAF Ch & Car Ch q in Martinique,Martinique,Suriname,1349,1206,2,2,-12,12,1337,1218,128,155,-5,0,123,155,40,100,243
+605,Sep 9 2012,CONCACAF Ch & Car Ch q in Martinique,Montserrat,British Virgin Islands,510,758,7,0,73,-73,583,685,223,225,5,-6,228,219,40,0,-248
+606,Sep 9 2012,African Nations Cup qualifier in Mozambique,Mozambique,Morocco,1305,1595,2,0,45,-45,1350,1550,103,84,15,-11,118,73,40,100,-190
+607,Sep 9 2012,CONCACAF Ch & Car Ch q in Haiti,Puerto Rico,Saint Martin,1100,895,9,0,24,-24,1124,871,168,208,6,-3,174,205,40,0,205
+608,Sep 9 2012,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Angola,1347,1499,3,1,34,-34,1381,1465,107,104,6,-8,113,96,40,100,-52
+609,Sep 10 2012,Friendly in Brazil,Brazil,China,2061,1633,8,0,2,-2,2063,1631,2,52,0,0,2,52,20,100,528
+610,Sep 10 2012,Friendly in Indonesia,Indonesia,North Korea,1265,1540,0,2,-8,8,1257,1548,146,69,-1,5,145,74,20,100,-175
+611,Sep 10 2012,Friendly in Laos,Laos,Philippines,842,1144,2,1,15,-15,857,1129,206,176,1,-4,207,172,20,100,-202
+612,Sep 11 2012,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,Guatemala,1288,1529,0,1,-12,12,1276,1541,141,78,-1,1,140,79,40,100,-141
+613,Sep 11 2012,World Cup qualifier in Austria,Austria,Germany,1622,2038,1,2,-6,6,1616,2044,58,3,-2,0,56,3,40,100,-316
+614,Sep 11 2012,World Cup qualifier in Belgium,Belgium,Croatia,1735,1868,1,1,2,-2,1737,1866,31,17,0,-2,31,15,40,100,-33
+615,Sep 11 2012,CONCACAF Ch & Car Ch q in Haiti,Bermuda,Saint Martin,1173,871,8,0,14,-14,1187,857,158,207,1,-1,159,206,40,0,302
+616,Sep 11 2012,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Latvia,1709,1525,4,1,11,-11,1720,1514,33,83,2,-1,35,82,40,100,284
+617,Sep 11 2012,World Cup qualifier in Bulgaria,Bulgaria,Armenia,1652,1541,1,0,9,-9,1661,1532,44,81,1,-1,45,80,40,100,211
+618,Sep 11 2012,World Cup qualifier in Chile,Chile,Colombia,1909,1840,1,3,-44,44,1865,1884,23,6,-7,5,16,11,40,100,169
+619,Sep 11 2012,World Cup qualifier in Cyprus,Cyprus,Iceland,1447,1484,1,0,16,-16,1463,1468,95,97,2,-3,97,94,40,100,63
+620,Sep 11 2012,Friendly in Czechia,Czechia,Finland,1796,1611,0,1,-17,17,1779,1628,26,45,-2,6,24,51,20,100,285
+621,Sep 11 2012,World Cup qualifier in England,England,Ukraine,1991,1727,1,1,-16,16,1975,1743,6,28,-1,2,5,30,40,100,364
+622,Sep 11 2012,World Cup qualifier in France,France,Belarus,1868,1572,3,1,6,-6,1874,1566,13,69,0,-1,13,68,40,100,396
+623,Sep 11 2012,Friendly in France,Gabon,Saudi Arabia,1553,1497,1,0,8,-8,1561,1489,72,91,-1,-1,71,90,20,0,56
+624,Sep 11 2012,World Cup qualifier in Georgia,Georgia,Spain,1519,2156,0,1,-2,2,1517,2158,80,1,1,0,81,1,40,100,-537
+625,Sep 11 2012,World Cup qualifier in Greece,Greece,Lithuania,1802,1472,2,0,5,-5,1807,1467,20,95,0,0,20,95,40,100,430
+626,Sep 11 2012,World Cup qualifier in Guyana,Guyana,El Salvador,1355,1547,2,3,-15,15,1340,1562,127,65,-5,5,122,70,40,100,-92
+627,Sep 11 2012,CONCACAF Ch & Car Ch q in Haiti,Haiti,Puerto Rico,1426,1124,2,1,4,-4,1430,1120,105,180,-1,-3,104,177,30,0,302
+628,Sep 11 2012,World Cup qualifier in Honduras,Honduras,Cuba,1641,1346,1,0,4,-4,1645,1342,46,122,2,-1,48,121,40,100,395
+629,Sep 11 2012,World Cup qualifier in Hungary,Hungary,Netherlands,1687,1954,1,4,-19,19,1668,1973,44,6,-1,0,43,6,40,100,-167
+630,Sep 11 2012,Friendly in England,Ireland,Oman,1745,1552,4,1,9,-9,1754,1543,25,83,1,-6,26,77,20,0,193
+631,Sep 11 2012,World Cup qualifier in Israel,Israel,Russia,1645,1846,0,4,-27,27,1618,1873,62,13,-7,1,55,14,40,100,-101
+632,Sep 11 2012,World Cup qualifier in Italy,Italy,Malta,1901,1231,2,0,1,-1,1902,1230,9,149,1,0,10,149,20,0,670
+633,Sep 11 2012,World Cup qualifier in Japan,Japan,Iraq,1794,1592,1,0,6,-6,1800,1586,19,63,2,0,21,63,40,100,302
+634,Sep 11 2012,World Cup qualifier in Jordan,Jordan,Australia,1552,1786,2,1,27,-27,1579,1759,59,25,6,0,65,25,40,100,-134
+635,Sep 11 2012,World Cup qualifier in Lebanon,Lebanon,Iran,1281,1712,1,0,35,-35,1316,1677,124,49,8,-7,132,42,40,100,-331
+636,Sep 11 2012,Friendly in Liberia,Liberia,Ghana,1296,1687,2,0,25,-25,1321,1662,123,46,6,-2,129,44,20,100,-291
+637,Sep 11 2012,Friendly in Malaysia,Malaysia,Vietnam,1220,1291,0,2,-16,16,1204,1307,158,134,-3,2,155,136,20,100,29
+638,Sep 11 2012,World Cup qualifier in Mexico,Mexico,Costa Rica,1905,1642,1,0,4,-4,1909,1638,8,49,1,0,9,49,20,0,263
+639,Sep 11 2012,Friendly in Myanmar,Myanmar,Singapore,1012,1224,1,1,3,-3,1015,1221,187,151,0,0,187,151,20,100,-112
+640,Sep 11 2012,World Cup qualifier in New Zealand,New Zealand,Solomon Islands,1544,1277,6,1,9,-9,1553,1268,69,142,4,0,73,142,40,100,367
+641,Sep 11 2012,World Cup qualifier in Norway,Norway,Slovenia,1702,1637,2,1,11,-11,1713,1626,33,53,3,-1,36,52,40,100,165
+642,Sep 11 2012,World Cup qualifier in Northern Ireland,Northern Ireland,Luxembourg,1448,1144,1,1,-16,16,1432,1160,108,164,-5,2,103,166,40,100,404
+643,Sep 11 2012,World Cup qualifier in Panama,Panama,Canada,1691,1621,2,0,16,-16,1707,1605,38,63,1,-4,39,59,40,100,170
+644,Sep 11 2012,World Cup qualifier in Paraguay,Paraguay,Venezuela,1751,1685,0,2,-43,43,1708,1728,50,24,-12,10,38,34,40,100,166
+645,Sep 11 2012,World Cup qualifier in Peru,Peru,Argentina,1720,1987,1,1,9,-9,1729,1978,33,3,0,1,33,4,40,100,-167
+646,Sep 11 2012,World Cup qualifier in Poland,Poland,Moldova,1688,1400,2,0,6,-6,1694,1394,39,112,1,-1,40,111,40,100,388
+647,Sep 11 2012,World Cup qualifier in Portugal,Portugal,Azerbaijan,1946,1402,3,0,2,-2,1948,1400,7,109,0,0,7,109,30,0,544
+648,Sep 11 2012,World Cup qualifier in Romania,Romania,Andorra,1743,1000,4,0,1,-1,1744,999,29,189,0,0,29,189,20,0,743
+649,Sep 11 2012,World Cup qualifier in San Marino,San Marino,Montenegro,890,1650,0,6,-2,2,888,1652,204,47,0,0,204,47,40,100,-660
+650,Sep 11 2012,World Cup qualifier in Scotland,Scotland,Macedonia,1704,1499,1,1,-14,14,1690,1513,44,78,-3,5,41,83,40,100,305
+651,Sep 11 2012,World Cup qualifier in Serbia,Serbia,Wales,1716,1581,6,1,16,-16,1732,1565,30,73,2,-4,32,69,40,100,235
+652,Sep 11 2012,World Cup qualifier in Slovakia,Slovakia,Liechtenstein,1611,1220,2,0,3,-3,1614,1217,57,156,0,-2,57,154,20,0,391
+653,Sep 11 2012,Friendly in South Africa,South Africa,Mozambique,1575,1350,2,0,4,-4,1579,1346,64,120,1,-1,65,119,20,100,325
+654,Sep 11 2012,World Cup qualifier in Sweden,Sweden,Kazakhstan,1876,1339,2,0,1,-1,1877,1338,12,124,0,-1,12,123,20,0,537
+655,Sep 11 2012,World Cup qualifier in Switzerland,Switzerland,Albania,1816,1517,2,0,5,-5,1821,1512,19,85,-1,-1,18,84,20,0,299
+656,Sep 11 2012,World Cup qualifier in Tahiti,Tahiti,New Caledonia,1298,1313,0,4,-46,46,1252,1359,156,103,-11,14,145,117,40,100,85
+657,Sep 11 2012,World Cup qualifier in Turkey,Turkey,Estonia,1745,1511,3,0,9,-9,1754,1502,25,89,1,-2,26,87,40,100,334
+658,Sep 11 2012,Friendly in the United Arab Emirates,United Arab Emirates,Kuwait,1420,1512,3,0,17,-17,1437,1495,99,92,3,-4,102,88,20,100,8
+659,Sep 11 2012,World Cup qualifier in Uruguay,Uruguay,Ecuador,1930,1815,1,1,-11,11,1919,1826,8,16,0,1,8,17,40,100,215
+660,Sep 11 2012,World Cup qualifier in the United States,United States,Jamaica,1740,1666,1,0,11,-11,1751,1655,26,47,2,-1,28,46,40,100,174
+661,Sep 11 2012,World Cup qualifier in Uzbekistan,Uzbekistan,South Korea,1602,1802,2,2,6,-6,1608,1796,56,24,2,-2,58,22,40,100,-100
+662,Sep 12 2012,Friendly in Thailand,Thailand,Laos,1376,857,2,1,1,-1,1377,856,115,210,0,-2,115,208,20,0,519
+663,Sep 15 2012,Friendly in Indonesia,Indonesia,Vietnam,1257,1307,0,0,-1,1,1256,1308,144,134,0,1,144,135,20,100,50
+664,Sep 15 2012,Friendly in Mauritius,Mauritius,Réunion,1024,1332,1,1,5,-5,1029,1327,185,127,0,-1,185,126,20,100,-208
+665,Sep 16 2012,Friendly in French Guiana,French Guiana,Haiti,1196,1430,1,2,-6,6,1190,1436,157,102,0,1,157,103,20,100,-134
+666,Sep 19 2012,Friendly tournament in Brazil,Brazil,Argentina,2063,1978,2,1,8,-8,2071,1970,2,8,0,-2,2,6,20,0,85
+667,Sep 20 2012,Friendly in Malaysia,Malaysia,Cambodia,1204,784,3,0,2,-2,1206,782,155,211,0,0,155,211,20,100,520
+668,Sep 20 2012,Friendly in Nepal,Nepal,Bangladesh,920,943,1,1,-2,2,918,945,198,194,0,0,198,194,20,100,77
+669,Sep 22 2012,French Territory Cup in France,Guadeloupe,Saint Pierre and Miquelon,1443,688,13,0,1,-1,1444,687,99,218,0,0,99,218,20,0,755
+670,Sep 22 2012,French Territory Cup in France,Martinique,New Caledonia,1337,1359,2,0,24,-24,1361,1335,108,133,8,-8,116,125,30,0,-22
+671,Sep 22 2012,French Territory Cup in France,Mayotte,Tahiti,1164,1252,3,1,28,-28,1192,1224,152,155,5,-5,157,150,30,0,-88
+672,Sep 22 2012,French Territory Cup in France,Réunion,French Guiana,1327,1190,2,0,14,-14,1341,1176,118,163,4,-3,122,160,30,0,137
+673,Sep 23 2012,CONCACAF Ch & Car Ch q in Barbados,Aruba,Dominican Republic,982,1126,2,2,8,-8,990,1118,191,181,0,-4,191,177,40,0,-144
+674,Sep 23 2012,CONCACAF Ch & Car Ch q in Barbados,Barbados,Dominica,1144,1022,1,0,9,-9,1153,1013,167,188,1,-1,168,187,40,100,222
+675,Sep 24 2012,French Territory Cup in France,Guadeloupe,French Guiana,1444,1176,4,2,8,-8,1452,1168,99,162,0,-1,99,161,30,0,268
+676,Sep 24 2012,French Territory Cup in France,Mayotte,New Caledonia,1192,1335,2,0,31,-31,1223,1304,145,147,6,-11,151,136,30,0,-143
+677,Sep 24 2012,French Territory Cup in France,Réunion,Saint Pierre and Miquelon,1341,687,10,0,2,-2,1343,685,118,218,2,0,120,218,30,0,654
+678,Sep 24 2012,French Territory Cup in France,Tahiti,Martinique,1224,1361,3,2,21,-21,1245,1340,144,128,3,-6,147,122,30,0,-137
+679,Sep 25 2012,CONCACAF Ch & Car Ch q in Barbados,Barbados,Dominican Republic,1153,1118,0,1,-27,27,1126,1145,178,161,-5,8,173,169,40,100,135
+680,Sep 25 2012,CONCACAF Ch & Car Ch q in Barbados,Dominica,Aruba,1013,990,3,2,19,-19,1032,971,181,193,3,-1,184,192,40,0,23
+681,Sep 25 2012,Friendly tournament in the Philippines,Macao,Taiwan,649,900,2,2,9,-9,658,891,222,205,1,-2,223,203,30,0,-251
+682,Sep 25 2012,Friendly tournament in the Philippines,Philippines,Guam,1129,657,1,0,1,-1,1130,656,172,225,0,-1,172,224,20,0,472
+683,Sep 26 2012,Friendly in Brunei,Brunei,Indonesia,649,1256,0,5,-2,2,647,1258,225,146,0,-1,225,145,20,100,-507
+684,Sep 26 2012,French Territory Cup in France,French Guiana,Saint Pierre and Miquelon,1168,685,11,1,5,-5,1173,680,161,224,0,-3,161,221,30,0,483
+685,Sep 26 2012,French Territory Cup in France,Martinique,Mayotte,1340,1223,3,0,18,-18,1358,1205,114,161,4,-5,118,156,30,0,117
+686,Sep 26 2012,French Territory Cup in France,Réunion,Guadeloupe,1343,1452,2,1,20,-20,1363,1432,112,107,4,-4,116,103,30,0,-109
+687,Sep 26 2012,French Territory Cup in France,Tahiti,New Caledonia,1245,1304,1,0,18,-18,1263,1286,139,140,4,-2,143,138,30,0,-59
+688,Sep 27 2012,CONCACAF Ch & Car Ch q in Barbados,Barbados,Aruba,1126,971,2,1,7,-7,1133,964,169,194,2,-1,171,193,40,100,255
+689,Sep 27 2012,CONCACAF Ch & Car Ch q in Barbados,Dominican Republic,Dominica,1145,1032,2,1,14,-14,1159,1018,167,188,1,-2,168,186,40,0,113
+690,Sep 27 2012,Friendly tournament in the Philippines,Philippines,Macao,1130,658,5,0,2,-2,1132,656,174,223,-1,0,173,223,20,0,472
+691,Sep 27 2012,Friendly tournament in the Philippines,Taiwan,Guam,891,656,2,0,9,-9,900,647,199,224,2,0,201,224,30,0,235
+692,Sep 28 2012,French Territory Cup in France,French Guiana,Tahiti,1173,1263,2,1,19,-19,1192,1244,155,151,3,-4,158,147,30,0,-90
+693,Sep 28 2012,French Territory Cup in France,New Caledonia,Saint Pierre and Miquelon,1286,680,16,1,3,-3,1289,677,138,221,0,0,138,221,30,0,606
+694,Sep 28 2012,Friendly in Oman,Oman,Yemen,1543,1314,2,1,3,-3,1546,1311,77,134,0,-1,77,133,20,100,329
+695,Sep 29 2012,French Territory Cup in France,Guadeloupe,Mayotte,1432,1205,1,0,6,-6,1438,1199,97,158,3,-1,100,157,30,0,227
+696,Sep 29 2012,Friendly tournament in the Philippines,Guam,Macao,647,656,3,0,27,-27,674,629,222,229,1,-3,223,226,30,0,-9
+697,Sep 29 2012,French Territory Cup in France,Martinique,Réunion,1358,1363,2,2,0,0,1358,1363,118,116,0,0,118,116,20,0,-5
+698,Sep 29 2012,Friendly tournament in the Philippines,Philippines,Taiwan,1132,900,3,1,6,-6,1138,894,169,205,2,-2,171,203,20,0,232
+699,Oct 5 2012,Southeast Asian Champ qual in Myanmar,East Timor,Cambodia,525,782,5,1,61,-61,586,721,223,215,5,-2,228,213,40,0,-257
+700,Oct 5 2012,Southeast Asian Champ qual in Myanmar,Myanmar,Brunei,1015,647,1,0,3,-3,1018,644,185,224,1,0,186,224,30,0,368
+701,Oct 7 2012,Southeast Asian Champ qual in Myanmar,Laos,Cambodia,856,721,1,0,13,-13,869,708,204,213,2,0,206,213,40,0,135
+702,Oct 7 2012,Southeast Asian Champ qual in Myanmar,Myanmar,East Timor,1018,586,2,1,2,-2,1020,584,186,228,0,0,186,228,20,0,432
+703,Oct 8 2012,Friendly in Qatar,Qatar,Jordan,1490,1579,1,1,0,0,1490,1579,89,65,0,0,89,65,20,100,11
+704,Oct 9 2012,Southeast Asian Champ qual in Myanmar,Brunei,Cambodia,644,708,3,2,24,-24,668,684,224,225,0,-6,224,219,40,0,-64
+705,Oct 9 2012,Southeast Asian Champ qual in Myanmar,East Timor,Laos,584,869,3,1,50,-50,634,819,222,212,3,-3,225,209,40,0,-285
+706,Oct 9 2012,Friendly in Niger,Niger,Liberia,1295,1321,4,3,8,-8,1303,1313,136,134,0,-3,136,131,20,100,74
+707,Oct 9 2012,Friendly in Qatar,Qatar,Oman,1490,1546,1,1,-1,1,1489,1547,89,75,0,1,89,76,20,100,44
+708,Oct 10 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Anguilla,1204,560,2,0,1,-1,1205,559,156,231,0,0,156,231,20,0,644
+709,Oct 10 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Trinidad and Tobago,French Guiana,1480,1192,4,1,11,-11,1491,1181,87,162,2,-2,89,160,40,0,288
+710,Oct 11 2012,Friendly in Sweden,Brazil,Iraq,2071,1586,6,0,2,-2,2073,1584,2,63,0,0,2,63,20,0,485
+711,Oct 11 2012,Friendly in Kuwait,Kuwait,Syria,1495,1503,1,1,-3,3,1492,1506,88,84,0,1,88,85,20,100,92
+712,Oct 11 2012,Southeast Asian Champ qual in Myanmar,Laos,Brunei,819,668,3,1,18,-18,837,650,207,224,1,0,208,224,40,0,151
+713,Oct 11 2012,Southeast Asian Champ qual in Myanmar,Myanmar,Cambodia,1020,684,3,0,5,-5,1025,679,186,221,0,-1,186,220,40,100,436
+714,Oct 12 2012,World Cup qualifier in Albania,Albania,Iceland,1512,1468,1,2,-28,28,1484,1496,102,80,-9,7,93,87,40,100,144
+715,Oct 12 2012,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda,United States,1276,1751,1,2,-4,4,1272,1755,140,28,0,0,140,28,40,100,-375
+716,Oct 12 2012,World Cup qualifier in Argentina,Argentina,Uruguay,1970,1919,3,0,21,-21,1991,1898,2,12,2,-2,4,10,40,100,151
+717,Oct 12 2012,World Cup qualifier in Armenia,Armenia,Italy,1532,1902,1,3,-10,10,1522,1912,82,6,-1,2,81,8,40,100,-270
+718,Oct 12 2012,Friendly in Bahrain,Bahrain,Philippines,1443,1138,0,0,-8,8,1435,1146,107,169,-4,1,103,170,20,100,405
+719,Oct 12 2012,World Cup qualifier in Belarus,Belarus,Spain,1566,2158,0,4,-4,4,1562,2162,72,1,-2,0,70,1,40,100,-492
+720,Oct 12 2012,World Cup qualifier in Bolivia,Bolivia,Peru,1571,1729,1,1,3,-3,1574,1726,69,35,-1,-1,68,34,40,100,-58
+721,Oct 12 2012,World Cup qualifier in Bulgaria,Bulgaria,Denmark,1661,1790,1,1,2,-2,1663,1788,43,23,1,0,44,23,40,100,-29
+722,Oct 12 2012,World Cup qualifier in Canada,Canada,Cuba,1605,1342,3,0,8,-8,1613,1334,55,128,2,-3,57,125,40,100,363
+723,Oct 12 2012,World Cup qualifier in Colombia,Colombia,Paraguay,1884,1708,2,0,10,-10,1894,1698,11,36,0,1,11,37,40,100,276
+724,Oct 12 2012,World Cup qualifier in Czechia,Czechia,Malta,1779,1230,3,1,1,-1,1780,1229,26,147,-1,1,25,148,20,0,549
+725,Oct 12 2012,World Cup qualifier in Ecuador,Ecuador,Chile,1826,1865,3,1,25,-25,1851,1840,15,18,1,-1,16,17,30,0,-39
+726,Oct 12 2012,Friendly in the United Arab Emirates,Egypt,Congo,1710,1393,3,0,5,-5,1715,1388,35,112,1,0,36,112,20,0,317
+727,Oct 12 2012,World Cup qualifier in El Salvador,El Salvador,Costa Rica,1562,1638,0,1,-21,21,1541,1659,88,43,-9,3,79,46,40,100,24
+728,Oct 12 2012,World Cup qualifier in England,England,San Marino,1975,888,5,0,0,0,1975,888,6,204,-1,0,5,204,20,0,1087
+729,Oct 12 2012,World Cup qualifier in Estonia,Estonia,Hungary,1502,1668,0,1,-16,16,1486,1684,95,39,-4,2,91,41,40,100,-66
+730,Oct 12 2012,World Cup qualifier in the Faroe Islands,Faroe Islands,Sweden,1219,1877,1,2,-2,2,1217,1879,154,14,-1,-1,153,13,40,100,-558
+731,Oct 12 2012,World Cup qualifier in Finland,Finland,Georgia,1628,1517,1,1,-11,11,1617,1528,61,79,-5,1,56,80,40,100,211
+732,Oct 12 2012,Friendly in France,France,Japan,1874,1800,0,1,-15,15,1859,1815,17,15,-2,3,15,18,20,100,174
+733,Oct 12 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,French Guiana,Anguilla,1181,559,4,1,2,-2,1183,557,160,231,0,0,160,231,40,0,622
+734,Oct 12 2012,World Cup qualifier in Greece,Greece,Bosnia and Herzegovina,1807,1720,0,0,-10,10,1797,1730,22,27,-1,4,21,31,40,100,187
+735,Oct 12 2012,World Cup qualifier in Guatemala,Guatemala,Jamaica,1541,1655,2,1,21,-21,1562,1634,61,52,9,-3,70,49,40,100,-14
+736,Oct 12 2012,World Cup qualifier in Ireland,Ireland,Germany,1754,2044,1,6,-20,20,1734,2064,32,3,-3,0,29,3,40,100,-190
+737,Oct 12 2012,World Cup qualifier in Kazakhstan,Kazakhstan,Austria,1338,1616,0,0,9,-9,1347,1607,116,60,4,-2,120,58,40,100,-178
+738,Oct 12 2012,Friendly in Lesotho,Lesotho,Swaziland,1151,1103,2,1,6,-6,1157,1097,167,182,1,-1,168,181,20,100,148
+739,Oct 12 2012,World Cup qualifier in Liechtenstein,Liechtenstein,Lithuania,1217,1467,0,2,-18,18,1199,1485,156,89,-1,3,155,92,40,100,-150
+740,Oct 12 2012,World Cup qualifier in Luxembourg,Luxembourg,Israel,1160,1618,0,6,-10,10,1150,1628,172,49,-3,3,169,52,40,100,-358
+741,Oct 12 2012,World Cup qualifier in Macedonia,Macedonia,Croatia,1513,1866,1,2,-8,8,1505,1874,83,13,0,1,83,14,40,100,-253
+742,Oct 12 2012,World Cup qualifier in the United States,Mexico,Guyana,1909,1340,5,0,3,-3,1912,1337,7,123,1,0,8,123,40,0,569
+743,Oct 12 2012,World Cup qualifier in Moldova,Moldova,Ukraine,1394,1743,0,0,12,-12,1406,1731,105,30,3,0,108,30,40,100,-249
+744,Oct 12 2012,World Cup qualifier in the Netherlands,Netherlands,Andorra,1973,999,3,0,0,0,1973,999,7,189,-1,0,6,189,20,0,974
+745,Oct 12 2012,World Cup qualifier in Panama,Panama,Honduras,1707,1645,0,0,-9,9,1698,1654,35,46,2,1,37,47,40,100,162
+746,Oct 12 2012,Friendly in Poland,Poland,South Africa,1694,1579,1,0,4,-4,1698,1575,34,69,3,-2,37,67,20,100,215
+747,Oct 12 2012,World Cup qualifier in Russia,Russia,Portugal,1873,1948,1,0,19,-19,1892,1929,10,7,2,0,12,7,40,100,25
+748,Oct 12 2012,World Cup qualifier in Serbia,Serbia,Belgium,1732,1737,0,3,-44,44,1688,1781,48,17,-8,7,40,24,40,100,95
+749,Oct 12 2012,World Cup qualifier in Slovakia,Slovakia,Latvia,1614,1514,2,1,10,-10,1624,1504,51,86,3,-2,54,84,40,100,200
+750,Oct 12 2012,World Cup qualifier in Slovenia,Slovenia,Cyprus,1626,1463,2,1,7,-7,1633,1456,48,97,2,0,50,97,40,100,263
+751,Oct 12 2012,World Cup qualifier in the Solomon Islands,Solomon Islands,New Caledonia,1268,1289,2,6,-46,46,1222,1335,158,110,-8,14,150,124,40,100,79
+752,Oct 12 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,Trinidad and Tobago,1205,1491,0,1,-10,10,1195,1501,158,83,-1,3,157,86,40,100,-186
+753,Oct 12 2012,World Cup qualifier in Switzerland,Switzerland,Norway,1821,1713,1,1,-11,11,1810,1724,20,34,-1,1,19,35,40,100,208
+754,Oct 12 2012,World Cup qualifier in Tahiti,Tahiti,New Zealand,1244,1553,0,2,-14,14,1230,1567,147,65,0,4,147,69,40,100,-209
+755,Oct 12 2012,World Cup qualifier in Turkey,Turkey,Romania,1754,1744,0,1,-26,26,1728,1770,38,23,-6,3,32,26,40,100,110
+756,Oct 12 2012,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1437,1608,2,2,2,-2,1439,1606,96,60,3,-1,99,59,20,100,-71
+757,Oct 12 2012,World Cup qualifier in Wales,Wales,Scotland,1565,1690,2,1,21,-21,1586,1669,57,45,6,-2,63,43,40,100,-25
+758,Oct 13 2012,African Nations Cup qualifier in Botswana,Botswana,Mali,1322,1584,1,4,-20,20,1302,1604,146,54,-9,5,137,59,40,100,-162
+759,Oct 13 2012,Southeast Asian Champ qual in Myanmar,Brunei,East Timor,650,634,2,1,19,-19,669,615,224,229,0,-2,224,227,40,0,16
+760,Oct 13 2012,African Nations Cup qualifier in Malawi,Malawi,Ghana,1399,1662,0,1,-11,11,1388,1673,111,41,0,2,111,43,40,100,-163
+761,Oct 13 2012,African Nations Cup qualifier in Morocco,Morocco,Mozambique,1550,1346,4,0,11,-11,1561,1335,70,125,2,-2,72,123,40,100,304
+762,Oct 13 2012,Southeast Asian Champ qual in Myanmar,Myanmar,Laos,1025,837,0,0,-14,14,1011,851,190,208,-2,0,188,208,40,100,288
+763,Oct 13 2012,Friendly in Namibia,Namibia,Rwanda,1312,1404,0,0,0,0,1312,1404,129,109,2,0,131,109,20,100,8
+764,Oct 13 2012,African Nations Cup qualifier in Nigeria,Nigeria,Liberia,1626,1313,6,1,7,-7,1633,1306,47,138,3,-3,50,135,40,100,413
+765,Oct 13 2012,African Nations Cup qualifier in Senegal,Senegal,Ivory Coast,1542,1808,0,2,-17,17,1525,1825,82,16,-2,2,80,18,40,100,-166
+766,Oct 13 2012,African Nations Cup qualifier in Tunisia,Tunisia,Sierra Leone,1604,1344,0,0,-16,16,1588,1360,66,114,-3,4,63,118,40,100,360
+767,Oct 13 2012,African Nations Cup qualifier in Uganda,Uganda,Zambia,1504,1619,1,0,21,-21,1525,1598,76,65,4,-5,80,60,40,100,-15
+768,Oct 14 2012,African Nations Cup qualifier in Algeria,Algeria,Libya,1547,1593,2,0,25,-25,1572,1568,60,76,8,-7,68,69,30,0,-46
+769,Oct 14 2012,African Nations Cup qualifier in Angola,Angola,Zimbabwe,1465,1381,2,0,15,-15,1480,1366,92,119,2,-3,94,116,40,100,184
+770,Oct 14 2012,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Central African Republic,1418,1326,3,1,15,-15,1433,1311,100,137,3,-5,103,132,40,100,192
+771,Oct 14 2012,African Nations Cup qualifier in Cameroon,Cameroon,Cape Verde,1595,1438,2,1,7,-7,1602,1431,59,110,1,-5,60,105,40,100,257
+772,Oct 14 2012,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,DR Congo,1270,1473,2,1,26,-26,1296,1447,135,99,3,-2,138,97,40,100,-103
+773,Oct 14 2012,African Nations Cup qualifier in Ethiopia,Ethiopia,Sudan,1320,1480,2,0,35,-35,1355,1445,112,102,8,-4,120,98,40,100,-60
+774,Oct 14 2012,Friendly in Lesotho,Lesotho,Swaziland,1157,1097,0,1,-14,14,1143,1111,172,177,-2,2,170,179,20,100,160
+775,Oct 14 2012,African Nations Cup qualifier in Niger,Niger,Guinea,1303,1561,2,0,43,-43,1346,1518,110,92,13,-10,123,82,40,100,-158
+776,Oct 14 2012,Friendly in Saudi Arabia,Saudi Arabia,Congo,1489,1388,3,2,5,-5,1494,1383,87,115,1,-2,88,113,20,100,201
+777,Oct 14 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Saint Kitts and Nevis,French Guiana,1195,1183,0,3,-46,46,1149,1229,179,136,-11,12,168,148,40,100,112
+778,Oct 14 2012,African Nations Cup qualifier in Togo,Togo,Gabon,1361,1561,2,1,26,-26,1387,1535,107,82,5,-5,112,77,40,100,-100
+779,Oct 14 2012,CONCACAF Ch & Car Ch q in Saint Kitts and Nevis,Trinidad and Tobago,Anguilla,1501,557,10,0,0,0,1501,557,86,231,0,0,86,231,20,0,944
+780,Oct 16 2012,World Cup qualifier in Albania,Albania,Slovenia,1484,1633,1,0,23,-23,1507,1610,77,64,8,-7,85,57,40,100,-49
+781,Oct 16 2012,World Cup qualifier in Andorra,Andorra,Estonia,999,1486,0,1,-4,4,995,1490,191,89,-1,1,190,90,40,100,-387
+782,Oct 16 2012,World Cup qualifier in Qatar,Australia,Iraq,1759,1584,2,1,11,-11,1770,1573,23,70,2,-3,25,67,40,0,175
+783,Oct 16 2012,World Cup qualifier in Austria,Austria,Kazakhstan,1607,1347,4,0,8,-8,1615,1339,55,128,1,-3,56,125,40,100,360
+784,Oct 16 2012,World Cup qualifier in Belarus,Belarus,Georgia,1562,1528,2,0,19,-19,1581,1509,57,88,7,-5,64,83,40,100,134
+785,Oct 16 2012,World Cup qualifier in Belgium,Belgium,Scotland,1781,1669,2,0,14,-14,1795,1655,20,52,2,-4,22,48,40,100,212
+786,Oct 16 2012,World Cup qualifier in Bolivia,Bolivia,Uruguay,1574,1898,4,1,55,-55,1629,1843,39,22,14,-6,53,16,40,100,-224
+787,Oct 16 2012,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Lithuania,1730,1485,3,0,8,-8,1738,1477,31,94,0,-1,31,93,40,100,345
+788,Oct 16 2012,Friendly in Poland,Brazil,Japan,2073,1815,4,0,7,-7,2080,1808,2,23,0,-2,2,21,20,0,258
+789,Oct 16 2012,World Cup qualifier in Chile,Chile,Argentina,1840,1991,1,2,-17,17,1823,2008,21,4,-2,0,19,4,40,100,-51
+790,Oct 16 2012,Friendly in Colombia,Colombia,Cameroon,1894,1602,3,0,3,-3,1897,1599,9,62,1,-1,10,61,20,100,392
+791,Oct 16 2012,World Cup qualifier in Costa Rica,Costa Rica,Guyana,1659,1337,7,0,7,-7,1666,1330,46,130,0,-3,46,127,40,100,422
+792,Oct 16 2012,World Cup qualifier in Croatia,Croatia,Wales,1874,1586,2,0,6,-6,1880,1580,12,69,1,-3,13,66,40,100,388
+793,Oct 16 2012,World Cup qualifier in Cuba,Cuba,Panama,1334,1698,1,1,13,-13,1347,1685,119,45,4,-4,123,41,40,100,-264
+794,Oct 16 2012,World Cup qualifier in Cyprus,Cyprus,Norway,1456,1724,1,3,-17,17,1439,1741,105,23,-5,6,100,29,40,100,-168
+795,Oct 16 2012,World Cup qualifier in Czechia,Czechia,Bulgaria,1780,1663,0,0,-11,11,1769,1674,27,43,-1,1,26,44,40,100,217
+796,Oct 16 2012,World Cup qualifier in the Faroe Islands,Faroe Islands,Ireland,1217,1734,1,4,-6,6,1211,1740,154,31,0,-1,154,30,40,100,-417
+797,Oct 16 2012,World Cup qualifier in Germany,Germany,Sweden,2064,1879,4,4,-14,14,2050,1893,3,9,0,2,3,11,40,100,285
+798,Oct 16 2012,World Cup qualifier in Honduras,Honduras,Canada,1654,1613,8,1,28,-28,1682,1585,37,70,5,-7,42,63,40,100,141
+799,Oct 16 2012,Friendly in Hong Kong,Hong Kong,Malaysia,1190,1206,0,3,-22,22,1168,1228,162,145,-2,5,160,150,20,100,84
+800,Oct 16 2012,World Cup qualifier in Hungary,Hungary,Turkey,1684,1728,3,1,25,-25,1709,1703,29,40,6,-4,35,36,30,0,-44
+801,Oct 16 2012,World Cup qualifier in Iceland,Iceland,Switzerland,1496,1810,0,2,-14,14,1482,1824,95,16,-4,2,91,18,40,100,-214
+802,Oct 16 2012,World Cup qualifier in Iran,Iran,South Korea,1677,1796,1,0,21,-21,1698,1775,36,24,3,-1,39,23,40,100,-19
+803,Oct 16 2012,World Cup qualifier in Israel,Israel,Luxembourg,1628,1150,3,0,2,-2,1630,1148,51,169,1,-1,52,168,20,0,478
+804,Oct 16 2012,World Cup qualifier in Italy,Italy,Denmark,1912,1788,3,1,13,-13,1925,1775,6,23,1,0,7,23,40,100,224
+805,Oct 16 2012,World Cup qualifier in Jamaica,Jamaica,Antigua and Barbuda,1634,1272,4,1,5,-5,1639,1267,49,141,0,0,49,141,40,100,462
+806,Oct 16 2012,Friendly in Kenya,Kenya,South Africa,1319,1575,1,2,-6,6,1313,1581,131,62,-1,2,130,64,20,100,-156
+807,Oct 16 2012,Friendly in Kuwait,Kuwait,Philippines,1492,1146,2,1,1,-1,1493,1145,89,169,0,0,89,169,20,100,446
+808,Oct 16 2012,World Cup qualifier in Latvia,Latvia,Liechtenstein,1504,1199,2,0,5,-5,1509,1194,81,158,2,-1,83,157,40,100,405
+809,Oct 16 2012,Friendly in Lebanon,Lebanon,Yemen,1316,1311,2,1,7,-7,1323,1304,128,138,1,-3,129,135,20,100,105
+810,Oct 16 2012,World Cup qualifier in Macedonia,Macedonia,Serbia,1505,1688,1,0,25,-25,1530,1663,72,54,6,-7,78,47,40,100,-83
+811,Oct 16 2012,World Cup qualifier in Mexico,Mexico,El Salvador,1912,1541,2,0,4,-4,1916,1537,8,76,0,0,8,76,40,100,471
+812,Oct 16 2012,World Cup qualifier in New Caledonia,New Caledonia,Solomon Islands,1335,1222,5,0,18,-18,1353,1204,117,159,4,-4,121,155,40,100,213
+813,Oct 16 2012,World Cup qualifier in New Zealand,New Zealand,Tahiti,1567,1230,3,0,5,-5,1572,1225,66,157,2,-5,68,152,40,100,437
+814,Oct 16 2012,World Cup qualifier in Oman,Oman,Jordan,1547,1579,2,1,16,-16,1563,1563,67,77,4,-6,71,71,30,0,-32
+815,Oct 16 2012,World Cup qualifier in Paraguay,Paraguay,Peru,1698,1726,1,0,16,-16,1714,1710,29,34,4,0,33,34,30,0,-28
+816,Oct 16 2012,World Cup qualifier in Portugal,Portugal,Northern Ireland,1929,1432,1,1,-19,19,1910,1451,11,90,-2,7,9,97,40,100,597
+817,Oct 16 2012,World Cup qualifier in Qatar,Qatar,Uzbekistan,1489,1606,0,1,-19,19,1470,1625,98,50,-4,4,94,54,40,100,-17
+818,Oct 16 2012,World Cup qualifier in Romania,Romania,Netherlands,1770,1973,1,4,-25,25,1745,1998,30,4,-2,1,28,5,40,100,-103
+819,Oct 16 2012,World Cup qualifier in Russia,Russia,Azerbaijan,1892,1400,1,0,1,-1,1893,1399,10,110,1,0,11,110,20,0,492
+820,Oct 16 2012,World Cup qualifier in San Marino,San Marino,Moldova,888,1406,0,2,-5,5,883,1411,204,106,0,1,204,107,40,100,-418
+821,Oct 16 2012,Friendly in Singapore,Singapore,India,1221,1160,2,0,9,-9,1230,1151,142,167,5,-1,147,166,20,100,161
+822,Oct 16 2012,World Cup qualifier in Slovakia,Slovakia,Greece,1624,1797,0,1,-16,16,1608,1813,62,19,-4,1,58,20,40,100,-73
+823,Oct 16 2012,World Cup qualifier in Spain,Spain,France,2162,1859,1,1,-16,16,2146,1875,1,13,0,1,1,14,40,100,403
+824,Oct 16 2012,Friendly in the United Arab Emirates,Tunisia,Egypt,1588,1715,1,0,14,-14,1602,1701,58,40,2,-2,60,38,20,0,-127
+825,Oct 16 2012,Friendly in the United Arab Emirates,United Arab Emirates,Bahrain,1439,1435,6,2,13,-13,1452,1422,93,110,3,-4,96,106,20,100,104
+826,Oct 16 2012,World Cup qualifier in Ukraine,Ukraine,Montenegro,1731,1652,0,1,-29,29,1702,1681,44,38,-7,5,37,43,40,100,179
+827,Oct 16 2012,World Cup qualifier in the United States,United States,Guatemala,1755,1562,3,1,9,-9,1764,1553,26,77,1,-3,27,74,40,100,293
+828,Oct 16 2012,World Cup qualifier in Venezuela,Venezuela,Ecuador,1728,1851,1,1,1,-1,1729,1850,32,14,0,1,32,15,20,100,-23
+829,Oct 16 2012,Friendly in Vietnam,Vietnam,Indonesia,1308,1258,0,0,-4,4,1304,1262,136,141,-1,1,135,142,20,100,150
+830,Oct 17 2012,World Cup qualifier in Poland,Poland,England,1698,1975,1,1,9,-9,1707,1966,33,6,3,0,36,6,40,100,-177
+831,Oct 21 2012,CONCACAF Ch & Car Ch q in Saint Lucia,Saint Lucia,Curaçao,978,1087,5,1,38,-38,1016,1049,183,184,4,-1,187,183,40,100,-9
+832,Oct 21 2012,CONCACAF Ch & Car Ch q in Saint Lucia,St Vincent & Grenadines,Guyana,1164,1330,2,1,29,-29,1193,1301,154,147,4,-10,158,137,40,0,-166
+833,Oct 23 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Dominican Republic,1438,1159,0,2,-54,54,1384,1213,123,143,-11,11,112,154,40,100,379
+834,Oct 23 2012,CONCACAF Ch & Car Ch q in Saint Lucia,Guyana,Curaçao,1301,1049,2,1,8,-8,1309,1041,127,183,5,0,132,183,40,0,252
+835,Oct 23 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Martinique,Puerto Rico,1358,1120,2,1,8,-8,1366,1112,113,179,3,-1,116,178,40,0,238
+836,Oct 23 2012,CONCACAF Ch & Car Ch q in Saint Lucia,Saint Lucia,St Vincent & Grenadines,1016,1193,1,0,24,-24,1040,1169,181,164,3,-3,184,161,40,100,-77
+837,Oct 24 2012,Friendly tournament in Vietnam,Vietnam,Turkmenistan,1304,1350,0,1,-17,17,1287,1367,143,110,-4,6,139,116,30,100,54
+838,Oct 25 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Dominican Republic,Martinique,1213,1366,1,1,8,-8,1221,1358,152,123,1,-3,153,120,40,0,-153
+839,Oct 25 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Puerto Rico,1384,1112,4,1,7,-7,1391,1105,108,182,2,-2,110,180,40,100,372
+840,Oct 25 2012,CONCACAF Ch & Car Ch q in Saint Lucia,Saint Lucia,Guyana,1040,1309,0,3,-19,19,1021,1328,186,124,-1,4,185,128,40,100,-169
+841,Oct 25 2012,CONCACAF Ch & Car Ch q in Saint Lucia,St Vincent & Grenadines,Curaçao,1169,1041,4,0,24,-24,1193,1017,157,191,2,-4,159,187,40,0,128
+842,Oct 26 2012,Friendly tournament in Vietnam,Vietnam,Laos,1287,851,4,0,2,-2,1289,849,139,208,0,0,139,208,20,100,536
+843,Oct 27 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Dominican Republic,Puerto Rico,1221,1105,3,1,20,-20,1241,1085,139,182,7,-1,146,181,40,0,116
+844,Oct 27 2012,CONCACAF Ch & Car Ch q in Guadeloupe,Guadeloupe,Martinique,1391,1358,3,3,-7,7,1384,1365,114,116,-2,2,112,118,40,100,133
+845,Oct 28 2012,Friendly tournament in Vietnam,Turkmenistan,Laos,1367,849,4,2,2,-2,1369,847,116,208,0,0,116,208,30,0,518
+846,Nov 3 2012,Friendly in Vietnam,Vietnam,Malaysia,1289,1228,1,0,6,-6,1295,1222,137,155,1,-2,138,153,20,100,161
+847,Nov 6 2012,Friendly in Iran,Iran,Tajikistan,1698,1248,6,1,2,-2,1700,1246,40,145,0,0,40,145,20,100,550
+848,Nov 7 2012,Friendly in Qatar,Qatar,Iraq,1470,1573,2,1,10,-10,1480,1563,90,73,2,-3,92,70,20,100,-3
+849,Nov 7 2012,Friendly in Thailand,Thailand,Malaysia,1377,1222,2,0,6,-6,1383,1216,111,155,2,-1,113,154,20,100,255
+850,Nov 8 2012,Friendly in Bahrain,Bahrain,Jordan,1422,1563,3,0,20,-20,1442,1543,95,80,5,-5,100,75,20,100,-41
+851,Nov 8 2012,Friendly in Oman,Oman,Estonia,1563,1490,1,2,-15,15,1548,1505,76,84,-3,3,73,87,20,100,173
+852,Nov 11 2012,Friendly in Swaziland,Swaziland,Lesotho,1111,1143,0,0,-2,2,1109,1145,178,168,0,1,178,169,20,100,68
+853,Nov 14 2012,Friendly in Switzerland,Albania,Cameroon,1507,1599,0,0,3,-3,1510,1596,83,61,1,0,84,61,20,0,-92
+854,Nov 14 2012,Friendly in Algeria,Algeria,Bosnia and Herzegovina,1572,1738,0,1,-8,8,1564,1746,71,29,-2,1,69,30,20,100,-66
+855,Nov 14 2012,Friendly in Andorra,Andorra,Iceland,995,1482,0,2,-3,3,992,1485,191,91,0,0,191,91,20,100,-387
+856,Nov 14 2012,Friendly in Portugal,Angola,Congo,1480,1383,1,1,-3,3,1477,1386,94,111,-1,1,93,112,20,0,97
+857,Nov 14 2012,Friendly in Armenia,Armenia,Lithuania,1522,1477,4,2,9,-9,1531,1468,75,94,3,0,78,94,20,100,145
+858,Nov 14 2012,Friendly in Austria,Austria,Ivory Coast,1615,1825,0,3,-12,12,1603,1837,60,17,-2,0,58,17,20,100,-110
+859,Nov 14 2012,Friendly in Bolivia,Bolivia,Costa Rica,1629,1666,1,1,-2,2,1627,1668,53,46,0,0,53,46,20,100,63
+860,Nov 14 2012,Friendly in the United States,Brazil,Colombia,2080,1897,1,1,-5,5,2075,1902,2,12,0,-1,2,11,20,0,183
+861,Nov 14 2012,Friendly in Bulgaria,Bulgaria,Ukraine,1674,1702,0,1,-12,12,1662,1714,50,28,-3,5,47,33,20,100,72
+862,Nov 14 2012,Friendly in Morocco,Burkina Faso,DR Congo,1433,1447,1,0,10,-10,1443,1437,97,106,3,-4,100,102,20,0,-14
+863,Nov 14 2012,Friendly in China,China,New Zealand,1631,1572,1,1,-4,4,1627,1576,55,67,-2,0,53,67,20,100,159
+864,Nov 14 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Cuba,Suriname,1347,1218,5,0,26,-26,1373,1192,109,163,7,-5,116,158,40,0,129
+865,Nov 14 2012,Friendly in Cyprus,Cyprus,Finland,1439,1617,0,3,-14,14,1425,1631,107,49,-3,3,104,52,20,100,-78
+866,Nov 14 2012,Friendly in Czechia,Czechia,Slovakia,1769,1608,3,0,6,-6,1775,1602,24,60,1,-1,25,59,20,100,261
+867,Nov 14 2012,Friendly in Gabon,Gabon,Portugal,1535,1910,2,2,7,-7,1542,1903,71,11,3,-1,74,10,20,100,-275
+868,Nov 14 2012,Friendly in Georgia,Georgia,Egypt,1509,1701,0,0,3,-3,1512,1698,83,35,0,2,83,37,20,100,-92
+869,Nov 14 2012,Friendly in Portugal,Ghana,Cape Verde,1673,1431,1,0,4,-4,1677,1427,43,102,1,1,44,103,20,0,242
+870,Nov 14 2012,CONCACAF Ch & Car Ch q in Grenada,Grenada,French Guiana,1166,1229,1,1,-2,2,1164,1231,163,149,0,0,163,149,30,100,37
+871,Nov 14 2012,CONCACAF Ch & Car Ch q in Grenada,Haiti,Guyana,1436,1328,1,0,14,-14,1450,1314,92,132,5,-2,97,130,40,0,108
+872,Nov 14 2012,Friendly in the United States,Honduras,Peru,1682,1710,0,0,1,-1,1683,1709,40,36,1,-1,41,35,20,0,-28
+873,Nov 14 2012,Friendly in Hungary,Hungary,Norway,1709,1741,0,2,-18,18,1691,1759,43,27,-4,1,39,28,20,100,68
+874,Nov 14 2012,Friendly in Indonesia,Indonesia,East Timor,1262,615,1,0,0,0,1262,615,142,227,0,0,142,227,20,0,647
+875,Nov 14 2012,World Cup qualifier in Iran,Iran,Uzbekistan,1700,1625,0,1,-29,29,1671,1654,50,44,-5,5,45,49,40,100,175
+876,Nov 14 2012,World Cup qualifier in Qatar,Iraq,Jordan,1563,1543,1,0,19,-19,1582,1524,60,85,5,-5,65,80,40,0,20
+877,Nov 14 2012,Friendly in Ireland,Ireland,Greece,1740,1813,0,1,-11,11,1729,1824,32,18,-1,1,31,19,20,100,27
+878,Nov 14 2012,Friendly in Israel,Israel,Belarus,1630,1581,1,2,-14,14,1616,1595,60,60,-4,2,56,62,20,100,149
+879,Nov 14 2012,Friendly in Italy,Italy,France,1925,1875,1,2,-14,14,1911,1889,9,10,-1,2,8,12,20,100,150
+880,Nov 14 2012,Friendly in Kuwait,Kuwait,Bahrain,1493,1442,1,1,-4,4,1489,1446,88,96,1,2,89,98,20,100,151
+881,Nov 14 2012,Friendly in Liechtenstein,Liechtenstein,Malta,1194,1229,0,1,-12,12,1182,1241,162,143,-2,3,160,146,20,100,65
+882,Nov 14 2012,Friendly in Luxembourg,Luxembourg,Scotland,1148,1655,1,2,-2,2,1146,1657,168,48,0,0,168,48,20,100,-407
+883,Nov 14 2012,Friendly in Macedonia,Macedonia,Slovenia,1530,1610,3,2,9,-9,1539,1601,72,63,3,-3,75,60,20,100,20
+884,Nov 14 2012,Friendly in Malaysia,Malaysia,Hong Kong,1216,1168,1,1,-4,4,1212,1172,152,162,1,0,153,162,20,100,148
+885,Nov 14 2012,World Cup qualifier in Montenegro,Montenegro,San Marino,1681,883,3,0,0,0,1681,883,41,204,1,0,42,204,20,0,798
+886,Nov 14 2012,Friendly in Morocco,Morocco,Togo,1561,1387,0,1,-17,17,1544,1404,75,107,-2,2,73,109,20,100,274
+887,Nov 14 2012,Friendly in the Netherlands,Netherlands,Germany,1998,2050,0,0,-1,1,1997,2051,5,3,0,0,5,3,20,100,48
+888,Nov 14 2012,Friendly in Niger,Niger,Senegal,1346,1525,1,1,2,-2,1348,1523,124,83,0,-2,124,81,20,100,-79
+889,Nov 14 2012,Friendly in the United States,Nigeria,Venezuela,1633,1729,3,1,19,-19,1652,1710,50,36,0,-2,50,34,20,0,-96
+890,Nov 14 2012,World Cup qualifier in Northern Ireland,Northern Ireland,Azerbaijan,1451,1399,1,1,-8,8,1443,1407,103,105,-3,2,100,107,40,100,152
+891,Nov 14 2012,World Cup qualifier in Oman,Oman,Japan,1548,1808,1,2,-11,11,1537,1819,79,19,-3,1,76,20,40,100,-160
+892,Nov 14 2012,Friendly in Panama,Panama,Spain,1685,2146,1,5,-4,4,1681,2150,43,1,-1,0,42,1,20,100,-361
+893,Nov 14 2012,Friendly in Paraguay,Paraguay,Guatemala,1714,1553,3,1,5,-5,1719,1548,31,70,1,1,32,71,20,100,261
+894,Nov 14 2012,Friendly in Poland,Poland,Uruguay,1707,1843,1,3,-13,13,1694,1856,40,14,-2,1,38,15,20,100,-36
+895,Nov 14 2012,World Cup qualifier in Qatar,Qatar,Lebanon,1480,1323,1,0,7,-7,1487,1316,88,129,2,0,90,129,40,100,257
+896,Nov 14 2012,Friendly in Romania,Romania,Belgium,1745,1795,2,1,9,-9,1754,1786,30,22,-1,0,29,22,20,100,50
+897,Nov 14 2012,Friendly in Russia,Russia,United States,1893,1764,2,2,-6,6,1887,1770,15,25,-2,1,13,26,20,100,229
+898,Nov 14 2012,Friendly in Rwanda,Rwanda,Namibia,1404,1312,2,2,-5,5,1399,1317,112,125,-2,3,110,128,20,100,192
+899,Nov 14 2012,Friendly in Saudi Arabia,Saudi Arabia,Argentina,1494,2008,0,0,8,-8,1502,2000,85,4,2,0,87,4,20,100,-414
+900,Nov 14 2012,Friendly in Switzerland,Serbia,Chile,1663,1823,3,1,21,-21,1684,1802,33,23,7,-2,40,21,20,0,-160
+901,Nov 14 2012,Friendly tournament in South Africa,South Africa,Zambia,1581,1598,0,1,-19,19,1562,1617,76,48,-6,7,70,55,30,100,83
+902,Nov 14 2012,Friendly in South Korea,South Korea,Australia,1775,1770,1,2,-13,13,1762,1783,31,21,-4,2,27,23,20,100,105
+903,Nov 14 2012,Friendly in Sweden,Sweden,England,1893,1966,4,2,14,-14,1907,1952,7,6,2,0,9,6,20,100,27
+904,Nov 14 2012,Friendly in Tanzania,Tanzania,Kenya,1293,1313,1,0,8,-8,1301,1305,135,138,2,-4,137,134,20,100,80
+905,Nov 14 2012,Friendly in Thailand,Thailand,Bhutan,1383,542,5,0,0,0,1383,542,115,233,-1,0,114,233,20,0,841
+906,Nov 14 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,St Vincent & Grenadines,1501,1193,1,1,-17,17,1484,1210,96,151,-4,4,92,155,40,100,408
+907,Nov 14 2012,Friendly in Tunisia,Tunisia,Switzerland,1602,1824,1,2,-7,7,1595,1831,64,18,-2,0,62,18,20,100,-122
+908,Nov 14 2012,Friendly in Turkey,Turkey,Denmark,1703,1775,1,1,-1,1,1702,1776,35,25,1,-1,36,24,20,100,28
+909,Nov 14 2012,Friendly in the United Arab Emirates,United Arab Emirates,Estonia,1452,1505,2,1,9,-9,1461,1496,94,89,1,-1,95,88,20,100,47
+910,Nov 15 2012,Friendly in the Philippines,Philippines,Singapore,1145,1230,1,0,10,-10,1155,1220,163,154,3,-2,166,152,20,100,15
+911,Nov 16 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Cuba,St Vincent & Grenadines,1373,1210,1,1,-9,9,1364,1219,122,151,-3,2,119,153,40,0,163
+912,Nov 16 2012,CONCACAF Ch & Car Ch q in Grenada,French Guiana,Haiti,1231,1450,1,0,31,-31,1262,1419,135,113,7,-8,142,105,40,0,-219
+913,Nov 16 2012,CONCACAF Ch & Car Ch q in Grenada,Grenada,Guyana,1164,1314,2,1,23,-23,1187,1291,153,148,5,-9,158,139,40,100,-50
+914,Nov 16 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Suriname,1484,1192,3,0,7,-7,1491,1185,86,162,3,-2,89,160,40,100,392
+915,Nov 17 2012,Friendly in Jordan,Palestine,Syria,1250,1506,1,1,6,-6,1256,1500,145,88,0,-1,145,87,20,0,-256
+916,Nov 17 2012,Friendly in Thailand,Thailand,Bangladesh,1383,945,5,0,2,-2,1385,943,112,194,1,0,113,194,20,100,538
+917,Nov 18 2012,CONCACAF Ch & Car Ch q in Grenada,Grenada,Haiti,1187,1419,0,2,-19,19,1168,1438,168,97,-5,4,163,101,40,100,-132
+918,Nov 18 2012,CONCACAF Ch & Car Ch q in Grenada,Guyana,French Guiana,1291,1262,4,3,18,-18,1309,1244,123,150,8,-4,131,146,40,0,29
+919,Nov 18 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Suriname,St Vincent & Grenadines,1185,1219,1,0,22,-22,1207,1197,150,163,5,-5,155,158,40,0,-34
+920,Nov 18 2012,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Cuba,1491,1364,1,0,9,-9,1500,1355,85,123,2,-2,87,121,40,100,227
+921,Nov 19 2012,Friendly in Singapore,Singapore,Pakistan,1220,907,4,0,3,-3,1223,904,152,200,0,0,152,200,20,100,413
+922,Nov 20 2012,Friendly in Malaysia,Malaysia,Bangladesh,1212,943,1,1,-8,8,1204,951,157,194,-2,0,155,194,20,100,369
+923,Nov 20 2012,Friendly in Jordan,Palestine,Syria,1256,1500,2,1,16,-16,1272,1484,138,97,3,-5,141,92,20,0,-244
+924,Nov 21 2012,Friendly tournament in Argentina,Argentina,Brazil,2000,2075,2,1,14,-14,2014,2061,4,2,0,0,4,2,30,100,25
+925,Nov 24 2012,CECAFA Cup in Uganda,Ethiopia,South Sudan,1355,1107,1,0,8,-8,1363,1099,117,181,2,-1,119,180,40,0,248
+926,Nov 24 2012,Friendly in Guam,Guam,Northern Mariana Islands,674,465,8,0,7,-7,681,458,215,235,4,0,219,235,20,100,309
+927,Nov 24 2012,Southeast Asian Champ in Thailand,Myanmar,Vietnam,1011,1295,1,1,13,-13,1024,1282,181,139,4,0,185,139,40,0,-284
+928,Nov 24 2012,Southeast Asian Champ in Thailand,Thailand,Philippines,1385,1155,2,1,5,-5,1390,1150,109,168,2,-1,111,167,40,100,330
+929,Nov 24 2012,CECAFA Cup in Uganda,Uganda,Kenya,1525,1305,1,0,5,-5,1530,1300,79,140,0,-3,79,137,40,100,320
+930,Nov 25 2012,CECAFA Cup in Uganda,Burundi,Somalia,1259,895,5,1,8,-8,1267,887,140,205,2,-2,142,203,40,0,364
+931,Nov 25 2012,Southeast Asian Champ in Malaysia,Indonesia,Laos,1262,847,2,2,-17,17,1245,864,149,204,-3,2,146,206,40,0,415
+932,Nov 25 2012,Southeast Asian Champ in Malaysia,Malaysia,Singapore,1204,1223,0,3,-43,43,1161,1266,173,136,-9,8,164,144,40,100,81
+933,Nov 25 2012,CECAFA Cup in Uganda,Tanzania,Sudan,1301,1445,2,0,42,-42,1343,1403,114,120,11,-11,125,109,40,0,-144
+934,Nov 26 2012,CECAFA Cup in Uganda,Eritrea,Zanzibar,1161,1308,0,0,8,-8,1169,1300,160,139,2,-3,162,136,40,0,-147
+935,Nov 26 2012,CECAFA Cup in Uganda,Rwanda,Malawi,1399,1388,2,0,29,-29,1428,1359,94,130,8,-9,102,121,40,0,11
+936,Nov 27 2012,CECAFA Cup in Uganda,Kenya,South Sudan,1300,1099,2,0,14,-14,1314,1085,126,180,5,0,131,180,40,0,201
+937,Nov 27 2012,Southeast Asian Champ in Thailand,Philippines,Vietnam,1150,1282,1,0,27,-27,1177,1255,153,149,7,-5,160,144,40,0,-132
+938,Nov 27 2012,Southeast Asian Champ in Thailand,Thailand,Myanmar,1390,1024,4,0,5,-5,1395,1019,111,187,0,-1,111,186,40,100,466
+939,Nov 27 2012,CECAFA Cup in Uganda,Uganda,Ethiopia,1530,1363,1,0,7,-7,1537,1356,73,124,3,-3,76,121,40,100,267
+940,Nov 28 2012,CECAFA Cup in Uganda,Burundi,Tanzania,1267,1343,1,0,24,-24,1291,1319,137,131,2,-3,139,128,40,0,-76
+941,Nov 28 2012,Southeast Asian Champ in Malaysia,Indonesia,Singapore,1245,1266,1,0,21,-21,1266,1245,140,149,3,-3,143,146,40,0,-21
+942,Nov 28 2012,Southeast Asian Champ in Malaysia,Malaysia,Laos,1161,864,4,1,6,-6,1167,858,164,206,1,0,165,206,40,100,397
+943,Nov 28 2012,CECAFA Cup in Uganda,Sudan,Somalia,1403,887,1,0,2,-2,1405,885,108,203,1,0,109,203,40,0,516
+944,Nov 29 2012,Friendly in Qatar,Bahrain,Palestine,1446,1272,2,0,8,-8,1454,1264,97,145,0,-2,97,143,20,0,174
+945,Nov 29 2012,CECAFA Cup in Uganda,Malawi,Eritrea,1359,1169,3,2,10,-10,1369,1159,110,169,5,-3,115,166,40,0,190
+946,Nov 29 2012,CECAFA Cup in Uganda,Zanzibar,Rwanda,1300,1428,2,1,27,-27,1327,1401,119,118,9,-8,128,110,40,0,-128
+947,Nov 30 2012,CECAFA Cup in Uganda,Kenya,Ethiopia,1314,1356,3,1,34,-34,1348,1322,114,137,9,-8,123,129,40,0,-42
+948,Nov 30 2012,Southeast Asian Champ in Thailand,Philippines,Myanmar,1177,1019,2,0,17,-17,1194,1002,156,192,2,-3,158,189,40,0,158
+949,Nov 30 2012,Southeast Asian Champ in Thailand,Thailand,Vietnam,1395,1255,3,1,12,-12,1407,1243,101,150,5,-3,106,147,40,100,240
+950,Nov 30 2012,CECAFA Cup in Uganda,Uganda,South Sudan,1537,1085,4,0,3,-3,1540,1082,74,182,1,-1,75,181,20,0,452
+951,Dec 1 2012,CECAFA Cup in Uganda,Burundi,Sudan,1291,1405,1,0,26,-26,1317,1379,121,119,9,-5,130,114,40,0,-114
+952,Dec 1 2012,East Asian Championship qual in Hong Kong,Hong Kong,Guam,1172,681,2,1,1,-1,1173,680,164,221,-1,-1,163,220,20,0,491
+953,Dec 1 2012,CECAFA Cup in Uganda,Malawi,Zanzibar,1369,1327,2,0,26,-26,1395,1301,107,148,4,-10,111,138,40,0,42
+954,Dec 1 2012,Southeast Asian Champ in Malaysia,Malaysia,Indonesia,1167,1266,2,0,30,-30,1197,1236,150,156,7,-7,157,149,40,100,1
+955,Dec 1 2012,East Asian Championship qual in Hong Kong,North Korea,Taiwan,1548,894,6,1,2,-2,1550,892,71,202,0,0,71,202,40,0,654
+956,Dec 1 2012,CECAFA Cup in Uganda,Rwanda,Eritrea,1401,1159,2,0,12,-12,1413,1147,99,170,6,-2,105,168,40,0,242
+957,Dec 1 2012,Southeast Asian Champ in Malaysia,Singapore,Laos,1245,858,4,3,4,-4,1249,854,141,210,2,-2,143,208,40,0,387
+958,Dec 1 2012,CECAFA Cup in Uganda,Tanzania,Somalia,1319,885,7,0,7,-7,1326,878,126,205,2,-1,128,204,40,0,434
+959,Dec 3 2012,Friendly in Qatar,Bahrain,Iraq,1454,1582,0,0,4,-4,1458,1578,95,67,1,-1,96,66,20,0,-128
+960,Dec 3 2012,CECAFA Cup in Uganda,Burundi,Zanzibar,1317,1301,0,0,-1,1,1316,1302,132,136,-1,1,131,137,30,0,16
+961,Dec 3 2012,East Asian Championship qual in Hong Kong,Hong Kong,Australia,1173,1783,0,1,-2,2,1171,1785,163,23,0,0,163,23,30,100,-510
+962,Dec 3 2012,East Asian Championship qual in Hong Kong,North Korea,Guam,1550,680,5,0,1,-1,1551,679,71,220,0,0,71,220,40,0,870
+963,Dec 3 2012,CECAFA Cup in Uganda,Tanzania,Rwanda,1326,1413,2,0,37,-37,1363,1376,110,125,9,-10,119,115,40,0,-87
+964,Dec 4 2012,CECAFA Cup in Uganda,Kenya,Malawi,1348,1395,1,0,23,-23,1371,1372,108,120,8,-5,116,115,40,0,-47
+965,Dec 4 2012,CECAFA Cup in Uganda,Uganda,Ethiopia,1540,1322,2,0,8,-8,1548,1314,69,135,3,-3,72,132,40,100,318
+966,Dec 5 2012,East Asian Championship qual in Hong Kong,Australia,North Korea,1785,1551,1,1,-12,12,1773,1563,27,69,-2,1,25,70,40,0,234
+967,Dec 5 2012,East Asian Championship qual in Hong Kong,Guam,Taiwan,679,892,1,1,11,-11,690,881,214,204,3,-1,217,203,40,0,-213
+968,Dec 5 2012,Friendly in Saudi Arabia,Saudi Arabia,Zambia,1502,1617,2,1,10,-10,1512,1607,80,57,3,-1,83,56,20,100,-15
+969,Dec 6 2012,CECAFA Cup in Uganda,Kenya,Zanzibar,1371,1302,2,2,-4,4,1367,1306,118,133,-1,2,117,135,40,0,69
+970,Dec 6 2012,CECAFA Cup in Uganda,Uganda,Tanzania,1548,1363,3,0,11,-11,1559,1352,72,128,0,-4,72,124,40,100,285
+971,Dec 7 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Antigua and Barbuda,Dominican Republic,1267,1241,1,2,-27,27,1240,1268,155,135,-7,6,148,141,40,100,126
+972,Dec 7 2012,East Asian Championship qual in Hong Kong,Australia,Guam,1773,690,9,0,0,0,1773,690,25,217,0,0,25,217,20,0,1083
+973,Dec 7 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Haiti,Trinidad and Tobago,1438,1500,0,0,4,-4,1442,1496,100,87,0,0,100,87,40,0,-62
+974,Dec 7 2012,East Asian Championship qual in Hong Kong,Hong Kong,Taiwan,1171,881,2,0,6,-6,1177,875,161,205,1,-1,162,204,40,100,390
+975,Dec 8 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,French Guiana,Jamaica,1244,1639,2,1,36,-36,1280,1603,135,63,5,-6,140,57,40,0,-395
+976,Dec 8 2012,West Asian Championship in Kuwait,Kuwait,Palestine,1489,1264,2,1,5,-5,1494,1259,89,144,0,-1,89,143,40,100,325
+977,Dec 8 2012,West Asian Championship in Kuwait,Lebanon,Oman,1316,1537,1,0,31,-31,1347,1506,120,95,5,-9,125,86,40,0,-221
+978,Dec 8 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Martinique,Cuba,1365,1355,1,0,19,-19,1384,1336,103,132,8,-5,111,127,40,0,10
+979,Dec 8 2012,Southeast Asian Champ in the Philippines,Philippines,Singapore,1194,1249,0,0,-3,3,1191,1252,159,145,0,-1,159,144,40,100,45
+980,Dec 8 2012,CECAFA Cup in Uganda,Tanzania,Zanzibar,1352,1306,1,1,-3,3,1349,1309,122,133,1,1,123,134,40,0,46
+981,Dec 8 2012,CECAFA Cup in Uganda,Uganda,Kenya,1559,1367,2,1,6,-6,1565,1361,66,123,3,-3,69,120,40,100,292
+982,Dec 9 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Antigua and Barbuda,Trinidad and Tobago,1240,1496,2,0,43,-43,1283,1453,132,107,8,-10,140,97,40,100,-156
+983,Dec 9 2012,East Asian Championship qual in Hong Kong,Australia,Taiwan,1773,875,8,0,1,-1,1774,874,25,204,0,0,25,204,40,0,898
+984,Dec 9 2012,West Asian Championship in Kuwait,Bahrain,Yemen,1458,1304,1,0,12,-12,1470,1292,90,141,3,-2,93,139,40,0,154
+985,Dec 9 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Haiti,Dominican Republic,1442,1268,2,1,11,-11,1453,1257,94,146,3,-2,97,144,40,0,174
+986,Dec 9 2012,East Asian Championship qual in Hong Kong,Hong Kong,North Korea,1177,1563,0,4,-12,12,1165,1575,166,65,-2,3,164,68,40,100,-286
+987,Dec 9 2012,West Asian Championship in Kuwait,Iran,Saudi Arabia,1671,1512,0,0,-9,9,1662,1521,47,80,-1,1,46,81,30,100,259
+988,Dec 9 2012,Southeast Asian Champ in Malaysia,Malaysia,Thailand,1197,1407,1,1,6,-6,1203,1401,155,112,1,-3,156,109,40,100,-110
+989,Dec 10 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Cuba,French Guiana,1336,1280,2,1,17,-17,1353,1263,117,143,5,-1,122,142,40,0,56
+990,Dec 10 2012,West Asian Championship in Kuwait,Iraq,Jordan,1578,1524,1,0,17,-17,1595,1507,56,91,5,-6,61,85,40,0,54
+991,Dec 10 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Jamaica,Martinique,1603,1384,0,0,-11,11,1592,1395,71,109,-7,1,64,110,30,100,319
+992,Dec 11 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Antigua and Barbuda,Haiti,1283,1453,0,1,-16,16,1267,1469,144,89,-2,4,142,93,40,100,-70
+993,Dec 11 2012,West Asian Championship in Kuwait,Kuwait,Oman,1494,1506,0,2,-37,37,1457,1543,106,64,-9,11,97,75,40,100,88
+994,Dec 11 2012,West Asian Championship in Kuwait,Palestine,Lebanon,1259,1347,1,0,25,-25,1284,1322,137,132,3,-3,140,129,40,0,-88
+995,Dec 11 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Trinidad and Tobago,Dominican Republic,1453,1257,2,1,10,-10,1463,1247,93,146,2,-1,95,145,40,0,196
+996,Dec 12 2012,West Asian Championship in Kuwait,Bahrain,Iran,1470,1662,0,0,10,-10,1480,1652,90,52,1,-3,91,49,40,0,-192
+997,Dec 12 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Cuba,Jamaica,1353,1592,1,0,32,-32,1385,1560,102,80,10,-8,112,72,40,0,-239
+998,Dec 12 2012,CONCACAF Ch q & Car Ch in Antigua and Barbuda,Martinique,French Guiana,1395,1263,3,1,19,-19,1414,1244,100,149,5,-3,105,146,40,0,132
+999,Dec 12 2012,West Asian Championship in Kuwait,Saudi Arabia,Yemen,1521,1292,1,0,8,-8,1529,1284,79,139,1,0,80,139,40,0,229
+1000,Dec 12 2012,Southeast Asian Champ in Singapore,Singapore,Philippines,1252,1191,1,0,11,-11,1263,1180,142,163,1,-2,143,161,40,100,161
+1001,Dec 13 2012,West Asian Championship in Kuwait,Iraq,Syria,1595,1484,1,1,-6,6,1589,1490,65,86,-2,2,63,88,40,0,111
+1002,Dec 13 2012,Southeast Asian Champ in Thailand,Thailand,Malaysia,1401,1203,2,0,9,-9,1410,1194,104,160,3,-2,107,158,40,100,298
+1003,Dec 14 2012,Caribbean Championship in Antigua and Barbuda,Cuba,Haiti,1385,1469,1,0,25,-25,1410,1444,102,103,5,-5,107,98,40,0,-84
+1004,Dec 14 2012,West Asian Championship in Kuwait,Kuwait,Lebanon,1457,1322,2,1,8,-8,1465,1314,91,133,3,-2,94,131,40,100,235
+1005,Dec 14 2012,Caribbean Championship in Antigua and Barbuda,Martinique,Trinidad and Tobago,1414,1463,1,1,3,-3,1417,1460,105,97,0,-1,105,96,40,0,-49
+1006,Dec 14 2012,West Asian Championship in Kuwait,Oman,Palestine,1543,1284,2,1,7,-7,1550,1277,71,143,2,-2,73,141,40,0,259
+1007,Dec 14 2012,Friendly in Turkey,Poland,Macedonia,1694,1539,4,1,10,-10,1704,1529,34,81,2,-2,36,79,20,0,155
+1008,Dec 15 2012,Friendly in Angola,Angola,Gambia,1477,1329,1,1,-6,6,1471,1335,92,126,0,1,92,127,20,100,248
+1009,Dec 15 2012,West Asian Championship in Kuwait,Bahrain,Saudi Arabia,1480,1529,1,0,23,-23,1503,1506,83,93,4,-7,87,86,40,0,-49
+1010,Dec 15 2012,West Asian Championship in Kuwait,Iran,Yemen,1652,1284,2,1,4,-4,1656,1280,47,139,1,0,48,139,40,0,368
+1011,Dec 16 2012,Caribbean Championship in Antigua and Barbuda,Cuba,Trinidad and Tobago,1410,1460,1,0,23,-23,1433,1437,97,104,5,-4,102,100,40,0,-50
+1012,Dec 16 2012,Caribbean Championship in Antigua and Barbuda,Haiti,Martinique,1444,1417,1,0,18,-18,1462,1399,92,117,3,-6,95,111,40,0,27
+1013,Dec 16 2012,West Asian Championship in Kuwait,Syria,Jordan,1490,1507,2,1,21,-21,1511,1486,77,95,6,-5,83,90,40,0,-17
+1014,Dec 18 2012,West Asian Championship in Kuwait,Bahrain,Syria,1503,1511,1,1,0,0,1503,1511,87,83,0,0,87,83,20,0,-8
+1015,Dec 18 2012,West Asian Championship in Kuwait,Iraq,Oman,1589,1550,2,0,27,-27,1616,1523,45,85,9,-6,54,79,40,0,39
+1016,Dec 19 2012,Friendly in Angola,Angola,Cameroon,1471,1596,1,0,11,-11,1482,1585,92,65,0,-2,92,63,20,100,-25
+1017,Dec 19 2012,Friendly in Oman,Oman,Benin,1523,1407,2,0,7,-7,1530,1400,77,110,1,-1,78,109,20,100,216
+1018,Dec 19 2012,Southeast Asian Champ in Singapore,Singapore,Thailand,1263,1410,3,1,34,-34,1297,1376,133,123,5,-8,138,115,40,100,-47
+1019,Dec 20 2012,West Asian Championship in Kuwait,Oman,Bahrain,1530,1503,1,0,18,-18,1548,1485,68,93,5,-3,73,90,40,0,27
+1020,Dec 20 2012,West Asian Championship in Kuwait,Syria,Iraq,1511,1616,1,0,26,-26,1537,1590,71,70,6,-8,77,62,40,0,-105
+1021,Dec 22 2012,Friendly in Angola,Angola,Rwanda,1482,1376,1,0,5,-5,1487,1371,84,117,4,-1,88,116,20,100,206
+1022,Dec 22 2012,Friendly in South Africa,South Africa,Malawi,1562,1372,3,1,5,-5,1567,1367,67,119,2,-1,69,118,20,100,290
+1023,Dec 22 2012,Friendly in Tanzania,Tanzania,Zambia,1349,1607,1,0,14,-14,1363,1593,116,67,4,-6,120,61,20,100,-158
+1024,Dec 22 2012,Southeast Asian Champ in Thailand,Thailand,Singapore,1376,1297,1,0,11,-11,1387,1286,107,140,4,-1,111,139,40,100,179
+1025,Dec 25 2012,Friendly in Qatar,United Arab Emirates,Yemen,1461,1280,2,0,8,-8,1469,1272,90,144,3,-2,93,142,20,0,181
+1026,Dec 26 2012,Friendly in Bahrain,Bahrain,Burkina Faso,1485,1443,0,0,-4,4,1481,1447,93,98,-1,0,92,98,20,100,142
+1027,Dec 28 2012,Friendly in Qatar,Qatar,Egypt,1487,1698,0,2,-10,10,1477,1708,96,34,-4,2,92,36,20,100,-111
+1028,Dec 29 2012,Friendly in Bahrain,Bahrain,Guinea,1481,1518,3,0,14,-14,1495,1504,85,90,3,-4,88,86,20,100,63
+1029,Dec 29 2012,Friendly in Oman,Oman,Togo,1548,1404,0,1,-16,16,1532,1420,83,104,-5,2,78,106,20,100,244
+1030,Dec 29 2012,Friendly in Qatar,United Arab Emirates,Yemen,1469,1272,3,1,7,-7,1476,1265,93,144,0,-1,93,143,20,0,197
+1031,Dec 30 2012,Friendly in Ethiopia,Ethiopia,Niger,1314,1348,1,0,8,-8,1322,1340,127,125,2,0,129,125,20,100,66
+1032,Dec 30 2012,Friendly in the United Arab Emirates,Tunisia,Iraq,1595,1590,2,1,10,-10,1605,1580,51,66,4,-2,55,64,20,0,5

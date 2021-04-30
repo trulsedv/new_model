@@ -3,7 +3,7 @@ B - Set parameter for home advantage rating boost
 C - Set function for mean goals using rating difference as input
 D - Set model for draw bias with one parameter
 
-1 - find games with home advantage
+x1 - find games with home advantage
 2 - get distribution of rating differences (including home advatage)
 3 - get result distribution as a function of reating difference (including home advantage)
 4 - simulate results with games with equal distribution of rating differences

@@ -1,0 +1,671 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,1995,Friendly in Jordan,Jordan,Syria,1340,1423,1,3,-16,16,1324,1439,131,88,-5,4,126,92,20,100,17
+1,1995,Friendly in Syria,Syria,Jordan,1439,1324,2,0,7,-7,1446,1317,88,131,4,-5,92,126,20,100,215
+2,Jan 1 1995,Friendly in Guinea,Guinea,Sierra Leone,1382,1454,3,1,14,-14,1396,1440,103,98,3,-5,106,93,20,100,28
+3,Jan 2 1995,Friendly in Mali,Mali,Mauritania,1448,1122,0,1,-18,18,1430,1140,102,166,-6,1,96,167,20,100,426
+4,Jan 2 1995,Friendly in Tunisia,Tunisia,Egypt,1582,1626,2,0,13,-13,1595,1613,54,57,4,-5,58,52,20,100,56
+5,Jan 4 1995,Friendly tournament in Vietnam,Vietnam,Estonia,1092,1153,1,0,13,-13,1105,1140,165,168,6,-2,171,166,30,100,39
+6,Jan 6 1995,Intercontinental Champ in Saudi Arabia,Nigeria,Japan,1783,1603,3,0,23,-23,1806,1580,22,67,1,-5,23,62,50,0,180
+7,Jan 6 1995,Intercontinental Champ in Saudi Arabia,Saudi Arabia,Mexico,1640,1870,0,2,-24,24,1616,1894,58,9,-8,4,50,13,50,100,-130
+8,Jan 6 1995,African Nations Cup qualifier in Sudan,Sudan,Uganda,1323,1472,3,1,34,-34,1357,1438,114,99,5,-7,119,92,40,100,-49
+9,Jan 7 1995,African Nations Cup qualifier in Botswana,Botswana,Mali,1069,1430,1,3,-11,11,1058,1441,180,88,0,4,180,92,40,100,-261
+10,Jan 7 1995,African Nations Cup qualifier in Senegal,Senegal,Tunisia,1423,1595,0,0,4,-4,1427,1591,97,59,0,-1,97,58,40,100,-72
+11,Jan 7 1995,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Gambia,1440,1331,2,0,14,-14,1454,1317,83,127,4,-2,87,125,40,100,209
+12,Jan 8 1995,African Nations Cup qualifier in Algeria,Algeria,Egypt,1590,1613,1,0,16,-16,1606,1597,49,60,5,-4,54,56,30,0,-23
+13,Jan 8 1995,African Nations Cup qualifier in Angola,Angola,Mozambique,1423,1332,1,0,10,-10,1433,1322,94,124,2,-1,96,123,40,100,191
+14,Jan 8 1995,Intercontinental Champ in Saudi Arabia,Argentina,Japan,1884,1580,5,1,14,-14,1898,1566,9,64,3,-1,12,63,50,0,304
+15,Jan 8 1995,African Nations Cup qualifier in Cameroon,Cameroon,Malawi,1575,1451,0,0,-11,11,1564,1462,65,86,-1,1,64,87,40,100,224
+16,Jan 8 1995,African Nations Cup qualifier in Congo,Congo,Niger,1394,1364,3,1,19,-19,1413,1345,97,126,5,-6,102,120,40,100,130
+17,Jan 8 1995,African Nations Cup qualifier in Ethiopia,Ethiopia,Tanzania,1327,1434,1,0,20,-20,1347,1414,115,106,4,-5,119,101,40,100,-7
+18,Jan 8 1995,African Nations Cup qualifier in Guinea,Guinea,Namibia,1396,1160,3,0,9,-9,1405,1151,106,166,0,-2,106,164,40,100,336
+19,Jan 8 1995,Intercontinental Champ in Saudi Arabia,Saudi Arabia,Denmark,1616,1903,0,2,-19,19,1597,1922,62,4,-6,3,56,7,50,100,-187
+20,Jan 8 1995,African Nations Cup qualifier in Togo,Togo,Mauritania,1368,1140,0,0,-15,15,1353,1155,124,160,-6,3,118,163,40,100,328
+21,Jan 8 1995,African Nations Cup qualifier in Zaire,Zaire,Lesotho,1461,1233,3,0,9,-9,1470,1224,84,155,1,-5,85,150,40,100,328
+22,Jan 9 1995,African Nations Cup qualifier in Mauritius,Mauritius,Zambia,1214,1656,0,3,-9,9,1205,1665,152,34,0,0,152,34,40,100,-342
+23,Jan 10 1995,Intercontinental Champ in Saudi Arabia,Argentina,Nigeria,1898,1806,0,0,-6,6,1892,1812,18,23,-3,0,15,23,50,0,92
+24,Jan 10 1995,Intercontinental Champ in Saudi Arabia,Denmark,Mexico,1922,1894,1,1,-2,2,1920,1896,7,10,0,2,7,12,40,0,28
+25,Jan 13 1995,Intercontinental Champ in Saudi Arabia,Denmark,Argentina,1920,1892,2,0,34,-34,1954,1858,5,25,1,-5,6,20,50,0,28
+26,Jan 13 1995,Intercontinental Champ in Saudi Arabia,Mexico,Nigeria,1896,1812,1,1,-6,6,1890,1818,16,23,-2,0,14,23,50,0,84
+27,Jan 15 1995,Friendly in Ivory Coast,Ivory Coast,Togo,1652,1353,0,0,-8,8,1644,1361,46,110,-5,4,41,114,20,100,399
+28,Jan 18 1995,Friendly in the Netherlands,Netherlands,France,1957,1908,0,1,-14,14,1943,1922,9,6,-2,2,7,8,20,100,149
+29,Jan 18 1995,Friendly in Spain,Spain,Uruguay,1995,1804,2,2,-7,7,1988,1811,3,24,0,0,3,24,20,100,291
+30,Jan 21 1995,African Nations Cup qualifier in Tanzania,Tanzania,Algeria,1414,1606,2,1,25,-25,1439,1581,87,68,7,-7,94,61,40,100,-92
+31,Jan 21 1995,African Nations Cup qualifier in Uganda,Uganda,Egypt,1438,1597,0,0,3,-3,1441,1594,91,56,1,0,92,56,30,100,-59
+32,Jan 22 1995,African Nations Cup qualifier in Botswana,Botswana,Angola,1058,1433,1,2,-7,7,1051,1440,180,91,0,3,180,94,40,100,-275
+33,Jan 22 1995,African Nations Cup qualifier in Ethiopia,Ethiopia,Sudan,1347,1357,2,0,22,-22,1369,1335,105,126,7,-4,112,122,40,100,90
+34,Jan 22 1995,African Nations Cup qualifier in Ghana,Ghana,Congo,1650,1413,3,1,8,-8,1658,1405,33,108,2,-3,35,105,40,100,337
+35,Jan 22 1995,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Burkina Faso,1644,1412,2,2,-15,15,1629,1427,49,95,-4,4,45,99,40,100,332
+36,Jan 22 1995,African Nations Cup qualifier in Lesotho,Lesotho,Malawi,1224,1462,0,2,-19,19,1205,1481,152,81,-1,3,151,84,40,100,-138
+37,Jan 22 1995,African Nations Cup qualifier in Liberia,Liberia,Senegal,1360,1427,1,1,-2,2,1358,1429,118,98,-1,0,117,98,40,100,33
+38,Jan 22 1995,African Nations Cup qualifier in Mozambique,Mozambique,Namibia,1322,1151,4,2,10,-10,1332,1141,123,168,0,-2,123,166,40,100,271
+39,Jan 22 1995,African Nations Cup qualifier in Niger,Niger,Gambia,1345,1317,1,1,-7,7,1338,1324,122,123,-1,1,121,124,40,100,128
+40,Jan 22 1995,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Cameroon,1530,1564,4,1,28,-28,1558,1536,56,72,8,-4,64,68,40,100,66
+41,Jan 24 1995,Friendly in the United Arab Emirates,United Arab Emirates,Japan,1531,1566,1,1,-2,2,1529,1568,73,61,-1,1,72,62,20,100,65
+42,Jan 25 1995,Friendly in Cyprus,Cyprus,Greece,1361,1647,2,3,-5,5,1356,1652,121,35,-3,2,118,37,20,100,-186
+43,Jan 26 1995,Friendly tournament in Canada,Canada,Portugal,1584,1864,1,1,7,-7,1591,1857,56,21,2,-1,58,20,20,0,-280
+44,Jan 29 1995,African Nations Cup qualifier in Tunisia,Tunisia,Mauritania,1591,1155,1,0,2,-2,1593,1153,56,163,1,0,57,163,20,0,436
+45,Jan 31 1995,Friendly tournament in Hong Kong,South Korea,Colombia,1634,1896,1,0,25,-25,1659,1871,27,18,8,-3,35,15,30,0,-262
+46,Feb 1 1995,Friendly in the United States,Mexico,Uruguay,1890,1811,1,0,8,-8,1898,1803,11,24,1,0,12,24,20,0,79
+47,Feb 4 1995,Friendly tournament in Hong Kong,Yugoslavia,South Korea,1917,1659,1,0,6,-6,1923,1653,7,39,1,-2,8,37,30,0,258
+48,Feb 6 1995,Friendly in Cyprus,Norway,Estonia,1873,1140,7,0,1,-1,1874,1139,14,167,0,0,14,167,20,0,733
+49,Feb 8 1995,Friendly in Australia,Australia,Colombia,1721,1871,0,0,1,-1,1722,1870,29,17,0,-1,29,16,20,100,-50
+50,Feb 8 1995,Friendly in Cyprus,Cyprus,Norway,1356,1874,0,2,-2,2,1354,1876,118,14,0,0,118,14,20,100,-418
+51,Feb 8 1995,Friendly in Greece,Greece,Romania,1652,1903,1,0,14,-14,1666,1889,30,15,4,-2,34,13,20,100,-151
+52,Feb 10 1995,African Nations Cup qualifier in Tunisia,Tunisia,Liberia,1593,1358,0,0,-15,15,1578,1373,65,108,-4,4,61,112,40,100,335
+53,Feb 11 1995,Friendly in Australia,Australia,Colombia,1722,1870,0,1,-9,9,1713,1879,31,12,-1,2,30,14,20,100,-48
+54,Feb 14 1995,Friendly in Argentina,Argentina,Bulgaria,1858,1857,4,1,13,-13,1871,1844,13,22,3,-1,16,21,20,100,101
+55,Feb 14 1995,Friendly in Israel,Israel,Luxembourg,1620,1157,4,2,1,-1,1621,1156,46,162,0,0,46,162,20,100,563
+56,Feb 15 1995,Friendly in Australia,Australia,Japan,1713,1568,2,1,4,-4,1717,1564,28,64,1,-1,29,63,20,100,245
+57,Feb 15 1995,Friendly in Cyprus,Cyprus,Estonia,1354,1139,3,1,4,-4,1358,1135,116,167,1,0,117,167,20,100,315
+58,Feb 15 1995,Friendly in Ireland,Ireland,England,1871,1893,1,0,8,-8,1879,1885,12,12,2,0,14,12,20,100,78
+59,Feb 15 1995,Friendly in Trinidad and Tobago,Trinidad and Tobago,Finland,1535,1524,2,1,7,-7,1542,1517,67,75,1,-1,68,74,20,100,111
+60,Feb 15 1995,Friendly in Turkey,Turkey,Romania,1617,1889,1,1,5,-5,1622,1884,43,13,3,0,46,13,20,100,-172
+61,Feb 17 1995,Friendly in Trinidad and Tobago,Trinidad and Tobago,Finland,1542,1517,2,2,-3,3,1539,1520,68,74,0,0,68,74,20,100,125
+62,Feb 19 1995,Dynasty Cup in Hong Kong,China,South Korea,1609,1653,0,0,2,-2,1611,1651,51,38,0,0,51,38,30,0,-44
+63,Feb 21 1995,Dynasty Cup in Hong Kong,Japan,South Korea,1564,1651,1,1,4,-4,1568,1647,61,42,1,-2,62,40,30,0,-87
+64,Feb 22 1995,Friendly in Brazil,Brazil,Slovakia,2069,1668,5,0,2,-2,2071,1666,1,33,0,0,1,33,20,100,501
+65,Feb 22 1995,European Championship qual in Malta,Malta,Luxembourg,1404,1156,0,1,-35,35,1369,1191,117,152,-5,5,112,157,40,100,348
+66,Feb 22 1995,Friendly in the Netherlands,Netherlands,Portugal,1943,1857,0,1,-15,15,1928,1872,7,14,0,3,7,17,20,100,186
+67,Feb 22 1995,Friendly in Spain,Spain,Germany,1988,1997,0,0,-3,3,1985,2000,3,2,0,0,3,2,20,100,91
+68,Feb 23 1995,Dynasty Cup in Hong Kong,Japan,China,1568,1611,2,1,17,-17,1585,1594,58,59,2,-4,60,55,30,0,-43
+69,Feb 26 1995,Dynasty Cup in Hong Kong,Japan,South Korea,1585,1647,2,2,3,-3,1588,1644,58,42,1,-1,59,41,30,0,-62
+70,Mar 1 1995,Friendly in Morocco,Morocco,Senegal,1607,1429,2,0,5,-5,1612,1424,50,100,1,-1,51,99,20,100,278
+71,Mar 8 1995,Friendly in Cyprus,Cyprus,Sweden,1358,1949,3,3,9,-9,1367,1940,111,6,3,0,114,6,20,0,-591
+72,Mar 8 1995,Friendly in Czechia,Czechia,Finland,1866,1520,4,1,2,-2,1868,1518,18,74,1,0,19,74,20,100,446
+73,Mar 8 1995,Friendly in Greece,Greece,Switzerland,1666,1870,1,1,3,-3,1669,1867,35,21,-1,-1,34,20,20,100,-104
+74,Mar 8 1995,Friendly in Hungary,Hungary,Latvia,1608,1363,3,1,4,-4,1612,1359,50,119,1,-2,51,117,20,100,345
+75,Mar 8 1995,Friendly in Slovakia,Slovakia,Russia,1666,1844,2,1,12,-12,1678,1832,33,23,0,-1,33,22,20,100,-78
+76,Mar 8 1995,Friendly in Turkey,Turkey,Israel,1622,1621,2,1,7,-7,1629,1614,44,53,1,-3,45,50,20,100,101
+77,Mar 10 1995,Nehru Gold Cup in India,India,Thailand,1105,1345,0,5,-25,25,1080,1370,187,105,-8,7,179,112,40,100,-140
+78,Mar 12 1995,Friendly in Barbados,Barbados,Saint Kitts and Nevis,1292,1144,0,1,-16,16,1276,1160,137,161,-2,2,135,163,20,100,248
+79,Mar 12 1995,Nehru Gold Cup in India,India,Iraq,1080,1651,1,1,18,-18,1098,1633,169,50,5,-6,174,44,40,100,-471
+80,Mar 12 1995,Friendly in Jamaica,Jamaica,Cuba,1436,1500,0,0,-1,1,1435,1501,98,79,-1,0,97,79,20,100,36
+81,Mar 14 1995,Nehru Gold Cup in India,Iraq,Thailand,1633,1370,3,1,11,-11,1644,1359,36,122,4,-5,40,117,40,0,263
+82,Mar 15 1995,Friendly in Poland,Poland,Lithuania,1717,1420,4,1,3,-3,1720,1417,29,101,0,0,29,101,20,100,397
+83,Mar 19 1995,CONCACAF Ch & Car Cup q in Sint Maarten,Sint Maarten,Saint Kitts and Nevis,950,1160,0,2,-21,21,929,1181,193,153,0,5,193,158,40,100,-110
+84,Mar 21 1995,CONCACAF Ch & Car Cup q in Grenada,Grenada,Saint Lucia,1273,1273,2,0,22,-22,1295,1251,128,144,4,-4,132,140,30,0,0
+85,Mar 22 1995,Friendly in Colombia,Colombia,Uruguay,1879,1803,2,1,5,-5,1884,1798,12,24,1,0,13,24,20,100,176
+86,Mar 23 1995,Friendly in Morocco,Morocco,Mali,1612,1441,3,0,6,-6,1618,1435,47,100,2,-4,49,96,20,100,271
+87,Mar 24 1995,Friendly in Tahiti,Tahiti,Fiji,1521,1412,3,3,-5,5,1516,1417,75,99,-1,2,74,101,20,100,209
+88,Mar 25 1995,European Championship qual in Croatia,Croatia,Ukraine,1910,1548,4,0,5,-5,1915,1543,10,69,0,-2,10,67,40,100,462
+89,Mar 25 1995,European Championship qual in Italy,Italy,Estonia,1985,1135,4,1,0,0,1985,1135,3,167,0,0,3,167,20,0,850
+90,Mar 25 1995,South Asian Championship in Sri Lanka,Pakistan,Bangladesh,876,1032,1,0,28,-28,904,1004,192,196,4,-6,196,190,40,0,-156
+91,Mar 25 1995,Friendly in the United States,United States,Uruguay,1616,1798,2,2,2,-2,1618,1796,48,24,1,0,49,24,20,100,-82
+92,Mar 26 1995,CONCACAF Ch & Car Cup q in Barbados,Barbados,Guyana,1276,1114,3,0,13,-13,1289,1101,134,177,1,-4,135,173,40,100,262
+93,Mar 26 1995,CONCACAF Ch & Car Cup q in Dominica,Dominica,St Vincent & Grenadines,1168,1250,0,1,-21,21,1147,1271,164,133,-1,4,163,137,40,100,18
+94,Mar 26 1995,Friendly in Lebanon,Lebanon,Egypt,1259,1594,1,1,6,-6,1265,1588,137,61,1,-3,138,58,20,100,-235
+95,Mar 26 1995,CONCACAF Ch & Car Cup q in Montserrat,Montserrat,Anguilla,583,562,3,2,13,-13,596,549,217,218,0,0,217,218,40,100,121
+96,Mar 26 1995,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Sint Maarten,1181,929,0,1,-35,35,1146,964,172,191,-7,1,165,192,40,100,352
+97,Mar 27 1995,South Asian Championship in Sri Lanka,Bangladesh,Nepal,1004,884,2,0,20,-20,1024,864,178,202,6,-1,184,201,40,0,120
+98,Mar 29 1995,European Championship qual in Albania,Albania,Moldova,1358,1533,3,0,42,-42,1400,1491,95,92,12,-11,107,81,40,100,-75
+99,Mar 29 1995,European Championship qual in Austria,Austria,Latvia,1604,1359,5,0,10,-10,1614,1349,51,121,1,-2,52,119,40,100,345
+100,Mar 29 1995,Friendly in Brazil,Brazil,Honduras,2071,1531,1,1,-10,10,2061,1541,1,63,0,4,1,67,20,100,640
+101,Mar 29 1995,European Championship qual in Bulgaria,Bulgaria,Wales,1844,1646,3,1,9,-9,1853,1637,21,47,0,-4,21,43,40,100,298
+102,Mar 29 1995,Friendly in the United States,Chile,Mexico,1739,1898,2,1,14,-14,1753,1884,28,13,0,-1,28,12,20,0,-159
+103,Mar 29 1995,European Championship qual in Cyprus,Cyprus,Denmark,1367,1954,1,1,18,-18,1385,1936,106,5,4,0,110,5,40,100,-487
+104,Mar 29 1995,European Championship qual in Czechia,Czechia,Belarus,1868,1415,4,2,2,-2,1870,1413,17,103,1,0,18,103,20,0,453
+105,Mar 29 1995,Friendly in England,England,Uruguay,1885,1796,0,0,-5,5,1880,1801,16,24,-2,0,14,24,20,100,189
+106,Mar 29 1995,European Championship qual in Georgia,Georgia,Germany,1620,2000,0,2,-10,10,1610,2010,59,2,-6,0,53,2,40,100,-280
+107,Mar 29 1995,European Championship qual in Hungary,Hungary,Switzerland,1612,1867,2,2,8,-8,1620,1859,44,20,4,0,48,20,40,100,-155
+108,Mar 29 1995,European Championship qual in Ireland,Ireland,Northern Ireland,1879,1650,1,1,-15,15,1864,1665,23,32,-4,3,19,35,40,100,329
+109,Mar 29 1995,European Championship qual in Israel,Israel,France,1614,1922,0,0,11,-11,1625,1911,43,7,4,1,47,8,30,0,-308
+110,Mar 29 1995,European Championship qual in Lithuania,Lithuania,Croatia,1417,1915,0,0,16,-16,1433,1899,95,10,3,0,98,10,40,100,-398
+111,Mar 29 1995,European Championship qual in Luxembourg,Luxembourg,Norway,1191,1876,0,2,-2,2,1189,1878,157,14,0,1,157,15,40,100,-585
+112,Mar 29 1995,South Asian Championship in Sri Lanka,Nepal,Pakistan,864,904,2,0,33,-33,897,871,193,204,4,-4,197,200,40,0,-40
+113,Mar 29 1995,European Championship qual in the Netherlands,Netherlands,Malta,1928,1369,4,0,2,-2,1930,1367,5,118,1,-3,6,115,30,0,559
+114,Mar 29 1995,European Championship qual in Romania,Romania,Poland,1884,1720,2,1,7,-7,1891,1713,9,31,2,-1,11,30,40,100,264
+115,Mar 29 1995,European Championship qual in Russia,Russia,Scotland,1832,1760,0,0,-9,9,1823,1769,22,27,0,0,22,27,40,100,172
+116,Mar 29 1995,European Championship qual in San Marino,San Marino,Finland,1009,1518,0,2,-5,5,1004,1523,191,71,-1,1,190,72,40,100,-409
+117,Mar 29 1995,European Championship qual in Slovakia,Slovakia,Azerbaijan,1678,1480,4,1,11,-11,1689,1469,31,87,1,-1,32,86,40,100,298
+118,Mar 29 1995,European Championship qual in Slovenia,Slovenia,Estonia,1586,1135,3,0,3,-3,1589,1132,56,167,2,0,58,167,40,100,551
+119,Mar 29 1995,European Championship qual in Spain,Spain,Belgium,1985,1766,1,1,-15,15,1970,1781,5,24,-1,1,4,25,40,100,319
+120,Mar 29 1995,South Asian Championship in Sri Lanka,Sri Lanka,India,893,1098,2,2,6,-6,899,1092,194,180,2,-3,196,177,40,100,-105
+121,Mar 29 1995,European Championship qual in Turkey,Turkey,Sweden,1629,1940,2,1,31,-31,1660,1909,29,12,8,-3,37,9,40,100,-211
+122,Mar 29 1995,European Championship qual in Ukraine,Ukraine,Italy,1543,1985,0,2,-7,7,1536,1992,71,3,-2,0,69,3,40,100,-342
+123,Mar 30 1995,Friendly in Tahiti,Tahiti,Fiji,1516,1417,3,0,8,-8,1524,1409,71,106,1,-2,72,104,20,100,199
+124,Mar 31 1995,South Asian Championship in Sri Lanka,Bangladesh,India,1024,1092,0,0,4,-4,1028,1088,184,177,0,0,184,177,40,0,-68
+125,Mar 31 1995,South Asian Championship in Sri Lanka,Sri Lanka,Nepal,899,897,2,1,14,-14,913,883,196,201,0,-2,196,199,40,100,102
+126,Mar 31 1995,Friendly in Syria,Syria,Egypt,1446,1588,1,2,-9,9,1437,1597,98,49,-4,5,94,54,20,100,-42
+127,Mar 31 1995,Friendly in Yugoslavia,Yugoslavia,Uruguay,1923,1801,1,0,4,-4,1927,1797,7,24,0,0,7,24,20,100,222
+128,Apr 2 1995,CONCACAF Ch & Car Cup q in Anguilla,Anguilla,Montserrat,549,596,0,1,-23,23,526,619,220,211,-1,3,219,214,40,100,53
+129,Apr 2 1995,Friendly in Gabon,Gabon,Benin,1444,1147,7,0,4,-4,1448,1143,90,167,0,-2,90,165,20,100,397
+130,Apr 2 1995,CONCACAF Ch & Car Cup q in Guyana,Guyana,Barbados,1101,1289,0,4,-28,28,1073,1317,183,117,-5,9,178,126,40,100,-88
+131,Apr 2 1995,South Asian Championship in Sri Lanka,Sri Lanka,India,913,1088,1,0,24,-24,937,1064,192,181,2,-2,194,179,40,100,-75
+132,Apr 2 1995,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Dominica,1271,1147,0,0,-11,11,1260,1158,141,161,-2,1,139,162,40,100,224
+133,Apr 3 1995,Friendly in Bolivia,Bolivia,Venezuela,1683,1343,0,0,-9,9,1674,1352,33,118,0,1,33,119,20,100,440
+134,Apr 5 1995,Friendly tournament in Uruguay,Uruguay,Peru,1797,1548,1,0,4,-4,1801,1544,24,67,0,-1,24,66,20,0,249
+135,Apr 7 1995,African Nations Cup qualifier in Algeria,Algeria,Ethiopia,1581,1369,2,0,9,-9,1590,1360,57,120,2,-3,59,117,40,100,312
+136,Apr 7 1995,African Nations Cup qualifier in Egypt,Egypt,Sudan,1597,1335,3,1,7,-7,1604,1328,54,124,0,-1,54,123,40,100,362
+137,Apr 7 1995,African Nations Cup qualifier in Mauritania,Mauritania,Senegal,1153,1424,0,1,-11,11,1142,1435,167,92,-2,4,165,96,40,100,-171
+138,Apr 8 1995,African Nations Cup qualifier in Namibia,Namibia,Angola,1141,1440,2,2,10,-10,1151,1430,160,104,3,-6,163,98,30,0,-299
+139,Apr 8 1995,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Ghana,1454,1658,1,0,26,-26,1480,1632,82,52,3,-7,85,45,40,100,-104
+140,Apr 8 1995,African Nations Cup qualifier in Uganda,Uganda,Tanzania,1441,1439,2,0,21,-21,1462,1418,87,109,2,-8,89,101,40,100,102
+141,Apr 8 1995,African Nations Cup qualifier in Zambia,Zambia,Gabon,1665,1448,1,0,6,-6,1671,1442,33,92,1,-1,34,91,40,100,317
+142,Apr 9 1995,African Nations Cup qualifier in The Gambia,Gambia,Congo,1324,1405,1,1,-1,1,1323,1406,124,107,0,-1,124,106,20,100,19
+143,Apr 9 1995,African Nations Cup qualifier in Guinea,Guinea,Botswana,1405,1051,5,0,5,-5,1410,1046,101,182,2,-1,103,181,20,0,354
+144,Apr 9 1995,African Nations Cup qualifier in Lesotho,Lesotho,Zimbabwe,1205,1558,0,2,-11,11,1194,1569,157,62,-3,1,154,63,40,100,-253
+145,Apr 9 1995,African Nations Cup qualifier in Malawi,Malawi,Zaire,1481,1470,0,1,-26,26,1455,1496,94,76,-5,5,89,81,40,100,111
+146,Apr 9 1995,African Nations Cup qualifier in Morocco,Morocco,Burkina Faso,1618,1427,0,0,-14,14,1604,1441,56,85,-3,7,53,92,40,100,291
+147,Apr 9 1995,African Nations Cup qualifier in Mozambique,Mozambique,Mali,1332,1435,1,0,20,-20,1352,1415,116,108,3,-7,119,101,40,100,-3
+148,Apr 9 1995,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Grenada,1251,1295,4,0,32,-32,1283,1263,131,143,5,-5,136,138,30,0,-44
+149,Apr 9 1995,African Nations Cup qualifier in Togo,Togo,Liberia,1361,1373,0,0,-5,5,1356,1378,120,109,-2,2,118,111,40,100,88
+150,Apr 12 1995,Friendly in Macedonia,Macedonia,Bulgaria,1634,1853,0,0,3,-3,1637,1850,40,21,2,0,42,21,20,100,-119
+151,Apr 14 1995,Friendly in Egypt,Egypt,Tunisia,1604,1578,1,0,7,-7,1611,1571,51,62,1,0,52,62,20,100,126
+152,Apr 19 1995,Friendly in Peru,Peru,Chile,1544,1753,6,0,28,-28,1572,1725,58,28,4,0,62,28,20,100,-109
+153,Apr 22 1995,Friendly in Belgium,Belgium,United States,1781,1618,1,0,4,-4,1785,1614,25,52,0,-1,25,51,20,100,263
+154,Apr 22 1995,Friendly in Chile,Chile,Iceland,1725,1568,1,1,-6,6,1719,1574,28,59,0,3,28,62,20,100,257
+155,Apr 22 1995,African Nations Cup qualifier in Congo,Congo,Sierra Leone,1406,1480,0,2,-32,32,1374,1512,120,65,-7,10,113,75,40,100,26
+156,Apr 22 1995,African Nations Cup qualifier in Senegal,Senegal,Togo,1435,1356,5,1,20,-20,1455,1336,83,126,6,-4,89,122,40,100,179
+157,Apr 22 1995,African Nations Cup qualifier in Tanzania,Tanzania,Egypt,1418,1611,1,2,-15,15,1403,1626,110,42,-5,5,105,47,40,100,-93
+158,Apr 23 1995,African Nations Cup qualifier in Angola,Angola,Guinea,1430,1410,3,0,23,-23,1453,1387,84,116,7,-7,91,109,40,100,120
+159,Apr 23 1995,African Nations Cup qualifier in Botswana,Botswana,Mozambique,1046,1352,0,3,-16,16,1030,1368,185,110,-2,4,183,114,40,100,-206
+160,Apr 23 1995,African Nations Cup qualifier in Ethiopia,Ethiopia,Uganda,1360,1462,0,0,0,0,1360,1462,118,90,-1,-1,117,89,20,100,-2
+161,Apr 23 1995,African Nations Cup qualifier in Ghana,Ghana,Niger,1632,1338,1,0,4,-4,1636,1334,43,123,1,-1,44,122,40,100,394
+162,Apr 23 1995,African Nations Cup qualifier in Liberia,Liberia,Tunisia,1378,1571,1,0,25,-25,1403,1546,98,66,6,-1,104,65,40,100,-93
+163,Apr 23 1995,African Nations Cup qualifier in Mali,Mali,Namibia,1415,1151,2,0,7,-7,1422,1144,98,165,1,-1,99,164,40,100,364
+164,Apr 23 1995,African Nations Cup qualifier in Zaire,Zaire,Cameroon,1496,1536,2,1,17,-17,1513,1519,68,77,7,-4,75,73,30,0,-40
+165,Apr 23 1995,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Malawi,1569,1455,1,1,-11,11,1558,1466,63,87,1,1,64,88,40,100,214
+166,Apr 24 1995,African Nations Cup qualifier in Sudan,Sudan,Algeria,1328,1590,2,0,43,-43,1371,1547,105,69,9,-5,114,64,40,100,-162
+167,Apr 25 1995,European Championship qual in Poland,Poland,Israel,1713,1625,4,3,10,-10,1723,1615,26,52,2,-2,28,50,40,100,188
+168,Apr 26 1995,European Championship qual in Armenia,Armenia,Spain,1241,1970,0,2,-2,2,1239,1972,143,4,0,0,143,4,40,100,-629
+169,Apr 26 1995,European Championship qual in Austria,Austria,Liechtenstein,1614,1094,7,0,2,-2,1616,1092,51,175,0,0,51,175,20,0,520
+170,Apr 26 1995,European Championship qual in Belarus,Belarus,Malta,1413,1367,1,1,-8,8,1405,1375,105,110,-2,3,103,113,40,100,146
+171,Apr 26 1995,European Championship qual in Belgium,Belgium,Cyprus,1785,1385,2,0,3,-3,1788,1382,25,110,0,0,25,110,20,0,400
+172,Apr 26 1995,European Championship qual in Croatia,Croatia,Slovenia,1899,1589,2,0,5,-5,1904,1584,6,61,2,-1,8,60,40,100,410
+173,Apr 26 1995,European Championship qual in Czechia,Czechia,Netherlands,1870,1930,3,1,27,-27,1897,1903,2,12,8,-3,10,9,40,100,40
+174,Apr 26 1995,European Championship qual in Denmark,Denmark,Macedonia,1936,1637,1,0,4,-4,1940,1633,5,52,0,-5,5,47,40,100,399
+175,Apr 26 1995,European Championship qual in Estonia,Estonia,Ukraine,1132,1536,0,1,-6,6,1126,1542,169,65,-1,2,168,67,40,100,-304
+176,Apr 26 1995,European Championship qual in the Faroe Islands,Faroe Islands,Finland,1180,1523,0,4,-15,15,1165,1538,163,68,-2,2,161,70,40,100,-243
+177,Apr 26 1995,European Championship qual in France,France,Slovakia,1911,1689,4,0,10,-10,1921,1679,6,34,1,-1,7,33,40,100,322
+178,Apr 26 1995,European Championship qual in Georgia,Georgia,Albania,1610,1400,2,0,9,-9,1619,1391,47,106,3,0,50,106,40,100,310
+179,Apr 26 1995,European Championship qual in Germany,Germany,Wales,2010,1637,1,1,-18,18,1992,1655,4,34,-1,4,3,38,40,100,473
+180,Apr 26 1995,European Championship qual in Greece,Greece,Russia,1669,1823,0,3,-30,30,1639,1853,49,20,-7,1,42,21,40,100,-54
+181,Apr 26 1995,European Championship qual in Hungary,Hungary,Sweden,1620,1909,1,0,30,-30,1650,1879,30,21,9,-6,39,15,40,100,-189
+182,Apr 26 1995,European Championship qual in Ireland,Ireland,Portugal,1864,1872,1,0,15,-15,1879,1857,11,24,4,-4,15,20,30,0,-8
+183,Apr 26 1995,Friendly in Ivory Coast,Ivory Coast,Sierra Leone,1629,1512,4,0,8,-8,1637,1504,42,80,2,-2,44,78,20,100,217
+184,Apr 26 1995,European Championship qual in Latvia,Latvia,Northern Ireland,1349,1665,0,1,-9,9,1340,1674,121,32,0,2,121,34,40,100,-216
+185,Apr 26 1995,Friendly in Lesotho,Lesotho,South Africa,1194,1654,1,3,-3,3,1191,1657,158,36,-2,1,156,37,20,100,-360
+186,Apr 26 1995,European Championship qual in Lithuania,Lithuania,Italy,1433,1992,0,1,-3,3,1430,1995,98,1,0,1,98,2,40,100,-459
+187,Apr 26 1995,European Championship qual in Moldova,Moldova,Bulgaria,1491,1850,0,3,-13,13,1478,1863,87,17,-2,2,85,19,40,100,-259
+188,Apr 26 1995,European Championship qual in Norway,Norway,Luxembourg,1878,1189,5,0,1,-1,1879,1188,15,157,0,0,15,157,20,0,689
+189,Apr 26 1995,European Championship qual in Turkey,Romania,Azerbaijan,1891,1469,4,1,6,-6,1897,1463,9,90,1,-2,10,88,40,0,422
+190,Apr 26 1995,European Championship qual in San Marino,San Marino,Scotland,1004,1769,0,2,-1,1,1003,1770,190,27,0,0,190,27,20,100,-665
+191,Apr 26 1995,European Championship qual in Switzerland,Switzerland,Turkey,1859,1660,1,2,-34,34,1825,1694,24,25,-2,6,22,31,40,100,299
+192,Apr 30 1995,CONCACAF Ch & Car Cup q in Barbados,Barbados,Saint Lucia,1317,1283,1,1,-7,7,1310,1290,128,134,-1,1,127,135,40,100,134
+193,Apr 30 1995,CONCACAF Ch & Car Cup q in Saint Kitts and Nevis,Saint Kitts and Nevis,Antigua and Barbuda,1146,1192,1,1,-3,3,1143,1195,165,153,-1,1,164,154,40,100,54
+194,May 1 1995,CONCACAF Ch & Car Cup q in St Vincent & Grenadines,St Vincent & Grenadines,Montserrat,1260,619,9,0,1,-1,1261,618,140,214,0,0,140,214,20,0,641
+195,May 4 1995,Friendly in Kuwait,Kuwait,Mali,1490,1422,2,1,6,-6,1496,1416,83,101,0,-1,83,100,20,100,168
+196,May 6 1995,European Championship qual in Russia,Russia,Faroe Islands,1853,1165,3,0,1,-1,1854,1164,21,161,0,0,21,161,20,0,688
+197,May 7 1995,CONCACAF Ch & Car Cup q in Aruba,Aruba,Netherlands Antilles,1024,1319,3,4,-10,10,1014,1329,189,123,-2,1,187,124,40,100,-195
+198,May 7 1995,CONCACAF Ch & Car Cup q in Montserrat,Montserrat,St Vincent & Grenadines,618,1261,0,11,-5,5,613,1266,218,134,-2,3,216,137,40,100,-543
+199,May 7 1995,CONCACAF Ch & Car Cup q in Saint Lucia,Saint Lucia,Barbados,1290,1310,2,1,15,-15,1305,1295,121,139,7,-6,128,133,40,100,80
+200,May 8 1995,Friendly in Slovakia,Slovakia,Czechia,1679,1897,1,1,3,-3,1682,1894,33,12,0,-1,33,11,20,100,-118
+201,May 9 1995,CONCACAF Ch & Car Cup q in French Guiana,French Guiana,Martinique,1262,1485,1,3,-20,20,1242,1505,144,72,-2,6,142,78,40,100,-123
+202,May 9 1995,CONCACAF Ch & Car Cup q in French Guiana,Suriname,Guadeloupe,1303,1390,2,1,25,-25,1328,1365,121,127,4,-10,125,117,40,0,-87
+203,May 10 1995,European Championship qual in Armenia,Armenia,Macedonia,1239,1633,2,2,14,-14,1253,1619,139,51,2,-2,141,49,40,100,-294
+204,May 11 1995,CONCACAF Ch & Car Cup q in French Guiana,French Guiana,Guadeloupe,1242,1365,2,2,1,-1,1243,1364,143,117,0,0,143,117,20,100,-23
+205,May 11 1995,CONCACAF Ch & Car Cup q in French Guiana,Martinique,Suriname,1505,1328,1,1,-9,9,1496,1337,88,119,-5,3,83,122,40,0,177
+206,May 13 1995,CONCACAF Ch & Car Cup q in French Guiana,French Guiana,Suriname,1243,1337,4,0,37,-37,1280,1300,131,138,6,-8,137,130,40,100,6
+207,May 13 1995,CONCACAF Ch & Car Cup q in French Guiana,Guadeloupe,Martinique,1364,1496,2,1,27,-27,1391,1469,95,87,11,-2,106,85,40,0,-132
+208,May 13 1995,Friendly in Ivory Coast,Ivory Coast,Mali,1637,1416,0,1,-17,17,1620,1433,50,96,-3,2,47,98,20,100,321
+209,May 13 1995,Friendly tournament in South Africa,South Africa,Argentina,1657,1871,1,1,5,-5,1662,1866,37,18,0,0,37,18,20,0,-214
+210,May 13 1995,Friendly in Togo,Togo,Benin,1336,1143,3,0,5,-5,1341,1138,119,168,2,-2,121,166,20,100,293
+211,May 14 1995,Copa Paz del Chaco in Bolivia,Bolivia,Paraguay,1674,1694,1,1,-3,3,1671,1697,36,31,-1,0,35,31,30,100,80
+212,May 14 1995,CONCACAF Ch & Car Cup q in the Netherlands Antilles,Netherlands Antilles,Aruba,1329,1014,3,2,3,-3,1332,1011,124,187,0,0,124,187,20,0,315
+213,May 17 1995,Friendly in Israel,Israel,Brazil,1615,2061,1,2,-2,2,1613,2063,54,1,-1,0,53,1,20,100,-346
+214,May 17 1995,Friendly in Lithuania,Lithuania,Greece,1430,1639,2,1,13,-13,1443,1626,87,48,6,-3,93,45,20,100,-109
+215,May 18 1995,Friendly in Morocco,Morocco,Egypt,1604,1626,0,0,-2,2,1602,1628,54,45,0,0,54,45,20,100,78
+216,May 19 1995,Baltic Cup in Latvia,Latvia,Estonia,1340,1126,2,0,6,-6,1346,1120,120,168,1,0,121,168,30,100,314
+217,May 20 1995,Baltic Cup in Latvia,Lithuania,Estonia,1443,1120,7,0,9,-9,1452,1111,91,170,1,-1,92,169,30,0,323
+218,May 21 1995,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Saint Kitts and Nevis,1195,1143,2,2,-8,8,1187,1151,160,162,-3,1,157,163,40,100,152
+219,May 21 1995,Friendly tournament in Japan,Japan,Scotland,1588,1770,0,0,3,-3,1591,1767,57,27,1,0,58,27,30,100,-82
+220,May 21 1995,Baltic Cup in Latvia,Latvia,Lithuania,1346,1452,2,0,23,-23,1369,1429,111,106,5,-7,116,99,30,100,-6
+221,May 22 1995,Friendly tournament in Canada,Canada,Northern Ireland,1591,1674,2,0,21,-21,1612,1653,50,42,4,-4,54,38,30,100,17
+222,May 23 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Cuba,Netherlands Antilles,1501,1332,3,0,19,-19,1520,1313,66,128,7,-2,73,126,40,0,169
+223,May 23 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Dominican Republic,Puerto Rico,1010,1085,3,1,28,-28,1038,1057,176,182,6,-3,182,179,40,100,25
+224,May 24 1995,Friendly tournament in Japan,Scotland,Ecuador,1767,1636,2,1,10,-10,1777,1626,25,47,1,-2,26,45,30,0,131
+225,May 25 1995,Friendly tournament in Canada,Chile,Northern Ireland,1719,1653,2,1,12,-12,1731,1641,27,44,1,-3,28,41,30,0,66
+226,May 25 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Dominican Republic,Cuba,1038,1520,0,3,-7,7,1031,1527,184,71,-1,1,183,72,40,100,-382
+227,May 25 1995,European Championship qual in the Faroe Islands,Faroe Islands,San Marino,1164,1003,3,0,13,-13,1177,990,159,192,1,-1,160,191,40,100,261
+228,May 25 1995,Friendly in Ivory Coast,Liberia,Mali,1403,1433,3,2,11,-11,1414,1422,98,100,3,-1,101,99,20,0,-30
+229,May 25 1995,Friendly in Norway,Norway,Ghana,1879,1636,3,2,2,-2,1881,1634,13,43,1,0,14,43,20,100,343
+230,May 25 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Netherlands Antilles,Puerto Rico,1313,1057,2,2,-13,13,1300,1070,132,177,-3,1,129,178,40,0,256
+231,May 27 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Cuba,Puerto Rico,1527,1070,9,0,7,-7,1534,1063,70,180,1,-1,71,179,40,0,457
+232,May 27 1995,CONCACAF Ch & Car Cup q in the Dominican Republic,Dominican Republic,Netherlands Antilles,1031,1300,1,2,-11,11,1020,1311,189,123,-3,3,186,126,40,100,-169
+233,May 28 1995,Friendly tournament in Canada,Canada,Chile,1612,1731,1,2,-14,14,1598,1745,58,28,-2,0,56,28,30,100,-19
+234,May 28 1995,Friendly in Ivory Coast,Ivory Coast,Liberia,1620,1414,1,1,-7,7,1613,1421,53,99,-3,1,50,100,20,100,306
+235,May 28 1995,Friendly tournament in Japan,Japan,Ecuador,1591,1626,3,0,21,-21,1612,1605,45,61,7,-8,52,53,30,100,65
+236,May 28 1995,Friendly in the United States,United States,Costa Rica,1614,1638,1,2,-12,12,1602,1650,56,34,-2,4,54,38,20,100,76
+237,May 31 1995,Friendly tournament in Argentina,Argentina,Peru,1866,1572,1,0,3,-3,1869,1569,18,62,0,0,18,62,20,0,294
+238,May 31 1995,Friendly in Finland,Finland,Denmark,1538,1940,0,1,-3,3,1535,1943,70,5,0,0,70,5,20,100,-302
+239,May 31 1995,Friendly in Yugoslavia,Yugoslavia,Russia,1927,1854,1,2,-15,15,1912,1869,8,15,-1,3,7,18,20,100,173
+240,Jun 1 1995,European Championship qual in Sweden,Sweden,Iceland,1879,1574,1,1,-16,16,1863,1590,22,59,-3,1,19,60,40,100,405
+241,Jun 2 1995,African Nations Cup qualifier in Algeria,Algeria,Uganda,1547,1462,1,1,-10,10,1537,1472,74,81,-5,4,69,85,40,100,185
+242,Jun 3 1995,Friendly tournament in England,England,Japan,1880,1612,2,1,3,-3,1883,1609,13,52,1,0,14,52,30,100,368
+243,Jun 3 1995,European Championship qual in Liechtenstein,Liechtenstein,Ireland,1092,1879,0,0,19,-19,1111,1860,163,24,6,-4,169,20,40,100,-687
+244,Jun 3 1995,European Championship qual in Portugal,Portugal,Latvia,1857,1369,3,2,1,-1,1858,1368,21,116,0,0,21,116,20,0,488
+245,Jun 3 1995,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Niger,1504,1334,5,1,13,-13,1517,1321,71,125,4,-1,75,124,40,100,270
+246,Jun 3 1995,African Nations Cup qualifier in Sudan,Sudan,Tanzania,1371,1403,2,1,16,-16,1387,1387,101,111,7,-3,108,108,30,0,-32
+247,Jun 4 1995,African Nations Cup qualifier in Angola,Angola,Mali,1453,1422,1,0,13,-13,1466,1409,85,105,3,-3,88,102,40,100,131
+248,Jun 4 1995,African Nations Cup qualifier in Botswana,Botswana,Namibia,1030,1144,1,1,1,-1,1031,1143,183,164,0,0,183,164,30,100,-14
+249,Jun 4 1995,Friendly tournament in England,Brazil,Sweden,2063,1863,1,0,7,-7,2070,1856,1,24,0,-3,1,21,30,0,200
+250,Jun 4 1995,African Nations Cup qualifier in Cameroon,Cameroon,Lesotho,1519,1191,4,1,5,-5,1524,1186,72,157,1,-1,73,156,20,0,328
+251,Jun 4 1995,Friendly in Canada,Canada,Turkey,1598,1694,1,3,-15,15,1583,1709,64,30,-4,1,60,31,20,100,4
+252,Jun 4 1995,Korea Cup in South Korea,Ecuador,Zambia,1605,1671,4,1,31,-31,1636,1640,35,52,9,-9,44,43,30,0,-66
+253,Jun 4 1995,African Nations Cup qualifier in Ethiopia,Ethiopia,Egypt,1360,1628,0,2,-17,17,1343,1645,123,34,-2,5,121,39,40,100,-168
+254,Jun 4 1995,African Nations Cup qualifier in Guinea,Guinea,Mozambique,1387,1368,0,0,-7,7,1380,1375,114,112,-3,2,111,114,40,100,119
+255,Jun 4 1995,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Morocco,1613,1602,2,0,21,-21,1634,1581,40,68,5,-7,45,61,40,100,111
+256,Jun 4 1995,African Nations Cup qualifier in Liberia,Liberia,Mauritania,1421,1142,2,0,6,-6,1427,1136,98,167,1,-1,99,166,40,100,379
+257,Jun 4 1995,African Nations Cup qualifier in Mauritius,Mauritius,Gabon,1205,1442,0,3,-22,22,1183,1464,163,87,-6,3,157,90,40,100,-137
+258,Jun 4 1995,African Nations Cup qualifier in Togo,Togo,Tunisia,1341,1546,0,1,-14,14,1327,1560,122,62,0,1,122,63,40,100,-105
+259,Jun 4 1995,African Nations Cup qualifier in Zaire,Zaire,Zimbabwe,1513,1558,5,0,34,-34,1547,1524,51,83,13,-10,64,73,30,0,-45
+260,Jun 5 1995,Korea Cup in South Korea,South Korea,Costa Rica,1644,1650,1,0,11,-11,1655,1639,32,49,4,-6,36,43,30,100,94
+261,Jun 6 1995,Friendly tournament in England,Brazil,Japan,2070,1609,3,0,3,-3,2073,1606,1,53,0,0,1,53,30,0,461
+262,Jun 7 1995,European Championship qual in Belarus,Belarus,Netherlands,1405,1903,1,0,36,-36,1441,1867,86,25,9,-8,95,17,40,100,-398
+263,Jun 7 1995,European Championship qual in Bulgaria,Bulgaria,Germany,1863,1992,3,2,22,-22,1885,1970,2,5,8,-1,10,4,40,100,-29
+264,Jun 7 1995,Friendly in Canada,Canada,Turkey,1583,1709,0,3,-16,16,1567,1725,62,29,-1,1,61,30,20,100,-26
+265,Jun 7 1995,European Championship qual in Denmark,Denmark,Cyprus,1943,1382,4,0,2,-2,1945,1380,5,112,0,-1,5,111,30,0,561
+266,Jun 7 1995,European Championship qual in the Faroe Islands,Faroe Islands,Scotland,1177,1777,0,2,-3,3,1174,1780,160,26,0,0,160,26,40,100,-500
+267,Jun 7 1995,European Championship qual in Lithuania,Lithuania,Slovenia,1429,1584,2,1,23,-23,1452,1561,86,65,6,-3,92,62,40,100,-55
+268,Jun 7 1995,European Championship qual in Luxembourg,Luxembourg,Czechia,1188,1894,1,0,39,-39,1227,1855,142,31,6,-10,148,21,40,0,-706
+269,Jun 7 1995,European Championship qual in Macedonia,Macedonia,Belgium,1619,1788,0,5,-32,32,1587,1820,67,21,-9,2,58,23,40,100,-69
+270,Jun 7 1995,European Championship qual in Moldova,Moldova,Albania,1478,1391,2,3,-30,30,1448,1421,104,97,-10,4,94,101,40,100,187
+271,Jun 7 1995,European Championship qual in Norway,Norway,Malta,1881,1375,2,0,2,-2,1883,1373,11,120,2,-3,13,117,20,0,506
+272,Jun 7 1995,European Championship qual in Northern Ireland,Northern Ireland,Latvia,1641,1368,1,2,-36,36,1605,1404,63,95,-11,11,52,106,40,100,373
+273,Jun 7 1995,European Championship qual in Poland,Poland,Slovakia,1723,1682,5,0,25,-25,1748,1657,27,37,1,-2,28,35,40,100,141
+274,Jun 7 1995,European Championship qual in Romania,Romania,Israel,1897,1613,2,1,4,-4,1901,1609,8,48,1,2,9,50,40,100,384
+275,Jun 7 1995,European Championship qual in San Marino,San Marino,Russia,990,1869,0,7,-1,1,989,1870,191,14,0,1,191,15,20,100,-779
+276,Jun 7 1995,European Championship qual in Spain,Spain,Armenia,1972,1253,1,0,0,0,1972,1253,2,142,1,0,3,142,20,0,719
+277,Jun 7 1995,European Championship qual in Wales,Wales,Georgia,1655,1619,0,1,-27,27,1628,1646,56,27,-10,11,46,38,40,100,136
+278,Jun 8 1995,Friendly tournament in England,England,Sweden,1883,1856,3,3,-5,5,1878,1861,15,16,-1,2,14,18,30,100,127
+279,Jun 9 1995,Copa Paz del Chaco in Paraguay,Paraguay,Bolivia,1697,1671,0,0,-5,5,1692,1676,32,33,0,0,32,33,30,100,126
+280,Jun 9 1995,Friendly in Tahiti,Tahiti,New Zealand,1524,1516,2,1,7,-7,1531,1509,71,81,1,-2,72,79,20,100,108
+281,Jun 10 1995,Korea Cup in South Korea,Ecuador,Costa Rica,1636,1639,2,1,15,-15,1651,1624,31,52,6,-5,37,47,30,0,-3
+282,Jun 10 1995,Friendly tournament in England,Japan,Sweden,1606,1861,2,2,9,-9,1615,1852,49,24,1,-3,50,21,30,0,-255
+283,Jun 10 1995,Korea Cup in South Korea,South Korea,Zambia,1655,1640,2,3,-20,20,1635,1660,48,29,-6,6,42,35,30,100,115
+284,Jun 11 1995,Friendly tournament in England,England,Brazil,1878,2073,1,3,-16,16,1862,2089,20,1,-3,0,17,1,30,100,-95
+285,Jun 11 1995,European Championship qual in Estonia,Estonia,Slovenia,1111,1561,1,3,-7,7,1104,1568,173,62,-2,0,171,62,40,100,-350
+286,Jun 11 1995,European Championship qual in Finland,Finland,Greece,1535,1626,2,1,19,-19,1554,1607,60,60,5,-7,65,53,30,0,-91
+287,Jun 11 1995,European Championship qual in Iceland,Iceland,Hungary,1590,1650,2,1,18,-18,1608,1632,47,52,5,-7,52,45,30,0,-60
+288,Jun 11 1995,European Championship qual in Ireland,Ireland,Austria,1860,1616,1,3,-53,53,1807,1669,28,19,-5,15,23,34,40,100,344
+289,Jun 11 1995,Friendly in Canada,Turkey,Honduras,1725,1541,1,0,5,-5,1730,1536,30,73,0,-3,30,70,20,0,184
+290,Jun 11 1995,European Championship qual in Ukraine,Ukraine,Croatia,1542,1904,1,0,33,-33,1575,1871,54,18,6,-5,60,13,40,100,-262
+291,Jun 11 1995,US Cup in the United States,United States,Nigeria,1602,1818,3,2,20,-20,1622,1798,43,26,5,-1,48,25,30,100,-116
+292,Jun 12 1995,Korea Cup in South Korea,Ecuador,Zambia,1651,1660,1,0,15,-15,1666,1645,32,42,3,-3,35,39,30,0,-9
+293,Jun 14 1995,Friendly in Argentina,Argentina,Paraguay,1869,1692,2,1,3,-3,1872,1689,11,32,2,0,13,32,20,100,277
+294,Jun 16 1995,Copa Centenario in Chile,Chile,New Zealand,1745,1509,3,1,6,-6,1751,1503,27,79,1,0,28,79,20,0,236
+295,Jun 17 1995,US Cup in the United States,Colombia,Nigeria,1884,1798,1,0,11,-11,1895,1787,8,25,1,0,9,25,30,0,86
+296,Jun 18 1995,Friendly in Australia,Australia,Ghana,1717,1634,2,1,5,-5,1722,1629,31,49,0,-3,31,46,20,100,183
+297,Jun 18 1995,Copa Centenario in Chile,Paraguay,Turkey,1689,1730,0,0,2,-2,1691,1728,32,30,0,0,32,30,30,0,-41
+298,Jun 18 1995,US Cup in the United States,United States,Mexico,1622,1884,4,0,40,-40,1662,1844,24,29,12,-9,36,20,30,100,-162
+299,Jun 18 1995,Friendly in Venezuela,Venezuela,Bolivia,1352,1676,1,3,-6,6,1346,1682,120,33,0,0,120,33,20,100,-224
+300,Jun 19 1995,Copa Centenario in Chile,Chile,Paraguay,1751,1691,0,1,-21,21,1730,1712,30,32,-1,0,29,32,30,100,160
+301,Jun 19 1995,Friendly tournament in Switzerland,Switzerland,Italy,1825,1995,0,1,-12,12,1813,2007,23,2,-1,0,22,2,30,100,-70
+302,Jun 20 1995,Copa Centenario in Chile,Turkey,New Zealand,1728,1503,2,1,6,-6,1734,1497,28,81,1,-1,29,80,30,0,225
+303,Jun 21 1995,Friendly in Australia,Australia,Ghana,1722,1629,1,0,5,-5,1727,1624,31,48,0,-1,31,47,20,100,193
+304,Jun 21 1995,US Cup in the United States,Colombia,Mexico,1895,1844,0,0,-2,2,1893,1846,9,20,0,0,9,20,30,0,51
+305,Jun 21 1995,Friendly tournament in Switzerland,Germany,Italy,1970,2007,2,0,25,-25,1995,1982,0,4,2,-1,2,3,30,0,-37
+306,Jun 22 1995,Copa Centenario in Chile,Chile,Turkey,1730,1734,0,0,-4,4,1726,1738,32,29,-1,0,31,29,30,100,96
+307,Jun 22 1995,Copa Centenario in Chile,Paraguay,New Zealand,1712,1497,3,2,7,-7,1719,1490,32,86,0,-3,32,83,30,0,215
+308,Jun 23 1995,Friendly tournament in Switzerland,Switzerland,Germany,1813,1995,1,2,-12,12,1801,2007,24,2,-1,0,23,2,30,100,-82
+309,Jun 24 1995,Friendly in Australia,Australia,Ghana,1727,1624,0,1,-15,15,1712,1639,34,39,-2,4,32,43,20,100,203
+310,Jun 24 1995,US Cup in the United States,Mexico,Nigeria,1846,1787,2,1,12,-12,1858,1775,14,27,3,-1,17,26,30,0,59
+311,Jun 25 1995,Friendly in Mozambique,Mozambique,Zimbabwe,1375,1524,3,1,17,-17,1392,1507,99,82,8,-4,107,78,20,100,-49
+312,Jun 25 1995,Friendly in Uruguay,Uruguay,New Zealand,1801,1490,7,0,4,-4,1805,1486,23,83,0,0,23,83,20,100,411
+313,Jun 25 1995,US Cup in the United States,United States,Colombia,1662,1893,0,0,5,-5,1667,1888,34,9,1,0,35,9,30,100,-131
+314,Jun 28 1995,Friendly in Uruguay,Uruguay,New Zealand,1805,1486,2,2,-8,8,1797,1494,25,83,-1,0,24,83,20,100,419
+315,Jun 29 1995,Friendly in Brazil,Brazil,Poland,2089,1748,2,1,1,-1,2090,1747,1,28,0,0,1,28,20,100,441
+316,Jun 30 1995,Friendly in Argentina,Argentina,Australia,1872,1712,2,0,5,-5,1877,1707,12,32,0,0,12,32,20,100,260
+317,Jun 30 1995,Friendly in Paraguay,Paraguay,Ecuador,1719,1666,1,0,6,-6,1725,1660,31,38,0,-1,31,37,20,100,153
+318,Jul 1 1995,Friendly in Ivory Coast,Ivory Coast,Ghana,1634,1639,2,0,11,-11,1645,1628,35,49,5,-3,40,46,20,100,95
+319,Jul 1 1995,Friendly in Peru,Peru,Bolivia,1569,1682,4,1,18,-18,1587,1664,55,37,3,-2,58,35,20,100,-13
+320,Jul 2 1995,Friendly in Iceland,Iceland,Faroe Islands,1608,1174,2,0,1,-1,1609,1173,50,160,1,0,51,160,20,100,534
+321,Jul 5 1995,Copa América in Uruguay,Uruguay,Venezuela,1797,1346,4,1,4,-4,1801,1342,22,122,1,-1,23,121,30,0,451
+322,Jul 6 1995,Copa América in Uruguay,Paraguay,Mexico,1725,1858,2,1,34,-34,1759,1824,25,23,3,-3,28,20,50,0,-133
+323,Jul 7 1995,Copa América in Uruguay,Brazil,Ecuador,2090,1660,1,0,4,-4,2094,1656,1,39,0,-1,1,38,50,0,430
+324,Jul 7 1995,Copa América in Uruguay,Colombia,Peru,1888,1587,1,1,-17,17,1871,1604,15,52,-3,3,12,55,50,0,301
+325,Jul 8 1995,Copa América in Uruguay,Argentina,Bolivia,1877,1664,2,1,11,-11,1888,1653,7,41,2,-3,9,38,50,0,213
+326,Jul 8 1995,Copa América in Uruguay,United States,Chile,1667,1726,2,1,29,-29,1696,1697,32,33,1,-1,33,32,50,0,-59
+327,Jul 9 1995,Copa América in Uruguay,Mexico,Venezuela,1824,1342,3,1,4,-4,1828,1338,20,121,0,0,20,121,40,0,482
+328,Jul 9 1995,Friendly in Syria,Syria,Egypt,1437,1645,0,0,3,-3,1440,1642,97,46,0,-3,97,43,20,100,-108
+329,Jul 9 1995,Copa América in Uruguay,Uruguay,Paraguay,1801,1759,1,0,15,-15,1816,1744,21,30,1,-1,22,29,50,100,142
+330,Jul 10 1995,Copa América in Uruguay,Brazil,Peru,2094,1604,2,0,4,-4,2098,1600,1,55,0,0,1,55,50,0,490
+331,Jul 10 1995,Copa América in Uruguay,Colombia,Ecuador,1871,1656,1,0,11,-11,1882,1645,12,41,0,-2,12,39,50,0,215
+332,Jul 11 1995,Copa América in Uruguay,Argentina,Chile,1888,1697,4,0,23,-23,1911,1674,7,34,1,-1,8,33,50,0,191
+333,Jul 11 1995,Copa América in Uruguay,Bolivia,United States,1653,1696,1,0,28,-28,1681,1668,27,37,5,-2,32,35,50,0,-43
+334,Jul 12 1995,Copa América in Uruguay,Paraguay,Venezuela,1744,1338,3,2,4,-4,1748,1334,27,121,1,0,28,121,40,0,406
+335,Jul 13 1995,Copa América in Uruguay,Brazil,Colombia,2098,1882,3,0,20,-20,2118,1862,1,18,0,-3,1,15,50,0,216
+336,Jul 13 1995,Copa América in Uruguay,Ecuador,Peru,1645,1600,2,1,22,-22,1667,1578,33,65,3,-5,36,60,50,0,45
+337,Jul 13 1995,Copa América in Uruguay,Uruguay,Mexico,1816,1828,1,1,-6,6,1810,1834,22,20,0,0,22,20,50,100,88
+338,Jul 14 1995,Copa América in Uruguay,Bolivia,Chile,1681,1674,2,2,-1,1,1680,1675,34,35,-1,-1,33,34,50,0,7
+339,Jul 14 1995,African Nations Cup qualifier in Egypt,Egypt,Algeria,1642,1537,1,1,-11,11,1631,1548,47,63,-2,3,45,66,40,100,205
+340,Jul 14 1995,African Nations Cup qualifier in Mauritania,Mauritania,Togo,1136,1327,2,1,25,-25,1161,1302,158,134,4,-6,162,128,40,100,-91
+341,Jul 14 1995,Copa América in Uruguay,United States,Argentina,1668,1911,3,0,70,-70,1738,1841,25,30,5,-11,30,19,50,0,-243
+342,Jul 15 1995,African Nations Cup qualifier in Namibia,Namibia,Guinea,1143,1380,0,0,8,-8,1151,1372,163,120,1,-4,164,116,40,100,-137
+343,Jul 15 1995,African Nations Cup qualifier in Tanzania,Tanzania,Ethiopia,1387,1343,2,0,18,-18,1405,1325,102,122,4,-1,106,121,40,100,144
+344,Jul 15 1995,African Nations Cup qualifier in Tunisia,Tunisia,Senegal,1560,1455,4,0,18,-18,1578,1437,56,103,4,-6,60,97,40,100,205
+345,Jul 15 1995,African Nations Cup qualifier in Uganda,Uganda,Sudan,1472,1387,2,0,15,-15,1487,1372,84,122,0,-6,84,116,40,100,185
+346,Jul 15 1995,African Nations Cup qualifier in Zambia,Zambia,Mauritius,1645,1183,2,0,2,-2,1647,1181,38,157,1,0,39,157,20,0,462
+347,Jul 16 1995,Copa América in Uruguay,Colombia,Paraguay,1862,1748,1,1,-8,8,1854,1756,20,28,-3,0,17,28,30,100,214
+348,Jul 16 1995,Island Games in Gibraltar,Gibraltar,Greenland,1044,1008,0,1,-27,27,1017,1035,195,175,-7,7,188,182,40,100,136
+349,Jul 16 1995,African Nations Cup qualifier in Malawi,Malawi,Cameroon,1466,1524,1,3,-34,34,1432,1558,111,56,-12,9,99,65,40,100,42
+350,Jul 16 1995,African Nations Cup qualifier in Mali,Mali,Botswana,1409,1031,4,0,4,-4,1413,1027,102,185,1,-1,103,184,20,0,378
+351,Jul 16 1995,African Nations Cup qualifier in Mozambique,Mozambique,Angola,1392,1466,2,1,19,-19,1411,1447,100,97,4,-5,104,92,40,100,26
+352,Jul 16 1995,Copa América in Uruguay,Uruguay,Bolivia,1810,1680,2,1,11,-11,1821,1669,20,35,1,-1,21,34,50,100,230
+353,Jul 17 1995,Copa América in Uruguay,Argentina,Brazil,1841,2118,2,2,17,-17,1858,2101,11,1,4,0,15,1,50,0,-277
+354,Jul 17 1995,Copa América in Uruguay,Mexico,United States,1834,1738,0,0,-7,7,1827,1745,20,30,0,0,20,30,50,0,96
+355,Jul 17 1995,Friendly tournament in Singapore,Singapore,Myanmar,1293,1167,3,3,-9,9,1284,1176,138,159,-2,1,136,160,30,100,226
+356,Jul 19 1995,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Saint Lucia,1435,1305,2,1,8,-8,1443,1297,88,137,5,-5,93,132,40,100,230
+357,Jul 19 1995,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,Cuba,1539,1534,2,0,30,-30,1569,1504,56,84,7,-6,63,78,40,0,5
+358,Jul 19 1995,Copa América in Uruguay,Uruguay,Colombia,1821,1854,2,0,30,-30,1851,1824,17,24,2,-3,19,21,50,100,67
+359,Jul 20 1995,Copa América in Uruguay,Brazil,United States,2101,1745,1,0,6,-6,2107,1739,1,30,0,0,1,30,50,0,356
+360,Jul 21 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,Cayman Islands,Antigua and Barbuda,1037,1187,2,0,34,-34,1071,1153,175,171,3,-8,178,163,40,100,-50
+361,Jul 21 1995,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Cuba,1443,1504,1,2,-22,22,1421,1526,107,70,-7,4,100,74,40,100,39
+362,Jul 21 1995,Merdeka Tournament in Malaysia,Malaysia,Iraq,1260,1644,1,2,-5,5,1255,1649,139,36,1,3,140,39,30,100,-284
+363,Jul 21 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,St Vincent & Grenadines,French Guiana,1266,1280,3,1,31,-31,1297,1249,126,147,6,-5,132,142,40,0,-14
+364,Jul 21 1995,CONCACAF Ch q & Car Cup in Jamaica,Trinidad and Tobago,Saint Lucia,1569,1297,5,0,14,-14,1583,1283,55,142,4,-5,59,137,40,0,272
+365,Jul 22 1995,Friendly in Algeria,Algeria,Tunisia,1548,1578,2,1,8,-8,1556,1570,66,65,1,-2,67,63,20,100,70
+366,Jul 22 1995,Copa América in Uruguay,Colombia,United States,1824,1739,4,1,33,-33,1857,1706,13,34,4,-2,17,32,50,0,85
+367,Jul 22 1995,Friendly in Norway,Norway,France,1883,1921,0,0,-2,2,1881,1923,10,6,0,0,10,6,20,100,62
+368,Jul 23 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,Cayman Islands,French Guiana,1071,1249,1,0,24,-24,1095,1225,174,158,2,-8,176,150,40,100,-78
+369,Jul 23 1995,CONCACAF Ch q & Car Cup in Jamaica,Cuba,Saint Lucia,1526,1283,2,0,12,-12,1538,1271,68,137,3,0,71,137,40,0,243
+370,Jul 23 1995,CONCACAF Ch q & Car Cup in Jamaica,Jamaica,Trinidad and Tobago,1421,1583,1,0,24,-24,1445,1559,86,71,7,-6,93,65,40,100,-62
+371,Jul 23 1995,Friendly in Mali,Mali,Ivory Coast,1413,1645,2,2,4,-4,1417,1641,103,42,0,0,103,42,20,100,-132
+372,Jul 23 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,St Vincent & Grenadines,Antigua and Barbuda,1297,1153,5,1,23,-23,1320,1130,116,171,8,-4,124,167,40,0,144
+373,Jul 23 1995,Copa América in Uruguay,Uruguay,Brazil,1851,2107,1,1,11,-11,1862,2096,8,1,6,0,14,1,50,100,-156
+374,Jul 25 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,Antigua and Barbuda,French Guiana,1130,1225,2,1,25,-25,1155,1200,159,154,4,-2,163,152,40,0,-95
+375,Jul 25 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,Cayman Islands,St Vincent & Grenadines,1095,1320,2,2,7,-7,1102,1313,172,126,2,-1,174,125,40,100,-125
+376,Jul 27 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,St Vincent & Grenadines,Cuba,1313,1538,3,2,31,-31,1344,1507,115,83,5,-6,120,77,40,0,-225
+377,Jul 28 1995,African Nations Cup qualifier in Algeria,Algeria,Tanzania,1556,1405,2,1,8,-8,1564,1397,65,109,1,-1,66,108,40,100,251
+378,Jul 28 1995,CONCACAF Ch q & Car Cup in the Cayman Islands,Cayman Islands,Trinidad and Tobago,1102,1559,2,9,-10,10,1092,1569,178,61,-2,2,176,63,40,100,-357
+379,Jul 29 1995,Friendly in Lithuania,Lithuania,Belarus,1452,1441,1,1,-3,3,1449,1444,91,94,-1,0,90,94,20,100,111
+380,Jul 30 1995,African Nations Cup qualifier in Angola,Angola,Botswana,1447,1027,4,0,4,-4,1451,1023,88,184,2,0,90,184,40,100,520
+381,Jul 30 1995,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Ivory Coast,1441,1641,1,1,6,-6,1447,1635,93,46,1,-2,94,44,40,100,-100
+382,Jul 30 1995,African Nations Cup qualifier in Cameroon,Cameroon,Zimbabwe,1558,1507,1,0,12,-12,1570,1495,59,87,4,-5,63,82,40,100,151
+383,Jul 30 1995,Caribbean Cup in the Cayman Islands,Cayman Islands,Cuba,1092,1507,0,3,-10,10,1082,1517,178,71,-1,3,177,74,40,100,-315
+384,Jul 30 1995,African Nations Cup qualifier in Congo,Congo,Ghana,1374,1628,0,2,-18,18,1356,1646,124,38,-5,4,119,42,40,100,-154
+385,Jul 30 1995,African Nations Cup qualifier in Egypt,Egypt,Uganda,1631,1487,6,0,17,-17,1648,1470,35,84,5,0,40,84,40,100,244
+386,Jul 30 1995,African Nations Cup qualifier in Guinea,Guinea,Mali,1372,1417,4,1,30,-30,1402,1387,96,121,10,-9,106,112,30,0,-45
+387,Jul 30 1995,African Nations Cup qualifier in Mauritania,Mauritania,Tunisia,1161,1570,0,0,14,-14,1175,1556,159,72,1,-5,160,67,40,100,-309
+388,Jul 30 1995,African Nations Cup qualifier in Namibia,Namibia,Mozambique,1151,1411,0,0,9,-9,1160,1402,160,108,2,-2,162,106,40,100,-160
+389,Jul 30 1995,African Nations Cup qualifier in Senegal,Senegal,Liberia,1437,1427,3,0,24,-24,1461,1403,81,110,8,-5,89,105,40,100,110
+390,Jul 30 1995,African Nations Cup qualifier in Sudan,Sudan,Ethiopia,1372,1325,3,0,21,-21,1393,1304,102,132,7,-5,109,127,40,100,147
+391,Jul 30 1995,Caribbean Cup in the Cayman Islands,Trinidad and Tobago,St Vincent & Grenadines,1569,1344,5,0,17,-17,1586,1327,55,122,4,-1,59,121,40,0,225
+392,Aug 1 1995,Caribana Cup in Canada,Canada,Jamaica,1567,1445,3,1,10,-10,1577,1435,59,101,3,-3,62,98,20,0,122
+393,Aug 1 1995,Friendly in Indonesia,Indonesia,Singapore,1178,1284,0,0,0,0,1178,1284,158,136,0,0,158,136,20,100,-6
+394,Aug 3 1995,Caribana Cup in Canada,Canada,Trinidad and Tobago,1577,1586,3,1,17,-17,1594,1569,50,69,6,-5,56,64,30,100,91
+395,Aug 6 1995,Caribana Cup in Canada,Jamaica,Trinidad and Tobago,1435,1569,1,0,21,-21,1456,1548,82,72,8,-4,90,68,30,0,-134
+396,Aug 6 1995,Friendly in Japan,Japan,Costa Rica,1615,1624,3,0,13,-13,1628,1611,44,52,3,-2,47,50,20,100,91
+397,Aug 9 1995,Friendly in Japan,Japan,Brazil,1628,2096,1,5,-4,4,1624,2100,49,1,-1,0,48,1,20,100,-368
+398,Aug 12 1995,Friendly in South Korea,South Korea,Brazil,1635,2100,0,1,-2,2,1633,2102,46,1,-1,0,45,1,20,100,-365
+399,Aug 14 1995,Friendly in Tahiti,New Caledonia,Cook Islands,1226,679,12,0,2,-2,1228,677,145,213,2,0,147,213,20,0,547
+400,Aug 15 1995,European Championship qual in Liechtenstein,Liechtenstein,Portugal,1111,1858,0,7,-2,2,1109,1860,169,16,0,0,169,16,30,100,-647
+401,Aug 16 1995,European Championship qual in Armenia,Armenia,Denmark,1253,1945,0,2,-2,2,1251,1947,141,5,0,0,141,5,40,100,-592
+402,Aug 16 1995,European Championship qual in Estonia,Estonia,Lithuania,1104,1449,0,1,-8,8,1096,1457,179,85,-4,4,175,89,40,100,-245
+403,Aug 16 1995,South Pacific Games in Tahiti,Fiji,Papua New Guinea,1409,1097,2,2,-14,14,1395,1111,113,163,-5,6,108,169,40,0,312
+404,Aug 16 1995,European Championship qual in Finland,Finland,Russia,1554,1870,0,6,-19,19,1535,1889,75,6,-4,3,71,9,40,100,-216
+405,Aug 16 1995,European Championship qual in France,France,Poland,1923,1747,1,1,-13,13,1910,1760,8,27,-1,1,7,28,40,100,276
+406,Aug 16 1995,Friendly in Hungary,Hungary,Israel,1632,1609,0,2,-20,20,1612,1629,54,41,-4,5,50,46,20,100,123
+407,Aug 16 1995,European Championship qual in Iceland,Iceland,Switzerland,1609,1801,0,2,-22,22,1587,1823,65,20,-7,2,58,22,40,100,-92
+408,Aug 16 1995,European Championship qual in Latvia,Latvia,Austria,1404,1669,3,2,29,-29,1433,1640,94,52,5,-9,99,43,40,100,-165
+409,Aug 16 1995,Friendly in Malta,Malta,Albania,1373,1421,2,1,9,-9,1382,1412,110,104,3,-2,113,102,20,100,52
+410,Aug 16 1995,South Pacific Games in Tahiti,New Caledonia,Cook Islands,1228,677,9,0,4,-4,1232,673,141,211,3,1,144,212,40,0,551
+411,Aug 16 1995,European Championship qual in Norway,Norway,Czechia,1881,1855,1,1,-7,7,1874,1862,12,9,-1,5,11,14,40,100,126
+412,Aug 16 1995,European Championship qual in Scotland,Scotland,Greece,1780,1607,1,0,7,-7,1787,1600,25,53,0,0,25,53,40,100,273
+413,Aug 16 1995,European Championship qual in Turkey,Slovakia,Azerbaijan,1657,1463,1,0,10,-10,1667,1453,32,94,3,-3,35,91,40,0,194
+414,Aug 16 1995,South Pacific Games in Tahiti,Solomon Islands,Wallis and Futuna,1291,734,12,1,4,-4,1295,730,132,209,1,0,133,209,40,0,557
+415,Aug 16 1995,Friendly in Sweden,Sweden,United States,1852,1706,1,0,4,-4,1856,1702,20,32,0,0,20,32,20,100,246
+416,Aug 16 1995,South Pacific Games in Tahiti,Vanuatu,Guam,991,685,6,0,12,-12,1003,673,190,214,0,-2,190,212,40,0,306
+417,Aug 17 1995,South Pacific Games in Tahiti,Tahiti,Wallis and Futuna,1531,730,13,0,1,-1,1532,729,72,209,0,0,72,209,20,0,801
+418,Aug 18 1995,Friendly in Jamaica,Jamaica,Zambia,1456,1647,1,1,3,-3,1459,1644,88,44,1,-2,89,42,20,100,-91
+419,Aug 18 1995,South Pacific Games in Tahiti,Solomon Islands,New Caledonia,1295,1232,1,0,16,-16,1311,1216,117,156,8,-6,125,150,40,0,63
+420,Aug 19 1995,South Pacific Games in Tahiti,Cook Islands,Wallis and Futuna,673,729,2,1,23,-23,696,706,208,209,2,0,210,209,40,0,-56
+421,Aug 19 1995,South Pacific Games in Tahiti,Tahiti,Solomon Islands,1532,1311,4,2,8,-8,1540,1303,68,131,2,-3,70,128,40,100,321
+422,Aug 20 1995,South Pacific Games in Tahiti,Fiji,Guam,1395,673,8,0,1,-1,1396,672,108,213,0,0,108,213,20,0,722
+423,Aug 20 1995,Friendly in Jamaica,Jamaica,Zambia,1459,1644,3,1,19,-19,1478,1625,79,52,5,-5,84,47,20,100,-85
+424,Aug 20 1995,South Pacific Games in Tahiti,New Caledonia,Wallis and Futuna,1216,706,10,0,5,-5,1221,701,148,209,1,0,149,209,40,0,510
+425,Aug 20 1995,South Pacific Games in Tahiti,Vanuatu,Papua New Guinea,1003,1111,3,0,46,-46,1049,1065,172,187,9,-9,181,178,40,0,-108
+426,Aug 21 1995,South Pacific Games in Tahiti,Solomon Islands,Cook Islands,1303,696,16,0,4,-4,1307,692,126,210,1,0,127,210,40,0,607
+427,Aug 21 1995,South Pacific Games in Tahiti,Tahiti,New Caledonia,1540,1221,2,0,5,-5,1545,1216,70,151,0,-1,70,150,40,100,419
+428,Aug 22 1995,South Pacific Games in Tahiti,Fiji,Vanuatu,1396,1049,3,1,7,-7,1403,1042,100,183,4,-1,104,182,40,0,347
+429,Aug 22 1995,South Pacific Games in Tahiti,Papua New Guinea,Guam,1065,672,9,0,9,-9,1074,663,176,213,1,0,177,213,40,0,393
+430,Aug 22 1995,South Pacific Games in Tahiti,Tahiti,Cook Islands,1545,692,11,0,0,0,1545,692,70,210,0,0,70,210,20,0,853
+431,Aug 23 1995,Friendly in Belgium,Belgium,Germany,1820,2007,1,2,-8,8,1812,2015,23,2,0,0,23,2,20,100,-87
+432,Aug 24 1995,South Pacific Games in Tahiti,Fiji,Solomon Islands,1403,1307,3,3,-5,5,1398,1312,110,123,-3,2,107,125,20,100,196
+433,Aug 24 1995,South Pacific Games in Tahiti,Tahiti,Vanuatu,1545,1042,3,0,2,-2,1547,1040,66,182,2,0,68,182,20,0,503
+434,Aug 26 1995,South Pacific Games in Tahiti,Fiji,Vanuatu,1398,1040,3,0,8,-8,1406,1032,101,184,3,-1,104,183,40,0,358
+435,Aug 26 1995,South Pacific Games in Tahiti,Tahiti,Solomon Islands,1547,1312,2,0,8,-8,1555,1304,66,129,1,-2,67,127,40,100,335
+436,Aug 30 1995,Friendly in Turkey,Turkey,Macedonia,1738,1587,2,1,4,-4,1742,1583,30,60,0,-1,30,59,20,100,251
+437,Sep 3 1995,European Championship qual in Croatia,Croatia,Estonia,1871,1096,7,1,1,-1,1872,1095,12,174,0,0,12,174,30,0,775
+438,Sep 3 1995,European Championship qual in Portugal,Portugal,Northern Ireland,1860,1605,1,1,-15,15,1845,1620,23,46,-3,3,20,49,40,100,355
+439,Sep 6 1995,European Championship qual in Albania,Albania,Bulgaria,1412,1885,1,1,16,-16,1428,1869,100,14,1,-2,101,12,40,100,-373
+440,Sep 6 1995,European Championship qual in Austria,Austria,Ireland,1640,1807,3,1,36,-36,1676,1771,26,30,8,-3,34,27,40,100,-67
+441,Sep 6 1995,European Championship qual in Belgium,Belgium,Denmark,1812,1947,1,3,-27,27,1785,1974,25,3,-1,1,24,4,40,100,-35
+442,Sep 6 1995,European Championship qual in Czechia,Czechia,Norway,1862,1874,2,0,23,-23,1885,1851,6,25,4,-7,10,18,30,0,-12
+443,Sep 6 1995,Friendly in England,England,Colombia,1862,1857,0,0,-3,3,1859,1860,18,12,-2,3,16,15,20,100,105
+444,Sep 6 1995,European Championship qual in the Faroe Islands,Faroe Islands,Russia,1173,1889,2,5,-2,2,1171,1891,161,9,0,0,161,9,40,100,-616
+445,Sep 6 1995,European Championship qual in France,France,Azerbaijan,1910,1453,10,0,4,-4,1914,1449,5,93,1,-1,6,92,20,0,457
+446,Sep 6 1995,European Championship qual in Germany,Germany,Georgia,2015,1646,4,1,4,-4,2019,1642,2,44,0,-2,2,42,20,0,369
+447,Sep 6 1995,European Championship qual in Italy,Italy,Slovenia,1982,1568,1,0,2,-2,1984,1566,3,62,0,1,3,63,20,0,414
+448,Sep 6 1995,European Championship qual in Latvia,Latvia,Liechtenstein,1433,1109,1,0,3,-3,1436,1106,95,169,2,0,97,169,20,0,324
+449,Sep 6 1995,European Championship qual in Lithuania,Lithuania,Ukraine,1457,1575,1,3,-28,28,1429,1603,110,44,-10,9,100,53,40,100,-18
+450,Sep 6 1995,European Championship qual in Luxembourg,Luxembourg,Malta,1227,1382,1,0,23,-23,1250,1359,137,121,5,-4,142,117,40,100,-55
+451,Sep 6 1995,European Championship qual in Macedonia,Macedonia,Armenia,1583,1251,1,2,-37,37,1546,1288,79,129,-10,6,69,135,40,100,432
+452,Sep 6 1995,European Championship qual in the Netherlands,Netherlands,Belarus,1867,1444,1,0,2,-2,1869,1442,11,92,1,2,12,94,20,0,423
+453,Sep 6 1995,European Championship qual in Poland,Poland,Romania,1760,1901,0,0,2,-2,1762,1899,28,8,0,0,28,8,30,100,-41
+454,Sep 6 1995,European Championship qual in San Marino,San Marino,Greece,989,1600,0,4,-4,4,985,1604,191,51,0,1,191,52,40,100,-511
+455,Sep 6 1995,European Championship qual in Scotland,Scotland,Finland,1787,1535,1,0,5,-5,1792,1530,21,72,2,0,23,72,40,100,352
+456,Sep 6 1995,European Championship qual in Slovakia,Slovakia,Israel,1667,1629,1,0,12,-12,1679,1617,31,55,2,-5,33,50,40,100,138
+457,Sep 6 1995,European Championship qual in Spain,Spain,Cyprus,1972,1380,6,0,2,-2,1974,1378,4,112,0,1,4,113,30,0,592
+458,Sep 6 1995,European Championship qual in Sweden,Sweden,Switzerland,1856,1823,0,0,-7,7,1849,1830,19,20,0,1,19,21,40,100,133
+459,Sep 6 1995,European Championship qual in Turkey,Turkey,Hungary,1742,1612,2,0,13,-13,1755,1599,30,57,0,-3,30,54,40,100,230
+460,Sep 6 1995,European Championship qual in Wales,Wales,Moldova,1628,1448,1,0,7,-7,1635,1441,40,96,3,-1,43,95,40,100,280
+461,Sep 20 1995,Friendly in Greece,Greece,Yugoslavia,1604,1912,0,2,-7,7,1597,1919,56,5,-2,1,54,6,20,100,-208
+462,Sep 20 1995,Friendly in Israel,Israel,Uruguay,1617,1862,3,1,21,-21,1638,1841,36,26,7,-6,43,20,20,100,-145
+463,Sep 20 1995,Friendly in Japan,Japan,Paraguay,1624,1756,1,2,-9,9,1615,1765,53,27,-3,1,50,28,20,100,-32
+464,Sep 20 1995,Friendly in Spain,Spain,Argentina,1974,1858,2,1,4,-4,1978,1854,4,15,0,1,4,16,20,100,216
+465,Sep 24 1995,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1548,1478,1,0,5,-5,1553,1473,67,84,0,0,67,84,20,100,170
+466,Sep 27 1995,Friendly in Brazil,Brazil,Romania,2102,1899,2,2,-7,7,2095,1906,1,8,0,0,1,8,20,100,303
+467,Sep 27 1995,Friendly in Jamaica,Jamaica,Costa Rica,1473,1611,2,0,17,-17,1490,1594,84,59,0,-4,84,55,20,100,-38
+468,Sep 30 1995,Friendly in South Africa,South Africa,Mozambique,1662,1402,3,2,2,-2,1664,1400,38,108,0,-1,38,107,20,100,360
+469,Oct 4 1995,Friendly in Finland,Finland,Turkey,1530,1755,0,0,3,-3,1533,1752,72,30,0,0,72,30,20,100,-125
+470,Oct 7 1995,European Championship qual in Armenia,Armenia,Belgium,1288,1785,0,2,-6,6,1282,1791,139,24,-2,0,137,24,40,100,-397
+471,Oct 7 1995,European Championship qual in Belarus,Belarus,Czechia,1442,1885,0,2,-7,7,1435,1892,102,8,-4,1,98,9,40,100,-343
+472,Oct 7 1995,European Championship qual in Bulgaria,Bulgaria,Albania,1869,1428,3,0,3,-3,1872,1425,10,101,1,0,11,101,20,0,441
+473,Oct 8 1995,European Championship qual in Croatia,Croatia,Italy,1872,1984,1,1,1,-1,1873,1983,11,3,0,0,11,3,30,100,-12
+474,Oct 8 1995,European Championship qual in Germany,Germany,Moldova,2019,1441,6,1,2,-2,2021,1439,2,96,0,-1,2,95,30,0,578
+475,Oct 8 1995,Friendly in the United States,United States,Saudi Arabia,1702,1597,4,3,5,-5,1707,1592,30,61,1,-4,31,57,20,100,205
+476,Oct 11 1995,Friendly in Argentina,Argentina,Colombia,1854,1860,0,0,-3,3,1851,1863,16,12,0,1,16,13,20,100,94
+477,Oct 11 1995,European Championship qual in Austria,Austria,Portugal,1676,1845,1,1,4,-4,1680,1841,36,19,-1,0,35,19,40,100,-69
+478,Oct 11 1995,Friendly in Brazil,Brazil,Uruguay,2095,1841,2,0,3,-3,2098,1838,1,22,0,-1,1,21,20,100,354
+479,Oct 11 1995,Friendly in Chile,Chile,Canada,1675,1594,2,0,8,-8,1683,1586,33,64,1,-5,34,59,20,100,181
+480,Oct 11 1995,European Championship qual in Cyprus,Cyprus,Macedonia,1378,1546,1,1,4,-4,1382,1542,113,71,0,-1,113,70,20,0,-168
+481,Oct 11 1995,European Championship qual in Denmark,Denmark,Spain,1974,1978,1,1,-5,5,1969,1983,5,2,0,1,5,3,40,100,96
+482,Oct 11 1995,European Championship qual in Georgia,Georgia,Bulgaria,1642,1872,2,1,27,-27,1669,1845,30,24,6,-6,36,18,40,100,-130
+483,Oct 11 1995,European Championship qual in Iceland,Iceland,Turkey,1587,1752,0,0,4,-4,1591,1748,51,28,4,1,55,29,20,0,-165
+484,Oct 11 1995,European Championship qual in Ireland,Ireland,Latvia,1771,1436,2,1,3,-3,1774,1433,25,100,1,-2,26,98,20,0,335
+485,Oct 11 1995,European Championship qual in Israel,Israel,Azerbaijan,1638,1449,2,0,10,-10,1648,1439,39,96,2,-2,41,94,40,100,289
+486,Oct 11 1995,European Championship qual in Liechtenstein,Liechtenstein,Northern Ireland,1106,1620,0,4,-6,6,1100,1626,175,46,-3,1,172,47,40,100,-414
+487,Oct 11 1995,European Championship qual in Lithuania,Lithuania,Estonia,1429,1095,5,0,6,-6,1435,1089,94,174,3,0,97,174,40,100,434
+488,Oct 11 1995,European Championship qual in Luxembourg,Luxembourg,Belarus,1250,1435,0,0,5,-5,1255,1430,140,102,1,-2,141,100,20,0,-185
+489,Oct 11 1995,European Championship qual in Malta,Malta,Netherlands,1359,1869,0,4,-6,6,1353,1875,121,7,-2,3,119,10,40,100,-410
+490,Oct 11 1995,Friendly in the United States,Mexico,Saudi Arabia,1827,1592,2,1,4,-4,1831,1588,22,57,0,0,22,57,20,0,235
+491,Oct 11 1995,Friendly in Norway,Norway,England,1851,1859,0,0,-3,3,1848,1862,17,13,0,1,17,14,20,100,92
+492,Oct 11 1995,European Championship qual in Romania,Romania,France,1906,1914,1,3,-38,38,1868,1952,16,5,-4,1,12,6,40,100,92
+493,Oct 11 1995,European Championship qual in Russia,Russia,Greece,1891,1597,2,1,4,-4,1895,1593,6,53,2,0,8,53,40,100,394
+494,Oct 11 1995,European Championship qual in San Marino,San Marino,Faroe Islands,985,1171,1,3,-23,23,962,1194,193,147,-1,7,192,154,40,100,-86
+495,Oct 11 1995,European Championship qual in Slovakia,Slovakia,Poland,1679,1762,4,1,33,-33,1712,1729,29,31,2,-1,31,30,40,100,17
+496,Oct 11 1995,European Championship qual in Slovenia,Slovenia,Ukraine,1566,1603,3,2,16,-16,1582,1587,57,65,3,-7,60,58,40,100,63
+497,Oct 11 1995,Friendly in Sweden,Sweden,Scotland,1849,1792,2,0,9,-9,1858,1783,12,25,3,-1,15,24,20,100,157
+498,Oct 11 1995,European Championship qual in Switzerland,Switzerland,Hungary,1830,1599,3,0,9,-9,1839,1590,19,60,1,-4,20,56,40,100,331
+499,Oct 11 1995,European Championship qual in Wales,Wales,Germany,1635,2021,1,2,-6,6,1629,2027,48,2,-2,0,46,2,40,100,-286
+500,Oct 18 1995,Friendly in Jamaica,Jamaica,Honduras,1490,1536,1,0,8,-8,1498,1528,74,75,5,-2,79,73,20,100,54
+501,Oct 20 1995,Friendly tournament in the Cayman Islands,Jamaica,Trinidad and Tobago,1498,1553,1,0,17,-17,1515,1536,73,73,3,-3,76,70,30,0,-55
+502,Oct 21 1995,Friendly in Mali,Mali,Algeria,1387,1564,0,2,-12,12,1375,1576,118,62,-3,1,115,63,20,100,-77
+503,Oct 21 1995,Afro-Asian Cup in Uzbekistan,Uzbekistan,Nigeria,1772,1775,2,3,-32,32,1740,1807,31,21,-2,2,29,23,50,100,97
+504,Oct 22 1995,Friendly tournament in the Cayman Islands,Cayman Islands,Jamaica,1082,1515,1,5,-7,7,1075,1522,176,72,0,2,176,74,30,100,-333
+505,Oct 22 1995,Friendly in Gabon,Gabon,Sierra Leone,1464,1517,1,0,9,-9,1473,1508,82,82,3,-4,85,78,20,100,47
+506,Oct 22 1995,N Am Ch & UNCAF Cup q in Panama,Panama,Nicaragua,1300,961,2,0,4,-4,1304,957,123,193,4,0,127,193,20,0,339
+507,Oct 24 1995,Friendly tournament in the Cayman Islands,Cayman Islands,Trinidad and Tobago,1075,1536,0,7,-8,8,1067,1544,180,68,-2,1,178,69,30,100,-361
+508,Oct 24 1995,Friendly in Japan,Japan,Saudi Arabia,1615,1588,2,1,6,-6,1621,1582,48,61,1,-2,49,59,20,100,127
+509,Oct 25 1995,Friendly in Bolivia,Bolivia,Ecuador,1669,1667,2,2,-3,3,1666,1670,40,34,-2,2,38,36,20,100,102
+510,Oct 26 1995,Friendly in China,China,Colombia,1594,1863,2,1,15,-15,1609,1848,51,19,0,-3,51,16,20,100,-169
+511,Oct 26 1995,Friendly tournament in Myanmar,Myanmar,Bangladesh,1176,1028,4,0,11,-11,1187,1017,152,192,4,-4,156,188,20,0,148
+512,Oct 27 1995,Friendly in Burkina Faso,Burkina Faso,Tunisia,1447,1556,2,2,0,0,1447,1556,92,65,0,0,92,65,20,100,-9
+513,Oct 28 1995,Friendly in Japan,Japan,Saudi Arabia,1621,1582,2,1,6,-6,1627,1576,45,65,2,-3,47,62,20,100,139
+514,Oct 29 1995,Friendly tournament in Myanmar,Myanmar,Sri Lanka,1187,937,2,0,5,-5,1192,932,156,194,0,0,156,194,30,100,350
+515,Oct 29 1995,N Am Ch & UNCAF Cup q in Nicaragua,Nicaragua,Panama,957,1304,0,5,-16,16,941,1320,193,121,0,3,193,124,40,100,-247
+516,Oct 31 1995,Friendly in South Korea,South Korea,Saudi Arabia,1633,1576,1,1,-4,4,1629,1580,45,60,0,1,45,61,20,100,157
+517,Nov 1 1995,Friendly tournament in Myanmar,Bangladesh,Sri Lanka,1017,932,1,0,11,-11,1028,921,180,196,4,-1,184,195,30,0,85
+518,Nov 2 1995,Friendly in Zambia,Zambia,Jamaica,1625,1522,1,0,5,-5,1630,1517,41,74,4,0,45,74,20,100,203
+519,Nov 3 1995,Friendly tournament in Tunisia,Algeria,Mauritania,1576,1175,4,0,5,-5,1581,1170,57,161,3,0,60,161,30,0,401
+520,Nov 4 1995,Friendly tournament in Myanmar,Myanmar,Bangladesh,1192,1028,1,2,-25,25,1167,1053,166,178,-5,3,161,181,30,100,264
+521,Nov 5 1995,Friendly tournament in Tunisia,Tunisia,Algeria,1556,1581,2,0,18,-18,1574,1563,61,70,2,-5,63,65,30,100,75
+522,Nov 5 1995,Friendly in Zambia,Zambia,Jamaica,1630,1517,4,2,7,-7,1637,1510,43,80,1,-3,44,77,20,100,213
+523,Nov 7 1995,Friendly tournament in Tunisia,Tunisia,Mauritania,1574,1170,2,1,2,-2,1576,1168,63,160,0,0,63,160,20,0,404
+524,Nov 8 1995,Friendly tournament in Argentina,Argentina,Brazil,1851,2098,0,1,-9,9,1842,2107,21,1,-3,0,18,1,30,100,-147
+525,Nov 10 1995,Oce Cup & Trans-Tasman Cup in New Zealand,New Zealand,Australia,1494,1707,0,0,8,-8,1502,1699,74,34,5,-1,79,33,30,0,-213
+526,Nov 10 1995,Afro-Asian Cup in Nigeria,Nigeria,Uzbekistan,1807,1740,1,0,14,-14,1821,1726,23,31,0,-1,23,30,50,100,167
+527,Nov 11 1995,European Championship qual in Hungary,Hungary,Iceland,1590,1591,1,0,14,-14,1604,1577,48,69,4,-7,52,62,40,100,99
+528,Nov 11 1995,European Championship qual in Italy,Italy,Ukraine,1983,1587,3,1,3,-3,1986,1584,3,57,0,0,3,57,20,0,396
+529,Nov 12 1995,Friendly in El Salvador,El Salvador,Yugoslavia,1512,1919,1,4,-5,5,1507,1924,79,7,-2,0,77,7,20,100,-307
+530,Nov 12 1995,Friendly in Ghana,Ghana,Sierra Leone,1646,1508,2,0,6,-6,1652,1502,37,78,3,0,40,78,20,100,238
+531,Nov 12 1995,European Championship qual in Malta,Malta,Belarus,1353,1430,0,2,-32,32,1321,1462,125,78,-3,11,122,89,40,100,23
+532,Nov 15 1995,European Championship qual in Albania,Albania,Wales,1425,1629,1,1,6,-6,1431,1623,101,52,0,-3,101,49,40,100,-104
+533,Nov 15 1995,Oce Cup & Trans-Tasman Cup in Australia,Australia,New Zealand,1699,1502,3,0,13,-13,1712,1489,29,90,2,-6,31,84,30,0,197
+534,Nov 15 1995,European Championship qual in Turkey,Azerbaijan,Poland,1439,1729,0,0,14,-14,1453,1715,89,31,3,-1,92,30,40,0,-290
+535,Nov 15 1995,European Championship qual in Cyprus,Cyprus,Belgium,1382,1791,1,1,14,-14,1396,1777,106,26,3,-1,109,25,40,100,-309
+536,Nov 15 1995,European Championship qual in Czechia,Czechia,Luxembourg,1892,1255,3,0,1,-1,1893,1254,11,143,-1,-1,10,142,20,0,637
+537,Nov 15 1995,European Championship qual in Denmark,Denmark,Armenia,1969,1282,3,1,1,-1,1970,1281,5,137,0,0,5,137,20,0,687
+538,Nov 15 1995,Friendly in England,England,Switzerland,1862,1839,3,1,10,-10,1872,1829,13,20,0,0,13,20,20,100,123
+539,Nov 15 1995,European Championship qual in France,France,Israel,1952,1648,2,0,5,-5,1957,1643,6,44,0,-1,6,43,40,100,404
+540,Nov 15 1995,European Championship qual in Germany,Germany,Bulgaria,2027,1845,3,1,10,-10,2037,1835,2,21,0,-2,2,19,40,100,282
+541,Nov 15 1995,European Championship qual in Greece,Greece,Faroe Islands,1593,1194,5,0,4,-4,1597,1190,52,156,1,-1,53,155,20,0,399
+542,Nov 15 1995,European Championship qual in Italy,Italy,Lithuania,1986,1435,4,0,2,-2,1988,1433,3,98,0,0,3,98,20,0,551
+543,Nov 15 1995,Friendly in Mexico,Mexico,Yugoslavia,1831,1924,1,4,-18,18,1813,1942,24,7,-1,0,23,7,20,100,7
+544,Nov 15 1995,European Championship qual in Moldova,Moldova,Georgia,1439,1669,3,2,27,-27,1466,1642,83,51,6,-7,89,44,40,100,-130
+545,Nov 15 1995,Friendly in Morocco,Morocco,Mali,1581,1375,2,0,4,-4,1585,1371,55,115,2,0,57,115,20,100,306
+546,Nov 15 1995,European Championship qual in the Netherlands,Netherlands,Norway,1875,1848,3,0,23,-23,1898,1825,8,27,1,-6,9,21,40,100,127
+547,Nov 15 1995,European Championship qual in Northern Ireland,Northern Ireland,Austria,1626,1680,5,3,26,-26,1652,1654,29,41,10,-3,39,38,30,0,-54
+548,Nov 15 1995,European Championship qual in Portugal,Portugal,Ireland,1841,1774,3,0,19,-19,1860,1755,9,30,5,-2,14,28,40,100,167
+549,Nov 15 1995,European Championship qual in Russia,Russia,Finland,1895,1533,3,1,4,-4,1899,1529,8,71,0,0,8,71,40,100,462
+550,Nov 15 1995,European Championship qual in Scotland,Scotland,San Marino,1783,962,5,0,0,0,1783,962,23,192,1,0,24,192,20,0,821
+551,Nov 15 1995,European Championship qual in Slovakia,Slovakia,Romania,1712,1868,0,2,-25,25,1687,1893,35,8,-2,2,33,10,40,100,-56
+552,Nov 15 1995,European Championship qual in Slovenia,Slovenia,Croatia,1582,1873,1,2,-10,10,1572,1883,68,13,-5,-1,63,12,40,100,-191
+553,Nov 15 1995,European Championship qual in Spain,Spain,Macedonia,1983,1542,3,0,3,-3,1986,1539,4,70,0,0,4,70,20,0,441
+554,Nov 15 1995,European Championship qual in Sweden,Sweden,Turkey,1858,1748,2,2,-11,11,1847,1759,18,26,-2,1,16,27,40,100,210
+555,Nov 17 1995,Amilcar Cabral Cup in Mauritania,Cape Verde,Mali,1299,1371,1,0,24,-24,1323,1347,109,121,12,-3,121,118,40,0,-72
+556,Nov 17 1995,Amilcar Cabral Cup in Mauritania,Mauritania,Gambia,1168,1323,2,1,23,-23,1191,1300,150,141,5,-10,155,131,40,100,-55
+557,Nov 17 1995,Oceania Nations Cup in the Solomon Islands,Solomon Islands,Tahiti,1304,1555,0,1,-15,15,1289,1570,140,62,-6,2,134,64,50,100,-151
+558,Nov 18 1995,Amilcar Cabral Cup in Mauritania,Guinea-Bissau,Senegal,1218,1461,2,1,32,-32,1250,1429,137,111,6,-10,143,101,40,0,-243
+559,Nov 18 1995,Amilcar Cabral Cup in Mauritania,Sierra Leone,Guinea,1502,1402,2,0,22,-22,1524,1380,70,118,4,-6,74,112,40,0,100
+560,Nov 19 1995,Windward Islands Champ in Dominica,Dominica,Saint Lucia,1158,1271,2,1,16,-16,1174,1255,159,142,2,-2,161,140,30,100,-13
+561,Nov 19 1995,Amilcar Cabral Cup in Mauritania,Mali,Gambia,1347,1300,1,0,17,-17,1364,1283,114,139,2,-4,116,135,40,0,47
+562,Nov 19 1995,Amilcar Cabral Cup in Mauritania,Mauritania,Cape Verde,1191,1323,1,1,2,-2,1193,1321,155,121,0,0,155,121,40,100,-32
+563,Nov 19 1995,Windward Islands Champ in Dominica,St Vincent & Grenadines,Barbados,1327,1295,2,0,20,-20,1347,1275,118,141,1,-4,119,137,30,0,32
+564,Nov 20 1995,Amilcar Cabral Cup in Mauritania,Senegal,Guinea,1429,1380,3,0,30,-30,1459,1350,81,124,10,-6,91,118,40,0,49
+565,Nov 20 1995,Amilcar Cabral Cup in Mauritania,Sierra Leone,Guinea-Bissau,1524,1250,2,0,10,-10,1534,1240,68,145,3,-1,71,144,40,0,274
+566,Nov 21 1995,Amilcar Cabral Cup in Mauritania,Gambia,Cape Verde,1283,1321,3,0,39,-39,1322,1282,107,149,14,-14,121,135,40,0,-38
+567,Nov 21 1995,Amilcar Cabral Cup in Mauritania,Mauritania,Mali,1193,1364,3,1,36,-36,1229,1328,141,125,7,-5,148,120,40,100,-71
+568,Nov 22 1995,Simba Cup in South Africa,Egypt,Zimbabwe,1648,1495,2,2,-6,6,1642,1501,44,77,-1,3,43,80,20,100,253
+569,Nov 22 1995,Amilcar Cabral Cup in Mauritania,Guinea-Bissau,Guinea,1240,1350,2,1,26,-26,1266,1324,132,123,6,-3,138,120,40,0,-110
+570,Nov 22 1995,Amilcar Cabral Cup in Mauritania,Senegal,Sierra Leone,1459,1534,1,1,4,-4,1463,1530,89,71,1,0,90,71,40,0,-75
+571,Nov 22 1995,Simba Cup in South Africa,South Africa,Zambia,1664,1637,2,2,-5,5,1659,1642,37,41,0,2,37,43,30,100,127
+572,Nov 23 1995,Windward Islands Champ in Dominica,Grenada,Barbados,1263,1275,1,0,16,-16,1279,1259,134,145,3,-4,137,141,30,0,-12
+573,Nov 23 1995,Windward Islands Champ in Dominica,Saint Lucia,St Vincent & Grenadines,1255,1347,2,1,19,-19,1274,1328,135,119,3,-1,138,118,30,0,-92
+574,Nov 24 1995,Simba Cup in South Africa,South Africa,Egypt,1659,1642,2,0,15,-15,1674,1627,33,51,2,-4,35,47,30,100,117
+575,Nov 24 1995,Simba Cup in South Africa,Zambia,Zimbabwe,1642,1501,1,1,-6,6,1636,1507,45,76,-1,2,44,78,20,100,241
+576,Nov 25 1995,Amilcar Cabral Cup in Mauritania,Mauritania,Guinea-Bissau,1229,1266,1,0,16,-16,1245,1250,142,147,3,-4,145,143,40,100,63
+577,Nov 25 1995,Amilcar Cabral Cup in Mauritania,Sierra Leone,Cape Verde,1530,1282,2,0,12,-12,1542,1270,69,141,1,-3,70,138,40,0,248
+578,Nov 25 1995,CECAFA Cup in Uganda,Uganda,Rwanda,1470,1098,0,0,-18,18,1452,1116,98,163,-6,5,92,168,40,100,472
+579,Nov 26 1995,Friendly tournament in Gabon,Algeria,Ivory Coast,1563,1635,0,0,3,-3,1566,1632,66,45,0,0,66,45,30,0,-72
+580,Nov 26 1995,Simba Cup in South Africa,Egypt,Zambia,1627,1636,3,1,23,-23,1650,1613,35,56,6,-6,41,50,30,0,-9
+581,Nov 26 1995,CECAFA Cup in Uganda,Ethiopia,Tanzania,1304,1397,2,2,5,-5,1309,1392,128,111,0,-2,128,109,40,0,-93
+582,Nov 26 1995,Friendly tournament in Gabon,Gabon,Cameroon,1473,1570,1,2,-15,15,1458,1585,95,50,-5,7,90,57,30,100,3
+583,Nov 26 1995,Friendly in Jamaica,Jamaica,Norway,1510,1825,1,1,6,-6,1516,1819,75,23,1,-1,76,22,20,100,-215
+584,Nov 26 1995,Simba Cup in South Africa,South Africa,Zimbabwe,1674,1507,2,0,8,-8,1682,1499,35,82,0,-2,35,80,20,0,167
+585,Nov 27 1995,Amilcar Cabral Cup in Mauritania,Cape Verde,Guinea-Bissau,1270,1250,1,0,19,-19,1289,1231,126,149,6,-3,132,146,40,0,20
+586,Nov 27 1995,CECAFA Cup in Uganda,Kenya,Zanzibar,1410,1132,2,0,10,-10,1420,1122,103,167,0,0,103,167,40,0,278
+587,Nov 28 1995,Friendly tournament in Gabon,Algeria,Cameroon,1566,1585,4,0,30,-30,1596,1555,42,75,12,-9,54,66,30,0,-19
+588,Nov 28 1995,Windward Islands Champ in Dominica,Dominica,St Vincent & Grenadines,1174,1328,1,0,17,-17,1191,1311,151,132,5,-7,156,125,30,100,-54
+589,Nov 28 1995,Friendly tournament in Gabon,Gabon,Ivory Coast,1458,1632,0,2,-18,18,1440,1650,100,37,-5,4,95,41,30,100,-74
+590,Nov 28 1995,Amilcar Cabral Cup in Mauritania,Mauritania,Sierra Leone,1245,1542,0,0,10,-10,1255,1532,138,72,3,-1,141,71,30,0,-297
+591,Nov 29 1995,Friendly in the United States,Colombia,Mexico,1848,1813,2,2,-1,1,1847,1814,15,21,0,1,15,22,20,0,35
+592,Nov 29 1995,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Belize,1507,1113,3,0,4,-4,1511,1109,76,167,1,1,77,168,40,100,494
+593,Nov 29 1995,N Am Ch q & UNCAF Cup in El Salvador,Honduras,Panama,1528,1320,2,0,14,-14,1542,1306,66,133,4,-5,70,128,40,0,208
+594,Nov 29 1995,Friendly in Trinidad and Tobago,Trinidad and Tobago,Norway,1544,1819,3,2,15,-15,1559,1804,63,24,3,-1,66,23,20,100,-175
+595,Nov 29 1995,Friendly in Tunisia,Tunisia,Burkina Faso,1576,1447,3,0,7,-7,1583,1440,57,94,3,0,60,94,20,100,229
+596,Nov 29 1995,CECAFA Cup in Uganda,Zanzibar,Rwanda,1122,1116,2,1,20,-20,1142,1096,165,178,1,-5,166,173,40,0,6
+597,Nov 30 1995,Friendly in Albania,Albania,Bosnia and Herzegovina,1431,1620,2,0,19,-19,1450,1601,87,55,7,-3,94,52,20,100,-89
+598,Nov 30 1995,Friendly tournament in Gabon,Gabon,Algeria,1440,1596,2,1,17,-17,1457,1579,86,68,4,-7,90,61,30,100,-56
+599,Nov 30 1995,Friendly tournament in Gabon,Ivory Coast,Cameroon,1650,1555,2,1,11,-11,1661,1544,35,71,3,-2,38,69,30,0,95
+600,Nov 30 1995,CECAFA Cup in Uganda,Kenya,Rwanda,1420,1096,1,0,5,-5,1425,1091,99,173,2,0,101,173,40,0,324
+601,Nov 30 1995,CECAFA Cup in Uganda,Uganda,Zanzibar,1452,1142,0,1,-37,37,1415,1179,115,156,-12,5,103,161,40,100,410
+602,Dec 1 1995,N Am Ch q & UNCAF Cup in El Salvador,Costa Rica,Belize,1594,1109,2,1,2,-2,1596,1107,54,168,0,0,54,168,30,0,485
+603,Dec 1 1995,N Am Ch q & UNCAF Cup in El Salvador,Guatemala,Panama,1468,1306,1,0,11,-11,1479,1295,84,134,1,-3,85,131,40,0,162
+604,Dec 1 1995,CECAFA Cup in Uganda,Tanzania,Somalia,1392,1181,7,0,21,-21,1413,1160,99,167,5,-4,104,163,40,0,211
+605,Dec 2 1995,Friendly tournament in Gabon,Algeria,Ivory Coast,1579,1661,0,0,3,-3,1582,1658,59,38,1,0,60,38,30,0,-82
+606,Dec 2 1995,Friendly tournament in Gabon,Gabon,Cameroon,1457,1544,0,0,-1,1,1456,1545,90,69,0,0,90,69,30,100,13
+607,Dec 2 1995,CECAFA Cup in Uganda,Uganda,Kenya,1415,1425,0,0,-5,5,1410,1430,105,101,-1,0,104,101,40,100,90
+608,Dec 3 1995,Friendly in Antigua and Barbuda,Antigua and Barbuda,Jamaica,1155,1516,1,2,-4,4,1151,1520,165,76,0,0,165,76,20,100,-261
+609,Dec 3 1995,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Costa Rica,1511,1596,2,1,19,-19,1530,1577,69,70,4,-8,73,62,30,0,-85
+610,Dec 3 1995,Windward Islands Champ in Dominica,Grenada,St Vincent & Grenadines,1279,1311,1,0,16,-16,1295,1295,123,136,7,-6,130,130,30,0,-32
+611,Dec 3 1995,N Am Ch q & UNCAF Cup in El Salvador,Honduras,Guatemala,1542,1479,2,0,25,-25,1567,1454,62,95,4,-5,66,90,40,0,63
+612,Dec 4 1995,Southeast Asian Games in Thailand,Brunei,Singapore,860,1284,2,2,17,-17,877,1267,196,140,4,-2,200,138,40,0,-424
+613,Dec 4 1995,CECAFA Cup in Uganda,Ethiopia,Somalia,1309,1160,5,0,24,-24,1333,1136,110,173,8,-5,118,168,40,0,149
+614,Dec 4 1995,Southeast Asian Games in Thailand,Myanmar,Philippines,1167,816,4,1,8,-8,1175,808,160,206,1,0,161,206,40,0,351
+615,Dec 4 1995,Southeast Asian Games in Thailand,Thailand,Indonesia,1359,1178,2,1,7,-7,1366,1171,115,163,0,-1,115,162,40,100,281
+616,Dec 4 1995,Southeast Asian Games in Thailand,Vietnam,Malaysia,1105,1255,2,0,42,-42,1147,1213,163,161,3,-10,166,151,40,0,-150
+617,Dec 6 1995,CECAFA Cup in Uganda,Ethiopia,Zanzibar,1333,1179,1,1,-8,8,1325,1187,120,158,-1,1,119,159,40,0,154
+618,Dec 6 1995,Southeast Asian Games in Thailand,Indonesia,Cambodia,1171,1302,10,0,71,-71,1242,1231,124,163,19,-18,143,145,40,0,-131
+619,Dec 6 1995,Southeast Asian Games in Thailand,Laos,Philippines,917,808,1,0,14,-14,931,794,192,206,2,0,194,206,40,0,109
+620,Dec 6 1995,Friendly in Mexico,Mexico,Slovenia,1814,1572,1,2,-18,18,1796,1590,24,46,-1,9,23,55,20,100,342
+621,Dec 6 1995,Southeast Asian Games in Thailand,Singapore,Myanmar,1267,1175,4,2,22,-22,1289,1153,126,165,6,-2,132,163,40,0,92
+622,Dec 6 1995,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Jamaica,1151,1520,0,3,-6,6,1145,1526,168,76,-2,0,166,76,20,100,-269
+623,Dec 6 1995,Southeast Asian Games in Thailand,Thailand,Malaysia,1366,1213,0,0,-12,12,1354,1225,117,151,-1,0,116,151,40,100,253
+624,Dec 7 1995,N Am Ch q & UNCAF Cup in El Salvador,Costa Rica,Honduras,1577,1567,1,1,-1,1,1576,1568,65,66,-1,0,64,66,40,0,10
+625,Dec 7 1995,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Guatemala,1530,1454,0,1,-29,29,1501,1483,85,80,-6,5,79,85,40,100,176
+626,Dec 8 1995,Southeast Asian Games in Thailand,Indonesia,Malaysia,1242,1225,3,0,33,-33,1275,1192,131,161,6,-5,137,156,40,0,17
+627,Dec 8 1995,Southeast Asian Games in Thailand,Laos,Brunei,931,877,3,0,30,-30,961,847,192,208,1,-4,193,204,40,0,54
+628,Dec 8 1995,Southeast Asian Games in Thailand,Singapore,Philippines,1289,794,4,0,4,-4,1293,790,132,206,0,0,132,206,40,0,495
+629,Dec 8 1995,Southeast Asian Games in Thailand,Vietnam,Cambodia,1147,1231,4,0,46,-46,1193,1185,145,177,10,-16,155,161,40,0,-84
+630,Dec 9 1995,Friendly in Ivory Coast,Ivory Coast,Mali,1658,1328,2,1,2,-2,1660,1326,38,118,0,0,38,118,20,100,430
+631,Dec 9 1995,CECAFA Cup in Uganda,Kenya,Ethiopia,1430,1325,2,1,14,-14,1444,1311,89,129,6,-5,95,124,40,0,105
+632,Dec 10 1995,N Am Ch q & UNCAF Cup in El Salvador,El Salvador,Costa Rica,1501,1576,2,1,19,-19,1520,1557,73,70,3,-3,76,67,40,100,25
+633,Dec 10 1995,UNCAF Nations Cup in El Salvador,Honduras,Guatemala,1568,1483,3,0,27,-27,1595,1456,42,93,12,-4,54,89,40,0,85
+634,Dec 10 1995,Southeast Asian Games in Thailand,Laos,Singapore,961,1293,0,0,15,-15,976,1278,189,140,2,-4,191,136,40,0,-332
+635,Dec 10 1995,Southeast Asian Games in Thailand,Malaysia,Cambodia,1192,1185,9,0,49,-49,1241,1136,132,173,12,-6,144,167,40,0,7
+636,Dec 10 1995,Southeast Asian Games in Thailand,Myanmar,Brunei,1153,847,2,0,9,-9,1162,838,160,204,2,0,162,204,40,0,306
+637,Dec 10 1995,Southeast Asian Games in Thailand,Thailand,Vietnam,1354,1193,3,1,11,-11,1365,1182,114,165,1,-5,115,160,40,100,261
+638,Dec 12 1995,Friendly in England,England,Portugal,1872,1860,1,1,-3,3,1869,1863,13,14,0,0,13,14,20,100,112
+639,Dec 12 1995,Southeast Asian Games in Thailand,Myanmar,Laos,1162,976,1,0,10,-10,1172,966,162,191,0,0,162,191,40,0,186
+640,Dec 12 1995,Southeast Asian Games in Thailand,Philippines,Brunei,790,838,1,0,23,-23,813,815,206,206,0,-1,206,205,40,0,-48
+641,Dec 12 1995,Southeast Asian Games in Thailand,Thailand,Cambodia,1365,1136,9,0,13,-13,1378,1123,109,169,3,-1,112,168,40,100,329
+642,Dec 12 1995,Southeast Asian Games in Thailand,Vietnam,Indonesia,1182,1275,1,0,25,-25,1207,1250,144,147,8,-5,152,142,40,0,-93
+643,Dec 12 1995,Friendly in Zaire,Zaire,Congo,1547,1356,2,2,-7,7,1540,1363,72,116,-2,0,70,116,20,100,291
+644,Dec 13 1995,Friendly in Kuwait,Kuwait,Czechia,1496,1893,1,2,-3,3,1493,1896,83,10,0,0,83,10,20,100,-297
+645,Dec 13 1995,European Championship qual in England,Netherlands,Ireland,1898,1755,2,0,18,-18,1916,1737,7,28,1,0,8,28,40,0,143
+646,Dec 14 1995,Southeast Asian Games in Thailand,Thailand,Singapore,1378,1278,1,0,10,-10,1388,1268,112,138,0,-1,112,137,40,100,200
+647,Dec 14 1995,Southeast Asian Games in Thailand,Vietnam,Myanmar,1207,1172,2,1,18,-18,1225,1154,150,164,1,-1,151,163,40,0,35
+648,Dec 15 1995,Friendly in South Africa,South Africa,Germany,1682,2037,0,0,6,-6,1688,2031,31,2,2,0,33,2,20,100,-255
+649,Dec 16 1995,Southeast Asian Games in Thailand,Singapore,Myanmar,1268,1154,1,0,14,-14,1282,1140,133,167,2,-2,135,165,40,0,114
+650,Dec 16 1995,Southeast Asian Games in Thailand,Thailand,Vietnam,1388,1225,4,0,14,-14,1402,1211,102,153,5,-1,107,152,40,100,263
+651,Dec 17 1995,Friendly in Sierra Leone,Sierra Leone,Liberia,1532,1403,1,0,4,-4,1536,1399,72,110,0,-2,72,108,20,100,229
+652,Dec 19 1995,South Asian Games in India,Nepal,Maldives,883,769,1,0,14,-14,897,755,195,207,2,0,197,207,40,0,114
+653,Dec 20 1995,Friendly in Brazil,Brazil,Colombia,2107,1847,3,1,3,-3,2110,1844,1,17,0,-1,1,16,20,100,360
+654,Dec 20 1995,Friendly in Jamaica,Jamaica,Mexico,1526,1796,2,1,15,-15,1541,1781,65,25,5,-1,70,24,20,100,-170
+655,Dec 21 1995,Friendly in Argentina,Argentina,Venezuela,1842,1334,6,0,1,-1,1843,1333,17,117,0,0,17,117,20,100,608
+656,Dec 21 1995,South Asian Games in India,Bangladesh,Maldives,1053,755,0,0,-14,14,1039,769,183,207,-1,0,182,207,40,0,298
+657,Dec 22 1995,Friendly in Burkina Faso,Burkina Faso,Gabon,1440,1456,2,5,-22,22,1418,1478,108,81,-6,4,102,85,20,100,84
+658,Dec 23 1995,South Asian Games in India,Bangladesh,Nepal,1039,897,2,1,12,-12,1051,885,180,201,1,-2,181,199,40,0,142
+659,Dec 23 1995,South Asian Games in India,India,Sri Lanka,1064,921,1,0,8,-8,1072,913,177,196,1,0,178,196,40,100,243
+660,Dec 23 1995,Friendly in Zambia,Zambia,Tunisia,1613,1583,2,0,10,-10,1623,1573,47,68,1,-4,48,64,20,100,130
+661,Dec 24 1995,Friendly in Cameroon,Cameroon,Liberia,1545,1399,1,0,4,-4,1549,1395,67,110,1,-1,68,109,20,100,246
+662,Dec 25 1995,South Asian Games in India,Bangladesh,Sri Lanka,1051,913,0,0,-8,8,1043,921,183,196,-1,0,182,196,40,0,138
+663,Dec 25 1995,South Asian Games in India,India,Nepal,1072,885,3,0,11,-11,1083,874,174,199,2,0,176,199,40,100,287
+664,Dec 27 1995,South Asian Games in India,India,Bangladesh,1083,1043,1,0,12,-12,1095,1031,170,186,3,-2,173,184,40,100,140
+665,Dec 27 1995,Friendly in Kuwait,Kuwait,Kazakhstan,1493,1592,0,0,0,0,1493,1592,83,55,0,0,83,55,20,100,1
+666,Dec 27 1995,Friendly in Mali,Mali,Gabon,1326,1478,1,2,-9,9,1317,1487,126,85,-4,0,122,85,20,100,-52
+667,Dec 27 1995,South Asian Games in India,Nepal,Sri Lanka,874,921,0,0,3,-3,877,918,199,196,0,0,199,196,40,0,-47
+668,Dec 29 1995,Friendly in Egypt,Egypt,Ghana,1650,1652,1,2,-13,13,1637,1665,48,36,-3,2,45,38,20,100,98
+669,Dec 29 1995,Friendly in Saudi Arabia,Saudi Arabia,Kazakhstan,1580,1592,3,0,13,-13,1593,1579,49,67,6,-6,55,61,20,100,88

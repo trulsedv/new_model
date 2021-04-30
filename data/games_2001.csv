@@ -1,0 +1,1007 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 4 2001,Friendly in Kenya,Kenya,Zambia,1332,1460,2,1,11,-11,1343,1449,117,92,2,-4,119,88,20,100,-28
+1,Jan 6 2001,World Cup qualifier in the United States,Costa Rica,Guatemala,1607,1571,5,2,31,-31,1638,1540,52,74,2,-6,54,68,40,0,36
+2,Jan 6 2001,Friendly in Egypt,Egypt,United Arab Emirates,1693,1528,2,1,4,-4,1697,1524,40,73,1,-1,41,72,20,100,265
+3,Jan 6 2001,Friendly tournament in Swaziland,Namibia,Lesotho,1322,1200,1,0,10,-10,1332,1190,121,162,1,-3,122,159,30,0,122
+4,Jan 6 2001,Friendly in Qatar,Qatar,Jordan,1531,1440,3,1,7,-7,1538,1433,68,96,1,-2,69,94,20,100,191
+5,Jan 6 2001,Friendly tournament in Swaziland,Swaziland,Angola,1175,1475,1,0,23,-23,1198,1452,151,92,5,-6,156,86,30,100,-200
+6,Jan 7 2001,Friendly tournament in Swaziland,Angola,Lesotho,1452,1190,2,0,8,-8,1460,1182,80,159,3,0,83,159,30,0,262
+7,Jan 7 2001,Friendly tournament in Swaziland,Swaziland,Namibia,1198,1332,2,1,16,-16,1214,1316,148,128,4,-3,152,125,30,100,-34
+8,Jan 7 2001,Friendly in Togo,Togo,Burkina Faso,1426,1424,1,1,-3,3,1423,1427,100,95,-1,2,99,97,20,100,102
+9,Jan 9 2001,Friendly in Egypt,Egypt,Zambia,1697,1449,3,1,4,-4,1701,1445,41,90,0,-1,41,89,20,100,348
+10,Jan 9 2001,Friendly in Swaziland,Swaziland,Lesotho,1214,1182,2,2,-4,4,1210,1186,154,159,-1,0,153,159,20,100,132
+11,Jan 12 2001,African Nations Cup qualifier in Algeria,Algeria,Burundi,1525,1378,2,1,8,-8,1533,1370,71,115,0,-1,71,114,40,100,247
+12,Jan 12 2001,Millenium Cup in India,Bosnia and Herzegovina,Bangladesh,1549,1011,2,0,2,-2,1551,1009,64,187,1,0,65,187,30,0,538
+13,Jan 12 2001,Friendly in Qatar,Qatar,Kuwait,1538,1621,1,0,10,-10,1548,1611,65,56,2,0,67,56,20,100,17
+14,Jan 13 2001,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Angola,1427,1460,1,0,16,-16,1443,1444,83,93,7,-5,90,88,30,0,-33
+15,Jan 13 2001,Millenium Cup in India,India,Iceland,1083,1597,0,3,-4,4,1079,1601,176,58,0,0,176,58,30,100,-414
+16,Jan 13 2001,African Nations Cup qualifier in Kenya,Kenya,Gabon,1343,1423,2,1,19,-19,1362,1404,113,113,3,-7,116,106,40,100,20
+17,Jan 13 2001,African Nations Cup qualifier in Mauritius,Mauritius,South Africa,1230,1674,1,1,15,-15,1245,1659,139,56,4,-5,143,51,40,100,-344
+18,Jan 13 2001,African Nations Cup qualifier in Namibia,Namibia,Madagascar,1316,1463,2,2,3,-3,1319,1460,121,84,2,-1,123,83,40,100,-47
+19,Jan 13 2001,African Nations Cup qualifier in Nigeria,Nigeria,Zambia,1704,1445,1,0,4,-4,1708,1441,38,93,1,-2,39,91,20,0,259
+20,Jan 13 2001,African Nations Cup qualifier in Tunisia,Tunisia,Morocco,1646,1679,0,1,-24,24,1622,1703,57,37,-2,4,55,41,40,100,67
+21,Jan 13 2001,African Nations Cup qualifier in Uganda,Uganda,Senegal,1441,1459,1,1,-5,5,1436,1464,95,80,-2,2,93,82,40,100,82
+22,Jan 14 2001,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Ghana,1456,1514,2,1,18,-18,1474,1496,73,81,6,-3,79,78,40,100,42
+23,Jan 14 2001,African Nations Cup qualifier in Egypt,Egypt,Libya,1701,1438,4,0,8,-8,1709,1430,36,102,3,-5,39,97,40,100,363
+24,Jan 14 2001,African Nations Cup qualifier in Guinea,Guinea,Togo,1507,1423,0,0,-10,10,1497,1433,77,91,0,4,77,95,40,100,184
+25,Jan 14 2001,African Nations Cup qualifier in Liberia,Liberia,Congo,1427,1429,5,1,27,-27,1454,1402,72,115,13,-9,85,106,40,100,98
+26,Jan 14 2001,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Lesotho,1486,1186,1,2,-36,36,1450,1222,95,145,-8,7,87,152,40,100,400
+27,Jan 16 2001,Millenium Cup in India,Jordan,Hong Kong,1433,1208,2,0,10,-10,1443,1198,87,159,4,-2,91,157,30,0,225
+28,Jan 17 2001,Friendly tournament in Iran,China,Egypt,1686,1709,0,0,1,-1,1687,1708,45,39,0,0,45,39,20,0,-23
+29,Jan 17 2001,Friendly in Israel,Israel,Uzbekistan,1674,1466,2,0,4,-4,1678,1462,46,83,0,-1,46,82,20,100,308
+30,Jan 17 2001,Friendly in Qatar,Kuwait,Syria,1611,1511,2,0,11,-11,1622,1500,54,75,1,0,55,75,20,0,100
+31,Jan 19 2001,Friendly tournament in Iran,Iran,China,1742,1687,4,0,16,-16,1758,1671,20,47,6,-1,26,46,20,0,55
+32,Jan 20 2001,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Sudan,1576,1317,2,0,7,-7,1583,1310,61,130,0,-3,61,127,40,100,359
+33,Jan 20 2001,Friendly in Mali,Mali,Guinea,1418,1497,0,1,-11,11,1407,1508,108,73,-4,2,104,75,20,100,21
+34,Jan 21 2001,Friendly in Madagascar,Madagascar,Mayotte,1460,1214,1,0,2,-2,1462,1212,81,153,1,0,82,153,20,100,346
+35,Jan 21 2001,Leeward Islands Champ in the US Virgin Islands,Saint Kitts,Antigua and Barbuda,1228,1163,2,0,18,-18,1246,1145,137,168,6,-2,143,166,30,0,65
+36,Jan 23 2001,Friendly in Burkina Faso,Burkina Faso,Mali,1443,1407,0,2,-21,21,1422,1428,107,92,-8,6,99,98,20,100,136
+37,Jan 23 2001,Friendly in Egypt,Egypt,North Korea,1708,1446,1,0,2,-2,1710,1444,35,88,2,0,37,88,20,100,362
+38,Jan 23 2001,Friendly in Thailand,Thailand,Kuwait,1536,1622,5,4,10,-10,1546,1612,66,57,2,-1,68,56,20,100,14
+39,Jan 24 2001,Friendly in Mexico,Mexico,Bulgaria,1825,1665,0,2,-25,25,1800,1690,29,39,-7,5,22,44,20,100,260
+40,Jan 24 2001,Friendly tournament in Hong Kong,Norway,South Korea,1791,1757,3,2,14,-14,1805,1743,20,36,1,-4,21,32,30,0,34
+41,Jan 25 2001,Friendly in Benin,Benin,Cameroon,1245,1722,1,3,-3,3,1242,1725,148,33,-2,0,146,33,20,100,-377
+42,Jan 26 2001,World Cup qualifier in Algeria,Algeria,Namibia,1533,1319,1,0,6,-6,1539,1313,71,127,0,-2,71,125,40,100,314
+43,Jan 27 2001,Friendly tournament in Botswana,Botswana,Swaziland,1098,1210,1,2,-14,14,1084,1224,175,148,0,3,175,151,30,100,-12
+44,Jan 27 2001,Friendly in Grenada,Grenada,Trinidad and Tobago,1299,1658,1,2,-4,4,1295,1662,133,50,-1,1,132,51,20,100,-259
+45,Jan 27 2001,Friendly in the United States,Jamaica,Bolivia,1551,1596,3,0,20,-20,1571,1576,57,61,4,-1,61,60,20,0,-45
+46,Jan 27 2001,World Cup qualifier in Madagascar,Madagascar,Ivory Coast,1462,1583,1,0,21,-21,1483,1562,76,63,3,-1,79,62,40,100,-21
+47,Jan 27 2001,World Cup qualifier in Nigeria,Nigeria,Sudan,1708,1310,3,0,4,-4,1712,1306,32,131,4,-2,36,129,40,100,498
+48,Jan 27 2001,Friendly tournament in Hong Kong,Paraguay,South Korea,1866,1743,1,1,-5,5,1861,1748,12,30,0,1,12,31,30,0,123
+49,Jan 27 2001,Friendly in Singapore,Singapore,Thailand,1261,1546,1,1,5,-5,1266,1541,137,68,2,0,139,68,20,100,-185
+50,Jan 27 2001,World Cup qualifier in South Africa,South Africa,Burkina Faso,1659,1422,1,0,5,-5,1664,1417,49,101,1,-1,50,100,40,100,337
+51,Jan 27 2001,Friendly in the United States,United States,China,1807,1671,2,1,4,-4,1811,1667,16,51,2,-2,18,49,20,100,236
+52,Jan 28 2001,World Cup qualifier in Angola,Angola,Libya,1444,1430,3,1,20,-20,1464,1410,74,108,7,-6,81,102,40,100,114
+53,Jan 28 2001,Friendly in Antigua and Barbuda,Antigua and Barbuda,British Virgin Islands,1145,838,1,1,-8,8,1137,846,168,205,-1,0,167,205,20,100,407
+54,Jan 28 2001,Friendly tournament in Botswana,Botswana,Lesotho,1084,1222,2,1,17,-17,1101,1205,175,157,0,-2,175,155,30,100,-38
+55,Jan 28 2001,World Cup qualifier in Congo,Congo,Tunisia,1402,1622,1,2,-13,13,1389,1635,112,53,-3,1,109,54,40,100,-120
+56,Jan 28 2001,World Cup qualifier in Egypt,Egypt,Morocco,1710,1703,0,0,-6,6,1704,1709,46,38,-4,2,42,40,40,100,107
+57,Jan 28 2001,World Cup qualifier in Ghana,Ghana,Liberia,1496,1454,1,3,-42,42,1454,1496,92,69,-7,8,85,77,40,100,142
+58,Jan 28 2001,World Cup qualifier in Guinea,Guinea,Malawi,1508,1265,1,1,-15,15,1493,1280,81,134,-3,3,78,137,40,100,343
+59,Jan 28 2001,Friendly in Jamaica,Jamaica,Bulgaria,1571,1690,0,0,1,-1,1572,1689,63,44,-1,0,62,44,20,100,-19
+60,Jan 28 2001,Friendly in Jordan,Jordan,North Korea,1443,1444,1,0,7,-7,1450,1437,85,96,3,-4,88,92,20,100,99
+61,Jan 28 2001,World Cup qualifier in Madagascar,Madagascar,Ivory Coast,1483,1562,1,3,-32,32,1451,1594,93,56,-7,3,86,59,40,100,21
+62,Jan 28 2001,World Cup qualifier in Togo,Togo,Cameroon,1433,1725,0,2,-15,15,1418,1740,101,33,-3,0,98,33,40,100,-192
+63,Jan 29 2001,Friendly in Grenada,Grenada,Trinidad and Tobago,1295,1662,0,2,-5,5,1290,1667,136,47,-2,2,134,49,20,100,-267
+64,Jan 30 2001,Friendly in Jordan,Jordan,North Korea,1450,1437,0,2,-20,20,1430,1457,100,76,-6,8,94,84,20,100,113
+65,Jan 30 2001,Friendly in Saudi Arabia,Saudi Arabia,Syria,1695,1500,1,0,3,-3,1698,1497,43,77,0,-1,43,76,20,100,295
+66,Jan 30 2001,Friendly in Thailand,Thailand,Kyrgyzstan,1541,1169,3,1,2,-2,1543,1167,68,162,0,0,68,162,20,100,472
+67,Jan 31 2001,Friendly in the United States,Colombia,Mexico,1762,1800,3,2,11,-11,1773,1789,25,22,0,0,25,22,20,0,-38
+68,Jan 31 2001,Friendly in Lebanon,Lebanon,Iraq,1387,1604,0,0,3,-3,1390,1601,104,57,3,0,107,57,20,100,-117
+69,Jan 31 2001,Nordic Championship in Sweden,Sweden,Faroe Islands,1820,1203,0,0,-15,15,1805,1218,24,150,-4,3,20,153,30,100,717
+70,Feb 1 2001,Nordic Championship in Sweden,Sweden,Finland,1805,1591,0,1,-26,26,1779,1617,28,52,-4,4,24,56,30,100,314
+71,Feb 3 2001,World Cup qualifier in Singapore,Kuwait,Bahrain,1612,1316,2,1,6,-6,1618,1310,55,128,1,-2,56,126,40,0,296
+72,Feb 3 2001,CONCACAF Ch & Car Cup q in Puerto Rico,Puerto Rico,British Virgin Islands,914,846,1,2,-29,29,885,875,200,195,-2,5,198,200,40,100,168
+73,Feb 3 2001,Friendly in Saudi Arabia,Saudi Arabia,Uganda,1698,1436,3,1,3,-3,1701,1433,43,94,0,-1,43,93,20,100,362
+74,Feb 3 2001,World Cup qualifier in Singapore,Singapore,Kyrgyzstan,1266,1167,0,1,-30,30,1236,1197,154,154,-7,4,147,158,40,100,199
+75,Feb 3 2001,Friendly in the United States,United States,Colombia,1811,1773,0,1,-14,14,1797,1787,23,21,-3,2,20,23,20,100,138
+76,Feb 4 2001,Friendly in Senegal,Senegal,Mali,1464,1428,1,0,6,-6,1470,1422,81,96,0,0,81,96,20,100,136
+77,Feb 5 2001,Friendly in Fiji,Fiji,Malaysia,1430,1294,4,1,7,-7,1437,1287,90,138,2,-3,92,135,20,100,236
+78,Feb 6 2001,World Cup qualifier in Singapore,Bahrain,Kyrgyzstan,1310,1197,1,0,14,-14,1324,1183,120,162,3,-2,123,160,40,0,113
+79,Feb 6 2001,World Cup qualifier in Singapore,Singapore,Kuwait,1236,1618,1,1,13,-13,1249,1605,137,58,5,-1,142,57,40,100,-282
+80,Feb 6 2001,CONCACAF Ch & Car Cup q in Sint Maarten,Saint Martin,Montserrat,1102,585,3,1,3,-3,1105,582,172,222,1,0,173,222,40,0,517
+81,Feb 7 2001,Friendly in Fiji,Fiji,Malaysia,1437,1287,2,0,6,-6,1443,1281,90,137,1,-1,91,136,20,100,250
+82,Feb 8 2001,CONCACAF Ch & Car Cup q in Saint Martin,Anguilla,Montserrat,496,582,4,1,43,-43,539,539,222,224,1,-1,223,223,40,0,-86
+83,Feb 8 2001,World Cup qualifier in Saudi Arabia,Bangladesh,Vietnam,1009,1250,0,0,12,-12,1021,1238,187,153,0,-6,187,147,40,0,-241
+84,Feb 8 2001,Friendly tournament in the United Arab Emirates,Morocco,South Korea,1709,1748,1,1,2,-2,1711,1746,34,31,3,0,37,31,30,0,-39
+85,Feb 8 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Mongolia,1701,862,6,0,0,0,1701,862,43,202,0,0,43,202,20,0,839
+86,Feb 9 2001,Friendly in Fiji,Fiji,Malaysia,1443,1281,1,2,-16,16,1427,1297,99,128,-4,4,95,132,20,100,262
+87,Feb 9 2001,World Cup qualifier in Singapore,Kuwait,Kyrgyzstan,1605,1183,3,0,6,-6,1611,1177,57,162,0,-1,57,161,40,0,422
+88,Feb 9 2001,World Cup qualifier in Singapore,Singapore,Bahrain,1249,1324,1,2,-21,21,1228,1345,157,117,-8,3,149,120,40,100,25
+89,Feb 10 2001,King's Cup in Thailand,China,Qatar,1667,1548,1,1,-5,5,1662,1553,53,63,-2,2,51,65,30,0,119
+90,Feb 10 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Bangladesh,1701,1021,3,0,1,-1,1702,1020,43,187,0,0,43,187,20,0,680
+91,Feb 10 2001,CONCACAF Ch & Car Cup q in Saint Martin,Saint Martin,Anguilla,1105,539,3,1,1,-1,1106,538,171,225,1,-1,172,224,20,0,566
+92,Feb 10 2001,King's Cup in Thailand,Thailand,Sweden,1543,1779,1,4,-16,16,1527,1795,74,17,-3,4,71,21,30,100,-136
+93,Feb 10 2001,World Cup qualifier in Saudi Arabia,Vietnam,Mongolia,1238,862,1,0,4,-4,1242,858,142,204,2,-1,144,203,40,0,376
+94,Feb 11 2001,CONCACAF Ch & Car Cup q in the British Virgin Islands,British Virgin Islands,Puerto Rico,875,885,0,0,-5,5,870,890,202,196,-1,1,201,197,40,100,90
+95,Feb 11 2001,COSAFA Cup in Swaziland,Swaziland,Zambia,1224,1441,0,0,6,-6,1230,1435,145,93,3,-1,148,92,20,0,-217
+96,Feb 11 2001,Friendly tournament in the United Arab Emirates,United Arab Emirates,South Korea,1524,1746,1,4,-17,17,1507,1763,76,21,-2,5,74,26,30,100,-122
+97,Feb 12 2001,Friendly tournament in Bulgaria,Armenia,Uzbekistan,1384,1462,2,0,27,-27,1411,1435,93,99,9,-8,102,91,30,0,-78
+98,Feb 12 2001,World Cup qualifier in Saudi Arabia,Bangladesh,Mongolia,1020,858,3,0,20,-20,1040,838,181,207,3,-2,184,205,40,0,162
+99,Feb 12 2001,King's Cup in Thailand,China,Sweden,1662,1795,2,2,5,-5,1667,1790,47,21,2,0,49,21,30,0,-133
+100,Feb 12 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Vietnam,1702,1242,5,0,3,-3,1705,1239,39,148,2,-2,41,146,20,0,460
+101,Feb 12 2001,King's Cup in Thailand,Thailand,Qatar,1527,1553,1,3,-27,27,1500,1580,77,57,-3,4,74,61,30,100,74
+102,Feb 14 2001,Friendly in Georgia,Georgia,Ukraine,1553,1722,0,0,2,-2,1555,1720,64,36,1,-1,65,35,20,100,-69
+103,Feb 14 2001,Friendly in Israel,Israel,Moldova,1678,1413,1,0,2,-2,1680,1411,48,101,-1,0,47,101,20,100,365
+104,Feb 14 2001,King's Cup in Thailand,Qatar,Sweden,1580,1790,0,0,8,-8,1588,1782,61,29,0,-4,61,25,30,0,-210
+105,Feb 14 2001,King's Cup in Thailand,Thailand,China,1500,1667,1,5,-23,23,1477,1690,82,39,-4,5,78,44,30,100,-67
+106,Feb 14 2001,Friendly tournament in the United Arab Emirates,United Arab Emirates,Morocco,1507,1711,1,1,4,-4,1511,1707,73,43,0,-3,73,40,30,100,-104
+107,Feb 15 2001,Friendly in Kuwait,Kuwait,Finland,1611,1617,4,3,7,-7,1618,1610,55,58,1,-1,56,57,20,100,94
+108,Feb 15 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Mongolia,1705,838,6,0,0,0,1705,838,41,205,0,0,41,205,20,0,867
+109,Feb 15 2001,Friendly in Bulgaria,Uzbekistan,Azerbaijan,1435,1265,2,1,5,-5,1440,1260,89,140,1,0,90,140,20,0,170
+110,Feb 15 2001,World Cup qualifier in Saudi Arabia,Vietnam,Bangladesh,1239,1040,4,0,18,-18,1257,1022,136,190,5,-3,141,187,40,0,199
+111,Feb 17 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Bangladesh,1705,1022,6,0,1,-1,1706,1021,41,187,0,0,41,187,20,0,683
+112,Feb 17 2001,King's Cup in Thailand,Sweden,China,1782,1690,3,0,19,-19,1801,1671,15,50,5,-3,20,47,30,0,92
+113,Feb 17 2001,King's Cup in Thailand,Thailand,Qatar,1477,1588,2,0,23,-23,1500,1565,70,65,4,-2,74,63,30,100,-11
+114,Feb 17 2001,World Cup qualifier in Saudi Arabia,Vietnam,Mongolia,1257,838,4,0,6,-6,1263,832,139,205,1,0,140,205,40,0,419
+115,Feb 18 2001,Friendly in Oman,Oman,Finland,1311,1610,1,2,-5,5,1306,1615,130,57,-2,0,128,57,20,100,-199
+116,Feb 19 2001,World Cup qualifier in Saudi Arabia,Bangladesh,Mongolia,1021,832,2,2,-10,10,1011,842,187,205,0,0,187,205,30,100,289
+117,Feb 19 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Vietnam,1706,1263,4,0,3,-3,1709,1260,39,138,1,1,40,139,20,0,443
+118,Feb 19 2001,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Lucia,1246,1272,2,0,12,-12,1258,1260,142,139,0,0,142,139,20,100,74
+119,Feb 20 2001,Friendly in Oman,Oman,Finland,1306,1615,0,2,-7,7,1299,1622,132,55,-2,1,130,56,20,100,-209
+120,Feb 21 2001,World Cup qualifier in Kuwait,Bahrain,Kyrgyzstan,1345,1177,2,1,11,-11,1356,1166,118,165,1,-2,119,163,40,0,168
+121,Feb 21 2001,World Cup qualifier in Kuwait,Kuwait,Singapore,1618,1228,1,0,2,-2,1620,1226,57,152,0,-1,57,151,20,0,390
+122,Feb 21 2001,Friendly in Macao,Macao,Hong Kong,989,1198,0,2,-10,10,979,1208,190,153,0,2,190,155,20,100,-109
+123,Feb 21 2001,Friendly in Martinique,Martinique,Saint Lucia,1357,1260,4,2,7,-7,1364,1253,114,145,2,-3,116,142,20,100,197
+124,Feb 21 2001,Friendly in Panama,Panama,Guatemala,1390,1540,2,2,1,-1,1391,1539,108,69,0,0,108,69,20,100,-50
+125,Feb 23 2001,World Cup qualifier in Libya,Libya,Togo,1410,1418,3,3,-5,5,1405,1423,107,94,-2,2,105,96,40,100,92
+126,Feb 24 2001,World Cup qualifier in Kuwait,Bahrain,Singapore,1356,1226,2,0,19,-19,1375,1207,107,159,6,-4,113,155,40,0,130
+127,Feb 24 2001,World Cup qualifier in Burkina Faso,Burkina Faso,Zimbabwe,1417,1450,1,2,-24,24,1393,1474,115,72,-8,8,107,80,40,100,67
+128,Feb 24 2001,World Cup qualifier in Kuwait,Kuwait,Kyrgyzstan,1620,1166,2,0,2,-2,1622,1164,55,163,1,0,56,163,20,0,454
+129,Feb 24 2001,World Cup qualifier in Morocco,Morocco,Senegal,1707,1470,0,0,-15,15,1692,1485,43,77,-1,2,42,79,40,100,337
+130,Feb 24 2001,World Cup qualifier in Namibia,Namibia,Egypt,1313,1704,1,1,14,-14,1327,1690,123,43,1,0,124,43,40,100,-291
+131,Feb 25 2001,Friendly in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1137,1253,0,1,-10,10,1127,1263,171,136,-2,3,169,139,20,100,-16
+132,Feb 25 2001,World Cup qualifier in Cameroon,Cameroon,Zambia,1740,1435,1,0,4,-4,1744,1431,33,92,0,0,33,92,30,0,305
+133,Feb 25 2001,Friendly in the Cayman Islands,Cayman Islands,Trinidad and Tobago,1133,1667,0,3,-3,3,1130,1670,168,48,0,1,168,49,20,100,-434
+134,Feb 25 2001,World Cup qualifier in Liberia,Liberia,Sierra Leone,1496,1348,1,0,8,-8,1504,1340,71,120,3,0,74,120,40,100,248
+135,Feb 25 2001,World Cup qualifier in Malawi,Malawi,South Africa,1280,1664,1,2,-7,7,1273,1671,139,43,-1,4,138,47,40,100,-284
+136,Feb 25 2001,Friendly in Oman,Oman,Maldives,1299,872,5,0,2,-2,1301,870,130,200,0,0,130,200,20,100,527
+137,Feb 25 2001,World Cup qualifier in Sudan,Sudan,Ghana,1306,1454,1,0,23,-23,1329,1431,120,98,4,-6,124,92,40,100,-48
+138,Feb 25 2001,World Cup qualifier in Tunisia,Tunisia,DR Congo,1635,1474,6,0,15,-15,1650,1459,52,86,1,-3,53,83,40,100,261
+139,Feb 26 2001,Friendly tournament in Cyprus,Cyprus,Lithuania,1555,1379,1,2,-25,25,1530,1404,75,98,-5,7,70,105,30,100,276
+140,Feb 26 2001,Friendly tournament in Cyprus,Romania,Ukraine,1825,1720,1,0,11,-11,1836,1709,13,43,1,-4,14,39,30,0,105
+141,Feb 27 2001,Friendly in Algeria,Algeria,Slovakia,1539,1756,1,1,3,-3,1542,1753,66,33,1,-2,67,31,20,100,-117
+142,Feb 27 2001,Friendly in France,France,Germany,2112,1883,1,0,3,-3,2115,1880,1,11,0,0,1,11,20,100,329
+143,Feb 27 2001,World Cup qualifier in Kuwait,Kuwait,Bahrain,1622,1375,0,1,-35,35,1587,1410,64,91,-4,11,60,102,40,100,347
+144,Feb 27 2001,World Cup qualifier in Kuwait,Kyrgyzstan,Singapore,1164,1207,1,1,2,-2,1166,1205,163,157,0,-1,163,156,30,0,-43
+145,Feb 27 2001,Friendly in Oman,Oman,Maldives,1301,870,2,0,1,-1,1302,869,130,202,0,-1,130,201,20,100,531
+146,Feb 28 2001,World Cup qualifier in Belgium,Belgium,San Marino,1786,936,10,1,0,0,1786,936,21,193,2,0,23,193,20,0,850
+147,Feb 28 2001,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Hungary,1551,1670,1,1,1,-1,1552,1669,66,49,0,0,66,49,20,100,-19
+148,Feb 28 2001,Friendly in Colombia,Colombia,Australia,1787,1788,3,2,7,-7,1794,1781,20,25,2,-1,22,24,20,100,99
+149,Feb 28 2001,World Cup qualifier in Costa Rica,Costa Rica,Honduras,1638,1710,2,2,-2,2,1636,1712,54,33,0,2,54,35,40,100,28
+150,Feb 28 2001,Friendly in Croatia,Croatia,Austria,1887,1721,1,0,4,-4,1891,1717,10,34,0,0,10,34,20,100,266
+151,Feb 28 2001,Friendly tournament in Cyprus,Cyprus,Ukraine,1530,1709,4,3,18,-18,1548,1691,64,47,3,-4,67,43,30,100,-79
+152,Feb 28 2001,Friendly in England,England,Spain,1850,1960,3,0,18,-18,1868,1942,11,7,1,0,12,7,20,100,-10
+153,Feb 28 2001,Friendly in Greece,Greece,Russia,1705,1833,3,3,1,-1,1706,1832,37,15,2,0,39,15,20,100,-28
+154,Feb 28 2001,Friendly in Italy,Italy,Argentina,2013,2002,1,2,-13,13,2000,2015,6,3,-1,1,5,4,20,100,111
+155,Feb 28 2001,World Cup qualifier in Jamaica,Jamaica,Trinidad and Tobago,1572,1670,1,0,20,-20,1592,1650,58,53,2,-2,60,51,40,100,2
+156,Feb 28 2001,Friendly in Jordan,Jordan,Bulgaria,1430,1689,0,2,-9,9,1421,1698,102,36,-4,4,98,40,20,100,-159
+157,Feb 28 2001,Friendly in Liechtenstein,Liechtenstein,Latvia,1076,1417,0,2,-6,6,1070,1423,184,91,-3,4,181,95,20,100,-241
+158,Feb 28 2001,Friendly in Luxembourg,Luxembourg,Finland,1176,1622,0,1,-2,2,1174,1624,161,56,0,0,161,56,20,100,-346
+159,Feb 28 2001,Friendly in Macedonia,Macedonia,Czechia,1523,1923,1,1,7,-7,1530,1916,71,8,0,0,71,8,20,100,-300
+160,Feb 28 2001,Friendly in Malta,Malta,Sweden,1235,1801,0,3,-2,2,1233,1803,147,22,0,-1,147,21,20,100,-466
+161,Feb 28 2001,Friendly in the Netherlands,Netherlands,Turkey,2000,1754,0,0,-8,8,1992,1762,6,29,0,0,6,29,20,100,346
+162,Feb 28 2001,Friendly in Northern Ireland,Northern Ireland,Norway,1517,1805,0,4,-9,9,1508,1814,74,15,-1,2,73,17,20,100,-188
+163,Feb 28 2001,Friendly in Cyprus,Poland,Switzerland,1758,1710,4,0,16,-16,1774,1694,23,45,2,-4,25,41,20,0,48
+164,Feb 28 2001,World Cup qualifier in Portugal,Portugal,Andorra,2019,1052,3,0,0,0,2019,1052,3,183,0,0,3,183,20,0,967
+165,Feb 28 2001,Friendly tournament in Cyprus,Romania,Lithuania,1836,1404,3,0,4,-4,1840,1400,14,108,0,-1,14,107,30,0,432
+166,Feb 28 2001,Friendly in Slovenia,Slovenia,Uruguay,1660,1754,0,2,-15,15,1645,1769,54,23,-1,3,53,26,20,100,6
+167,Feb 28 2001,World Cup qualifier in the United States,United States,Mexico,1797,1789,2,0,21,-21,1818,1768,11,32,5,-5,16,27,40,100,108
+168,Mar 1 2001,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Saint Kitts and Nevis,Dominican Republic,1258,1112,2,1,12,-12,1270,1100,136,179,3,-4,139,175,40,0,146
+169,Mar 3 2001,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Dominican Republic,1127,1100,2,3,-27,27,1100,1127,181,163,-6,6,175,169,40,100,127
+170,Mar 3 2001,Friendly in the United States,United States,Brazil,1818,2022,1,2,-7,7,1811,2029,20,2,-2,0,18,2,20,100,-104
+171,Mar 4 2001,CONCACAF Ch & Car Cup q in Antigua and Barbuda,Antigua and Barbuda,Saint Kitts and Nevis,1100,1270,2,2,4,-4,1104,1266,171,139,2,0,173,139,40,100,-70
+172,Mar 4 2001,World Cup qualifier in Hong Kong,Hong Kong,Palestine,1208,1228,1,1,-5,5,1203,1233,160,144,-3,3,157,147,40,100,80
+173,Mar 4 2001,World Cup qualifier in Hong Kong,Qatar,Malaysia,1565,1297,5,1,13,-13,1578,1284,61,138,1,-3,62,135,40,0,268
+174,Mar 6 2001,Friendly in Guatemala,Guatemala,El Salvador,1539,1457,1,1,-5,5,1534,1462,70,82,0,1,70,83,20,100,182
+175,Mar 7 2001,Friendly in the United States,Honduras,Peru,1712,1669,0,0,-1,1,1711,1670,37,49,-1,0,36,49,20,0,43
+176,Mar 7 2001,Friendly in Jordan,Jordan,Hungary,1421,1669,1,1,4,-4,1425,1665,92,51,3,-1,95,50,20,100,-148
+177,Mar 7 2001,Friendly in Lebanon,Lebanon,Syria,1390,1497,2,2,0,0,1390,1497,111,77,0,0,111,77,20,100,-7
+178,Mar 7 2001,Friendly in Mexico,Mexico,Brazil,1768,2029,3,3,4,-4,1772,2025,25,2,1,0,26,2,20,100,-161
+179,Mar 8 2001,World Cup qualifier in Hong Kong,Hong Kong,Malaysia,1203,1284,0,2,-32,32,1171,1316,165,119,-4,8,161,127,40,100,19
+180,Mar 8 2001,World Cup qualifier in Hong Kong,Qatar,Palestine,1578,1233,2,1,5,-5,1583,1228,62,153,0,-3,62,150,40,0,345
+181,Mar 10 2001,Friendly tournament in Lesotho,Botswana,Swaziland,1101,1230,1,0,20,-20,1121,1210,167,158,4,-5,171,153,30,0,-129
+182,Mar 10 2001,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Ivory Coast,1459,1594,1,2,-18,18,1441,1612,94,55,-5,2,89,57,40,100,-35
+183,Mar 10 2001,Friendly in Kenya,Kenya,Uganda,1362,1433,1,0,9,-9,1371,1424,110,99,4,-4,114,95,20,100,29
+184,Mar 10 2001,Friendly tournament in Lesotho,Lesotho,Mozambique,1205,1224,0,0,-3,3,1202,1227,157,149,-1,1,156,150,30,100,81
+185,Mar 10 2001,World Cup qualifier in Senegal,Senegal,Namibia,1485,1327,4,0,14,-14,1499,1313,73,127,3,-1,76,126,40,100,258
+186,Mar 10 2001,World Cup qualifier in Sierra Leone,Sierra Leone,Sudan,1340,1329,0,2,-39,39,1301,1368,142,110,-11,7,131,117,40,100,111
+187,Mar 10 2001,World Cup qualifier in Zambia,Zambia,Libya,1431,1405,2,0,20,-20,1451,1385,78,121,7,-8,85,113,40,100,126
+188,Mar 11 2001,World Cup qualifier in Egypt,Egypt,Algeria,1690,1542,5,2,14,-14,1704,1528,34,74,5,-3,39,71,40,100,248
+189,Mar 11 2001,World Cup qualifier in Ghana,Ghana,Nigeria,1431,1712,0,0,10,-10,1441,1702,86,45,3,-5,89,40,30,0,-281
+190,Mar 11 2001,World Cup qualifier in Hong Kong,Hong Kong,Qatar,1171,1583,0,2,-9,9,1162,1592,167,58,-3,2,164,60,40,100,-312
+191,Mar 11 2001,Friendly tournament in Lesotho,Lesotho,Swaziland,1202,1210,2,1,11,-11,1213,1199,148,159,4,-3,152,156,30,100,92
+192,Mar 11 2001,Friendly tournament in Lesotho,Mozambique,Botswana,1227,1121,3,1,16,-16,1243,1105,140,175,5,-2,145,173,30,0,106
+193,Mar 11 2001,World Cup qualifier in Hong Kong,Palestine,Malaysia,1228,1316,1,0,25,-25,1253,1291,137,141,6,-8,143,133,40,0,-88
+194,Mar 11 2001,World Cup qualifier in Togo,Togo,Angola,1423,1464,1,1,-3,3,1420,1467,102,82,-3,0,99,82,30,100,59
+195,Mar 11 2001,World Cup qualifier in Zimbabwe,Zimbabwe,Malawi,1474,1273,2,0,9,-9,1483,1264,80,140,0,-1,80,139,40,100,301
+196,Mar 12 2001,Windward Islands Champ in Grenada,Grenada,Dominica,1290,1133,8,3,11,-11,1301,1122,126,173,4,-3,130,170,30,100,257
+197,Mar 12 2001,Windward Islands Champ in Grenada,St Vincent & Grenadines,Saint Lucia,1242,1263,2,0,24,-24,1266,1239,129,156,9,-8,138,148,30,0,-21
+198,Mar 14 2001,Windward Islands Champ in Grenada,Grenada,Saint Lucia,1301,1239,4,3,8,-8,1309,1231,122,150,4,-1,126,149,20,0,62
+199,Mar 14 2001,Friendly in Panama,Panama,El Salvador,1391,1462,1,0,9,-9,1400,1453,103,85,3,-1,106,84,20,100,29
+200,Mar 14 2001,Windward Islands Champ in Grenada,St Vincent & Grenadines,Dominica,1266,1122,2,0,14,-14,1280,1108,136,170,1,0,137,170,30,0,144
+201,Mar 16 2001,Windward Islands Champ in Grenada,Dominica,Saint Lucia,1108,1231,1,1,5,-5,1113,1226,170,151,0,-1,170,150,30,0,-123
+202,Mar 16 2001,Windward Islands Champ in Grenada,Grenada,St Vincent & Grenadines,1309,1280,1,1,-5,5,1304,1285,130,135,-2,1,128,136,30,100,129
+203,Mar 17 2001,COSAFA Cup in Botswana,Botswana,Malawi,1105,1264,0,1,-17,17,1088,1281,177,136,-2,2,175,138,40,100,-59
+204,Mar 18 2001,Friendly in Gabon,Gabon,Mali,1404,1422,2,0,12,-12,1416,1410,93,107,6,-5,99,102,20,100,82
+205,Mar 18 2001,Windward Islands Champ in Grenada,Grenada,St Vincent & Grenadines,1304,1285,2,0,15,-15,1319,1270,120,142,4,-3,124,139,30,100,119
+206,Mar 18 2001,Windward Islands Champ in Grenada,Saint Lucia,Dominica,1226,1113,1,0,10,-10,1236,1103,146,178,2,-4,148,174,30,0,113
+207,Mar 19 2001,Friendly in Egypt,Egypt,Estonia,1704,1365,3,3,-9,9,1695,1374,43,110,-2,4,41,114,20,100,439
+208,Mar 20 2001,World Cup qualifier in Qatar,Palestine,Hong Kong,1253,1162,1,0,15,-15,1268,1147,137,166,3,-1,140,165,40,0,91
+209,Mar 20 2001,World Cup qualifier in Qatar,Qatar,Malaysia,1592,1291,0,0,-16,16,1576,1307,64,122,-2,6,62,128,40,100,401
+210,Mar 21 2001,Friendly in Honduras,Honduras,Chile,1711,1711,3,1,11,-11,1722,1700,33,43,1,-4,34,39,20,100,100
+211,Mar 21 2001,Friendly in Saint Lucia,Saint Lucia,Martinique,1236,1364,1,1,1,-1,1237,1363,148,119,0,0,148,119,20,100,-28
+212,Mar 23 2001,Friendly in Guyana,Guyana,Barbados,1076,1332,2,2,4,-4,1080,1328,174,123,2,0,176,123,20,100,-156
+213,Mar 23 2001,World Cup qualifier in Qatar,Hong Kong,Malaysia,1147,1307,2,1,29,-29,1176,1278,155,146,5,-9,160,137,40,0,-160
+214,Mar 23 2001,African Nations Cup qualifier in Libya,Libya,Egypt,1385,1695,2,0,46,-46,1431,1649,73,63,20,-11,93,52,40,100,-210
+215,Mar 23 2001,World Cup qualifier in Qatar,Qatar,Palestine,1576,1268,2,1,3,-3,1579,1265,62,142,0,-1,62,141,20,0,308
+216,Mar 24 2001,World Cup qualifier in Armenia,Armenia,Wales,1411,1559,2,2,3,-3,1414,1556,99,64,1,0,100,64,40,100,-48
+217,Mar 24 2001,World Cup qualifier in Azerbaijan,Azerbaijan,Moldova,1260,1411,0,0,3,-3,1263,1408,142,109,0,-4,142,105,40,100,-51
+218,Mar 24 2001,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Austria,1552,1717,1,1,4,-4,1556,1713,62,35,2,0,64,35,20,0,-165
+219,Mar 24 2001,Friendly in the British Virgin Islands,British Virgin Islands,US Virgin Islands,870,712,2,0,6,-6,876,706,200,215,0,-1,200,214,20,100,258
+220,Mar 24 2001,World Cup qualifier in Bulgaria,Bulgaria,Iceland,1698,1601,2,1,10,-10,1708,1591,36,62,2,-2,38,60,40,100,197
+221,Mar 24 2001,World Cup qualifier in Croatia,Croatia,Latvia,1891,1423,4,1,3,-3,1894,1420,8,95,1,1,9,96,30,0,468
+222,Mar 24 2001,World Cup qualifier in Cyprus,Cyprus,Ireland,1548,1811,0,4,-21,21,1527,1832,71,10,-2,4,69,14,40,100,-163
+223,Mar 24 2001,World Cup qualifier in England,England,Finland,1868,1624,2,1,5,-5,1873,1619,12,56,0,0,12,56,40,100,344
+224,Mar 24 2001,Friendly in France,France,Japan,2115,1811,5,0,4,-4,2119,1807,1,20,0,-1,1,19,20,100,404
+225,Mar 24 2001,African Nations Cup qualifier in Gabon,Gabon,Kenya,1416,1371,1,1,-8,8,1408,1379,110,113,-5,1,105,114,40,100,145
+226,Mar 24 2001,World Cup qualifier in Germany,Germany,Albania,1880,1499,2,1,2,-2,1882,1497,9,78,1,-1,10,77,20,0,381
+227,Mar 24 2001,World Cup qualifier in Hungary,Hungary,Lithuania,1665,1400,1,1,-16,16,1649,1416,53,91,-2,8,51,99,40,100,365
+228,Mar 24 2001,African Nations Cup qualifier in Lesotho,Lesotho,Zimbabwe,1213,1483,0,1,-11,11,1202,1494,158,78,-3,1,155,79,40,100,-170
+229,Mar 24 2001,World Cup qualifier in Luxembourg,Luxembourg,Faroe Islands,1174,1218,0,2,-35,35,1139,1253,171,137,-5,7,166,144,40,100,56
+230,Mar 24 2001,African Nations Cup qualifier in Madagascar,Madagascar,Namibia,1451,1313,1,2,-32,32,1419,1345,111,116,-13,5,98,121,40,100,238
+231,Mar 24 2001,World Cup qualifier in Malta,Malta,Denmark,1233,1814,0,5,-5,5,1228,1819,153,14,-2,1,151,15,40,100,-481
+232,Mar 24 2001,African Nations Cup qualifier in Morocco,Morocco,Tunisia,1692,1650,2,0,18,-18,1710,1632,30,58,6,-4,36,54,40,100,142
+233,Mar 24 2001,World Cup qualifier in Spain,Netherlands,Andorra,1992,1052,5,0,0,0,1992,1052,6,183,0,0,6,183,20,0,940
+234,Mar 24 2001,World Cup qualifier in Norway,Norway,Poland,1814,1774,2,3,-28,28,1786,1802,32,17,-8,4,24,21,40,100,140
+235,Mar 24 2001,World Cup qualifier in Northern Ireland,Northern Ireland,Czechia,1508,1916,0,1,-6,6,1502,1922,77,8,-2,0,75,8,40,100,-308
+236,Mar 24 2001,World Cup qualifier in Romania,Romania,Italy,1840,2000,0,2,-25,25,1815,2025,20,-1,-3,3,17,2,40,100,-60
+237,Mar 24 2001,World Cup qualifier in Russia,Russia,Slovenia,1832,1645,1,1,-14,14,1818,1659,17,45,-1,4,16,49,40,100,287
+238,Mar 24 2001,World Cup qualifier in Scotland,Scotland,Belgium,1745,1786,2,2,-3,3,1742,1789,34,23,-1,0,33,23,30,100,59
+239,Mar 24 2001,African Nations Cup qualifier in Senegal,Senegal,Uganda,1499,1424,3,0,19,-19,1518,1405,68,118,4,-11,72,107,40,100,175
+240,Mar 24 2001,African Nations Cup qualifier in South Africa,South Africa,Mauritius,1671,1245,3,0,3,-3,1674,1242,46,150,0,-3,46,147,20,0,426
+241,Mar 24 2001,World Cup qualifier in Spain,Spain,Liechtenstein,1942,1070,5,0,0,0,1942,1070,7,181,0,0,7,181,20,0,872
+242,Mar 24 2001,World Cup qualifier in Sweden,Sweden,Macedonia,1803,1530,1,0,4,-4,1807,1526,17,72,2,-1,19,71,40,100,373
+243,Mar 24 2001,Friendly in Trinidad and Tobago,Trinidad and Tobago,Guatemala,1650,1534,3,1,7,-7,1657,1527,50,69,0,0,50,69,20,100,216
+244,Mar 24 2001,World Cup qualifier in Turkey,Turkey,Slovakia,1762,1753,1,1,-6,6,1756,1759,33,27,-2,2,31,29,40,100,109
+245,Mar 24 2001,World Cup qualifier in Ukraine,Ukraine,Belarus,1691,1421,0,0,-16,16,1675,1437,47,84,-2,7,45,91,40,100,370
+246,Mar 24 2001,World Cup qualifier in Yugoslavia,Yugoslavia,Switzerland,1896,1694,1,1,-14,14,1882,1708,11,35,-1,3,10,38,40,100,302
+247,Mar 24 2001,African Nations Cup qualifier in Zambia,Zambia,Nigeria,1451,1702,1,1,8,-8,1459,1694,81,46,2,-4,83,42,40,100,-151
+248,Mar 25 2001,African Nations Cup qualifier in Angola,Angola,Burkina Faso,1467,1393,2,0,16,-16,1483,1377,80,116,1,-3,81,113,40,100,174
+249,Mar 25 2001,African Nations Cup qualifier in Burundi,Burundi,Algeria,1370,1528,0,1,-17,17,1353,1545,123,66,-3,1,120,67,40,100,-58
+250,Mar 25 2001,African Nations Cup qualifier in Congo,Congo,Liberia,1389,1504,0,1,-19,19,1370,1523,121,70,-4,2,117,72,40,100,-15
+251,Mar 25 2001,African Nations Cup qualifier in Ghana,Ghana,DR Congo,1441,1441,3,0,25,-25,1466,1416,78,108,5,-10,83,98,40,100,100
+252,Mar 25 2001,Friendly in Guyana,Guyana,Barbados,1080,1328,1,2,-6,6,1074,1334,182,122,-3,1,179,123,20,100,-148
+253,Mar 25 2001,World Cup qualifier in Qatar,Malaysia,Palestine,1278,1265,4,3,19,-19,1297,1246,129,147,4,-3,133,144,40,0,13
+254,Mar 25 2001,World Cup qualifier in Mexico,Mexico,Jamaica,1772,1592,4,0,12,-12,1784,1580,24,65,1,-3,25,62,40,100,280
+255,Mar 25 2001,World Cup qualifier in Qatar,Qatar,Hong Kong,1579,1176,3,0,4,-4,1583,1172,60,160,1,0,61,160,40,100,503
+256,Mar 25 2001,African Nations Cup qualifier in Sudan,Sudan,Ivory Coast,1368,1612,0,0,8,-8,1376,1604,110,57,4,0,114,57,40,100,-144
+257,Mar 27 2001,World Cup qualifier in Colombia,Colombia,Bolivia,1794,1576,2,0,8,-8,1802,1568,20,63,1,0,21,63,40,100,318
+258,Mar 27 2001,Friendly in Oman,Oman,United Arab Emirates,1302,1511,2,1,13,-13,1315,1498,124,78,3,-2,127,76,20,100,-109
+259,Mar 27 2001,World Cup qualifier in Peru,Peru,Chile,1670,1700,3,1,24,-24,1694,1676,34,49,7,-4,41,45,30,0,-30
+260,Mar 28 2001,World Cup qualifier in Albania,Albania,England,1497,1873,1,3,-10,10,1487,1883,83,10,-3,1,80,11,40,100,-276
+261,Mar 28 2001,World Cup qualifier in Argentina,Argentina,Venezuela,2015,1409,5,0,1,-1,2016,1408,1,105,2,-1,3,104,20,0,606
+262,Mar 28 2001,World Cup qualifier in Austria,Austria,Israel,1713,1680,2,1,13,-13,1726,1667,33,52,1,-4,34,48,40,100,133
+263,Mar 28 2001,World Cup qualifier in Belarus,Belarus,Norway,1437,1786,2,1,32,-32,1469,1754,76,36,7,-6,83,30,40,100,-249
+264,Mar 28 2001,World Cup qualifier in Bulgaria,Bulgaria,Northern Ireland,1708,1502,4,3,6,-6,1714,1496,34,80,2,-3,36,77,40,100,306
+265,Mar 28 2001,World Cup qualifier in Costa Rica,Costa Rica,Trinidad and Tobago,1636,1657,3,0,27,-27,1663,1630,47,60,3,-5,50,55,40,100,79
+266,Mar 28 2001,World Cup qualifier in Cyprus,Cyprus,Estonia,1527,1374,2,2,-12,12,1515,1386,75,109,-3,3,72,112,40,100,253
+267,Mar 28 2001,World Cup qualifier in Czechia,Czechia,Denmark,1922,1819,0,0,-11,11,1911,1830,8,19,0,-2,8,17,40,100,203
+268,Mar 28 2001,World Cup qualifier in Ecuador,Ecuador,Brazil,1689,2025,1,0,32,-32,1721,1993,27,10,8,-4,35,6,40,100,-236
+269,Mar 28 2001,World Cup qualifier in Georgia,Georgia,Romania,1555,1815,0,2,-17,17,1538,1832,70,13,-2,2,68,15,40,100,-160
+270,Mar 28 2001,World Cup qualifier in Greece,Greece,Germany,1706,1882,2,4,-24,24,1682,1906,46,8,-3,1,43,9,40,100,-76
+271,Mar 28 2001,World Cup qualifier in Honduras,Honduras,United States,1722,1811,1,2,-21,21,1701,1832,46,12,-6,3,40,15,40,100,11
+272,Mar 28 2001,World Cup qualifier in Spain,Ireland,Andorra,1832,1052,3,0,1,-1,1833,1051,14,183,0,0,14,183,30,0,780
+273,Mar 28 2001,World Cup qualifier in Italy,Italy,Lithuania,2025,1416,4,0,1,-1,2026,1415,2,100,0,-1,2,99,20,0,609
+274,Mar 28 2001,World Cup qualifier in Liechtenstein,Liechtenstein,Bosnia and Herzegovina,1070,1556,0,3,-7,7,1063,1563,181,64,0,0,181,64,40,100,-386
+275,Mar 28 2001,World Cup qualifier in Macedonia,Macedonia,Turkey,1526,1756,1,2,-13,13,1513,1769,75,21,-2,5,73,26,40,100,-130
+276,Mar 28 2001,Friendly in Martinique,Martinique,Guadeloupe,1363,1340,4,1,12,-12,1375,1328,114,126,2,-2,116,124,20,100,123
+277,Mar 28 2001,World Cup qualifier in Moldova,Moldova,Sweden,1408,1807,0,2,-9,9,1399,1816,111,19,-3,0,108,19,40,100,-299
+278,Mar 28 2001,World Cup qualifier in Poland,Poland,Armenia,1802,1414,4,0,4,-4,1806,1410,21,100,0,0,21,100,20,0,388
+279,Mar 28 2001,World Cup qualifier in Portugal,Portugal,Netherlands,2019,1992,2,2,-7,7,2012,1999,4,4,0,1,4,5,40,100,127
+280,Mar 28 2001,World Cup qualifier in Russia,Russia,Faroe Islands,1818,1253,1,0,1,-1,1819,1252,20,143,-2,0,18,143,20,0,565
+281,Mar 28 2001,World Cup qualifier in Scotland,Scotland,San Marino,1742,936,4,0,0,0,1742,936,33,191,0,1,33,192,20,0,806
+282,Mar 28 2001,World Cup qualifier in Slovakia,Slovakia,Azerbaijan,1759,1263,3,1,2,-2,1761,1261,27,141,1,0,28,141,20,0,496
+283,Mar 28 2001,World Cup qualifier in Slovenia,Slovenia,Yugoslavia,1659,1882,1,1,7,-7,1666,1875,49,16,0,-3,49,13,40,100,-123
+284,Mar 28 2001,Friendly in Spain,Spain,France,1942,2119,2,1,12,-12,1954,2107,7,1,0,0,7,1,20,100,-77
+285,Mar 28 2001,Friendly in Sri Lanka,Sri Lanka,Cambodia,885,945,1,0,9,-9,894,936,195,192,2,0,197,192,20,100,40
+286,Mar 28 2001,World Cup qualifier in Switzerland,Switzerland,Luxembourg,1708,1139,5,0,2,-2,1710,1137,36,166,1,0,37,166,30,0,569
+287,Mar 28 2001,World Cup qualifier in Uruguay,Uruguay,Paraguay,1769,1861,0,1,-20,20,1749,1881,35,11,-4,1,31,12,40,100,8
+288,Mar 28 2001,World Cup qualifier in Wales,Wales,Ukraine,1556,1675,1,1,1,-1,1557,1674,66,44,-1,1,65,45,20,100,-19
+289,Apr 1 2001,World Cup qualifier in the Maldives,Maldives,Cambodia,869,936,6,0,38,-38,907,898,189,200,6,-4,195,196,30,0,-67
+290,Apr 2 2001,Friendly in the United Arab Emirates,United Arab Emirates,Sri Lanka,1498,894,6,0,1,-1,1499,893,75,198,0,0,75,198,20,0,604
+291,Apr 4 2001,CONCACAF Ch & Car Cup q in Suriname,Barbados,Grenada,1334,1319,2,1,19,-19,1353,1300,118,137,2,-6,120,131,40,0,15
+292,Apr 4 2001,CONCACAF Ch & Car Cup q in Martinique,British Virgin Islands,Cayman Islands,876,1130,2,2,12,-12,888,1118,199,171,1,-2,200,169,40,0,-254
+293,Apr 4 2001,CONCACAF Ch & Car Cup q in Guyana,Cuba,Dominica,1472,1103,3,1,6,-6,1478,1097,82,174,0,0,82,174,40,0,369
+294,Apr 4 2001,CONCACAF Ch & Car Cup q in Guyana,Guyana,Saint Martin,1074,1106,2,0,24,-24,1098,1082,167,182,6,-6,173,176,40,100,68
+295,Apr 4 2001,Friendly in Lebanon,Lebanon,Bahrain,1390,1410,1,1,-2,2,1388,1412,114,100,-2,0,112,100,20,100,80
+296,Apr 4 2001,CONCACAF Ch & Car Cup q in Martinique,Martinique,St Vincent & Grenadines,1375,1270,3,0,16,-16,1391,1254,104,145,6,-3,110,142,40,100,205
+297,Apr 4 2001,CONCACAF Ch & Car Cup q in Suriname,Suriname,Aruba,1283,1004,5,0,8,-8,1291,996,134,188,1,0,135,188,40,100,379
+298,Apr 5 2001,Friendly in Haiti,Haiti,Panama,1409,1400,1,1,-3,3,1406,1403,107,107,-2,0,105,107,20,100,109
+299,Apr 5 2001,Friendly in Oman,Oman,Sudan,1315,1376,0,1,-11,11,1304,1387,130,110,-2,3,128,113,20,100,39
+300,Apr 6 2001,CONCACAF Ch & Car Cup q in Martinique,Cayman Islands,St Vincent & Grenadines,1118,1254,1,1,7,-7,1125,1247,169,144,0,-1,169,143,40,0,-136
+301,Apr 6 2001,CONCACAF Ch & Car Cup q in Guyana,Cuba,Saint Martin,1478,1082,1,0,4,-4,1482,1078,82,176,0,0,82,176,40,0,396
+302,Apr 6 2001,CONCACAF Ch & Car Cup q in Suriname,Grenada,Aruba,1300,996,4,2,9,-9,1309,987,121,190,5,-1,126,189,40,0,304
+303,Apr 6 2001,CONCACAF Ch & Car Cup q in Guyana,Guyana,Dominica,1098,1097,2,0,22,-22,1120,1075,167,182,3,-4,170,178,30,0,1
+304,Apr 6 2001,CONCACAF Ch & Car Cup q in Martinique,Martinique,British Virgin Islands,1391,888,6,0,3,-3,1394,885,110,202,0,-1,110,201,30,0,503
+305,Apr 6 2001,CONCACAF Ch & Car Cup q in Suriname,Suriname,Barbados,1291,1353,2,2,-2,2,1289,1355,137,120,-1,0,136,120,30,100,38
+306,Apr 7 2001,World Cup qualifier in Brunei,Brunei,Yemen,754,1180,0,5,-11,11,743,1191,211,159,-1,0,210,159,40,100,-326
+307,Apr 7 2001,World Cup qualifier in Australia,Fiji,Eastern Samoa,1427,441,13,0,0,0,1427,441,93,226,0,0,93,226,20,0,986
+308,Apr 7 2001,Friendly in Haiti,Haiti,Panama,1406,1403,0,0,-3,3,1403,1406,109,103,-2,2,107,105,20,100,103
+309,Apr 7 2001,Friendly in Oman,Oman,Sudan,1304,1387,1,1,0,0,1304,1387,129,113,0,0,129,113,20,100,17
+310,Apr 7 2001,World Cup qualifier in Australia,Tonga,Samoa,640,708,1,0,24,-24,664,684,216,219,1,-3,217,216,40,0,-68
+311,Apr 8 2001,CONCACAF Ch & Car Cup q in Suriname,Barbados,Aruba,1355,987,5,2,8,-8,1363,979,120,189,0,0,120,189,40,0,368
+312,Apr 8 2001,CONCACAF Ch & Car Cup q in Guyana,Guyana,Cuba,1120,1482,0,3,-13,13,1107,1495,172,72,-1,5,171,77,40,100,-262
+313,Apr 8 2001,World Cup qualifier in India,India,United Arab Emirates,1079,1499,1,0,35,-35,1114,1464,165,93,5,-9,170,84,40,100,-320
+314,Apr 8 2001,World Cup qualifier in Indonesia,Indonesia,Maldives,1361,907,5,0,3,-3,1364,904,119,195,0,0,119,195,20,0,454
+315,Apr 8 2001,CONCACAF Ch & Car Cup q in Martinique,Martinique,Cayman Islands,1394,1125,1,1,-16,16,1378,1141,120,163,-5,3,115,166,40,100,369
+316,Apr 8 2001,COSAFA Cup in Mauritius,Mauritius,Namibia,1242,1345,1,0,20,-20,1262,1325,133,126,7,-2,140,124,40,100,-3
+317,Apr 8 2001,CONCACAF Ch & Car Cup q in Guyana,Saint Martin,Dominica,1078,1075,3,2,20,-20,1098,1055,174,186,1,-4,175,182,40,0,3
+318,Apr 8 2001,CONCACAF Ch & Car Cup q in Martinique,St Vincent & Grenadines,British Virgin Islands,1247,885,6,0,9,-9,1256,876,143,201,0,0,143,201,40,0,362
+319,Apr 8 2001,CONCACAF Ch & Car Cup q in Suriname,Suriname,Grenada,1289,1309,3,1,23,-23,1312,1286,116,146,10,-10,126,136,40,100,80
+320,Apr 9 2001,World Cup qualifier in Australia,Australia,Tonga,1781,664,22,0,0,0,1781,664,25,217,0,0,25,217,20,0,1117
+321,Apr 9 2001,World Cup qualifier in Australia,Samoa,Eastern Samoa,684,441,8,0,19,-19,703,422,212,226,2,0,214,226,40,0,243
+322,Apr 10 2001,CONCACAF Ch & Car Cup q in Haiti,Haiti,US Virgin Islands,1403,706,12,1,1,-1,1404,705,107,213,0,0,107,213,20,0,697
+323,Apr 10 2001,CONCACAF Ch & Car Cup q in Haiti,Saint Lucia,Guadeloupe,1237,1328,3,2,25,-25,1262,1303,131,137,9,-7,140,130,40,0,-91
+324,Apr 11 2001,World Cup qualifier in Australia,Australia,Eastern Samoa,1781,422,31,0,0,0,1781,422,25,226,0,0,25,226,20,0,1359
+325,Apr 11 2001,World Cup qualifier in Australia,Fiji,Samoa,1427,703,6,1,1,-1,1428,702,93,214,0,0,93,214,20,0,724
+326,Apr 11 2001,Friendly in Mexico,Mexico,Chile,1784,1676,1,0,5,-5,1789,1671,22,48,1,-2,23,46,20,100,208
+327,Apr 12 2001,CONCACAF Ch & Car Cup q in Haiti,Guadeloupe,US Virgin Islands,1303,705,11,0,3,-3,1306,702,126,213,2,0,128,213,30,0,598
+328,Apr 12 2001,CONCACAF Ch & Car Cup q in Haiti,Haiti,Saint Lucia,1404,1262,3,2,8,-8,1412,1254,93,148,7,-4,100,144,40,100,242
+329,Apr 12 2001,World Cup qualifier in Iraq,Iraq,Macao,1601,979,8,0,1,-1,1602,978,58,191,0,-1,58,190,20,0,622
+330,Apr 12 2001,World Cup qualifier in Iraq,Kazakhstan,Nepal,1444,783,6,0,2,-2,1446,781,89,207,0,0,89,207,40,0,661
+331,Apr 14 2001,World Cup qualifier in Australia,Australia,Fiji,1781,1428,2,0,4,-4,1785,1424,25,97,0,-2,25,95,40,100,453
+332,Apr 14 2001,World Cup qualifier in Brunei,Brunei,United Arab Emirates,743,1464,0,12,-3,3,740,1467,210,82,0,1,210,83,40,100,-621
+333,Apr 14 2001,CONCACAF Ch & Car Cup q in Haiti,Haiti,Guadeloupe,1412,1306,2,0,14,-14,1426,1292,86,138,7,-5,93,133,40,100,206
+334,Apr 14 2001,World Cup qualifier in Iraq,Iraq,Nepal,1602,781,9,1,0,0,1602,781,58,207,0,0,58,207,20,0,821
+335,Apr 14 2001,World Cup qualifier in Iraq,Kazakhstan,Macao,1446,978,3,0,4,-4,1450,974,89,192,0,-1,89,191,40,0,468
+336,Apr 14 2001,CONCACAF Ch & Car Cup q in Haiti,Saint Lucia,US Virgin Islands,1254,702,14,1,5,-5,1259,697,142,217,1,-2,143,215,40,0,552
+337,Apr 14 2001,World Cup qualifier in Australia,Tonga,Eastern Samoa,664,422,5,0,16,-16,680,406,217,226,0,0,217,226,40,0,242
+338,Apr 15 2001,World Cup qualifier in Cambodia,Cambodia,Maldives,898,904,1,1,-5,5,893,909,198,195,-1,0,197,195,40,100,94
+339,Apr 15 2001,World Cup qualifier in India,India,Yemen,1114,1191,1,1,-1,1,1113,1192,170,157,0,1,170,158,20,100,23
+340,Apr 16 2001,World Cup qualifier in Australia,Australia,Samoa,1785,702,11,0,0,0,1785,702,25,213,0,0,25,213,20,0,1083
+341,Apr 16 2001,Friendly in Bahrain,Bahrain,Oman,1412,1304,0,1,-15,15,1397,1319,117,120,-8,4,109,124,20,100,208
+342,Apr 16 2001,World Cup qualifier in Australia,Fiji,Tonga,1424,680,8,1,1,-1,1425,679,93,217,1,0,94,217,20,0,744
+343,Apr 16 2001,World Cup qualifier in Iraq,Iraq,Kazakhstan,1602,1450,1,1,-12,12,1590,1462,60,81,-1,4,59,85,40,100,252
+344,Apr 16 2001,World Cup qualifier in Iraq,Nepal,Macao,781,974,4,1,53,-53,834,921,205,195,1,-2,206,193,40,0,-193
+345,Apr 18 2001,Friendly in Costa Rica,Costa Rica,Venezuela,1663,1408,2,2,-8,8,1655,1416,50,95,0,4,50,99,20,100,355
+346,Apr 21 2001,World Cup qualifier in Burkina Faso,Burkina Faso,Malawi,1377,1281,4,2,15,-15,1392,1266,104,139,6,-1,110,138,40,100,196
+347,Apr 21 2001,World Cup qualifier in Kazakhstan,Iraq,Macao,1590,921,5,0,2,-2,1592,919,57,193,1,0,58,193,40,0,669
+348,Apr 21 2001,World Cup qualifier in Kazakhstan,Kazakhstan,Nepal,1462,834,4,0,1,-1,1463,833,85,206,0,0,85,206,20,0,628
+349,Apr 21 2001,World Cup qualifier in Morocco,Morocco,Namibia,1710,1325,3,0,4,-4,1714,1321,35,125,1,-1,36,124,40,100,485
+350,Apr 21 2001,World Cup qualifier in Senegal,Senegal,Algeria,1518,1545,3,0,28,-28,1546,1517,61,76,5,-5,66,71,30,0,-27
+351,Apr 21 2001,World Cup qualifier in Sierra Leone,Sierra Leone,Nigeria,1301,1694,1,0,34,-34,1335,1660,114,57,8,-8,122,49,40,100,-293
+352,Apr 21 2001,World Cup qualifier in Zambia,Zambia,Angola,1459,1483,1,1,-4,4,1455,1487,88,79,-1,1,87,80,40,100,76
+353,Apr 22 2001,World Cup qualifier in Cameroon,Cameroon,Libya,1744,1431,1,0,3,-3,1747,1428,32,94,0,-1,32,93,20,0,313
+354,Apr 22 2001,World Cup qualifier in China,China,Maldives,1671,909,10,1,1,-1,1672,908,45,195,0,0,45,195,20,0,762
+355,Apr 22 2001,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Madagascar,1416,1419,1,0,15,-15,1431,1404,85,114,7,-8,92,106,30,0,-3
+356,Apr 22 2001,World Cup qualifier in Indonesia,Indonesia,Cambodia,1364,893,6,0,3,-3,1367,890,117,199,1,-1,118,198,20,0,471
+357,Apr 22 2001,World Cup qualifier in Ivory Coast,Ivory Coast,Congo,1604,1370,2,0,8,-8,1612,1362,57,122,0,-2,57,120,40,100,334
+358,Apr 22 2001,World Cup qualifier in Liberia,Liberia,Sudan,1523,1387,2,0,12,-12,1535,1375,68,119,1,-3,69,116,40,100,236
+359,Apr 22 2001,Friendly in Mozambique,Mozambique,Lesotho,1243,1202,1,0,6,-6,1249,1196,145,157,1,-1,146,156,20,100,141
+360,Apr 23 2001,World Cup qualifier in Kazakhstan,Iraq,Nepal,1592,833,4,2,1,-1,1593,832,58,206,0,0,58,206,30,0,759
+361,Apr 23 2001,World Cup qualifier in Kazakhstan,Kazakhstan,Macao,1463,919,5,0,2,-2,1465,917,85,195,0,-1,85,194,20,0,544
+362,Apr 23 2001,World Cup qualifier in Uzbekistan,Turkmenistan,Jordan,1398,1425,2,0,32,-32,1430,1393,78,123,15,-14,93,109,40,0,-27
+363,Apr 23 2001,World Cup qualifier in Uzbekistan,Uzbekistan,Taiwan,1440,1035,7,0,5,-5,1445,1030,90,185,0,0,90,185,40,100,505
+364,Apr 24 2001,Friendly in Belize,Belize,Nicaragua,1075,919,2,0,6,-6,1081,913,176,195,1,-1,177,194,20,100,256
+365,Apr 24 2001,World Cup qualifier in Chile,Chile,Uruguay,1671,1749,0,1,-21,21,1650,1770,56,23,-5,4,51,27,40,100,22
+366,Apr 24 2001,World Cup qualifier in Ecuador,Ecuador,Paraguay,1721,1881,2,1,23,-23,1744,1858,29,14,3,-1,32,13,40,100,-60
+367,Apr 24 2001,Friendly tournament in Egypt,Egypt,Canada,1649,1632,3,0,18,-18,1667,1614,41,59,5,-3,46,56,30,100,117
+368,Apr 24 2001,Friendly in Georgia,Georgia,Israel,1538,1667,3,2,11,-11,1549,1656,64,51,2,-2,66,49,20,100,-29
+369,Apr 24 2001,Friendly in Panama,Panama,Haiti,1406,1426,2,0,12,-12,1418,1414,94,107,5,-6,99,101,20,100,80
+370,Apr 24 2001,Friendly tournament in Egypt,South Korea,Iran,1763,1758,1,0,15,-15,1778,1743,25,37,1,-4,26,33,30,0,5
+371,Apr 24 2001,World Cup qualifier in Venezuela,Venezuela,Colombia,1416,1802,2,2,14,-14,1430,1788,87,26,6,-2,93,24,40,100,-286
+372,Apr 25 2001,World Cup qualifier in Austria,Austria,Liechtenstein,1726,1063,2,0,1,-1,1727,1062,35,180,0,0,35,180,20,0,663
+373,Apr 25 2001,World Cup qualifier in Bolivia,Bolivia,Argentina,1568,2016,3,3,15,-15,1583,2001,59,7,2,-2,61,5,40,100,-348
+374,Apr 25 2001,World Cup qualifier in Brazil,Brazil,Peru,1993,1694,1,1,-16,16,1977,1710,6,33,0,4,6,37,40,100,399
+375,Apr 25 2001,Friendly in Croatia,Croatia,Greece,1894,1682,2,2,-7,7,1887,1689,10,42,0,0,10,42,20,100,312
+376,Apr 25 2001,Friendly in Czechia,Czechia,Belgium,1911,1789,1,1,-6,6,1905,1795,10,22,-1,0,9,22,20,100,222
+377,Apr 25 2001,Friendly in Denmark,Denmark,Slovenia,1830,1666,3,0,6,-6,1836,1660,15,47,1,0,16,47,20,100,264
+378,Apr 25 2001,Friendly in France,France,Portugal,2107,2012,4,0,9,-9,2116,2003,1,2,0,1,1,3,20,100,195
+379,Apr 25 2001,Friendly in Hungary,Hungary,Finland,1649,1619,0,0,-4,4,1645,1623,52,55,0,0,52,55,20,100,130
+380,Apr 25 2001,World Cup qualifier in Ireland,Ireland,Andorra,1833,1051,3,1,0,0,1833,1051,20,183,-3,0,17,183,20,0,782
+381,Apr 25 2001,Friendly in Italy,Italy,South Africa,2026,1674,1,0,1,-1,2027,1673,2,45,0,-1,2,44,20,100,452
+382,Apr 25 2001,World Cup qualifier in Jamaica,Jamaica,Honduras,1580,1701,1,1,1,-1,1581,1700,64,40,-1,0,63,40,20,100,-21
+383,Apr 25 2001,World Cup qualifier in Uzbekistan,Jordan,Taiwan,1393,1030,2,0,7,-7,1400,1023,105,187,2,-1,107,186,40,0,363
+384,Apr 25 2001,World Cup qualifier in Kazakhstan,Kazakhstan,Iraq,1465,1593,1,1,2,-2,1467,1591,81,60,2,-1,83,59,40,100,-28
+385,Apr 25 2001,World Cup qualifier in Latvia,Latvia,San Marino,1420,936,1,1,-19,19,1401,955,115,191,-9,0,106,191,40,100,584
+386,Apr 25 2001,Friendly in Lebanon,Lebanon,Philippines,1388,717,3,0,0,0,1388,717,114,211,-1,0,113,211,20,100,771
+387,Apr 25 2001,World Cup qualifier in Malta,Malta,Iceland,1228,1591,1,4,-13,13,1215,1604,151,57,0,1,151,58,40,100,-263
+388,Apr 25 2001,Friendly in Moldova,Moldova,Estonia,1399,1386,0,0,-3,3,1396,1389,111,111,-2,1,109,112,20,100,113
+389,Apr 25 2001,World Cup qualifier in Kazakhstan,Nepal,Macao,832,917,6,1,50,-50,882,867,194,211,6,-9,200,202,40,0,-85
+390,Apr 25 2001,World Cup qualifier in the Netherlands,Netherlands,Cyprus,1999,1515,4,0,3,-3,2002,1512,3,76,1,-2,4,74,30,0,484
+391,Apr 25 2001,Friendly in Norway,Norway,Bulgaria,1754,1714,2,1,6,-6,1760,1708,28,42,1,-3,29,39,20,100,140
+392,Apr 25 2001,Friendly in Poland,Poland,Scotland,1806,1742,1,1,-4,4,1802,1746,21,28,0,3,21,31,20,100,164
+393,Apr 25 2001,Friendly in Romania,Romania,Slovakia,1832,1761,0,0,-5,5,1827,1766,23,27,-4,1,19,28,20,100,171
+394,Apr 25 2001,Friendly in Spain,Spain,Japan,1954,1807,1,0,4,-4,1958,1803,7,20,0,0,7,20,20,100,247
+395,Apr 25 2001,Friendly in Switzerland,Switzerland,Sweden,1710,1816,0,2,-15,15,1695,1831,44,17,-3,1,41,18,20,100,-6
+396,Apr 25 2001,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Mexico,1630,1789,1,1,3,-3,1633,1786,52,26,1,-2,53,24,30,100,-59
+397,Apr 25 2001,Friendly in Turkey,Turkey,Albania,1769,1487,0,2,-27,27,1742,1514,40,64,-6,8,34,72,20,100,382
+398,Apr 25 2001,World Cup qualifier in the United States,United States,Costa Rica,1832,1655,1,0,7,-7,1839,1648,15,52,0,-1,15,51,40,100,277
+399,Apr 25 2001,World Cup qualifier in Uzbekistan,Uzbekistan,Turkmenistan,1445,1430,1,0,14,-14,1459,1416,82,103,4,-5,86,98,30,0,15
+400,Apr 25 2001,World Cup qualifier in Yugoslavia,Yugoslavia,Russia,1875,1819,0,1,-28,28,1847,1847,14,8,-1,5,13,13,40,100,156
+401,Apr 26 2001,Friendly in Belize,Belize,Nicaragua,1081,913,2,1,4,-4,1085,909,177,193,0,0,177,193,20,100,268
+402,Apr 26 2001,Friendly tournament in Egypt,Canada,Iran,1614,1743,1,0,20,-20,1634,1723,50,37,3,-2,53,35,30,0,-129
+403,Apr 26 2001,Friendly tournament in Egypt,Egypt,South Korea,1667,1778,1,2,-15,15,1652,1793,52,20,-3,3,49,23,30,100,-11
+404,Apr 26 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,India,1467,1113,1,0,3,-3,1470,1110,81,170,1,0,82,170,30,0,354
+405,Apr 27 2001,World Cup qualifier in Uzbekistan,Turkmenistan,Taiwan,1416,1023,5,0,8,-8,1424,1015,94,186,2,0,96,186,40,0,393
+406,Apr 27 2001,World Cup qualifier in Uzbekistan,Uzbekistan,Jordan,1459,1400,2,2,-9,9,1450,1409,94,99,-4,4,90,103,40,100,159
+407,Apr 27 2001,World Cup qualifier in Yemen,Yemen,Brunei,1192,740,1,0,2,-2,1194,738,158,210,0,0,158,210,30,0,452
+408,Apr 28 2001,Friendly in Bangladesh,Bangladesh,Bhutan,1011,562,3,1,1,-1,1012,561,187,222,0,0,187,222,20,100,549
+409,Apr 28 2001,World Cup qualifier in Congo,Congo,Madagascar,1362,1404,2,0,25,-25,1387,1379,106,122,7,-8,113,114,30,0,-42
+410,Apr 28 2001,World Cup qualifier in the Maldives,Maldives,China,908,1672,0,1,-1,1,907,1673,194,43,0,1,194,44,30,100,-664
+411,Apr 29 2001,World Cup qualifier in Cambodia,Cambodia,Indonesia,890,1367,0,2,-6,6,884,1373,201,117,-2,1,199,118,40,100,-377
+412,Apr 29 2001,COSAFA Cup in Mozambique,Mozambique,South Africa,1249,1673,0,3,-9,9,1240,1682,152,42,-3,1,149,43,40,100,-324
+413,Apr 30 2001,World Cup qualifier in Oman,Oman,Laos,1319,896,12,0,5,-5,1324,891,123,197,1,-1,124,196,20,0,423
+414,Apr 30 2001,World Cup qualifier in Syria,Syria,Philippines,1497,717,12,0,1,-1,1498,716,76,211,0,0,76,211,20,0,780
+415,May 3 2001,World Cup qualifier in Jordan,Jordan,Taiwan,1409,1015,6,0,5,-5,1414,1010,95,188,4,-1,99,187,40,100,494
+416,May 3 2001,World Cup qualifier in Jordan,Uzbekistan,Turkmenistan,1450,1424,5,2,32,-32,1482,1392,74,120,8,-12,82,108,40,0,26
+417,May 4 2001,World Cup qualifier in Algeria,Algeria,Morocco,1517,1714,1,2,-15,15,1502,1729,77,32,-3,2,74,34,40,100,-97
+418,May 4 2001,World Cup qualifier in Oman,Oman,Laos,1324,891,7,0,4,-4,1328,887,124,198,0,-1,124,197,40,100,533
+419,May 4 2001,World Cup qualifier in Syria,Syria,Philippines,1498,716,5,1,0,0,1498,716,76,211,0,0,76,211,20,0,782
+420,May 4 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Brunei,1470,738,4,0,1,-1,1471,737,83,210,0,0,83,210,20,0,732
+421,May 4 2001,World Cup qualifier in Yemen,Yemen,India,1194,1110,3,3,-10,10,1184,1120,160,170,-1,0,159,170,40,100,184
+422,May 5 2001,World Cup qualifier in Jordan,Jordan,Turkmenistan,1414,1392,1,2,-27,27,1387,1419,125,86,-13,11,112,97,40,100,122
+423,May 5 2001,World Cup qualifier in Madagascar,Madagascar,Tunisia,1379,1632,0,2,-18,18,1361,1650,126,45,-6,5,120,50,40,100,-153
+424,May 5 2001,World Cup qualifier in Nigeria,Nigeria,Liberia,1660,1535,2,0,13,-13,1673,1522,44,71,1,-1,45,70,40,100,225
+425,May 5 2001,World Cup qualifier in Sierra Leone,Sierra Leone,Ghana,1335,1466,1,1,2,-2,1337,1464,122,86,0,0,122,86,40,100,-31
+426,May 5 2001,World Cup qualifier in South Africa,South Africa,Zimbabwe,1682,1494,2,1,6,-6,1688,1488,43,81,0,-1,43,80,40,100,288
+427,May 5 2001,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Puerto Rico,1266,890,2,0,2,-2,1268,888,138,196,0,0,138,196,20,100,476
+428,May 5 2001,World Cup qualifier in Jordan,Uzbekistan,Taiwan,1482,1010,4,0,5,-5,1487,1005,80,187,1,0,81,187,40,0,472
+429,May 6 2001,World Cup qualifier in Angola,Angola,Cameroon,1487,1747,2,0,43,-43,1530,1704,57,48,12,-9,69,39,40,100,-160
+430,May 6 2001,World Cup qualifier in Cambodia,Cambodia,China,884,1673,0,4,-1,1,883,1674,199,43,0,1,199,44,20,100,-689
+431,May 6 2001,World Cup qualifier in Congo,Congo,DR Congo,1387,1431,1,1,-3,3,1384,1434,114,94,-1,-1,113,93,40,100,56
+432,May 6 2001,World Cup qualifier in Egypt,Egypt,Senegal,1652,1546,1,0,9,-9,1661,1537,45,69,2,-1,47,68,40,100,206
+433,May 6 2001,World Cup qualifier in the Maldives,Maldives,Indonesia,907,1373,0,2,-7,7,900,1380,194,111,0,3,194,114,40,100,-366
+434,May 6 2001,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Puerto Rico,1268,888,4,1,2,-2,1270,886,138,200,0,-2,138,198,20,100,480
+435,May 6 2001,World Cup qualifier in Togo,Togo,Zambia,1420,1455,3,2,16,-16,1436,1439,86,92,5,-2,91,90,40,100,65
+436,May 7 2001,World Cup qualifier in Jordan,Jordan,Uzbekistan,1387,1487,1,1,0,0,1387,1487,112,82,0,0,112,82,20,100,0
+437,May 7 2001,World Cup qualifier in Oman,Oman,Philippines,1328,716,7,0,1,-1,1329,715,124,213,0,-1,124,212,20,0,612
+438,May 7 2001,World Cup qualifier in Syria,Syria,Laos,1498,887,11,0,2,-2,1500,885,75,200,1,-2,76,198,20,0,611
+439,May 7 2001,World Cup qualifier in Jordan,Turkmenistan,Taiwan,1419,1005,1,0,3,-3,1422,1002,97,187,0,0,97,187,30,0,414
+440,May 9 2001,Friendly in Estonia,Estonia,Finland,1389,1623,1,1,4,-4,1393,1619,106,56,2,0,108,56,20,100,-134
+441,May 9 2001,Friendly in Georgia,Georgia,Azerbaijan,1549,1261,1,0,2,-2,1551,1259,66,143,0,-1,66,142,20,100,388
+442,May 10 2001,Friendly in Trinidad and Tobago,Trinidad and Tobago,Grenada,1633,1286,5,3,2,-2,1635,1284,53,136,1,0,54,136,20,100,447
+443,May 11 2001,World Cup qualifier in Oman,Oman,Philippines,1329,715,2,0,1,-1,1330,714,124,212,0,0,124,212,20,0,614
+444,May 11 2001,World Cup qualifier in Syria,Syria,Laos,1500,885,9,0,2,-2,1502,883,74,198,1,0,75,198,30,0,615
+445,May 11 2001,World Cup qualifier in Yemen,Yemen,United Arab Emirates,1184,1471,2,1,30,-30,1214,1441,145,95,7,-6,152,89,40,100,-187
+446,May 12 2001,World Cup qualifier in Brunei,Brunei,India,737,1120,0,1,-7,7,730,1127,210,166,0,2,210,168,40,100,-283
+447,May 13 2001,World Cup qualifier in China,China,Indonesia,1674,1380,5,1,7,-7,1681,1373,44,120,0,-3,44,117,40,100,394
+448,May 13 2001,World Cup qualifier in Lebanon,Lebanon,Pakistan,1388,808,6,0,2,-2,1390,806,109,207,1,0,110,207,30,0,580
+449,May 13 2001,World Cup qualifier in Lebanon,Thailand,Sri Lanka,1500,893,4,2,2,-2,1502,891,73,195,2,0,75,195,40,0,607
+450,May 15 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Jamaica,Martinique,1581,1378,1,0,9,-9,1590,1369,57,121,3,-3,60,118,40,0,203
+451,May 15 2001,World Cup qualifier in Lebanon,Lebanon,Sri Lanka,1390,891,4,0,2,-2,1392,889,108,195,1,0,109,195,20,0,499
+452,May 15 2001,World Cup qualifier in Lebanon,Thailand,Pakistan,1502,806,3,0,1,-1,1503,805,75,207,0,0,75,207,20,0,696
+453,May 15 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Barbados,1635,1363,5,0,8,-8,1643,1355,54,121,0,-1,54,120,40,100,372
+454,May 16 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Suriname,1495,1312,4,3,10,-10,1505,1302,71,133,4,-3,75,130,40,0,183
+455,May 16 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Saint Kitts and Nevis,1414,1270,7,2,24,-24,1438,1246,82,152,9,-7,91,145,40,0,144
+456,May 17 2001,World Cup qualifier in Lebanon,Lebanon,Thailand,1392,1503,1,2,-19,19,1373,1522,123,66,-7,5,116,71,40,100,-11
+457,May 17 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Martinique,Barbados,1369,1355,3,1,29,-29,1398,1326,94,128,12,-4,106,124,40,0,14
+458,May 17 2001,World Cup qualifier in Lebanon,Pakistan,Sri Lanka,805,889,3,3,5,-5,810,884,207,199,0,-2,207,197,40,0,-84
+459,May 17 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1643,1590,2,1,12,-12,1655,1578,46,66,4,-3,50,63,40,100,153
+460,May 18 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Saint Kitts and Nevis,1505,1246,1,1,-13,13,1492,1259,82,137,-3,4,79,141,40,0,259
+461,May 18 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Suriname,1438,1302,1,1,-7,7,1431,1309,97,124,-3,3,94,127,40,0,136
+462,May 18 2001,World Cup qualifier in Syria,Syria,Oman,1502,1330,3,3,-13,13,1489,1343,83,119,-3,2,80,121,40,100,272
+463,May 18 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Yemen,1441,1214,3,2,5,-5,1446,1209,89,154,0,-1,89,153,40,100,327
+464,May 19 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Jamaica,Barbados,1578,1326,2,1,8,-8,1586,1318,59,126,2,-1,61,125,40,0,252
+465,May 19 2001,World Cup qualifier in Laos,Laos,Philippines,883,714,2,0,11,-11,894,703,192,212,3,0,195,212,40,100,269
+466,May 19 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Martinique,1655,1398,1,2,-35,35,1620,1433,60,82,-5,12,55,94,40,100,357
+467,May 20 2001,World Cup qualifier in China,China,Cambodia,1681,883,3,1,0,0,1681,883,44,199,0,0,44,199,20,0,798
+468,May 20 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Cuba,Haiti,1492,1431,0,0,-3,3,1489,1434,79,91,0,2,79,93,30,0,61
+469,May 20 2001,World Cup qualifier in India,India,Brunei,1127,730,5,0,4,-4,1131,726,168,210,0,0,168,210,20,0,397
+470,May 20 2001,Friendly in Lesotho,Lesotho,Swaziland,1196,1199,1,0,7,-7,1203,1192,155,160,1,-2,156,158,20,100,97
+471,May 20 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Saint Kitts and Nevis,Suriname,1259,1309,4,0,43,-43,1302,1266,119,149,11,-11,130,138,40,0,-50
+472,May 20 2001,World Cup qualifier in Tunisia,Tunisia,Ivory Coast,1650,1612,1,1,-8,8,1642,1620,56,53,-3,2,53,55,40,100,138
+473,May 22 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Haiti,Martinique,1434,1433,5,0,40,-40,1474,1393,73,121,10,-13,83,108,40,0,1
+474,May 22 2001,Friendly in Singapore,Singapore,New Zealand,1205,1541,3,0,28,-28,1233,1513,145,79,5,-6,150,73,20,100,-236
+475,May 22 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Trinidad and Tobago,Cuba,1620,1489,2,0,13,-13,1633,1476,55,85,0,-3,55,82,40,100,231
+476,May 23 2001,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Belize,1648,1085,4,0,3,-3,1651,1082,49,177,1,0,50,177,40,0,563
+477,May 23 2001,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Nicaragua,1453,909,3,0,3,-3,1456,906,88,193,0,0,88,193,40,0,544
+478,May 23 2001,N Am Ch q & UNCAF Cup in Honduras,Honduras,Panama,1700,1418,1,2,-36,36,1664,1454,52,79,-6,10,46,89,40,100,382
+479,May 23 2001,East Asian Games in Japan,Macao,Mongolia,867,842,4,0,35,-35,902,807,186,208,8,-1,194,207,40,0,25
+480,May 24 2001,CONCACAF Ch q & Car Cup in Trinidad and Tobago,Martinique,Cuba,1393,1476,1,0,25,-25,1418,1451,92,96,8,-7,100,89,40,0,-83
+481,May 25 2001,N Am Ch q & UNCAF Cup in Honduras,Belize,Guatemala,1082,1527,3,3,17,-17,1099,1510,173,81,2,-6,175,75,40,0,-445
+482,May 25 2001,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Panama,1456,1454,2,1,20,-20,1476,1434,75,100,6,-6,81,94,40,0,2
+483,May 25 2001,Friendly in England,England,Mexico,1883,1786,4,0,9,-9,1892,1777,9,27,1,-1,10,26,20,100,197
+484,May 25 2001,N Am Ch q & UNCAF Cup in Honduras,Honduras,Nicaragua,1664,906,10,2,1,-1,1665,905,46,193,0,0,46,193,20,0,758
+485,May 25 2001,World Cup qualifier in Oman,Oman,Syria,1343,1489,2,0,34,-34,1377,1455,109,95,6,-8,115,87,40,100,-46
+486,May 25 2001,Friendly in South Korea,South Korea,Cameroon,1793,1704,0,0,-5,5,1788,1709,23,35,0,2,23,37,20,100,189
+487,May 25 2001,Caribbean Cup in Trinidad and Tobago,Trinidad and Tobago,Haiti,1633,1474,3,0,13,-13,1646,1461,49,88,3,-3,52,85,40,100,259
+488,May 26 2001,World Cup qualifier in Thailand,Lebanon,Pakistan,1373,810,8,1,3,-3,1376,807,115,206,1,0,116,206,30,0,563
+489,May 26 2001,World Cup qualifier in the Philippines,Philippines,Laos,703,894,1,1,5,-5,708,889,212,196,0,0,212,196,20,0,-191
+490,May 26 2001,World Cup qualifier in Thailand,Thailand,Sri Lanka,1522,884,3,0,1,-1,1523,883,69,199,0,0,69,199,20,0,638
+491,May 27 2001,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Guatemala,1651,1510,1,1,-8,8,1643,1518,56,67,-3,4,53,71,40,0,141
+492,May 27 2001,N Am Ch q & UNCAF Cup in Honduras,Honduras,El Salvador,1665,1476,1,1,-14,14,1651,1490,52,77,-3,2,49,79,40,100,289
+493,May 27 2001,World Cup qualifier in Indonesia,Indonesia,China,1373,1681,0,2,-14,14,1359,1695,122,37,-2,3,120,40,40,100,-208
+494,May 27 2001,N Am Ch q & UNCAF Cup in Honduras,Panama,Nicaragua,1434,905,6,0,4,-4,1438,901,90,195,2,-1,92,194,40,0,529
+495,May 28 2001,World Cup qualifier in Thailand,Lebanon,Sri Lanka,1376,883,5,0,4,-4,1380,879,112,203,2,-2,114,201,40,0,493
+496,May 28 2001,World Cup qualifier in Thailand,Thailand,Pakistan,1523,807,6,0,1,-1,1524,806,69,208,0,-1,69,207,20,0,716
+497,May 29 2001,Friendly in Germany,Germany,Slovakia,1906,1766,2,0,6,-6,1912,1760,8,28,0,0,8,28,20,100,240
+498,May 30 2001,Confederations Cup in South Korea,Australia,Mexico,1785,1777,2,0,37,-37,1822,1740,15,38,5,-6,20,32,50,0,8
+499,May 30 2001,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,Panama,1643,1438,2,1,9,-9,1652,1429,45,100,4,-4,49,96,40,0,205
+500,May 30 2001,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Guatemala,1490,1518,0,0,2,-2,1492,1516,79,69,0,1,79,70,40,0,-28
+501,May 30 2001,Confederations Cup in South Korea,South Korea,France,1788,2116,0,5,-21,21,1767,2137,29,1,-3,0,26,1,50,100,-228
+502,May 30 2001,World Cup qualifier in Thailand,Sri Lanka,Pakistan,879,806,3,1,24,-24,903,782,185,207,8,0,193,207,40,0,73
+503,May 30 2001,World Cup qualifier in Thailand,Thailand,Lebanon,1524,1380,2,2,-12,12,1512,1392,79,106,-5,4,74,110,40,100,244
+504,May 31 2001,Confederations Cup in Japan,Brazil,Cameroon,1977,1709,2,0,13,-13,1990,1696,6,41,0,-2,6,39,50,0,268
+505,May 31 2001,Confederations Cup in Japan,Japan,Canada,1803,1634,3,0,15,-15,1818,1619,21,57,0,-1,21,56,50,100,269
+506,Jun 1 2001,African Nations Cup qualifier in Algeria,Algeria,Angola,1502,1530,3,2,16,-16,1518,1514,64,74,6,-3,70,71,30,0,-28
+507,Jun 1 2001,Confederations Cup in South Korea,Australia,France,1822,2137,1,0,43,-43,1865,2094,4,1,8,0,12,1,50,0,-315
+508,Jun 1 2001,N Am Ch q & UNCAF Cup in Honduras,El Salvador,Panama,1492,1429,1,1,-4,4,1488,1433,79,94,0,1,79,95,20,100,163
+509,Jun 1 2001,N Am Ch q & UNCAF Cup in Honduras,Guatemala,Costa Rica,1516,1652,2,0,41,-41,1557,1611,60,65,5,-8,65,57,40,0,-136
+510,Jun 1 2001,Confederations Cup in South Korea,South Korea,Mexico,1767,1740,2,1,16,-16,1783,1724,24,36,1,-2,25,34,50,100,127
+511,Jun 2 2001,World Cup qualifier in Armenia,Armenia,Belarus,1410,1469,0,0,-2,2,1408,1471,106,84,-2,-1,104,83,30,100,41
+512,Jun 2 2001,World Cup qualifier in Belgium,Belgium,Latvia,1795,1401,3,1,3,-3,1798,1398,23,106,0,0,23,106,20,0,394
+513,Jun 2 2001,Confederations Cup in Japan,Brazil,Canada,1990,1619,0,0,-20,20,1970,1639,6,49,0,3,6,52,50,0,371
+514,Jun 2 2001,World Cup qualifier in Croatia,Croatia,San Marino,1887,955,4,0,0,0,1887,955,9,191,1,0,10,191,20,0,932
+515,Jun 2 2001,World Cup qualifier in Denmark,Denmark,Czechia,1836,1905,2,1,18,-18,1854,1887,11,11,3,-1,14,10,30,0,-69
+516,Jun 2 2001,World Cup qualifier in Estonia,Estonia,Netherlands,1393,2002,2,4,-3,3,1390,2005,113,2,-2,1,111,3,40,100,-509
+517,Jun 2 2001,World Cup qualifier in the Faroe Islands,Faroe Islands,Switzerland,1252,1695,0,1,-5,5,1247,1700,145,36,0,2,145,38,40,100,-343
+518,Jun 2 2001,World Cup qualifier in Finland,Finland,Germany,1619,1912,2,2,10,-10,1629,1902,55,8,0,0,55,8,30,0,-293
+519,Jun 2 2001,African Nations Cup qualifier in Gabon,Gabon,Tunisia,1408,1642,1,1,7,-7,1415,1635,98,53,3,0,101,53,40,100,-134
+520,Jun 2 2001,World Cup qualifier in Georgia,Georgia,Italy,1551,2027,1,2,-4,4,1547,2031,65,2,1,0,66,2,40,100,-376
+521,Jun 2 2001,World Cup qualifier in Greece,Greece,Albania,1689,1514,1,0,7,-7,1696,1507,36,79,3,-4,39,75,40,100,275
+522,Jun 2 2001,World Cup qualifier in Iceland,Iceland,Malta,1604,1215,3,0,4,-4,1608,1211,58,154,0,-1,58,153,40,100,489
+523,Jun 2 2001,World Cup qualifier in Ireland,Ireland,Portugal,1833,2003,1,1,4,-4,1837,1999,20,7,-1,-2,19,5,40,100,-70
+524,Jun 2 2001,Confederations Cup in Japan,Japan,Cameroon,1818,1696,2,0,16,-16,1834,1680,21,47,0,-4,21,43,50,100,222
+525,Jun 2 2001,African Nations Cup qualifier in Kenya,Kenya,Morocco,1379,1729,1,1,12,-12,1391,1717,105,40,5,-4,110,36,40,100,-250
+526,Jun 2 2001,World Cup qualifier in Liechtenstein,Liechtenstein,Israel,1062,1656,0,3,-4,4,1058,1660,180,48,0,0,180,48,40,100,-494
+527,Jun 2 2001,World Cup qualifier in Macedonia,Macedonia,Moldova,1513,1396,2,2,-11,11,1502,1407,79,102,-3,3,76,105,40,100,217
+528,Jun 2 2001,African Nations Cup qualifier in Nigeria,Nigeria,Madagascar,1673,1361,1,0,3,-3,1676,1358,43,121,1,-1,44,120,20,0,312
+529,Jun 2 2001,World Cup qualifier in Northern Ireland,Northern Ireland,Bulgaria,1496,1708,0,1,-14,14,1482,1722,85,32,-4,3,81,35,40,100,-112
+530,Jun 2 2001,World Cup qualifier in Paraguay,Paraguay,Chile,1858,1650,1,0,6,-6,1864,1644,13,52,0,-1,13,51,40,100,308
+531,Jun 2 2001,World Cup qualifier in Peru,Peru,Ecuador,1710,1744,1,2,-24,24,1686,1768,48,24,-6,3,42,27,40,100,66
+532,Jun 2 2001,World Cup qualifier in Romania,Romania,Hungary,1827,1645,2,0,10,-10,1837,1635,18,54,1,-1,19,53,40,100,282
+533,Jun 2 2001,World Cup qualifier in Russia,Russia,Yugoslavia,1847,1847,1,1,-6,6,1841,1853,20,16,-3,-1,17,15,40,100,100
+534,Jun 2 2001,World Cup qualifier in Slovenia,Slovenia,Luxembourg,1660,1137,2,0,2,-2,1662,1135,45,167,1,0,46,167,30,0,523
+535,Jun 2 2001,World Cup qualifier in Spain,Spain,Bosnia and Herzegovina,1958,1563,4,1,4,-4,1962,1559,7,64,0,0,7,64,40,100,495
+536,Jun 2 2001,World Cup qualifier in Sweden,Sweden,Slovakia,1831,1760,2,0,16,-16,1847,1744,13,33,3,-3,16,30,40,100,171
+537,Jun 2 2001,World Cup qualifier in Turkey,Turkey,Azerbaijan,1742,1259,3,0,2,-2,1744,1257,29,144,1,-1,30,143,20,0,483
+538,Jun 2 2001,African Nations Cup qualifier in Uganda,Uganda,Togo,1405,1436,0,3,-42,42,1363,1478,131,72,-13,10,118,82,40,100,69
+539,Jun 2 2001,World Cup qualifier in Ukraine,Ukraine,Norway,1674,1760,0,0,-1,1,1673,1761,46,29,-1,-1,45,28,30,100,14
+540,Jun 2 2001,World Cup qualifier in Wales,Wales,Poland,1557,1802,1,2,-12,12,1545,1814,69,22,-2,0,67,22,40,100,-145
+541,Jun 2 2001,African Nations Cup qualifier in Zambia,Zambia,Namibia,1439,1321,0,0,-11,11,1428,1332,101,124,-5,0,96,124,40,100,218
+542,Jun 3 2001,World Cup qualifier in Argentina,Argentina,Colombia,2001,1788,3,0,10,-10,2011,1778,2,26,1,-1,3,25,40,100,313
+543,Jun 3 2001,World Cup qualifier in Bolivia,Bolivia,Venezuela,1583,1430,5,0,15,-15,1598,1415,56,101,3,-3,59,98,40,100,253
+544,Jun 3 2001,African Nations Cup qualifier in Burundi,Burundi,Burkina Faso,1353,1392,0,0,-3,3,1350,1395,121,108,0,0,121,108,30,100,61
+545,Jun 3 2001,African Nations Cup qualifier in Congo,Congo,Mauritius,1384,1262,0,0,-11,11,1373,1273,116,136,-1,2,115,138,40,100,222
+546,Jun 3 2001,N Am Ch q & UNCAF Cup in Honduras,Costa Rica,El Salvador,1611,1488,1,1,-7,7,1604,1495,59,76,-1,1,58,77,40,0,123
+547,Jun 3 2001,African Nations Cup qualifier in Egypt,Egypt,Sudan,1661,1375,3,2,4,-4,1665,1371,45,116,1,0,46,116,40,100,386
+548,Jun 3 2001,Confederations Cup in South Korea,France,Mexico,2094,1724,4,0,10,-10,2104,1714,1,39,0,-3,1,36,50,0,370
+549,Jun 3 2001,Friendly in The Gambia,Gambia,Senegal,1299,1537,0,0,4,-4,1303,1533,129,68,1,0,130,68,20,100,-138
+550,Jun 3 2001,N Am Ch q & UNCAF Cup in Honduras,Guatemala,Panama,1557,1433,3,1,20,-20,1577,1413,63,108,1,-7,64,101,40,0,124
+551,Jun 3 2001,African Nations Cup qualifier in Lesotho,Lesotho,DR Congo,1203,1434,0,0,7,-7,1210,1427,152,95,2,-1,154,94,40,100,-131
+552,Jun 3 2001,African Nations Cup qualifier in Liberia,Liberia,South Africa,1522,1688,1,1,4,-4,1526,1684,69,43,0,-1,69,42,20,0,-166
+553,Jun 3 2001,African Nations Cup qualifier in Libya,Libya,Ivory Coast,1428,1620,0,3,-26,26,1402,1646,114,44,-9,6,105,50,40,100,-92
+554,Jun 3 2001,Confederations Cup in South Korea,South Korea,Australia,1783,1865,1,0,24,-24,1807,1841,21,20,2,-4,23,16,50,100,18
+555,Jun 3 2001,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Ghana,1488,1464,1,2,-27,27,1461,1491,92,73,-7,6,85,79,40,100,124
+556,Jun 4 2001,Confederations Cup in Japan,Cameroon,Canada,1680,1639,2,0,33,-33,1713,1606,31,61,6,-4,37,57,50,0,41
+557,Jun 4 2001,Confederations Cup in Japan,Japan,Brazil,1834,1970,0,0,3,-3,1837,1967,17,6,2,0,19,6,50,100,-36
+558,Jun 4 2001,World Cup qualifier in New Zealand,Solomon Islands,Cook Islands,1307,716,9,1,3,-3,1310,713,128,211,0,0,128,211,40,0,591
+559,Jun 4 2001,World Cup qualifier in New Zealand,Tahiti,Vanuatu,1304,1142,6,1,23,-23,1327,1119,121,175,4,-5,125,170,40,0,162
+560,Jun 6 2001,World Cup qualifier in Albania,Albania,Germany,1507,1902,0,2,-9,9,1498,1911,77,10,-1,-1,76,9,40,100,-295
+561,Jun 6 2001,World Cup qualifier in Armenia,Armenia,Poland,1408,1814,1,1,14,-14,1422,1800,89,24,7,-1,96,23,40,100,-306
+562,Jun 6 2001,World Cup qualifier in Azerbaijan,Azerbaijan,Slovakia,1257,1744,2,0,54,-54,1311,1690,113,48,15,-9,128,39,40,100,-387
+563,Jun 6 2001,World Cup qualifier in Czechia,Czechia,Northern Ireland,1887,1482,3,1,3,-3,1890,1479,12,83,-1,-1,11,82,20,0,405
+564,Jun 6 2001,World Cup qualifier in Denmark,Denmark,Malta,1854,1211,2,1,1,-1,1855,1210,15,153,-1,0,14,153,30,0,643
+565,Jun 6 2001,World Cup qualifier in Estonia,Estonia,Ireland,1390,1837,0,2,-7,7,1383,1844,115,13,-2,3,113,16,40,100,-347
+566,Jun 6 2001,World Cup qualifier in the Faroe Islands,Faroe Islands,Yugoslavia,1247,1853,0,6,-4,4,1243,1857,147,12,-1,1,146,13,40,100,-506
+567,Jun 6 2001,World Cup qualifier in Greece,Greece,England,1696,1892,0,2,-22,22,1674,1914,48,7,-4,1,44,8,40,100,-96
+568,Jun 6 2001,World Cup qualifier in Hungary,Hungary,Georgia,1635,1547,4,1,18,-18,1653,1529,45,70,4,-2,49,68,40,100,188
+569,Jun 6 2001,World Cup qualifier in Iceland,Iceland,Bulgaria,1608,1722,1,1,1,-1,1609,1721,56,32,0,1,56,33,30,100,-14
+570,Jun 6 2001,World Cup qualifier in Israel,Israel,Spain,1660,1962,1,1,10,-10,1670,1952,44,7,2,0,46,7,40,100,-202
+571,Jun 6 2001,World Cup qualifier in Latvia,Latvia,Croatia,1398,1887,0,1,-4,4,1394,1891,110,10,-2,0,108,10,40,100,-389
+572,Jun 6 2001,World Cup qualifier in Lithuania,Lithuania,Romania,1415,1837,1,2,-5,5,1410,1842,106,15,-4,2,102,17,40,100,-322
+573,Jun 6 2001,World Cup qualifier in Luxembourg,Luxembourg,Russia,1135,1841,1,2,-1,1,1134,1842,166,18,0,-1,166,17,20,100,-606
+574,Jun 6 2001,World Cup qualifier in New Zealand,New Zealand,Tahiti,1513,1327,5,0,13,-13,1526,1314,66,129,3,-2,69,127,40,100,286
+575,Jun 6 2001,World Cup qualifier in Norway,Norway,Belarus,1761,1471,1,1,-16,16,1745,1487,30,77,-1,3,29,80,40,100,390
+576,Jun 6 2001,World Cup qualifier in Portugal,Portugal,Cyprus,1999,1512,6,0,3,-3,2002,1509,5,77,0,-2,5,75,40,100,587
+577,Jun 6 2001,World Cup qualifier in San Marino,San Marino,Belgium,955,1798,1,4,-1,1,954,1799,191,24,0,0,191,24,30,100,-743
+578,Jun 6 2001,World Cup qualifier in Sweden,Sweden,Moldova,1847,1407,6,0,4,-4,1851,1403,15,104,0,0,15,104,40,100,540
+579,Jun 6 2001,World Cup qualifier in Switzerland,Switzerland,Slovenia,1700,1662,0,1,-28,28,1672,1690,51,31,-6,8,45,39,40,100,138
+580,Jun 6 2001,World Cup qualifier in Turkey,Turkey,Macedonia,1744,1502,3,3,-15,15,1729,1517,30,68,0,4,30,72,40,100,342
+581,Jun 6 2001,World Cup qualifier in Ukraine,Ukraine,Wales,1673,1545,1,1,-12,12,1661,1557,51,65,-3,1,48,66,40,100,228
+582,Jun 6 2001,World Cup qualifier in New Zealand,Vanuatu,Cook Islands,1119,713,8,1,8,-8,1127,705,166,213,2,-1,168,212,40,0,406
+583,Jun 7 2001,Confederations Cup in South Korea,France,Brazil,2104,1967,2,1,16,-16,2120,1951,1,8,0,-1,1,7,50,0,137
+584,Jun 7 2001,Confederations Cup in Japan,Japan,Australia,1837,1841,1,0,18,-18,1855,1823,7,23,7,-2,14,21,50,100,96
+585,Jun 7 2001,Friendly in the United States,United States,Ecuador,1839,1768,0,0,-5,5,1834,1773,20,25,0,1,20,26,20,100,171
+586,Jun 8 2001,World Cup qualifier in New Zealand,New Zealand,Cook Islands,1526,705,2,0,0,0,1526,705,69,212,0,0,69,212,20,0,821
+587,Jun 8 2001,World Cup qualifier in New Zealand,Solomon Islands,Vanuatu,1310,1127,7,2,21,-21,1331,1106,121,174,4,-3,125,171,40,0,183
+588,Jun 9 2001,Confederations Cup in South Korea,Australia,Brazil,1823,1951,1,0,34,-34,1857,1917,5,7,8,0,13,7,50,0,-128
+589,Jun 10 2001,COSAFA Cup in Angola,Angola,Mauritius,1514,1273,1,0,5,-5,1519,1268,69,139,2,0,71,139,40,100,341
+590,Jun 10 2001,Friendly in Jamaica,Jamaica,Cuba,1586,1451,4,1,7,-7,1593,1444,58,93,2,-2,60,91,20,100,235
+591,Jun 10 2001,Confederations Cup in Japan,Japan,France,1855,2120,0,1,-14,14,1841,2134,25,1,-5,0,20,1,50,100,-165
+592,Jun 10 2001,Friendly in Kenya,Kenya,Egypt,1391,1665,1,1,5,-5,1396,1660,104,49,3,-1,107,48,20,100,-174
+593,Jun 10 2001,Friendly in Panama,Panama,Trinidad and Tobago,1413,1646,0,0,4,-4,1417,1642,97,55,2,-2,99,53,20,100,-133
+594,Jun 10 2001,Friendly in Sierra Leone,Sierra Leone,Gambia,1337,1303,1,1,-4,4,1333,1307,124,131,-1,0,123,131,20,100,134
+595,Jun 11 2001,World Cup qualifier in New Zealand,New Zealand,Solomon Islands,1526,1331,5,1,12,-12,1538,1319,65,125,2,0,67,125,40,100,295
+596,Jun 11 2001,World Cup qualifier in New Zealand,Tahiti,Cook Islands,1314,705,6,0,2,-2,1316,703,128,212,0,0,128,212,30,0,609
+597,Jun 13 2001,World Cup qualifier in New Zealand,New Zealand,Vanuatu,1538,1106,7,0,4,-4,1542,1102,67,177,0,-3,67,174,40,100,532
+598,Jun 13 2001,World Cup qualifier in New Zealand,Tahiti,Solomon Islands,1316,1319,2,0,30,-30,1346,1289,116,147,6,-11,122,136,40,0,-3
+599,Jun 16 2001,World Cup qualifier in Jamaica,Jamaica,United States,1593,1834,0,0,8,-8,1601,1826,58,21,1,0,59,21,40,100,-141
+600,Jun 16 2001,African Nations Cup qualifier in Madagascar,Madagascar,Zambia,1358,1428,0,1,-22,22,1336,1450,124,89,-2,2,122,91,40,100,30
+601,Jun 16 2001,African Nations Cup qualifier in Mauritius,Mauritius,Liberia,1268,1526,0,2,-17,17,1251,1543,149,64,-5,3,144,67,40,100,-158
+602,Jun 16 2001,World Cup qualifier in Mexico,Mexico,Costa Rica,1714,1604,1,2,-31,31,1683,1635,51,48,-8,5,43,53,40,100,210
+603,Jun 16 2001,African Nations Cup qualifier in Morocco,Morocco,Gabon,1717,1415,0,1,-36,36,1681,1451,54,78,-10,11,44,89,40,100,402
+604,Jun 16 2001,African Nations Cup qualifier in Namibia,Namibia,Nigeria,1332,1676,0,2,-12,12,1320,1688,125,37,0,3,125,40,40,100,-244
+605,Jun 16 2001,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Honduras,1642,1651,2,4,-38,38,1604,1689,63,28,-5,11,58,39,40,100,91
+606,Jun 17 2001,African Nations Cup qualifier in Angola,Angola,Burundi,1519,1350,2,1,7,-7,1526,1343,69,122,1,-1,70,121,40,100,269
+607,Jun 17 2001,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Algeria,1395,1518,1,0,21,-21,1416,1497,94,80,7,-4,101,76,40,100,-23
+608,Jun 17 2001,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Zimbabwe,1427,1461,2,1,16,-16,1443,1445,93,99,1,-7,94,92,30,0,-34
+609,Jun 17 2001,African Nations Cup qualifier in Ghana,Ghana,Lesotho,1491,1210,3,1,6,-6,1497,1204,73,159,3,-3,76,156,40,100,381
+610,Jun 17 2001,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Egypt,1646,1660,2,2,-5,5,1641,1665,55,47,-2,1,53,48,40,100,86
+611,Jun 17 2001,African Nations Cup qualifier in South Africa,South Africa,Congo,1684,1373,0,0,-17,17,1667,1390,52,103,-5,6,47,109,40,100,411
+612,Jun 17 2001,African Nations Cup qualifier in Sudan,Sudan,Libya,1371,1402,1,0,16,-16,1387,1386,106,123,5,-9,111,114,30,0,-31
+613,Jun 17 2001,African Nations Cup qualifier in Togo,Togo,Senegal,1478,1533,1,0,17,-17,1495,1516,73,75,5,-3,78,72,30,0,-55
+614,Jun 17 2001,African Nations Cup qualifier in Tunisia,Tunisia,Kenya,1635,1396,4,1,9,-9,1644,1387,49,115,2,-4,51,111,40,100,339
+615,Jun 20 2001,World Cup qualifier in Costa Rica,Costa Rica,Jamaica,1635,1601,2,1,13,-13,1648,1588,48,63,3,-2,51,61,40,100,134
+616,Jun 20 2001,World Cup qualifier in Honduras,Honduras,Mexico,1689,1683,3,1,21,-21,1710,1662,31,54,4,-6,35,48,40,100,106
+617,Jun 20 2001,World Cup qualifier in New Zealand,New Zealand,Australia,1542,1857,0,2,-13,13,1529,1870,68,11,0,1,68,12,40,100,-215
+618,Jun 20 2001,World Cup qualifier in the United States,United States,Trinidad and Tobago,1826,1604,2,0,8,-8,1834,1596,21,60,0,-1,21,59,40,100,322
+619,Jun 21 2001,Merdeka Tournament in Malaysia,Malaysia,Bahrain,1297,1397,2,4,-23,23,1274,1420,144,92,-6,7,138,99,-1,-1,-101
+620,Jun 23 2001,Friendly in Bermuda,Bermuda,Trinidad and Tobago,1290,1596,0,5,-9,9,1281,1605,138,57,-2,1,136,58,20,100,-206
+621,Jun 23 2001,Merdeka Tournament in Malaysia,Bosnia and Herzegovina,Bahrain,1559,1420,1,0,9,-9,1568,1411,65,107,0,-4,65,103,30,0,139
+622,Jun 24 2001,World Cup qualifier in Australia,Australia,New Zealand,1870,1529,4,1,5,-5,1875,1524,12,72,0,-2,12,70,40,100,441
+623,Jun 24 2001,Friendly in Belize,Belize,Cuba,1099,1444,3,2,16,-16,1115,1428,165,97,5,-2,170,95,20,100,-245
+624,Jun 24 2001,COSAFA Cup in Lesotho,Lesotho,Zambia,1204,1450,1,2,-12,12,1192,1462,158,80,-1,5,157,85,40,100,-146
+625,Jun 25 2001,Merdeka Tournament in Malaysia,Malaysia,Bosnia and Herzegovina,1274,1568,2,2,8,-8,1282,1560,134,65,2,0,136,65,30,100,-194
+626,Jun 26 2001,Merdeka Tournament in Malaysia,Uzbekistan,India,1487,1131,2,1,3,-3,1490,1128,81,167,0,0,81,167,30,0,356
+627,Jun 28 2001,Friendly tournament in Japan,Paraguay,Yugoslavia,1864,1857,2,0,22,-22,1886,1835,11,26,1,-6,12,20,30,0,7
+628,Jun 28 2001,Merdeka Tournament in Malaysia,Uzbekistan,Bahrain,1490,1411,2,0,17,-17,1507,1394,69,109,6,-3,75,106,30,0,79
+629,Jun 29 2001,World Cup qualifier in Libya,Libya,Angola,1386,1526,1,1,2,-2,1388,1524,108,69,3,0,111,69,30,100,-40
+630,Jun 30 2001,Friendly in Denmark,Greenland,Tibet,996,685,4,1,5,-5,1001,680,188,216,0,0,188,216,20,0,311
+631,Jun 30 2001,World Cup qualifier in Morocco,Morocco,Egypt,1681,1665,1,0,14,-14,1695,1651,32,53,5,-3,37,50,30,0,16
+632,Jun 30 2001,World Cup qualifier in Namibia,Namibia,Algeria,1320,1497,0,4,-29,29,1291,1526,141,61,-8,8,133,69,40,100,-77
+633,Jun 30 2001,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1605,1588,1,2,-26,26,1579,1614,68,51,-5,5,63,56,40,100,117
+634,Jun 30 2001,Merdeka Tournament in Malaysia,Uzbekistan,Bosnia and Herzegovina,1507,1560,2,1,17,-17,1524,1543,65,67,5,-1,70,66,30,0,-53
+635,Jul 1 2001,World Cup qualifier in Burkina Faso,Burkina Faso,South Africa,1416,1667,1,1,8,-8,1424,1659,93,52,4,-3,97,49,40,100,-151
+636,Jul 1 2001,World Cup qualifier in Cameroon,Cameroon,Togo,1713,1495,2,0,8,-8,1721,1487,32,83,1,-2,33,81,40,100,318
+637,Jul 1 2001,World Cup qualifier in Honduras,Honduras,Costa Rica,1710,1648,2,3,-29,29,1681,1677,51,37,-8,7,43,44,40,100,162
+638,Jul 1 2001,World Cup qualifier in Ivory Coast,Ivory Coast,Madagascar,1641,1336,6,0,8,-8,1649,1328,52,126,1,-2,53,124,40,100,405
+639,Jul 1 2001,Friendly tournament in Japan,Japan,Paraguay,1841,1886,2,0,19,-19,1860,1867,9,14,5,-1,14,13,30,100,55
+640,Jul 1 2001,World Cup qualifier in Liberia,Liberia,Ghana,1543,1497,1,2,-28,28,1515,1525,84,60,-9,9,75,69,40,100,146
+641,Jul 1 2001,Friendly in Malawi,Malawi,Swaziland,1266,1192,2,2,-5,5,1261,1197,141,155,-1,1,140,156,20,100,174
+642,Jul 1 2001,World Cup qualifier in Mexico,Mexico,United States,1662,1834,1,0,24,-24,1686,1810,35,21,6,0,41,21,40,100,-72
+643,Jul 1 2001,World Cup qualifier in Sudan,Sudan,Nigeria,1387,1688,0,4,-18,18,1369,1706,122,31,-5,5,117,36,40,100,-201
+644,Jul 1 2001,World Cup qualifier in Tunisia,Tunisia,Congo,1644,1390,6,0,10,-10,1654,1380,48,119,2,-5,50,114,40,100,354
+645,Jul 1 2001,World Cup qualifier in Uruguay,Uruguay,Brazil,1770,1917,1,0,23,-23,1793,1894,23,11,2,-2,25,9,40,100,-47
+646,Jul 2 2001,Friendly in the United States,Ecuador,El Salvador,1773,1495,1,0,3,-3,1776,1492,27,81,0,-1,27,80,20,0,278
+647,Jul 3 2001,Baltic Cup in Latvia,Latvia,Estonia,1394,1383,3,1,16,-16,1410,1367,100,121,3,-4,103,117,30,100,111
+648,Jul 4 2001,Friendly tournament in Japan,Japan,Yugoslavia,1860,1835,1,0,10,-10,1870,1825,12,20,1,0,13,20,30,100,125
+649,Jul 4 2001,Baltic Cup in Latvia,Lithuania,Estonia,1410,1367,5,2,23,-23,1433,1344,87,123,8,-3,95,120,30,0,43
+650,Jul 5 2001,Baltic Cup in Latvia,Latvia,Lithuania,1410,1433,4,1,21,-21,1431,1412,86,113,9,-9,95,104,30,100,77
+651,Jul 7 2001,Friendly in the United States,Ecuador,Honduras,1776,1681,1,1,-3,3,1773,1684,27,43,0,0,27,43,20,0,95
+652,Jul 8 2001,COSAFA Cup in Zimbabwe,Zimbabwe,Swaziland,1445,1197,2,1,5,-5,1450,1192,90,158,1,-1,91,157,40,100,348
+653,Jul 10 2001,Friendly in Singapore,Singapore,Saudi Arabia,1233,1709,0,3,-4,4,1229,1713,152,35,-1,0,151,35,20,100,-376
+654,Jul 11 2001,Copa América in Colombia,Chile,Ecuador,1644,1773,4,1,59,-59,1703,1714,20,41,17,-7,37,34,50,0,-129
+655,Jul 11 2001,Copa América in Colombia,Colombia,Venezuela,1778,1415,2,0,5,-5,1783,1410,26,105,0,-1,26,104,30,0,363
+656,Jul 12 2001,Island Games in the United Kingdom,Greenland,Falkland Islands,1001,600,4,0,7,-7,1008,593,187,222,0,0,187,222,40,0,401
+657,Jul 12 2001,Copa América in Colombia,Mexico,Brazil,1686,1894,1,0,38,-38,1724,1856,20,17,11,-4,31,13,50,0,-208
+658,Jul 12 2001,Copa América in Colombia,Paraguay,Peru,1867,1686,3,3,-12,12,1855,1698,14,36,0,3,14,39,50,0,181
+659,Jul 13 2001,Copa América in Colombia,Costa Rica,Honduras,1677,1684,1,0,26,-26,1703,1658,31,56,7,-6,38,50,50,0,-7
+660,Jul 13 2001,World Cup qualifier in Egypt,Egypt,Namibia,1651,1291,8,2,6,-6,1657,1285,49,135,2,-1,51,134,40,100,460
+661,Jul 13 2001,Copa América in Colombia,Uruguay,Bolivia,1793,1598,1,0,12,-12,1805,1586,21,63,2,-2,23,61,50,0,195
+662,Jul 14 2001,Copa América in Colombia,Chile,Venezuela,1703,1410,1,0,8,-8,1711,1402,34,108,2,-2,36,106,50,0,293
+663,Jul 14 2001,Copa América in Colombia,Colombia,Ecuador,1783,1714,1,0,14,-14,1797,1700,26,43,0,-4,26,39,50,100,169
+664,Jul 14 2001,Friendly in Germany,Monaco,Tibet,900,680,2,1,4,-4,904,676,193,218,0,0,193,218,20,0,220
+665,Jul 14 2001,World Cup qualifier in Senegal,Senegal,Morocco,1516,1695,1,0,24,-24,1540,1671,60,51,7,-5,67,46,40,100,-79
+666,Jul 14 2001,World Cup qualifier in Sierra Leone,Sierra Leone,Liberia,1333,1515,0,1,-15,15,1318,1530,125,61,-1,7,124,68,40,100,-82
+667,Jul 14 2001,World Cup qualifier in South Africa,South Africa,Malawi,1659,1261,2,0,3,-3,1662,1258,47,144,1,-2,48,142,20,0,398
+668,Jul 14 2001,World Cup qualifier in Zambia,Zambia,Cameroon,1462,1721,2,2,9,-9,1471,1712,83,37,1,-2,84,35,30,0,-259
+669,Jul 15 2001,Copa América in Colombia,Brazil,Peru,1856,1698,2,0,22,-22,1878,1676,9,48,2,-4,11,44,50,0,158
+670,Jul 15 2001,World Cup qualifier in Congo,Congo,Ivory Coast,1380,1649,1,1,9,-9,1389,1640,107,54,3,0,110,54,40,100,-169
+671,Jul 15 2001,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Tunisia,1443,1654,0,3,-24,24,1419,1678,105,34,-6,9,99,43,40,100,-111
+672,Jul 15 2001,World Cup qualifier in Ghana,Ghana,Sudan,1525,1369,1,0,7,-7,1532,1362,65,118,3,-1,68,117,40,100,256
+673,Jul 15 2001,Copa América in Colombia,Mexico,Paraguay,1724,1855,0,0,9,-9,1733,1846,27,18,2,-2,29,16,50,0,-131
+674,Jul 15 2001,World Cup qualifier in Togo,Togo,Libya,1487,1388,2,0,14,-14,1501,1374,75,118,3,-4,78,114,40,100,199
+675,Jul 15 2001,World Cup qualifier in Zimbabwe,Zimbabwe,Burkina Faso,1450,1424,1,0,13,-13,1463,1411,81,108,5,-5,86,103,40,100,126
+676,Jul 16 2001,Copa América in Colombia,Costa Rica,Uruguay,1703,1805,1,1,7,-7,1710,1798,36,27,1,-2,37,25,50,0,-102
+677,Jul 16 2001,Copa América in Colombia,Honduras,Bolivia,1658,1586,2,0,30,-30,1688,1556,35,69,8,-4,43,65,50,0,72
+678,Jul 17 2001,Copa América in Colombia,Colombia,Chile,1797,1711,2,0,19,-19,1816,1692,16,44,5,-4,21,40,50,100,186
+679,Jul 17 2001,Copa América in Colombia,Ecuador,Venezuela,1700,1402,4,0,14,-14,1714,1388,29,114,5,-4,34,110,50,0,298
+680,Jul 18 2001,Copa América in Colombia,Brazil,Paraguay,1878,1846,3,1,34,-34,1912,1812,5,26,3,-5,8,21,50,0,32
+681,Jul 18 2001,Copa América in Colombia,Peru,Mexico,1676,1733,1,0,29,-29,1705,1704,31,49,7,-10,38,39,50,0,-57
+682,Jul 19 2001,Copa América in Colombia,Costa Rica,Bolivia,1710,1556,4,0,27,-27,1737,1529,22,73,7,-4,29,69,50,0,154
+683,Jul 19 2001,Copa América in Colombia,Honduras,Uruguay,1688,1798,1,0,33,-33,1721,1765,22,26,11,0,33,26,50,0,-110
+684,Jul 19 2001,Friendly in Malaysia,Malaysia,Saudi Arabia,1282,1713,0,4,-5,5,1277,1718,138,36,-1,-1,137,35,20,100,-331
+685,Jul 20 2001,Friendly in Cuba,Cuba,Jamaica,1428,1614,0,0,2,-2,1430,1612,95,56,0,0,95,56,20,100,-86
+686,Jul 21 2001,World Cup qualifier in Algeria,Algeria,Egypt,1526,1657,1,1,2,-2,1528,1655,71,50,0,1,71,51,40,100,-31
+687,Jul 21 2001,COSAFA Cup in Malawi,Malawi,South Africa,1258,1662,1,0,34,-34,1292,1628,120,60,11,-5,131,55,40,100,-304
+688,Jul 21 2001,World Cup qualifier in Namibia,Namibia,Senegal,1285,1540,0,5,-23,23,1262,1563,146,62,-6,2,140,64,40,100,-155
+689,Jul 22 2001,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Iran,1543,1723,2,2,2,-2,1545,1721,66,32,0,0,66,32,20,100,-80
+690,Jul 22 2001,Copa América in Colombia,Mexico,Chile,1704,1692,2,0,36,-36,1740,1656,18,58,11,-8,29,50,50,0,12
+691,Jul 22 2001,Copa América in Colombia,Uruguay,Costa Rica,1765,1737,2,1,23,-23,1788,1714,26,43,0,-7,26,36,50,0,28
+692,Jul 23 2001,Copa América in Colombia,Colombia,Peru,1816,1705,3,0,20,-20,1836,1685,18,46,1,-3,19,43,50,100,211
+693,Jul 23 2001,Copa América in Colombia,Honduras,Brazil,1721,1912,2,0,56,-56,1777,1856,22,18,5,-5,27,13,50,0,-191
+694,Jul 23 2001,Friendly in Malaysia,Saudi Arabia,North Korea,1718,1457,1,0,4,-4,1722,1453,31,90,2,-1,33,89,20,0,261
+695,Jul 24 2001,Friendly in France,Qatar,Macedonia,1583,1517,1,0,8,-8,1591,1509,57,77,2,-1,59,76,20,0,66
+696,Jul 25 2001,Copa América in Colombia,Mexico,Uruguay,1740,1788,2,1,28,-28,1768,1760,24,30,3,-2,27,28,50,0,-48
+697,Jul 26 2001,Copa América in Colombia,Colombia,Honduras,1836,1777,2,0,21,-21,1857,1756,7,30,6,-2,13,28,50,100,159
+698,Jul 27 2001,Friendly tournament in Saint Kitts and Nevis,Jamaica,Martinique,1612,1418,0,0,-8,8,1604,1426,60,92,-2,4,58,96,30,0,194
+699,Jul 27 2001,World Cup qualifier in Libya,Libya,Zambia,1374,1471,2,4,-30,30,1344,1501,124,72,-5,6,119,78,40,100,3
+700,Jul 28 2001,Copa América in Colombia,Honduras,Uruguay,1756,1760,2,2,0,0,1756,1760,28,27,0,0,28,27,20,0,-4
+701,Jul 28 2001,World Cup qualifier in Malawi,Malawi,Zimbabwe,1292,1463,0,1,-16,16,1276,1479,145,82,-7,2,138,84,40,100,-71
+702,Jul 28 2001,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Martinique,1302,1426,4,2,24,-24,1326,1402,118,114,6,-9,124,105,30,100,-24
+703,Jul 29 2001,World Cup qualifier in Angola,Angola,Togo,1524,1501,1,1,-7,7,1517,1508,76,78,-2,0,74,78,40,100,123
+704,Jul 29 2001,Copa América in Colombia,Colombia,Mexico,1857,1768,1,0,13,-13,1870,1755,11,30,1,-2,12,28,50,100,189
+705,Jul 29 2001,World Cup qualifier in Ivory Coast,Ivory Coast,DR Congo,1640,1419,1,2,-35,35,1605,1454,61,79,-4,10,57,89,40,100,321
+706,Jul 29 2001,World Cup qualifier in Madagascar,Madagascar,Congo,1328,1389,1,0,18,-18,1346,1371,113,119,5,-5,118,114,30,0,-61
+707,Jul 29 2001,World Cup qualifier in Nigeria,Nigeria,Ghana,1706,1532,3,0,12,-12,1718,1520,33,79,3,-6,36,73,40,100,274
+708,Jul 29 2001,Friendly in Oman,Oman,Iraq,1377,1591,1,0,13,-13,1390,1578,103,65,5,-3,108,62,20,100,-114
+709,Jul 29 2001,CONCACAF Champ qual in Panama,Panama,Cuba,1417,1430,0,0,-5,5,1412,1435,100,95,0,0,100,95,40,100,87
+710,Jul 29 2001,World Cup qualifier in Sudan,Sudan,Sierra Leone,1362,1318,3,0,21,-21,1383,1297,110,135,3,-5,113,130,40,100,144
+711,Jul 30 2001,Friendly tournament in Saint Kitts and Nevis,Saint Kitts and Nevis,Jamaica,1326,1604,0,0,7,-7,1333,1597,124,58,0,0,124,58,20,0,-278
+712,Aug 1 2001,Friendly in Grenada,Grenada,Jamaica,1284,1597,2,0,23,-23,1307,1574,124,68,5,-5,129,63,20,100,-213
+713,Aug 1 2001,Friendly in Qatar,Qatar,Iran,1591,1721,2,1,11,-11,1602,1710,57,44,1,-5,58,39,20,100,-30
+714,Aug 1 2001,Friendly in Saudi Arabia,Saudi Arabia,Macedonia,1722,1509,1,1,-7,7,1715,1516,37,74,-2,1,35,75,20,100,313
+715,Aug 2 2001,Friendly in the United Arab Emirates,United Arab Emirates,Iraq,1446,1578,2,2,1,-1,1447,1577,93,61,0,0,93,61,20,100,-32
+716,Aug 3 2001,Friendly tournament in China,China,North Korea,1695,1453,2,2,-11,11,1684,1464,46,84,-3,3,43,87,30,100,342
+717,Aug 3 2001,Friendly tournament in China,Kuwait,Trinidad and Tobago,1587,1579,1,1,0,0,1587,1579,59,60,0,0,59,60,20,0,8
+718,Aug 4 2001,Friendly in the United States,Colombia,Liberia,1870,1530,2,1,2,-2,1872,1528,12,71,0,-2,12,69,20,0,340
+719,Aug 5 2001,Friendly tournament in China,China,Trinidad and Tobago,1684,1579,3,0,12,-12,1696,1567,37,66,3,-3,40,63,20,0,105
+720,Aug 5 2001,CONCACAF Champ qual in Cuba,Cuba,Panama,1435,1412,1,0,13,-13,1448,1399,91,110,2,-5,93,105,40,100,123
+721,Aug 5 2001,Friendly tournament in China,Kuwait,North Korea,1587,1464,1,1,-5,5,1582,1469,59,85,0,1,59,86,30,0,123
+722,Aug 5 2001,Friendly in Saudi Arabia,Saudi Arabia,Qatar,1715,1602,1,2,-15,15,1700,1617,43,52,-4,3,39,55,20,100,213
+723,Aug 8 2001,Friendly tournament in Iran,Iran,Oman,1710,1390,5,2,4,-4,1714,1386,32,116,3,-4,35,112,30,100,420
+724,Aug 8 2001,Friendly in Qatar,Saudi Arabia,United Arab Emirates,1700,1447,1,0,4,-4,1704,1443,39,94,0,0,39,94,20,0,253
+725,Aug 9 2001,Friendly in Brazil,Brazil,Panama,1856,1399,5,0,2,-2,1858,1397,14,105,0,0,14,105,20,100,557
+726,Aug 10 2001,Friendly tournament in Iran,Iran,Bosnia and Herzegovina,1714,1545,4,0,10,-10,1724,1535,31,66,2,0,33,66,20,0,169
+727,Aug 10 2001,Friendly in Qatar,Qatar,Bahrain,1617,1394,1,1,-7,7,1610,1401,55,104,0,1,55,105,20,100,323
+728,Aug 13 2001,Friendly in Singapore,Singapore,Thailand,1229,1512,0,5,-10,10,1219,1522,151,70,0,3,151,73,20,100,-183
+729,Aug 14 2001,World Cup qualifier in Chile,Chile,Bolivia,1656,1529,2,2,-11,11,1645,1540,54,65,-2,1,52,66,40,100,227
+730,Aug 14 2001,World Cup qualifier in Venezuela,Venezuela,Uruguay,1388,1760,2,0,50,-50,1438,1710,81,50,14,-12,95,38,40,100,-272
+731,Aug 15 2001,Friendly in Austria,Austria,Switzerland,1727,1672,1,2,-14,14,1713,1686,39,38,-4,4,35,42,20,100,155
+732,Aug 15 2001,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Malta,1535,1210,2,0,2,-2,1537,1208,67,155,0,-1,67,154,20,100,425
+733,Aug 15 2001,World Cup qualifier in Brazil,Brazil,Paraguay,1858,1812,2,0,18,-18,1876,1794,10,27,2,-3,12,24,40,100,146
+734,Aug 15 2001,Friendly in Bulgaria,Bulgaria,Macedonia,1721,1516,1,0,3,-3,1724,1513,31,76,1,0,32,76,20,100,305
+735,Aug 15 2001,Friendly in Czechia,Czechia,South Korea,1890,1807,5,0,10,-10,1900,1797,6,21,2,1,8,22,20,100,183
+736,Aug 15 2001,World Cup qualifier in Ecuador,Ecuador,Argentina,1714,2011,0,2,-15,15,1699,2026,43,3,-4,0,39,3,40,100,-197
+737,Aug 15 2001,Friendly in England,England,Netherlands,1914,2005,0,2,-15,15,1899,2020,11,4,-2,0,9,4,20,100,9
+738,Aug 15 2001,World Cup qualifier in Estonia,Estonia,Cyprus,1344,1509,2,2,4,-4,1348,1505,116,79,2,-1,118,78,20,0,-165
+739,Aug 15 2001,Friendly in Finland,Finland,Belgium,1629,1799,4,1,21,-21,1650,1778,49,25,2,0,51,25,20,100,-70
+740,Aug 15 2001,Friendly in France,France,Denmark,2134,1855,1,0,2,-2,2136,1853,1,15,0,0,1,15,20,100,379
+741,Aug 15 2001,Friendly in Hungary,Hungary,Germany,1653,1911,2,5,-10,10,1643,1921,55,6,-2,1,53,7,20,100,-158
+742,Aug 15 2001,Friendly in Iceland,Iceland,Poland,1609,1800,1,1,3,-3,1612,1797,54,20,1,2,55,22,20,100,-91
+743,Aug 15 2001,Friendly in Ireland,Ireland,Croatia,1844,1891,2,2,-2,2,1842,1893,17,13,0,-2,17,11,20,100,53
+744,Aug 15 2001,AFC-OFC Challenge Cup in Japan,Japan,Australia,1870,1875,3,0,26,-26,1896,1849,7,21,3,-5,10,16,40,100,95
+745,Aug 15 2001,Friendly in Latvia,Latvia,Ukraine,1431,1661,0,1,-6,6,1425,1667,97,49,0,0,97,49,20,100,-130
+746,Aug 15 2001,Friendly in Lithuania,Lithuania,Israel,1412,1670,2,3,-6,6,1406,1676,105,46,-2,1,103,47,20,100,-158
+747,Aug 15 2001,Friendly in Luxembourg,Luxembourg,Georgia,1134,1529,0,3,-5,5,1129,1534,166,68,0,0,166,68,20,100,-295
+748,Aug 15 2001,Friendly in Norway,Norway,Turkey,1745,1729,1,1,-3,3,1742,1732,29,32,0,-1,29,31,20,100,116
+749,Aug 15 2001,Friendly in Portugal,Portugal,Moldova,2002,1403,3,0,1,-1,2003,1402,5,104,0,0,5,104,20,0,599
+750,Aug 15 2001,Friendly in Russia,Russia,Greece,1842,1674,0,0,-6,6,1836,1680,20,43,-1,1,19,44,20,100,268
+751,Aug 15 2001,Friendly in Slovakia,Slovakia,Iran,1690,1724,3,4,-12,12,1678,1736,49,28,-4,2,45,30,20,100,66
+752,Aug 15 2001,Friendly in Slovenia,Slovenia,Romania,1690,1842,2,2,1,-1,1691,1841,41,18,0,0,41,18,20,100,-52
+753,Aug 15 2001,Friendly in Sweden,Sweden,South Africa,1851,1628,3,0,5,-5,1856,1623,12,54,2,0,14,54,20,100,323
+754,Aug 15 2001,World Cup qualifier in Yugoslavia,Yugoslavia,Faroe Islands,1825,1243,2,0,1,-1,1826,1242,20,148,0,-1,20,147,20,0,582
+755,Aug 16 2001,World Cup qualifier in Colombia,Colombia,Peru,1872,1685,0,1,-34,34,1838,1719,23,23,-5,10,18,33,40,100,287
+756,Aug 16 2001,World Cup qualifier in Qatar,Qatar,Oman,1610,1386,0,0,-15,15,1595,1401,60,100,-2,6,58,106,40,100,324
+757,Aug 17 2001,World Cup qualifier in Iraq,Iraq,Thailand,1577,1522,4,0,22,-22,1599,1500,56,83,2,-5,58,78,40,100,155
+758,Aug 17 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Bahrain,1704,1401,1,1,-16,16,1688,1417,45,96,-3,5,42,101,40,100,403
+759,Aug 17 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Uzbekistan,1443,1524,4,1,33,-33,1476,1491,78,93,8,-11,86,82,40,100,19
+760,Aug 18 2001,COSAFA Cup in Zambia,Zambia,Angola,1501,1517,1,1,-5,5,1496,1522,81,71,-2,1,79,72,40,100,84
+761,Aug 23 2001,World Cup qualifier in Bahrain,Bahrain,Iraq,1417,1599,2,0,37,-37,1454,1562,81,70,10,-6,91,64,40,100,-82
+762,Aug 23 2001,Friendly in Mexico,Mexico,Liberia,1755,1528,5,4,3,-3,1758,1525,25,71,1,-1,26,70,20,100,327
+763,Aug 24 2001,World Cup qualifier in Iran,Iran,Saudi Arabia,1736,1688,2,0,18,-18,1754,1670,26,54,2,-6,28,48,40,100,148
+764,Aug 25 2001,World Cup qualifier in China,China,United Arab Emirates,1696,1476,3,0,10,-10,1706,1466,38,90,1,-2,39,88,40,100,320
+765,Aug 25 2001,COSAFA Cup in Malawi,Malawi,Zimbabwe,1276,1479,0,2,-21,21,1255,1500,148,70,-5,7,143,77,40,100,-103
+766,Aug 26 2001,World Cup qualifier in Uzbekistan,Uzbekistan,Qatar,1491,1595,2,1,20,-20,1511,1575,67,62,8,-2,75,60,40,100,-4
+767,Aug 31 2001,World Cup qualifier in Oman,Oman,China,1401,1706,0,2,-14,14,1387,1720,113,27,-3,6,110,33,40,100,-205
+768,Aug 31 2001,World Cup qualifier in Bahrain,Saudi Arabia,Iraq,1670,1562,1,0,14,-14,1684,1548,38,66,5,-1,43,65,40,0,108
+769,Aug 31 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Qatar,1466,1575,0,2,-29,29,1437,1604,104,56,-8,2,96,58,40,100,-9
+770,Sep 1 2001,World Cup qualifier in Albania,Albania,Finland,1498,1650,0,2,-26,26,1472,1676,88,41,-4,5,84,46,40,100,-52
+771,Sep 1 2001,World Cup qualifier in Belarus,Belarus,Ukraine,1487,1667,0,2,-23,23,1464,1690,90,35,-3,7,87,42,40,100,-80
+772,Sep 1 2001,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Israel,1537,1676,0,0,2,-2,1539,1674,69,47,-1,0,68,47,30,100,-39
+773,Sep 1 2001,Friendly in Chile,Chile,France,1645,2136,2,1,18,-18,1663,2118,48,1,2,0,50,1,20,100,-391
+774,Sep 1 2001,World Cup qualifier in Denmark,Denmark,Northern Ireland,1853,1479,1,1,-18,18,1835,1497,24,75,-5,5,19,80,40,100,474
+775,Sep 1 2001,World Cup qualifier in the Faroe Islands,Faroe Islands,Luxembourg,1242,1129,1,0,9,-9,1251,1120,141,172,3,-3,144,169,40,100,213
+776,Sep 1 2001,World Cup qualifier in Georgia,Georgia,Hungary,1534,1643,3,1,31,-31,1565,1612,56,57,6,-2,62,55,40,100,-9
+777,Sep 1 2001,World Cup qualifier in Germany,Germany,England,1921,1899,1,5,-50,50,1871,1949,15,5,-4,2,11,7,40,100,122
+778,Sep 1 2001,World Cup qualifier in Iceland,Iceland,Czechia,1612,1900,3,1,45,-45,1657,1855,47,20,4,-6,51,14,40,100,-188
+779,Sep 1 2001,World Cup qualifier in Ireland,Ireland,Netherlands,1842,2020,1,0,24,-24,1866,1996,8,6,4,-1,12,5,40,100,-78
+780,Sep 1 2001,World Cup qualifier in Lithuania,Lithuania,Italy,1406,2031,0,0,18,-18,1424,2013,98,4,3,-1,101,3,40,100,-525
+781,Sep 1 2001,World Cup qualifier in Macedonia,Macedonia,Sweden,1513,1856,1,2,-8,8,1505,1864,80,13,-3,0,77,13,40,100,-243
+782,Sep 1 2001,World Cup qualifier in Malta,Malta,Bulgaria,1208,1724,0,2,-5,5,1203,1729,156,32,-1,0,155,32,40,100,-416
+783,Sep 1 2001,World Cup qualifier in Moldova,Moldova,Azerbaijan,1402,1311,2,0,15,-15,1417,1296,101,135,2,-4,103,131,40,100,191
+784,Sep 1 2001,World Cup qualifier in Poland,Poland,Norway,1797,1742,3,0,20,-20,1817,1722,18,36,2,-3,20,33,40,100,155
+785,Sep 1 2001,World Cup qualifier in Spain,Portugal,Andorra,2003,1051,7,1,0,0,2003,1051,3,183,1,0,4,183,20,0,952
+786,Sep 1 2001,World Cup qualifier in Scotland,Scotland,Croatia,1746,1893,0,0,3,-3,1749,1890,29,7,0,2,29,9,40,100,-47
+787,Sep 1 2001,World Cup qualifier in Slovakia,Slovakia,Turkey,1678,1732,0,1,-23,23,1655,1755,59,25,-7,3,52,28,40,100,46
+788,Sep 1 2001,World Cup qualifier in Slovenia,Slovenia,Russia,1691,1836,2,1,23,-23,1714,1813,33,23,4,-2,37,21,40,100,-45
+789,Sep 1 2001,World Cup qualifier in Spain,Spain,Austria,1952,1713,4,0,9,-9,1961,1704,6,43,0,-3,6,40,40,100,339
+790,Sep 1 2001,World Cup qualifier in Switzerland,Switzerland,Yugoslavia,1686,1826,1,2,-18,18,1668,1844,56,12,-7,4,49,16,40,100,-40
+791,Sep 1 2001,World Cup qualifier in Thailand,Thailand,Iran,1500,1754,0,0,8,-8,1508,1746,72,32,3,-2,75,30,40,100,-154
+792,Sep 1 2001,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Costa Rica,1567,1714,0,2,-26,26,1541,1740,70,26,-4,5,66,31,40,100,-47
+793,Sep 1 2001,World Cup qualifier in the United States,United States,Honduras,1810,1756,2,3,-28,28,1782,1784,29,21,-4,3,25,24,40,100,154
+794,Sep 1 2001,World Cup qualifier in Wales,Wales,Armenia,1557,1422,0,0,-12,12,1545,1434,66,96,-1,2,65,98,40,100,235
+795,Sep 2 2001,World Cup qualifier in Jamaica,Jamaica,Mexico,1574,1758,1,2,-15,15,1559,1773,65,27,-2,0,63,27,40,100,-84
+796,Sep 4 2001,World Cup qualifier in Chile,Chile,Venezuela,1663,1438,0,2,-52,52,1611,1490,60,73,-5,11,55,84,40,100,325
+797,Sep 4 2001,World Cup qualifier in Peru,Peru,Uruguay,1719,1710,0,2,-39,39,1680,1749,51,19,-8,10,43,29,40,100,109
+798,Sep 5 2001,World Cup qualifier in Argentina,Argentina,Brazil,2026,1876,2,1,8,-8,2034,1868,2,14,0,-2,2,12,40,100,250
+799,Sep 5 2001,World Cup qualifier in Austria,Austria,Bosnia and Herzegovina,1704,1539,2,0,11,-11,1715,1528,35,70,2,-1,37,69,40,100,265
+800,Sep 5 2001,World Cup qualifier in Azerbaijan,Azerbaijan,Macedonia,1296,1505,1,1,6,-6,1302,1499,129,83,1,-3,130,80,40,100,-109
+801,Sep 5 2001,World Cup qualifier in Belarus,Belarus,Poland,1464,1817,4,1,57,-57,1521,1760,60,34,14,-7,74,27,40,100,-253
+802,Sep 5 2001,World Cup qualifier in Belgium,Belgium,Scotland,1778,1749,2,0,19,-19,1797,1730,18,35,4,-3,22,32,40,100,129
+803,Sep 5 2001,World Cup qualifier in Bulgaria,Bulgaria,Denmark,1729,1835,0,2,-29,29,1700,1864,49,9,-8,5,41,14,40,100,-6
+804,Sep 5 2001,World Cup qualifier in Colombia,Colombia,Ecuador,1838,1699,0,0,-12,12,1826,1711,20,38,-1,1,19,39,40,100,239
+805,Sep 5 2001,World Cup qualifier in Costa Rica,Costa Rica,United States,1740,1782,2,0,25,-25,1765,1757,20,31,6,-3,26,28,30,0,-42
+806,Sep 5 2001,World Cup qualifier in Cyprus,Cyprus,Portugal,1505,2003,1,3,-6,6,1499,2009,83,4,-3,0,80,4,40,100,-398
+807,Sep 5 2001,World Cup qualifier in Czechia,Czechia,Malta,1855,1203,3,2,1,-1,1856,1202,18,155,-2,0,16,155,30,0,652
+808,Sep 5 2001,World Cup qualifier in England,England,Albania,1949,1472,2,0,2,-2,1951,1470,7,87,0,-1,7,86,20,0,477
+809,Sep 5 2001,World Cup qualifier in the Faroe Islands,Faroe Islands,Russia,1251,1813,0,3,-5,5,1246,1818,146,19,-1,1,145,20,40,100,-462
+810,Sep 5 2001,World Cup qualifier in Finland,Finland,Greece,1676,1680,5,1,27,-27,1703,1653,34,59,6,-8,40,51,40,100,96
+811,Sep 5 2001,World Cup qualifier in Georgia,Georgia,Lithuania,1565,1424,2,0,12,-12,1577,1412,59,103,1,-1,60,102,40,100,241
+812,Sep 5 2001,World Cup qualifier in Honduras,Honduras,Jamaica,1784,1559,1,0,5,-5,1789,1554,24,63,0,0,24,63,40,100,325
+813,Sep 5 2001,World Cup qualifier in Hungary,Hungary,Romania,1612,1841,0,2,-19,19,1593,1860,62,13,-4,2,58,15,40,100,-129
+814,Sep 5 2001,Friendly in Italy,Italy,Morocco,2013,1671,1,0,1,-1,2014,1670,3,48,0,0,3,48,20,100,442
+815,Sep 5 2001,World Cup qualifier in Liechtenstein,Liechtenstein,Spain,1058,1961,0,2,-1,1,1057,1962,180,6,0,0,180,6,40,100,-803
+816,Sep 5 2001,World Cup qualifier in Luxembourg,Luxembourg,Switzerland,1120,1668,0,3,-5,5,1115,1673,169,45,0,2,169,47,40,100,-448
+817,Sep 5 2001,World Cup qualifier in Mexico,Mexico,Trinidad and Tobago,1773,1541,3,0,9,-9,1782,1532,23,68,2,-1,25,67,40,100,332
+818,Sep 5 2001,World Cup qualifier in the Netherlands,Netherlands,Estonia,1996,1348,5,0,1,-1,1997,1347,5,118,0,0,5,118,20,0,648
+819,Sep 5 2001,World Cup qualifier in Norway,Norway,Wales,1722,1545,3,2,7,-7,1729,1538,32,65,1,0,33,65,40,100,277
+820,Sep 5 2001,World Cup qualifier in Northern Ireland,Northern Ireland,Iceland,1497,1657,3,0,41,-41,1538,1616,50,56,15,-3,65,53,40,100,-60
+821,Sep 5 2001,World Cup qualifier in Paraguay,Paraguay,Bolivia,1794,1540,5,1,9,-9,1803,1531,19,69,2,-1,21,68,40,100,354
+822,Sep 5 2001,World Cup qualifier in San Marino,San Marino,Croatia,954,1890,0,4,-1,1,953,1891,191,9,0,0,191,9,40,100,-836
+823,Sep 5 2001,World Cup qualifier in Slovakia,Slovakia,Moldova,1655,1417,4,2,8,-8,1663,1409,47,107,2,-2,49,105,40,100,338
+824,Sep 5 2001,World Cup qualifier in Turkey,Turkey,Sweden,1755,1864,1,2,-19,19,1736,1883,34,7,-3,3,31,10,40,100,-9
+825,Sep 5 2001,World Cup qualifier in Ukraine,Ukraine,Armenia,1690,1434,3,0,8,-8,1698,1426,43,98,-1,0,42,98,40,100,356
+826,Sep 5 2001,World Cup qualifier in Yugoslavia,Yugoslavia,Slovenia,1844,1714,1,1,-12,12,1832,1726,20,31,-2,3,18,34,40,100,230
+827,Sep 6 2001,World Cup qualifier in Bahrain,Bahrain,Thailand,1454,1508,1,1,-3,3,1451,1511,93,75,-1,1,92,76,40,100,46
+828,Sep 7 2001,World Cup qualifier in Iraq,Iraq,Iran,1548,1746,1,2,-15,15,1533,1761,68,24,-2,3,66,27,40,100,-98
+829,Sep 7 2001,World Cup qualifier in Qatar,Qatar,China,1604,1720,1,1,1,-1,1605,1719,55,35,1,0,56,35,30,100,-16
+830,Sep 7 2001,Friendly in Saudi Arabia,Saudi Arabia,United Arab Emirates,1684,1437,0,2,-26,26,1658,1463,55,82,-6,7,49,89,20,100,347
+831,Sep 8 2001,World Cup qualifier in Uzbekistan,Uzbekistan,Oman,1511,1387,5,0,17,-17,1528,1370,62,120,7,-5,69,115,40,100,224
+832,Sep 13 2001,Friendly in South Korea,South Korea,Nigeria,1797,1718,2,2,-5,5,1792,1723,24,34,-1,1,23,35,20,100,179
+833,Sep 14 2001,World Cup qualifier in Iran,Iran,Bahrain,1761,1451,0,0,-17,17,1744,1468,33,83,-3,5,30,88,40,100,410
+834,Sep 14 2001,World Cup qualifier in Oman,Oman,United Arab Emirates,1370,1463,1,1,0,0,1370,1463,115,91,0,-1,115,90,20,100,7
+835,Sep 14 2001,Friendly in Qatar,Qatar,Iraq,1605,1533,0,0,-5,5,1600,1538,58,62,-1,2,57,64,20,100,172
+836,Sep 15 2001,World Cup qualifier in China,China,Uzbekistan,1719,1528,2,0,9,-9,1728,1519,32,83,2,-7,34,76,40,100,291
+837,Sep 15 2001,World Cup qualifier in Thailand,Thailand,Saudi Arabia,1511,1658,1,3,-26,26,1485,1684,93,37,-8,6,85,43,40,100,-47
+838,Sep 16 2001,COSAFA Cup in Angola,Angola,Zimbabwe,1522,1500,0,0,-7,7,1515,1507,79,78,-3,0,76,78,40,100,122
+839,Sep 16 2001,Friendly in South Korea,South Korea,Nigeria,1792,1723,2,1,5,-5,1797,1718,21,36,1,0,22,36,20,100,169
+840,Sep 21 2001,World Cup qualifier in Bahrain,Bahrain,Saudi Arabia,1468,1684,0,4,-25,25,1443,1709,104,37,-8,3,96,40,40,100,-116
+841,Sep 21 2001,World Cup qualifier in Oman,Oman,Qatar,1370,1600,0,3,-22,22,1348,1622,119,49,-2,4,117,53,40,100,-130
+842,Sep 22 2001,World Cup qualifier in Thailand,Thailand,Iraq,1485,1538,1,1,-3,3,1482,1541,87,64,-1,0,86,64,40,100,47
+843,Sep 22 2001,World Cup qualifier in Uzbekistan,Uzbekistan,United Arab Emirates,1519,1463,0,1,-28,28,1491,1491,91,77,-8,6,83,83,40,100,156
+844,Sep 27 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,China,1491,1728,0,1,-12,12,1479,1740,89,28,-3,3,86,31,40,100,-137
+845,Sep 28 2001,World Cup qualifier in Iraq,Iraq,Bahrain,1541,1443,1,0,10,-10,1551,1433,64,98,0,-1,64,97,40,100,198
+846,Sep 28 2001,World Cup qualifier in Qatar,Qatar,Uzbekistan,1622,1491,2,2,-12,12,1610,1503,57,73,-2,5,55,78,40,100,231
+847,Sep 28 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Iran,1709,1744,2,2,-4,4,1705,1748,40,30,0,0,40,30,40,100,65
+848,Sep 29 2001,Friendly in Thailand,Thailand,Oman,1482,1348,2,0,6,-6,1488,1342,85,127,0,-5,85,122,20,100,234
+849,Sep 30 2001,COSAFA Cup in Zimbabwe,Zimbabwe,Angola,1507,1515,0,1,-25,25,1482,1540,93,55,-8,10,85,65,40,100,92
+850,Oct 4 2001,World Cup qualifier in Qatar,Qatar,United Arab Emirates,1610,1479,1,2,-32,32,1578,1511,65,66,-5,10,60,76,40,100,231
+851,Oct 4 2001,Friendly in France,Senegal,Japan,1563,1896,2,0,26,-26,1589,1870,54,14,4,-3,58,11,20,0,-333
+852,Oct 5 2001,Friendly in Bahrain,Bahrain,Qatar,1433,1578,1,0,11,-11,1444,1567,95,64,1,-2,96,62,20,100,-45
+853,Oct 5 2001,World Cup qualifier in Iran,Iran,Thailand,1748,1488,1,0,4,-4,1752,1484,28,85,1,0,29,85,20,0,260
+854,Oct 5 2001,World Cup qualifier in Jordan,Saudi Arabia,Iraq,1705,1551,2,1,12,-12,1717,1539,34,66,3,-1,37,65,40,0,154
+855,Oct 6 2001,World Cup qualifier in Armenia,Armenia,Norway,1426,1729,1,4,-17,17,1409,1746,110,30,-6,2,104,32,40,100,-203
+856,Oct 6 2001,World Cup qualifier in Bolivia,Bolivia,Ecuador,1531,1711,1,5,-29,29,1502,1740,89,26,-10,7,79,33,40,100,-80
+857,Oct 6 2001,World Cup qualifier in Croatia,Croatia,Belgium,1891,1797,1,0,10,-10,1901,1787,8,26,0,-2,8,24,40,100,194
+858,Oct 6 2001,World Cup qualifier in Czechia,Czechia,Bulgaria,1856,1700,6,0,16,-16,1872,1684,6,44,5,-1,11,43,40,100,256
+859,Oct 6 2001,World Cup qualifier in Denmark,Denmark,Iceland,1864,1616,6,0,10,-10,1874,1606,6,55,4,-1,10,54,40,100,348
+860,Oct 6 2001,World Cup qualifier in England,England,Greece,1951,1653,2,2,-16,16,1935,1669,7,43,0,4,7,47,40,100,398
+861,Oct 6 2001,Friendly in France,France,Algeria,2118,1528,4,1,1,-1,2119,1527,1,72,0,-1,1,71,20,0,590
+862,Oct 6 2001,World Cup qualifier in Germany,Germany,Finland,1871,1703,0,0,-13,13,1858,1716,20,37,-5,2,15,39,40,100,268
+863,Oct 6 2001,World Cup qualifier in Ireland,Ireland,Cyprus,1866,1499,4,0,5,-5,1871,1494,11,85,1,-3,12,82,40,100,467
+864,Oct 6 2001,World Cup qualifier in Italy,Italy,Hungary,2014,1593,1,0,2,-2,2016,1591,3,59,0,-1,3,58,20,0,421
+865,Oct 6 2001,World Cup qualifier in Malta,Malta,Northern Ireland,1202,1538,0,1,-8,8,1194,1546,157,64,-1,1,156,65,40,100,-236
+866,Oct 6 2001,World Cup qualifier in Moldova,Moldova,Turkey,1409,1736,0,3,-15,15,1394,1751,109,26,-2,3,107,29,40,100,-227
+867,Oct 6 2001,World Cup qualifier in the Netherlands,Netherlands,Andorra,1997,1051,4,0,0,0,1997,1051,5,183,0,0,5,183,20,0,946
+868,Oct 6 2001,World Cup qualifier in Poland,Poland,Ukraine,1760,1698,1,1,-9,9,1751,1707,31,41,-2,1,29,42,40,100,162
+869,Oct 6 2001,World Cup qualifier in Portugal,Portugal,Estonia,2009,1347,5,0,1,-1,2010,1346,4,117,0,0,4,117,20,0,662
+870,Oct 6 2001,World Cup qualifier in Romania,Romania,Georgia,1860,1577,1,1,-16,16,1844,1593,19,54,-2,3,17,57,40,100,383
+871,Oct 6 2001,World Cup qualifier in Russia,Russia,Switzerland,1818,1673,4,0,15,-15,1833,1658,16,51,2,-2,18,49,40,100,245
+872,Oct 6 2001,World Cup qualifier in Scotland,Scotland,Latvia,1730,1425,2,1,4,-4,1734,1421,37,101,-2,-1,35,100,30,0,305
+873,Oct 6 2001,World Cup qualifier in Slovenia,Slovenia,Faroe Islands,1726,1246,3,0,2,-2,1728,1244,37,147,-1,-1,36,146,20,0,480
+874,Oct 6 2001,World Cup qualifier in Venezuela,Venezuela,Peru,1490,1680,3,0,44,-44,1534,1636,52,58,16,-7,68,51,40,100,-90
+875,Oct 6 2001,World Cup qualifier in Wales,Wales,Belarus,1538,1521,1,0,14,-14,1552,1507,62,80,2,-3,64,77,30,0,17
+876,Oct 6 2001,World Cup qualifier in Yugoslavia,Yugoslavia,Luxembourg,1832,1115,6,2,1,-1,1833,1114,18,171,0,-1,18,170,20,0,717
+877,Oct 7 2001,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Liechtenstein,1528,1057,5,0,3,-3,1531,1054,70,184,0,-2,70,182,40,100,571
+878,Oct 7 2001,World Cup qualifier in Brazil,Brazil,Chile,1868,1611,2,0,7,-7,1875,1604,6,59,4,-3,10,56,40,100,357
+879,Oct 7 2001,World Cup qualifier in China,China,Oman,1740,1342,1,0,2,-2,1742,1340,33,122,0,0,33,122,20,0,398
+880,Oct 7 2001,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1765,1782,0,0,-5,5,1760,1787,26,21,0,2,26,23,40,100,83
+881,Oct 7 2001,World Cup qualifier in Honduras,Honduras,Trinidad and Tobago,1789,1532,0,1,-35,35,1754,1567,31,55,-4,7,27,62,40,100,357
+882,Oct 7 2001,Friendly in England,Japan,Nigeria,1870,1718,2,2,-4,4,1866,1722,15,37,-1,0,14,37,20,0,152
+883,Oct 7 2001,World Cup qualifier in Macedonia,Macedonia,Slovakia,1499,1663,0,5,-33,33,1466,1696,98,38,-9,5,89,43,40,100,-64
+884,Oct 7 2001,World Cup qualifier in Paraguay,Paraguay,Argentina,1803,2034,2,2,7,-7,1810,2027,21,2,0,0,21,2,40,100,-131
+885,Oct 7 2001,World Cup qualifier in Sweden,Sweden,Azerbaijan,1883,1302,3,0,1,-1,1884,1301,9,130,0,0,9,130,20,0,581
+886,Oct 7 2001,World Cup qualifier in Uruguay,Uruguay,Colombia,1749,1826,1,1,-1,1,1748,1827,31,20,0,0,31,20,20,100,23
+887,Oct 7 2001,World Cup qualifier in the United States,United States,Jamaica,1757,1554,2,1,6,-6,1763,1548,23,67,2,-2,25,65,40,100,303
+888,Oct 12 2001,World Cup qualifier in Iran,Iran,Iraq,1752,1539,2,1,6,-6,1758,1533,26,70,1,-1,27,69,40,100,313
+889,Oct 12 2001,Friendly tournament in Mali,Morocco,Gambia,1670,1307,2,0,5,-5,1675,1302,45,130,1,-1,46,129,30,0,363
+890,Oct 13 2001,World Cup qualifier in China,China,Qatar,1742,1567,3,0,12,-12,1754,1555,23,64,5,-1,28,63,40,100,275
+891,Oct 13 2001,World Cup qualifier in Oman,Oman,Uzbekistan,1340,1503,4,2,35,-35,1375,1468,104,96,9,-9,113,87,40,100,-63
+892,Oct 13 2001,World Cup qualifier in Thailand,Thailand,Bahrain,1484,1444,0,1,-28,28,1456,1472,98,72,-7,12,91,84,40,100,140
+893,Oct 14 2001,Friendly tournament in Mali,Mali,Morocco,1410,1675,2,1,22,-22,1432,1653,93,54,5,-4,98,50,30,100,-165
+894,Oct 16 2001,Friendly in Algeria,Algeria,Burkina Faso,1527,1411,2,0,7,-7,1534,1404,65,105,3,-1,68,104,20,100,216
+895,Oct 16 2001,World Cup qualifier in Thailand,Thailand,Bahrain,1456,1472,1,1,-5,5,1451,1477,95,84,-2,0,93,84,40,100,84
+896,Oct 18 2001,Friendly in Kuwait,Kuwait,Qatar,1582,1555,0,1,-14,14,1568,1569,64,59,-2,2,62,61,20,100,127
+897,Oct 19 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Oman,1511,1375,2,2,-12,12,1499,1387,81,107,-3,3,78,110,40,100,236
+898,Oct 19 2001,World Cup qualifier in Uzbekistan,Uzbekistan,China,1468,1754,1,0,30,-30,1498,1724,71,44,8,-8,79,36,40,100,-186
+899,Oct 21 2001,Friendly in the Bahamas,Bahamas,Haiti,854,1461,0,2,-2,2,852,1463,205,90,0,0,205,90,20,100,-507
+900,Oct 21 2001,World Cup qualifier in Bahrain,Bahrain,Iran,1477,1758,3,1,44,-44,1521,1714,63,53,11,-13,74,40,40,100,-181
+901,Oct 21 2001,World Cup qualifier in Saudi Arabia,Saudi Arabia,Thailand,1717,1451,4,1,8,-8,1725,1443,32,99,3,-3,35,96,40,100,366
+902,Oct 24 2001,Friendly tournament in Tanzania,Kenya,Uganda,1387,1363,0,0,-1,1,1386,1364,114,116,-2,0,112,116,20,0,24
+903,Oct 24 2001,Friendly tournament in Tanzania,Tanzania,DR Congo,1230,1454,2,2,5,-5,1235,1449,150,96,0,-2,150,94,30,100,-124
+904,Oct 25 2001,World Cup qualifier in Iran,Iran,United Arab Emirates,1714,1499,1,0,6,-6,1720,1493,36,85,2,-3,38,82,40,100,315
+905,Oct 27 2001,World Cup qualifier in Israel,Israel,Austria,1674,1715,1,1,-3,3,1671,1718,46,38,0,1,46,39,30,100,59
+906,Oct 27 2001,Friendly tournament in Tanzania,Tanzania,Kenya,1235,1386,3,1,26,-26,1261,1360,130,120,10,-4,140,116,30,100,-51
+907,Oct 27 2001,Friendly tournament in Tanzania,Uganda,DR Congo,1364,1449,1,0,19,-19,1383,1430,108,102,4,-4,112,98,30,0,-85
+908,Oct 31 2001,Friendly in Mexico,Mexico,El Salvador,1787,1492,4,1,3,-3,1790,1489,23,82,0,1,23,83,20,100,395
+909,Oct 31 2001,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Iran,1493,1720,0,3,-23,23,1470,1743,88,26,-3,6,85,32,40,100,-127
+910,Nov 3 2001,Amilcar Cabral Cup in Mali,Guinea-Bissau,Benin,1195,1242,7,2,45,-45,1240,1197,143,161,6,-6,149,155,40,0,-47
+911,Nov 3 2001,Amilcar Cabral Cup in Mali,Mali,Mauritania,1432,1192,3,2,5,-5,1437,1187,95,161,1,-2,96,159,40,100,340
+912,Nov 5 2001,Amilcar Cabral Cup in Mali,Benin,Mauritania,1197,1187,2,0,29,-29,1226,1158,147,167,4,-4,151,163,40,0,10
+913,Nov 5 2001,Amilcar Cabral Cup in Mali,Mali,Guinea-Bissau,1437,1240,2,0,9,-9,1446,1231,94,151,1,-1,95,150,40,100,297
+914,Nov 7 2001,World Cup qualifier in Bolivia,Bolivia,Brazil,1502,1875,3,1,50,-50,1552,1825,50,30,14,-10,64,20,40,100,-273
+915,Nov 7 2001,Amilcar Cabral Cup in Mali,Cape Verde,Gambia,1334,1302,1,1,-2,2,1332,1304,125,129,-1,0,124,129,40,0,32
+916,Nov 7 2001,World Cup qualifier in Colombia,Colombia,Chile,1827,1604,3,1,8,-8,1835,1596,14,56,3,0,17,56,40,100,323
+917,Nov 7 2001,World Cup qualifier in Ecuador,Ecuador,Uruguay,1740,1748,1,1,-5,5,1735,1753,33,26,0,2,33,28,40,100,92
+918,Nov 7 2001,Amilcar Cabral Cup in Mali,Guinea-Bissau,Mauritania,1231,1158,1,0,16,-16,1247,1142,142,165,4,-1,146,164,40,0,73
+919,Nov 7 2001,Friendly in Japan,Japan,Italy,1866,2016,1,1,1,-1,1867,2015,12,3,1,0,13,3,20,100,-50
+920,Nov 7 2001,Amilcar Cabral Cup in Mali,Mali,Benin,1446,1226,0,0,-15,15,1431,1241,99,149,-2,1,97,150,40,100,320
+921,Nov 8 2001,World Cup qualifier in Argentina,Argentina,Peru,2027,1636,2,0,3,-3,2030,1633,2,51,0,0,2,51,20,0,391
+922,Nov 8 2001,Friendly in South Korea,South Korea,Senegal,1797,1589,0,1,-17,17,1780,1606,24,47,-1,6,23,53,20,100,308
+923,Nov 8 2001,World Cup qualifier in Venezuela,Venezuela,Paraguay,1534,1810,3,1,44,-44,1578,1766,51,27,9,-3,60,24,40,100,-176
+924,Nov 9 2001,Amilcar Cabral Cup in Mali,Mali,Gambia,1431,1304,0,1,-31,31,1400,1335,113,117,-8,6,105,123,40,100,227
+925,Nov 10 2001,World Cup qualifier in Austria,Austria,Turkey,1718,1751,0,1,-24,24,1694,1775,47,19,-4,5,43,24,40,100,67
+926,Nov 10 2001,World Cup qualifier in Belgium,Belgium,Czechia,1787,1872,1,0,19,-19,1806,1853,20,17,1,-3,21,14,30,0,-85
+927,Nov 10 2001,Friendly in Denmark,Denmark,Netherlands,1874,1997,1,1,1,-1,1875,1996,12,5,-1,0,11,5,20,100,-23
+928,Nov 10 2001,Friendly in England,England,Sweden,1935,1884,1,1,-4,4,1931,1888,7,7,0,1,7,8,20,100,151
+929,Nov 10 2001,Friendly in Greece,Greece,Estonia,1669,1346,4,2,2,-2,1671,1344,45,122,1,-2,46,120,20,100,423
+930,Nov 10 2001,World Cup qualifier in Ireland,Ireland,Iran,1871,1743,2,0,13,-13,1884,1730,8,38,2,-3,10,35,40,100,228
+931,Nov 10 2001,World Cup qualifier in Slovenia,Slovenia,Romania,1728,1844,2,1,21,-21,1749,1823,27,24,4,-4,31,20,40,100,-16
+932,Nov 10 2001,Friendly in South Africa,South Africa,Egypt,1623,1655,1,0,8,-8,1631,1647,52,51,0,-1,52,50,20,100,68
+933,Nov 10 2001,Friendly in South Korea,South Korea,Croatia,1780,1901,2,0,16,-16,1796,1885,21,10,1,-1,22,9,20,100,-21
+934,Nov 10 2001,World Cup qualifier in Ukraine,Ukraine,Germany,1707,1858,1,1,3,-3,1710,1855,40,12,1,1,41,13,40,100,-51
+935,Nov 11 2001,Friendly in Australia,Australia,France,1849,2119,1,1,5,-5,1854,2114,13,1,1,0,14,1,20,100,-170
+936,Nov 11 2001,World Cup qualifier in Jamaica,Jamaica,Costa Rica,1548,1760,0,1,-14,14,1534,1774,71,23,-2,2,69,25,40,100,-112
+937,Nov 11 2001,Amilcar Cabral Cup in Mali,Mali,Guinea-Bissau,1400,1247,2,1,8,-8,1408,1239,101,156,2,-5,103,151,40,100,253
+938,Nov 11 2001,World Cup qualifier in Mexico,Mexico,Honduras,1790,1754,3,0,22,-22,1812,1732,19,40,2,-6,21,34,40,100,136
+939,Nov 11 2001,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,United States,1567,1763,0,0,5,-5,1572,1758,60,28,2,-1,62,27,20,0,-196
+940,Nov 13 2001,Friendly in South Korea,South Korea,Croatia,1796,1885,1,1,0,0,1796,1885,23,9,0,0,23,9,20,100,11
+941,Nov 14 2001,World Cup qualifier in Brazil,Brazil,Venezuela,1825,1578,3,0,8,-8,1833,1570,17,64,1,-2,18,62,40,100,347
+942,Nov 14 2001,World Cup qualifier in Chile,Chile,Ecuador,1596,1735,0,0,2,-2,1598,1733,57,32,0,0,57,32,30,100,-39
+943,Nov 14 2001,World Cup qualifier in Czechia,Czechia,Belgium,1853,1806,0,1,-28,28,1825,1834,25,12,-5,5,20,17,40,100,147
+944,Nov 14 2001,Friendly in Estonia,Estonia,Kazakhstan,1344,1467,0,0,1,-1,1345,1466,120,88,0,0,120,88,20,100,-23
+945,Nov 14 2001,World Cup qualifier in Germany,Germany,Ukraine,1855,1710,4,1,14,-14,1869,1696,13,41,0,0,13,41,40,100,245
+946,Nov 14 2001,Friendly in Greece,Greece,Cyprus,1671,1494,1,2,-17,17,1654,1511,52,73,-3,4,49,77,20,100,277
+947,Nov 14 2001,Friendly in Hungary,Hungary,Macedonia,1591,1466,5,0,9,-9,1600,1457,53,91,3,-1,56,90,20,100,225
+948,Nov 14 2001,Friendly in Latvia,Latvia,Russia,1421,1833,1,3,-4,4,1417,1837,100,15,0,1,100,16,20,100,-312
+949,Nov 14 2001,Friendly in Malta,Malta,Canada,1194,1606,2,1,17,-17,1211,1589,152,65,2,-6,154,59,20,100,-312
+950,Nov 14 2001,Friendly in Morocco,Morocco,Zambia,1653,1496,1,0,4,-4,1657,1492,47,84,1,-2,48,82,20,100,257
+951,Nov 14 2001,World Cup qualifier in Paraguay,Paraguay,Colombia,1766,1835,0,4,-41,41,1725,1876,44,6,-9,5,35,11,40,100,31
+952,Nov 14 2001,World Cup qualifier in Peru,Peru,Bolivia,1633,1552,1,1,-10,10,1623,1562,53,65,-1,0,52,65,40,100,181
+953,Nov 14 2001,Friendly in Poland,Poland,Cameroon,1751,1712,0,0,-4,4,1747,1716,29,38,0,1,29,39,20,100,139
+954,Nov 14 2001,Friendly in Portugal,Portugal,Angola,2010,1540,5,1,1,-1,2011,1539,4,68,0,0,4,68,20,100,570
+955,Nov 14 2001,World Cup qualifier in Romania,Romania,Slovenia,1823,1749,1,1,-9,9,1814,1758,22,24,-1,3,21,27,40,100,174
+956,Nov 14 2001,Friendly in Spain,Spain,Mexico,1962,1812,1,0,4,-4,1966,1808,6,23,0,-1,6,22,20,100,250
+957,Nov 14 2001,World Cup qualifier in Turkey,Turkey,Austria,1775,1694,5,0,21,-21,1796,1673,22,47,1,-2,23,45,40,100,181
+958,Nov 14 2001,World Cup qualifier in Uruguay,Uruguay,Argentina,1753,2030,1,1,9,-9,1762,2021,24,2,2,0,26,2,40,100,-177
+959,Nov 15 2001,World Cup qualifier in Iran,Iran,Ireland,1730,1884,1,0,23,-23,1753,1861,24,18,5,-4,29,14,40,100,-54
+960,Nov 20 2001,World Cup qualifier in Australia,Australia,Uruguay,1854,1762,1,0,10,-10,1864,1752,13,32,1,-3,14,29,40,100,192
+961,Nov 21 2001,Friendly in Ethiopia,Ethiopia,Zambia,1371,1492,1,2,-9,9,1362,1501,116,78,-1,2,115,80,20,100,-21
+962,Nov 25 2001,World Cup qualifier in Uruguay,Uruguay,Australia,1752,1864,3,0,36,-36,1788,1828,21,24,4,-5,25,19,40,100,-12
+963,Nov 28 2001,Friendly in Tunisia,Tunisia,Togo,1678,1508,1,0,3,-3,1681,1505,44,80,0,-1,44,79,20,100,270
+964,Nov 29 2001,Friendly in Oman,Oman,Kuwait,1387,1568,1,1,2,-2,1389,1566,110,64,0,0,110,64,20,100,-81
+965,Dec 5 2001,Friendly in Algeria,Algeria,Ghana,1534,1520,1,1,-3,3,1531,1523,73,74,-2,1,71,75,20,100,114
+966,Dec 5 2001,Friendly in Mali,Mali,Ivory Coast,1408,1605,0,3,-13,13,1395,1618,109,51,-3,2,106,53,20,100,-97
+967,Dec 8 2001,CECAFA Cup in Rwanda,Rwanda,Somalia,1317,1074,3,0,9,-9,1326,1065,125,179,1,0,126,179,40,100,343
+968,Dec 9 2001,Friendly in South Korea,South Korea,United States,1796,1758,1,0,6,-6,1802,1752,23,31,0,-2,23,29,20,100,138
+969,Dec 9 2001,CECAFA Cup in Rwanda,Tanzania,Burundi,1261,1343,2,1,25,-25,1286,1318,130,130,5,-4,135,126,40,0,-82
+970,Dec 9 2001,CECAFA Cup in Rwanda,Uganda,Djibouti,1383,887,10,1,5,-5,1388,882,110,203,1,-2,111,201,40,0,496
+971,Dec 10 2001,CECAFA Cup in Rwanda,Kenya,Eritrea,1360,1207,2,1,12,-12,1372,1195,112,156,2,0,114,156,40,0,153
+972,Dec 11 2001,CECAFA Cup in Rwanda,Burundi,Djibouti,1318,882,3,1,5,-5,1323,877,126,203,0,-1,126,202,40,0,436
+973,Dec 11 2001,CECAFA Cup in Rwanda,Tanzania,Uganda,1286,1388,1,0,26,-26,1312,1362,121,119,7,-4,128,115,40,0,-102
+974,Dec 12 2001,CECAFA Cup in Rwanda,Kenya,Somalia,1372,1065,3,0,10,-10,1382,1055,113,181,0,-1,113,180,40,0,307
+975,Dec 12 2001,Friendly in Morocco,Morocco,Mali,1657,1395,1,1,-8,8,1649,1403,50,102,-1,2,49,104,20,100,362
+976,Dec 12 2001,CECAFA Cup in Rwanda,Rwanda,Eritrea,1326,1195,1,0,8,-8,1334,1187,121,160,2,-2,123,158,40,100,231
+977,Dec 13 2001,Friendly in Bahrain,Bahrain,Oman,1521,1389,2,2,-6,6,1515,1395,76,104,0,3,76,107,20,100,232
+978,Dec 13 2001,CECAFA Cup in Rwanda,Ethiopia,Zanzibar,1362,1163,5,0,19,-19,1381,1144,113,164,1,-1,114,163,40,0,199
+979,Dec 13 2001,CECAFA Cup in Rwanda,Tanzania,Djibouti,1312,877,4,1,5,-5,1317,872,128,204,0,-1,128,203,40,0,435
+980,Dec 14 2001,CECAFA Cup in Rwanda,Burundi,Uganda,1323,1362,2,0,33,-33,1356,1329,108,136,9,-10,117,126,40,0,-39
+981,Dec 14 2001,CECAFA Cup in Rwanda,Eritrea,Somalia,1187,1055,0,0,-7,7,1180,1062,158,178,0,1,158,179,40,0,132
+982,Dec 15 2001,Friendly tournament in Botswana,Botswana,Namibia,1088,1262,3,2,18,-18,1106,1244,167,152,5,-6,172,146,30,100,-74
+983,Dec 15 2001,Friendly in the United States,El Salvador,Haiti,1489,1463,0,0,-1,1,1488,1464,83,89,0,0,83,89,20,0,26
+984,Dec 15 2001,CECAFA Cup in Rwanda,Rwanda,Kenya,1334,1382,0,0,-3,3,1331,1385,127,111,-2,1,125,112,40,100,52
+985,Dec 16 2001,Friendly tournament in Botswana,Botswana,Lesotho,1106,1192,1,0,14,-14,1120,1178,166,160,3,-2,169,158,30,100,14
+986,Dec 16 2001,Friendly in Burkina Faso,Burkina Faso,Togo,1404,1505,1,2,-10,10,1394,1515,111,73,-4,3,107,76,20,100,-1
+987,Dec 17 2001,CECAFA Cup in Rwanda,Kenya,Eritrea,1385,1180,1,0,9,-9,1394,1171,102,161,5,-2,107,159,40,0,205
+988,Dec 18 2001,CECAFA Cup in Rwanda,Burundi,Ethiopia,1356,1381,2,2,1,-1,1357,1380,117,114,0,0,117,114,20,0,-25
+989,Dec 18 2001,CECAFA Cup in Rwanda,Rwanda,Uganda,1331,1329,3,2,14,-14,1345,1315,115,130,5,-2,120,128,40,100,102
+990,Dec 20 2001,CECAFA Cup in Rwanda,Rwanda,Ethiopia,1345,1380,0,1,-24,24,1321,1404,130,92,-5,11,125,103,40,100,65
+991,Dec 22 2001,CECAFA Cup in Rwanda,Ethiopia,Kenya,1404,1394,2,1,19,-19,1423,1375,95,120,4,-6,99,114,40,0,10
+992,Dec 22 2001,Friendly in Togo,Togo,Burkina Faso,1515,1394,1,0,4,-4,1519,1390,76,112,0,-2,76,110,20,100,221
+993,Dec 23 2001,Friendly in Oman,Oman,Syria,1395,1455,2,0,13,-13,1408,1442,101,99,3,-4,104,95,20,100,40
+994,Dec 25 2001,Friendly in Mali,Mali,Ghana,1403,1523,1,1,1,-1,1404,1522,105,75,0,0,105,75,20,100,-20
+995,Dec 25 2001,Friendly in Oman,Oman,Syria,1408,1442,1,0,8,-8,1416,1434,100,97,2,-1,102,96,20,100,66
+996,Dec 26 2001,Friendly in Senegal,Senegal,Burkina Faso,1606,1390,2,4,-26,26,1580,1416,64,94,-5,8,59,102,20,100,316
+997,Dec 28 2001,Friendly in Mali,Mali,Burkina Faso,1404,1416,2,1,8,-8,1412,1408,100,110,3,-4,103,106,20,100,88
+998,Dec 29 2001,Friendly in Kuwait,Kuwait,Syria,1566,1434,0,0,-6,6,1560,1440,66,94,-1,1,65,95,20,100,232
+999,Dec 30 2001,Friendly in Benin,Benin,Togo,1241,1519,1,1,5,-5,1246,1514,141,78,4,-1,145,77,20,100,-178
+1000,Dec 30 2001,Friendly in Oman,Oman,Macedonia,1416,1457,2,0,12,-12,1428,1445,94,96,4,-3,98,93,20,100,59
+1001,Dec 30 2001,Friendly in Qatar,Qatar,Egypt,1569,1647,2,2,-1,1,1568,1648,63,50,0,0,63,50,20,100,22
+1002,Dec 30 2001,Friendly in Saudi Arabia,Saudi Arabia,Zimbabwe,1725,1482,0,2,-26,26,1699,1508,45,74,-5,5,40,79,20,100,343
+1003,Dec 30 2001,Friendly in Senegal,Senegal,Algeria,1580,1531,1,0,6,-6,1586,1525,59,73,0,-1,59,72,20,100,149
+1004,Dec 30 2001,Friendly in Tunisia,Tunisia,Liberia,1681,1525,7,2,7,-7,1688,1518,42,77,1,-2,43,75,20,100,256
+1005,Dec 31 2001,Friendly in Kuwait,Kuwait,Syria,1560,1440,2,2,-6,6,1554,1446,65,91,0,2,65,93,20,100,220

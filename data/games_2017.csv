@@ -1,0 +1,887 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 4 2017,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Suriname,1490,1222,1,2,-36,36,1454,1258,104,137,-9,9,95,146,40,100,368
+1,Jan 4 2017,Friendly in Tunisia,Tunisia,Uganda,1590,1498,2,0,7,-7,1597,1491,57,86,2,-1,59,85,20,100,192
+2,Jan 5 2017,Friendly in Cameroon,Cameroon,DR Congo,1618,1577,2,0,9,-9,1627,1568,54,71,1,-2,55,69,20,100,141
+3,Jan 6 2017,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Haiti,Suriname,1477,1258,4,2,13,-13,1490,1245,86,152,0,-3,86,149,40,0,219
+4,Jan 7 2017,Friendly in Algeria,Algeria,Mauritania,1633,1309,3,1,2,-2,1635,1307,53,133,0,-2,53,131,20,100,424
+5,Jan 7 2017,Friendly in Morocco,Burkina Faso,Mali,1507,1551,2,1,11,-11,1518,1540,74,75,3,-2,77,73,20,0,-44
+6,Jan 8 2017,Friendly in Egypt,Egypt,Tunisia,1669,1597,1,0,5,-5,1674,1592,45,63,1,-2,46,61,20,100,172
+7,Jan 8 2017,Friendly in the United Arab Emirates,Ivory Coast,Sweden,1720,1768,2,1,11,-11,1731,1757,32,30,1,-2,33,28,20,0,-48
+8,Jan 8 2017,Friendly in Congo,Senegal,Libya,1672,1468,2,1,5,-5,1677,1463,45,93,0,-2,45,91,20,0,204
+9,Jan 8 2017,CONCACAF Ch & Car Ch q in Trinidad and Tobago,Trinidad and Tobago,Haiti,1454,1490,3,4,-24,24,1430,1514,103,74,-4,6,99,80,40,100,64
+10,Jan 9 2017,Friendly in the United Arab Emirates,Finland,Morocco,1540,1602,1,0,12,-12,1552,1590,69,64,2,-3,71,61,20,0,-62
+11,Jan 10 2017,Friendly in Algeria,Algeria,Mauritania,1635,1307,6,0,3,-3,1638,1304,53,131,0,0,53,131,20,100,428
+12,Jan 10 2017,Friendly in Cameroon,Cameroon,Zimbabwe,1627,1419,1,1,-7,7,1620,1426,57,98,-1,3,56,101,20,100,308
+13,Jan 10 2017,Friendly tournament in China,China,Iceland,1523,1765,0,2,-14,14,1509,1779,87,22,-6,2,81,24,30,100,-142
+14,Jan 11 2017,Friendly tournament in China,Chile,Croatia,1982,1886,1,1,-4,4,1978,1890,7,13,-1,1,6,14,30,0,96
+15,Jan 11 2017,Friendly in Congo,Congo,Senegal,1437,1677,0,2,-9,9,1428,1686,103,39,-3,3,100,42,20,100,-140
+16,Jan 11 2017,Friendly in the United Arab Emirates,Ivory Coast,Uganda,1731,1491,3,0,7,-7,1738,1484,31,86,1,0,32,86,20,0,240
+17,Jan 13 2017,CONCACAF Ch q & C Am Cup in Panama,Costa Rica,El Salvador,1854,1402,0,0,-17,17,1837,1419,21,101,-2,4,19,105,40,0,452
+18,Jan 13 2017,CONCACAF Ch q & C Am Cup in Panama,Honduras,Nicaragua,1563,1261,2,1,6,-6,1569,1255,68,148,1,-2,69,146,40,0,302
+19,Jan 13 2017,CONCACAF Ch q & C Am Cup in Panama,Panama,Belize,1689,1182,0,0,-19,19,1670,1201,53,162,-6,3,47,165,40,100,607
+20,Jan 14 2017,African Nations Cup in Gabon,Burkina Faso,Cameroon,1518,1620,1,1,7,-7,1525,1613,74,58,1,-1,75,57,50,0,-102
+21,Jan 14 2017,Friendly tournament in China,China,Croatia,1509,1890,1,1,10,-10,1519,1880,73,16,4,-1,77,15,30,100,-281
+22,Jan 14 2017,African Nations Cup in Gabon,Gabon,Guinea-Bissau,1457,1283,1,1,-16,16,1441,1299,97,126,-2,7,95,133,50,100,274
+23,Jan 14 2017,Friendly in the United Arab Emirates,Saudi Arabia,Cambodia,1578,805,7,2,0,0,1578,805,66,208,0,0,66,208,20,0,773
+24,Jan 15 2017,African Nations Cup in Gabon,Algeria,Zimbabwe,1638,1426,2,2,-14,14,1624,1440,57,91,-2,5,55,96,40,100,312
+25,Jan 15 2017,Friendly tournament in China,Chile,Iceland,1978,1779,1,0,7,-7,1985,1772,4,26,1,-1,5,25,30,0,199
+26,Jan 15 2017,CONCACAF Ch q & C Am Cup in Panama,Costa Rica,Belize,1837,1201,3,0,2,-2,1839,1199,19,165,0,0,19,165,40,0,636
+27,Jan 15 2017,CONCACAF Ch q & C Am Cup in Panama,Honduras,El Salvador,1569,1419,2,1,12,-12,1581,1407,59,109,5,-2,64,107,40,0,150
+28,Jan 15 2017,CONCACAF Ch q & C Am Cup in Panama,Panama,Nicaragua,1670,1255,2,1,2,-2,1672,1253,45,148,1,-1,46,147,20,0,415
+29,Jan 15 2017,African Nations Cup in Gabon,Senegal,Tunisia,1686,1592,2,0,28,-28,1714,1564,31,80,5,-10,36,70,50,0,94
+30,Jan 16 2017,African Nations Cup in Gabon,DR Congo,Morocco,1568,1590,1,0,27,-27,1595,1563,49,80,10,-10,59,70,50,0,-22
+31,Jan 16 2017,African Nations Cup in Gabon,Ivory Coast,Togo,1738,1416,0,0,-18,18,1720,1434,36,91,-2,7,34,98,50,0,322
+32,Jan 17 2017,CONCACAF Ch q & C Am Cup in Panama,Costa Rica,Nicaragua,1839,1253,0,0,-19,19,1820,1272,21,139,-1,4,20,143,40,0,586
+33,Jan 17 2017,African Nations Cup in Gabon,Egypt,Mali,1674,1540,0,0,-9,9,1665,1549,51,70,-3,2,48,72,30,100,234
+34,Jan 17 2017,CONCACAF Ch q & C Am Cup in Panama,El Salvador,Belize,1407,1199,3,1,14,-14,1421,1185,103,171,2,-3,105,168,40,0,208
+35,Jan 17 2017,African Nations Cup in Gabon,Ghana,Uganda,1593,1484,1,0,17,-17,1610,1467,58,90,1,-2,59,88,50,0,109
+36,Jan 17 2017,CONCACAF Ch q & C Am Cup in Panama,Panama,Honduras,1672,1581,0,1,-30,30,1642,1611,58,52,-6,6,52,58,40,100,191
+37,Jan 17 2017,Friendly in Qatar,Qatar,Moldova,1577,1340,1,1,-7,7,1570,1347,69,118,-1,1,68,119,20,100,337
+38,Jan 18 2017,African Nations Cup in Gabon,Cameroon,Guinea-Bissau,1613,1299,2,1,7,-7,1620,1292,55,139,1,-3,56,136,50,0,314
+39,Jan 18 2017,African Nations Cup in Gabon,Gabon,Burkina Faso,1441,1525,1,1,-1,1,1440,1526,95,75,0,0,95,75,30,100,16
+40,Jan 19 2017,African Nations Cup in Gabon,Senegal,Zimbabwe,1714,1440,2,0,13,-13,1727,1427,30,109,3,-7,33,102,50,0,274
+41,Jan 19 2017,African Nations Cup in Gabon,Tunisia,Algeria,1564,1624,2,1,29,-29,1593,1595,55,65,7,-5,62,60,50,0,-60
+42,Jan 20 2017,CONCACAF Ch q & C Am Cup in Panama,Costa Rica,Honduras,1820,1611,1,1,-11,11,1809,1622,20,53,0,2,20,55,30,100,309
+43,Jan 20 2017,African Nations Cup in Gabon,DR Congo,Ivory Coast,1595,1720,2,2,9,-9,1604,1711,58,37,1,-1,59,36,50,0,-125
+44,Jan 20 2017,African Nations Cup in Gabon,Morocco,Togo,1563,1434,3,1,24,-24,1587,1410,58,117,6,-10,64,107,50,0,129
+45,Jan 20 2017,CONCACAF Ch q & C Am Cup in Panama,Nicaragua,Belize,1272,1185,3,1,23,-23,1295,1162,125,170,9,-1,134,169,40,0,87
+46,Jan 20 2017,CONCACAF Ch q & C Am Cup in Panama,Panama,El Salvador,1642,1421,1,0,5,-5,1647,1416,50,105,1,0,51,105,40,100,321
+47,Jan 21 2017,African Nations Cup in Gabon,Egypt,Uganda,1665,1467,1,0,12,-12,1677,1455,42,96,3,-4,45,92,50,0,198
+48,Jan 21 2017,African Nations Cup in Gabon,Ghana,Mali,1610,1549,1,0,21,-21,1631,1528,50,76,4,-2,54,74,50,0,61
+49,Jan 22 2017,Friendly in Bermuda,Bermuda,Canada,1208,1517,2,4,-7,7,1201,1524,166,74,-2,2,164,76,20,100,-209
+50,Jan 22 2017,African Nations Cup in Gabon,Burkina Faso,Guinea-Bissau,1526,1292,2,0,15,-15,1541,1277,73,149,1,-6,74,143,50,0,234
+51,Jan 22 2017,CONCACAF Ch q & C Am Cup in Panama,El Salvador,Nicaragua,1416,1295,1,0,13,-13,1429,1282,95,146,5,-6,100,140,40,0,121
+52,Jan 22 2017,African Nations Cup in Gabon,Gabon,Cameroon,1440,1620,0,0,6,-6,1446,1614,93,59,1,-1,94,58,50,100,-80
+53,Jan 22 2017,CONCACAF Ch q & C Am Cup in Panama,Honduras,Belize,1622,1162,1,0,3,-3,1625,1159,56,169,0,0,56,169,40,0,460
+54,Jan 22 2017,CONCACAF Ch q & C Am Cup in Panama,Panama,Costa Rica,1647,1809,1,0,24,-24,1671,1785,41,24,5,-2,46,22,40,100,-62
+55,Jan 23 2017,African Nations Cup in Gabon,Algeria,Senegal,1595,1727,2,2,9,-9,1604,1718,59,35,1,-1,60,34,50,0,-132
+56,Jan 23 2017,Friendly in the United Arab Emirates,Georgia,Uzbekistan,1473,1666,2,2,5,-5,1478,1661,86,49,0,0,86,49,20,0,-193
+57,Jan 23 2017,African Nations Cup in Gabon,Tunisia,Zimbabwe,1593,1427,4,2,21,-21,1614,1406,54,112,4,-5,58,107,50,0,166
+58,Jan 24 2017,African Nations Cup in Gabon,DR Congo,Togo,1604,1410,3,1,18,-18,1622,1392,54,118,3,-6,57,112,50,0,194
+59,Jan 24 2017,African Nations Cup in Gabon,Morocco,Ivory Coast,1587,1711,1,0,34,-34,1621,1677,52,52,6,-8,58,44,50,0,-124
+60,Jan 25 2017,Friendly in Brazil,Brazil,Colombia,2088,1929,1,0,4,-4,2092,1925,1,11,0,-1,1,10,20,100,259
+61,Jan 25 2017,African Nations Cup in Gabon,Egypt,Ghana,1677,1631,1,0,22,-22,1699,1609,32,68,6,-7,38,61,50,0,46
+62,Jan 25 2017,Friendly in the United Arab Emirates,Jordan,Georgia,1503,1478,1,0,9,-9,1512,1469,80,88,1,-1,81,87,20,0,25
+63,Jan 25 2017,African Nations Cup in Gabon,Mali,Uganda,1528,1455,1,1,-5,5,1523,1460,77,90,-1,1,76,91,20,100,173
+64,Jan 28 2017,African Nations Cup in Gabon,Burkina Faso,Tunisia,1541,1614,2,0,45,-45,1586,1569,54,83,10,-12,64,71,50,0,-73
+65,Jan 28 2017,African Nations Cup in Gabon,Cameroon,Senegal,1614,1718,0,0,7,-7,1621,1711,55,36,2,-1,57,35,50,0,-104
+66,Jan 29 2017,African Nations Cup in Gabon,Egypt,Morocco,1699,1621,1,0,19,-19,1718,1602,30,63,4,-3,34,60,50,0,78
+67,Jan 29 2017,African Nations Cup in Gabon,Ghana,DR Congo,1609,1622,2,1,26,-26,1635,1596,46,68,7,-6,53,62,50,0,-13
+68,Jan 29 2017,Friendly in the United States,United States,Serbia,1735,1725,0,0,-3,3,1732,1728,32,33,0,0,32,33,20,100,110
+69,Feb 1 2017,African Nations Cup in Gabon,Burkina Faso,Egypt,1586,1718,1,1,9,-9,1595,1709,62,38,1,-2,63,36,50,0,-132
+70,Feb 2 2017,African Nations Cup in Gabon,Cameroon,Ghana,1621,1635,2,0,39,-39,1660,1596,43,69,7,-8,50,61,50,0,-14
+71,Feb 3 2017,Friendly in the United States,United States,Jamaica,1732,1516,1,0,3,-3,1735,1513,32,81,0,-1,32,80,20,100,316
+72,Feb 4 2017,African Nations Cup in Gabon,Burkina Faso,Ghana,1595,1596,1,0,25,-25,1620,1571,51,77,6,-8,57,69,50,0,-1
+73,Feb 5 2017,African Nations Cup in Gabon,Cameroon,Egypt,1660,1709,2,1,29,-29,1689,1680,32,54,9,-9,41,45,50,0,-49
+74,Feb 8 2017,Friendly in the United States,Mexico,Iceland,1912,1772,1,0,6,-6,1918,1766,10,27,1,-1,11,26,20,0,140
+75,Feb 16 2017,Friendly in the United States,Jamaica,Honduras,1513,1625,1,0,13,-13,1526,1612,70,60,5,-2,75,58,20,0,-112
+76,Feb 22 2017,Friendly in Ecuador,Ecuador,Honduras,1850,1612,3,1,4,-4,1854,1608,16,58,1,0,17,58,20,100,338
+77,Feb 22 2017,Friendly in San Marino,San Marino,Andorra,878,956,0,2,-16,16,862,972,205,188,-1,3,204,191,20,100,22
+78,Mar 9 2017,Friendly in Qatar,Qatar,Azerbaijan,1570,1424,1,2,-16,16,1554,1440,72,90,-1,6,71,96,20,100,246
+79,Mar 10 2017,Friendly in Trinidad and Tobago,Trinidad and Tobago,Barbados,1430,1136,2,0,3,-3,1433,1133,97,173,1,-1,98,172,20,100,394
+80,Mar 11 2017,Friendly in Burundi,Burundi,Djibouti,1312,753,7,0,1,-1,1313,752,128,213,0,0,128,213,20,100,659
+81,Mar 13 2017,Friendly in Burundi,Burundi,Djibouti,1313,752,1,0,0,0,1313,752,128,213,0,0,128,213,20,100,661
+82,Mar 16 2017,Friendly in Honduras,Honduras,Nicaragua,1608,1282,2,0,2,-2,1610,1280,58,140,0,0,58,140,20,100,426
+83,Mar 18 2017,Friendly in Iran,Iran,Iraq,1774,1471,0,1,-18,18,1756,1489,32,86,-4,0,28,86,20,100,403
+84,Mar 19 2017,Friendly in San Marino,San Marino,Moldova,862,1347,0,2,-3,3,859,1350,204,119,0,0,204,119,20,100,-385
+85,Mar 21 2017,Friendly in Indonesia,Indonesia,Myanmar,1256,1056,1,3,-25,25,1231,1081,158,183,-6,1,152,184,20,100,300
+86,Mar 22 2017,Friendly in Cambodia,Cambodia,India,805,1100,2,3,-5,5,800,1105,214,175,-3,3,211,178,20,100,-195
+87,Mar 22 2017,Friendly in Curaçao,Curaçao,El Salvador,1224,1429,1,1,3,-3,1227,1426,154,103,0,-1,154,102,20,100,-105
+88,Mar 22 2017,Friendly in Cyprus,Cyprus,Kazakhstan,1406,1406,3,1,11,-11,1417,1395,104,114,1,-4,105,110,20,100,100
+89,Mar 22 2017,Friendly in Czechia,Czechia,Lithuania,1698,1464,3,0,4,-4,1702,1460,36,91,1,-1,37,90,20,100,334
+90,Mar 22 2017,African Nations Cup qualifier in Djibouti,Djibouti,South Sudan,752,1114,2,0,49,-49,801,1065,207,195,3,-10,210,185,40,100,-262
+91,Mar 22 2017,Friendly in Germany,Germany,England,2038,1929,1,0,5,-5,2043,1924,3,11,0,-1,3,10,20,100,209
+92,Mar 22 2017,Friendly in Qatar,Palestine,Yemen,1338,1205,1,0,6,-6,1344,1199,121,166,0,-2,121,164,20,0,133
+93,Mar 22 2017,Friendly in the Philippines,Philippines,Malaysia,1223,1105,0,0,-6,6,1217,1111,163,174,-4,2,159,176,20,100,218
+94,Mar 22 2017,African Nations Cup qualifier in São Tomé and Príncipe,São Tomé and Príncipe,Madagascar,1103,1244,0,1,-18,18,1085,1262,185,141,-3,4,182,145,40,100,-41
+95,Mar 22 2017,Friendly in Scotland,Scotland,Canada,1671,1524,1,1,-6,6,1665,1530,51,74,-2,1,49,75,20,100,247
+96,Mar 22 2017,Friendly in Vietnam,Vietnam,Taiwan,1284,852,1,1,-9,9,1275,861,148,203,-5,1,143,204,20,100,532
+97,Mar 23 2017,Friendly in Qatar,Afghanistan,Singapore,1140,1113,2,1,9,-9,1149,1104,170,179,0,-2,170,177,20,0,27
+98,Mar 23 2017,World Cup qualifier in Argentina,Argentina,Chile,2045,1985,1,0,11,-11,2056,1974,2,7,0,-1,2,6,40,100,160
+99,Mar 23 2017,Friendly in Bahrain,Bahrain,Tajikistan,1430,1246,1,1,-7,7,1423,1253,106,148,-3,0,103,148,20,100,284
+100,Mar 23 2017,World Cup qualifier in China,China,South Korea,1519,1788,1,0,29,-29,1548,1759,69,35,5,-7,74,28,40,100,-169
+101,Mar 23 2017,World Cup qualifier in Colombia,Colombia,Bolivia,1925,1633,1,0,4,-4,1929,1629,9,54,0,0,9,54,40,100,392
+102,Mar 23 2017,World Cup qualifier in Iran,Iraq,Australia,1489,1709,1,1,11,-11,1500,1698,84,40,1,-2,85,38,40,0,-220
+103,Mar 23 2017,Friendly in Jordan,Jordan,Hong Kong,1512,1196,4,0,3,-3,1515,1193,79,165,1,0,80,165,20,100,416
+104,Mar 23 2017,Friendly in Kenya,Kenya,Uganda,1389,1460,1,1,-1,1,1388,1461,113,90,0,0,113,90,20,100,29
+105,Mar 23 2017,Friendly in England,Nigeria,Senegal,1669,1711,1,1,1,-1,1670,1710,48,37,0,-1,48,36,20,0,-42
+106,Mar 23 2017,World Cup qualifier in Papua New Guinea,Papua New Guinea,Tahiti,1129,1221,1,3,-31,31,1098,1252,187,143,-7,6,180,149,40,100,8
+107,Mar 23 2017,World Cup qualifier in Paraguay,Paraguay,Ecuador,1702,1854,2,1,23,-23,1725,1831,31,19,3,-1,34,18,40,100,-52
+108,Mar 23 2017,World Cup qualifier in Qatar,Qatar,Iran,1554,1756,0,1,-14,14,1540,1770,79,20,-4,4,75,24,40,100,-102
+109,Mar 23 2017,World Cup qualifier in Malaysia,Syria,Uzbekistan,1544,1661,1,0,26,-26,1570,1635,64,56,5,-3,69,53,40,0,-117
+110,Mar 23 2017,World Cup qualifier in Thailand,Thailand,Saudi Arabia,1420,1578,0,3,-29,29,1391,1607,120,51,-8,8,112,59,40,100,-58
+111,Mar 23 2017,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Japan,1584,1753,0,2,-24,24,1560,1777,77,16,-6,7,71,23,40,100,-69
+112,Mar 23 2017,World Cup qualifier in Uruguay,Uruguay,Brazil,1915,2092,1,4,-27,27,1888,2119,16,1,-2,0,14,1,40,100,-77
+113,Mar 23 2017,World Cup qualifier in Venezuela,Venezuela,Peru,1683,1834,2,2,3,-3,1686,1831,41,17,1,1,42,18,40,100,-51
+114,Mar 24 2017,World Cup qualifier in Austria,Austria,Moldova,1685,1350,2,0,5,-5,1690,1345,39,119,2,0,41,119,40,100,435
+115,Mar 24 2017,African Nations Cup qualifier in the Comoros,Comoros,Mauritius,982,1099,2,0,31,-31,1013,1068,184,189,3,-5,187,184,40,100,-17
+116,Mar 24 2017,World Cup qualifier in Croatia,Croatia,Ukraine,1880,1769,1,0,9,-9,1889,1760,11,29,2,-2,13,27,40,100,211
+117,Mar 24 2017,Friendly in France,Gabon,Guinea,1446,1495,2,2,1,-1,1447,1494,96,86,-1,0,95,86,20,0,-49
+118,Mar 24 2017,World Cup qualifier in Georgia,Georgia,Serbia,1469,1728,1,3,-17,17,1452,1745,101,33,-7,0,94,33,40,100,-159
+119,Mar 24 2017,CONCACAF Champ qual in Haiti,Haiti,Nicaragua,1514,1280,3,1,8,-8,1522,1272,79,147,1,-4,80,143,40,100,334
+120,Mar 24 2017,World Cup qualifier in Ireland,Ireland,Wales,1801,1760,0,0,-8,8,1793,1768,20,25,0,1,20,26,40,100,141
+121,Mar 24 2017,World Cup qualifier in Italy,Italy,Albania,1943,1581,2,0,4,-4,1947,1577,7,66,0,0,7,66,40,100,462
+122,Mar 24 2017,World Cup qualifier in Albania,Kosovo,Iceland,1393,1766,1,2,-4,4,1389,1770,112,22,-1,2,111,24,40,0,-373
+123,Mar 24 2017,Friendly in Egypt,Libya,Togo,1463,1392,0,0,-2,2,1461,1394,87,107,1,2,88,109,20,0,71
+124,Mar 24 2017,World Cup qualifier in Liechtenstein,Liechtenstein,Macedonia,1180,1402,0,3,-23,23,1157,1425,170,97,-1,5,169,102,40,100,-122
+125,Mar 24 2017,Friendly in Mauritania,Mauritania,Benin,1304,1396,1,0,10,-10,1314,1386,125,118,3,-5,128,113,20,100,8
+126,Mar 24 2017,World Cup qualifier in Mexico,Mexico,Costa Rica,1918,1785,2,0,12,-12,1930,1773,5,25,3,-2,8,23,40,100,233
+127,Mar 24 2017,Friendly in Morocco,Morocco,Burkina Faso,1602,1620,2,0,12,-12,1614,1608,53,60,4,-2,57,58,20,100,82
+128,Mar 24 2017,Friendly in Russia,Russia,Ivory Coast,1691,1677,0,2,-20,20,1671,1697,53,34,-7,6,46,40,20,100,114
+129,Mar 24 2017,World Cup qualifier in Spain,Spain,Israel,1979,1627,4,1,5,-5,1984,1622,5,55,0,0,5,55,40,100,452
+130,Mar 24 2017,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Panama,1433,1671,1,0,28,-28,1461,1643,78,57,10,-5,88,52,40,100,-138
+131,Mar 24 2017,Friendly in Tunisia,Tunisia,Cameroon,1569,1689,0,1,-9,9,1560,1698,70,35,0,3,70,38,20,100,-20
+132,Mar 24 2017,World Cup qualifier in Turkey,Turkey,Finland,1785,1552,2,0,8,-8,1793,1544,19,76,1,-2,20,74,40,100,333
+133,Mar 24 2017,World Cup qualifier in the United States,United States,Honduras,1735,1610,6,0,18,-18,1753,1592,30,68,1,-5,31,63,40,100,225
+134,Mar 25 2017,World Cup qualifier in Andorra,Andorra,Faroe Islands,972,1295,0,0,11,-11,983,1284,191,138,0,-2,191,136,30,0,-323
+135,Mar 25 2017,World Cup qualifier in Belgium,Belgium,Greece,1906,1653,1,1,-15,15,1891,1668,12,47,0,1,12,48,40,100,353
+136,Mar 25 2017,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Gibraltar,1755,1097,5,0,1,-1,1756,1096,30,180,0,0,30,180,20,0,658
+137,Mar 25 2017,World Cup qualifier in Bulgaria,Bulgaria,Netherlands,1586,1889,2,0,46,-46,1632,1843,43,21,11,-4,54,17,40,100,-203
+138,Mar 25 2017,World Cup qualifier in Cyprus,Cyprus,Estonia,1417,1438,0,0,-4,4,1413,1442,105,96,0,1,105,97,40,100,79
+139,Mar 25 2017,World Cup qualifier in Fiji,Fiji,New Zealand,1238,1549,0,2,-14,14,1224,1563,158,68,-3,2,155,70,40,100,-211
+140,Mar 25 2017,World Cup qualifier in Luxembourg,Luxembourg,France,1243,2009,1,3,-1,1,1242,2010,151,4,0,0,151,4,20,100,-666
+141,Mar 25 2017,Friendly in Mozambique,Mozambique,Angola,1322,1221,2,0,7,-7,1329,1214,123,166,1,-5,124,161,20,100,201
+142,Mar 25 2017,World Cup qualifier in Portugal,Portugal,Hungary,1930,1690,3,0,9,-9,1939,1681,8,47,0,-3,8,44,40,100,340
+143,Mar 25 2017,Friendly in South Africa,South Africa,Guinea-Bissau,1615,1277,3,1,2,-2,1617,1275,58,141,-1,0,57,141,20,100,438
+144,Mar 25 2017,World Cup qualifier in Sweden,Sweden,Belarus,1757,1588,4,0,13,-13,1770,1575,19,70,5,-3,24,67,40,100,269
+145,Mar 25 2017,World Cup qualifier in Switzerland,Switzerland,Latvia,1857,1415,1,0,2,-2,1859,1413,14,104,1,1,15,105,30,0,442
+146,Mar 25 2017,Friendly in Tanzania,Tanzania,Botswana,1319,1292,2,0,10,-10,1329,1282,122,140,2,-2,124,138,20,100,127
+147,Mar 26 2017,World Cup qualifier in Armenia,Armenia,Kazakhstan,1502,1395,2,0,14,-14,1516,1381,79,120,2,-6,81,114,40,100,207
+148,Mar 26 2017,World Cup qualifier in Azerbaijan,Azerbaijan,Germany,1440,2043,1,4,-4,4,1436,2047,98,3,0,0,98,3,40,100,-503
+149,Mar 26 2017,Friendly in Barbados,Barbados,Martinique,1133,1502,2,1,16,-16,1149,1486,168,89,2,-3,170,86,20,100,-269
+150,Mar 26 2017,World Cup qualifier in England,England,Lithuania,1924,1460,2,0,2,-2,1926,1458,11,93,0,-1,11,92,20,0,464
+151,Mar 26 2017,Friendly in Kenya,Kenya,DR Congo,1388,1596,2,1,13,-13,1401,1583,104,65,4,-1,108,64,20,100,-108
+152,Mar 26 2017,African Nations Cup qualifier in Madagascar,Madagascar,São Tomé and Príncipe,1262,1085,3,2,7,-7,1269,1078,143,183,1,-1,144,182,40,100,277
+153,Mar 26 2017,World Cup qualifier in Malta,Malta,Slovakia,1215,1753,1,3,-4,4,1211,1757,163,29,-2,1,161,30,40,100,-438
+154,Mar 26 2017,World Cup qualifier in Montenegro,Montenegro,Poland,1597,1851,1,2,-12,12,1585,1863,64,14,-1,1,63,15,40,100,-154
+155,Mar 26 2017,World Cup qualifier in Northern Ireland,Northern Ireland,Norway,1647,1576,2,0,16,-16,1663,1560,49,74,1,-4,50,70,40,100,171
+156,Mar 26 2017,World Cup qualifier in Romania,Romania,Denmark,1682,1716,0,0,-4,4,1678,1720,49,35,-3,0,46,35,40,100,66
+157,Mar 26 2017,World Cup qualifier in San Marino,San Marino,Czechia,859,1702,0,6,-1,1,858,1703,203,37,1,0,204,37,20,100,-743
+158,Mar 26 2017,World Cup qualifier in Scotland,Scotland,Slovenia,1665,1653,1,0,14,-14,1679,1639,41,54,4,-2,45,52,30,0,12
+159,Mar 26 2017,Asian Cup qualifier in Taiwan,Taiwan,Turkmenistan,861,1259,1,3,-9,9,852,1268,206,144,-1,1,205,145,40,100,-298
+160,Mar 26 2017,Friendly in Zimbabwe,Zimbabwe,Zambia,1406,1444,0,0,-2,2,1404,1446,107,96,0,0,107,96,20,100,62
+161,Mar 27 2017,Friendly in Morocco,Gambia,Central African Republic,1279,1296,2,1,10,-10,1289,1286,131,139,4,-3,135,136,20,0,-17
+162,Mar 27 2017,Friendly in France,Ivory Coast,Senegal,1697,1710,1,1,0,0,1697,1710,40,36,0,0,40,36,20,0,-13
+163,Mar 27 2017,Friendly in Mauritania,Mauritania,Congo,1314,1428,2,1,10,-10,1324,1418,124,108,2,-4,126,104,20,100,-14
+164,Mar 27 2017,Friendly in Turkey,Turkey,Moldova,1793,1345,3,1,1,-1,1794,1344,20,121,0,-1,20,120,20,100,548
+165,Mar 28 2017,Asian Cup qualifier in Tajikistan,Afghanistan,Vietnam,1149,1275,1,1,7,-7,1156,1268,170,147,0,-3,170,144,40,0,-126
+166,Mar 28 2017,Friendly in Albania,Albania,Bosnia and Herzegovina,1577,1756,1,2,-8,8,1569,1764,67,27,-1,2,66,29,20,100,-79
+167,Mar 28 2017,World Cup qualifier in Australia,Australia,United Arab Emirates,1698,1560,2,0,12,-12,1710,1548,34,76,2,-3,36,73,40,100,238
+168,Mar 28 2017,Friendly in Austria,Austria,Finland,1690,1544,1,1,-6,6,1684,1550,39,70,1,2,40,72,20,100,246
+169,Mar 28 2017,Asian Cup qualifier in Bahrain,Bahrain,Singapore,1423,1104,0,0,-17,17,1406,1121,107,173,-2,2,105,175,40,100,419
+170,Mar 28 2017,World Cup qualifier in Bolivia,Bolivia,Argentina,1629,2056,2,0,52,-52,1681,2004,31,4,12,-1,43,3,40,100,-327
+171,Mar 28 2017,World Cup qualifier in Brazil,Brazil,Paraguay,2119,1725,3,0,4,-4,2123,1721,1,34,0,0,1,34,40,100,494
+172,Mar 28 2017,World Cup qualifier in Chile,Chile,Venezuela,1974,1686,3,1,6,-6,1980,1680,6,48,0,-3,6,45,40,100,388
+173,Mar 28 2017,World Cup qualifier in Ecuador,Ecuador,Colombia,1831,1929,0,2,-30,30,1801,1959,20,4,-1,3,19,7,40,100,2
+174,Mar 28 2017,Friendly in Egypt,Egypt,Togo,1680,1394,3,0,3,-3,1683,1391,38,109,3,0,41,109,20,100,386
+175,Mar 28 2017,Friendly in Estonia,Estonia,Croatia,1442,1889,3,0,31,-31,1473,1858,75,19,11,-3,86,16,20,100,-347
+176,Mar 28 2017,Friendly in France,France,Spain,2010,1984,0,2,-20,20,1990,2004,6,1,-1,2,5,3,20,100,126
+177,Mar 28 2017,Friendly in Georgia,Georgia,Latvia,1452,1413,5,0,12,-12,1464,1401,84,109,5,-2,89,107,20,100,139
+178,Mar 28 2017,Friendly in Belgium,Guinea,Cameroon,1494,1698,2,1,15,-15,1509,1683,81,44,2,-3,83,41,20,0,-204
+179,Mar 28 2017,Friendly in Guyana,Guyana,Martinique,1193,1486,0,0,5,-5,1198,1481,165,84,0,1,165,85,20,100,-193
+180,Mar 28 2017,World Cup qualifier in Honduras,Honduras,Costa Rica,1592,1773,1,1,5,-5,1597,1768,62,29,0,-3,62,26,20,0,-181
+181,Mar 28 2017,World Cup qualifier in Iran,Iran,China,1770,1548,1,0,5,-5,1775,1543,26,75,-1,-1,25,74,40,100,322
+182,Mar 28 2017,Friendly in Ireland,Ireland,Iceland,1793,1770,0,1,-13,13,1780,1783,27,20,-3,2,24,22,20,100,123
+183,Mar 28 2017,World Cup qualifier in Japan,Japan,Thailand,1777,1391,4,0,4,-4,1781,1387,24,112,-1,-1,23,111,20,0,386
+184,Mar 28 2017,Asian Cup qualifier in Jordan,Jordan,Cambodia,1515,800,7,0,1,-1,1516,799,78,209,2,1,80,210,20,0,715
+185,Mar 28 2017,Asian Cup qualifier in Kyrgyzstan,Kyrgyzstan,Macao,1228,685,1,0,1,-1,1229,684,151,222,1,0,152,222,20,0,543
+186,Mar 28 2017,Asian Cup qualifier in Lebanon,Lebanon,Hong Kong,1367,1193,2,0,10,-10,1377,1183,113,169,2,-2,115,167,40,100,274
+187,Mar 28 2017,Friendly in Luxembourg,Luxembourg,Cape Verde,1242,1432,0,2,-11,11,1231,1443,147,99,2,0,149,99,20,100,-90
+188,Mar 28 2017,Friendly in Macedonia,Macedonia,Belarus,1425,1575,3,0,20,-20,1445,1555,95,74,3,-4,98,70,20,100,-50
+189,Mar 28 2017,Asian Cup qualifier in the Maldives,Maldives,Palestine,953,1344,0,3,-11,11,942,1355,199,116,-2,2,197,118,40,100,-291
+190,Mar 28 2017,African Nations Cup qualifier in Mauritius,Mauritius,Comoros,1068,1013,1,1,-8,8,1060,1021,184,185,0,1,184,186,40,100,155
+191,Mar 28 2017,Friendly in Morocco,Morocco,Tunisia,1614,1560,1,0,6,-6,1620,1554,56,72,1,-1,57,71,20,100,154
+192,Mar 28 2017,Friendly in Mozambique,Mozambique,Lesotho,1329,1219,1,0,5,-5,1334,1214,122,166,1,-5,123,161,20,100,210
+193,Mar 28 2017,Asian Cup qualifier in Myanmar,Myanmar,India,1081,1105,0,1,-24,24,1057,1129,189,172,-4,2,185,174,40,100,76
+194,Mar 28 2017,Friendly in the Netherlands,Netherlands,Italy,1843,1947,1,2,-10,10,1833,1957,19,9,-1,-1,18,8,20,100,-4
+195,Mar 28 2017,World Cup qualifier in New Zealand,New Zealand,Fiji,1563,1224,2,0,4,-4,1567,1220,65,159,2,-2,67,157,20,0,339
+196,Mar 28 2017,CONCACAF Champ qual in Nicaragua,Nicaragua,Haiti,1272,1522,3,0,49,-49,1321,1473,113,92,15,-6,128,86,40,100,-150
+197,Mar 28 2017,Asian Cup qualifier in Oman,Oman,Bhutan,1465,609,14,0,1,-1,1466,608,89,229,-1,0,88,229,30,0,856
+198,Mar 28 2017,World Cup qualifier in Panama,Panama,United States,1643,1753,1,1,1,-1,1644,1752,55,32,-2,0,53,32,40,100,-10
+199,Mar 28 2017,World Cup qualifier in Peru,Peru,Uruguay,1831,1888,2,1,18,-18,1849,1870,16,12,1,1,17,13,40,100,43
+200,Mar 28 2017,Asian Cup qualifier in the Philippines,Philippines,Nepal,1217,900,4,1,6,-6,1223,894,150,201,4,0,154,201,40,100,417
+201,Mar 28 2017,Friendly in Portugal,Portugal,Sweden,1939,1770,2,3,-16,16,1923,1786,14,18,-3,3,11,21,20,100,269
+202,Mar 28 2017,Friendly in Russia,Russia,Belgium,1671,1891,3,3,3,-3,1674,1888,49,12,-1,0,48,12,20,100,-120
+203,Mar 28 2017,World Cup qualifier in Saudi Arabia,Saudi Arabia,Iraq,1607,1500,1,0,9,-9,1616,1491,56,84,2,0,58,84,40,100,207
+204,Mar 28 2017,Friendly in South Africa,South Africa,Angola,1617,1214,0,0,-9,9,1608,1223,61,148,-2,6,59,154,20,100,503
+205,Mar 28 2017,World Cup qualifier in South Korea,South Korea,Syria,1759,1570,1,0,6,-6,1765,1564,27,68,1,0,28,68,40,100,289
+206,Mar 28 2017,African Nations Cup qualifier in South Sudan,South Sudan,Djibouti,1065,801,6,0,9,-9,1074,792,181,214,2,-2,183,212,40,100,364
+207,Mar 28 2017,World Cup qualifier in Tahiti,Tahiti,Papua New Guinea,1252,1098,1,2,-32,32,1220,1130,165,167,-8,6,157,173,40,100,254
+208,Mar 28 2017,Friendly in Tanzania,Tanzania,Burundi,1329,1313,2,1,7,-7,1336,1306,120,135,2,-3,122,132,20,100,116
+209,Mar 28 2017,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Mexico,1461,1930,0,1,-4,4,1457,1934,100,9,-6,0,94,9,40,100,-369
+210,Mar 28 2017,World Cup qualifier in Uzbekistan,Uzbekistan,Qatar,1635,1540,1,0,10,-10,1645,1530,51,75,1,0,52,75,40,100,195
+211,Mar 28 2017,Asian Cup qualifier in Qatar,Yemen,Tajikistan,1199,1253,2,1,23,-23,1222,1230,148,154,8,-3,156,151,40,0,-54
+212,Apr 26 2017,Friendly in Martinique,Martinique,Guadeloupe,1481,1279,4,1,5,-5,1486,1274,85,143,0,-1,85,142,20,100,302
+213,Apr 29 2017,Friendly in Grenada,Grenada,Trinidad and Tobago,1119,1457,2,2,6,-6,1125,1451,174,96,1,-1,175,95,20,100,-238
+214,Apr 29 2017,Friendly in Italy,Monaco,Vatican,909,686,0,0,-6,6,903,692,201,217,-1,2,200,219,20,0,223
+215,May 6 2017,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Barbados,1265,1149,2,1,4,-4,1269,1145,140,171,3,0,143,171,20,100,216
+216,May 17 2017,Friendly in Guadeloupe,Guadeloupe,Dominica,1274,958,2,2,-8,8,1266,966,150,190,-4,2,146,192,20,100,416
+217,May 25 2017,Friendly in Fiji,Fiji,Solomon Islands,1220,1134,1,1,-5,5,1215,1139,161,172,-2,0,159,172,20,100,186
+218,May 26 2017,Friendly in Swaziland,Swaziland,Lesotho,1334,1214,1,0,4,-4,1338,1210,121,163,1,-1,122,162,20,100,220
+219,May 27 2017,Friendly in the United States,Croatia,Mexico,1858,1934,2,1,12,-12,1870,1922,10,13,3,-2,13,11,20,0,-76
+220,May 27 2017,Friendly in the United States,El Salvador,Honduras,1426,1597,2,2,5,-5,1431,1592,101,62,0,0,101,62,20,0,-171
+221,May 28 2017,Friendly in Fiji,Fiji,Solomon Islands,1215,1139,1,0,5,-5,1220,1134,157,172,1,0,158,172,20,100,176
+222,May 28 2017,Friendly in Swaziland,Swaziland,Lesotho,1338,1210,0,1,-16,16,1322,1226,132,146,-5,8,127,154,20,100,228
+223,May 31 2017,Friendly in Italy,Italy,San Marino,1957,858,8,0,0,0,1957,858,8,204,0,0,8,204,20,0,1099
+224,May 31 2017,Friendly in Morocco,Morocco,Netherlands,1620,1833,1,2,-7,7,1613,1840,59,18,-1,0,58,18,20,100,-113
+225,Jun 1 2017,Friendly in Iraq,Iraq,Jordan,1491,1516,1,0,8,-8,1499,1508,84,86,0,-3,84,83,20,100,75
+226,Jun 1 2017,Friendly in the United States,Mexico,Ireland,1922,1780,3,1,9,-9,1931,1771,7,26,2,-1,9,25,20,0,142
+227,Jun 1 2017,Friendly in France,Nigeria,Togo,1670,1391,3,0,6,-6,1676,1385,47,115,1,-3,48,112,20,0,279
+228,Jun 1 2017,Friendly in Switzerland,Switzerland,Belarus,1859,1555,1,0,2,-2,1861,1553,16,72,0,-1,16,71,20,100,404
+229,Jun 2 2017,Friendly in Chile,Chile,Burkina Faso,1980,1608,3,0,2,-2,1982,1606,6,61,0,-1,6,60,20,100,472
+230,Jun 2 2017,Friendly in France,France,Paraguay,1990,1721,5,0,4,-4,1994,1717,5,36,0,-1,5,35,20,100,369
+231,Jun 2 2017,Friendly in Nicaragua,Nicaragua,Bolivia,1321,1681,0,1,-4,4,1317,1685,130,37,-1,3,129,40,20,100,-260
+232,Jun 2 2017,Friendly in Northern Ireland,Northern Ireland,New Zealand,1663,1567,1,0,5,-5,1668,1562,49,69,1,-1,50,68,20,100,196
+233,Jun 2 2017,Friendly in Oman,Oman,Syria,1466,1564,1,1,0,0,1466,1564,88,66,0,1,88,67,20,100,2
+234,Jun 3 2017,Friendly in Ethiopia,Ethiopia,Uganda,1301,1461,0,0,2,-2,1303,1459,133,94,0,-2,133,92,20,100,-60
+235,Jun 3 2017,Friendly in Portugal,Portugal,Cyprus,1923,1413,4,0,1,-1,1924,1412,11,104,0,0,11,104,20,100,610
+236,Jun 3 2017,Friendly in the United States,United States,Venezuela,1752,1680,1,1,-5,5,1747,1685,32,35,0,5,32,40,20,100,172
+237,Jun 4 2017,Friendly in Armenia,Armenia,Saint Kitts and Nevis,1516,1269,5,0,5,-5,1521,1264,80,150,0,-4,80,146,20,100,347
+238,Jun 4 2017,Friendly in Gabon,Gabon,Zambia,1447,1446,0,0,-3,3,1444,1449,100,95,-2,1,98,96,20,100,101
+239,Jun 4 2017,Friendly in Ireland,Ireland,Uruguay,1771,1870,3,1,15,-15,1786,1855,17,19,4,-3,21,16,20,100,1
+240,Jun 4 2017,Friendly in South Africa,Lesotho,Mauritania,1226,1324,1,0,13,-13,1239,1311,146,133,4,-4,150,129,20,0,-98
+241,Jun 4 2017,Friendly in Luxembourg,Luxembourg,Albania,1231,1569,2,1,16,-16,1247,1553,147,74,1,-4,148,70,20,100,-238
+242,Jun 4 2017,Friendly in Montenegro,Montenegro,Iran,1585,1775,1,2,-7,7,1578,1782,65,24,-1,0,64,24,20,100,-90
+243,Jun 4 2017,Friendly in the Netherlands,Netherlands,Ivory Coast,1840,1697,5,0,8,-8,1848,1689,18,39,0,0,18,39,20,100,243
+244,Jun 4 2017,Friendly in France,Togo,Comoros,1385,1021,2,0,3,-3,1388,1018,108,188,2,-1,110,187,20,0,364
+245,Jun 5 2017,Friendly in Belgium,Belgium,Czechia,1888,1703,2,1,3,-3,1891,1700,12,38,0,0,12,38,20,100,285
+246,Jun 5 2017,Friendly in Morocco,DR Congo,Botswana,1583,1282,2,0,5,-5,1588,1277,63,140,0,0,63,140,20,0,301
+247,Jun 5 2017,Friendly in Egypt,Egypt,Libya,1683,1461,1,0,3,-3,1686,1458,39,94,2,-2,41,92,20,100,322
+248,Jun 5 2017,Friendly in Hungary,Hungary,Russia,1681,1674,0,3,-23,23,1658,1697,57,29,-6,10,51,39,20,100,107
+249,Jun 5 2017,Friendly in Liberia,Liberia,Sierra Leone,1319,1372,1,0,9,-9,1328,1363,123,117,2,0,125,117,20,100,47
+250,Jun 5 2017,Friendly in Macedonia,Macedonia,Turkey,1445,1794,0,0,6,-6,1451,1788,93,20,2,0,95,20,20,100,-249
+251,Jun 5 2017,Friendly in Senegal,Senegal,Uganda,1710,1459,0,0,-8,8,1702,1467,38,84,-1,4,37,88,20,100,351
+252,Jun 6 2017,Friendly in the United Arab Emirates,Afghanistan,Maldives,1156,942,2,1,5,-5,1161,937,166,197,2,0,168,197,20,0,214
+253,Jun 6 2017,Friendly in Algeria,Algeria,Guinea,1604,1509,2,1,5,-5,1609,1504,57,84,2,-1,59,83,20,100,195
+254,Jun 6 2017,Friendly in Bahrain,Bahrain,Palestine,1406,1355,0,2,-21,21,1385,1376,117,114,-6,2,111,116,20,100,151
+255,Jun 6 2017,Friendly in Denmark,Denmark,Germany,1720,2047,1,1,6,-6,1726,2041,34,2,0,0,34,2,20,100,-227
+256,Jun 6 2017,Friendly in India,India,Nepal,1129,894,2,0,4,-4,1133,890,172,201,1,0,173,201,20,100,335
+257,Jun 6 2017,Friendly in Israel,Israel,Moldova,1622,1344,1,1,-8,8,1614,1352,58,119,-1,1,57,120,20,100,378
+258,Jun 6 2017,Friendly in Qatar,Qatar,North Korea,1530,1523,2,2,-3,3,1527,1526,77,76,-1,1,76,77,20,100,107
+259,Jun 6 2017,Friendly in Singapore,Singapore,Myanmar,1121,1057,1,1,-4,4,1117,1061,176,183,0,1,176,184,20,100,164
+260,Jun 6 2017,Friendly in Austria,Ukraine,Malta,1760,1211,0,1,-19,19,1741,1230,36,142,-3,10,33,152,20,0,549
+261,Jun 6 2017,Friendly in Uzbekistan,Uzbekistan,Thailand,1645,1387,2,0,3,-3,1648,1384,52,113,0,-1,52,112,20,100,358
+262,Jun 7 2017,Friendly in Bolivia,Bolivia,Nicaragua,1685,1317,3,2,1,-1,1686,1316,40,128,1,0,41,128,20,100,468
+263,Jun 7 2017,Friendly in China,China,Philippines,1543,1223,8,1,4,-4,1547,1219,72,164,1,-4,73,160,20,100,420
+264,Jun 7 2017,World Cup qualifier in Fiji,Fiji,New Caledonia,1220,1323,2,2,0,0,1220,1323,157,126,1,0,158,126,20,100,-3
+265,Jun 7 2017,Friendly in Finland,Finland,Liechtenstein,1550,1157,1,1,-9,9,1541,1166,76,166,-2,2,74,168,20,100,493
+266,Jun 7 2017,Friendly in Georgia,Georgia,Saint Kitts and Nevis,1464,1264,3,0,5,-5,1469,1259,86,146,2,0,88,146,20,100,300
+267,Jun 7 2017,Friendly in Ghana,Ghana,Gambia,1571,1289,2,1,2,-2,1573,1287,65,136,0,0,65,136,20,100,382
+268,Jun 7 2017,Friendly in Hong Kong,Hong Kong,Jordan,1183,1508,0,0,6,-6,1189,1502,167,86,0,-2,167,84,20,100,-225
+269,Jun 7 2017,Friendly in the United Arab Emirates,Iraq,South Korea,1499,1765,0,0,6,-6,1505,1759,80,30,2,-1,82,29,20,0,-266
+270,Jun 7 2017,Friendly in France,Italy,Uruguay,1957,1855,3,0,13,-13,1970,1842,6,20,1,-2,7,18,20,0,102
+271,Jun 7 2017,Friendly in Japan,Japan,Syria,1781,1564,1,1,-7,7,1774,1571,25,66,0,0,25,66,20,100,317
+272,Jun 7 2017,Friendly in Spain,Spain,Colombia,2004,1959,2,2,-4,4,2000,1963,5,9,-1,-1,4,8,20,100,145
+273,Jun 7 2017,Friendly in Malaysia,United Arab Emirates,Laos,1548,805,4,0,1,-1,1549,804,71,208,1,0,72,208,20,0,743
+274,Jun 8 2017,World Cup qualifier in Australia,Australia,Saudi Arabia,1710,1616,3,2,10,-10,1720,1606,34,64,1,-4,35,60,40,100,194
+275,Jun 8 2017,Friendly in Cambodia,Cambodia,Indonesia,799,1231,0,2,-4,4,795,1235,212,151,-1,0,211,151,20,100,-332
+276,Jun 8 2017,World Cup qualifier in Costa Rica,Costa Rica,Panama,1768,1644,0,0,-11,11,1757,1655,32,51,-3,1,29,52,40,100,224
+277,Jun 8 2017,Friendly in the United States,Ecuador,Venezuela,1801,1685,1,1,-3,3,1798,1688,19,39,0,2,19,41,20,0,116
+278,Jun 8 2017,Friendly in Grenada,Grenada,Bermuda,1125,1201,2,2,-1,1,1124,1202,175,164,0,0,175,164,20,100,24
+279,Jun 8 2017,World Cup qualifier in Mexico,Mexico,Honduras,1931,1592,3,0,5,-5,1936,1587,9,64,0,-1,9,63,40,100,439
+280,Jun 8 2017,Friendly in Peru,Peru,Paraguay,1849,1717,1,0,4,-4,1853,1713,16,37,0,-1,16,36,20,100,232
+281,Jun 8 2017,World Cup qualifier in the United States,United States,Trinidad and Tobago,1747,1451,2,0,6,-6,1753,1445,31,99,0,-2,31,97,40,100,396
+282,Jun 9 2017,World Cup qualifier in Andorra,Andorra,Hungary,983,1658,1,0,39,-39,1022,1619,181,57,5,-3,186,54,40,0,-675
+283,Jun 9 2017,Friendly in Australia,Argentina,Brazil,2004,2123,1,0,13,-13,2017,2110,3,1,0,0,3,1,20,0,-119
+284,Jun 9 2017,World Cup qualifier in Belarus,Belarus,Bulgaria,1553,1632,2,1,19,-19,1572,1613,62,57,4,-1,66,56,40,100,21
+285,Jun 9 2017,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Greece,1764,1668,0,0,-10,10,1754,1678,33,45,-3,2,30,47,40,100,196
+286,Jun 9 2017,World Cup qualifier in Portugal,Cyprus,Gibraltar,1412,1096,2,1,6,-6,1418,1090,102,180,1,0,103,180,40,0,316
+287,Jun 9 2017,World Cup qualifier in Estonia,Estonia,Belgium,1473,1891,0,2,-8,8,1465,1899,94,12,-4,0,90,12,40,100,-318
+288,Jun 9 2017,World Cup qualifier in the Faroe Islands,Faroe Islands,Switzerland,1284,1861,0,2,-4,4,1280,1865,140,13,-1,1,139,14,40,100,-477
+289,Jun 9 2017,World Cup qualifier in Latvia,Latvia,Portugal,1401,1924,0,3,-6,6,1395,1930,108,9,-1,1,107,10,40,100,-423
+290,Jun 9 2017,African Nations Cup qualifier in Egypt,Libya,Seychelles,1458,959,5,1,4,-4,1462,955,90,194,1,0,91,194,40,0,499
+291,Jun 9 2017,World Cup qualifier in the Netherlands,Netherlands,Luxembourg,1848,1247,5,0,1,-1,1849,1246,17,146,0,1,17,147,20,0,601
+292,Jun 9 2017,Friendly in Russia,Russia,Chile,1697,1982,1,1,5,-5,1702,1977,35,4,2,1,37,5,20,100,-185
+293,Jun 9 2017,World Cup qualifier in the Solomon Islands,Solomon Islands,Papua New Guinea,1134,1130,3,2,14,-14,1148,1116,170,178,1,-2,171,176,40,100,104
+294,Jun 9 2017,African Nations Cup qualifier in Sudan,Sudan,Madagascar,1284,1269,1,3,-40,40,1244,1309,160,118,-11,12,149,130,40,100,115
+295,Jun 9 2017,World Cup qualifier in Sweden,Sweden,France,1786,1994,2,1,26,-26,1812,1968,17,9,2,-2,19,7,40,100,-108
+296,Jun 10 2017,World Cup qualifier in Azerbaijan,Azerbaijan,Northern Ireland,1436,1668,0,1,-13,13,1423,1681,102,42,-1,4,101,46,40,100,-132
+297,Jun 10 2017,African Nations Cup qualifier in Botswana,Botswana,Mauritania,1277,1311,0,1,-24,24,1253,1335,152,119,-6,5,146,124,40,100,66
+298,Jun 10 2017,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Angola,1606,1223,3,1,4,-4,1610,1219,56,162,2,-3,58,159,30,0,383
+299,Jun 10 2017,African Nations Cup qualifier in Burundi,Burundi,South Sudan,1306,1074,3,0,9,-9,1315,1065,127,183,3,0,130,183,40,100,332
+300,Jun 10 2017,African Nations Cup qualifier in Cameroon,Cameroon,Morocco,1683,1613,1,0,11,-11,1694,1602,35,66,5,-5,40,61,40,100,170
+301,Jun 10 2017,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Congo,1588,1418,3,1,10,-10,1598,1408,62,105,0,-1,62,104,40,100,270
+302,Jun 10 2017,World Cup qualifier in Germany,Germany,San Marino,2041,858,7,0,0,0,2041,858,2,206,0,-1,2,205,20,0,1183
+303,Jun 10 2017,Friendly in Grenada,Grenada,Bermuda,1124,1202,1,2,-11,11,1113,1213,176,162,-1,1,175,163,20,100,22
+304,Jun 10 2017,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Namibia,1275,1374,1,0,20,-20,1295,1354,129,121,6,-2,135,119,40,100,1
+305,Jun 10 2017,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Guinea,1689,1504,2,3,-34,34,1655,1538,58,67,-9,8,49,75,40,100,285
+306,Jun 10 2017,World Cup qualifier in Kazakhstan,Kazakhstan,Denmark,1381,1726,1,3,-12,12,1369,1738,120,34,-3,0,117,34,40,100,-245
+307,Jun 10 2017,World Cup qualifier in Lithuania,Lithuania,Slovakia,1458,1757,1,2,-10,10,1448,1767,97,26,-2,1,95,27,40,100,-199
+308,Jun 10 2017,African Nations Cup qualifier in Malawi,Malawi,Comoros,1334,1018,1,0,3,-3,1337,1015,123,188,0,0,123,188,20,0,316
+309,Jun 10 2017,African Nations Cup qualifier in Mali,Mali,Gabon,1523,1444,2,1,11,-11,1534,1433,73,98,3,0,76,98,40,100,179
+310,Jun 10 2017,World Cup qualifier in Montenegro,Montenegro,Armenia,1578,1521,4,1,20,-20,1598,1501,60,88,2,-4,62,84,40,100,157
+311,Jun 10 2017,African Nations Cup qualifier in Niger,Niger,Swaziland,1294,1322,0,0,-4,4,1290,1326,139,125,-2,1,137,126,40,100,72
+312,Jun 10 2017,African Nations Cup qualifier in Nigeria,Nigeria,South Africa,1676,1608,0,2,-43,43,1633,1651,59,43,-5,8,54,51,40,100,168
+313,Jun 10 2017,World Cup qualifier in Norway,Norway,Czechia,1560,1700,1,1,2,-2,1562,1698,67,39,1,0,68,39,30,100,-40
+314,Jun 10 2017,World Cup qualifier in Poland,Poland,Romania,1863,1678,3,1,10,-10,1873,1668,11,49,2,-1,13,48,40,100,285
+315,Jun 10 2017,World Cup qualifier in Scotland,Scotland,England,1679,1926,2,2,8,-8,1687,1918,38,11,4,0,42,11,40,100,-147
+316,Jun 10 2017,African Nations Cup qualifier in Senegal,Senegal,Equatorial Guinea,1702,1345,3,0,5,-5,1707,1340,37,123,0,-1,37,122,40,100,457
+317,Jun 10 2017,African Nations Cup qualifier in Sierra Leone,Sierra Leone,Kenya,1363,1401,2,1,16,-16,1379,1385,110,114,4,-4,114,110,40,100,62
+318,Jun 10 2017,Asian Cup qualifier in Singapore,Singapore,Taiwan,1117,852,1,2,-36,36,1081,888,185,199,-5,3,180,202,40,100,365
+319,Jun 10 2017,World Cup qualifier in Slovenia,Slovenia,Malta,1639,1230,2,0,3,-3,1642,1227,53,156,0,-2,53,154,20,0,409
+320,Jun 10 2017,African Nations Cup qualifier in Tanzania,Tanzania,Lesotho,1336,1239,1,1,-10,10,1326,1249,130,144,-4,3,126,147,40,100,197
+321,Jun 10 2017,African Nations Cup qualifier in Zambia,Zambia,Mozambique,1449,1334,0,1,-31,31,1418,1365,108,113,-6,5,102,118,40,100,215
+322,Jun 11 2017,African Nations Cup qualifier in Algeria,Algeria,Togo,1609,1388,1,0,5,-5,1614,1383,53,114,3,-3,56,111,40,100,321
+323,Jun 11 2017,African Nations Cup qualifier in Benin,Benin,Gambia,1386,1287,1,0,10,-10,1396,1277,103,142,3,-2,106,140,40,100,199
+324,Jun 11 2017,African Nations Cup qualifier in Cape Verde,Cape Verde,Uganda,1443,1467,0,1,-24,24,1419,1491,107,82,-5,3,102,85,40,100,76
+325,Jun 11 2017,African Nations Cup qualifier in Central African Republic,Central African Republic,Rwanda,1286,1309,2,1,16,-16,1302,1293,127,141,6,-5,133,136,30,0,-23
+326,Jun 11 2017,World Cup qualifier in Finland,Finland,Ukraine,1541,1741,1,2,-14,14,1527,1755,80,29,-3,2,77,31,40,100,-100
+327,Jun 11 2017,African Nations Cup qualifier in Ghana,Ghana,Ethiopia,1573,1303,5,0,8,-8,1581,1295,65,134,0,0,65,134,40,100,370
+328,Jun 11 2017,World Cup qualifier in Iceland,Iceland,Croatia,1783,1870,1,0,19,-19,1802,1851,17,18,3,-2,20,16,30,0,-87
+329,Jun 11 2017,World Cup qualifier in Ireland,Ireland,Austria,1786,1684,1,1,-10,10,1776,1694,26,35,-2,5,24,40,40,100,202
+330,Jun 11 2017,World Cup qualifier in Israel,Israel,Albania,1614,1553,0,3,-50,50,1564,1603,82,49,-13,11,69,60,40,100,161
+331,Jun 11 2017,World Cup qualifier in Italy,Italy,Liechtenstein,1970,1166,5,0,0,0,1970,1166,6,168,0,0,6,168,20,0,804
+332,Jun 11 2017,World Cup qualifier in Albania,Kosovo,Turkey,1389,1788,1,4,-6,6,1383,1794,115,23,-4,-1,111,22,40,0,-399
+333,Jun 11 2017,World Cup qualifier in Macedonia,Macedonia,Spain,1451,2000,1,2,-3,3,1448,2003,94,4,0,0,94,4,40,100,-449
+334,Jun 11 2017,World Cup qualifier in Mexico,Mexico,United States,1936,1753,1,1,-13,13,1923,1766,11,25,-1,3,10,28,40,100,283
+335,Jun 11 2017,World Cup qualifier in Moldova,Moldova,Georgia,1352,1469,2,2,1,-1,1353,1468,119,89,1,-1,120,88,30,100,-17
+336,Jun 11 2017,World Cup qualifier in New Caledonia,New Caledonia,Fiji,1323,1220,2,1,9,-9,1332,1211,122,169,3,-6,125,163,40,100,203
+337,Jun 11 2017,World Cup qualifier in Serbia,Serbia,Wales,1745,1768,1,1,-4,4,1741,1772,34,26,-1,0,33,26,40,100,77
+338,Jun 11 2017,African Nations Cup qualifier in Tunisia,Tunisia,Egypt,1554,1686,1,0,22,-22,1576,1664,62,53,4,-5,66,48,40,100,-32
+339,Jun 11 2017,African Nations Cup qualifier in Zimbabwe,Zimbabwe,Liberia,1404,1328,3,0,19,-19,1423,1309,95,135,5,-5,100,130,40,100,176
+340,Jun 12 2017,Friendly in Belarus,Belarus,New Zealand,1572,1562,1,0,7,-7,1579,1555,65,72,1,-1,66,71,20,100,110
+341,Jun 12 2017,World Cup qualifier in Iran,Iran,Uzbekistan,1782,1648,2,0,12,-12,1794,1636,21,54,1,-1,22,53,40,100,234
+342,Jun 12 2017,Friendly in Latvia,Latvia,Estonia,1395,1465,1,2,-11,11,1384,1476,111,84,-2,3,109,87,20,100,30
+343,Jun 13 2017,Friendly in Australia,Australia,Brazil,1720,2110,0,4,-6,6,1714,2116,35,1,0,0,35,1,20,100,-290
+344,Jun 13 2017,Asian Cup qualifier in Bhutan,Bhutan,Maldives,608,937,0,2,-13,13,595,950,231,193,-1,2,230,195,40,100,-229
+345,Jun 13 2017,Asian Cup qualifier in Cambodia,Cambodia,Afghanistan,795,1161,1,0,33,-33,828,1128,205,177,3,-4,208,173,40,100,-266
+346,Jun 13 2017,Friendly in Canada,Canada,Curaçao,1530,1227,2,1,2,-2,1532,1225,78,154,-1,0,77,154,20,100,403
+347,Jun 13 2017,Friendly in Spain,Colombia,Cameroon,1963,1694,4,0,7,-7,1970,1687,4,44,2,-2,6,42,20,0,269
+348,Jun 13 2017,World Cup qualifier in Costa Rica,Costa Rica,Trinidad and Tobago,1757,1445,2,1,3,-3,1760,1442,28,96,1,0,29,96,20,0,312
+349,Jun 13 2017,Friendly in the United States,Ecuador,El Salvador,1798,1431,3,0,4,-4,1802,1427,19,100,1,-1,20,99,20,0,367
+350,Jun 13 2017,Friendly in France,France,England,1968,1918,3,2,6,-6,1974,1912,3,11,2,0,5,11,20,100,150
+351,Jun 13 2017,Asian Cup qualifier in Hong Kong,Hong Kong,North Korea,1189,1526,1,1,12,-12,1201,1514,163,83,2,-2,165,81,40,100,-237
+352,Jun 13 2017,Asian Cup qualifier in India,India,Kyrgyzstan,1133,1229,1,0,20,-20,1153,1209,169,171,2,-9,171,162,40,100,4
+353,Jun 13 2017,Friendly in Indonesia,Indonesia,Puerto Rico,1235,1021,0,0,-7,7,1228,1028,153,185,-1,1,152,186,20,100,314
+354,Jun 13 2017,World Cup qualifier in Iran,Iraq,Japan,1505,1774,1,1,13,-13,1518,1761,78,31,2,-3,80,28,40,0,-269
+355,Jun 13 2017,Asian Cup qualifier in Macao,Macao,Myanmar,684,1061,0,4,-13,13,671,1074,224,182,-1,1,223,183,40,100,-277
+356,Jun 13 2017,Asian Cup qualifier in Malaysia,Malaysia,Lebanon,1111,1377,1,2,-11,11,1100,1388,178,103,-1,6,177,109,40,100,-166
+357,Jun 13 2017,Asian Cup qualifier in Nepal,Nepal,Yemen,890,1222,0,0,12,-12,902,1210,201,166,0,-5,201,161,40,100,-232
+358,Jun 13 2017,Friendly in Norway,Norway,Sweden,1562,1812,1,1,4,-4,1566,1808,68,19,1,0,69,19,20,100,-150
+359,Jun 13 2017,Asian Cup qualifier in Palestine,Palestine,Oman,1376,1466,2,1,19,-19,1395,1447,100,100,8,-5,108,95,30,0,-90
+360,Jun 13 2017,World Cup qualifier in Panama,Panama,Honduras,1655,1587,2,2,-9,9,1646,1596,51,64,-1,0,50,64,40,100,168
+361,Jun 13 2017,World Cup qualifier in Papua New Guinea,Papua New Guinea,Solomon Islands,1116,1148,1,2,-24,24,1092,1172,182,165,-4,3,178,168,40,100,68
+362,Jun 13 2017,Friendly in Peru,Peru,Jamaica,1853,1526,3,1,2,-2,1855,1524,15,79,0,0,15,79,20,100,427
+363,Jun 13 2017,World Cup qualifier in Qatar,Qatar,South Korea,1527,1759,3,2,27,-27,1554,1732,67,39,5,-5,72,34,40,100,-132
+364,Jun 13 2017,Friendly in Romania,Romania,Chile,1668,1977,3,2,15,-15,1683,1962,43,11,2,-3,45,8,20,100,-209
+365,Jun 13 2017,Friendly in Singapore,Singapore,Argentina,1081,2017,0,6,0,0,1081,2017,180,3,0,0,180,3,20,0,-936
+366,Jun 13 2017,Friendly in South Africa,South Africa,Zambia,1651,1418,1,2,-17,17,1634,1435,55,91,-2,6,53,97,20,100,333
+367,Jun 13 2017,World Cup qualifier in Malaysia,Syria,China,1571,1547,2,2,-1,1,1570,1548,68,73,0,0,68,73,20,0,24
+368,Jun 13 2017,Asian Cup qualifier in Tajikistan,Tajikistan,Philippines,1230,1219,3,4,-26,26,1204,1245,174,140,-11,9,163,149,40,100,111
+369,Jun 13 2017,World Cup qualifier in Thailand,Thailand,United Arab Emirates,1384,1549,1,1,4,-4,1388,1545,109,76,0,-2,109,74,20,0,-165
+370,Jun 13 2017,Asian Cup qualifier in Turkmenistan,Turkmenistan,Bahrain,1268,1385,1,2,-19,19,1249,1404,151,105,-5,1,146,106,40,100,-17
+371,Jun 13 2017,Asian Cup qualifier in Vietnam,Vietnam,Jordan,1268,1502,0,0,7,-7,1275,1495,141,85,0,-1,141,84,40,100,-134
+372,Jun 17 2017,Friendly in Curaçao,Curaçao,Nicaragua,1225,1316,0,0,0,0,1225,1316,154,128,0,0,154,128,20,100,9
+373,Jun 17 2017,Friendly in French Guiana,French Guiana,Barbados,1353,1145,3,0,5,-5,1358,1140,118,172,1,0,119,172,20,100,308
+374,Jun 17 2017,Confederations Cup in Russia,Russia,New Zealand,1702,1555,2,0,15,-15,1717,1540,32,77,3,-3,35,74,50,100,247
+375,Jun 18 2017,Confederations Cup in Russia,Chile,Cameroon,1962,1687,2,0,13,-13,1975,1674,2,52,3,-5,5,47,50,0,275
+376,Jun 18 2017,Confederations Cup in Russia,Mexico,Portugal,1923,1930,2,2,1,-1,1924,1929,10,9,0,0,10,9,50,0,-7
+377,Jun 19 2017,Confederations Cup in Russia,Germany,Australia,2041,1714,3,2,7,-7,2048,1707,2,38,0,-1,2,37,50,0,327
+378,Jun 21 2017,Confederations Cup in Russia,Mexico,New Zealand,1924,1540,2,1,5,-5,1929,1535,10,76,0,-1,10,75,50,0,384
+379,Jun 21 2017,Confederations Cup in Russia,Russia,Portugal,1717,1929,0,1,-17,17,1700,1946,41,9,-3,0,38,9,50,100,-112
+380,Jun 22 2017,Confederations Cup in Russia,Australia,Cameroon,1707,1674,1,1,-2,2,1705,1676,38,47,-1,0,37,47,40,0,33
+381,Jun 22 2017,Confederations Cup in Russia,Chile,Germany,1975,2048,1,1,5,-5,1980,2043,5,2,0,0,5,2,50,0,-73
+382,Jun 22 2017,Caribbean Championship in Martinique,Jamaica,French Guiana,1524,1358,1,1,-9,9,1515,1367,81,117,-1,1,80,118,40,0,166
+383,Jun 22 2017,Caribbean Championship in Martinique,Martinique,Curaçao,1486,1225,1,2,-36,36,1450,1261,98,132,-6,11,92,143,40,100,361
+384,Jun 24 2017,Confederations Cup in Russia,Portugal,New Zealand,1946,1535,4,0,8,-8,1954,1527,9,79,0,-2,9,77,50,0,411
+385,Jun 24 2017,Confederations Cup in Russia,Russia,Mexico,1700,1929,1,2,-16,16,1684,1945,48,10,-5,0,43,10,50,100,-129
+386,Jun 25 2017,COSAFA Cup in South Africa,Angola,Mauritius,1219,1060,1,0,11,-11,1230,1049,150,185,3,0,153,185,40,0,159
+387,Jun 25 2017,Confederations Cup in Russia,Australia,Chile,1705,1980,1,1,16,-16,1721,1964,33,11,2,-3,35,8,50,0,-275
+388,Jun 25 2017,Caribbean Championship in Martinique,Curaçao,Jamaica,1261,1515,2,1,32,-32,1293,1483,129,90,7,-5,136,85,40,0,-254
+389,Jun 25 2017,Confederations Cup in Russia,Germany,Cameroon,2043,1676,3,1,8,-8,2051,1668,2,47,0,0,2,47,50,0,367
+390,Jun 25 2017,Caribbean Championship in Martinique,Martinique,French Guiana,1450,1367,0,1,-30,30,1420,1397,112,96,-10,11,102,107,40,100,183
+391,Jun 25 2017,COSAFA Cup in South Africa,Tanzania,Malawi,1326,1337,2,0,31,-31,1357,1306,114,141,6,-9,120,132,40,0,-11
+392,Jun 26 2017,COSAFA Cup in South Africa,Madagascar,Seychelles,1309,955,2,0,7,-7,1316,948,125,198,2,-2,127,196,40,0,354
+393,Jun 26 2017,COSAFA Cup in South Africa,Zimbabwe,Mozambique,1423,1365,4,0,31,-31,1454,1334,84,129,8,-5,92,124,40,0,58
+394,Jun 27 2017,COSAFA Cup in South Africa,Angola,Tanzania,1230,1357,0,0,7,-7,1237,1350,153,123,0,-2,153,121,40,0,-127
+395,Jun 27 2017,COSAFA Cup in South Africa,Malawi,Mauritius,1306,1049,0,0,-13,13,1293,1062,138,185,-3,0,135,185,40,0,257
+396,Jun 28 2017,Confederations Cup in Russia,Chile,Portugal,1964,1954,0,0,-1,1,1963,1955,8,9,0,0,8,9,40,0,10
+397,Jun 28 2017,Windward Islands Champ in Grenada,Grenada,Dominica,1113,966,1,1,-9,9,1104,975,176,192,-1,0,175,192,30,100,247
+398,Jun 28 2017,COSAFA Cup in South Africa,Madagascar,Zimbabwe,1316,1454,0,0,8,-8,1324,1446,127,98,0,-3,127,95,40,0,-138
+399,Jun 28 2017,Friendly in the United States,Mexico,Ghana,1945,1581,1,0,2,-2,1947,1579,10,65,0,0,10,65,20,0,364
+400,Jun 28 2017,COSAFA Cup in South Africa,Mozambique,Seychelles,1334,948,2,1,4,-4,1338,944,122,198,1,-1,123,197,40,0,386
+401,Jun 28 2017,Windward Islands Champ in Grenada,Saint Lucia,St Vincent & Grenadines,1103,1106,2,1,15,-15,1118,1091,172,181,2,-3,174,178,30,0,-3
+402,Jun 29 2017,COSAFA Cup in South Africa,Angola,Malawi,1237,1293,0,0,3,-3,1240,1290,153,141,0,-3,153,138,40,0,-56
+403,Jun 29 2017,Confederations Cup in Russia,Germany,Mexico,2051,1947,4,1,31,-31,2082,1916,2,10,0,0,2,10,50,0,104
+404,Jun 29 2017,COSAFA Cup in South Africa,Mauritius,Tanzania,1062,1350,1,1,14,-14,1076,1336,181,125,2,-2,183,123,40,0,-288
+405,Jun 30 2017,Windward Islands Champ in Grenada,Dominica,Barbados,975,1140,2,1,22,-22,997,1118,188,176,2,-2,190,174,30,0,-165
+406,Jun 30 2017,Windward Islands Champ in Grenada,Grenada,Saint Lucia,1104,1118,2,0,17,-17,1121,1101,171,176,2,-1,173,175,30,100,86
+407,Jun 30 2017,COSAFA Cup in South Africa,Madagascar,Mozambique,1324,1338,4,1,36,-36,1360,1302,111,140,8,-9,119,131,40,0,-14
+408,Jun 30 2017,COSAFA Cup in South Africa,Zimbabwe,Seychelles,1446,944,6,0,4,-4,1450,940,89,197,3,0,92,197,40,0,502
+409,Jul 1 2017,COSAFA Cup in South Africa,Lesotho,Namibia,1249,1354,0,0,6,-6,1255,1348,143,122,2,-1,145,121,40,0,-105
+410,Jul 1 2017,Friendly in the United States,Mexico,Paraguay,1916,1713,2,1,5,-5,1921,1708,10,36,0,0,10,36,20,0,203
+411,Jul 1 2017,Friendly in the United States,United States,Ghana,1766,1579,2,1,3,-3,1769,1576,25,67,1,-1,26,66,20,100,287
+412,Jul 1 2017,COSAFA Cup in South Africa,Zambia,Botswana,1435,1253,2,1,10,-10,1445,1243,95,158,1,-6,96,152,40,0,182
+413,Jul 2 2017,Confederations Cup in Russia,Germany,Chile,2082,1963,1,0,17,-17,2099,1946,2,10,0,-1,2,9,50,0,119
+414,Jul 2 2017,Confederations Cup in Russia,Portugal,Mexico,1955,1921,2,1,23,-23,1978,1898,1,14,4,-2,5,12,50,0,34
+415,Jul 2 2017,COSAFA Cup in South Africa,South Africa,Tanzania,1634,1336,0,1,-36,36,1598,1372,69,113,-8,5,61,118,40,100,398
+416,Jul 2 2017,COSAFA Cup in South Africa,Zimbabwe,Swaziland,1450,1326,2,1,13,-13,1463,1313,86,130,3,-2,89,128,40,0,124
+417,Jul 3 2017,Windward Islands Champ in Grenada,Barbados,Saint Lucia,1118,1101,1,1,-1,1,1117,1102,174,175,0,0,174,175,30,0,17
+418,Jul 3 2017,Windward Islands Champ in Grenada,Grenada,St Vincent & Grenadines,1121,1091,4,3,10,-10,1131,1081,171,180,1,-1,172,179,30,100,130
+419,Jul 3 2017,Friendly in the United States,Nicaragua,Canada,1316,1532,3,1,23,-23,1339,1509,122,86,2,-5,124,81,20,0,-216
+420,Jul 4 2017,Windward Islands Champ in Grenada,Dominica,Saint Lucia,997,1102,0,0,4,-4,1001,1098,190,177,0,-1,190,176,30,0,-105
+421,Jul 4 2017,COSAFA Cup in South Africa,Namibia,Swaziland,1348,1313,1,0,18,-18,1366,1295,118,136,2,-4,120,132,40,0,35
+422,Jul 4 2017,COSAFA Cup in South Africa,South Africa,Botswana,1598,1243,2,0,4,-4,1602,1239,59,154,1,-1,60,153,40,100,455
+423,Jul 4 2017,Windward Islands Champ in Grenada,St Vincent & Grenadines,Barbados,1081,1117,4,2,25,-25,1106,1092,169,180,5,-3,174,177,30,0,-36
+424,Jul 5 2017,COSAFA Cup in South Africa,Zambia,Tanzania,1445,1372,4,2,24,-24,1469,1348,82,126,7,-4,89,122,40,0,73
+425,Jul 5 2017,COSAFA Cup in South Africa,Zimbabwe,Lesotho,1463,1255,4,3,9,-9,1472,1246,87,149,1,-2,88,147,40,0,208
+426,Jul 6 2017,Windward Islands Champ in Grenada,Dominica,St Vincent & Grenadines,1001,1106,2,2,4,-4,1005,1102,188,174,1,0,189,174,30,0,-105
+427,Jul 6 2017,Windward Islands Champ in Grenada,Grenada,Barbados,1131,1092,0,2,-31,31,1100,1123,178,169,-3,4,175,173,30,100,139
+428,Jul 7 2017,CONCACAF Championship in the United States,Canada,French Guiana,1509,1397,4,2,26,-26,1535,1371,69,127,6,-10,75,117,50,0,112
+429,Jul 7 2017,CONCACAF Championship in the United States,Costa Rica,Honduras,1760,1596,1,0,14,-14,1774,1582,21,64,4,0,25,64,50,0,164
+430,Jul 7 2017,COSAFA Cup in South Africa,Lesotho,Tanzania,1246,1348,0,0,6,-6,1252,1342,145,122,1,0,146,122,40,0,-102
+431,Jul 7 2017,COSAFA Cup in South Africa,South Africa,Namibia,1602,1366,1,0,5,-5,1607,1361,56,119,2,0,58,119,40,100,336
+432,Jul 8 2017,CONCACAF Championship in the United States,Martinique,Nicaragua,1420,1339,2,0,29,-29,1449,1310,86,130,8,-3,94,127,50,0,81
+433,Jul 8 2017,CONCACAF Championship in the United States,United States,Panama,1769,1646,1,1,-14,14,1755,1660,31,48,-2,1,29,49,50,100,223
+434,Jul 9 2017,CONCACAF Championship in the United States,Jamaica,Curaçao,1483,1293,2,0,19,-19,1502,1274,79,149,3,-7,82,142,50,0,190
+435,Jul 9 2017,CONCACAF Championship in the United States,Mexico,El Salvador,1898,1427,3,1,5,-5,1903,1422,10,104,1,-2,11,102,50,0,471
+436,Jul 9 2017,COSAFA Cup in South Africa,Zimbabwe,Zambia,1472,1469,3,1,30,-30,1502,1439,76,107,6,-9,82,98,40,0,3
+437,Jul 11 2017,CONCACAF Championship in the United States,Canada,Costa Rica,1535,1774,1,1,15,-15,1550,1759,69,31,3,-3,72,28,50,0,-239
+438,Jul 11 2017,CONCACAF Championship in the United States,French Guiana,Honduras,1371,1582,0,0,14,-14,1385,1568,105,72,6,-4,111,68,50,0,-211
+439,Jul 12 2017,CONCACAF Championship in the United States,Panama,Nicaragua,1660,1310,2,1,6,-6,1666,1304,47,131,1,-2,48,129,50,0,350
+440,Jul 12 2017,CONCACAF Championship in the United States,United States,Martinique,1755,1449,3,2,4,-4,1759,1445,27,99,1,-3,28,96,30,0,306
+441,Jul 13 2017,CONCACAF Championship in the United States,El Salvador,Curaçao,1422,1274,2,0,22,-22,1444,1252,92,148,5,-3,97,145,50,0,148
+442,Jul 13 2017,CONCACAF Championship in the United States,Jamaica,Mexico,1502,1903,0,0,20,-20,1522,1883,76,13,3,-1,79,12,50,0,-401
+443,Jul 14 2017,CONCACAF Championship in the United States,Canada,Honduras,1550,1568,0,0,1,-1,1551,1567,72,68,0,0,72,68,20,0,-18
+444,Jul 14 2017,CONCACAF Championship in the United States,Costa Rica,French Guiana,1759,1385,3,0,9,-9,1768,1376,24,123,2,-6,26,117,50,0,374
+445,Jul 14 2017,King's Cup in Thailand,Thailand,North Korea,1388,1514,3,0,28,-28,1416,1486,101,91,4,-5,105,86,30,100,-26
+446,Jul 15 2017,CONCACAF Championship in the United States,Panama,Martinique,1666,1445,3,0,19,-19,1685,1426,38,104,5,-4,43,100,50,0,221
+447,Jul 15 2017,CONCACAF Championship in the United States,United States,Nicaragua,1759,1304,3,0,3,-3,1762,1301,27,133,1,-2,28,131,40,100,555
+448,Jul 16 2017,CONCACAF Championship in the United States,El Salvador,Jamaica,1444,1522,1,1,6,-6,1450,1516,90,81,3,-1,93,80,50,0,-78
+449,Jul 16 2017,CONCACAF Championship in the United States,Mexico,Curaçao,1883,1252,2,0,2,-2,1885,1250,12,147,0,-1,12,146,40,0,631
+450,Jul 19 2017,CONCACAF Championship in the United States,Costa Rica,Panama,1768,1685,1,0,19,-19,1787,1666,22,53,2,-5,24,48,50,0,83
+451,Jul 19 2017,CONCACAF Championship in the United States,United States,El Salvador,1762,1450,2,0,6,-6,1768,1444,26,99,1,-3,27,96,30,0,312
+452,Jul 20 2017,CONCACAF Championship in the United States,Jamaica,Canada,1516,1551,2,1,28,-28,1544,1523,68,86,6,-7,74,79,50,0,-35
+453,Jul 20 2017,CONCACAF Championship in the United States,Mexico,Honduras,1885,1567,1,0,7,-7,1892,1560,12,72,0,-2,12,70,50,0,318
+454,Jul 22 2017,CONCACAF Championship in the United States,United States,Costa Rica,1768,1787,2,0,29,-29,1797,1758,17,34,5,-5,22,29,50,100,81
+455,Jul 23 2017,CONCACAF Championship in the United States,Jamaica,Mexico,1544,1892,1,0,44,-44,1588,1848,54,22,10,-5,64,17,50,0,-348
+456,Jul 26 2017,Friendly in Ecuador,Ecuador,Trinidad and Tobago,1802,1442,3,1,2,-2,1804,1440,20,97,0,0,20,97,20,100,460
+457,Jul 26 2017,CONCACAF Championship in the United States,United States,Jamaica,1797,1588,2,1,7,-7,1804,1581,18,64,2,0,20,64,30,0,209
+458,Jul 28 2017,Friendly in the Solomon Islands,Solomon Islands,Vanuatu,1172,1191,0,0,-2,2,1170,1193,168,167,0,0,168,167,20,100,81
+459,Aug 16 2017,Friendly in England,Qatar,Andorra,1554,1022,1,0,1,-1,1555,1021,72,187,0,0,72,187,20,0,532
+460,Aug 19 2017,Friendly tournament in India,India,Mauritius,1153,1076,2,1,8,-8,1161,1068,169,185,1,-1,170,184,20,0,77
+461,Aug 22 2017,Friendly in Malaysia,Malaysia,Syria,1100,1570,1,2,-2,2,1098,1572,177,68,-1,0,176,68,20,100,-370
+462,Aug 22 2017,Friendly tournament in India,Mauritius,Saint Kitts and Nevis,1068,1259,1,1,8,-8,1076,1251,182,147,1,-2,183,145,30,0,-191
+463,Aug 23 2017,Friendly in Qatar,Qatar,Turkmenistan,1555,1249,2,1,2,-2,1557,1247,72,147,0,0,72,147,20,100,406
+464,Aug 24 2017,Friendly tournament in India,India,Saint Kitts and Nevis,1161,1251,1,1,0,0,1161,1251,170,145,0,0,170,145,20,100,10
+465,Aug 24 2017,Friendly in Trinidad and Tobago,Trinidad and Tobago,Jamaica,1440,1581,1,2,-9,9,1431,1590,101,64,-2,0,99,64,20,100,-41
+466,Aug 25 2017,Friendly in Uzbekistan,Uzbekistan,Kyrgyzstan,1636,1209,5,0,2,-2,1638,1207,52,162,0,0,52,162,20,100,527
+467,Aug 26 2017,Friendly in Malaysia,Iraq,Syria,1518,1572,1,1,2,-2,1520,1570,80,68,0,0,80,68,20,0,-54
+468,Aug 29 2017,Friendly in Bahrain,Bahrain,Jordan,1404,1495,0,0,0,0,1404,1495,107,84,0,0,107,84,20,100,9
+469,Aug 29 2017,Friendly in Myanmar,Myanmar,Malaysia,1074,1098,1,0,8,-8,1082,1090,176,180,4,-2,180,178,20,100,76
+470,Aug 29 2017,World Cup qualifier in the United Arab Emirates,United Arab Emirates,Saudi Arabia,1545,1606,2,1,18,-18,1563,1588,68,69,3,-5,71,64,30,0,-61
+471,Aug 30 2017,Friendly in Oman,Oman,Afghanistan,1447,1128,2,0,2,-2,1449,1126,91,172,2,0,93,172,20,100,419
+472,Aug 31 2017,World Cup qualifier in Belgium,Belgium,Gibraltar,1899,1090,9,0,1,-1,1900,1089,9,180,1,-1,10,179,30,0,809
+473,Aug 31 2017,World Cup qualifier in Brazil,Brazil,Ecuador,2116,1804,2,0,5,-5,2121,1799,1,22,0,-1,1,21,40,100,412
+474,Aug 31 2017,World Cup qualifier in Bulgaria,Bulgaria,Sweden,1613,1808,3,2,25,-25,1638,1783,48,29,4,-5,52,24,40,100,-95
+475,Aug 31 2017,World Cup qualifier in Chile,Chile,Paraguay,1946,1708,0,3,-61,61,1885,1769,13,20,-2,8,11,28,40,100,338
+476,Aug 31 2017,World Cup qualifier in China,China,Uzbekistan,1548,1638,1,0,19,-19,1567,1619,62,58,6,-3,68,55,30,0,-90
+477,Aug 31 2017,World Cup qualifier in Cyprus,Cyprus,Bosnia and Herzegovina,1418,1754,3,2,32,-32,1450,1722,82,39,11,-4,93,35,40,100,-236
+478,Aug 31 2017,World Cup qualifier in France,France,Netherlands,1974,1849,4,0,16,-16,1990,1833,4,20,1,-2,5,18,40,100,225
+479,Aug 31 2017,World Cup qualifier in Greece,Greece,Estonia,1678,1476,0,0,-14,14,1664,1490,50,85,-2,1,48,86,40,100,302
+480,Aug 31 2017,World Cup qualifier in Guinea,Guinea,Libya,1538,1462,3,2,11,-11,1549,1451,71,94,2,-2,73,92,40,100,176
+481,Aug 31 2017,World Cup qualifier in Hungary,Hungary,Latvia,1619,1384,3,1,8,-8,1627,1376,54,120,0,-4,54,116,40,100,335
+482,Aug 31 2017,World Cup qualifier in Japan,Japan,Australia,1761,1721,2,0,19,-19,1780,1702,22,39,3,-2,25,37,40,100,140
+483,Aug 31 2017,World Cup qualifier in Luxembourg,Luxembourg,Belarus,1246,1579,1,0,32,-32,1278,1547,132,83,8,-9,140,74,40,100,-233
+484,Aug 31 2017,World Cup qualifier in Peru,Peru,Bolivia,1855,1686,2,1,7,-7,1862,1679,14,48,0,-3,14,45,40,100,269
+485,Aug 31 2017,World Cup qualifier in Portugal,Portugal,Faroe Islands,1978,1280,5,1,1,-1,1979,1279,7,137,-1,1,6,138,20,0,698
+486,Aug 31 2017,Friendly in Singapore,Singapore,Hong Kong,1081,1201,1,1,1,-1,1082,1200,179,165,1,0,180,165,20,100,-20
+487,Aug 31 2017,World Cup qualifier in South Korea,South Korea,Iran,1732,1794,0,0,-2,2,1730,1796,34,21,0,1,34,22,30,100,38
+488,Aug 31 2017,World Cup qualifier in Switzerland,Switzerland,Andorra,1865,1021,3,0,0,0,1865,1021,13,187,0,0,13,187,20,0,844
+489,Aug 31 2017,World Cup qualifier in Malaysia,Syria,Qatar,1570,1557,3,1,29,-29,1599,1528,54,81,7,-4,61,77,40,0,13
+490,Aug 31 2017,World Cup qualifier in Thailand,Thailand,Iraq,1416,1520,1,2,-20,20,1396,1540,109,70,-2,5,107,75,40,100,-4
+491,Aug 31 2017,Friendly in Morocco,Togo,Niger,1383,1290,2,0,11,-11,1394,1279,107,139,3,-1,110,138,20,0,93
+492,Aug 31 2017,World Cup qualifier in Uganda,Uganda,Egypt,1491,1664,1,0,24,-24,1515,1640,77,53,4,-2,81,51,40,100,-73
+493,Aug 31 2017,World Cup qualifier in Uruguay,Uruguay,Argentina,1842,2017,0,0,4,-4,1846,2013,16,3,1,0,17,3,40,100,-75
+494,Aug 31 2017,World Cup qualifier in Venezuela,Venezuela,Colombia,1688,1970,0,0,10,-10,1698,1960,36,9,2,-1,38,8,30,0,-282
+495,Sep 1 2017,World Cup qualifier in Cape Verde,Cape Verde,South Africa,1419,1607,2,1,25,-25,1444,1582,88,72,8,-7,96,65,40,100,-88
+496,Sep 1 2017,World Cup qualifier in Czechia,Czechia,Germany,1698,2099,1,2,-6,6,1692,2105,44,2,-3,0,41,2,40,100,-301
+497,Sep 1 2017,World Cup qualifier in Denmark,Denmark,Poland,1738,1873,4,0,41,-41,1779,1832,19,24,7,-6,26,18,40,100,-35
+498,Sep 1 2017,World Cup qualifier in Ghana,Ghana,Congo,1576,1408,1,1,-13,13,1563,1421,76,101,-5,2,71,103,40,100,268
+499,Sep 1 2017,World Cup qualifier in Kazakhstan,Kazakhstan,Montenegro,1369,1598,0,3,-23,23,1346,1621,124,50,-3,6,121,56,40,100,-129
+500,Sep 1 2017,World Cup qualifier in Lithuania,Lithuania,Scotland,1448,1687,0,3,-22,22,1426,1709,105,31,-5,5,100,36,40,100,-139
+501,Sep 1 2017,World Cup qualifier in Malta,Malta,England,1227,1912,0,4,-2,2,1225,1914,155,9,0,0,155,9,30,100,-585
+502,Sep 1 2017,World Cup qualifier in Mexico,Mexico,Panama,1848,1666,1,0,7,-7,1855,1659,12,49,2,-1,14,48,40,100,282
+503,Sep 1 2017,World Cup qualifier in Morocco,Morocco,Mali,1602,1534,6,0,23,-23,1625,1511,50,86,5,-5,55,81,40,100,168
+504,Sep 1 2017,World Cup qualifier in New Zealand,New Zealand,Solomon Islands,1527,1170,6,1,5,-5,1532,1165,74,170,2,-1,76,169,20,0,357
+505,Sep 1 2017,World Cup qualifier in Nigeria,Nigeria,Cameroon,1633,1668,4,0,31,-31,1664,1637,39,58,7,-6,46,52,30,0,-35
+506,Sep 1 2017,World Cup qualifier in Norway,Norway,Azerbaijan,1566,1423,2,0,12,-12,1578,1411,65,107,2,-2,67,105,40,100,243
+507,Sep 1 2017,World Cup qualifier in Romania,Romania,Armenia,1683,1501,1,0,7,-7,1690,1494,41,86,1,-1,42,85,40,100,282
+508,Sep 1 2017,World Cup qualifier in San Marino,San Marino,Northern Ireland,858,1681,0,3,-1,1,857,1682,205,44,0,0,205,44,20,100,-723
+509,Sep 1 2017,World Cup qualifier in Slovakia,Slovakia,Slovenia,1767,1642,1,0,9,-9,1776,1633,25,56,2,-3,27,53,40,100,225
+510,Sep 1 2017,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,Honduras,1431,1560,1,2,-18,18,1413,1578,108,62,-4,5,104,67,40,100,-29
+511,Sep 1 2017,World Cup qualifier in Tunisia,Tunisia,DR Congo,1576,1598,2,1,16,-16,1592,1582,58,68,4,-3,62,65,30,0,-22
+512,Sep 1 2017,World Cup qualifier in the United States,United States,Costa Rica,1804,1758,0,2,-42,42,1762,1800,43,10,-12,10,31,20,40,100,146
+513,Sep 2 2017,World Cup qualifier in Albania,Albania,Liechtenstein,1603,1166,2,0,3,-3,1606,1163,58,170,1,-1,59,169,30,0,437
+514,Sep 2 2017,Friendly in Canada,Canada,Jamaica,1523,1590,2,0,14,-14,1537,1576,73,73,3,-5,76,68,20,100,33
+515,Sep 2 2017,World Cup qualifier in Finland,Finland,Iceland,1527,1802,1,0,29,-29,1556,1773,66,37,6,-9,72,28,40,100,-175
+516,Sep 2 2017,World Cup qualifier in Gabon,Gabon,Ivory Coast,1433,1655,0,3,-23,23,1410,1678,111,43,-6,3,105,46,40,100,-122
+517,Sep 2 2017,World Cup qualifier in Georgia,Georgia,Ireland,1468,1776,1,1,11,-11,1479,1765,87,35,1,-4,88,31,30,0,-308
+518,Sep 2 2017,Friendly in Indonesia,Indonesia,Fiji,1228,1211,0,0,-3,3,1225,1214,154,158,0,1,154,159,20,100,117
+519,Sep 2 2017,World Cup qualifier in Israel,Israel,Macedonia,1564,1448,0,1,-31,31,1533,1479,84,81,-7,7,77,88,40,100,216
+520,Sep 2 2017,Friendly in Mozambique,Mozambique,Kenya,1302,1385,1,1,0,0,1302,1385,129,112,0,0,129,112,20,100,17
+521,Sep 2 2017,World Cup qualifier in Senegal,Senegal,Burkina Faso,1707,1610,0,0,-10,10,1697,1620,41,55,-2,2,39,57,40,100,197
+522,Sep 2 2017,World Cup qualifier in Serbia,Serbia,Moldova,1741,1353,3,0,4,-4,1745,1349,33,120,0,0,33,120,40,100,488
+523,Sep 2 2017,World Cup qualifier in Spain,Spain,Italy,2003,1970,3,0,22,-22,2025,1948,2,9,1,-1,3,8,40,100,133
+524,Sep 2 2017,Friendly in Tanzania,Tanzania,Botswana,1342,1239,2,0,7,-7,1349,1232,118,153,2,0,120,153,20,100,203
+525,Sep 2 2017,World Cup qualifier in Ukraine,Ukraine,Turkey,1755,1794,2,0,25,-25,1780,1769,16,35,8,-6,24,29,30,0,-39
+526,Sep 2 2017,World Cup qualifier in Wales,Wales,Austria,1772,1694,1,0,11,-11,1783,1683,15,46,7,-3,22,43,40,100,178
+527,Sep 2 2017,World Cup qualifier in Zambia,Zambia,Algeria,1439,1614,3,1,36,-36,1475,1578,82,72,8,-7,90,65,40,100,-75
+528,Sep 3 2017,World Cup qualifier in Belarus,Belarus,Sweden,1547,1783,0,4,-24,24,1523,1807,84,16,-5,3,79,19,40,100,-136
+529,Sep 3 2017,World Cup qualifier in Croatia,Croatia,Kosovo,1851,1383,1,0,1,-1,1852,1382,15,113,0,0,15,113,20,0,468
+530,Sep 3 2017,Friendly in Equatorial Guinea,Equatorial Guinea,Benin,1340,1396,1,2,-11,11,1329,1407,127,105,-2,1,125,106,20,100,44
+531,Sep 3 2017,World Cup qualifier in Estonia,Estonia,Cyprus,1490,1450,1,0,12,-12,1502,1438,80,101,3,-3,83,98,40,100,140
+532,Sep 3 2017,World Cup qualifier in the Faroe Islands,Faroe Islands,Andorra,1279,1021,1,0,5,-5,1284,1016,140,187,-1,0,139,187,40,100,358
+533,Sep 3 2017,World Cup qualifier in France,France,Luxembourg,1990,1278,0,0,-20,20,1970,1298,7,124,-1,8,6,132,40,100,812
+534,Sep 3 2017,World Cup qualifier in Portugal,Gibraltar,Bosnia and Herzegovina,1089,1722,0,4,-2,2,1087,1724,179,35,0,0,179,35,20,100,-533
+535,Sep 3 2017,World Cup qualifier in Greece,Greece,Belgium,1664,1900,1,2,-13,13,1651,1913,51,10,-2,0,49,10,40,100,-136
+536,Sep 3 2017,World Cup qualifier in Hungary,Hungary,Portugal,1627,1979,0,1,-8,8,1619,1987,60,4,-3,1,57,5,40,100,-252
+537,Sep 3 2017,World Cup qualifier in Latvia,Latvia,Switzerland,1376,1865,0,3,-7,7,1369,1872,118,12,-1,0,117,12,40,100,-389
+538,Sep 3 2017,World Cup qualifier in the Netherlands,Netherlands,Bulgaria,1833,1638,3,1,9,-9,1842,1629,17,55,0,-2,17,53,40,100,295
+539,Sep 4 2017,World Cup qualifier in Armenia,Armenia,Denmark,1494,1779,1,4,-18,18,1476,1797,92,18,-3,4,89,22,40,100,-185
+540,Sep 4 2017,World Cup qualifier in Azerbaijan,Azerbaijan,San Marino,1411,857,5,1,2,-2,1413,855,102,205,1,0,103,205,30,0,554
+541,Sep 4 2017,World Cup qualifier in Cameroon,Cameroon,Nigeria,1637,1664,1,1,-4,4,1633,1668,55,47,-2,0,53,47,40,100,73
+542,Sep 4 2017,World Cup qualifier in England,England,Slovakia,1914,1776,2,1,8,-8,1922,1768,9,33,0,-3,9,30,40,100,238
+543,Sep 4 2017,World Cup qualifier in Germany,Germany,Norway,2105,1578,6,0,2,-2,2107,1576,2,69,0,-2,2,67,20,0,527
+544,Sep 4 2017,World Cup qualifier in Tunisia,Libya,Guinea,1451,1549,1,0,25,-25,1476,1524,84,83,5,-5,89,78,40,0,-98
+545,Sep 4 2017,Friendly in Morocco,Malawi,Togo,1290,1394,1,0,13,-13,1303,1381,120,118,9,-4,129,114,20,0,-104
+546,Sep 4 2017,World Cup qualifier in Montenegro,Montenegro,Romania,1621,1690,1,0,18,-18,1639,1672,49,49,3,-4,52,45,30,0,-69
+547,Sep 4 2017,World Cup qualifier in Northern Ireland,Northern Ireland,Czechia,1682,1692,2,0,22,-22,1704,1670,30,52,7,-6,37,46,40,100,90
+548,Sep 4 2017,World Cup qualifier in Poland,Poland,Kazakhstan,1832,1346,3,0,2,-2,1834,1344,18,122,0,0,18,122,20,0,486
+549,Sep 4 2017,World Cup qualifier in Scotland,Scotland,Malta,1709,1225,2,0,2,-2,1711,1223,36,156,0,-1,36,155,20,0,484
+550,Sep 4 2017,World Cup qualifier in Slovenia,Slovenia,Lithuania,1633,1426,4,0,11,-11,1644,1415,48,105,2,-3,50,102,40,100,307
+551,Sep 5 2017,World Cup qualifier in Algeria,Algeria,Zambia,1578,1475,0,1,-31,31,1547,1506,79,71,-7,10,72,81,40,100,203
+552,Sep 5 2017,World Cup qualifier in Argentina,Argentina,Venezuela,2013,1698,1,1,-17,17,1996,1715,4,33,0,3,4,36,40,100,415
+553,Sep 5 2017,World Cup qualifier in Australia,Australia,Thailand,1702,1396,2,1,4,-4,1706,1392,38,110,0,-1,38,109,30,0,306
+554,Sep 5 2017,World Cup qualifier in Austria,Austria,Georgia,1683,1479,1,1,-14,14,1669,1493,48,87,-3,0,45,87,40,100,304
+555,Sep 5 2017,Asian Cup qualifier in Bahrain,Bahrain,Taiwan,1404,888,5,0,2,-2,1406,886,103,202,2,0,105,202,20,0,516
+556,Sep 5 2017,Asian Cup qualifier in Bhutan,Bhutan,Palestine,595,1395,0,2,-1,1,594,1396,230,107,0,1,230,108,20,100,-700
+557,Sep 5 2017,World Cup qualifier in Bolivia,Bolivia,Chile,1679,1885,1,0,26,-26,1705,1859,35,17,4,-3,39,14,40,100,-106
+558,Sep 5 2017,World Cup qualifier in Burkina Faso,Burkina Faso,Senegal,1620,1697,2,2,-1,1,1619,1698,58,42,-1,-1,57,41,20,100,23
+559,Sep 5 2017,Asian Cup qualifier in Cambodia,Cambodia,Vietnam,828,1275,1,2,-5,5,823,1280,208,140,0,1,208,141,40,100,-347
+560,Sep 5 2017,World Cup qualifier in Colombia,Colombia,Brazil,1960,2121,1,1,3,-3,1963,2118,7,1,0,0,7,1,30,100,-61
+561,Sep 5 2017,World Cup qualifier in Congo,Congo,Ghana,1421,1563,1,5,-33,33,1388,1596,119,56,-9,7,110,63,40,100,-42
+562,Sep 5 2017,World Cup qualifier in Costa Rica,Costa Rica,Mexico,1800,1855,1,1,-3,3,1797,1858,20,16,0,-1,20,15,40,100,45
+563,Sep 5 2017,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Tunisia,1582,1592,2,2,-5,5,1577,1597,69,63,-3,-1,66,62,40,100,90
+564,Sep 5 2017,World Cup qualifier in Ecuador,Ecuador,Peru,1799,1862,1,2,-22,22,1777,1884,31,9,-5,2,26,11,40,100,37
+565,Sep 5 2017,World Cup qualifier in Egypt,Egypt,Uganda,1640,1515,1,0,9,-9,1649,1506,47,82,2,-1,49,81,40,100,225
+566,Sep 5 2017,World Cup qualifier in Albania,Finland,Kosovo,1556,1382,1,0,11,-11,1567,1371,66,120,3,-4,69,116,40,0,174
+567,Sep 5 2017,World Cup qualifier in Honduras,Honduras,United States,1578,1762,1,1,5,-5,1583,1757,65,28,0,2,65,30,20,0,-184
+568,Sep 5 2017,World Cup qualifier in Iceland,Iceland,Ukraine,1773,1780,2,0,22,-22,1795,1758,17,33,5,-4,22,29,40,100,93
+569,Sep 5 2017,World Cup qualifier in Iran,Iran,Syria,1796,1599,2,2,-14,14,1782,1613,27,58,-2,1,25,59,40,100,297
+570,Sep 5 2017,World Cup qualifier in Jordan,Iraq,United Arab Emirates,1540,1563,1,0,21,-21,1561,1542,67,76,3,-3,70,73,40,0,-23
+571,Sep 5 2017,World Cup qualifier in Ireland,Ireland,Serbia,1765,1745,0,1,-27,27,1738,1772,35,21,-2,6,33,27,40,100,120
+572,Sep 5 2017,World Cup qualifier in Italy,Italy,Israel,1948,1533,1,0,2,-2,1950,1531,8,75,0,0,8,75,20,0,415
+573,Sep 5 2017,World Cup qualifier in Ivory Coast,Ivory Coast,Gabon,1678,1410,1,2,-36,36,1642,1446,58,89,-7,8,51,97,40,100,368
+574,Sep 5 2017,Asian Cup qualifier in Jordan,Jordan,Afghanistan,1495,1126,4,1,4,-4,1499,1122,87,174,-1,-1,86,173,20,0,369
+575,Sep 5 2017,World Cup qualifier in Liechtenstein,Liechtenstein,Spain,1163,2025,0,8,-1,1,1162,2026,171,3,-1,0,170,3,20,100,-762
+576,Sep 5 2017,Asian Cup qualifier in Macao,Macao,India,671,1161,0,2,-6,6,665,1167,223,168,0,1,223,169,40,100,-390
+577,Sep 5 2017,World Cup qualifier in Macedonia,Macedonia,Albania,1479,1606,1,1,2,-2,1481,1604,89,63,-1,-2,88,61,40,100,-27
+578,Sep 5 2017,Asian Cup qualifier in Malaysia,Malaysia,Hong Kong,1090,1200,1,1,1,-1,1091,1199,178,165,0,0,178,165,40,100,-10
+579,Sep 5 2017,World Cup qualifier in Mali,Mali,Morocco,1511,1625,0,0,1,-1,1512,1624,77,55,2,0,79,55,30,100,-14
+580,Sep 5 2017,World Cup qualifier in Moldova,Moldova,Wales,1349,1783,0,2,-8,8,1341,1791,124,22,-2,1,122,23,40,100,-334
+581,Sep 5 2017,Asian Cup qualifier in Nepal,Nepal,Tajikistan,902,1204,1,2,-10,10,892,1214,201,157,0,3,201,160,40,100,-202
+582,Sep 5 2017,Friendly in Morocco,Niger,Mauritania,1279,1335,2,0,17,-17,1296,1318,128,127,6,-2,134,125,20,0,-56
+583,Sep 5 2017,Asian Cup qualifier in North Korea,North Korea,Lebanon,1486,1388,2,2,-10,10,1476,1398,92,104,-3,3,89,107,40,100,198
+584,Sep 5 2017,Asian Cup qualifier in Oman,Oman,Maldives,1449,950,5,0,2,-2,1451,948,97,196,-1,-1,96,195,20,0,499
+585,Sep 5 2017,World Cup qualifier in Panama,Panama,Trinidad and Tobago,1659,1413,3,0,8,-8,1667,1405,46,109,1,-3,47,106,40,100,346
+586,Sep 5 2017,World Cup qualifier in Paraguay,Paraguay,Uruguay,1769,1846,1,2,-21,21,1748,1867,36,10,-4,3,32,13,40,100,23
+587,Sep 5 2017,Asian Cup qualifier in the Philippines,Philippines,Yemen,1245,1210,2,2,-7,7,1238,1217,155,155,-3,3,152,158,40,100,135
+588,Sep 5 2017,World Cup qualifier in Qatar,Qatar,China,1528,1567,1,2,-23,23,1505,1590,89,59,-6,5,83,64,40,100,61
+589,Sep 5 2017,World Cup qualifier in Saudi Arabia,Saudi Arabia,Japan,1588,1780,1,0,25,-25,1613,1755,56,37,3,-6,59,31,40,100,-92
+590,Sep 5 2017,Asian Cup qualifier in Singapore,Singapore,Turkmenistan,1082,1247,1,1,4,-4,1086,1243,180,152,0,-2,180,150,20,0,-165
+591,Sep 5 2017,World Cup qualifier in the Solomon Islands,Solomon Islands,New Zealand,1165,1532,2,2,13,-13,1178,1519,168,80,0,-2,168,78,40,100,-267
+592,Sep 5 2017,World Cup qualifier in South Africa,South Africa,Cape Verde,1582,1444,1,2,-32,32,1550,1476,79,82,-8,7,71,89,40,100,238
+593,Sep 5 2017,World Cup qualifier in Turkey,Turkey,Croatia,1769,1852,1,0,19,-19,1788,1833,20,21,4,-3,24,18,30,0,-83
+594,Sep 5 2017,World Cup qualifier in Uzbekistan,Uzbekistan,South Korea,1619,1730,0,0,1,-1,1620,1729,55,34,1,0,56,34,40,100,-11
+595,Sep 30 2017,Friendly in Botswana,Botswana,Ethiopia,1232,1295,2,0,13,-13,1245,1282,143,145,5,-5,148,140,20,100,37
+596,Oct 2 2017,Friendly in Macao,Macao,Laos,665,804,3,1,17,-17,682,787,221,215,1,-3,222,212,20,100,-39
+597,Oct 4 2017,Friendly in Indonesia,Indonesia,Cambodia,1225,823,3,1,2,-2,1227,821,154,208,0,0,154,208,20,100,502
+598,Oct 4 2017,Friendly in the United Arab Emirates,Jordan,Oman,1499,1451,1,1,-1,1,1498,1452,84,96,1,0,85,96,20,0,48
+599,Oct 4 2017,Friendly in Uganda,Uganda,Madagascar,1506,1360,1,2,-16,16,1490,1376,93,111,-6,4,87,115,20,100,246
+600,Oct 5 2017,World Cup qualifier in Argentina,Argentina,Peru,1996,1884,0,0,-11,11,1985,1895,6,11,-1,0,5,11,40,100,212
+601,Oct 5 2017,World Cup qualifier in Armenia,Armenia,Poland,1476,1834,1,6,-15,15,1461,1849,97,15,-4,1,93,16,40,100,-258
+602,Oct 5 2017,World Cup qualifier in Azerbaijan,Azerbaijan,Czechia,1413,1670,1,2,-12,12,1401,1682,109,42,-3,1,106,43,40,100,-157
+603,Oct 5 2017,World Cup qualifier in Bolivia,Bolivia,Brazil,1705,2118,0,0,14,-14,1719,2104,35,3,2,-1,37,2,40,100,-313
+604,Oct 5 2017,World Cup qualifier in Chile,Chile,Ecuador,1859,1777,2,1,10,-10,1869,1767,12,30,1,-2,13,28,40,100,182
+605,Oct 5 2017,World Cup qualifier in Colombia,Colombia,Paraguay,1963,1748,1,2,-34,34,1929,1782,9,20,-1,6,8,26,40,100,315
+606,Oct 5 2017,World Cup qualifier in England,England,Slovenia,1922,1644,1,0,4,-4,1926,1640,9,52,0,-1,9,51,40,100,378
+607,Oct 5 2017,Friendly in Hong Kong,Hong Kong,Laos,1199,787,4,0,2,-2,1201,785,165,212,0,0,165,212,20,100,512
+608,Oct 5 2017,Friendly in Iran,Iran,Togo,1782,1381,2,0,2,-2,1784,1379,25,113,0,0,25,113,20,100,501
+609,Oct 5 2017,Friendly in Iraq,Iraq,Kenya,1561,1385,2,1,3,-3,1564,1382,70,111,0,0,70,111,20,100,276
+610,Oct 5 2017,World Cup qualifier in Malta,Malta,Lithuania,1223,1415,1,1,5,-5,1228,1410,153,102,1,0,154,102,20,0,-192
+611,Oct 5 2017,World Cup qualifier in Montenegro,Montenegro,Denmark,1639,1797,0,1,-17,17,1622,1814,58,18,-3,1,55,19,40,100,-58
+612,Oct 5 2017,Friendly in Myanmar,Myanmar,Thailand,1082,1392,1,3,-7,7,1075,1399,187,105,-3,2,184,107,20,100,-210
+613,Oct 5 2017,World Cup qualifier in Northern Ireland,Northern Ireland,Germany,1704,2107,1,3,-9,9,1695,2116,42,0,-1,1,41,1,40,100,-303
+614,Oct 5 2017,Friendly in Qatar,Qatar,Singapore,1505,1086,3,1,1,-1,1506,1085,80,180,1,0,81,180,20,100,519
+615,Oct 5 2017,World Cup qualifier in Romania,Romania,Kazakhstan,1672,1344,3,1,5,-5,1677,1339,45,123,-1,-1,44,122,40,100,428
+616,Oct 5 2017,World Cup qualifier in San Marino,San Marino,Norway,855,1576,0,8,-3,3,852,1579,205,65,0,1,205,66,40,100,-621
+617,Oct 5 2017,World Cup qualifier in Scotland,Scotland,Slovakia,1711,1768,1,0,18,-18,1729,1750,31,36,3,-4,34,32,40,100,43
+618,Oct 5 2017,World Cup qualifier in Malaysia,Syria,Australia,1613,1706,1,1,5,-5,1618,1701,59,40,0,-1,59,39,40,0,-93
+619,Oct 5 2017,Friendly in Taiwan,Taiwan,Mongolia,886,656,4,2,4,-4,890,652,202,224,0,0,202,224,20,100,330
+620,Oct 5 2017,World Cup qualifier in Venezuela,Venezuela,Uruguay,1715,1867,0,0,3,-3,1718,1864,40,15,-2,-1,38,14,40,100,-52
+621,Oct 6 2017,World Cup qualifier in Austria,Austria,Serbia,1669,1772,3,2,20,-20,1689,1752,39,33,3,-3,42,30,40,100,-3
+622,Oct 6 2017,Friendly in Tunisia,Comoros,Mauritania,1015,1318,1,0,17,-17,1032,1301,184,137,2,-6,186,131,20,0,-303
+623,Oct 6 2017,World Cup qualifier in Croatia,Croatia,Finland,1833,1567,1,1,-16,16,1817,1583,20,61,-1,4,19,65,40,100,366
+624,Oct 6 2017,World Cup qualifier in Georgia,Georgia,Wales,1493,1791,0,1,-10,10,1483,1801,90,21,-2,1,88,22,40,100,-198
+625,Oct 6 2017,World Cup qualifier in Ireland,Ireland,Moldova,1738,1341,2,0,3,-3,1741,1338,33,123,0,-1,33,122,20,0,397
+626,Oct 6 2017,World Cup qualifier in Italy,Italy,Macedonia,1950,1481,1,1,-19,19,1931,1500,7,82,0,3,7,85,40,100,569
+627,Oct 6 2017,Friendly in Japan,Japan,New Zealand,1755,1519,2,1,3,-3,1758,1516,27,78,2,0,29,78,20,100,336
+628,Oct 6 2017,World Cup qualifier in Albania,Kosovo,Ukraine,1371,1758,0,2,-6,6,1365,1764,119,27,-1,1,118,28,40,0,-387
+629,Oct 6 2017,World Cup qualifier in Liechtenstein,Liechtenstein,Israel,1162,1531,0,1,-7,7,1155,1538,172,73,-1,1,171,74,40,100,-269
+630,Oct 6 2017,World Cup qualifier in Mali,Mali,Ivory Coast,1512,1642,0,0,2,-2,1514,1640,79,50,0,0,79,50,40,100,-30
+631,Oct 6 2017,World Cup qualifier in Mexico,Mexico,Trinidad and Tobago,1858,1405,3,1,2,-2,1860,1403,15,105,0,0,15,105,20,0,453
+632,Oct 6 2017,World Cup qualifier in Spain,Spain,Albania,2026,1604,3,0,3,-3,2029,1601,3,61,0,0,3,61,20,0,422
+633,Oct 6 2017,World Cup qualifier in Turkey,Turkey,Iceland,1788,1795,0,3,-44,44,1744,1839,40,14,-8,4,32,18,40,100,93
+634,Oct 6 2017,World Cup qualifier in the United States,United States,Panama,1757,1667,4,0,19,-19,1776,1648,22,51,4,-2,26,49,40,100,190
+635,Oct 7 2017,World Cup qualifier in Andorra,Andorra,Portugal,1016,1987,0,2,0,0,1016,1987,188,4,0,0,188,4,20,0,-971
+636,Oct 7 2017,World Cup qualifier in Belarus,Belarus,Netherlands,1523,1842,1,3,-13,13,1510,1855,81,15,-2,1,79,16,40,100,-219
+637,Oct 7 2017,World Cup qualifier in Bosnia and Herzegovina,Bosnia and Herzegovina,Belgium,1724,1913,3,4,-15,15,1709,1928,42,8,-3,1,39,9,40,100,-89
+638,Oct 7 2017,World Cup qualifier in Bulgaria,Bulgaria,France,1629,1970,0,1,-8,8,1621,1978,61,6,-4,0,57,6,40,100,-241
+639,Oct 7 2017,World Cup qualifier in Cameroon,Cameroon,Algeria,1633,1547,2,0,15,-15,1648,1532,46,78,3,-3,49,75,40,100,186
+640,Oct 7 2017,World Cup qualifier in Cape Verde,Cape Verde,Senegal,1476,1698,0,2,-20,20,1456,1718,99,32,-5,4,94,36,40,100,-122
+641,Oct 7 2017,World Cup qualifier in Costa Rica,Costa Rica,Honduras,1797,1583,1,1,-14,14,1783,1597,25,59,-1,3,24,62,40,100,314
+642,Oct 7 2017,World Cup qualifier in Cyprus,Cyprus,Greece,1438,1651,1,2,-14,14,1424,1665,101,47,-1,0,100,47,40,100,-113
+643,Oct 7 2017,World Cup qualifier in the Faroe Islands,Faroe Islands,Latvia,1284,1369,0,0,-1,1,1283,1370,139,117,0,0,139,117,30,100,15
+644,Oct 7 2017,World Cup qualifier in Portugal,Gibraltar,Estonia,1087,1502,0,6,-7,7,1080,1509,181,77,-1,3,180,80,40,0,-415
+645,Oct 7 2017,Friendly in Grenada,Grenada,Guyana,1100,1198,1,0,10,-10,1110,1188,173,168,1,-1,174,167,20,100,2
+646,Oct 7 2017,World Cup qualifier in Guinea,Guinea,Tunisia,1524,1597,1,4,-38,38,1486,1635,98,46,-11,8,87,54,40,100,27
+647,Oct 7 2017,World Cup qualifier in Tunisia,Libya,DR Congo,1476,1577,1,2,-14,14,1462,1591,93,62,-2,3,91,65,40,0,-101
+648,Oct 7 2017,World Cup qualifier in Morocco,Morocco,Gabon,1624,1446,3,0,12,-12,1636,1434,52,99,1,-1,53,98,40,100,278
+649,Oct 7 2017,World Cup qualifier in Nigeria,Nigeria,Zambia,1668,1506,1,0,7,-7,1675,1499,46,87,0,-3,46,84,40,100,262
+650,Oct 7 2017,Friendly in Russia,Russia,South Korea,1684,1729,4,2,13,-13,1697,1716,39,42,2,-4,41,38,20,100,55
+651,Oct 7 2017,Friendly in Saudi Arabia,Saudi Arabia,Jamaica,1613,1576,5,2,11,-11,1624,1565,50,71,5,-1,55,70,20,100,137
+652,Oct 7 2017,World Cup qualifier in South Africa,South Africa,Burkina Faso,1550,1619,3,1,27,-27,1577,1592,67,71,2,-7,69,64,30,0,-69
+653,Oct 7 2017,World Cup qualifier in Sweden,Sweden,Luxembourg,1807,1298,8,0,3,-3,1810,1295,21,135,0,-1,21,134,40,100,609
+654,Oct 7 2017,World Cup qualifier in Switzerland,Switzerland,Hungary,1872,1619,5,2,8,-8,1880,1611,12,63,0,-3,12,60,40,100,353
+655,Oct 7 2017,Friendly in Tanzania,Tanzania,Malawi,1349,1303,1,1,-4,4,1345,1307,120,128,0,0,120,128,20,100,146
+656,Oct 7 2017,World Cup qualifier in Uganda,Uganda,Ghana,1490,1596,0,0,0,0,1490,1596,85,63,1,0,86,63,20,100,-6
+657,Oct 8 2017,World Cup qualifier in Czechia,Czechia,San Marino,1682,852,5,0,0,0,1682,852,44,205,0,0,44,205,20,0,830
+658,Oct 8 2017,World Cup qualifier in Denmark,Denmark,Romania,1814,1677,1,1,-12,12,1802,1689,22,39,-1,3,21,42,40,100,237
+659,Oct 8 2017,World Cup qualifier in Egypt,Egypt,Congo,1649,1388,2,1,4,-4,1653,1384,48,110,0,0,48,110,20,0,261
+660,Oct 8 2017,Friendly in the United States,El Salvador,Canada,1444,1537,1,0,13,-13,1457,1524,91,76,3,-1,94,75,20,0,-93
+661,Oct 8 2017,World Cup qualifier in Germany,Germany,Azerbaijan,2116,1401,5,1,1,-1,2117,1400,1,108,0,-1,1,107,20,0,715
+662,Oct 8 2017,World Cup qualifier in Kazakhstan,Kazakhstan,Armenia,1339,1461,1,1,1,-1,1340,1460,121,92,0,0,121,92,20,100,-22
+663,Oct 8 2017,World Cup qualifier in Lithuania,Lithuania,England,1410,1926,0,1,-3,3,1407,1929,102,6,0,2,102,8,30,100,-416
+664,Oct 8 2017,World Cup qualifier in Norway,Norway,Northern Ireland,1579,1695,1,0,21,-21,1600,1674,56,50,6,-4,62,46,40,100,-16
+665,Oct 8 2017,World Cup qualifier in Poland,Poland,Montenegro,1849,1622,4,2,8,-8,1857,1614,15,62,1,-3,16,59,40,100,327
+666,Oct 8 2017,World Cup qualifier in Slovakia,Slovakia,Malta,1750,1228,3,0,2,-2,1752,1226,29,156,1,-1,30,155,20,0,522
+667,Oct 8 2017,World Cup qualifier in Slovenia,Slovenia,Scotland,1640,1729,2,2,-1,1,1639,1730,53,34,-1,0,52,34,40,100,11
+668,Oct 8 2017,Friendly in Thailand,Thailand,Kenya,1399,1382,1,0,7,-7,1406,1375,101,121,3,-5,104,116,20,100,117
+669,Oct 9 2017,World Cup qualifier in Albania,Albania,Italy,1601,1931,0,1,-8,8,1593,1939,67,7,-3,0,64,7,40,100,-230
+670,Oct 9 2017,Friendly in Equatorial Guinea,Equatorial Guinea,Mauritius,1329,1076,3,1,3,-3,1332,1073,120,185,2,-1,122,184,20,100,353
+671,Oct 9 2017,World Cup qualifier in Finland,Finland,Turkey,1583,1744,2,2,3,-3,1586,1741,68,32,0,0,68,32,30,100,-61
+672,Oct 9 2017,World Cup qualifier in Iceland,Iceland,Kosovo,1839,1365,2,0,2,-2,1841,1363,20,118,-1,0,19,118,20,0,474
+673,Oct 9 2017,World Cup qualifier in Israel,Israel,Spain,1538,2029,0,1,-4,4,1534,2033,73,3,0,0,73,3,40,100,-391
+674,Oct 9 2017,World Cup qualifier in Macedonia,Macedonia,Liechtenstein,1500,1155,4,0,5,-5,1505,1150,81,171,1,0,82,171,20,0,345
+675,Oct 9 2017,World Cup qualifier in Moldova,Moldova,Austria,1338,1689,0,1,-8,8,1330,1697,126,40,-2,1,124,41,40,100,-251
+676,Oct 9 2017,World Cup qualifier in Serbia,Serbia,Georgia,1752,1483,1,0,4,-4,1756,1479,30,88,0,0,30,88,20,0,269
+677,Oct 9 2017,World Cup qualifier in Ukraine,Ukraine,Croatia,1764,1817,0,2,-34,34,1730,1851,38,17,-5,1,33,18,40,100,47
+678,Oct 9 2017,World Cup qualifier in Wales,Wales,Ireland,1801,1741,0,1,-29,29,1772,1770,30,21,-4,6,26,27,40,100,160
+679,Oct 10 2017,Asian Cup qualifier in Tajikistan,Afghanistan,Jordan,1122,1498,3,3,16,-16,1138,1482,171,89,1,-2,172,87,40,0,-376
+680,Oct 10 2017,World Cup qualifier in Australia,Australia,Syria,1701,1618,2,1,10,-10,1711,1608,36,64,2,-3,38,61,40,100,183
+681,Oct 10 2017,World Cup qualifier in Belgium,Belgium,Cyprus,1928,1424,4,0,2,-2,1930,1422,8,106,1,-3,9,103,20,0,504
+682,Oct 10 2017,Friendly in France,Benin,Gabon,1407,1434,1,0,11,-11,1418,1423,106,106,-2,-4,104,102,20,0,-27
+683,Oct 10 2017,World Cup qualifier in Brazil,Brazil,Chile,2104,1869,3,0,9,-9,2113,1860,2,17,0,-2,2,15,40,100,335
+684,Oct 10 2017,World Cup qualifier in Ecuador,Ecuador,Argentina,1767,1985,1,3,-20,20,1747,2005,32,3,-2,1,30,4,40,100,-118
+685,Oct 10 2017,World Cup qualifier in Estonia,Estonia,Bosnia and Herzegovina,1509,1709,1,2,-14,14,1495,1723,86,33,-3,3,83,36,40,100,-100
+686,Oct 10 2017,World Cup qualifier in France,France,Belarus,1978,1510,2,1,1,-1,1979,1509,6,79,0,0,6,79,20,0,468
+687,Oct 10 2017,World Cup qualifier in Greece,Greece,Gibraltar,1665,1080,4,0,1,-1,1666,1079,49,176,-1,2,48,178,20,0,585
+688,Oct 10 2017,World Cup qualifier in Honduras,Honduras,Mexico,1597,1860,3,2,29,-29,1626,1831,48,23,7,-4,55,19,40,100,-163
+689,Oct 10 2017,Asian Cup qualifier in Hong Kong,Hong Kong,Malaysia,1201,1091,2,0,14,-14,1215,1077,155,186,5,-4,160,182,40,100,210
+690,Oct 10 2017,World Cup qualifier in Hungary,Hungary,Faroe Islands,1611,1283,1,0,3,-3,1614,1280,56,143,2,-2,58,141,20,0,328
+691,Oct 10 2017,Friendly in Japan,Japan,Haiti,1758,1473,3,3,-8,8,1750,1481,29,86,0,2,29,88,20,100,385
+692,Oct 10 2017,World Cup qualifier in Latvia,Latvia,Andorra,1370,1016,4,0,5,-5,1375,1011,113,188,2,0,115,188,40,100,454
+693,Oct 10 2017,Asian Cup qualifier in Lebanon,Lebanon,North Korea,1398,1476,5,0,37,-37,1435,1439,90,105,9,-8,99,97,30,0,-78
+694,Oct 10 2017,World Cup qualifier in Luxembourg,Luxembourg,Bulgaria,1295,1621,1,1,11,-11,1306,1610,126,64,4,-4,130,60,30,0,-326
+695,Oct 10 2017,Asian Cup qualifier in the Maldives,Maldives,Oman,948,1452,1,3,-5,5,943,1457,197,89,-1,4,196,93,40,100,-404
+696,Oct 10 2017,Friendly in Switzerland,Morocco,South Korea,1636,1716,3,1,18,-18,1654,1698,45,42,4,-2,49,40,20,0,-80
+697,Oct 10 2017,Friendly in Portugal,Mozambique,Cape Verde,1302,1456,1,0,14,-14,1316,1442,121,97,4,-1,125,96,20,0,-154
+698,Oct 10 2017,Asian Cup qualifier in Myanmar,Myanmar,Kyrgyzstan,1075,1207,2,2,2,-2,1077,1205,181,165,1,-1,182,164,40,100,-32
+699,Oct 10 2017,World Cup qualifier in the Netherlands,Netherlands,Sweden,1855,1810,2,0,18,-18,1873,1792,9,22,4,-1,13,21,40,100,145
+700,Oct 10 2017,Asian Cup qualifier in Palestine,Palestine,Bhutan,1396,594,10,0,1,-1,1397,593,107,230,1,0,108,230,20,0,802
+701,Oct 10 2017,World Cup qualifier in Panama,Panama,Costa Rica,1648,1783,2,1,22,-22,1670,1761,45,27,2,-2,47,25,40,100,-35
+702,Oct 10 2017,World Cup qualifier in Paraguay,Paraguay,Venezuela,1782,1718,0,1,-29,29,1753,1747,30,24,-3,6,27,30,40,100,164
+703,Oct 10 2017,World Cup qualifier in Peru,Peru,Colombia,1895,1929,1,1,-4,4,1891,1933,11,8,0,0,11,8,40,100,66
+704,Oct 10 2017,Asian Cup qualifier in Qatar,Philippines,Yemen,1238,1217,1,1,-1,1,1237,1218,153,160,0,-1,153,159,20,0,21
+705,Oct 10 2017,World Cup qualifier in Portugal,Portugal,Switzerland,1987,1880,2,0,14,-14,2001,1866,6,16,-1,-2,5,14,40,100,207
+706,Oct 10 2017,Friendly in Qatar,Qatar,Curaçao,1506,1250,1,2,-18,18,1488,1268,89,139,-4,4,85,143,20,100,356
+707,Oct 10 2017,Friendly in Russia,Russia,Iran,1697,1784,1,1,0,0,1697,1784,41,22,0,0,41,22,20,100,13
+708,Oct 10 2017,Friendly in Saudi Arabia,Saudi Arabia,Ghana,1624,1596,0,3,-24,24,1600,1620,69,49,-7,7,62,56,20,100,128
+709,Oct 10 2017,Asian Cup qualifier in Taiwan,Taiwan,Bahrain,890,1406,2,1,37,-37,927,1369,194,130,4,-13,198,117,40,100,-416
+710,Oct 10 2017,Asian Cup qualifier in Tajikistan,Tajikistan,Nepal,1214,892,3,0,6,-6,1220,886,152,203,4,-1,156,202,40,100,422
+711,Oct 10 2017,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago,United States,1403,1776,2,1,33,-33,1436,1743,90,39,8,-7,98,32,40,100,-273
+712,Oct 10 2017,Asian Cup qualifier in Turkmenistan,Turkmenistan,Singapore,1243,1085,2,1,7,-7,1250,1078,145,179,3,0,148,179,40,100,258
+713,Oct 10 2017,World Cup qualifier in Uruguay,Uruguay,Bolivia,1864,1719,4,2,12,-12,1876,1707,10,43,2,-4,12,39,40,100,245
+714,Oct 10 2017,Asian Cup qualifier in Vietnam,Vietnam,Cambodia,1280,821,5,0,3,-3,1283,818,137,208,2,0,139,208,20,0,459
+715,Oct 11 2017,Asian Cup qualifier in India,India,Macao,1167,682,4,1,2,-2,1169,680,169,222,0,0,169,222,20,0,485
+716,Oct 24 2017,Friendly in Grenada,Grenada,Panama,1110,1670,0,5,-3,3,1107,1673,174,47,0,0,174,47,20,100,-460
+717,Oct 28 2017,Friendly in Bermuda,Bermuda,Barbados,1213,1123,2,3,-15,15,1198,1138,167,171,-2,1,165,172,20,100,190
+718,Nov 7 2017,Friendly in Portugal,Saudi Arabia,Latvia,1600,1375,2,0,6,-6,1606,1369,62,117,0,-1,62,116,20,0,225
+719,Nov 8 2017,Friendly in Congo,Congo,Benin,1384,1418,1,1,-2,2,1382,1420,109,104,0,0,109,104,20,100,66
+720,Nov 8 2017,Friendly tournament in Qatar,Czechia,Iceland,1682,1841,2,1,21,-21,1703,1820,36,20,4,-1,40,19,30,0,-159
+721,Nov 8 2017,Friendly in Lesotho,Lesotho,Zimbabwe,1252,1502,1,0,14,-14,1266,1488,142,87,2,-3,144,84,20,100,-150
+722,Nov 8 2017,Friendly in Nicaragua,Nicaragua,Dominican Republic,1301,1215,0,3,-26,26,1275,1241,152,144,-10,8,142,152,20,100,186
+723,Nov 9 2017,Friendly in Armenia,Armenia,Belarus,1460,1509,4,1,15,-15,1475,1494,89,83,1,-2,90,81,20,100,51
+724,Nov 9 2017,Friendly in Cambodia,Cambodia,Myanmar,818,1077,1,2,-6,6,812,1083,208,174,0,4,208,178,20,100,-159
+725,Nov 9 2017,World Cup qualifier in Croatia,Croatia,Greece,1851,1666,4,1,11,-11,1862,1655,13,48,2,0,15,48,40,100,285
+726,Nov 9 2017,Friendly in Finland,Finland,Estonia,1586,1495,3,0,9,-9,1595,1486,60,88,4,-3,64,85,20,100,191
+727,Nov 9 2017,Friendly in Hong Kong,Hong Kong,Bahrain,1215,1369,0,2,-13,13,1202,1382,167,102,-3,7,164,109,20,100,-54
+728,Nov 9 2017,Friendly in Austria,Iran,Panama,1784,1673,2,1,7,-7,1791,1666,22,45,0,1,22,46,20,0,111
+729,Nov 9 2017,Friendly in Luxembourg,Luxembourg,Hungary,1306,1614,2,1,15,-15,1321,1599,120,68,5,-5,125,63,20,100,-208
+730,Nov 9 2017,World Cup qualifier in Northern Ireland,Northern Ireland,Switzerland,1674,1866,0,1,-15,15,1659,1881,48,12,-1,1,47,13,40,100,-92
+731,Nov 9 2017,Friendly in Romania,Romania,Turkey,1689,1741,2,0,13,-13,1702,1728,38,35,3,-1,41,34,20,100,48
+732,Nov 9 2017,Friendly in Scotland,Scotland,Netherlands,1730,1873,0,1,-9,9,1721,1882,38,11,-2,1,36,12,20,100,-43
+733,Nov 9 2017,Friendly in Singapore,Singapore,Lebanon,1078,1435,0,1,-4,4,1074,1439,187,95,-4,2,183,97,20,100,-257
+734,Nov 10 2017,World Cup qualifier in Algeria,Algeria,Nigeria,1532,1675,1,1,2,-2,1534,1673,70,45,2,0,72,45,30,100,-43
+735,Nov 10 2017,Friendly in Belgium,Belgium,Mexico,1930,1831,3,3,-5,5,1925,1836,7,18,1,0,8,18,20,100,199
+736,Nov 10 2017,Friendly in France,Brazil,Japan,2113,1750,3,1,3,-3,2116,1747,0,27,1,1,1,28,20,0,363
+737,Nov 10 2017,Friendly in China,China,Serbia,1590,1756,0,2,-12,12,1578,1768,68,22,0,2,68,24,20,100,-66
+738,Nov 10 2017,Friendly in England,England,Germany,1929,2117,0,0,2,-2,1931,2115,4,3,3,-1,7,2,20,100,-88
+739,Nov 10 2017,Friendly in France,France,Wales,1979,1772,2,0,4,-4,1983,1768,6,25,0,-1,6,24,20,100,307
+740,Nov 10 2017,Friendly in Georgia,Georgia,Cyprus,1479,1422,1,0,6,-6,1485,1416,87,105,1,-1,88,104,20,100,157
+741,Nov 10 2017,World Cup qualifier in Honduras,Honduras,Australia,1626,1711,0,0,-1,1,1625,1712,55,38,0,0,55,38,30,100,15
+742,Nov 10 2017,Asian Cup qualifier in Thailand,North Korea,Malaysia,1439,1077,4,1,8,-8,1447,1069,95,186,1,-2,96,184,40,0,362
+743,Nov 10 2017,Friendly in Poland,Poland,Uruguay,1857,1876,0,0,-2,2,1855,1878,17,14,0,0,17,14,20,100,81
+744,Nov 10 2017,Friendly in Portugal,Portugal,Saudi Arabia,2001,1606,3,0,2,-2,2003,1604,5,61,0,0,5,61,20,100,495
+745,Nov 10 2017,World Cup qualifier in South Africa,South Africa,Senegal,1577,1718,0,2,-26,26,1551,1744,73,25,-2,6,71,31,40,100,-41
+746,Nov 10 2017,Friendly in South Korea,South Korea,Colombia,1698,1933,2,1,14,-14,1712,1919,34,10,4,-1,38,9,20,100,-135
+747,Nov 10 2017,World Cup qualifier in Sweden,Sweden,Italy,1792,1939,1,0,23,-23,1815,1916,19,13,1,-3,20,10,40,100,-47
+748,Nov 10 2017,Friendly in the United Arab Emirates,United Arab Emirates,Haiti,1542,1481,0,1,-14,14,1528,1495,76,74,-2,7,74,81,20,100,161
+749,Nov 10 2017,Friendly in Ukraine,Ukraine,Slovakia,1730,1752,2,1,8,-8,1738,1744,35,34,-1,-3,34,31,20,100,78
+750,Nov 11 2017,Friendly in France,Comoros,Madagascar,1032,1376,1,1,8,-8,1040,1368,186,122,0,-4,186,118,20,0,-344
+751,Nov 11 2017,World Cup qualifier in Denmark,Denmark,Ireland,1802,1770,0,0,-7,7,1795,1777,21,23,0,0,21,23,40,100,132
+752,Nov 11 2017,Friendly in the Dominican Republic,Dominican Republic,Nicaragua,1241,1275,1,0,8,-8,1249,1267,146,146,3,-2,149,144,20,100,66
+753,Nov 11 2017,World Cup qualifier in the Dem Rep of the Congo,DR Congo,Guinea,1591,1486,3,1,14,-14,1605,1472,53,94,7,-4,60,90,40,100,205
+754,Nov 11 2017,World Cup qualifier in Gabon,Gabon,Mali,1423,1514,0,0,-1,1,1422,1515,102,79,0,-1,102,78,40,100,9
+755,Nov 11 2017,World Cup qualifier in Ivory Coast,Ivory Coast,Morocco,1640,1654,0,2,-37,37,1603,1691,72,41,-10,4,62,45,40,100,86
+756,Nov 11 2017,Friendly in Macedonia,Macedonia,Norway,1505,1600,2,0,15,-15,1520,1585,75,72,2,-5,77,67,20,100,5
+757,Nov 11 2017,Friendly in Malawi,Malawi,Lesotho,1307,1266,1,1,-4,4,1303,1270,130,140,0,2,130,142,20,100,141
+758,Nov 11 2017,Friendly in Namibia,Namibia,Zimbabwe,1361,1488,3,1,16,-16,1377,1472,109,96,5,-6,114,90,20,100,-27
+759,Nov 11 2017,World Cup qualifier in New Zealand,New Zealand,Peru,1516,1891,0,0,13,-13,1529,1878,72,15,2,-2,74,13,40,100,-275
+760,Nov 11 2017,Friendly tournament in Qatar,Qatar,Czechia,1488,1703,0,1,-10,10,1478,1713,90,35,-3,3,87,38,30,100,-115
+761,Nov 11 2017,Friendly in Russia,Russia,Argentina,1697,2005,0,1,-5,5,1692,2010,45,4,-1,0,44,4,20,100,-208
+762,Nov 11 2017,Friendly in Spain,Spain,Costa Rica,2033,1761,5,0,4,-4,2037,1757,3,26,0,0,3,26,20,100,372
+763,Nov 11 2017,Friendly in Trinidad and Tobago,Trinidad and Tobago,Grenada,1436,1107,2,2,-8,8,1428,1115,99,174,0,0,99,174,20,100,429
+764,Nov 11 2017,World Cup qualifier in Tunisia,Tunisia,Libya,1635,1462,0,0,-13,13,1622,1475,54,85,0,3,54,88,40,100,273
+765,Nov 11 2017,World Cup qualifier in Zambia,Zambia,Cameroon,1499,1648,2,2,3,-3,1502,1645,80,51,0,0,80,51,40,100,-49
+766,Nov 12 2017,Friendly in Benin,Benin,Tanzania,1420,1345,1,1,-5,5,1415,1350,105,120,-1,0,104,120,20,100,175
+767,Nov 12 2017,World Cup qualifier in Congo,Congo,Uganda,1382,1490,1,1,0,0,1382,1490,111,85,-1,-1,110,84,20,100,-8
+768,Nov 12 2017,World Cup qualifier in Ghana,Ghana,Egypt,1620,1653,1,1,-4,4,1616,1657,57,50,-1,0,56,50,40,100,67
+769,Nov 12 2017,World Cup qualifier in Greece,Greece,Croatia,1655,1862,0,0,6,-6,1661,1856,49,17,0,-1,49,16,40,100,-107
+770,Nov 12 2017,Friendly in Malta,Malta,Estonia,1226,1486,0,3,-10,10,1216,1496,164,78,-4,3,160,81,20,100,-160
+771,Nov 12 2017,World Cup qualifier in Switzerland,Switzerland,Northern Ireland,1881,1659,0,0,-15,15,1866,1674,16,44,-2,2,14,46,40,100,322
+772,Nov 12 2017,Friendly in Togo,Togo,Mauritius,1379,1073,6,0,4,-4,1383,1069,106,183,3,0,109,183,20,100,406
+773,Nov 13 2017,Friendly in Armenia,Armenia,Cyprus,1475,1416,3,2,6,-6,1481,1410,86,105,1,-1,87,104,20,100,159
+774,Nov 13 2017,Friendly in Portugal,Bulgaria,Saudi Arabia,1610,1604,1,0,10,-10,1620,1594,52,69,3,-4,55,65,20,0,6
+775,Nov 13 2017,Friendly in Georgia,Georgia,Belarus,1485,1494,2,2,-3,3,1482,1497,85,79,0,2,85,81,20,100,91
+776,Nov 13 2017,Friendly in the Netherlands,Iran,Venezuela,1791,1747,1,0,9,-9,1800,1738,20,38,1,-5,21,33,20,0,44
+777,Nov 13 2017,Friendly in Iraq,Iraq,Syria,1564,1608,1,1,-2,2,1562,1610,70,59,0,0,70,59,20,100,56
+778,Nov 13 2017,World Cup qualifier in Italy,Italy,Sweden,1916,1815,0,0,-10,10,1906,1825,10,18,0,1,10,19,40,100,201
+779,Nov 13 2017,Friendly in Kosovo,Kosovo,Latvia,1363,1369,4,3,7,-7,1370,1362,115,121,2,-2,117,119,20,100,94
+780,Nov 13 2017,Asian Cup qualifier in Thailand,North Korea,Malaysia,1447,1069,4,1,7,-7,1454,1062,96,187,0,-2,96,185,40,0,378
+781,Nov 13 2017,Friendly in Poland,Poland,Mexico,1855,1836,0,1,-13,13,1842,1849,19,16,-1,1,18,17,20,100,119
+782,Nov 13 2017,Friendly in Turkey,Turkey,Albania,1728,1593,2,3,-16,16,1712,1609,41,55,-3,5,38,60,20,100,235
+783,Nov 14 2017,Friendly in Algeria,Algeria,Central African Republic,1534,1302,3,0,5,-5,1539,1297,72,133,0,-1,72,132,20,100,332
+784,Nov 14 2017,Friendly in Austria,Austria,Uruguay,1697,1878,2,1,12,-12,1709,1866,39,14,2,-1,41,13,20,100,-81
+785,Nov 14 2017,Friendly in Belgium,Belgium,Japan,1925,1747,1,0,3,-3,1928,1744,8,34,0,-3,8,31,20,100,278
+786,Nov 14 2017,Asian Cup qualifier in Bhutan,Bhutan,Oman,593,1457,2,4,-1,1,592,1458,230,93,0,0,230,93,30,100,-764
+787,Nov 14 2017,World Cup qualifier in Burkina Faso,Burkina Faso,Cape Verde,1592,1442,4,0,14,-14,1606,1428,58,99,4,-1,62,98,40,100,250
+788,Nov 14 2017,Asian Cup qualifier in Cambodia,Cambodia,Jordan,812,1482,0,1,-1,1,811,1483,208,87,0,-1,208,86,20,100,-570
+789,Nov 14 2017,Friendly in China,China,Colombia,1578,1919,0,4,-7,7,1571,1926,68,9,0,0,68,9,20,100,-241
+790,Nov 14 2017,Friendly in England,England,Brazil,1931,2116,0,0,2,-2,1933,2114,7,1,0,0,7,1,20,100,-85
+791,Nov 14 2017,Friendly in Gabon,Gabon,Botswana,1422,1245,0,0,-7,7,1415,1252,102,146,0,2,102,148,20,100,277
+792,Nov 14 2017,Friendly in Germany,Germany,France,2115,1983,2,2,-6,6,2109,1989,2,4,0,1,2,5,20,100,232
+793,Nov 14 2017,Asian Cup qualifier in Hong Kong,Hong Kong,Lebanon,1202,1439,0,1,-12,12,1190,1451,170,96,-3,1,167,97,40,100,-137
+794,Nov 14 2017,Friendly in Hungary,Hungary,Costa Rica,1599,1757,1,0,12,-12,1611,1745,53,34,5,-4,58,30,20,100,-58
+795,Nov 14 2017,Asian Cup qualifier in India,India,Myanmar,1169,1083,2,2,-10,10,1159,1093,169,176,0,1,169,177,40,100,186
+796,Nov 14 2017,World Cup qualifier in Ireland,Ireland,Denmark,1777,1795,1,5,-46,46,1731,1841,45,16,-11,3,34,19,40,100,82
+797,Nov 14 2017,Asian Cup qualifier in Macao,Macao,Kyrgyzstan,680,1205,3,4,-3,3,677,1208,222,162,0,0,222,162,40,100,-425
+798,Nov 14 2017,Asian Cup qualifier in Nepal,Nepal,Philippines,886,1237,0,0,12,-12,898,1225,202,156,0,-1,202,155,40,100,-251
+799,Nov 14 2017,Friendly in Russia,Nigeria,Argentina,1673,2010,4,2,26,-26,1699,1984,39,8,4,-2,43,6,20,0,-337
+800,Nov 14 2017,Asian Cup qualifier in Palestine,Palestine,Maldives,1397,943,8,1,4,-4,1401,939,106,198,1,-1,107,197,40,100,554
+801,Nov 14 2017,Friendly in Portugal,Portugal,United States,2003,1743,1,1,-8,8,1995,1751,3,20,1,6,4,26,20,100,360
+802,Nov 14 2017,Friendly tournament in Qatar,Qatar,Iceland,1478,1820,1,1,9,-9,1487,1811,82,22,3,-1,85,21,30,100,-242
+803,Nov 14 2017,Friendly in Romania,Romania,Netherlands,1702,1882,0,3,-14,14,1688,1896,50,11,-4,0,46,11,20,100,-80
+804,Nov 14 2017,Friendly in Russia,Russia,Spain,1692,2037,3,3,6,-6,1698,2031,44,3,0,0,44,3,20,100,-245
+805,Nov 14 2017,World Cup qualifier in Senegal,Senegal,South Africa,1744,1551,2,1,6,-6,1750,1545,24,71,3,0,27,71,40,100,293
+806,Nov 14 2017,Asian Cup qualifier in Singapore,Singapore,Bahrain,1074,1382,0,3,-16,16,1058,1398,188,108,-3,1,185,109,40,100,-208
+807,Nov 14 2017,Friendly in Slovakia,Slovakia,Norway,1744,1585,1,0,4,-4,1748,1581,26,67,2,0,28,67,20,100,259
+808,Nov 14 2017,Friendly in South Korea,South Korea,Serbia,1712,1768,1,1,-1,1,1711,1769,42,22,-2,1,40,23,20,100,44
+809,Nov 14 2017,Asian Cup qualifier in Tajikistan,Tajikistan,Yemen,1220,1218,0,0,-6,6,1214,1224,164,153,-4,3,160,156,40,100,102
+810,Nov 14 2017,Friendly in Trinidad and Tobago,Trinidad and Tobago,Guyana,1428,1188,1,1,-8,8,1420,1196,103,163,-2,2,101,165,20,100,340
+811,Nov 14 2017,Asian Cup qualifier in Turkmenistan,Turkmenistan,Taiwan,1250,927,2,1,3,-3,1253,924,146,198,1,0,147,198,20,0,323
+812,Nov 14 2017,Friendly in the United Arab Emirates,United Arab Emirates,Uzbekistan,1528,1620,1,0,10,-10,1538,1610,71,63,2,-4,73,59,20,100,8
+813,Nov 14 2017,Asian Cup qualifier in Vietnam,Vietnam,Afghanistan,1283,1138,0,0,-12,12,1271,1150,144,170,-3,1,141,171,40,100,245
+814,Nov 14 2017,Friendly in Wales,Wales,Panama,1768,1666,1,1,-5,5,1763,1671,24,48,0,0,24,48,20,100,202
+815,Nov 15 2017,World Cup qualifier in Australia,Australia,Honduras,1712,1625,3,1,15,-15,1727,1610,32,63,3,-5,35,58,40,100,187
+816,Nov 15 2017,World Cup qualifier in Peru,Peru,New Zealand,1878,1529,2,0,4,-4,1882,1525,12,75,0,0,12,75,20,0,349
+817,Nov 19 2017,Friendly in Fiji,Fiji,Estonia,1214,1496,0,2,-8,8,1206,1504,164,78,-2,2,162,80,20,100,-182
+818,Nov 23 2017,Friendly in Vanuatu,Vanuatu,Estonia,1193,1504,0,1,-5,5,1188,1509,168,80,-1,0,167,80,20,100,-211
+819,Nov 25 2017,Friendly in Indonesia,Indonesia,Guyana,1227,1196,2,1,6,-6,1233,1190,154,165,0,0,154,165,20,100,131
+820,Nov 26 2017,Friendly in New Caledonia,New Caledonia,Estonia,1332,1509,1,1,2,-2,1334,1507,122,80,0,0,122,80,20,100,-77
+821,Dec 1 2017,Friendly tournament in Taiwan,Philippines,Laos,1225,785,3,1,3,-3,1228,782,155,212,0,0,155,212,30,0,440
+822,Dec 2 2017,Pacific Mini Games in Vanuatu,Fiji,Tuvalu,1206,726,8,0,6,-6,1212,720,160,216,1,-1,161,215,40,0,480
+823,Dec 2 2017,Pacific Mini Games in Vanuatu,Solomon Islands,Tonga,1178,564,8,0,3,-3,1181,561,168,233,0,0,168,233,40,0,614
+824,Dec 2 2017,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Grenada,1251,1115,1,0,4,-4,1255,1111,143,174,3,0,146,174,20,100,236
+825,Dec 2 2017,Pacific Mini Games in Vanuatu,Vanuatu,New Caledonia,1188,1334,2,1,23,-23,1211,1311,157,132,5,-5,162,127,40,100,-46
+826,Dec 3 2017,CECAFA Cup in Kenya,Kenya,Rwanda,1375,1293,2,0,16,-16,1391,1277,104,142,6,-3,110,139,40,100,182
+827,Dec 3 2017,Friendly tournament in Taiwan,Laos,East Timor,782,615,2,1,8,-8,790,607,212,228,0,0,212,228,30,0,167
+828,Dec 3 2017,CECAFA Cup in Kenya,Libya,Tanzania,1475,1350,0,0,-7,7,1468,1357,93,120,-2,0,91,120,40,0,125
+829,Dec 3 2017,Friendly tournament in Taiwan,Taiwan,Philippines,924,1228,3,0,40,-40,964,1188,188,179,5,-12,193,167,30,100,-204
+830,Dec 4 2017,CECAFA Cup in Kenya,Burundi,Uganda,1315,1490,0,0,9,-9,1324,1481,122,90,2,-3,124,87,40,0,-175
+831,Dec 4 2017,Friendly tournament in Taiwan,Taiwan,East Timor,964,607,3,1,3,-3,967,604,193,230,0,-1,193,229,20,0,357
+832,Dec 5 2017,Friendly tournament in Taiwan,East Timor,Philippines,604,1188,1,0,29,-29,633,1159,223,169,3,-1,226,168,30,0,-584
+833,Dec 5 2017,CECAFA Cup in Kenya,Ethiopia,South Sudan,1282,1065,3,0,16,-16,1298,1049,127,187,5,-2,132,185,40,0,217
+834,Dec 5 2017,CECAFA Cup in Kenya,Kenya,Libya,1391,1468,0,0,-1,1,1390,1469,110,91,0,0,110,91,20,100,23
+835,Dec 5 2017,Friendly tournament in Taiwan,Taiwan,Laos,967,790,2,0,8,-8,975,782,193,212,0,0,193,212,20,0,177
+836,Dec 5 2017,Pacific Mini Games in Vanuatu,Tuvalu,New Caledonia,720,1311,2,1,39,-39,759,1272,213,151,1,-12,214,139,40,0,-591
+837,Dec 5 2017,CECAFA Cup in Kenya,Zanzibar,Rwanda,1291,1277,3,1,29,-29,1320,1248,116,161,10,-11,126,150,40,0,14
+838,Dec 6 2017,Pacific Mini Games in Vanuatu,Fiji,Solomon Islands,1212,1181,0,0,-2,2,1210,1183,162,167,-1,0,161,167,40,0,31
+839,Dec 6 2017,Pacific Mini Games in Vanuatu,Vanuatu,Tonga,1211,561,5,0,1,-1,1212,560,159,233,1,0,160,233,20,0,650
+840,Dec 7 2017,CECAFA Cup in Kenya,Burundi,Ethiopia,1324,1298,4,1,32,-32,1356,1266,116,154,4,-11,120,143,40,0,26
+841,Dec 7 2017,CECAFA Cup in Kenya,Libya,Rwanda,1469,1248,0,0,-11,11,1458,1259,93,140,-1,5,92,145,30,100,321
+842,Dec 7 2017,CECAFA Cup in Kenya,Zanzibar,Tanzania,1320,1357,2,1,22,-22,1342,1335,116,126,5,-3,121,123,40,0,-37
+843,Dec 8 2017,CECAFA Cup in Kenya,Uganda,South Sudan,1481,1049,5,1,6,-6,1487,1043,81,185,3,0,84,185,40,0,432
+844,Dec 9 2017,East Asian Championship in Japan,China,South Korea,1571,1711,2,2,8,-8,1579,1703,68,44,0,-2,68,42,40,0,-140
+845,Dec 9 2017,East Asian Championship in Japan,Japan,North Korea,1744,1454,1,0,4,-4,1748,1450,25,98,3,-1,28,97,40,100,390
+846,Dec 9 2017,CECAFA Cup in Kenya,Kenya,Zanzibar,1390,1342,0,0,-8,8,1382,1350,112,121,-1,0,111,121,40,100,148
+847,Dec 9 2017,Pacific Mini Games in Vanuatu,New Caledonia,Tonga,1272,560,4,2,1,-1,1273,559,140,233,-1,0,139,233,30,0,712
+848,Dec 9 2017,CECAFA Cup in Kenya,Rwanda,Tanzania,1259,1335,2,1,24,-24,1283,1311,127,131,9,-4,136,127,40,0,-76
+849,Dec 9 2017,Pacific Mini Games in Vanuatu,Solomon Islands,Tuvalu,1183,759,6,0,7,-7,1190,752,163,214,2,0,165,214,40,0,424
+850,Dec 9 2017,Pacific Mini Games in Vanuatu,Vanuatu,Fiji,1212,1210,1,1,-6,6,1206,1216,164,155,-2,3,162,158,40,100,102
+851,Dec 10 2017,CECAFA Cup in Kenya,Ethiopia,Uganda,1266,1487,1,1,11,-11,1277,1476,132,92,6,-4,138,88,40,0,-221
+852,Dec 11 2017,CECAFA Cup in Kenya,Kenya,Tanzania,1382,1311,1,0,11,-11,1393,1300,109,135,1,-4,110,131,40,100,171
+853,Dec 11 2017,CECAFA Cup in Kenya,Libya,Zanzibar,1458,1350,1,0,14,-14,1472,1336,86,123,3,-1,89,122,40,0,108
+854,Dec 11 2017,CECAFA Cup in Kenya,South Sudan,Burundi,1043,1356,0,0,14,-14,1057,1342,185,120,0,0,185,120,40,0,-313
+855,Dec 12 2017,Pacific Mini Games in Vanuatu,Fiji,Tonga,1216,559,4,0,2,-2,1218,557,158,235,0,-1,158,234,40,0,657
+856,Dec 12 2017,East Asian Championship in Japan,Japan,China,1748,1579,2,1,7,-7,1755,1572,22,68,3,0,25,68,40,100,269
+857,Dec 12 2017,Pacific Mini Games in Vanuatu,Solomon Islands,New Caledonia,1190,1273,1,0,25,-25,1215,1248,155,160,5,-10,160,150,40,0,-83
+858,Dec 12 2017,East Asian Championship in Japan,South Korea,North Korea,1703,1450,1,0,8,-8,1711,1442,38,97,2,0,40,97,40,0,253
+859,Dec 12 2017,Pacific Mini Games in Vanuatu,Vanuatu,Tuvalu,1206,752,10,0,4,-4,1210,748,162,214,0,0,162,214,20,0,454
+860,Dec 14 2017,CECAFA Cup in Kenya,Kenya,Burundi,1393,1342,1,0,12,-12,1405,1330,104,126,3,-3,107,123,40,100,151
+861,Dec 14 2017,Friendly in Qatar,Qatar,Liechtenstein,1487,1150,1,2,-19,19,1468,1169,98,165,-7,3,91,168,20,100,437
+862,Dec 15 2017,Pacific Mini Games in Vanuatu,Fiji,New Caledonia,1218,1248,4,1,38,-38,1256,1210,132,172,13,-11,145,161,40,0,-30
+863,Dec 15 2017,Friendly in Oman,Oman,Yemen,1458,1224,1,0,3,-3,1461,1221,89,157,2,-1,91,156,20,100,334
+864,Dec 15 2017,Pacific Mini Games in Vanuatu,Tuvalu,Tonga,748,557,4,3,10,-10,758,547,214,234,0,0,214,234,40,0,191
+865,Dec 15 2017,Pacific Mini Games in Vanuatu,Vanuatu,Solomon Islands,1210,1215,3,2,15,-15,1225,1200,148,168,7,-4,155,164,30,0,-5
+866,Dec 15 2017,CECAFA Cup in Kenya,Zanzibar,Uganda,1336,1476,2,1,28,-28,1364,1448,117,105,2,-9,119,96,40,0,-140
+867,Dec 16 2017,East Asian Championship in Japan,China,North Korea,1572,1442,1,1,-7,7,1565,1449,68,95,0,1,68,96,40,0,130
+868,Dec 16 2017,East Asian Championship in Japan,Japan,South Korea,1755,1711,1,4,-49,49,1706,1760,59,10,-17,15,42,25,40,100,144
+869,Dec 17 2017,CECAFA Cup in Kenya,Kenya,Zanzibar,1405,1364,2,2,-8,8,1397,1372,113,115,-3,2,110,117,40,100,141
+870,Dec 17 2017,Friendly in the United Arab Emirates,United Arab Emirates,Iraq,1538,1562,1,0,8,-8,1546,1554,69,70,2,0,71,70,20,100,76
+871,Dec 17 2017,CECAFA Cup in Kenya,Uganda,Burundi,1448,1330,2,1,13,-13,1461,1317,85,127,6,-2,91,125,40,0,118
+872,Dec 18 2017,Friendly in Bahrain,Bahrain,Kuwait,1398,1460,0,0,-1,1,1397,1461,109,89,0,2,109,91,20,100,38
+873,Dec 22 2017,Gulf Cup in Kuwait,Kuwait,Saudi Arabia,1461,1594,1,2,-18,18,1443,1612,103,48,-6,9,97,57,40,100,-33
+874,Dec 22 2017,Gulf Cup in Kuwait,United Arab Emirates,Oman,1546,1461,1,0,15,-15,1561,1446,69,101,1,-5,70,96,40,0,85
+875,Dec 23 2017,Gulf Cup in Kuwait,Bahrain,Iraq,1397,1554,1,1,8,-8,1405,1546,105,71,2,0,107,71,40,0,-157
+876,Dec 23 2017,Gulf Cup in Kuwait,Qatar,Yemen,1468,1221,4,0,15,-15,1483,1206,78,168,6,-6,84,162,40,0,247
+877,Dec 25 2017,Friendly in Jordan,Jordan,Libya,1483,1472,1,1,-3,3,1480,1475,90,88,-3,0,87,88,20,100,111
+878,Dec 25 2017,Gulf Cup in Kuwait,Kuwait,Oman,1443,1446,0,1,-25,25,1418,1471,105,86,-4,5,101,91,40,100,97
+879,Dec 25 2017,Gulf Cup in Kuwait,Saudi Arabia,United Arab Emirates,1612,1561,0,0,-3,3,1609,1564,65,70,-4,0,61,70,40,0,51
+880,Dec 26 2017,Gulf Cup in Kuwait,Bahrain,Yemen,1405,1206,1,0,10,-10,1415,1196,97,168,5,-3,102,165,40,0,199
+881,Dec 26 2017,Gulf Cup in Kuwait,Iraq,Qatar,1546,1483,2,1,16,-16,1562,1467,71,98,0,-7,71,91,40,0,63
+882,Dec 28 2017,Gulf Cup in Kuwait,Kuwait,United Arab Emirates,1418,1564,0,0,3,-3,1421,1561,99,72,1,-1,100,71,40,100,-46
+883,Dec 28 2017,Gulf Cup in Kuwait,Oman,Saudi Arabia,1471,1609,2,0,41,-41,1512,1568,68,73,11,-6,79,67,40,0,-138
+884,Dec 29 2017,Gulf Cup in Kuwait,Bahrain,Qatar,1415,1467,1,1,3,-3,1418,1464,102,91,0,0,102,91,40,0,-52
+885,Dec 29 2017,Gulf Cup in Kuwait,Iraq,Yemen,1562,1196,3,0,8,-8,1570,1188,64,169,3,-2,67,167,40,0,366

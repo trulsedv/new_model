@@ -1,0 +1,898 @@
+,date,tournament,home_team,away_team,home_team_rating,away_team_rating,home_goals,away_goals,home_team_rating_change,away_team_rating_change,home_team_new_rating,away_team_new_rating,home_team_rank,away_team_rank,home_team_rank_change,away_team_rank_change,home_team_new_rank,away_team_new_rank,k,hadv,rdiff
+0,Jan 2 2018,Gulf Cup in Kuwait,Iraq,United Arab Emirates,1570,1561,0,0,-1,1,1569,1562,67,71,0,0,67,71,40,0,9
+1,Jan 2 2018,Gulf Cup in Kuwait,Oman,Bahrain,1512,1418,1,0,15,-15,1527,1403,71,112,4,-5,75,107,40,0,94
+2,Jan 5 2018,Gulf Cup in Kuwait,Oman,United Arab Emirates,1527,1562,0,0,2,-2,1529,1560,75,71,0,0,75,71,30,0,-35
+3,Jan 7 2018,Friendly in the United Arab Emirates,Estonia,Sweden,1507,1825,1,1,7,-7,1514,1818,79,20,1,0,80,20,20,0,-318
+4,Jan 11 2018,Friendly in the United Arab Emirates,Finland,Jordan,1595,1480,2,1,7,-7,1602,1473,65,89,0,-1,65,88,20,0,115
+5,Jan 14 2018,Friendly in Indonesia,Indonesia,Iceland,1233,1811,1,4,-2,2,1231,1813,154,21,0,0,154,21,20,100,-478
+6,Jan 27 2018,Friendly in Turkey,South Korea,Moldova,1760,1330,1,0,2,-2,1762,1328,25,123,0,0,25,123,20,0,430
+7,Jan 28 2018,Friendly in the United States,United States,Bosnia and Herzegovina,1751,1723,0,0,-4,4,1747,1727,31,34,-2,1,29,35,20,100,128
+8,Jan 30 2018,Friendly in Turkey,Azerbaijan,Moldova,1400,1328,0,0,-2,2,1398,1330,109,123,0,0,109,123,20,0,72
+9,Jan 30 2018,Friendly in Turkey,Jamaica,South Korea,1565,1762,2,2,5,-5,1570,1757,65,25,2,0,67,25,20,0,-197
+10,Jan 31 2018,Friendly in the United States,Mexico,Bosnia and Herzegovina,1849,1727,1,0,7,-7,1856,1720,15,39,1,-2,16,37,20,0,122
+11,Feb 3 2018,Friendly in Turkey,South Korea,Latvia,1757,1362,1,0,2,-2,1759,1360,25,120,0,0,25,120,20,0,395
+12,Feb 26 2018,Friendly in Saudi Arabia,Saudi Arabia,Moldova,1568,1330,3,0,4,-4,1572,1326,65,123,2,0,67,123,20,100,338
+13,Feb 28 2018,Friendly in Iraq,Iraq,Saudi Arabia,1569,1572,4,1,13,-13,1582,1559,63,75,3,-4,66,71,20,100,97
+14,Mar 17 2018,Friendly in Iran,Iran,Sierra Leone,1800,1379,4,0,2,-2,1802,1377,22,114,0,0,22,114,20,100,521
+15,Mar 20 2018,Friendly in Tahiti,Tahiti,New Caledonia,1220,1210,0,0,-3,3,1217,1213,158,160,-1,0,157,160,20,100,110
+16,Mar 21 2018,Friendly in Spain,Andorra,Liechtenstein,1011,1169,1,0,14,-14,1025,1155,188,174,0,-3,188,171,20,0,-158
+17,Mar 21 2018,Friendly tournament in Zambia,Angola,South Africa,1240,1545,1,1,11,-11,1251,1534,147,74,3,-1,150,73,30,0,-305
+18,Mar 21 2018,Friendly in Antigua and Barbuda,Antigua and Barbuda,Bermuda,1203,1198,3,2,7,-7,1210,1191,160,164,1,0,161,164,20,100,105
+19,Mar 21 2018,Friendly tournament in Iraq,Iraq,Qatar,1582,1464,2,3,-23,23,1559,1487,74,79,-4,6,70,85,30,100,218
+20,Mar 21 2018,Friendly in Jordan,Jordan,Kuwait,1473,1421,1,0,6,-6,1479,1415,88,102,0,-1,88,101,20,100,152
+21,Mar 21 2018,Friendly in Laos,Laos,Cambodia,782,811,0,1,-12,12,770,823,212,208,0,0,212,208,20,100,71
+22,Mar 21 2018,Friendly in France,Madagascar,Togo,1368,1383,0,0,0,0,1368,1383,119,111,0,0,119,111,20,0,-15
+23,Mar 21 2018,Friendly tournament in Zambia,Zambia,Zimbabwe,1502,1472,2,2,-5,5,1497,1477,82,89,0,0,82,89,30,100,130
+24,Mar 22 2018,Friendly in Algeria,Algeria,Tanzania,1539,1300,4,1,4,-4,1543,1296,70,131,1,0,71,131,20,100,339
+25,Mar 22 2018,Friendly in Bahrain,Bahrain,Palestine,1403,1401,0,0,-3,3,1400,1404,109,104,-1,2,108,106,20,100,102
+26,Mar 22 2018,Friendly in Belize,Belize,Grenada,1159,1111,4,2,9,-9,1168,1102,170,174,-1,0,169,174,20,100,148
+27,Mar 22 2018,Friendly in France,Burkina Faso,Guinea-Bissau,1606,1295,2,0,4,-4,1610,1291,54,136,4,-1,58,135,20,0,311
+28,Mar 22 2018,Friendly tournament in China,China,Wales,1565,1763,0,6,-23,23,1542,1786,76,22,-4,1,72,23,30,100,-98
+29,Mar 22 2018,Friendly in Denmark,Denmark,Panama,1841,1671,1,0,3,-3,1844,1668,17,48,1,0,18,48,20,100,270
+30,Mar 22 2018,Friendly in the Dominican Republic,Dominican Republic,Turks and Caicos Islands,1249,763,4,0,1,-1,1250,762,149,213,1,0,150,213,20,100,586
+31,Mar 22 2018,Friendly in Spain,Faroe Islands,Latvia,1280,1360,1,1,2,-2,1282,1358,137,120,0,0,137,120,20,0,-80
+32,Mar 22 2018,Asian Cup qualifier in South Korea,Kyrgyzstan,Myanmar,1208,1093,5,1,26,-26,1234,1067,146,187,8,-5,154,182,40,0,115
+33,Mar 22 2018,Friendly in Macao,Macao,Mauritius,677,1069,0,1,-3,3,674,1072,224,180,-1,1,223,181,20,100,-292
+34,Mar 22 2018,Friendly in Malaysia,Malaysia,Mongolia,1062,652,2,2,-9,9,1053,661,187,224,-2,0,185,224,20,100,510
+35,Mar 22 2018,Friendly in Malta,Malta,Luxembourg,1216,1321,0,1,-10,10,1206,1331,166,122,-4,1,162,123,20,100,-5
+36,Mar 22 2018,Friendly in Nicaragua,Nicaragua,Cuba,1267,1309,3,1,13,-13,1280,1296,133,135,5,-4,138,131,20,100,58
+37,Mar 22 2018,Friendly in the Philippines,Philippines,Fiji,1159,1256,3,2,10,-10,1169,1246,168,157,0,-6,168,151,20,100,3
+38,Mar 22 2018,King's Cup in Thailand,Slovakia,United Arab Emirates,1748,1560,2,1,8,-8,1756,1552,24,71,2,-1,26,70,30,0,188
+39,Mar 22 2018,King's Cup in Thailand,Thailand,Gabon,1406,1415,0,0,-4,4,1402,1419,108,101,-1,0,107,101,30,100,91
+40,Mar 23 2018,Friendly in England,Argentina,Italy,1984,1906,2,0,12,-12,1996,1894,4,12,1,-1,5,11,20,0,78
+41,Mar 23 2018,Friendly in Austria,Austria,Slovenia,1709,1639,3,0,10,-10,1719,1629,34,54,3,-1,37,53,20,100,170
+42,Mar 23 2018,Friendly in Azerbaijan,Azerbaijan,Belarus,1398,1497,0,1,-10,10,1388,1507,111,82,-1,0,110,82,20,100,1
+43,Mar 23 2018,Friendly in Bulgaria,Bulgaria,Bosnia and Herzegovina,1620,1720,0,1,-10,10,1610,1730,60,31,-3,3,57,34,20,100,0
+44,Mar 23 2018,Friendly in Curaçao,Curaçao,Bolivia,1268,1707,1,1,8,-8,1276,1699,137,47,3,-3,140,44,20,100,-339
+45,Mar 23 2018,Friendly in Cyprus,Cyprus,Montenegro,1410,1614,0,0,3,-3,1413,1611,104,56,0,0,104,56,20,100,-104
+46,Mar 23 2018,Friendly in Turkey,Finland,Macedonia,1602,1520,0,0,-2,2,1600,1522,65,78,0,0,65,78,20,0,82
+47,Mar 23 2018,Friendly in France,France,Colombia,1989,1926,2,3,-14,14,1975,1940,7,7,-1,1,6,8,20,100,163
+48,Mar 23 2018,Friendly in The Gambia,Gambia,Central African Republic,1277,1297,1,1,-2,2,1275,1299,143,130,-2,0,141,130,20,100,80
+49,Mar 23 2018,Friendly in Germany,Germany,Spain,2109,2031,1,1,-5,5,2104,2036,2,3,0,0,2,3,20,100,178
+50,Mar 23 2018,Friendly in Greece,Greece,Switzerland,1661,1866,0,1,-7,7,1654,1873,49,15,0,-1,49,14,20,100,-105
+51,Mar 23 2018,Friendly in Guadeloupe,Guadeloupe,Trinidad and Tobago,1266,1420,0,1,-8,8,1258,1428,144,94,0,3,144,97,20,100,-54
+52,Mar 23 2018,Friendly in Hungary,Hungary,Kazakhstan,1611,1340,2,3,-18,18,1593,1358,75,119,-9,1,66,120,20,100,371
+53,Mar 23 2018,Friendly in Belgium,Japan,Mali,1706,1515,1,1,-5,5,1701,1520,42,79,0,0,42,79,20,0,191
+54,Mar 23 2018,Friendly in the United States,Mexico,Iceland,1856,1813,3,0,15,-15,1871,1798,14,21,1,0,15,21,20,0,43
+55,Mar 23 2018,Friendly in Italy,Morocco,Serbia,1691,1769,2,1,12,-12,1703,1757,37,26,4,-1,41,25,20,0,-78
+56,Mar 23 2018,Friendly in the Netherlands,Netherlands,England,1896,1933,0,1,-12,12,1884,1945,13,7,-1,0,12,7,20,100,63
+57,Mar 23 2018,Friendly in Norway,Norway,Australia,1581,1727,4,1,20,-20,1601,1707,62,45,2,-5,64,40,20,100,-46
+58,Mar 23 2018,Friendly in the United States,Peru,Croatia,1882,1856,2,0,14,-14,1896,1842,8,20,2,-2,10,18,20,0,26
+59,Mar 23 2018,Friendly in Poland,Poland,Nigeria,1842,1699,0,1,-16,16,1826,1715,19,33,0,5,19,38,20,100,243
+60,Mar 23 2018,Friendly in Switzerland,Portugal,Egypt,1995,1657,2,1,3,-3,1998,1654,4,48,0,1,4,49,20,0,338
+61,Mar 23 2018,Friendly in Russia,Russia,Brazil,1698,2114,0,3,-5,5,1693,2119,46,1,-1,0,45,1,20,100,-316
+62,Mar 23 2018,Friendly in Spain,Saudi Arabia,Ukraine,1559,1738,1,1,5,-5,1564,1733,68,34,0,-1,68,33,20,0,-179
+63,Mar 23 2018,Friendly in Scotland,Scotland,Costa Rica,1721,1745,0,1,-12,12,1709,1757,42,19,-3,6,39,25,20,100,76
+64,Mar 23 2018,Friendly in Morocco,Senegal,Uzbekistan,1750,1610,1,1,-4,4,1746,1614,34,52,-3,3,31,55,20,0,140
+65,Mar 23 2018,Friendly in Singapore,Singapore,Maldives,1058,939,3,2,4,-4,1062,935,183,198,0,0,183,198,20,100,219
+66,Mar 23 2018,Friendly in Tahiti,Tahiti,New Caledonia,1217,1213,4,3,7,-7,1224,1206,156,162,1,-1,157,161,20,100,104
+67,Mar 23 2018,Friendly in Tunisia,Tunisia,Iran,1622,1802,1,0,12,-12,1634,1790,51,22,1,0,52,22,20,100,-80
+68,Mar 23 2018,Friendly in Turkey,Turkey,Ireland,1712,1731,1,0,8,-8,1720,1723,33,36,3,-1,36,35,20,100,81
+69,Mar 23 2018,Friendly tournament in China,Uruguay,Czechia,1866,1713,2,0,13,-13,1879,1700,13,48,0,-5,13,43,30,0,153
+70,Mar 24 2018,Friendly tournament in Zambia,Angola,Zimbabwe,1251,1477,2,2,9,-9,1260,1468,139,91,5,-1,144,90,30,0,-226
+71,Mar 24 2018,Friendly in Armenia,Armenia,Estonia,1481,1514,0,0,-2,2,1479,1516,85,78,1,1,86,79,20,100,67
+72,Mar 24 2018,Friendly in Botswana,Botswana,Lesotho,1252,1270,1,0,8,-8,1260,1262,140,143,4,0,144,143,20,100,82
+73,Mar 24 2018,Friendly in Spain,Canada,New Zealand,1524,1525,1,0,10,-10,1534,1515,71,84,3,-4,74,80,20,0,-1
+74,Mar 24 2018,Friendly in Georgia,Georgia,Lithuania,1482,1407,4,0,10,-10,1492,1397,82,111,2,-3,84,108,20,100,175
+75,Mar 24 2018,Friendly in Israel,Israel,Romania,1534,1688,1,2,-8,8,1526,1696,79,44,-3,1,76,45,20,100,-54
+76,Mar 24 2018,Friendly in France,Ivory Coast,Togo,1603,1383,2,2,-6,6,1597,1389,67,107,-2,2,65,109,20,0,220
+77,Mar 24 2018,Friendly in Morocco,Kenya,Comoros,1397,1040,2,2,-8,8,1389,1048,109,186,0,0,109,186,20,0,357
+78,Mar 24 2018,Friendly in France,Kosovo,Madagascar,1370,1368,1,0,10,-10,1380,1358,110,119,4,0,114,119,20,0,2
+79,Mar 24 2018,Friendly in Mauritania,Mauritania,Guinea,1301,1472,2,0,18,-18,1319,1454,121,97,4,-3,125,94,20,100,-71
+80,Mar 24 2018,Friendly in Northern Ireland,Northern Ireland,South Korea,1674,1759,2,1,10,-10,1684,1749,47,32,0,-4,47,28,20,100,15
+81,Mar 24 2018,Friendly tournament in Iraq,Qatar,Syria,1487,1610,2,2,5,-5,1492,1605,83,65,1,-4,84,61,30,0,-123
+82,Mar 24 2018,Friendly in Sweden,Sweden,Chile,1818,1860,1,2,-12,12,1806,1872,20,14,0,1,20,15,20,100,58
+83,Mar 24 2018,Friendly in Uganda,Uganda,São Tomé and Príncipe,1461,1078,3,1,2,-2,1463,1076,90,181,1,-1,91,180,20,100,483
+84,Mar 24 2018,Friendly tournament in Zambia,Zambia,South Africa,1497,1534,0,2,-27,27,1470,1561,95,65,-6,4,89,69,30,100,63
+85,Mar 25 2018,Friendly in Barbados,Barbados,Bermuda,1138,1191,0,0,-1,1,1137,1192,173,164,0,0,173,164,20,100,47
+86,Mar 25 2018,Friendly in France,Congo,Guinea-Bissau,1382,1291,2,0,11,-11,1393,1280,106,139,3,-2,109,137,20,0,91
+87,Mar 25 2018,Friendly in the Dominican Republic,Dominican Republic,Saint Kitts and Nevis,1250,1255,2,1,7,-7,1257,1248,144,153,3,-3,147,150,20,100,95
+88,Mar 25 2018,Friendly in Spain,Faroe Islands,Liechtenstein,1282,1155,3,0,11,-11,1293,1144,133,173,2,-1,135,172,20,0,127
+89,Mar 25 2018,King's Cup in Thailand,Gabon,United Arab Emirates,1419,1552,1,0,20,-20,1439,1532,93,77,4,-3,97,74,30,0,-133
+90,Mar 25 2018,Friendly in Gibraltar,Gibraltar,Latvia,1079,1358,1,0,15,-15,1094,1343,176,123,1,-2,177,121,20,100,-179
+91,Mar 25 2018,Friendly in Jamaica,Jamaica,Antigua and Barbuda,1570,1210,1,1,-9,9,1561,1219,69,156,-1,2,68,158,20,100,460
+92,Mar 25 2018,Friendly in Kuwait,Kuwait,Cameroon,1415,1645,1,3,-10,10,1405,1655,106,47,-2,2,104,49,20,100,-130
+93,Mar 25 2018,Friendly in Martinique,Martinique,Trinidad and Tobago,1426,1428,0,0,-3,3,1423,1431,103,99,-2,-1,101,98,20,100,98
+94,Mar 25 2018,Friendly in Nicaragua,Nicaragua,Cuba,1280,1296,3,3,-2,2,1278,1298,138,131,0,0,138,131,20,100,84
+95,Mar 25 2018,King's Cup in Thailand,Thailand,Slovakia,1402,1756,2,3,-6,6,1396,1762,110,22,-2,2,108,24,30,100,-254
+96,Mar 26 2018,Friendly in Albania,Albania,Norway,1609,1601,0,1,-13,13,1596,1614,70,47,-5,8,65,55,20,100,108
+97,Mar 26 2018,Friendly in Hungary,Bulgaria,Kazakhstan,1610,1358,2,1,4,-4,1614,1354,53,121,2,-1,55,120,20,0,252
+98,Mar 26 2018,Friendly tournament in China,China,Czechia,1542,1700,1,4,-22,22,1520,1722,82,29,-5,7,77,36,30,100,-58
+99,Mar 26 2018,Friendly in Curaçao,Curaçao,Bolivia,1276,1699,1,0,17,-17,1293,1682,130,50,5,-3,135,47,20,100,-323
+100,Mar 26 2018,Friendly in Turkey,Finland,Malta,1600,1206,5,0,4,-4,1604,1202,62,163,1,-1,63,162,20,0,394
+101,Mar 26 2018,Friendly in Switzerland,Netherlands,Portugal,1884,1998,3,0,23,-23,1907,1975,8,6,2,-1,10,5,20,0,-114
+102,Mar 26 2018,Friendly tournament in China,Uruguay,Wales,1879,1786,1,0,11,-11,1890,1775,13,23,0,0,13,23,30,0,93
+103,Mar 27 2018,Asian Cup qualifier in Tajikistan,Afghanistan,Cambodia,1150,823,2,1,5,-5,1155,818,169,208,1,0,170,208,40,0,327
+104,Mar 27 2018,Friendly in Armenia,Armenia,Lithuania,1479,1397,0,1,-15,15,1464,1412,94,103,-4,2,90,105,20,100,182
+105,Mar 27 2018,Friendly in England,Australia,Colombia,1707,1940,0,0,6,-6,1713,1934,39,8,1,0,40,8,20,0,-233
+106,Mar 27 2018,Friendly in Turkey,Azerbaijan,Macedonia,1388,1522,1,1,4,-4,1392,1518,110,82,1,-3,111,79,20,0,-134
+107,Mar 27 2018,Asian Cup qualifier in Bahrain,Bahrain,Turkmenistan,1400,1253,4,0,15,-15,1415,1238,98,159,4,-5,102,154,40,100,247
+108,Mar 27 2018,Friendly in Belgium,Belgium,Saudi Arabia,1928,1564,4,0,2,-2,1930,1562,9,67,0,0,9,67,20,100,464
+109,Mar 27 2018,Friendly in France,Bosnia and Herzegovina,Senegal,1730,1746,0,0,0,0,1730,1746,34,25,0,3,34,28,20,0,-16
+110,Mar 27 2018,Friendly in Morocco,Central African Republic,Kenya,1299,1389,3,2,13,-13,1312,1376,128,122,1,-6,129,116,20,0,-90
+111,Mar 27 2018,Friendly in the United States,Croatia,Mexico,1842,1871,1,0,11,-11,1853,1860,16,16,1,0,17,16,20,0,-29
+112,Mar 27 2018,Friendly in Denmark,Denmark,Chile,1844,1872,0,0,-2,2,1842,1874,19,15,-1,0,18,15,20,100,72
+113,Mar 27 2018,Friendly in England,England,Italy,1945,1894,1,1,-4,4,1941,1898,7,12,0,0,7,12,20,100,151
+114,Mar 27 2018,Friendly in Georgia,Georgia,Estonia,1492,1516,2,0,12,-12,1504,1504,80,85,2,-3,82,82,20,100,76
+115,Mar 27 2018,Friendly in Germany,Germany,Brazil,2104,2119,0,1,-12,12,2092,2131,2,1,0,0,2,1,20,100,85
+116,Mar 27 2018,Friendly in Switzerland,Greece,Egypt,1654,1654,1,0,10,-10,1664,1644,46,54,2,-2,48,52,20,0,0
+117,Mar 27 2018,Friendly in Hungary,Hungary,Scotland,1593,1709,0,1,-10,10,1583,1719,64,38,1,1,65,39,20,100,-16
+118,Mar 27 2018,Friendly in Austria,Iran,Algeria,1790,1543,2,1,4,-4,1794,1539,20,71,1,0,21,71,20,0,247
+119,Mar 27 2018,Friendly tournament in Iraq,Iraq,Syria,1559,1605,1,1,-2,2,1557,1607,70,55,0,3,70,58,20,100,54
+120,Mar 27 2018,Friendly in France,Ivory Coast,Moldova,1597,1326,2,1,3,-3,1600,1323,60,124,2,0,62,124,20,0,271
+121,Mar 27 2018,Asian Cup qualifier in Jordan,Jordan,Vietnam,1479,1271,1,1,-14,14,1465,1285,92,132,-3,5,89,137,40,100,308
+122,Mar 27 2018,Friendly in France,Kosovo,Burkina Faso,1380,1610,2,0,24,-24,1404,1586,100,69,7,-5,107,64,20,0,-230
+123,Mar 27 2018,Asian Cup qualifier in Kyrgyzstan,Kyrgyzstan,India,1234,1159,2,1,11,-11,1245,1148,148,172,3,-1,151,171,40,100,175
+124,Mar 27 2018,Friendly in Laos,Laos,Bangladesh,770,803,2,2,-2,2,768,805,212,209,0,0,212,209,20,100,67
+125,Mar 27 2018,Asian Cup qualifier in Lebanon,Lebanon,Malaysia,1451,1053,2,1,2,-2,1453,1051,97,183,-1,1,96,184,20,0,398
+126,Mar 27 2018,Friendly in Luxembourg,Luxembourg,Austria,1331,1719,0,4,-6,6,1325,1725,123,32,0,3,123,35,20,100,-288
+127,Mar 27 2018,Asian Cup qualifier in the Maldives,Maldives,Bhutan,935,592,7,0,7,-7,942,585,198,230,0,0,198,230,40,100,443
+128,Mar 27 2018,Friendly in Mongolia,Mongolia,Mauritius,661,1072,0,2,-4,4,657,1076,224,179,0,1,224,180,20,100,-311
+129,Mar 27 2018,Friendly in Montenegro,Montenegro,Turkey,1611,1720,2,2,0,0,1611,1720,54,39,2,-1,56,38,20,100,-9
+130,Mar 27 2018,Friendly in Morocco,Morocco,Uzbekistan,1703,1614,2,0,8,-8,1711,1606,40,63,1,-4,41,59,20,100,189
+131,Mar 27 2018,Asian Cup qualifier in Myanmar,Myanmar,Macao,1067,674,1,0,2,-2,1069,672,182,223,0,0,182,223,20,0,393
+132,Mar 27 2018,Friendly in Namibia,Namibia,Lesotho,1377,1262,2,1,4,-4,1381,1258,113,147,1,-2,114,145,20,100,215
+133,Mar 27 2018,Asian Cup qualifier in North Korea,North Korea,Hong Kong,1449,1190,2,0,7,-7,1456,1183,90,171,3,-3,93,168,40,100,359
+134,Mar 27 2018,Asian Cup qualifier in Oman,Oman,Palestine,1529,1404,1,0,9,-9,1538,1395,70,113,2,-4,72,109,40,100,225
+135,Mar 27 2018,Friendly in the United States,Peru,Iceland,1896,1798,3,1,11,-11,1907,1787,9,23,1,-1,10,22,20,0,98
+136,Mar 27 2018,Asian Cup qualifier in the Philippines,Philippines,Tajikistan,1169,1214,2,1,17,-17,1186,1197,166,166,1,-3,167,163,30,0,-45
+137,Mar 27 2018,Friendly in Poland,Poland,South Korea,1826,1749,3,2,5,-5,1831,1744,19,32,0,-2,19,30,20,100,177
+138,Mar 27 2018,Friendly in Romania,Romania,Sweden,1696,1806,1,0,10,-10,1706,1796,40,20,2,0,42,20,20,100,-10
+139,Mar 27 2018,Friendly in Russia,Russia,France,1693,1975,1,3,-8,8,1685,1983,45,5,0,0,45,5,20,100,-182
+140,Mar 27 2018,Friendly in England,Serbia,Nigeria,1757,1715,2,0,13,-13,1770,1702,23,47,1,-4,24,43,20,0,42
+141,Mar 27 2018,Friendly in the Seychelles,Seychelles,Swaziland,940,1295,0,0,6,-6,946,1289,195,138,1,-2,196,136,20,100,-255
+142,Mar 27 2018,Friendly in Slovenia,Slovenia,Belarus,1629,1507,0,2,-23,23,1606,1530,65,68,-6,7,59,75,20,100,222
+143,Mar 27 2018,Friendly in Spain,Spain,Argentina,2036,1996,6,1,12,-12,2048,1984,3,4,0,0,3,4,20,100,140
+144,Mar 27 2018,Friendly in Switzerland,Switzerland,Panama,1873,1668,6,0,6,-6,1879,1662,14,50,0,-1,14,49,20,100,305
+145,Mar 27 2018,Asian Cup qualifier in Taiwan,Taiwan,Singapore,975,1062,1,0,19,-19,994,1043,191,189,1,-3,192,186,30,0,-87
+146,Mar 27 2018,Friendly in Tanzania,Tanzania,DR Congo,1296,1605,2,0,23,-23,1319,1582,118,71,7,-5,125,66,20,100,-209
+147,Mar 27 2018,Friendly in France,Tunisia,Costa Rica,1634,1757,1,0,13,-13,1647,1744,50,35,1,-5,51,30,20,0,-123
+148,Mar 27 2018,Friendly in Uganda,Uganda,Malawi,1463,1303,0,0,-6,6,1457,1309,91,131,0,-1,91,130,20,100,260
+149,Mar 27 2018,Friendly in Belgium,Ukraine,Japan,1733,1701,2,1,9,-9,1742,1692,31,45,1,-1,32,44,20,0,32
+150,Mar 27 2018,Friendly in the United States,United States,Paraguay,1747,1753,1,0,7,-7,1754,1746,23,29,3,-1,26,28,20,100,94
+151,Mar 27 2018,Asian Cup qualifier in Qatar,Yemen,Nepal,1188,898,2,1,6,-6,1194,892,161,202,3,0,164,202,40,0,290
+152,Apr 1 2018,Friendly in Antigua and Barbuda,Antigua and Barbuda,Dominica,1219,1005,0,0,-7,7,1212,1012,160,189,-1,0,159,189,20,100,314
+153,Apr 1 2018,Friendly in Malaysia,Malaysia,Bhutan,1051,585,7,0,2,-2,1053,583,184,230,0,0,184,230,20,100,566
+154,Apr 17 2018,Friendly in Trinidad and Tobago,Trinidad and Tobago,Panama,1431,1662,0,1,-6,6,1425,1668,100,47,-1,1,99,48,20,100,-131
+155,Apr 18 2018,Friendly in Zimbabwe,Zimbabwe,Botswana,1468,1260,0,1,-17,17,1451,1277,104,139,-8,2,96,141,20,100,308
+156,Apr 19 2018,Friendly in Eswatini,Eswatini,Namibia,1289,1381,1,0,10,-10,1299,1371,128,122,4,-4,132,118,20,100,8
+157,Apr 26 2018,Friendly in Saint Kitts and Nevis,Saint Kitts and Nevis,Jamaica,1248,1561,1,3,-7,7,1241,1568,157,66,-4,1,153,67,20,100,-213
+158,Apr 29 2018,Friendly in Antigua and Barbuda,Antigua and Barbuda,Jamaica,1212,1568,0,2,-6,6,1206,1574,159,67,0,0,159,67,20,100,-256
+159,Apr 29 2018,Friendly in Saint Barthélemy,Saint Barthélemy,Saint Martin,695,867,3,1,18,-18,713,849,215,206,1,-1,216,205,20,100,-72
+160,May 8 2018,Friendly in Iraq,Iraq,Palestine,1557,1395,0,0,-6,6,1551,1401,70,107,0,1,70,108,20,100,262
+161,May 9 2018,Friendly in Spain,Saudi Arabia,Algeria,1562,1539,2,0,14,-14,1576,1525,66,81,1,-5,67,76,20,0,23
+162,May 11 2018,Friendly in Kuwait,Kuwait,Palestine,1405,1401,2,0,11,-11,1416,1390,98,114,4,-3,102,111,20,100,104
+163,May 15 2018,Friendly in Spain,Saudi Arabia,Greece,1576,1664,2,0,19,-19,1595,1645,61,53,3,-2,64,51,20,0,-88
+164,May 19 2018,Friendly in Iran,Iran,Uzbekistan,1794,1606,1,0,3,-3,1797,1603,19,63,1,-2,20,61,20,100,288
+165,May 20 2018,Friendly in Jordan,Jordan,Cyprus,1465,1413,3,0,10,-10,1475,1403,84,109,2,-2,86,107,20,100,152
+166,May 25 2018,Friendly in Kenya,Kenya,Eswatini,1376,1299,0,1,-15,15,1361,1314,121,126,-3,3,118,129,20,100,177
+167,May 25 2018,Friendly in Kuwait,Kuwait,Egypt,1416,1644,1,1,4,-4,1420,1640,102,52,0,0,102,52,20,100,-128
+168,May 26 2018,Friendly in China,China,Myanmar,1520,1069,1,0,1,-1,1521,1068,77,182,0,0,77,182,20,0,451
+169,May 26 2018,Friendly in Saint Barthélemy,Saint Barthélemy,Sint Maarten,713,884,5,3,18,-18,731,866,214,203,1,0,215,203,20,100,-71
+170,May 27 2018,Friendly in France,Burkina Faso,Cameroon,1586,1655,1,0,12,-12,1598,1643,61,53,2,-2,63,51,20,0,-69
+171,May 27 2018,COSAFA Cup in South Africa,Comoros,Seychelles,1048,946,1,1,-6,6,1042,952,187,194,-1,1,186,195,40,0,102
+172,May 27 2018,COSAFA Cup in South Africa,Madagascar,Mozambique,1358,1316,2,1,18,-18,1376,1298,111,136,4,-4,115,132,40,0,42
+173,May 27 2018,Friendly tournament in Niger,Niger,Central African Republic,1296,1312,3,3,-4,4,1292,1316,138,126,-2,2,136,128,30,100,84
+174,May 28 2018,Friendly in Bosnia and Herzegovina,Bosnia and Herzegovina,Montenegro,1730,1611,0,0,-6,6,1724,1617,38,50,-2,3,36,53,20,100,219
+175,May 28 2018,COSAFA Cup in South Africa,Botswana,Angola,1277,1260,2,1,19,-19,1296,1241,125,160,8,-8,133,152,40,0,17
+176,May 28 2018,Friendly in France,France,Ireland,1983,1723,2,0,3,-3,1986,1720,3,40,1,-2,4,38,20,100,360
+177,May 28 2018,Friendly in Switzerland,Italy,Saudi Arabia,1898,1595,2,1,3,-3,1901,1592,12,65,0,0,12,65,20,0,303
+178,May 28 2018,Friendly in Kenya,Kenya,Equatorial Guinea,1361,1332,1,0,6,-6,1367,1326,119,122,0,0,119,122,20,100,129
+179,May 28 2018,COSAFA Cup in South Africa,Mauritius,Malawi,1076,1309,1,0,32,-32,1108,1277,168,152,6,-11,174,141,40,0,-233
+180,May 28 2018,Friendly in the United States,Mexico,Wales,1860,1775,0,0,-2,2,1858,1777,16,23,0,0,16,23,20,0,85
+181,May 28 2018,Friendly in Nigeria,Nigeria,DR Congo,1702,1582,1,1,-6,6,1696,1588,43,65,0,1,43,66,20,100,220
+182,May 28 2018,Friendly in Portugal,Portugal,Tunisia,1975,1647,2,2,-8,8,1967,1655,6,49,0,0,6,49,20,100,428
+183,May 28 2018,Friendly in South Korea,South Korea,Honduras,1744,1610,2,0,6,-6,1750,1604,24,61,3,-2,27,59,20,100,234
+184,May 28 2018,Friendly in Turkey,Turkey,Iran,1720,1797,2,1,9,-9,1729,1788,30,22,4,-1,34,21,20,100,23
+185,May 28 2018,Friendly in the United States,United States,Bolivia,1754,1682,3,0,9,-9,1763,1673,24,47,1,0,25,47,20,100,172
+186,May 29 2018,Friendly in Argentina,Argentina,Haiti,1984,1495,4,0,1,-1,1985,1494,5,84,0,0,5,84,20,100,589
+187,May 29 2018,Friendly in Austria,Armenia,Malta,1464,1202,1,1,-6,6,1458,1208,89,157,0,2,89,159,20,0,262
+188,May 29 2018,Friendly in Azerbaijan,Azerbaijan,Kyrgyzstan,1392,1245,3,0,7,-7,1399,1238,106,157,2,-4,108,153,20,100,247
+189,May 29 2018,Friendly in Switzerland,Kosovo,Albania,1404,1596,3,0,26,-26,1430,1570,90,72,8,-4,98,68,20,0,-192
+190,May 29 2018,COSAFA Cup in South Africa,Madagascar,Seychelles,1376,952,1,1,-17,17,1359,969,123,193,-4,1,119,194,40,0,424
+191,May 29 2018,COSAFA Cup in South Africa,Mozambique,Comoros,1298,1042,3,0,13,-13,1311,1029,129,186,1,0,130,186,40,0,256
+192,May 29 2018,Friendly in Panama,Panama,Northern Ireland,1668,1684,0,0,-2,2,1666,1686,48,44,0,1,48,45,20,100,84
+193,May 29 2018,Friendly in Peru,Peru,Scotland,1907,1719,2,0,5,-5,1912,1714,10,39,0,0,10,39,20,100,288
+194,May 30 2018,COSAFA Cup in South Africa,Angola,Mauritius,1241,1108,1,0,13,-13,1254,1095,145,180,3,-3,148,177,40,0,133
+195,May 30 2018,Friendly in Austria,Austria,Russia,1725,1685,1,0,6,-6,1731,1679,33,44,1,1,34,45,20,100,140
+196,May 30 2018,COSAFA Cup in South Africa,Botswana,Malawi,1296,1277,1,1,-1,1,1295,1278,133,139,0,1,133,140,20,0,19
+197,May 30 2018,Friendly tournament in Niger,Central African Republic,Uganda,1316,1457,1,0,21,-21,1337,1436,116,104,6,-7,122,97,30,0,-141
+198,May 30 2018,Baltic Cup in Estonia,Estonia,Lithuania,1504,1412,2,0,11,-11,1515,1401,78,108,2,-1,80,107,20,0,92
+199,May 30 2018,Friendly in Japan,Japan,Ghana,1692,1616,0,2,-22,22,1670,1638,50,52,-3,1,47,53,20,100,176
+200,May 31 2018,Friendly in Luxembourg,Luxembourg,Senegal,1325,1746,0,0,7,-7,1332,1739,122,35,1,-3,123,32,20,100,-321
+201,May 31 2018,COSAFA Cup in South Africa,Madagascar,Comoros,1359,1029,1,0,5,-5,1364,1024,119,190,0,-2,119,188,40,0,330
+202,May 31 2018,Friendly in Switzerland,Morocco,Ukraine,1711,1742,0,0,1,-1,1712,1741,43,30,-1,1,42,31,20,0,-31
+203,May 31 2018,COSAFA Cup in South Africa,Mozambique,Seychelles,1311,969,2,1,5,-5,1316,964,128,194,1,0,129,194,40,0,342
+204,May 31 2018,Friendly in Austria,Romania,Chile,1706,1874,3,2,14,-14,1720,1860,34,15,4,0,38,15,20,0,-168
+205,May 31 2018,Friendly in Slovakia,Slovakia,Netherlands,1762,1907,1,1,1,-1,1763,1906,24,11,1,0,25,11,20,100,-45
+206,Jun 1 2018,Friendly in Algeria,Algeria,Cape Verde,1525,1428,2,3,-15,15,1510,1443,88,93,-6,3,82,96,20,100,197
+207,Jun 1 2018,COSAFA Cup in South Africa,Angola,Malawi,1254,1278,0,0,1,-1,1255,1277,146,142,1,-1,147,141,20,0,-24
+208,Jun 1 2018,Friendly in Austria,Australia,Czechia,1713,1722,4,0,19,-19,1732,1703,27,47,7,-5,34,42,20,0,-9
+209,Jun 1 2018,COSAFA Cup in South Africa,Botswana,Mauritius,1295,1095,6,0,20,-20,1315,1075,127,185,3,-4,130,181,40,0,200
+210,Jun 1 2018,Friendly in Italy,Colombia,Egypt,1934,1640,0,0,-7,7,1927,1647,10,48,-1,2,9,50,20,0,294
+211,Jun 1 2018,Friendly in France,France,Italy,1986,1901,3,1,8,-8,1994,1893,4,12,0,0,4,12,20,100,185
+212,Jun 1 2018,Friendly in Austria,Georgia,Malta,1504,1208,1,0,3,-3,1507,1205,83,163,0,-2,83,161,20,0,296
+213,Jun 1 2018,Friendly tournament in India,India,Taiwan,1148,994,5,0,11,-11,1159,983,169,194,1,-1,170,193,30,100,254
+214,Jun 1 2018,Friendly in South Korea,South Korea,Bosnia and Herzegovina,1750,1724,1,3,-20,20,1730,1744,45,22,-9,7,36,29,20,100,126
+215,Jun 1 2018,Friendly in Switzerland,Tunisia,Turkey,1655,1729,2,2,2,-2,1657,1727,49,39,0,-2,49,37,20,0,-74
+216,Jun 2 2018,Friendly in Austria,Austria,Germany,1731,2092,2,1,16,-16,1747,2076,19,2,8,0,27,2,20,100,-261
+217,Jun 2 2018,Friendly in Belgium,Belgium,Portugal,1930,1967,0,0,-2,2,1928,1969,8,6,0,0,8,6,20,100,63
+218,Jun 2 2018,Friendly in the United States,El Salvador,Honduras,1457,1604,1,0,14,-14,1471,1590,86,69,2,-5,88,64,20,0,-147
+219,Jun 2 2018,Friendly in England,England,Nigeria,1941,1696,2,1,2,-2,1943,1694,7,43,0,0,7,43,20,100,345
+220,Jun 2 2018,Friendly in Iceland,Iceland,Norway,1787,1614,2,3,-17,17,1770,1631,24,53,-1,1,23,54,20,100,273
+221,Jun 2 2018,Friendly in Ireland,Ireland,United States,1720,1763,2,1,8,-8,1728,1755,36,27,1,-1,37,26,20,100,57
+222,Jun 2 2018,Friendly tournament in India,Kenya,New Zealand,1367,1515,2,1,21,-21,1388,1494,106,87,6,-4,112,83,30,0,-148
+223,Jun 2 2018,Baltic Cup in Latvia,Latvia,Estonia,1343,1515,1,0,18,-18,1361,1497,119,85,1,-3,120,82,30,100,-72
+224,Jun 2 2018,COSAFA Cup in South Africa,Lesotho,Eswatini,1258,1314,1,0,23,-23,1281,1291,134,141,5,-5,139,136,40,0,-56
+225,Jun 2 2018,Friendly in Mexico,Mexico,Scotland,1858,1714,1,0,4,-4,1862,1710,14,42,1,-1,15,41,20,100,244
+226,Jun 2 2018,Friendly in Montenegro,Montenegro,Slovenia,1617,1606,0,2,-20,20,1597,1626,70,52,-8,3,62,55,20,100,111
+227,Jun 2 2018,COSAFA Cup in South Africa,Namibia,Zambia,1371,1470,0,0,6,-6,1377,1464,113,90,2,-1,115,89,40,0,-99
+228,Jun 2 2018,Friendly tournament in Niger,Niger,Uganda,1292,1436,2,1,17,-17,1309,1419,126,108,5,-5,131,103,30,100,-44
+229,Jun 2 2018,World Football Cup in England,Northern Cyprus,Tibet,1455,631,3,1,1,-1,1456,630,90,227,1,0,91,227,40,0,824
+230,Jun 2 2018,Friendly in Sweden,Sweden,Denmark,1796,1842,0,0,-2,2,1794,1844,20,18,0,0,20,18,20,100,54
+231,Jun 2 2018,Friendly in Thailand,Thailand,China,1396,1521,0,2,-14,14,1382,1535,117,68,-4,4,113,72,20,100,-25
+232,Jun 3 2018,Friendly in Portugal,Andorra,Cape Verde,1025,1443,0,0,8,-8,1033,1435,185,98,1,-1,186,97,20,0,-418
+233,Jun 3 2018,Friendly in Barbados,Barbados,Belize,1137,1168,0,0,-2,2,1135,1170,173,169,0,0,173,169,20,100,69
+234,Jun 3 2018,COSAFA Cup in South Africa,Botswana,Zimbabwe,1315,1451,1,1,7,-7,1322,1444,122,95,4,0,126,95,40,0,-136
+235,Jun 3 2018,Friendly in England,Brazil,Croatia,2131,1853,2,0,5,-5,2136,1848,1,17,0,0,1,17,20,0,278
+236,Jun 3 2018,Friendly in Costa Rica,Costa Rica,Northern Ireland,1744,1686,3,0,10,-10,1754,1676,24,46,3,-1,27,45,20,100,158
+237,Jun 3 2018,Friendly in Switzerland,Peru,Saudi Arabia,1912,1592,3,0,5,-5,1917,1587,10,67,0,-2,10,65,20,0,320
+238,Jun 3 2018,COSAFA Cup in South Africa,South Africa,Madagascar,1561,1364,0,0,-14,14,1547,1378,71,111,-1,4,70,115,40,100,297
+239,Jun 3 2018,Friendly in Spain,Spain,Switzerland,2048,1879,1,1,-6,6,2042,1885,3,14,0,0,3,14,20,100,269
+240,Jun 3 2018,Friendly in France,Ukraine,Albania,1741,1570,4,1,10,-10,1751,1560,24,68,4,0,28,68,20,0,171
+241,Jun 4 2018,Friendly in Austria,Armenia,Moldova,1458,1323,0,0,-4,4,1454,1327,94,123,-2,1,92,124,20,0,135
+242,Jun 4 2018,Friendly in Austria,Chile,Serbia,1860,1770,1,0,7,-7,1867,1763,14,25,1,-1,15,24,20,0,90
+243,Jun 4 2018,Friendly tournament in India,India,Kenya,1159,1388,3,0,36,-36,1195,1352,158,130,6,-9,164,121,30,100,-129
+244,Jun 4 2018,Friendly in Italy,Italy,Netherlands,1893,1906,1,1,-2,2,1891,1908,12,11,0,0,12,11,20,100,87
+245,Jun 4 2018,Friendly in Switzerland,Morocco,Slovakia,1712,1763,2,1,11,-11,1723,1752,38,29,1,-2,39,27,20,0,-51
+246,Jun 5 2018,COSAFA Cup in South Africa,Botswana,Eswatini,1322,1291,2,0,27,-27,1349,1264,118,152,4,-8,122,144,40,0,31
+247,Jun 5 2018,Friendly in Kazakhstan,Kazakhstan,Azerbaijan,1354,1399,3,0,15,-15,1369,1384,114,114,3,-3,117,111,20,100,55
+248,Jun 5 2018,Baltic Cup in Lithuania,Lithuania,Latvia,1401,1361,1,1,-6,6,1395,1367,107,117,0,1,107,118,30,100,140
+249,Jun 5 2018,Friendly in Luxembourg,Luxembourg,Georgia,1332,1507,1,0,12,-12,1344,1495,123,85,0,-2,123,83,20,100,-75
+250,Jun 5 2018,Friendly tournament in Martinique,Martinique,French Guiana,1423,1376,3,0,16,-16,1439,1360,91,123,5,-3,96,120,30,100,147
+251,Jun 5 2018,Friendly tournament in India,New Zealand,Taiwan,1494,983,1,0,2,-2,1496,981,81,193,1,0,82,193,30,0,511
+252,Jun 5 2018,Friendly in Romania,Romania,Finland,1720,1604,2,0,7,-7,1727,1597,38,64,1,-3,39,61,20,100,216
+253,Jun 5 2018,Friendly in Russia,Russia,Turkey,1679,1727,1,1,-1,1,1678,1728,44,36,0,1,44,37,20,100,52
+254,Jun 5 2018,COSAFA Cup in South Africa,South Africa,Namibia,1547,1377,4,1,12,-12,1559,1365,68,123,1,-4,69,119,40,100,270
+255,Jun 6 2018,Friendly in Belarus,Belarus,Hungary,1530,1583,1,1,-1,1,1529,1584,75,66,0,0,75,66,20,100,47
+256,Jun 6 2018,Friendly in Belgium,Belgium,Egypt,1928,1647,3,0,4,-4,1932,1643,8,52,0,-1,8,51,20,100,381
+257,Jun 6 2018,Friendly in Austria,Czechia,Nigeria,1703,1694,1,0,10,-10,1713,1684,40,43,1,0,41,43,20,0,9
+258,Jun 6 2018,COSAFA Cup in South Africa,Lesotho,Zimbabwe,1281,1444,0,0,9,-9,1290,1435,134,99,2,-2,136,97,40,0,-163
+259,Jun 6 2018,Friendly in Norway,Norway,Panama,1631,1666,1,0,8,-8,1639,1658,52,48,1,0,53,48,20,100,65
+260,Jun 6 2018,COSAFA Cup in South Africa,Zambia,Madagascar,1464,1378,1,0,15,-15,1479,1363,83,124,3,-5,86,119,40,0,86
+261,Jun 7 2018,Friendly in Austria,Bolivia,South Korea,1673,1730,0,0,2,-2,1675,1728,46,36,0,0,46,36,20,0,-57
+262,Jun 7 2018,Friendly in England,England,Costa Rica,1943,1754,2,0,5,-5,1948,1749,7,30,0,-2,7,28,20,100,289
+263,Jun 7 2018,Friendly tournament in Martinique,French Guiana,Guadeloupe,1360,1258,2,0,16,-16,1376,1242,110,157,5,-6,115,151,30,0,102
+264,Jun 7 2018,Friendly in Iceland,Iceland,Ghana,1770,1638,2,2,-6,6,1764,1644,23,48,0,3,23,51,20,100,232
+265,Jun 7 2018,Friendly tournament in India,India,New Zealand,1195,1496,1,2,-7,7,1188,1503,170,80,-3,1,167,81,30,100,-201
+266,Jun 7 2018,Friendly in Portugal,Portugal,Algeria,1969,1510,3,0,1,-1,1970,1509,6,80,0,0,6,80,20,100,559
+267,Jun 7 2018,Friendly in Uruguay,Uruguay,Uzbekistan,1890,1603,3,0,3,-3,1893,1600,11,58,1,0,12,58,20,100,387
+268,Jun 8 2018,Friendly in Croatia,Croatia,Senegal,1848,1739,2,1,5,-5,1853,1734,17,35,0,-1,17,34,20,100,209
+269,Jun 8 2018,Friendly in Germany,Germany,Saudi Arabia,2076,1587,2,1,1,-1,2077,1586,2,65,0,0,2,65,20,0,489
+270,Jun 8 2018,Friendly in Russia,Iran,Lithuania,1788,1395,1,0,2,-2,1790,1393,21,107,0,0,21,107,20,0,393
+271,Jun 8 2018,Friendly tournament in India,Kenya,Taiwan,1352,981,4,0,6,-6,1358,975,119,193,1,0,120,193,30,0,371
+272,Jun 8 2018,COSAFA Cup in South Africa,Lesotho,Madagascar,1290,1363,1,0,24,-24,1314,1339,126,124,5,-2,131,122,40,0,-73
+273,Jun 8 2018,Friendly in Poland,Poland,Chile,1831,1867,2,2,-2,2,1829,1869,19,15,0,0,19,15,20,100,64
+274,Jun 8 2018,COSAFA Cup in South Africa,South Africa,Botswana,1559,1349,3,0,10,-10,1569,1339,67,122,1,0,68,122,40,100,310
+275,Jun 8 2018,Friendly in Switzerland,Switzerland,Japan,1885,1670,2,0,4,-4,1889,1666,14,47,0,0,14,47,20,100,315
+276,Jun 9 2018,Friendly in Denmark,Denmark,Mexico,1844,1862,2,0,12,-12,1856,1850,14,20,2,-2,16,18,20,100,82
+277,Jun 9 2018,Friendly in Estonia,Estonia,Morocco,1497,1723,1,3,-10,10,1487,1733,88,32,-3,4,85,36,20,100,-126
+278,Jun 9 2018,Friendly in Finland,Finland,Belarus,1597,1529,2,0,8,-8,1605,1521,55,77,3,-1,58,76,20,100,168
+279,Jun 9 2018,Friendly in France,France,United States,1994,1755,1,1,-8,8,1986,1763,4,25,0,0,4,25,20,100,339
+280,Jun 9 2018,Friendly in Hungary,Hungary,Australia,1584,1732,1,2,-9,9,1575,1741,66,31,0,2,66,33,20,100,-48
+281,Jun 9 2018,Friendly in Latvia,Latvia,Azerbaijan,1367,1384,1,3,-19,19,1348,1403,122,101,-2,5,120,106,20,100,83
+282,Jun 9 2018,Friendly in Austria,Serbia,Bolivia,1763,1675,5,1,14,-14,1777,1661,20,48,2,-1,22,47,20,0,88
+283,Jun 9 2018,Friendly in Russia,Spain,Tunisia,2042,1657,1,0,2,-2,2044,1655,3,49,0,0,3,49,20,0,385
+284,Jun 9 2018,Friendly in Sweden,Sweden,Peru,1794,1917,0,0,1,-1,1795,1916,20,10,0,0,20,10,20,100,-23
+285,Jun 9 2018,Friendly in England,Tuvalu,Chagos Islands,758,798,6,1,22,-22,780,776,208,214,3,-2,211,212,20,0,-40
+286,Jun 9 2018,COSAFA Cup in South Africa,Zimbabwe,Zambia,1435,1479,4,2,34,-34,1469,1445,81,104,8,-9,89,95,40,0,-44
+287,Jun 10 2018,Friendly in Austria,Austria,Brazil,1747,2136,0,3,-6,6,1741,2142,35,1,-3,0,32,1,20,100,-289
+288,Jun 10 2018,Friendly tournament in India,India,Kenya,1188,1358,2,0,27,-27,1215,1331,151,129,8,-5,159,124,30,100,-70
+289,Jun 11 2018,Friendly in Belgium,Belgium,Costa Rica,1932,1749,4,1,6,-6,1938,1743,8,36,0,-4,8,32,20,100,283
+290,Jun 11 2018,Friendly in Austria,Senegal,South Korea,1734,1728,2,0,15,-15,1749,1713,21,43,7,-3,28,40,20,0,6
+291,Jun 12 2018,Friendly in Austria,Japan,Paraguay,1666,1746,4,2,18,-18,1684,1728,40,42,3,-6,43,36,20,0,-80
+292,Jun 12 2018,Friendly in Poland,Poland,Lithuania,1829,1393,4,0,2,-2,1831,1391,19,110,0,-1,19,109,20,100,536
+293,Jun 14 2018,World Cup in Russia,Russia,Saudi Arabia,1678,1586,5,0,30,-30,1708,1556,41,73,2,-4,43,69,40,0,92
+294,Jun 15 2018,World Cup in Russia,Iran,Morocco,1790,1733,1,0,25,-25,1815,1708,19,49,1,-7,20,42,60,0,57
+295,Jun 15 2018,World Cup in Russia,Portugal,Spain,1970,2044,3,3,6,-6,1976,2038,6,3,0,0,6,3,60,0,-74
+296,Jun 15 2018,World Cup in Russia,Uruguay,Egypt,1893,1643,1,0,12,-12,1905,1631,12,56,0,-2,12,54,60,0,250
+297,Jun 16 2018,World Cup in Russia,Argentina,Iceland,1985,1764,1,1,-17,17,1968,1781,7,20,-1,2,6,22,60,0,221
+298,Jun 16 2018,World Cup in Russia,Croatia,Nigeria,1853,1684,2,0,25,-25,1878,1659,15,50,1,-3,16,47,60,0,169
+299,Jun 16 2018,World Cup in Russia,Denmark,Peru,1856,1916,1,0,35,-35,1891,1881,8,20,4,-5,12,15,60,0,-60
+300,Jun 16 2018,World Cup in Russia,France,Australia,1986,1741,2,1,12,-12,1998,1729,4,36,0,-2,4,34,60,0,245
+301,Jun 17 2018,World Cup in Russia,Brazil,Switzerland,2142,1889,1,1,-19,19,2123,1908,1,6,0,4,1,10,50,100,353
+302,Jun 17 2018,World Cup in Russia,Mexico,Germany,1850,2077,1,0,47,-47,1897,2030,8,4,5,-1,13,3,60,0,-227
+303,Jun 17 2018,World Cup in Russia,Serbia,Costa Rica,1777,1743,1,0,27,-27,1804,1716,19,45,2,-7,21,38,60,0,34
+304,Jun 18 2018,World Cup in Russia,Belgium,Panama,1938,1658,3,0,17,-17,1955,1641,8,56,0,-4,8,52,60,0,280
+305,Jun 18 2018,World Cup in Russia,England,Tunisia,1948,1655,2,1,9,-9,1957,1646,7,47,0,1,7,48,60,0,293
+306,Jun 18 2018,World Cup in Russia,Sweden,South Korea,1795,1713,1,0,23,-23,1818,1690,18,47,2,-4,20,43,60,0,82
+307,Jun 19 2018,World Cup in Russia,Japan,Colombia,1684,1927,2,1,48,-48,1732,1879,22,23,11,-7,33,16,60,0,-243
+308,Jun 19 2018,World Cup in Russia,Russia,Egypt,1708,1631,3,1,24,-24,1732,1607,25,58,8,-2,33,56,60,100,177
+309,Jun 19 2018,World Cup in Russia,Senegal,Poland,1749,1831,2,1,37,-37,1786,1794,18,25,5,-3,23,22,60,0,-82
+310,Jun 20 2018,World Cup in Russia,Portugal,Morocco,1976,1708,1,0,11,-11,1987,1697,5,43,0,0,5,43,60,0,268
+311,Jun 20 2018,World Cup in Russia,Spain,Iran,2038,1815,1,0,13,-13,2051,1802,2,22,0,-1,2,21,60,0,223
+312,Jun 20 2018,World Cup in Russia,Uruguay,Saudi Arabia,1905,1556,1,0,7,-7,1912,1549,7,71,2,-1,9,70,60,0,349
+313,Jun 21 2018,World Cup in Russia,Australia,Denmark,1729,1891,1,1,13,-13,1742,1878,27,19,4,-3,31,16,60,0,-162
+314,Jun 21 2018,World Cup in Russia,Croatia,Argentina,1878,1968,3,0,66,-66,1944,1902,-1,18,9,-6,8,12,60,0,-90
+315,Jun 21 2018,World Cup in Russia,France,Peru,1998,1881,1,0,20,-20,2018,1861,4,21,0,-3,4,18,60,0,117
+316,Jun 22 2018,World Cup in Russia,Brazil,Costa Rica,2123,1716,2,0,8,-8,2131,1708,1,46,0,-3,1,43,60,0,407
+317,Jun 22 2018,World Cup in Russia,Nigeria,Iceland,1659,1781,2,0,60,-60,1719,1721,33,54,7,-15,40,39,60,0,-122
+318,Jun 22 2018,World Cup in Russia,Switzerland,Serbia,1908,1804,2,1,21,-21,1929,1783,8,26,1,-3,9,23,60,0,104
+319,Jun 23 2018,World Cup in Russia,Belgium,Tunisia,1955,1646,5,2,15,-15,1970,1631,5,58,1,-5,6,53,60,0,309
+320,Jun 23 2018,World Cup in Russia,Germany,Sweden,2030,1818,2,1,14,-14,2044,1804,3,19,0,0,3,19,60,0,212
+321,Jun 23 2018,World Cup in Russia,Mexico,South Korea,1897,1690,2,1,14,-14,1911,1676,9,45,2,0,11,45,60,0,207
+322,Jun 24 2018,World Cup in Russia,Colombia,Poland,1879,1794,3,0,40,-40,1919,1754,5,29,5,-4,10,25,60,0,85
+323,Jun 24 2018,World Cup in Russia,England,Panama,1957,1641,6,1,17,-17,1974,1624,5,57,1,-3,6,54,60,0,316
+324,Jun 24 2018,World Cup in Russia,Japan,Senegal,1732,1786,2,2,5,-5,1737,1781,33,22,0,0,33,22,60,0,-54
+325,Jun 25 2018,World Cup in Russia,Morocco,Spain,1697,2051,2,2,23,-23,1720,2028,34,4,5,-1,39,3,60,0,-354
+326,Jun 25 2018,World Cup in Russia,Portugal,Iran,1987,1802,1,1,-15,15,1972,1817,7,18,-1,1,6,19,60,0,185
+327,Jun 25 2018,World Cup in Russia,Russia,Uruguay,1732,1912,0,3,-41,41,1691,1953,54,5,-10,3,44,8,60,100,-80
+328,Jun 25 2018,World Cup in Russia,Saudi Arabia,Egypt,1549,1607,2,1,35,-35,1584,1572,58,78,6,-11,64,67,60,0,-58
+329,Jun 26 2018,World Cup in Russia,Argentina,Nigeria,1902,1719,2,1,16,-16,1918,1703,10,46,2,-3,12,43,60,0,183
+330,Jun 26 2018,World Cup in Russia,Croatia,Iceland,1944,1721,2,1,13,-13,1957,1708,7,44,1,-3,8,41,60,0,223
+331,Jun 26 2018,World Cup in Russia,Denmark,France,1878,2018,0,0,11,-11,1889,2007,18,4,-1,0,17,4,60,0,-140
+332,Jun 26 2018,World Cup in Russia,Peru,Australia,1861,1742,2,0,30,-30,1891,1712,12,48,3,-9,15,39,60,0,119
+333,Jun 27 2018,World Cup in Russia,Brazil,Serbia,2131,1783,2,0,11,-11,2142,1772,1,25,0,-2,1,23,60,0,348
+334,Jun 27 2018,World Cup in Russia,Costa Rica,Switzerland,1708,1929,2,2,17,-17,1725,1912,35,14,3,-2,38,12,60,0,-221
+335,Jun 27 2018,World Cup in Russia,South Korea,Germany,1676,2044,2,0,80,-80,1756,1964,5,12,20,-5,25,7,60,0,-368
+336,Jun 27 2018,World Cup in Russia,Sweden,Mexico,1804,1911,3,0,68,-68,1872,1843,14,25,3,-6,17,19,60,0,-107
+337,Jun 28 2018,World Cup in Russia,Belgium,England,1970,1974,1,0,30,-30,2000,1944,2,14,2,-5,4,9,60,0,-4
+338,Jun 28 2018,World Cup in Russia,Colombia,Senegal,1919,1781,1,0,19,-19,1938,1762,10,29,0,-4,10,25,60,0,138
+339,Jun 28 2018,World Cup in Russia,Poland,Japan,1754,1737,1,0,29,-29,1783,1708,16,51,5,-9,21,42,60,0,17
+340,Jun 28 2018,World Cup in Russia,Tunisia,Panama,1631,1624,2,1,29,-29,1660,1595,44,68,4,-7,48,61,60,0,7
+341,Jun 30 2018,World Cup in Russia,France,Argentina,2007,1918,4,3,22,-22,2029,1896,1,15,1,-2,2,13,60,0,89
+342,Jun 30 2018,World Cup in Russia,Uruguay,Portugal,1953,1972,2,1,32,-32,1985,1940,2,13,3,-4,5,9,60,0,-19
+343,Jul 1 2018,World Cup in Russia,Croatia,Denmark,1957,1889,1,1,-6,6,1951,1895,7,12,0,2,7,14,60,0,68
+344,Jul 1 2018,World Cup in Russia,Russia,Spain,1691,2028,1,1,18,-18,1709,2010,39,3,3,0,42,3,60,100,-237
+345,Jul 2 2018,World Cup in Russia,Belgium,Japan,2000,1708,3,2,9,-9,2009,1699,4,47,0,-2,4,45,60,0,292
+346,Jul 2 2018,World Cup in Russia,Brazil,Mexico,2142,1843,2,0,14,-14,2156,1829,1,19,0,0,1,19,60,0,299
+347,Jul 3 2018,World Cup in Russia,Colombia,England,1938,1944,1,1,1,-1,1939,1943,10,8,0,0,10,8,60,0,-6
+348,Jul 3 2018,World Cup in Russia,Sweden,Switzerland,1872,1912,1,0,33,-33,1905,1879,7,23,5,-6,12,17,60,0,-40
+349,Jul 5 2018,Friendly in Malaysia,Malaysia,Fiji,1053,1246,1,0,13,-13,1066,1233,182,160,1,-6,183,154,20,100,-93
+350,Jul 6 2018,World Cup in Russia,Belgium,Brazil,2009,2156,2,1,42,-42,2051,2114,2,1,1,0,3,1,60,0,-147
+351,Jul 6 2018,World Cup in Russia,France,Uruguay,2029,1985,2,0,39,-39,2068,1946,2,9,0,-2,2,7,60,0,44
+352,Jul 7 2018,World Cup in Russia,England,Sweden,1943,1905,2,0,40,-40,1983,1865,2,24,3,-6,5,18,60,0,38
+353,Jul 7 2018,World Cup in Russia,Russia,Croatia,1709,1951,2,2,12,-12,1721,1939,34,12,4,-3,38,9,40,0,-242
+354,Jul 10 2018,World Cup in Russia,France,Belgium,2068,2051,1,0,29,-29,2097,2022,2,3,0,0,2,3,60,0,17
+355,Jul 11 2018,World Cup in Russia,Croatia,England,1939,1983,2,1,34,-34,1973,1949,1,9,4,-2,5,7,60,0,-44
+356,Jul 14 2018,World Cup in Russia,Belgium,England,2022,1949,2,0,36,-36,2058,1913,3,13,0,-3,3,10,60,0,73
+357,Jul 15 2018,World Cup in Russia,France,Croatia,2097,1973,4,2,30,-30,2127,1943,0,9,1,-2,1,7,60,0,124
+358,Jul 22 2018,Friendly in Liberia,Liberia,Sierra Leone,1309,1377,0,0,-1,1,1308,1378,134,114,-1,0,133,114,20,100,32
+359,Jul 25 2018,Friendly in Sint Maarten,Sint Maarten,British Virgin Islands,866,607,2,3,-18,18,848,625,207,227,-2,1,205,228,20,100,359
+360,Jul 27 2018,Friendly in Saint Barthélemy,British Virgin Islands,Saint Martin,625,849,0,0,6,-6,631,843,226,208,1,-2,227,206,20,0,-224
+361,Jul 27 2018,Friendly in Saint Barthélemy,Saint Barthélemy,Anguilla,731,558,1,2,-17,17,714,575,217,231,-1,1,216,232,20,100,273
+362,Jul 28 2018,Friendly in Saint Barthélemy,Saint Barthélemy,British Virgin Islands,714,631,3,4,-15,15,699,646,218,223,-1,2,217,225,20,100,183
+363,Jul 28 2018,Friendly in Saint Barthélemy,Saint Martin,Anguilla,843,575,5,1,7,-7,850,568,202,232,2,0,204,232,20,0,268
+364,Aug 4 2018,Friendly in Belize,Belize,Barbados,1170,1135,1,0,6,-6,1176,1129,170,173,0,0,170,173,20,100,135
+365,Aug 4 2018,Friendly in Palestine,Palestine,Iraq,1390,1551,0,3,-14,14,1376,1565,118,68,-4,1,114,69,20,100,-61
+366,Aug 11 2018,Friendly in Guadeloupe,Guadeloupe,Dominica,1242,1012,0,0,-7,7,1235,1019,156,189,-3,0,153,189,20,100,330
+367,Aug 15 2018,Friendly in Guatemala,Guatemala,Cuba,1511,1298,3,0,5,-5,1516,1293,79,134,0,0,79,134,20,100,313
+368,Aug 17 2018,Friendly in Grenada,Grenada,Jamaica,1102,1574,1,5,-4,4,1098,1578,176,64,-1,1,175,65,20,100,-372
+369,Aug 18 2018,Friendly in Austria,Andorra,United Arab Emirates,1033,1532,0,0,9,-9,1042,1523,186,76,0,-1,186,75,20,0,-499
+370,Aug 18 2018,Friendly in French Guiana,French Guiana,Suriname,1376,1245,0,4,-30,30,1346,1275,124,138,-5,5,119,143,20,100,231
+371,Aug 18 2018,Friendly in Guatemala,Guatemala,Cuba,1516,1293,1,0,3,-3,1519,1290,77,138,1,-2,78,136,20,100,323
+372,Aug 19 2018,Friendly in Afghanistan,Afghanistan,Palestine,1155,1376,0,0,3,-3,1158,1373,171,114,0,0,171,114,20,100,-121
+373,Aug 20 2018,Friendly in Barbados,Barbados,Jamaica,1129,1578,2,2,8,-8,1137,1570,173,69,0,-2,173,67,20,100,-349
+374,Aug 22 2018,Friendly in Sint Maarten,Sint Maarten,Anguilla,848,568,1,1,-8,8,840,576,207,232,-1,0,206,232,20,100,380
+375,Aug 26 2018,Friendly in Anguilla,Anguilla,Saint Martin,576,850,1,2,-5,5,571,855,232,202,0,1,232,203,20,100,-174
+376,Aug 26 2018,Friendly in Barbados,Barbados,Cuba,1137,1290,0,0,2,-2,1139,1288,173,136,0,0,173,136,20,100,-53
+377,Aug 26 2018,Friendly in Lesotho,Lesotho,Eswatini,1314,1264,1,0,6,-6,1320,1258,123,145,4,0,127,145,20,100,150
+378,Aug 27 2018,Friendly in Lesotho,Lesotho,Eswatini,1320,1258,2,0,8,-8,1328,1250,123,151,2,-3,125,148,20,100,162
+379,Aug 29 2018,Friendly in Bangladesh,Bangladesh,Sri Lanka,805,688,0,1,-16,16,789,704,211,212,-1,4,210,216,20,100,217
+380,Aug 29 2018,Friendly in Barbados,Barbados,Cuba,1139,1288,0,2,-13,13,1126,1301,173,132,0,2,173,134,20,100,-49
+381,Aug 29 2018,Friendly in Macao,Macao,Solomon Islands,672,1200,1,4,-3,3,669,1203,223,163,0,0,223,163,20,100,-428
+382,Sep 1 2018,Southeast Asian Champ qual in Malaysia,East Timor,Brunei,633,624,3,1,29,-29,662,595,221,229,3,0,224,229,40,0,9
+383,Sep 2 2018,Friendly in Ethiopia,Ethiopia,Burundi,1277,1317,1,1,-2,2,1275,1319,143,126,-1,2,142,128,20,100,60
+384,Sep 2 2018,East Asian Championship qual in Mongolia,Guam,Northern Mariana Islands,833,411,4,0,6,-6,839,405,207,238,0,0,207,238,40,0,422
+385,Sep 2 2018,East Asian Championship qual in Mongolia,Mongolia,Macao,657,669,4,1,26,-26,683,643,219,229,3,-3,222,226,40,100,88
+386,Sep 4 2018,South Asian Championship in Bangladesh,Bangladesh,Bhutan,789,583,2,0,9,-9,798,574,206,232,2,-1,208,231,40,100,306
+387,Sep 4 2018,East Asian Championship qual in Mongolia,Macao,Guam,643,839,2,0,45,-45,688,794,218,211,4,-2,222,209,40,0,-196
+388,Sep 4 2018,East Asian Championship qual in Mongolia,Mongolia,Northern Mariana Islands,683,405,9,0,10,-10,693,395,216,240,3,-1,219,239,40,100,378
+389,Sep 4 2018,South Asian Championship in Bangladesh,Pakistan,Nepal,946,892,2,1,17,-17,963,875,193,202,2,0,195,202,40,0,54
+390,Sep 5 2018,Friendly in Fiji,Fiji,Solomon Islands,1233,1203,1,1,-4,4,1229,1207,156,157,-1,3,155,160,20,100,130
+391,Sep 5 2018,South Asian Championship in Bangladesh,India,Sri Lanka,1215,704,2,0,3,-3,1218,701,159,216,0,0,159,216,40,0,511
+392,Sep 5 2018,Friendly in Slovakia,Slovakia,Denmark,1752,1895,3,0,20,-20,1772,1875,19,19,4,-3,23,16,20,100,-43
+393,Sep 6 2018,European Nations League D in Armenia,Armenia,Liechtenstein,1454,1144,2,1,3,-3,1457,1141,90,172,1,0,91,172,20,0,310
+394,Sep 6 2018,Friendly in Austria,Austria,Sweden,1741,1865,2,0,16,-16,1757,1849,25,18,3,0,28,18,20,100,-24
+395,Sep 6 2018,Friendly in Bahrain,Bahrain,Philippines,1415,1186,1,1,-7,7,1408,1193,106,164,-1,2,105,166,20,100,329
+396,Sep 6 2018,South Asian Championship in Bangladesh,Bangladesh,Pakistan,798,963,1,0,24,-24,822,939,206,201,1,-3,207,198,40,100,-65
+397,Sep 6 2018,European Nations League B in Czechia,Czechia,Ukraine,1713,1751,1,2,-24,24,1689,1775,50,18,-5,5,45,23,40,100,62
+398,Sep 6 2018,CONCACAF Nations League q in Guadeloupe,Dominica,Suriname,1019,1275,0,0,13,-13,1032,1262,185,146,2,-2,187,144,40,0,-256
+399,Sep 6 2018,European Nations League A in Germany,Germany,France,1964,2127,0,0,4,-4,1968,2123,5,1,0,0,5,1,20,0,-163
+400,Sep 6 2018,European Nations League D in Gibraltar,Gibraltar,Macedonia,1094,1518,0,2,-8,8,1086,1526,179,69,-1,5,178,74,40,100,-324
+401,Sep 6 2018,CONCACAF Nations League q in Guyana,Guyana,Barbados,1190,1126,2,2,-9,9,1181,1135,171,173,-2,0,169,173,40,100,164
+402,Sep 6 2018,Friendly in Jordan,Jordan,Lebanon,1475,1453,0,1,-13,13,1462,1466,94,84,-4,5,90,89,20,100,122
+403,Sep 6 2018,European Nations League D in Kazakhstan,Kazakhstan,Georgia,1369,1495,0,2,-28,28,1341,1523,122,70,-3,6,119,76,40,100,-26
+404,Sep 6 2018,Friendly in Kyrgyzstan,Kyrgyzstan,Palestine,1238,1373,1,1,1,-1,1239,1372,151,114,0,0,151,114,20,100,-35
+405,Sep 6 2018,European Nations League D in Latvia,Latvia,Andorra,1348,1042,0,0,-16,16,1332,1058,128,182,-5,2,123,184,40,100,406
+406,Sep 6 2018,East Asian Championship qual in Mongolia,Macao,Northern Mariana Islands,688,395,1,1,-14,14,674,409,226,237,-2,1,224,238,40,0,293
+407,Sep 6 2018,East Asian Championship qual in Mongolia,Mongolia,Guam,693,794,1,1,0,0,693,794,219,209,0,0,219,209,20,100,-1
+408,Sep 6 2018,South Asian Championship in Bangladesh,Nepal,Bhutan,875,574,4,0,11,-11,886,563,202,235,0,-2,202,233,40,0,301
+409,Sep 6 2018,Friendly in the Netherlands,Netherlands,Peru,1908,1891,2,1,7,-7,1915,1884,9,15,1,-1,10,14,20,100,117
+410,Sep 6 2018,European Nations League C in Norway,Norway,Cyprus,1639,1403,2,0,8,-8,1647,1395,46,108,3,-1,49,107,40,100,336
+411,Sep 6 2018,Friendly in Portugal,Portugal,Croatia,1940,1943,1,1,-3,3,1937,1946,10,5,-1,1,9,6,20,100,97
+412,Sep 6 2018,European Nations League C in Slovenia,Slovenia,Bulgaria,1626,1614,1,2,-26,26,1600,1640,59,52,-3,1,56,53,40,100,112
+413,Sep 6 2018,Friendly in Spain,Trinidad and Tobago,United Arab Emirates,1425,1523,2,0,19,-19,1444,1504,92,87,4,-6,96,81,20,0,-98
+414,Sep 6 2018,Friendly in Uzbekistan,Uzbekistan,Syria,1600,1607,1,1,-3,3,1597,1610,61,53,-2,1,59,54,20,100,93
+415,Sep 6 2018,European Nations League B in Wales,Wales,Ireland,1777,1728,4,1,21,-21,1798,1707,20,51,1,-9,21,42,40,100,149
+416,Sep 7 2018,European Nations League C in Albania,Albania,Israel,1560,1526,1,0,13,-13,1573,1513,62,84,4,-5,66,79,40,100,134
+417,Sep 7 2018,CONCACAF Nations League q in Anguilla,Anguilla,French Guiana,571,1346,0,5,-2,2,569,1348,231,117,0,0,231,117,40,100,-675
+418,Sep 7 2018,CONCACAF Nations League q in Antigua and Barbuda,Antigua and Barbuda,Saint Lucia,1206,1098,0,3,-54,54,1152,1152,181,167,-10,4,171,171,40,100,208
+419,Sep 7 2018,Friendly in the United States,Argentina,Guatemala,1896,1519,3,0,4,-4,1900,1515,12,77,0,1,12,78,20,0,377
+420,Sep 7 2018,European Nations League D in Azerbaijan,Azerbaijan,Kosovo,1403,1430,0,0,-4,4,1399,1434,106,100,0,0,106,100,40,100,73
+421,Sep 7 2018,CONCACAF Nations League q in Belize,Belize,Bahamas,1176,905,4,0,8,-8,1184,897,164,202,3,-1,167,201,40,100,371
+422,Sep 7 2018,Friendly in the United States,Colombia,Venezuela,1939,1738,2,1,5,-5,1944,1733,8,34,0,-1,8,33,20,0,201
+423,Sep 7 2018,Friendly in the United States,Ecuador,Jamaica,1747,1570,2,0,8,-8,1755,1562,30,73,0,-3,30,70,20,0,177
+424,Sep 7 2018,European Nations League D in the Faroe Islands,Faroe Islands,Malta,1293,1205,3,1,15,-15,1308,1190,131,169,2,-3,133,166,40,100,188
+425,Sep 7 2018,European Nations League A in Italy,Italy,Poland,1891,1783,1,1,-11,11,1880,1794,15,22,-1,0,14,22,40,100,208
+426,Sep 7 2018,European Nations League C in Lithuania,Lithuania,Serbia,1391,1772,0,1,-7,7,1384,1779,111,22,-1,1,110,23,40,100,-281
+427,Sep 7 2018,South Asian Championship in Bangladesh,Maldives,Sri Lanka,942,701,0,0,-12,12,930,713,199,216,-1,0,198,216,40,0,241
+428,Sep 7 2018,Friendly in Qatar,Qatar,China,1492,1535,1,0,8,-8,1500,1527,82,74,1,-1,83,73,20,100,57
+429,Sep 7 2018,European Nations League C in Romania,Romania,Montenegro,1727,1597,0,0,-12,12,1715,1609,37,51,-1,4,36,55,40,100,230
+430,Sep 7 2018,Friendly in Scotland,Scotland,Belgium,1710,2058,0,4,-7,7,1703,2065,42,3,-1,0,41,3,20,100,-248
+431,Sep 7 2018,Friendly in Singapore,Singapore,Mauritius,1043,1075,1,1,-2,2,1041,1077,186,179,0,1,186,180,20,100,68
+432,Sep 7 2018,Friendly in South Korea,South Korea,Costa Rica,1756,1725,2,0,10,-10,1766,1715,23,36,3,0,26,36,20,100,131
+433,Sep 7 2018,Friendly in Taiwan,Taiwan,Malaysia,975,1066,2,0,15,-15,990,1051,193,187,0,-2,193,185,20,100,9
+434,Sep 7 2018,European Nations League B in Turkey,Turkey,Russia,1728,1721,1,2,-26,26,1702,1747,53,25,-10,6,43,31,40,100,107
+435,Sep 7 2018,Friendly in the United States,Uruguay,Mexico,1946,1829,4,1,12,-12,1958,1817,6,19,0,0,6,19,20,0,117
+436,Sep 7 2018,Friendly in the United States,United States,Brazil,1763,2114,0,2,-6,6,1757,2120,30,2,-2,0,28,2,20,100,-251
+437,Sep 8 2018,South Asian Championship in Bangladesh,Bangladesh,Nepal,822,886,0,2,-33,33,789,919,213,196,-3,3,210,199,40,100,36
+438,Sep 8 2018,European Nations League D in Belarus,Belarus,San Marino,1521,852,5,0,1,-1,1522,851,76,204,0,0,76,204,20,0,669
+439,Sep 8 2018,Southeast Asian Champ qual in Brunei,Brunei,East Timor,595,662,1,0,18,-18,613,644,229,227,0,-1,229,226,30,0,-67
+440,Sep 8 2018,African Nations Cup qualifier in the Comoros,Comoros,Cameroon,1024,1643,1,1,18,-18,1042,1625,183,52,3,0,186,52,40,100,-519
+441,Sep 8 2018,CONCACAF Nations League q in Cuba,Cuba,Turks and Caicos Islands,1301,762,11,0,3,-3,1304,759,131,214,2,0,133,214,40,100,639
+442,Sep 8 2018,African Nations Cup qualifier in Egypt,Egypt,Niger,1572,1309,6,0,9,-9,1581,1300,61,140,3,-4,64,136,40,100,363
+443,Sep 8 2018,European Nations League A in England,England,Spain,1913,2010,1,2,-20,20,1893,2030,15,4,-2,0,13,4,40,100,3
+444,Sep 8 2018,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Sudan,1326,1244,1,0,10,-10,1336,1234,123,157,2,-4,125,153,40,100,182
+445,Sep 8 2018,European Nations League C in Estonia,Estonia,Greece,1487,1645,0,1,-17,17,1470,1662,89,42,-2,4,87,46,40,100,-58
+446,Sep 8 2018,European Nations League C in Finland,Finland,Hungary,1605,1575,1,0,13,-13,1618,1562,50,69,3,-2,53,67,40,100,130
+447,Sep 8 2018,African Nations Cup qualifier in Gabon,Gabon,Burundi,1439,1319,1,1,-11,11,1428,1330,103,126,-3,1,100,127,40,100,220
+448,Sep 8 2018,African Nations Cup qualifier in The Gambia,Gambia,Algeria,1275,1509,1,1,7,-7,1282,1502,140,84,1,-2,141,82,40,100,-134
+449,Sep 8 2018,African Nations Cup qualifier in Kenya,Kenya,Ghana,1331,1644,1,0,31,-31,1362,1613,114,57,5,-3,119,54,40,100,-213
+450,Sep 8 2018,European Nations League D in Luxembourg,Luxembourg,Moldova,1344,1327,4,0,25,-25,1369,1302,114,142,2,-8,116,134,40,100,117
+451,Sep 8 2018,African Nations Cup qualifier in Mauritania,Mauritania,Burkina Faso,1319,1598,2,0,44,-44,1363,1554,108,81,10,-11,118,70,40,100,-179
+452,Sep 8 2018,CONCACAF Nations League q in Montserrat,Montserrat,El Salvador,634,1471,1,2,-1,1,633,1472,227,85,0,1,227,86,40,100,-737
+453,Sep 8 2018,African Nations Cup qualifier in Morocco,Morocco,Malawi,1720,1277,3,0,3,-3,1723,1274,35,145,0,-2,35,143,20,0,443
+454,Sep 8 2018,African Nations Cup qualifier in Mozambique,Mozambique,Guinea-Bissau,1316,1280,2,2,-7,7,1309,1287,129,137,1,1,130,138,40,100,136
+455,Sep 8 2018,African Nations Cup qualifier in Namibia,Namibia,Zambia,1365,1445,1,1,-1,1,1364,1446,118,95,-1,0,117,95,20,100,20
+456,Sep 8 2018,European Nations League B in Northern Ireland,Northern Ireland,Bosnia and Herzegovina,1676,1744,1,2,-22,22,1654,1766,52,20,-3,6,49,26,40,100,32
+457,Sep 8 2018,South Asian Championship in Bangladesh,Pakistan,Bhutan,939,563,3,0,7,-7,946,556,197,233,0,0,197,233,40,0,376
+458,Sep 8 2018,African Nations Cup qualifier in the Seychelles,Seychelles,Nigeria,964,1703,0,3,-2,2,962,1705,196,39,-1,1,195,40,40,100,-639
+459,Sep 8 2018,African Nations Cup qualifier in South Africa,South Africa,Libya,1569,1475,0,0,-10,10,1559,1485,70,84,-1,1,69,85,40,100,194
+460,Sep 8 2018,CONCACAF Nations League q in St Vincent & Grenadines,St Vincent & Grenadines,Nicaragua,1102,1278,0,2,-24,24,1078,1302,181,128,-3,6,178,134,40,100,-76
+461,Sep 8 2018,European Nations League A in Switzerland,Switzerland,Iceland,1879,1708,6,0,15,-15,1894,1693,9,49,3,-5,12,44,40,100,271
+462,Sep 8 2018,African Nations Cup qualifier in Uganda,Uganda,Tanzania,1419,1319,0,0,-10,10,1409,1329,105,128,-1,0,104,128,40,100,200
+463,Sep 9 2018,African Nations Cup qualifier in Angola,Angola,Botswana,1255,1339,1,0,19,-19,1274,1320,138,136,4,-7,142,129,30,0,-84
+464,Sep 9 2018,CONCACAF Nations League q in Curaçao,Aruba,Bermuda,918,1192,3,1,50,-50,968,1142,188,181,6,-8,194,173,40,0,-274
+465,Sep 9 2018,European Nations League C in Bulgaria,Bulgaria,Norway,1640,1647,1,0,15,-15,1655,1632,47,52,2,-1,49,51,30,0,-7
+466,Sep 9 2018,CONCACAF Nations League q in the United States,Canada,US Virgin Islands,1534,722,8,0,1,-1,1535,721,74,215,-1,0,73,215,30,0,812
+467,Sep 9 2018,African Nations Cup qualifier in Congo,Congo,Zimbabwe,1393,1469,1,1,-1,1,1392,1470,108,86,0,1,108,87,20,100,24
+468,Sep 9 2018,European Nations League C in Cyprus,Cyprus,Slovenia,1395,1600,2,1,26,-26,1421,1574,97,71,5,-7,102,64,40,100,-105
+469,Sep 9 2018,European Nations League B in Denmark,Denmark,Wales,1875,1798,2,0,16,-16,1891,1782,12,25,2,-2,14,23,40,100,177
+470,Sep 9 2018,CONCACAF Nations League q in Curaçao,Dominican Republic,Bonaire,1257,992,5,0,14,-14,1271,978,145,194,0,-1,145,193,40,0,265
+471,Sep 9 2018,African Nations Cup qualifier in Eswatini,Eswatini,Tunisia,1250,1660,0,2,-9,9,1241,1669,150,44,-1,2,149,46,40,100,-310
+472,Sep 9 2018,African Nations Cup qualifier in Ethiopia,Ethiopia,Sierra Leone,1275,1378,1,0,20,-20,1295,1358,132,125,5,-6,137,119,40,100,-3
+473,Sep 9 2018,European Nations League A in France,France,Netherlands,2123,1915,2,1,6,-6,2129,1909,1,10,0,0,1,10,40,100,308
+474,Sep 9 2018,European Nations League D in Georgia,Georgia,Latvia,1523,1332,1,0,6,-6,1529,1326,73,130,1,-2,74,128,40,100,291
+475,Sep 9 2018,Friendly in Germany,Germany,Peru,1968,1884,2,1,5,-5,1973,1879,5,18,0,-2,5,16,20,100,184
+476,Sep 9 2018,African Nations Cup qualifier in Guinea,Guinea,Central African Republic,1454,1337,1,0,9,-9,1463,1328,86,128,4,-2,90,126,40,100,217
+477,Sep 9 2018,South Asian Championship in Bangladesh,India,Maldives,1218,930,2,0,10,-10,1228,920,153,200,3,-1,156,199,40,0,288
+478,Sep 9 2018,CONCACAF Nations League q in Jamaica,Jamaica,Cayman Islands,1562,949,4,0,1,-1,1563,948,67,198,0,-1,67,197,20,0,613
+479,Sep 9 2018,Friendly in Jordan,Lebanon,Oman,1466,1538,0,0,2,-2,1468,1536,89,73,0,-1,89,72,20,0,-72
+480,Sep 9 2018,African Nations Cup qualifier in Lesotho,Lesotho,Cape Verde,1328,1435,1,1,0,0,1328,1435,123,98,3,0,126,98,20,100,-7
+481,Sep 9 2018,African Nations Cup qualifier in Liberia,Liberia,DR Congo,1308,1588,1,1,10,-10,1318,1578,129,64,1,-1,130,63,30,0,-280
+482,Sep 9 2018,European Nations League D in Liechtenstein,Liechtenstein,Gibraltar,1141,1086,2,0,17,-17,1158,1069,165,185,4,-4,169,181,40,100,155
+483,Sep 9 2018,European Nations League D in Macedonia,Macedonia,Armenia,1526,1457,2,0,16,-16,1542,1441,68,101,3,-5,71,96,40,100,169
+484,Sep 9 2018,African Nations Cup qualifier in Madagascar,Madagascar,Senegal,1339,1762,2,2,15,-15,1354,1747,118,34,2,-3,120,31,40,100,-323
+485,Sep 9 2018,African Nations Cup qualifier in Rwanda,Rwanda,Ivory Coast,1283,1600,1,2,-9,9,1274,1609,144,55,-2,1,142,56,40,100,-217
+486,Sep 9 2018,African Nations Cup qualifier in South Sudan,South Sudan,Mali,1057,1520,0,3,-8,8,1049,1528,186,73,-1,2,185,75,40,100,-363
+487,Sep 9 2018,CONCACAF Nations League q in Saint Kitts and Nevis,Saint Kitts and Nevis,Puerto Rico,1241,1028,1,0,6,-6,1247,1022,147,189,1,0,148,189,40,100,313
+488,Sep 9 2018,African Nations Cup qualifier in Togo,Togo,Benin,1389,1415,0,0,-4,4,1385,1419,109,105,0,-1,109,104,40,100,74
+489,Sep 9 2018,European Nations League B in Ukraine,Ukraine,Slovakia,1775,1772,1,0,14,-14,1789,1758,20,29,2,-2,22,27,40,100,103
+490,Sep 10 2018,European Nations League D in Andorra,Andorra,Kazakhstan,1058,1341,1,1,10,-10,1068,1331,181,124,1,-1,182,123,30,0,-283
+491,Sep 10 2018,Friendly in Bahrain,Bahrain,China,1408,1527,0,0,1,-1,1409,1526,104,76,1,0,105,76,20,100,-19
+492,Sep 10 2018,Friendly in Cambodia,Cambodia,Malaysia,818,1051,1,3,-10,10,808,1061,207,184,0,0,207,184,20,100,-133
+493,Sep 10 2018,CONCACAF Nations League q in Curaçao,Curaçao,Grenada,1293,1098,10,0,16,-16,1309,1082,124,177,7,-1,131,176,40,100,295
+494,Sep 10 2018,CONCACAF Nations League q in Haiti,Haiti,Sint Maarten,1494,840,13,0,2,-2,1496,838,84,206,0,0,84,206,30,0,654
+495,Sep 10 2018,European Nations League D in Kosovo,Kosovo,Faroe Islands,1434,1308,2,0,13,-13,1447,1295,89,142,5,-5,94,137,40,100,226
+496,Sep 10 2018,Friendly in Kuwait,Kuwait,Iraq,1420,1565,2,2,1,-1,1421,1564,101,64,1,1,102,65,20,100,-45
+497,Sep 10 2018,Friendly in Kyrgyzstan,Kyrgyzstan,Syria,1239,1610,2,1,17,-17,1256,1593,144,63,3,-4,147,59,20,100,-271
+498,Sep 10 2018,European Nations League D in Malta,Malta,Azerbaijan,1190,1399,1,1,6,-6,1196,1393,161,107,2,0,163,107,40,100,-109
+499,Sep 10 2018,European Nations League C in Montenegro,Montenegro,Lithuania,1609,1384,2,0,8,-8,1617,1376,52,114,2,-2,54,112,40,100,325
+500,Sep 10 2018,European Nations League A in Portugal,Portugal,Italy,1937,1880,1,0,12,-12,1949,1868,5,19,2,-2,7,17,40,100,157
+501,Sep 10 2018,Friendly in Russia,Russia,Czechia,1747,1689,5,1,11,-11,1758,1678,23,45,4,0,27,45,20,100,158
+502,Sep 10 2018,Friendly in Saudi Arabia,Saudi Arabia,Bolivia,1584,1661,2,2,-1,1,1583,1662,61,46,0,1,61,47,20,100,23
+503,Sep 10 2018,European Nations League C in Scotland,Scotland,Albania,1703,1573,2,0,13,-13,1716,1560,35,71,3,-3,38,68,40,100,230
+504,Sep 10 2018,European Nations League C in Serbia,Serbia,Romania,1779,1715,2,2,-9,9,1770,1724,24,36,0,0,24,36,40,100,164
+505,Sep 10 2018,European Nations League B in Sweden,Sweden,Turkey,1849,1702,2,3,-32,32,1817,1734,18,24,0,9,18,33,40,100,247
+506,Sep 11 2018,Friendly in the United States,Argentina,Colombia,1900,1944,0,0,1,-1,1901,1943,11,7,0,1,11,8,20,0,-44
+507,Sep 11 2018,European Nations League B in Bosnia and Herzegovina,Bosnia and Herzegovina,Austria,1766,1757,1,0,14,-14,1780,1743,23,37,1,-4,24,33,40,100,109
+508,Sep 11 2018,Friendly in the United States,Brazil,El Salvador,2120,1472,5,0,1,-1,2121,1471,2,86,0,0,2,86,20,0,648
+509,Sep 11 2018,Friendly in the United States,Ecuador,Guatemala,1755,1515,2,0,6,-6,1761,1509,25,78,3,0,28,78,20,0,240
+510,Sep 11 2018,Friendly in England,England,Switzerland,1893,1894,1,0,7,-7,1900,1887,11,16,1,-2,12,14,20,100,99
+511,Sep 11 2018,European Nations League C in Finland,Finland,Estonia,1618,1470,1,0,8,-8,1626,1462,51,93,1,-3,52,90,40,100,248
+512,Sep 11 2018,Friendly in Gabon,Gabon,Zambia,1428,1446,0,1,-12,12,1416,1458,108,89,-4,3,104,92,20,100,82
+513,Sep 11 2018,CONCACAF Nations League q in Anguilla,Guadeloupe,Saint Martin,1235,855,3,0,7,-7,1242,848,148,203,2,0,150,203,40,0,380
+514,Sep 11 2018,European Nations League C in Hungary,Hungary,Greece,1562,1662,2,1,20,-20,1582,1642,55,53,6,-3,61,50,40,100,0
+515,Sep 11 2018,European Nations League A in Iceland,Iceland,Belgium,1693,2065,0,3,-12,12,1681,2077,44,3,0,0,44,3,40,100,-272
+516,Sep 11 2018,Friendly in Indonesia,Indonesia,Mauritius,1231,1077,1,0,4,-4,1235,1073,152,181,1,-1,153,180,20,100,254
+517,Sep 11 2018,Friendly in Japan,Japan,Costa Rica,1699,1715,3,0,13,-13,1712,1702,35,47,4,-4,39,43,20,100,84
+518,Sep 11 2018,Friendly in Jordan,Jordan,Oman,1462,1536,0,0,-1,1,1461,1537,91,72,0,0,91,72,20,100,26
+519,Sep 11 2018,Friendly in Kenya,Kenya,Malawi,1362,1274,1,0,5,-5,1367,1269,112,148,3,-3,115,145,20,100,188
+520,Sep 11 2018,Friendly in Liberia,Liberia,Nigeria,1318,1705,1,2,-3,3,1315,1708,130,42,0,0,130,42,20,100,-287
+521,Sep 11 2018,European Nations League D in Moldova,Moldova,Belarus,1302,1522,0,0,7,-7,1309,1515,128,77,3,0,131,77,40,100,-120
+522,Sep 11 2018,Friendly in Northern Ireland,Northern Ireland,Israel,1654,1513,3,0,7,-7,1661,1506,46,81,2,-1,48,80,20,100,241
+523,Sep 11 2018,Friendly in Panama,Panama,Venezuela,1595,1733,0,2,-13,13,1582,1746,64,30,-3,2,61,32,20,100,-38
+524,Sep 11 2018,Friendly in Poland,Poland,Ireland,1794,1707,1,1,-5,5,1789,1712,21,37,0,2,21,39,20,100,187
+525,Sep 11 2018,Friendly in Qatar,Qatar,Palestine,1500,1372,3,0,7,-7,1507,1365,75,119,4,-3,79,116,20,100,228
+526,Sep 11 2018,European Nations League D in San Marino,San Marino,Luxembourg,851,1369,0,3,-6,6,845,1375,206,111,-1,2,205,113,40,100,-418
+527,Sep 11 2018,Friendly in Singapore,Singapore,Fiji,1041,1229,2,0,19,-19,1060,1210,183,163,2,-4,185,159,20,100,-88
+528,Sep 11 2018,Friendly in South Korea,South Korea,Chile,1766,1869,0,0,0,0,1766,1869,27,16,-1,0,26,16,20,100,-3
+529,Sep 11 2018,European Nations League A in Spain,Spain,Croatia,2030,1946,6,0,22,-22,2052,1924,4,10,0,-1,4,9,40,100,184
+530,Sep 11 2018,Friendly in Spain,United Arab Emirates,Laos,1504,768,3,0,0,0,1504,768,82,213,-1,0,81,213,20,0,736
+531,Sep 11 2018,Friendly in the United States,United States,Mexico,1757,1817,1,0,9,-9,1766,1808,23,22,3,-2,26,20,20,100,40
+532,Sep 11 2018,Friendly in Uzbekistan,Uzbekistan,Iran,1597,1817,0,1,-7,7,1590,1824,59,18,-1,0,58,18,20,100,-120
+533,Sep 12 2018,South Asian Championship in Bangladesh,India,Pakistan,1228,946,3,1,10,-10,1238,936,149,200,3,-1,152,199,40,0,282
+534,Sep 12 2018,South Asian Championship in Bangladesh,Maldives,Nepal,920,919,3,0,35,-35,955,884,195,204,2,-2,197,202,40,0,1
+535,Sep 15 2018,South Asian Championship in Bangladesh,Maldives,India,955,1238,2,1,33,-33,988,1205,189,170,4,-9,193,161,40,0,-283
+536,Sep 29 2018,Friendly in Cuba,Cuba,Cayman Islands,1304,948,5,0,3,-3,1307,945,134,198,0,0,134,198,20,100,456
+537,Sep 30 2018,Friendly in Botswana,Botswana,Namibia,1320,1364,1,0,8,-8,1328,1356,123,121,3,-2,126,119,20,100,56
+538,Sep 30 2018,Friendly in St Vincent & Grenadines,St Vincent & Grenadines,Barbados,1078,1135,1,1,-1,1,1077,1136,179,174,-1,0,178,174,20,100,43
+539,Oct 1 2018,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Laos,789,768,1,0,10,-10,799,758,206,215,2,-1,208,214,30,100,121
+540,Oct 2 2018,Bangabandhu Gold Cup in Bangladesh,Tajikistan,Nepal,1197,884,2,0,6,-6,1203,878,162,202,0,0,162,202,30,0,313
+541,Oct 3 2018,Bangabandhu Gold Cup in Bangladesh,Philippines,Laos,1193,758,3,1,3,-3,1196,755,161,214,2,0,163,214,30,0,435
+542,Oct 4 2018,Bangabandhu Gold Cup in Bangladesh,Palestine,Tajikistan,1365,1203,2,0,13,-13,1378,1190,108,168,4,-3,112,165,30,0,162
+543,Oct 5 2018,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Philippines,799,1196,0,1,-5,5,794,1201,208,162,0,0,208,162,30,100,-297
+544,Oct 6 2018,Bangabandhu Gold Cup in Bangladesh,Palestine,Nepal,1378,878,1,0,2,-2,1380,876,112,202,0,0,112,202,30,0,500
+545,Oct 9 2018,Bangabandhu Gold Cup in Bangladesh,Tajikistan,Philippines,1190,1201,2,0,23,-23,1213,1178,151,174,7,-6,158,168,30,0,-11
+546,Oct 10 2018,Friendly in Albania,Albania,Jordan,1560,1461,0,0,-5,5,1555,1466,70,87,-1,2,69,89,20,100,199
+547,Oct 10 2018,Bangabandhu Gold Cup in Bangladesh,Bangladesh,Palestine,794,1380,0,2,-3,3,791,1383,212,108,-2,2,210,110,30,100,-486
+548,Oct 10 2018,African Nations Cup qualifier in Ethiopia,Ethiopia,Kenya,1295,1367,0,0,-2,2,1293,1369,139,116,-1,0,138,116,40,100,28
+549,Oct 10 2018,Friendly in Indonesia,Indonesia,Myanmar,1235,1068,3,0,6,-6,1241,1062,149,184,2,-1,151,183,20,100,267
+550,Oct 10 2018,Friendly in Italy,Italy,Ukraine,1868,1789,1,1,-5,5,1863,1794,17,21,0,0,17,21,20,100,179
+551,Oct 10 2018,African Nations Cup qualifier in Zambia,Zambia,Guinea-Bissau,1458,1287,2,1,7,-7,1465,1280,88,143,2,-2,90,141,40,100,271
+552,Oct 11 2018,Friendly tournament in Saudi Arabia,Argentina,Iraq,1901,1564,4,0,7,-7,1908,1557,11,70,0,-2,11,68,30,0,337
+553,Oct 11 2018,Friendly in Bahrain,Bahrain,Syria,1409,1593,0,1,-8,8,1401,1601,111,55,-3,1,108,56,20,100,-84
+554,Oct 11 2018,African Nations Cup qualifier in Congo,Congo,Liberia,1392,1315,3,1,16,-16,1408,1299,106,142,1,-6,107,136,40,100,177
+555,Oct 11 2018,European Nations League D in the Faroe Islands,Faroe Islands,Azerbaijan,1295,1393,0,3,-35,35,1260,1428,155,95,-9,6,146,101,40,100,2
+556,Oct 11 2018,Friendly in France,France,Iceland,2129,1681,2,2,-9,9,2120,1690,3,42,-1,1,2,43,20,0,448
+557,Oct 11 2018,CONCACAF Nations League q in French Guiana,French Guiana,St Vincent & Grenadines,1348,1077,0,1,-36,36,1312,1113,137,172,-8,3,129,175,40,100,371
+558,Oct 11 2018,Friendly in Spain,Honduras,United Arab Emirates,1590,1504,1,1,-2,2,1588,1506,60,81,-1,0,59,81,20,0,86
+559,Oct 11 2018,Friendly in Hong Kong,Hong Kong,Thailand,1183,1382,0,1,-7,7,1176,1389,170,107,-2,2,168,109,20,100,-99
+560,Oct 11 2018,European Nations League C in Israel,Israel,Scotland,1506,1716,2,1,26,-26,1532,1690,68,48,6,-5,74,43,40,100,-110
+561,Oct 11 2018,European Nations League D in Kosovo,Kosovo,Malta,1447,1196,3,1,7,-7,1454,1189,95,165,0,-1,95,164,40,100,351
+562,Oct 11 2018,Friendly in Kuwait,Kuwait,Lebanon,1421,1468,1,0,8,-8,1429,1460,99,96,1,-4,100,92,20,100,53
+563,Oct 11 2018,European Nations League C in Lithuania,Lithuania,Romania,1376,1724,1,2,-8,8,1368,1732,119,32,-3,2,116,34,40,100,-248
+564,Oct 11 2018,Friendly in Mexico,Mexico,Costa Rica,1808,1702,3,2,5,-5,1813,1697,20,41,0,1,20,42,20,100,206
+565,Oct 11 2018,European Nations League C in Montenegro,Montenegro,Serbia,1617,1770,0,2,-25,25,1592,1795,60,17,-3,4,57,21,40,100,-53
+566,Oct 11 2018,European Nations League A in Poland,Poland,Portugal,1789,1949,2,3,-17,17,1772,1966,26,5,-2,1,24,6,40,100,-60
+567,Oct 11 2018,European Nations League B in Russia,Russia,Sweden,1758,1817,0,0,-2,2,1756,1819,29,19,0,0,29,19,30,100,41
+568,Oct 11 2018,Friendly in Turkey,Turkey,Bosnia and Herzegovina,1734,1780,0,0,-2,2,1732,1782,34,22,0,1,34,23,20,100,54
+569,Oct 11 2018,Friendly in the United States,United States,Colombia,1766,1943,2,4,-12,12,1754,1955,34,8,-4,0,30,8,20,100,-77
+570,Oct 11 2018,Friendly in Wales,Wales,Spain,1782,2052,1,4,-10,10,1772,2062,25,4,-1,0,24,4,20,100,-170
+571,Oct 12 2018,African Nations Cup qualifier in Algeria,Algeria,Benin,1502,1419,2,0,16,-16,1518,1403,75,110,4,-3,79,107,40,100,183
+572,Oct 12 2018,African Nations Cup qualifier in Angola,Angola,Mauritania,1274,1363,4,1,34,-34,1308,1329,127,129,7,-6,134,123,40,100,11
+573,Oct 12 2018,European Nations League B in Austria,Austria,Northern Ireland,1743,1661,1,0,10,-10,1753,1651,27,52,3,-2,30,50,40,100,182
+574,Oct 12 2018,CONCACAF Nations League q in the Bahamas,Bahamas,Antigua and Barbuda,897,1152,0,6,-25,25,872,1177,203,165,-1,3,202,168,40,100,-155
+575,Oct 12 2018,European Nations League D in Belarus,Belarus,Luxembourg,1515,1375,1,0,8,-8,1523,1367,76,119,1,-3,77,116,40,100,240
+576,Oct 12 2018,European Nations League A in Belgium,Belgium,Switzerland,2077,1887,2,1,6,-6,2083,1881,3,16,0,-1,3,15,40,100,290
+577,Oct 12 2018,CONCACAF Nations League q in Bermuda,Bermuda,Sint Maarten,1142,838,12,0,10,-10,1152,828,171,206,1,0,172,206,40,100,404
+578,Oct 12 2018,Friendly in Cambodia,Cambodia,East Timor,808,644,2,2,-6,6,802,650,207,224,0,1,207,225,20,100,264
+579,Oct 12 2018,African Nations Cup qualifier in Cameroon,Cameroon,Malawi,1625,1269,1,0,3,-3,1628,1266,53,142,0,1,53,143,30,0,356
+580,Oct 12 2018,African Nations Cup qualifier in Cape Verde,Cape Verde,Tanzania,1435,1329,3,0,16,-16,1451,1313,91,134,4,-5,95,129,40,100,206
+581,Oct 12 2018,European Nations League A in Croatia,Croatia,England,1924,1900,0,0,-7,7,1917,1907,9,12,0,0,9,12,40,100,124
+582,Oct 12 2018,CONCACAF Nations League q in the United States,Curaçao,US Virgin Islands,1309,721,5,0,3,-3,1312,718,130,215,0,0,130,215,40,0,588
+583,Oct 12 2018,CONCACAF Nations League q in the Dominican Republic,Dominican Republic,Cayman Islands,1271,945,3,0,6,-6,1277,939,141,198,1,0,142,198,40,100,426
+584,Oct 12 2018,African Nations Cup qualifier in Egypt,Egypt,Eswatini,1581,1241,4,1,5,-5,1586,1236,57,155,3,-2,60,153,40,100,440
+585,Oct 12 2018,European Nations League C in Estonia,Estonia,Finland,1462,1626,0,1,-16,16,1446,1642,101,50,-5,1,96,51,40,100,-64
+586,Oct 12 2018,African Nations Cup qualifier in Gabon,Gabon,South Sudan,1416,1049,3,0,4,-4,1420,1045,103,186,1,0,104,186,20,0,367
+587,Oct 12 2018,European Nations League C in Greece,Greece,Hungary,1642,1582,1,0,11,-11,1653,1571,48,69,1,-4,49,65,40,100,160
+588,Oct 12 2018,CONCACAF Nations League q in Grenada,Grenada,Cuba,1082,1307,0,2,-20,20,1062,1327,189,119,-6,7,183,126,40,100,-125
+589,Oct 12 2018,African Nations Cup qualifier in Guinea,Guinea,Rwanda,1463,1274,2,0,10,-10,1473,1264,82,147,4,-3,86,144,40,100,289
+590,Oct 12 2018,African Nations Cup qualifier in Ivory Coast,Ivory Coast,Central African Republic,1609,1328,4,0,8,-8,1617,1320,53,131,1,-3,54,128,40,100,381
+591,Oct 12 2018,Friendly in Japan,Japan,Panama,1712,1582,3,0,7,-7,1719,1575,38,65,0,-2,38,63,20,100,230
+592,Oct 12 2018,African Nations Cup qualifier in Mali,Mali,Burundi,1528,1330,0,0,-14,14,1514,1344,84,117,-4,3,80,120,40,100,298
+593,Oct 12 2018,European Nations League D in Moldova,Moldova,San Marino,1309,845,2,0,2,-2,1311,843,134,205,-2,0,132,205,20,0,464
+594,Oct 12 2018,Bangabandhu Gold Cup in Bangladesh,Palestine,Tajikistan,1383,1213,0,0,-7,7,1376,1220,111,156,0,1,111,157,20,100,270
+595,Oct 12 2018,Friendly in the United States,Peru,Chile,1879,1869,3,0,17,-17,1896,1852,11,18,2,-1,13,17,20,0,10
+596,Oct 12 2018,Friendly in Qatar,Qatar,Ecuador,1507,1761,4,3,14,-14,1521,1747,76,35,2,-4,78,31,20,100,-154
+597,Oct 12 2018,Friendly tournament in Saudi Arabia,Saudi Arabia,Brazil,1583,2121,0,2,-3,3,1580,2124,62,1,-1,0,61,1,30,100,-438
+598,Oct 12 2018,Friendly in Singapore,Singapore,Mongolia,1060,693,2,0,2,-2,1062,691,181,223,2,-2,183,221,20,100,467
+599,Oct 12 2018,Friendly in South Korea,South Korea,Uruguay,1766,1958,2,1,13,-13,1779,1945,22,9,2,-1,24,8,20,100,-92
+600,Oct 12 2018,Friendly in Sri Lanka,Sri Lanka,Malaysia,713,1061,1,4,-7,7,706,1068,216,178,0,3,216,181,20,100,-248
+601,Oct 12 2018,African Nations Cup qualifier in Togo,Togo,Gambia,1385,1282,1,1,-11,11,1374,1293,114,137,-2,1,112,138,40,100,203
+602,Oct 13 2018,European Nations League D in Armenia,Armenia,Gibraltar,1441,1069,0,1,-38,38,1403,1107,114,172,-8,4,106,176,40,100,472
+603,Oct 13 2018,European Nations League C in Bulgaria,Bulgaria,Cyprus,1655,1421,2,1,5,-5,1660,1416,48,105,0,-1,48,104,40,100,334
+604,Oct 13 2018,African Nations Cup qualifier in Burkina Faso,Burkina Faso,Botswana,1554,1328,3,0,9,-9,1563,1319,58,128,6,-2,64,126,40,100,326
+605,Oct 13 2018,Friendly in China,China,India,1526,1205,0,0,-8,8,1518,1213,80,156,-2,3,78,159,20,100,421
+606,Oct 13 2018,African Nations Cup qualifier in the Dem Rep of the Congo,DR Congo,Zimbabwe,1578,1470,1,2,-31,31,1547,1501,78,80,-8,4,70,84,40,100,208
+607,Oct 13 2018,CONCACAF Nations League q in El Salvador,El Salvador,Barbados,1471,1136,3,0,5,-5,1476,1131,85,174,1,0,86,174,40,100,435
+608,Oct 13 2018,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Madagascar,1336,1354,0,1,-25,25,1311,1379,139,103,-9,8,130,111,40,100,82
+609,Oct 13 2018,European Nations League D in Georgia,Georgia,Andorra,1529,1068,3,0,3,-3,1532,1065,71,183,2,-1,73,182,30,0,461
+610,Oct 13 2018,European Nations League B in Ireland,Ireland,Denmark,1712,1891,0,0,4,-4,1716,1887,41,14,-1,0,40,14,40,100,-79
+611,Oct 13 2018,European Nations League D in Latvia,Latvia,Kazakhstan,1326,1331,1,1,-5,5,1321,1336,121,120,3,1,124,121,40,100,95
+612,Oct 13 2018,European Nations League D in Macedonia,Macedonia,Liechtenstein,1542,1158,4,1,4,-4,1546,1154,71,172,0,-1,71,171,40,100,484
+613,Oct 13 2018,African Nations Cup qualifier in Morocco,Morocco,Comoros,1723,1042,1,0,0,0,1723,1042,37,187,0,0,37,187,20,0,681
+614,Oct 13 2018,African Nations Cup qualifier in Mozambique,Mozambique,Namibia,1309,1356,1,2,-23,23,1286,1379,145,104,-6,7,139,111,40,100,53
+615,Oct 13 2018,Friendly in Myanmar,Myanmar,Bolivia,1062,1662,0,3,-2,2,1060,1664,187,47,-2,0,185,47,20,100,-500
+616,Oct 13 2018,European Nations League A in the Netherlands,Netherlands,Germany,1909,1973,3,0,31,-31,1940,1942,8,11,1,-3,9,8,30,0,-64
+617,Oct 13 2018,African Nations Cup qualifier in Nigeria,Nigeria,Libya,1708,1485,4,0,10,-10,1718,1475,37,89,2,-2,39,87,40,100,323
+618,Oct 13 2018,European Nations League C in Norway,Norway,Slovenia,1632,1574,1,0,11,-11,1643,1563,50,64,1,0,51,64,40,100,158
+619,Oct 13 2018,Friendly in Qatar,Oman,Philippines,1537,1178,1,1,-8,8,1529,1186,78,165,-3,1,75,166,20,0,359
+620,Oct 13 2018,CONCACAF Nations League q in Puerto Rico,Puerto Rico,Martinique,1022,1439,0,1,-6,6,1016,1445,189,95,0,2,189,97,40,100,-317
+621,Oct 13 2018,African Nations Cup qualifier in Senegal,Senegal,Sudan,1747,1234,3,0,2,-2,1749,1232,29,154,1,0,30,154,20,0,513
+622,Oct 13 2018,European Nations League B in Slovakia,Slovakia,Czechia,1758,1678,1,2,-30,30,1728,1708,43,39,-8,3,35,42,40,100,180
+623,Oct 13 2018,African Nations Cup qualifier in South Africa,South Africa,Seychelles,1559,962,6,0,2,-2,1561,960,67,197,0,0,67,197,30,0,597
+624,Oct 13 2018,CONCACAF Nations League q in Suriname,Suriname,British Virgin Islands,1262,646,5,0,1,-1,1263,645,145,226,0,0,145,226,20,0,616
+625,Oct 13 2018,African Nations Cup qualifier in Tunisia,Tunisia,Niger,1669,1300,1,0,3,-3,1672,1297,46,136,0,0,46,136,30,0,369
+626,Oct 13 2018,CONCACAF Nations League q in Turks and Caicos Islands,Turks and Caicos Islands,Guyana,759,1181,0,8,-13,13,746,1194,215,160,-1,3,214,163,40,100,-322
+627,Oct 13 2018,African Nations Cup qualifier in Uganda,Uganda,Lesotho,1409,1328,3,0,18,-18,1427,1310,97,140,4,-8,101,132,40,100,181
+628,Oct 13 2018,Friendly in Uzbekistan,Uzbekistan,North Korea,1590,1456,2,0,6,-6,1596,1450,56,98,1,-3,57,95,20,100,234
+629,Oct 14 2018,European Nations League D in Azerbaijan,Azerbaijan,Malta,1428,1189,1,1,-15,15,1413,1204,108,161,-4,2,104,163,40,100,339
+630,Oct 14 2018,European Nations League D in the Faroe Islands,Faroe Islands,Kosovo,1260,1454,1,1,5,-5,1265,1449,142,95,2,-1,144,94,20,0,-194
+631,Oct 14 2018,African Nations Cup qualifier in Guinea-Bissau,Guinea-Bissau,Zambia,1280,1465,2,1,25,-25,1305,1440,127,104,7,-7,134,97,40,100,-85
+632,Oct 14 2018,European Nations League C in Israel,Israel,Albania,1532,1555,2,0,23,-23,1555,1532,65,77,4,-4,69,73,40,100,77
+633,Oct 14 2018,CONCACAF Nations League q in Curaçao,Jamaica,Bonaire,1563,978,6,0,3,-3,1566,975,64,194,0,0,64,194,40,0,585
+634,Oct 14 2018,African Nations Cup qualifier in Kenya,Kenya,Ethiopia,1369,1293,3,0,19,-19,1388,1274,104,147,6,-5,110,142,40,100,176
+635,Oct 14 2018,European Nations League C in Lithuania,Lithuania,Montenegro,1368,1592,1,4,-23,23,1345,1615,121,52,-2,3,119,55,40,100,-124
+636,Oct 14 2018,CONCACAF Nations League q in Montserrat,Montserrat,Belize,633,1184,1,0,37,-37,670,1147,223,179,2,-6,225,173,40,100,-451
+637,Oct 14 2018,CONCACAF Nations League q in Costa Rica,Nicaragua,Anguilla,1302,569,6,0,1,-1,1303,568,136,231,-1,0,135,231,20,0,733
+638,Oct 14 2018,European Nations League A in Poland,Poland,Italy,1772,1863,0,1,-21,21,1751,1884,33,14,-4,1,29,15,40,100,9
+639,Oct 14 2018,European Nations League C in Romania,Romania,Serbia,1732,1795,0,0,-2,2,1730,1797,33,21,0,0,33,21,30,100,37
+640,Oct 14 2018,European Nations League B in Russia,Russia,Turkey,1756,1732,2,0,20,-20,1776,1712,23,47,2,-7,25,40,40,100,124
+641,Oct 14 2018,Friendly in Scotland,Scotland,Portugal,1690,1966,1,3,-8,8,1682,1974,46,5,-1,0,45,5,20,100,-176
+642,Oct 14 2018,CONCACAF Nations League q in Anguilla,Saint Kitts and Nevis,Saint Martin,1247,848,10,0,10,-10,1257,838,145,207,2,-2,147,205,40,0,399
+643,Oct 14 2018,Friendly in Thailand,Thailand,Trinidad and Tobago,1389,1444,1,0,9,-9,1398,1435,109,98,0,0,109,98,20,100,45
+644,Oct 15 2018,European Nations League D in Belarus,Belarus,Moldova,1523,1311,0,0,-14,14,1509,1325,84,118,-4,6,80,124,40,100,312
+645,Oct 15 2018,European Nations League B in Bosnia and Herzegovina,Bosnia and Herzegovina,Northern Ireland,1782,1651,2,0,13,-13,1795,1638,21,52,1,-1,22,51,40,100,231
+646,Oct 15 2018,Friendly in Croatia,Croatia,Jordan,1917,1466,2,1,1,-1,1918,1465,12,89,-1,0,11,89,20,0,451
+647,Oct 15 2018,European Nations League C in Estonia,Estonia,Hungary,1446,1571,3,3,1,-1,1447,1570,95,63,0,0,95,63,20,100,-25
+648,Oct 15 2018,European Nations League C in Finland,Finland,Greece,1642,1653,2,0,22,-22,1664,1631,42,55,5,-3,47,52,40,100,89
+649,Oct 15 2018,European Nations League A in Iceland,Iceland,Switzerland,1690,1881,1,2,-15,15,1675,1896,46,10,-1,3,45,13,40,100,-91
+650,Oct 15 2018,Friendly in Kuwait,Kuwait,Australia,1429,1712,0,4,-10,10,1419,1722,105,34,-3,3,102,37,20,100,-183
+651,Oct 15 2018,European Nations League D in Luxembourg,Luxembourg,San Marino,1367,843,3,0,2,-2,1369,841,117,204,0,0,117,204,20,0,524
+652,Oct 15 2018,Friendly tournament in Saudi Arabia,Saudi Arabia,Iraq,1580,1557,1,1,-5,5,1575,1562,61,66,0,1,61,67,30,100,123
+653,Oct 15 2018,European Nations League A in Spain,Spain,England,2062,1907,2,3,-33,33,2029,1940,4,6,0,3,4,9,40,100,255
+654,Oct 16 2018,European Nations League D in Armenia,Armenia,Macedonia,1403,1546,4,0,42,-42,1445,1504,86,89,10,-9,96,80,40,100,-43
+655,Oct 16 2018,Friendly in Bahrain,Bahrain,Myanmar,1401,1060,4,1,3,-3,1404,1057,106,185,1,0,107,185,20,100,441
+656,Oct 16 2018,Friendly in Belgium,Belgium,Netherlands,2083,1940,1,1,-6,6,2077,1946,3,5,0,2,3,7,20,100,243
+657,Oct 16 2018,African Nations Cup qualifier in Benin,Benin,Algeria,1403,1518,1,0,21,-21,1424,1497,98,93,4,-8,102,85,40,100,-15
+658,Oct 16 2018,African Nations Cup qualifier in Botswana,Botswana,Burkina Faso,1319,1563,0,0,8,-8,1327,1555,123,69,2,-2,125,67,40,100,-144
+659,Oct 16 2018,Friendly tournament in Saudi Arabia,Brazil,Argentina,2124,1908,1,0,7,-7,2131,1901,1,12,0,0,1,12,30,0,216
+660,Oct 16 2018,African Nations Cup qualifier in Burundi,Burundi,Mali,1344,1514,1,1,4,-4,1348,1510,118,75,1,2,119,77,40,100,-70
+661,Oct 16 2018,Friendly in Cambodia,Cambodia,Singapore,802,1062,1,2,-6,6,796,1068,207,179,0,2,207,181,20,100,-160
+662,Oct 16 2018,CONCACAF Nations League q in Canada,Canada,Dominica,1535,1032,5,0,2,-2,1537,1030,72,188,0,0,72,188,20,0,503
+663,Oct 16 2018,Friendly in China,China,Syria,1518,1601,2,0,14,-14,1532,1587,71,63,3,-3,74,60,20,100,17
+664,Oct 16 2018,African Nations Cup qualifier in Central African Republic,Central African Republic,Ivory Coast,1320,1617,0,0,10,-10,1330,1607,122,58,2,-2,124,56,30,0,-297
+665,Oct 16 2018,Friendly in the United States,Colombia,Costa Rica,1955,1697,3,1,6,-6,1961,1691,6,43,0,0,6,43,20,0,258
+666,Oct 16 2018,African Nations Cup qualifier in the Comoros,Comoros,Morocco,1042,1723,2,2,19,-19,1061,1704,179,44,4,-4,183,40,40,0,-681
+667,Oct 16 2018,Friendly in Denmark,Denmark,Austria,1887,1753,2,0,6,-6,1893,1747,15,34,0,-3,15,31,20,100,234
+668,Oct 16 2018,Friendly in Qatar,Ecuador,Oman,1747,1529,0,0,-6,6,1741,1535,33,71,-1,2,32,73,20,0,218
+669,Oct 16 2018,African Nations Cup qualifier in Eswatini,Eswatini,Egypt,1236,1586,0,2,-12,12,1224,1598,157,56,-2,2,155,58,40,100,-250
+670,Oct 16 2018,European Nations League A in France,France,Germany,2120,1942,2,1,7,-7,2127,1935,2,10,0,-1,2,9,40,100,278
+671,Oct 16 2018,African Nations Cup qualifier in The Gambia,Gambia,Togo,1293,1374,0,1,-21,21,1272,1395,148,103,-5,6,143,109,40,100,19
+672,Oct 16 2018,European Nations League D in Gibraltar,Gibraltar,Liechtenstein,1107,1154,2,1,17,-17,1124,1137,174,176,1,-3,175,173,30,0,-47
+673,Oct 16 2018,CONCACAF Nations League q in Guadeloupe,Guadeloupe,Aruba,1242,968,0,0,-16,16,1226,984,156,193,-3,1,153,194,40,100,374
+674,Oct 16 2018,CONCACAF Nations League q in Martinique,Haiti,Saint Lucia,1496,1152,2,1,5,-5,1501,1147,79,171,3,0,82,171,40,0,344
+675,Oct 16 2018,Friendly in Indonesia,Indonesia,Hong Kong,1241,1176,1,1,-4,4,1237,1180,151,166,0,1,151,167,20,100,165
+676,Oct 16 2018,Friendly in Iran,Iran,Bolivia,1824,1664,2,1,4,-4,1828,1660,18,49,0,-1,18,48,20,100,260
+677,Oct 16 2018,European Nations League B in Ireland,Ireland,Wales,1716,1772,0,1,-23,23,1693,1795,44,20,-2,3,42,23,40,100,44
+678,Oct 16 2018,Friendly in Japan,Japan,Uruguay,1719,1945,4,3,13,-13,1732,1932,30,13,4,-3,34,10,20,100,-126
+679,Oct 16 2018,European Nations League D in Kazakhstan,Kazakhstan,Andorra,1336,1065,4,0,8,-8,1344,1057,123,188,-1,-3,122,185,40,100,371
+680,Oct 16 2018,Friendly in Laos,Laos,Mongolia,755,691,1,4,-25,25,730,716,215,211,-1,5,214,216,20,100,164
+681,Oct 16 2018,European Nations League D in Latvia,Latvia,Georgia,1321,1532,0,3,-24,24,1297,1556,143,59,-9,7,134,66,40,100,-111
+682,Oct 16 2018,African Nations Cup qualifier in Lesotho,Lesotho,Uganda,1310,1427,0,2,-29,29,1281,1456,144,83,-6,8,138,91,40,100,-17
+683,Oct 16 2018,African Nations Cup qualifier in Liberia,Liberia,Congo,1299,1408,2,1,21,-21,1320,1387,120,121,8,-8,128,113,40,100,-9
+684,Oct 16 2018,African Nations Cup qualifier in Madagascar,Madagascar,Equatorial Guinea,1379,1311,1,0,11,-11,1390,1300,108,135,2,-2,110,133,40,100,168
+685,Oct 16 2018,African Nations Cup qualifier in Malawi,Malawi,Cameroon,1266,1628,0,0,13,-13,1279,1615,135,53,4,0,139,53,40,100,-262
+686,Oct 16 2018,Friendly in Malaysia,Malaysia,Kyrgyzstan,1068,1256,0,1,-8,8,1060,1264,187,144,-3,2,184,146,20,100,-88
+687,Oct 16 2018,CONCACAF Nations League q in Martinique,Martinique,British Virgin Islands,1445,645,4,0,0,0,1445,645,96,227,0,0,96,227,20,0,800
+688,Oct 16 2018,African Nations Cup qualifier in Mauritania,Mauritania,Angola,1329,1308,1,0,13,-13,1342,1295,124,137,-1,-2,123,135,40,100,121
+689,Oct 16 2018,Friendly in Mexico,Mexico,Chile,1813,1852,0,1,-12,12,1801,1864,22,17,-1,0,21,17,20,100,61
+690,Oct 16 2018,African Nations Cup qualifier in Namibia,Namibia,Mozambique,1379,1286,1,0,10,-10,1389,1276,110,143,1,-2,111,141,40,100,193
+691,Oct 16 2018,African Nations Cup qualifier in Niger,Niger,Tunisia,1297,1672,1,2,-7,7,1290,1679,135,44,1,1,136,45,40,100,-275
+692,Oct 16 2018,African Nations Cup qualifier in Tunisia,Nigeria,Libya,1718,1475,3,2,8,-8,1726,1467,35,87,2,0,37,87,40,0,243
+693,Oct 16 2018,European Nations League C in Norway,Norway,Bulgaria,1643,1660,1,0,15,-15,1658,1645,48,51,1,-1,49,50,40,100,83
+694,Oct 16 2018,African Nations Cup qualifier in Rwanda,Rwanda,Guinea,1264,1473,1,1,6,-6,1270,1467,143,86,1,1,144,87,40,100,-109
+695,Oct 16 2018,African Nations Cup qualifier in the Seychelles,Seychelles,South Africa,960,1561,0,0,18,-18,978,1543,193,74,2,-3,195,71,40,100,-501
+696,Oct 16 2018,European Nations League C in Slovenia,Slovenia,Cyprus,1563,1416,1,1,-12,12,1551,1428,73,97,-4,3,69,100,40,100,247
+697,Oct 16 2018,Friendly in South Korea,South Korea,Panama,1779,1575,2,2,-7,7,1772,1582,28,61,-2,0,26,61,20,100,304
+698,Oct 16 2018,African Nations Cup qualifier in South Sudan,South Sudan,Gabon,1045,1420,0,1,-7,7,1038,1427,188,101,-1,0,187,101,40,100,-275
+699,Oct 16 2018,African Nations Cup qualifier in Sudan,Sudan,Senegal,1232,1749,0,1,-3,3,1229,1752,150,26,2,2,152,28,40,100,-417
+700,Oct 16 2018,Friendly in Sweden,Sweden,Slovakia,1819,1728,1,1,-5,5,1814,1733,19,32,0,1,19,33,20,100,191
+701,Oct 16 2018,African Nations Cup qualifier in Tanzania,Tanzania,Cape Verde,1313,1451,2,0,33,-33,1346,1418,112,118,8,-13,120,105,40,100,-38
+702,Oct 16 2018,European Nations League B in Ukraine,Ukraine,Czechia,1794,1708,1,0,10,-10,1804,1698,17,40,3,1,20,41,40,100,186
+703,Oct 16 2018,Friendly in the United States,United States,Peru,1754,1896,1,1,1,-1,1755,1895,27,15,0,-1,27,14,20,100,-42
+704,Oct 16 2018,Friendly in Uzbekistan,Uzbekistan,Qatar,1596,1521,2,0,8,-8,1604,1513,56,76,1,0,57,76,20,100,175
+705,Oct 16 2018,Friendly in Spain,Venezuela,United Arab Emirates,1746,1506,2,0,6,-6,1752,1500,24,84,4,-1,28,83,20,0,240
+706,Oct 16 2018,African Nations Cup qualifier in Zimbabwe,Zimbabwe,DR Congo,1501,1547,1,1,-3,3,1498,1550,84,70,0,0,84,70,40,100,54
+707,Nov 3 2018,Friendly in Malaysia,Malaysia,Maldives,1060,988,3,0,9,-9,1069,979,178,195,3,-1,181,194,20,100,172
+708,Nov 8 2018,Southeast Asian Champ in Cambodia,Cambodia,Malaysia,796,1069,0,1,-11,11,785,1080,213,175,-3,3,210,178,40,100,-173
+709,Nov 8 2018,Southeast Asian Champ in Laos,Laos,Vietnam,730,1285,0,3,-5,5,725,1290,214,135,0,1,214,136,40,100,-455
+710,Nov 9 2018,Southeast Asian Champ in Singapore,Singapore,Indonesia,1068,1237,1,0,24,-24,1092,1213,172,165,5,-7,177,158,40,100,-69
+711,Nov 9 2018,Southeast Asian Champ in Thailand,Thailand,East Timor,1398,650,7,0,1,-1,1399,649,108,226,0,0,108,226,20,0,748
+712,Nov 11 2018,East Asian Championship qual in Taiwan,North Korea,Mongolia,1450,716,4,1,1,-1,1451,715,93,216,0,0,93,216,20,0,734
+713,Nov 11 2018,East Asian Championship qual in Taiwan,Taiwan,Hong Kong,990,1180,1,2,-15,15,975,1195,198,161,-3,3,195,164,40,100,-90
+714,Nov 12 2018,Southeast Asian Champ in Malaysia,Malaysia,Laos,1080,725,3,1,4,-4,1084,721,179,214,0,0,179,214,40,100,455
+715,Nov 12 2018,Southeast Asian Champ in Myanmar,Myanmar,Cambodia,1057,785,4,1,7,-7,1064,778,181,212,2,-1,183,211,40,100,372
+716,Nov 13 2018,East Asian Championship qual in Taiwan,Hong Kong,North Korea,1195,1451,0,0,13,-13,1208,1438,158,103,3,-5,161,98,40,0,-256
+717,Nov 13 2018,Southeast Asian Champ in Indonesia,Indonesia,East Timor,1213,649,3,1,1,-1,1214,648,158,226,0,0,158,226,20,0,564
+718,Nov 13 2018,Southeast Asian Champ in the Philippines,Philippines,Singapore,1186,1092,1,0,10,-10,1196,1082,163,181,2,-2,165,179,40,100,194
+719,Nov 13 2018,East Asian Championship qual in Taiwan,Taiwan,Mongolia,975,715,2,1,4,-4,979,711,191,216,2,0,193,216,20,0,260
+720,Nov 14 2018,Friendly in Switzerland,Switzerland,Qatar,1896,1513,0,1,-19,19,1877,1532,19,72,-3,2,16,74,20,100,483
+721,Nov 14 2018,Friendly in Vanuatu,Vanuatu,New Caledonia,1225,1206,0,1,-13,13,1212,1219,167,149,-7,7,160,156,20,100,119
+722,Nov 15 2018,European Nations League D in Andorra,Andorra,Georgia,1057,1556,1,1,16,-16,1073,1540,178,76,4,-5,182,71,40,100,-399
+723,Nov 15 2018,European Nations League B in Austria,Austria,Bosnia and Herzegovina,1747,1795,0,0,-3,3,1744,1798,31,21,0,1,31,22,40,100,52
+724,Nov 15 2018,European Nations League A in Belgium,Belgium,Iceland,2077,1675,2,0,3,-3,2080,1672,3,46,0,0,3,46,20,0,402
+725,Nov 15 2018,European Nations League A in Croatia,Croatia,Spain,1918,2029,3,2,21,-21,1939,2008,9,4,1,0,10,4,40,100,-11
+726,Nov 15 2018,Friendly in England,England,United States,1940,1755,3,0,6,-6,1946,1749,6,33,1,-3,7,30,20,100,285
+727,Nov 15 2018,Friendly in Germany,Germany,Russia,1935,1776,3,0,6,-6,1941,1770,9,27,0,-1,9,26,20,100,259
+728,Nov 15 2018,European Nations League C in Greece,Greece,Finland,1631,1664,1,0,16,-16,1647,1648,48,51,2,-2,50,49,30,0,-33
+729,Nov 15 2018,European Nations League C in Hungary,Hungary,Estonia,1570,1447,2,0,13,-13,1583,1434,59,102,2,-4,61,98,40,100,223
+730,Nov 15 2018,Friendly in Iran,Iran,Trinidad and Tobago,1828,1435,1,0,1,-1,1829,1434,18,97,0,1,18,98,20,100,493
+731,Nov 15 2018,Friendly in Ireland,Ireland,Northern Ireland,1693,1638,0,0,-4,4,1689,1642,44,53,-1,-1,43,52,20,100,155
+732,Nov 15 2018,Friendly in Israel,Israel,Guatemala,1555,1509,7,0,14,-14,1569,1495,61,92,3,-7,64,85,20,100,146
+733,Nov 15 2018,European Nations League D in Kazakhstan,Kazakhstan,Latvia,1344,1297,1,1,-8,8,1336,1305,124,128,-1,3,123,131,40,100,147
+734,Nov 15 2018,Friendly in Australia,Lebanon,Uzbekistan,1460,1604,0,0,4,-4,1464,1600,90,57,0,0,90,57,20,0,-144
+735,Nov 15 2018,European Nations League D in Luxembourg,Luxembourg,Belarus,1369,1509,0,2,-27,27,1342,1536,125,68,-4,5,121,73,40,100,-40
+736,Nov 15 2018,Friendly in Peru,Peru,Ecuador,1895,1741,0,2,-24,24,1871,1765,19,22,-3,5,16,27,20,100,254
+737,Nov 15 2018,Friendly in Poland,Poland,Czechia,1751,1698,0,1,-14,14,1737,1712,34,37,-2,2,32,39,20,100,153
+738,Nov 15 2018,European Nations League D in San Marino,San Marino,Moldova,841,1325,0,1,-4,4,837,1329,206,123,-1,2,205,125,40,100,-384
+739,Nov 16 2018,Friendly in Argentina,Argentina,Mexico,1901,1801,2,0,7,-7,1908,1794,14,23,-1,-1,13,22,20,100,200
+740,Nov 16 2018,CONCACAF Nations League q in Curaçao,Aruba,Montserrat,984,670,0,2,-52,52,932,722,206,203,-7,11,199,214,40,0,314
+741,Nov 16 2018,CONCACAF Nations League q in Belize,Belize,Puerto Rico,1147,1016,1,0,8,-8,1155,1008,171,189,0,0,171,189,40,100,231
+742,Nov 16 2018,CONCACAF Nations League q in Bermuda,Bermuda,El Salvador,1152,1476,1,0,31,-31,1183,1445,166,102,2,-8,168,94,40,100,-224
+743,Nov 16 2018,Friendly in England,Brazil,Uruguay,2131,1932,1,0,5,-5,2136,1927,1,11,0,0,1,11,20,0,199
+744,Nov 16 2018,Friendly in Chile,Chile,Costa Rica,1864,1691,2,3,-17,17,1847,1708,17,42,0,0,17,42,20,100,273
+745,Nov 16 2018,European Nations League C in Cyprus,Cyprus,Bulgaria,1428,1645,1,1,6,-6,1434,1639,96,53,2,-1,98,52,20,0,-217
+746,Nov 16 2018,African Nations Cup qualifier in Egypt,Egypt,Tunisia,1598,1679,3,2,19,-19,1617,1660,48,47,5,-1,53,46,40,100,19
+747,Nov 16 2018,European Nations League D in Gibraltar,Gibraltar,Armenia,1124,1445,2,6,-16,16,1108,1461,177,86,-1,4,176,90,40,100,-221
+748,Nov 16 2018,CONCACAF Nations League q in Grenada,Grenada,Saint Martin,1062,838,5,2,9,-9,1071,829,185,206,0,-1,185,205,40,100,324
+749,Nov 16 2018,Friendly in Honduras,Honduras,Panama,1588,1582,1,0,7,-7,1595,1575,59,64,0,-1,59,63,20,100,106
+750,Nov 16 2018,East Asian Championship qual in Taiwan,Hong Kong,Mongolia,1208,711,5,1,4,-4,1212,707,158,218,2,-1,160,217,40,0,497
+751,Nov 16 2018,Friendly in Japan,Japan,Venezuela,1732,1752,1,1,-2,2,1730,1754,34,30,0,-1,34,29,20,100,80
+752,Nov 16 2018,Southeast Asian Champ in Laos,Laos,Myanmar,721,1064,1,3,-12,12,709,1076,218,176,-2,4,216,180,40,100,-243
+753,Nov 16 2018,European Nations League D in Liechtenstein,Liechtenstein,Macedonia,1137,1504,0,2,-11,11,1126,1515,175,77,-1,1,174,78,40,100,-267
+754,Nov 16 2018,African Nations Cup qualifier in Morocco,Morocco,Cameroon,1704,1615,2,0,15,-15,1719,1600,37,61,2,-4,39,57,40,100,189
+755,Nov 16 2018,European Nations League A in the Netherlands,Netherlands,France,1946,2127,2,0,37,-37,1983,2090,3,2,2,0,5,2,40,100,-81
+756,Nov 16 2018,Friendly in Oman,Oman,Syria,1535,1587,1,1,-1,1,1534,1588,74,60,0,0,74,60,20,100,48
+757,Nov 16 2018,Friendly in Palestine,Palestine,Pakistan,1376,936,2,1,1,-1,1377,935,115,197,0,1,115,198,20,0,440
+758,Nov 16 2018,Friendly in Saudi Arabia,Saudi Arabia,Yemen,1575,1194,1,0,1,-1,1576,1193,61,168,1,-1,62,167,20,100,481
+759,Nov 16 2018,European Nations League B in Slovakia,Slovakia,Ukraine,1733,1804,4,1,32,-32,1765,1772,21,28,6,-4,27,24,30,0,-71
+760,Nov 16 2018,European Nations League C in Slovenia,Slovenia,Norway,1551,1658,1,1,0,0,1551,1658,68,46,0,1,68,47,20,100,-7
+761,Nov 16 2018,African Nations Cup qualifier in South Sudan,South Sudan,Burundi,1038,1348,2,5,-16,16,1022,1364,189,116,-1,1,188,117,40,100,-210
+762,Nov 16 2018,East Asian Championship qual in Taiwan,Taiwan,North Korea,979,1438,0,2,-7,7,972,1445,197,91,-2,3,195,94,40,100,-359
+763,Nov 16 2018,Friendly in the United Arab Emirates,United Arab Emirates,Bolivia,1500,1660,0,0,2,-2,1502,1658,80,47,1,0,81,47,20,100,-60
+764,Nov 16 2018,Southeast Asian Champ in Vietnam,Vietnam,Malaysia,1290,1084,2,0,9,-9,1299,1075,134,186,1,-4,135,182,40,100,306
+765,Nov 16 2018,European Nations League B in Wales,Wales,Denmark,1795,1893,1,2,-20,20,1775,1913,22,11,1,1,23,12,40,100,2
+766,Nov 17 2018,European Nations League C in Albania,Albania,Scotland,1532,1682,0,4,-32,32,1500,1714,89,36,-7,4,82,40,40,100,-50
+767,Nov 17 2018,Friendly in Australia,Australia,South Korea,1722,1772,1,1,-1,1,1721,1773,36,24,1,0,37,24,20,100,50
+768,Nov 17 2018,European Nations League D in Azerbaijan,Azerbaijan,Faroe Islands,1413,1265,2,0,12,-12,1425,1253,96,151,5,-3,101,148,40,100,248
+769,Nov 17 2018,CONCACAF Nations League q in the Cayman Islands,Cayman Islands,Saint Lucia,939,1147,0,0,6,-6,945,1141,197,172,0,0,197,172,40,100,-108
+770,Nov 17 2018,African Nations Cup qualifier in the Comoros,Comoros,Malawi,1061,1279,2,1,27,-27,1088,1252,170,159,8,-10,178,149,40,100,-118
+771,Nov 17 2018,CONCACAF Nations League q in Cuba,Cuba,Dominican Republic,1327,1277,1,0,12,-12,1339,1265,120,146,3,-3,123,143,40,100,150
+772,Nov 17 2018,African Nations Cup qualifier in Equatorial Guinea,Equatorial Guinea,Senegal,1300,1752,0,1,-5,5,1295,1757,136,28,-1,1,135,29,40,100,-352
+773,Nov 17 2018,African Nations Cup qualifier in Gabon,Gabon,Mali,1427,1510,0,1,-21,21,1406,1531,109,75,-4,2,105,77,40,100,17
+774,Nov 17 2018,African Nations Cup qualifier in The Gambia,Gambia,Benin,1272,1424,3,1,34,-34,1306,1390,121,116,11,-7,132,109,40,100,-52
+775,Nov 17 2018,European Nations League A in Italy,Italy,Portugal,1884,1974,0,0,-1,1,1883,1975,14,6,0,0,14,6,40,100,10
+776,Nov 17 2018,CONCACAF Nations League q in Jamaica,Jamaica,Suriname,1566,1263,2,1,4,-4,1570,1259,63,143,1,2,64,145,30,0,303
+777,Nov 17 2018,Friendly in Jordan,Jordan,India,1465,1213,2,1,2,-2,1467,1211,90,159,-1,0,89,159,20,100,352
+778,Nov 17 2018,European Nations League D in Malta,Malta,Kosovo,1204,1449,0,5,-24,24,1180,1473,172,81,-4,6,168,87,40,100,-145
+779,Nov 17 2018,African Nations Cup qualifier in Namibia,Namibia,Guinea-Bissau,1389,1305,0,0,-10,10,1379,1315,117,127,-3,2,114,129,40,100,184
+780,Nov 17 2018,CONCACAF Nations League q in Nicaragua,Nicaragua,Haiti,1303,1501,0,2,-22,22,1281,1523,143,74,-5,4,138,78,40,100,-98
+781,Nov 17 2018,Southeast Asian Champ in Malaysia,Philippines,East Timor,1196,648,3,2,2,-2,1198,646,163,226,1,0,164,226,40,0,548
+782,Nov 17 2018,European Nations League C in Romania,Romania,Lithuania,1730,1345,3,0,4,-4,1734,1341,34,124,0,-2,34,122,40,100,485
+783,Nov 17 2018,European Nations League C in Serbia,Serbia,Montenegro,1797,1615,2,1,7,-7,1804,1608,19,56,1,-1,20,55,40,100,282
+784,Nov 17 2018,African Nations Cup qualifier in the Seychelles,Seychelles,Libya,978,1467,1,8,-9,9,969,1476,197,86,-2,0,195,86,40,100,-389
+785,Nov 17 2018,African Nations Cup qualifier in South Africa,South Africa,Nigeria,1543,1726,1,1,5,-5,1548,1721,70,37,0,0,70,37,20,0,-183
+786,Nov 17 2018,Southeast Asian Champ in Thailand,Thailand,Indonesia,1399,1214,4,2,10,-10,1409,1204,100,168,4,-5,104,163,40,100,285
+787,Nov 17 2018,European Nations League B in Turkey,Turkey,Sweden,1712,1814,0,1,-20,20,1692,1834,46,17,-3,1,43,18,40,100,-2
+788,Nov 17 2018,African Nations Cup qualifier in Uganda,Uganda,Cape Verde,1456,1418,1,0,12,-12,1468,1406,85,105,3,0,88,105,40,100,138
+789,Nov 17 2018,Friendly in Vanuatu,Vanuatu,New Caledonia,1212,1219,2,2,-3,3,1209,1222,162,154,-1,1,161,155,20,100,93
+790,Nov 18 2018,African Nations Cup qualifier in Angola,Angola,Burkina Faso,1295,1555,2,1,29,-29,1324,1526,119,89,8,-11,127,78,40,100,-160
+791,Nov 18 2018,CONCACAF Nations League q in the Bahamas,Bahamas,Anguilla,872,568,1,1,-16,16,856,584,202,229,0,1,202,230,40,100,404
+792,Nov 18 2018,CONCACAF Nations League q in Barbados,Barbados,US Virgin Islands,1131,718,3,0,3,-3,1134,715,173,215,0,0,173,215,20,0,413
+793,Nov 18 2018,African Nations Cup qualifier in Congo,Congo,DR Congo,1387,1550,1,1,4,-4,1391,1546,104,71,4,-1,108,70,20,0,-163
+794,Nov 18 2018,European Nations League A in England,England,Croatia,1946,1939,2,1,14,-14,1960,1925,8,12,0,-1,8,11,40,100,107
+795,Nov 18 2018,African Nations Cup qualifier in Eswatini,Eswatini,Niger,1224,1290,1,2,-22,22,1202,1312,173,125,-10,6,163,131,40,100,34
+796,Nov 18 2018,African Nations Cup qualifier in Ethiopia,Ethiopia,Ghana,1274,1613,0,2,-12,12,1262,1625,149,46,-4,4,145,50,40,100,-239
+797,Nov 18 2018,European Nations League C in Greece,Greece,Estonia,1647,1434,0,1,-34,34,1613,1468,58,80,-4,9,54,89,40,100,313
+798,Nov 18 2018,African Nations Cup qualifier in Guinea,Guinea,Ivory Coast,1467,1607,1,1,2,-2,1469,1605,87,58,1,-1,88,57,30,100,-40
+799,Nov 18 2018,European Nations League C in Hungary,Hungary,Finland,1583,1648,2,0,27,-27,1610,1621,49,55,6,-3,55,52,30,0,-65
+800,Nov 18 2018,African Nations Cup qualifier in Lesotho,Lesotho,Tanzania,1281,1346,1,0,18,-18,1299,1328,136,133,1,-7,137,126,30,0,-65
+801,Nov 18 2018,African Nations Cup qualifier in Liberia,Liberia,Zimbabwe,1320,1498,1,0,24,-24,1344,1474,112,89,8,-3,120,86,40,100,-78
+802,Nov 18 2018,African Nations Cup qualifier in Madagascar,Madagascar,Sudan,1390,1229,1,3,-49,49,1341,1278,133,131,-12,10,121,141,40,100,261
+803,Nov 18 2018,African Nations Cup qualifier in Mauritania,Mauritania,Botswana,1342,1327,2,1,14,-14,1356,1313,116,133,2,-3,118,130,30,0,15
+804,Nov 18 2018,European Nations League D in Moldova,Moldova,Luxembourg,1329,1342,1,1,-5,5,1324,1347,128,118,-1,1,127,119,40,100,87
+805,Nov 18 2018,African Nations Cup qualifier in Mozambique,Mozambique,Zambia,1276,1440,1,0,24,-24,1300,1416,132,109,4,-6,136,103,40,100,-64
+806,Nov 18 2018,European Nations League B in Northern Ireland,Northern Ireland,Austria,1642,1744,1,2,-20,20,1622,1764,51,26,0,3,51,29,40,100,-2
+807,Nov 18 2018,African Nations Cup qualifier in Rwanda,Rwanda,Central African Republic,1270,1330,2,2,-2,2,1268,1332,142,125,0,0,142,125,30,100,40
+808,Nov 18 2018,European Nations League D in San Marino,San Marino,Belarus,837,1536,0,2,-2,2,835,1538,204,71,0,1,204,72,40,100,-599
+809,Nov 18 2018,Friendly in Spain,Spain,Bosnia and Herzegovina,2008,1798,1,0,3,-3,2011,1795,4,21,0,0,4,21,20,100,310
+810,Nov 18 2018,CONCACAF Nations League q in Saint Kitts and Nevis,Saint Kitts and Nevis,Canada,1257,1537,0,1,-10,10,1247,1547,154,66,-4,3,150,69,40,100,-180
+811,Nov 18 2018,European Nations League A in Switzerland,Switzerland,Belgium,1877,2080,5,2,45,-45,1922,2035,9,3,3,0,12,3,40,100,-103
+812,Nov 18 2018,African Nations Cup qualifier in Togo,Togo,Algeria,1395,1497,1,4,-35,35,1360,1532,124,64,-8,10,116,74,40,100,-2
+813,Nov 18 2018,CONCACAF Nations League q in Turks and Caicos Islands,Turks and Caicos Islands,St Vincent & Grenadines,746,1113,3,2,33,-33,779,1080,209,183,2,-4,211,179,40,100,-267
+814,Nov 19 2018,European Nations League D in Andorra,Andorra,Latvia,1073,1305,0,0,7,-7,1080,1298,174,141,5,-3,179,138,40,100,-132
+815,Nov 19 2018,European Nations League C in Bulgaria,Bulgaria,Slovenia,1639,1551,1,1,-10,10,1629,1561,49,67,0,0,49,67,40,100,188
+816,Nov 19 2018,CONCACAF Nations League q in Curaçao,Curaçao,Guadeloupe,1312,1226,6,0,22,-22,1334,1204,117,170,7,-9,124,161,40,100,186
+817,Nov 19 2018,European Nations League C in Cyprus,Cyprus,Norway,1434,1658,0,2,-20,20,1414,1678,108,43,-5,2,103,45,40,100,-124
+818,Nov 19 2018,European Nations League B in Czechia,Czechia,Slovakia,1712,1765,1,0,17,-17,1729,1748,31,37,5,-5,36,32,30,0,-53
+819,Nov 19 2018,European Nations League B in Denmark,Denmark,Ireland,1913,1689,0,0,-15,15,1898,1704,15,42,-1,1,14,43,40,100,324
+820,Nov 19 2018,European Nations League D in Georgia,Georgia,Kazakhstan,1540,1336,2,1,6,-6,1546,1330,69,128,1,-2,70,126,40,100,304
+821,Nov 19 2018,European Nations League A in Germany,Germany,Netherlands,1941,1983,2,2,-3,3,1938,1986,9,5,0,0,9,5,40,100,58
+822,Nov 19 2018,Friendly in Belgium,Iceland,Qatar,1672,1532,2,2,-4,4,1668,1536,47,74,-1,0,46,74,20,0,140
+823,Nov 19 2018,European Nations League D in Liechtenstein,Liechtenstein,Armenia,1126,1461,2,2,12,-12,1138,1449,172,97,1,-2,173,95,40,100,-235
+824,Nov 19 2018,European Nations League D in Macedonia,Macedonia,Gibraltar,1515,1108,4,0,4,-4,1519,1104,80,175,0,0,80,175,40,100,507
+825,Nov 19 2018,CONCACAF Nations League q in Martinique,Martinique,Antigua and Barbuda,1445,1177,4,2,6,-6,1451,1171,93,169,1,0,94,169,40,100,368
+826,Nov 19 2018,Friendly in Oman,Oman,Bahrain,1534,1404,2,1,4,-4,1538,1400,71,107,1,0,72,107,20,100,230
+827,Nov 20 2018,Friendly in Albania,Albania,Wales,1500,1775,1,0,15,-15,1515,1760,77,31,3,-4,80,27,20,100,-175
+828,Nov 20 2018,Friendly in Argentina,Argentina,Mexico,1908,1794,2,0,7,-7,1915,1787,13,22,0,0,13,22,20,100,214
+829,Nov 20 2018,Friendly in Australia,Australia,Lebanon,1721,1464,3,0,4,-4,1725,1460,38,92,0,0,38,92,20,100,357
+830,Nov 20 2018,Friendly in the United Arab Emirates,Bolivia,Iraq,1658,1562,0,0,-3,3,1655,1565,46,64,1,1,47,65,20,0,96
+831,Nov 20 2018,Friendly in England,Brazil,Cameroon,2136,1600,1,0,1,-1,2137,1599,1,56,0,1,1,57,20,0,536
+832,Nov 20 2018,Southeast Asian Champ in Cambodia,Cambodia,Laos,778,709,3,1,16,-16,794,693,202,224,5,-4,207,220,40,100,169
+833,Nov 20 2018,Friendly in Chile,Chile,Honduras,1847,1595,4,1,4,-4,1851,1591,17,58,0,1,17,59,20,100,352
+834,Nov 20 2018,Friendly in China,China,Palestine,1532,1377,1,1,-6,6,1526,1383,79,109,-2,2,77,111,20,100,255
+835,Nov 20 2018,CONCACAF Nations League q in Anguilla,Dominica,Sint Maarten,1030,828,2,0,14,-14,1044,814,187,206,0,0,187,206,40,0,202
+836,Nov 20 2018,Friendly in El Salvador,El Salvador,Haiti,1445,1523,1,0,9,-9,1454,1514,92,83,2,-2,94,81,20,100,22
+837,Nov 20 2018,Friendly in France,France,Uruguay,2090,1927,1,0,4,-4,2094,1923,2,12,0,-1,2,11,20,100,263
+838,Nov 20 2018,CONCACAF Nations League q in French Guiana,French Guiana,Guyana,1312,1194,2,1,9,-9,1321,1185,128,167,2,-1,130,166,40,100,218
+839,Nov 20 2018,Friendly in Qatar,Iran,Venezuela,1829,1754,1,1,-2,2,1827,1756,19,28,0,1,19,29,20,0,75
+840,Nov 20 2018,Friendly in Belgium,Italy,United States,1883,1749,1,0,6,-6,1889,1743,15,37,0,-3,15,34,20,0,134
+841,Nov 20 2018,Friendly in Japan,Japan,Kyrgyzstan,1730,1264,4,0,1,-1,1731,1263,35,144,0,0,35,144,20,100,566
+842,Nov 20 2018,Friendly in Jordan,Jordan,Saudi Arabia,1467,1576,1,1,0,0,1467,1576,91,62,0,0,91,62,20,100,-9
+843,Nov 20 2018,European Nations League D in Kosovo,Kosovo,Azerbaijan,1473,1425,4,0,22,-22,1495,1403,81,113,3,-7,84,106,40,100,148
+844,Nov 20 2018,Friendly in Kuwait,Kuwait,Syria,1419,1588,1,2,-8,8,1411,1596,103,55,-1,3,102,58,20,100,-69
+845,Nov 20 2018,European Nations League D in Malta,Malta,Faroe Islands,1180,1253,1,1,-2,2,1178,1255,168,146,0,1,168,147,40,100,27
+846,Nov 20 2018,European Nations League C in Montenegro,Montenegro,Romania,1608,1734,0,1,-19,19,1589,1753,66,26,-5,4,61,30,40,100,-26
+847,Nov 20 2018,Southeast Asian Champ in Myanmar,Myanmar,Vietnam,1076,1299,0,0,7,-7,1083,1292,174,142,4,-3,178,139,40,100,-123
+848,Nov 20 2018,Friendly in Nigeria,Nigeria,Uganda,1721,1468,0,0,-8,8,1713,1476,46,83,-4,3,42,86,20,100,353
+849,Nov 20 2018,Friendly in Panama,Panama,Ecuador,1575,1765,1,2,-7,7,1568,1772,65,23,-1,2,64,25,20,100,-90
+850,Nov 20 2018,Friendly in Peru,Peru,Costa Rica,1871,1708,2,3,-16,16,1855,1724,16,38,0,2,16,40,20,100,263
+851,Nov 20 2018,European Nations League A in Portugal,Portugal,Poland,1975,1737,1,1,-15,15,1960,1752,8,31,-1,1,7,32,40,100,338
+852,Nov 20 2018,European Nations League C in Scotland,Scotland,Israel,1714,1569,3,2,8,-8,1722,1561,41,67,0,-1,41,66,40,100,245
+853,Nov 20 2018,European Nations League C in Serbia,Serbia,Lithuania,1804,1341,4,1,3,-3,1807,1338,20,125,0,-2,20,123,30,0,463
+854,Nov 20 2018,Friendly tournament in South Africa,South Africa,Paraguay,1548,1728,1,1,3,-3,1551,1725,68,39,0,-1,68,38,30,100,-80
+855,Nov 20 2018,Friendly in Australia,South Korea,Uzbekistan,1773,1600,4,0,10,-10,1783,1590,22,62,1,-2,23,60,20,0,173
+856,Nov 20 2018,European Nations League B in Sweden,Sweden,Russia,1834,1770,2,0,17,-17,1851,1753,16,34,1,-4,17,30,40,100,164
+857,Nov 20 2018,Friendly in Tunisia,Tunisia,Morocco,1660,1719,0,1,-11,11,1649,1730,49,32,-1,4,48,36,20,100,41
+858,Nov 20 2018,Friendly in Turkey,Turkey,Ukraine,1692,1772,0,0,-1,1,1691,1773,44,23,0,1,44,24,20,100,20
+859,Nov 20 2018,Friendly in the United Arab Emirates,United Arab Emirates,Yemen,1502,1193,2,0,3,-3,1505,1190,82,164,0,1,82,165,20,100,409
+860,Nov 21 2018,Southeast Asian Champ in the Philippines,Philippines,Thailand,1198,1409,1,1,6,-6,1204,1403,158,107,3,-2,161,105,40,100,-111
+861,Nov 21 2018,Southeast Asian Champ in Singapore,Singapore,East Timor,1082,646,6,1,3,-3,1085,643,177,228,1,-1,178,227,20,0,436
+862,Nov 24 2018,Southeast Asian Champ in Malaysia,Malaysia,Myanmar,1075,1083,3,0,26,-26,1101,1057,168,193,8,-7,176,186,40,100,92
+863,Nov 24 2018,Southeast Asian Champ in Vietnam,Vietnam,Cambodia,1292,794,3,0,2,-2,1294,792,139,209,0,-1,139,208,20,0,498
+864,Nov 25 2018,Southeast Asian Champ in Indonesia,Indonesia,Philippines,1204,1204,0,0,-6,6,1198,1210,167,155,-3,3,164,158,40,100,100
+865,Nov 25 2018,Southeast Asian Champ in Thailand,Thailand,Singapore,1403,1085,3,0,6,-6,1409,1079,101,183,2,-2,103,181,40,100,418
+866,Dec 1 2018,Southeast Asian Champ in Malaysia,Malaysia,Thailand,1101,1409,0,0,11,-11,1112,1398,174,111,1,-4,175,107,30,0,-308
+867,Dec 2 2018,Southeast Asian Champ in the Philippines,Philippines,Vietnam,1210,1294,1,2,-21,21,1189,1315,172,123,-7,8,165,131,40,100,16
+868,Dec 5 2018,Southeast Asian Champ in Thailand,Thailand,Malaysia,1398,1112,2,2,-16,16,1382,1128,115,175,-4,0,111,175,40,100,386
+869,Dec 6 2018,Southeast Asian Champ in Vietnam,Vietnam,Philippines,1315,1189,2,1,9,-9,1324,1180,125,169,3,-2,128,167,40,100,226
+870,Dec 11 2018,Southeast Asian Champ in Malaysia,Malaysia,Vietnam,1128,1324,2,2,5,-5,1133,1319,175,134,0,-3,175,131,20,0,-196
+871,Dec 13 2018,Friendly in Oman,Oman,Tajikistan,1538,1220,2,1,2,-2,1540,1218,72,156,0,-1,72,155,20,100,418
+872,Dec 15 2018,Southeast Asian Champ in Vietnam,Vietnam,Malaysia,1319,1133,1,0,6,-6,1325,1127,125,175,3,0,128,175,40,100,286
+873,Dec 16 2018,Friendly in Oman,Oman,Tajikistan,1540,1218,1,0,2,-2,1542,1216,72,155,0,0,72,155,20,100,422
+874,Dec 16 2018,Friendly in Qatar,Palestine,Pakistan,1383,935,2,0,2,-2,1385,933,110,198,0,0,110,198,20,0,448
+875,Dec 20 2018,Friendly in Bahrain,Bahrain,Tajikistan,1400,1216,5,0,7,-7,1407,1209,100,161,3,-3,103,158,20,100,284
+876,Dec 20 2018,Friendly in Qatar,Kyrgyzstan,Jordan,1263,1467,1,0,15,-15,1278,1452,138,97,3,-3,141,94,20,0,-204
+877,Dec 23 2018,Friendly in Qatar,Qatar,Jordan,1536,1452,2,0,8,-8,1544,1444,70,100,2,-3,72,97,20,100,184
+878,Dec 24 2018,Friendly in Qatar,Iran,Palestine,1827,1385,1,1,-9,9,1818,1394,19,104,0,3,19,107,20,0,442
+879,Dec 24 2018,Friendly in Qatar,Iraq,China,1565,1526,2,1,9,-9,1574,1517,61,81,2,-2,63,79,20,0,39
+880,Dec 25 2018,Friendly in Qatar,Qatar,Kyrgyzstan,1544,1278,1,0,2,-2,1546,1276,68,143,2,-1,70,142,20,100,366
+881,Dec 25 2018,Friendly in Turkey,Turkmenistan,Afghanistan,1238,1158,2,0,12,-12,1250,1146,149,172,1,-1,150,171,20,0,80
+882,Dec 25 2018,Friendly in Vietnam,Vietnam,North Korea,1325,1445,1,1,1,-1,1326,1444,128,96,0,0,128,96,20,100,-20
+883,Dec 27 2018,Friendly in Bahrain,Bahrain,Lebanon,1407,1460,1,0,9,-9,1416,1451,97,95,3,-2,100,93,20,100,47
+884,Dec 27 2018,Friendly in the United Arab Emirates,India,Oman,1211,1542,0,0,7,-7,1218,1535,154,75,1,-1,155,74,20,0,-331
+885,Dec 27 2018,Friendly in Qatar,Qatar,Algeria,1546,1532,0,1,-13,13,1533,1545,80,69,-5,3,75,72,20,100,114
+886,Dec 28 2018,Friendly in Turkey,Afghanistan,Turkmenistan,1146,1250,2,2,3,-3,1149,1247,171,150,0,0,171,150,20,0,-104
+887,Dec 28 2018,Friendly in Qatar,China,Jordan,1517,1444,1,1,-2,2,1515,1446,79,96,0,0,79,96,20,0,73
+888,Dec 28 2018,Friendly in Qatar,Iraq,Palestine,1574,1394,1,0,5,-5,1579,1389,61,111,1,-2,62,109,20,0,180
+889,Dec 28 2018,Friendly in the United Arab Emirates,United Arab Emirates,Kuwait,1505,1411,0,2,-23,23,1482,1434,88,93,-3,5,85,98,20,100,194
+890,Dec 29 2018,Friendly in Bahrain,Bahrain,North Korea,1416,1444,4,0,15,-15,1431,1429,97,103,2,-3,99,100,20,100,72
+891,Dec 30 2018,Friendly in the United Arab Emirates,Australia,Oman,1725,1535,5,0,10,-10,1735,1525,32,80,3,-3,35,77,20,0,190
+892,Dec 30 2018,Friendly in the United Arab Emirates,Syria,Yemen,1596,1190,1,0,2,-2,1598,1188,58,164,0,0,58,164,20,0,406
+893,Dec 31 2018,Friendly in Qatar,Kyrgyzstan,Palestine,1276,1389,2,1,13,-13,1289,1376,138,117,2,-4,140,113,20,0,-113
+894,Dec 31 2018,Friendly in Qatar,Qatar,Iran,1533,1818,1,2,-5,5,1528,1823,76,19,-1,0,75,19,20,100,-185
+895,Dec 31 2018,Friendly in the United Arab Emirates,Saudi Arabia,South Korea,1576,1783,0,0,5,-5,1581,1778,61,23,1,0,62,23,20,0,-207
+896,Dec 31 2018,Friendly in Qatar,Vietnam,Philippines,1326,1180,4,2,9,-9,1335,1171,120,169,4,-1,124,168,20,0,146
